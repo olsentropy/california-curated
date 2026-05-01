@@ -100,6 +100,19 @@ h4 { font-size: 1.15rem; }
 	margin: 1.5em auto;
 	border-radius: var(--cc-radius);
 }
+/* When a paragraph contains an image, style any text in it as a caption.
+   Catches the common WordPress export pattern of an <img> followed by
+   caption text inside the same <p>. The image itself is unaffected because
+   font-size / font-style don't apply to <img>. */
+.prose p:has(img) {
+	text-align: center;
+	font-size: 0.9rem;
+	font-style: italic;
+	color: var(--cc-muted);
+	line-height: 1.5;
+	margin-top: 1.75em;
+	margin-bottom: 1.75em;
+}
 .prose a {
 	color: var(--cc-blue-dark);
 	text-decoration: underline;
