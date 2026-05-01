@@ -2,6 +2,7 @@
 title: "When Muybridge Made Motion Visible in Palo Alto"
 description: "Eadweard Muybridge’s ‘Animal Locomotion’ was the first scientific study to use photography. Now, more than 130 years later, Muybridge’s work is seen as both an innovation in photography and the science of movement."
 pubDate: 2026-01-22
+heroImage: "https://californiacurated.com/wp-content/uploads/2026/01/cc-eadweard-muybridge-detail-bouquet-galloping-1887-collotype-paper-rijksmuseum-amsterdam-netherlands.jpeg"
 wpId: 6939
 wpSlug: "when-muybridge-made-motion-visible-in-palo-alto"
 categories: ["animals", "biology", "history-of-science", "people", "places"]

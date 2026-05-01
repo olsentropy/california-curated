@@ -2,6 +2,7 @@
 title: "The Rich Historical and Geological Past of the Alabama Hills"
 description: "The hills are known for their unique geological formations, including massive rounded boulders and natural arches, and their rich history and cultural significance."
 pubDate: 2023-02-09
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/02/mobius-arch-2.jpg"
 wpId: 1779
 wpSlug: "the-rich-historical-and-geological-past-of-the-alabama-hills"
 categories: ["geology-and-earthquakes", "history-of-science", "places"]

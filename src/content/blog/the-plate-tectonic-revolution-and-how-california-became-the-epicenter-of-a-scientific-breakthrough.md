@@ -2,6 +2,7 @@
 title: "The Plate Tectonic Revolution and How California Became the Epicenter of a Scientific Breakthrough"
 description: "For many geologists, the moment this new understanding solidified was in December 1969, at a groundbreaking conference at the Asilomar Conference Center in California that reshaped the future of the field."
 pubDate: 2025-03-24
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/03/san-andreas-fault.jpg"
 wpId: 5470
 wpSlug: "the-plate-tectonic-revolution-and-how-california-became-the-epicenter-of-a-scientific-breakthrough"
 categories: ["books", "geology-and-earthquakes", "history-of-science", "people", "places"]

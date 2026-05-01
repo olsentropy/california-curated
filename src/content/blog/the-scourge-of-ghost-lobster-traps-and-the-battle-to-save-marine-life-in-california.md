@@ -2,6 +2,7 @@
 title: "The Scourge of Ghost Lobster  Traps and the Battle to Save Marine Life in California"
 description: "Ghost lobster trap off Santa Cruz Island in California's Channel Islands (Photo: Erik Olsen) Lobster is delicious. Let’s just get that out of the way. Yes, I’m sure there are some who either don’t…"
 pubDate: 2025-05-07
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/05/ghost-lobster-trap.jpeg"
 wpId: 5792
 wpSlug: "the-scourge-of-ghost-lobster-traps-and-the-battle-to-save-marine-life-in-california"
 categories: ["animals", "biology", "marine-science", "places", "private-science"]

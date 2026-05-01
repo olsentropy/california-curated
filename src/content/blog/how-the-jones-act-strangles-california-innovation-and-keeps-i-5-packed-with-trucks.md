@@ -2,6 +2,7 @@
 title: "How the Jones Act Strangles California Innovation and Keeps I-5 Packed with Trucks"
 description: "California’s highways are clogged with trucks moving goods that could travel by sea, but the Jones Act makes coastal shipping too costly to scale, locking freight onto crowded roads and limiting a cleaner alternative."
 pubDate: 2026-04-01
+heroImage: "https://substackcdn.com/image/fetch/$s_!lkpf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc0a9fe8-f00e-4a2c-bd8e-89a50ce9a4f7_5464x3070.jpeg"
 wpId: 7192
 wpSlug: "how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks"
 categories: ["cities", "climate-change", "marine-science"]

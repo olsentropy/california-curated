@@ -2,6 +2,7 @@
 title: "Hannes Keller's Deadly 1,000-Foot Descent off Catalina Island Was the Dive of the Century"
 description: "“If a man could go, for instance, to 1,000 feet down and do practical work,” Mr. Keller wrote in The Sydney Morning Herald, “then all the continental shelf zone could be explored, a total of more than 16 million square miles.”"
 pubDate: 2023-08-02
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/catalina-island.png"
 wpId: 2353
 wpSlug: "the-dive-of-the-century-hannes-kellers-1000-foot-descent-off-catalina-island"
 categories: ["biology", "health-and-medicine", "history-of-science", "marine-science", "people", "places", "private-science"]

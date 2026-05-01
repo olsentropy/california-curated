@@ -2,6 +2,7 @@
 title: "Why Are Dinosaur Fossils So Scarce in California?"
 description: "Hadrosaur on ancient California landscape. Hadrosaurs like this AI generated one are among the very few dinosaurs whose fossils have ever been found in California. Support California Curated with a…"
 pubDate: 2023-07-08
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/07/hadrosaur.jpg"
 wpId: 2273
 wpSlug: "chasing-shadows-why-are-dinosaur-fossils-so-scarce-in-california"
 categories: ["animals", "geology-and-earthquakes", "history-of-science", "marine-science", "places"]

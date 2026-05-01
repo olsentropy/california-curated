@@ -2,6 +2,7 @@
 title: "How Theodore Roosevelt's 1903 trip to California gave birth to modern conservation"
 description: "Theodore Roosevelt's 1903 trip to California gave birth to modern conservation."
 pubDate: 2024-08-24
+heroImage: "https://californiacurated.com/wp-content/uploads/2019/08/b817c-crop-0-0-800-600-0-muir_and_roosevelt_restored.jpg"
 wpId: 820
 wpSlug: "how-theodore-roosevelts-1903-trip-to-california-gave-birth-to-modern-conservation"
 categories: ["climate-change", "history-of-science", "people", "places"]

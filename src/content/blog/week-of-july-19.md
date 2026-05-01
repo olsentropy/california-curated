@@ -2,6 +2,7 @@
 title: "California's unheralded role in Apollo 11 // Wildfires, climate change and atmospheric rivers // Marine reserves working even better than thought  // California science news roundup"
 description: "California's unheralded role in Apollo 11 // Wildfires, climate change and atmospheric rivers // Marine reserves working even better than thought  // California science news roundup"
 pubDate: 2019-07-19
+heroImage: "https://californiacurated.com/wp-content/uploads/2019/07/337294main_pg62_as11-40-5903_full-1.jpg"
 wpId: 692
 wpSlug: "week-of-july-19"
 categories: ["climate-change", "marine-science", "space"]

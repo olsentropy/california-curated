@@ -2,6 +2,7 @@
 title: "Transforming California’s Oil Platforms into Marine Sanctuaries"
 description: "Beneath the surface of California’s offshore oil platforms lies one of the most productive ecosystems on Earth. As the state debates whether to remove or reef these massive structures, scientists, divers, and environmental advocates like Blue Latitudes’ Amber Sparks are fighting to keep the life they support alive."
 pubDate: 2025-11-20
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/01/rig-to-reef-life-photo.jpg"
 wpId: 3356
 wpSlug: "transforming-californias-oil-platforms-into-marine-sanctuaries"
 categories: ["animals", "biology", "geology-and-earthquakes", "marine-science", "people", "places"]

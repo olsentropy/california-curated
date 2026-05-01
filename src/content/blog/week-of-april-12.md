@@ -2,6 +2,7 @@
 title: "Mountain lions could disappear by 2050, Hydraulic mining's destructive power, an ode to Yosemite's Lyell glacier, Descanso Gardens' dinosaur era plants, More mosquitos, LAFD drones"
 description: "CalTech's famous fly lab, Saving California's rare fruit, Atomic microscope, Winter snowfall earthquakes, Brain enhancement drugs, Mars copter"
 pubDate: 2019-04-12
+heroImage: "https://californiacurated.com/wp-content/uploads/2019/04/santamonicamountainlion_p35_nps_web.jpg"
 wpId: 426
 wpSlug: "week-of-april-12"
 categories: ["animals", "climate-change", "geology-and-earthquakes", "health-and-medicine", "horticulture"]

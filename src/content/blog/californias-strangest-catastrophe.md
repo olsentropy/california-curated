@@ -2,6 +2,7 @@
 title: "The Salton Sea Was California's Strangest Catastrophe"
 description: "Support California Curated with a small donation. In California’s southeastern desert, the Salton Sea stretches across a wide, shimmering basin, a lake where there shouldn’t be one. At about 340…"
 pubDate: 2025-07-16
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/03/designclass-hypwhvpqb1i-unsplash.jpg"
 wpId: 1784
 wpSlug: "californias-strangest-catastrophe"
 categories: ["agriculture", "animals", "climate-change", "geology-and-earthquakes", "health-and-medicine", "history-of-science"]

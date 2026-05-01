@@ -2,6 +2,7 @@
 title: "Mt. Wilson Observatory in Los Angeles is a Celestial Time Capsule"
 description: "The story of the Mt. Wilson Observatory begins with George Ellery Hale. A visionary, Hale had the foresight to choose Mt. Wilson as the site for his new observatory because of its altitude (at 5,710 feet) and proximity to the Pacific Ocean, making it an ideal spot for stable, clear skies."
 pubDate: 2023-08-10
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/mt.-wilson-olsen.png"
 wpId: 2414
 wpSlug: "mt-wilson-observatory-a-celestial-time-capsule"
 categories: ["cities", "history-of-science", "physics", "places", "space"]

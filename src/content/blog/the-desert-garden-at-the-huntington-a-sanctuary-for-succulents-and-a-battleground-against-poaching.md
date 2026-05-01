@@ -2,6 +2,7 @@
 title: "The Desert Garden at The Huntington is a Sanctuary for Succulents and a Battleground Against Poaching"
 description: "The Huntington Library, Art Museum and Botanical Gardens in San Marino, California, is one of the institutions on the front lines of this battle against plant theft."
 pubDate: 2024-09-17
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/09/huntington-succulent-1.jpg"
 wpId: 3560
 wpSlug: "the-desert-garden-at-the-huntington-a-sanctuary-for-succulents-and-a-battleground-against-poaching"
 categories: ["agriculture", "biology", "horticulture", "places"]

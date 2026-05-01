@@ -2,6 +2,7 @@
 title: "The Lost Island of Santarosae off California’s Coast"
 description: "During the last Ice Age, approximately 20,000 to 25,000 years ago, when sea levels were significantly lower, Santarosae Island was a single, expansive landmass that now comprises most of California’s Channel Islands."
 pubDate: 2024-10-03
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/10/santarosae.jpg"
 wpId: 4120
 wpSlug: "the-lost-island-of-santarosae-off-californias-coast"
 categories: ["animals", "biology", "climate-change", "geology-and-earthquakes", "history-of-science", "marine-science", "places"]

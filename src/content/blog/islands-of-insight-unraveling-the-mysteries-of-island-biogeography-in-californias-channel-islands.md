@@ -2,6 +2,7 @@
 title: "California’s Wild Laboratory and The Evolutionary Wonders of the Channel Islands"
 description: "The Channel Islands of California, an enchanting archipelago, offer a fascinating natural laboratory for the study of island biogeography. This field of biology, which explores the distribution of species and ecosystems in island environments, finds a perfect case study in these islands."
 pubDate: 2025-06-05
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/01/channel-islands-olsen.jpg"
 wpId: 2892
 wpSlug: "islands-of-insight-unraveling-the-mysteries-of-island-biogeography-in-californias-channel-islands"
 categories: ["animals", "biology", "horticulture", "marine-science", "places"]

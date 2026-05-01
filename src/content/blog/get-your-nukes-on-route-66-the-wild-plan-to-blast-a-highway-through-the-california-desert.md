@@ -2,6 +2,7 @@
 title: "Get Your Nukes on Route 66: The Wild Plan to Use Nuclear Weapons to Blast a Highway Through the California Desert"
 description: "...and they shall beat their swords into plowshares, and their spears into pruning hooks: nation shall not lift up sword against nation, neither shall they learn war any more. Micah 4:3 Fake…"
 pubDate: 2024-10-15
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/10/project-carryall.jpg"
 wpId: 4364
 wpSlug: "get-your-nukes-on-route-66-the-wild-plan-to-blast-a-highway-through-the-california-desert"
 categories: ["geology-and-earthquakes"]

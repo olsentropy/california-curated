@@ -2,6 +2,7 @@
 title: "Riding Wave Energy in Los Angeles"
 description: "Turning the steady motion of the Pacific into clean electricity, Eco Wave Power’s pilot at the Port of Los Angeles tests whether wave energy can become a real piece of California’s renewable future."
 pubDate: 2025-09-11
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/09/eco-wave.jpg"
 wpId: 6454
 wpSlug: "riding-wave-energy-in-los-angeles"
 categories: ["cities", "climate-change", "places", "private-science"]

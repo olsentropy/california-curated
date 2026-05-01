@@ -2,6 +2,7 @@
 title: "Berkeley’s Cosmic Breakthrough and the Alvarez Discovery That Rewrote Earth’s History"
 description: "The Alvarez' work led to one of the most significant scientific breakthroughs of the 20th century: the discovery that a massive meteorite impact was responsible for the extinction of the dinosaurs and much of life on Earth."
 pubDate: 2025-03-04
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/03/chicxulub-meteor.jpg"
 wpId: 5328
 wpSlug: "berkeleys-cosmic-breakthrough-and-the-alvarez-discovery-that-rewrote-earths-history"
 categories: ["animals", "biology", "geology-and-earthquakes", "history-of-science", "physics", "places", "space"]

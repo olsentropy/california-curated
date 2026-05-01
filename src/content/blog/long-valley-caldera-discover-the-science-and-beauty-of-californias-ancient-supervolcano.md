@@ -2,6 +2,7 @@
 title: "Long Valley Caldera Discover the Science and Beauty of California's Ancient Supervolcano"
 description: "The Long Valley Caldera in eastern California is an extraordinary geological feature, spanning about 20 miles in length and 11 miles in width. It owes its existence to one of the most dramatic volcanic events in Earth's history, a supereruption that occurred approximately 760,000 years ago."
 pubDate: 2025-02-10
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/01/long-valley-owens-river-road-copy.jpg"
 wpId: 5103
 wpSlug: "long-valley-caldera-discover-the-science-and-beauty-of-californias-ancient-supervolcano"
 categories: ["biology", "geology-and-earthquakes", "places"]

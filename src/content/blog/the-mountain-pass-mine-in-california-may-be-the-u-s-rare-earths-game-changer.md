@@ -2,6 +2,7 @@
 title: "The Mountain Pass Mine in California May Be the U.S. Rare Earths Game Changer"
 description: "With the global race for critical minerals intensifying, MP Materials’ success demonstrates the potential—and challenges—of revitalizing domestic mining infrastructure in an era of heightened resource competition."
 pubDate: 2025-01-29
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/01/mp-materials-mine.jpeg"
 wpId: 5064
 wpSlug: "the-mountain-pass-mine-in-california-may-be-the-u-s-rare-earths-game-changer"
 categories: ["climate-change", "geology-and-earthquakes", "places"]

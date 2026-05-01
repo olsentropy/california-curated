@@ -2,6 +2,7 @@
 title: "Recommended California Science &amp; Nature Videos"
 description: "Would you support us? Just a few bucks. We'd appreciate it! Today’s newsletter is a little different. Instead of one big story focused on a single topic, I put together a short list of some of my…"
 pubDate: 2026-01-15
+heroImage: "https://californiacurated.com/wp-content/uploads/2026/01/california-shooter.jpg"
 wpId: 6899
 wpSlug: "my-favorite-california-science-nature-videos"
 categories: ["geology-and-earthquakes"]

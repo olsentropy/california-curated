@@ -2,6 +2,7 @@
 title: "Navigating the Unseen Current: How the California Current System Shapes Our Ocean, Climate, and Future"
 description: "The California Current, originating from the colder regions up near British Columbia, sweeps its way down toward Baja California, extending laterally several hundred miles offshore into deep oceanic waters off the continental shelf."
 pubDate: 2023-09-07
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/09/easternpacific_vir_2016039_lrg.jpg"
 wpId: 2559
 wpSlug: "navigating-the-unseen-current-how-the-california-current-system-shapes-our-ocean-climate-and-future"
 categories: ["animals", "biology", "climate-change", "geology-and-earthquakes", "marine-science", "places"]

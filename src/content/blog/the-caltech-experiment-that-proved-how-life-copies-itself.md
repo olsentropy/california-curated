@@ -2,6 +2,7 @@
 title: "The Caltech Experiment That Proved How Life Copies Itself"
 description: "The Meselson-Stahl experiment didn’t just prove a point. It told a story about how knowledge is built: carefully, creatively, and with a precision that leaves no room for doubt. It became a model for how science can answer big questions with simple, clean logic and careful experimentation. And it all happened in California."
 pubDate: 2025-07-10
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/07/dna-molecule.jpg"
 wpId: 6165
 wpSlug: "the-caltech-experiment-that-proved-how-life-copies-itself"
 categories: ["biology", "health-and-medicine", "history-of-science", "people", "places"]

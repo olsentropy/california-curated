@@ -2,6 +2,7 @@
 title: "How a Lancaster, California Company is Giving Old EV Batteries a Second Life on the Grid"
 description: "By harnessing the power of old electric vehicle (EV) batteries to store renewable energy, B2U is giving these aging batteries a productive second life and helping enhance the viability of green energy grids. The effort could pave the way for not only improving solar storage but also reusing old batteries that might otherwise end up in landfills or pose environmental hazards."
 pubDate: 2025-01-17
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/01/solar-array-mojave-.jpg"
 wpId: 4865
 wpSlug: "how-a-california-company-is-giving-old-ev-batteries-a-second-life-on-the-grid-in-lancaster"
 categories: ["cities", "climate-change", "places", "private-science"]

@@ -2,6 +2,7 @@
 title: "Roadcut Revelations: Unearthing California’s Deep History Along the Highway"
 description: "Roadcuts in California, those slices through hills and mountainsides made during the construction of roads, are like open books to geologists. They reveal the intricate and often dramatic geological history of the state."
 pubDate: 2023-11-20
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/11/roadcuts-dji_fly_20231118_145934_0024_1700353622752_photo.jpg"
 wpId: 2753
 wpSlug: "roadcut-revelations-unearthing-deep-history-along-the-highway"
 categories: ["books", "geology-and-earthquakes", "history-of-science", "people", "places"]

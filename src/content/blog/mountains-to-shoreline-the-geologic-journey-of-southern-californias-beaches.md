@@ -2,6 +2,7 @@
 title: "Where the Sand on Southern California's Beaches Comes From"
 description: "Beach sand, particularly in Southern California, is primarily composed of quartz and feldspar mixed with silvery mica and milky quartz. These minerals originally existed in the granite of the local mountains, miles from the shoreline."
 pubDate: 2023-07-21
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/07/california-beach.jpg"
 wpId: 2298
 wpSlug: "mountains-to-shoreline-the-geologic-journey-of-southern-californias-beaches"
 categories: ["climate-change", "geology-and-earthquakes", "places"]

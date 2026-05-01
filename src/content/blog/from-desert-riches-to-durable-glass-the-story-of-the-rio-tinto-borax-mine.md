@@ -2,6 +2,7 @@
 title: "From Desert Treasures to Resilient Glass: How a California Boron Mine Transformed the World"
 description: "U.S. Borax borate mine in California (Erik Olsen) Support California Curated with a small donation. Acknowledgment: Many of my stories begin with something I come across while reading. Often, it is a…"
 pubDate: 2024-06-07
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/06/us-borax-borate-mine.jpg"
 wpId: 3241
 wpSlug: "from-desert-riches-to-durable-glass-the-story-of-the-rio-tinto-borax-mine"
 categories: ["geology-and-earthquakes", "health-and-medicine", "history-of-science", "people", "places"]

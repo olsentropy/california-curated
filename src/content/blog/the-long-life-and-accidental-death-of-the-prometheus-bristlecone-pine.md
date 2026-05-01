@@ -2,6 +2,7 @@
 title: "The Long Life and Accidental Death of the Prometheus Bristlecone Pine"
 description: "Yet, in an ironic twist of fate, one of these seemingly invincible trees—known as Prometheus—fell not to the ravages of nature, but to the hand of man."
 pubDate: 2023-06-09
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/06/bristlecone-olsen.jpg"
 wpId: 2060
 wpSlug: "the-long-life-and-accidental-death-of-the-prometheus-bristlecone-pine"
 categories: ["biology", "climate-change", "history-of-science", "horticulture", "places"]

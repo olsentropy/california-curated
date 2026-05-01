@@ -2,6 +2,7 @@
 title: "California’s Western Fence Lizards Are Evolving in Real-time in Response to Urbanization"
 description: "Western fence lizards are an excellent local example of what called urban ecology. Urban ecology is the study of the relationships between living organisms and their environment in urban areas."
 pubDate: 2024-10-08
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/04/western-fence-lizard-in-california.jpg"
 wpId: 1927
 wpSlug: "the-western-fence-lizard-the-world-of-scaly-sunbathing-acrobats"
 categories: ["animals", "biology", "cities"]

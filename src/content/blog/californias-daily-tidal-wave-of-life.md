@@ -2,6 +2,7 @@
 title: "California’s Daily Tidal Wave of Life"
 description: "Every day, trillions of marine animals migrate up and down through the ocean in the largest daily movement of biomass on Earth. California’s exceptionally productive waters, and research hubs like MBARI near Moss Landing, make the state one of the best places in the world to observe and study this vast, invisible pulse of life."
 pubDate: 2026-02-04
+heroImage: "https://californiacurated.com/wp-content/uploads/2026/02/lobate-ctenophore.jpg"
 wpId: 7001
 wpSlug: "californias-daily-tidal-wave-of-life"
 categories: ["animals", "biology", "climate-change", "marine-science", "places"]

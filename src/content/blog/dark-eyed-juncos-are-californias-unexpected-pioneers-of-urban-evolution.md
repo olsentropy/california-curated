@@ -2,6 +2,7 @@
 title: "California’s Dark-Eyed Juncos Are Quietly Evolving in Plain Sight"
 description: "One of the most compelling examples of urban ecology at work is the story of the dark-eyed junco (Junco hyemalis), a small songbird traditionally found in mountainous forests, now thriving in urban environments like San Diego and Los Angeles."
 pubDate: 2024-12-10
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/12/ubf-2-virgin-mary-2.jpg"
 wpId: 4219
 wpSlug: "dark-eyed-juncos-are-californias-unexpected-pioneers-of-urban-evolution"
 categories: ["animals", "biology", "birds", "places"]

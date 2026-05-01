@@ -2,6 +2,7 @@
 title: "California's SLAC and the Mission to Unveil the Mysteries of Matter and the Cosmos"
 description: "Since its inception in 1962, originally as the Stanford Linear Accelerator Center (as it was previously known), it has been on the forefront of scientific discovery in numerous scientific disciplines. It is truly one of the nation’s great scientific institutions, being at the forefront of numerous major discoveries that have deeply impacted - and will impact - the world."
 pubDate: 2023-11-22
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/11/slac-history.webp"
 wpId: 2771
 wpSlug: "frontiers-of-discovery-slacs-mission-to-unveil-the-mysteries-of-matter-and-the-cosmos"
 categories: ["biology", "climate-change", "health-and-medicine", "history-of-science", "physics", "places"]

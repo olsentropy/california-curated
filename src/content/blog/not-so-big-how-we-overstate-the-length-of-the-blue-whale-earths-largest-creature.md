@@ -2,6 +2,7 @@
 title: "The Myth of the 100-foot Whale"
 description: "So, according to the best records we have, the largest blue whale ever properly measured was 98 feet long. Granted, 98 feet is close to 100 feet, but it’s not 100 feet, and it’s certainly not over 100 feet, as so many otherwise reputable references state."
 pubDate: 2025-10-23
+heroImage: "https://californiacurated.com/wp-content/uploads/2020/04/blue-whale-image-california-newport.jpg"
 wpId: 6624
 wpSlug: "not-so-big-how-we-overstate-the-length-of-the-blue-whale-earths-largest-creature"
 categories: ["animals", "biology", "history-of-science", "marine-science"]

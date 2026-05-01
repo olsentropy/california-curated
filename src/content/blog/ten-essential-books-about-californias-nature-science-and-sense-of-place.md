@@ -2,6 +2,7 @@
 title: "Ten Essential Books About California’s Nature, Science, and Sense of Place"
 description: "I’m an avid reader, and over the past decade I’ve dedicated a large section of my bookshelf to books about California—its wild side, its nature, and its scientific wonders."
 pubDate: 2025-11-03
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/11/books-joshua-tree.jpg"
 wpId: 6644
 wpSlug: "ten-essential-books-about-californias-nature-science-and-sense-of-place"
 categories: ["agriculture", "animals", "biology", "birds", "books", "cities", "climate-change", "geology-and-earthquakes", "horticulture", "indigenous-culture", "marine-science", "people", "places"]

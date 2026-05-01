@@ -2,6 +2,7 @@
 title: "The Desert Tortoise: A Resilient Survivor of the Mojave"
 description: "a close-up of a desert tortoise The Mojave Desert, a harsh yet strikingly beautiful landscape that extends across four western U.S. states, is home to an equally fascinating and resilient creature:…"
 pubDate: 2023-05-15
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/05/tortoise.png"
 wpId: 2011
 wpSlug: "the-desert-tortoise-a-resilient-survivor-of-the-mojave"
 categories: ["animals", "climate-change"]

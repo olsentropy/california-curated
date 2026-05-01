@@ -2,6 +2,7 @@
 title: "The Valley That Feeds a Nation"
 description: "When it comes to a geological feature that has quietly shaped daily life in California more than almost any other, we should consider the Central Valley, arguably the state’s most important geological masterpiece."
 pubDate: 2026-02-12
+heroImage: "https://californiacurated.com/wp-content/uploads/2026/02/central-valley-farms.jpg"
 wpId: 7020
 wpSlug: "the-valley-that-feeds-a-nation"
 categories: ["agriculture", "cities", "geology-and-earthquakes", "horticulture", "places"]

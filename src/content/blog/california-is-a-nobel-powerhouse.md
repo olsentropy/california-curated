@@ -2,6 +2,7 @@
 title: "California Is a Nobel Powerhouse"
 description: "The University of California system now counts 74 Nobel Prizes among its faculty and researchers. 23 in physics and 16 in chemistry. Berkeley leads the list, with 26 laureates, followed by UC San Diego, UCLA, UC Santa Barbara, and UC San Francisco. Even smaller campuses, such as UC Riverside, have ties to winners like Barry Barish, who shared the 2017 Nobel in Physics for detecting gravitational waves."
 pubDate: 2025-10-10
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/10/nobel-prize-california.jpg"
 wpId: 6579
 wpSlug: "california-is-a-nobel-powerhouse"
 categories: ["biology", "cities", "climate-change", "health-and-medicine", "history-of-science", "marine-science", "people", "physics", "places", "private-science"]

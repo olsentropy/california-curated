@@ -2,6 +2,7 @@
 title: "Upwelling, the Ocean’s Engine Beneath California’s Waters"
 description: "Few marine processes are as impactful on the abundance of sea life off the coast of California as upwelling. It may not be a term you've heard before, but the natural oceanic process of upwelling is one of the most important engines driving climate, biological diversity, and the ocean's food web."
 pubDate: 2025-12-15
+heroImage: "https://substackcdn.com/image/fetch/$s_!dNl8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6770556b-2839-4ef7-a41c-6c67b70dbd8c_1024x573.png"
 wpId: 6792
 wpSlug: "upwelling-the-oceans-engine-beneath-californias-waters"
 categories: ["animals", "biology", "climate-change", "geology-and-earthquakes", "marine-science", "places"]

@@ -2,6 +2,7 @@
 title: "The Sweet Journey of the Boysenberry from Family Farms to Theme Park Fame"
 description: "Bowl of boysenberries on wooden table. Support California Curated with a small donation. California has long been a hub for berry innovation, boasting a rich history of developing countless berry…"
 pubDate: 2023-08-08
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/boysenberry-2.jpg"
 wpId: 2403
 wpSlug: "the-sweet-tale-of-the-boysenberry-from-berry-vines-to-theme-park-lines"
 categories: ["agriculture", "biology", "history-of-science", "horticulture", "people"]

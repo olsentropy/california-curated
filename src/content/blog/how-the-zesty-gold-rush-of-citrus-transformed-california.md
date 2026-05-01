@@ -2,6 +2,7 @@
 title: "How Citrus Transformed California"
 description: "The citrus boom in California reached its zenith in the late 19th and early 20th century. It was during this period that the citrus industry became a pivotal part of the state's economy and helped shape its cultural identity."
 pubDate: 2023-07-05
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/07/orange-groves-old.png"
 wpId: 2245
 wpSlug: "how-the-zesty-gold-rush-of-citrus-transformed-california"
 categories: ["agriculture", "cities", "history-of-science", "horticulture"]

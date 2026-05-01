@@ -2,6 +2,7 @@
 title: "California Coastline Teems with Whale Skeletons"
 description: "Recently, scientists have discovered an extraordinary number of these whale falls off the coast of Los Angeles—over 60 skeletons, a number that surpasses the total found worldwide since 1977."
 pubDate: 2024-07-18
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/07/whale-fall.jpg"
 wpId: 3309
 wpSlug: "whale-falls-a-deep-sea-spectacle-off-the-california-coast"
 categories: ["animals", "biology", "marine-science", "places"]

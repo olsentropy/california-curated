@@ -2,6 +2,7 @@
 title: "Ten Little-Known Facts About California"
 description: "Giant Sequoia California is known for its sunny beaches, bustling cities, and iconic landmarks such as the Golden Gate Bridge and Hollywood sign. However, the state is also home to a wealth of…"
 pubDate: 2023-02-14
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/02/sequoias-olse1835_rip.jpg"
 wpId: 1837
 wpSlug: "ten-little-known-facts-about-california"
 categories: ["animals", "biology", "geology-and-earthquakes", "marine-science", "places"]

@@ -2,6 +2,7 @@
 title: "A Tiny California Seaweed Could Make a Big Dent in Livestock Methane"
 description: "Because methane is so potent, trapping more than 80 times as much heat as carbon dioxide over a 20-year period, the livestock industry’s footprint has become a central focus for climate scientists searching for solutions."
 pubDate: 2025-09-19
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/09/flasks-seaweed.jpg"
 wpId: 6478
 wpSlug: "a-tiny-california-seaweed-could-make-a-big-dent-in-livestock-methane"
 categories: ["agriculture", "animals", "biology", "climate-change", "health-and-medicine", "marine-science", "private-science"]

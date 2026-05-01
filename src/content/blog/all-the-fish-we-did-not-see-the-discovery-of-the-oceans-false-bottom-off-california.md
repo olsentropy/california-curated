@@ -2,6 +2,7 @@
 title: "All the Fish We Did Not See - The Discovery of the Ocean's False Bottom off California"
 description: "This phenomenon, later termed the Deep Scattering Layer (DSL), created a \"false bottom\" in sonar readings, revealing an unexpectedly dense concentration of biological life in a mid-ocean zone once thought to be relatively sparse. The discovery of the DSL challenged assumptions about life distribution in the ocean, showing that vast numbers of organisms—such as fish, squid, and zooplankton—populate these depths, rising and descending with daily cycles to avoid predators and optimize feeding."
 pubDate: 2024-12-03
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/12/paper-nautilus.jpg"
 wpId: 4573
 wpSlug: "all-the-fish-we-did-not-see-the-discovery-of-the-oceans-false-bottom-off-california"
 categories: ["animals", "biology", "history-of-science", "marine-science", "people"]

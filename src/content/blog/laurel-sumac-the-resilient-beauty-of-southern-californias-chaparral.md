@@ -2,6 +2,7 @@
 title: "Laurel Sumac, the Resilient Beauty of Southern California's Chaparral"
 description: "Laurel sumac in the San Gabriel Mountains (Erik Olsen) Support California Curated with a small donation. Here's another article exploring some of California's native plants. With a remarkable…"
 pubDate: 2024-12-23
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/12/laurel-sumac-1.jpg"
 wpId: 3521
 wpSlug: "laurel-sumac-the-resilient-beauty-of-southern-californias-chaparral"
 categories: ["birds", "horticulture", "indigenous-culture"]

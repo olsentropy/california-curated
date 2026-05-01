@@ -2,6 +2,7 @@
 title: "Genetic Guardians: The Asilomar Conference and its DNA Diplomacy"
 description: "The Asilomar Conference reached a consensus that with proper containment measures, most rDNA experiments could be conducted safely. This resulted in a set of guidelines that differentiated experiments based on their potential biohazards and suggested appropriate containment measures."
 pubDate: 2023-06-21
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/06/asilomar-ols01379-1.jpg"
 wpId: 2150
 wpSlug: "genetic-guardians-the-asilomar-conference-and-its-dna-diplomacy"
 categories: ["animals", "biology", "health-and-medicine", "history-of-science", "places"]

@@ -2,6 +2,7 @@
 title: "The Magic, Wonder, and Science of Ocean Bioluminescence in Southern California"
 description: "The phenomenon that causes the blue glow has been known for centuries, but that in no way detracts from its wonder and beauty. The phenomenon is called bioluminescence, and it is one of nature's most magical and interesting phenomena."
 pubDate: 2024-10-04
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/10/biolum.jpg"
 wpId: 1369
 wpSlug: "the-magic-wonder-and-science-of-ocean-bioluminescence"
 categories: ["animals", "biology", "history-of-science", "marine-science", "places"]

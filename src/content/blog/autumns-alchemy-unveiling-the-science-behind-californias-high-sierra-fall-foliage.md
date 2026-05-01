@@ -2,6 +2,7 @@
 title: "Autumn's Alchemy: Unveiling the Science Behind California's High Sierra Fall Foliage"
 description: "The transformation of leaves in the high Sierra is far more than a seasonal aesthetic; it's a vivid illustration of how meticulously nature has calibrated life to adapt and thrive."
 pubDate: 2023-10-09
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/10/fall-colors-rock-creek.jpg"
 wpId: 2628
 wpSlug: "autumns-alchemy-unveiling-the-science-behind-californias-high-sierra-fall-foliage"
 categories: ["agriculture", "biology", "climate-change", "places"]

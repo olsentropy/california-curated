@@ -2,6 +2,7 @@
 title: "Ghost of the West: The Tragic Story of the California Grizzly Bear's Journey from Wilderness to State Flag"
 description: "In the expansive and diverse landscape of California, many iconic animals are an integral part of the state's reputation for natural beauty and untamed wilderness. Yet, one particular creature looms larger in the Californian narrative than many others – a species that has been extinct for nearly a century, but lives on as a powerful symbol: the California Grizzly Bear (Ursus arctos californicus)."
 pubDate: 2023-06-20
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/06/olsentropy_wide_shot_of_the_california_grizzly_bear_in_the_fore_90a1c808-26bd-4612-a44f-1370e2928b5e.png"
 wpId: 2121
 wpSlug: "ghost-of-the-west-the-tragic-story-of-the-california-grizzly-bears-journey-from-wilderness-to-state-flag"
 categories: ["animals", "biology", "history-of-science"]

@@ -2,6 +2,7 @@
 title: "Feathers on the Flyway: Unraveling Avian Mysteries at Bear Divide with the Moore Lab"
 description: "Bear Divide is strategically positioned along the Pacific Flyway, a significant north-south migratory route used by birds traveling between Alaska and Patagonia. The geographical features of the San Gabriels provide an ideal resting and feeding ground for these birds, making Bear Divide a crucial stopover during their long journeys."
 pubDate: 2024-02-27
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/02/western-tanager.jpeg"
 wpId: 2906
 wpSlug: "feathers-on-the-flyway-unraveling-avian-mysteries-at-bear-divide-with-the-moore-lab"
 categories: ["animals", "cities", "climate-change", "private-science"]

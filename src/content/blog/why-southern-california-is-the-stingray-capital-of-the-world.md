@@ -2,6 +2,7 @@
 title: "Why Southern California is the Stingray Capital of the World"
 description: "According to research led by Dr. Chris Lowe at California State University, Long Beach Shark Lab, Southern California’s nearshore waters may host one of the densest concentrations of stingrays anywhere in the world."
 pubDate: 2026-04-13
+heroImage: "https://substackcdn.com/image/fetch/$s_!R3WO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd0bb4da-cf9b-4e44-93eb-212a3335394a_2800x2096.jpeg"
 wpId: 7234
 wpSlug: "why-southern-california-is-the-stingray-capital-of-the-world"
 categories: ["animals", "biology", "cities", "marine-science", "people"]

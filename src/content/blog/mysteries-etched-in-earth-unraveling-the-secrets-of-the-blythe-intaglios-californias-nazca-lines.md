@@ -2,6 +2,7 @@
 title: "The Blythe Intaglios are the California's Nazca Lines. They are True Mysteries Etched in Earth."
 description: "The Blythe Intaglios—have long puzzled anthropologists and captivated the imagination of those who visit them or view them from the sky."
 pubDate: 2024-01-10
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/01/intaglio.jpeg"
 wpId: 2923
 wpSlug: "mysteries-etched-in-earth-unraveling-the-secrets-of-the-blythe-intaglios-californias-nazca-lines"
 categories: ["animals", "geology-and-earthquakes", "history-of-science", "indigenous-culture"]

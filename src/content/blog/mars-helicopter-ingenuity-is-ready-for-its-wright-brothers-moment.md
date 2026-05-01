@@ -2,6 +2,7 @@
 title: "Mars helicopter Ingenuity is ready for its \"Wright Brothers\" moment"
 description: "If all goes well, in late July, Nasa will do something it's never done before. The agency will launch a new mission to Mars with the aim of landing a small helicopter on the surface that will perform several test missions to see if we can fly on the surface of the Red Planet."
 pubDate: 2020-06-26
+heroImage: "http://californiacurated.com/wp-content/uploads/2020/06/460d9-2-pia23882-helicopterbeautyshot2-120531_-_d2020_0129_rl2757.jpg"
 wpId: 1441
 wpSlug: "mars-helicopter-ingenuity-is-ready-for-its-wright-brothers-moment"
 categories: ["space"]

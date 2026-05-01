@@ -2,6 +2,7 @@
 title: "Vasquez Rocks: Where Plates Collide and Captain Kirk Roamed"
 description: "This is Vasquez Rocks, one of California’s most interesting and dramatic geologic formations."
 pubDate: 2020-01-30
+heroImage: "https://californiacurated.com/wp-content/uploads/2020/01/vasquez-rocks.jpg"
 wpId: 1175
 wpSlug: "vasquez-rocks-where-plates-collide-and-captain-kirk-roamed"
 categories: ["geology-and-earthquakes", "places"]

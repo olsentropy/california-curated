@@ -2,6 +2,7 @@
 title: "Cadillac Desert: How Marc Reisner Changed the Way We See Water"
 description: "Marc Reisner’s Cadillac Desert is not just a history of water in the West; it is a call to rethink our relationship with one of the planet’s most precious resources. At once an epic tale and an urgent warning, it stands as a monumental testament to the price we pay for bending nature to our will."
 pubDate: 2024-11-26
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/11/la-aqueduct.jpg"
 wpId: 4637
 wpSlug: "cadillac-desert-how-marc-reisner-changed-the-way-we-see-water"
 categories: ["agriculture", "books", "climate-change", "history-of-science", "people", "places"]

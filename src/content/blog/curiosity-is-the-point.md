@@ -2,6 +2,7 @@
 title: "Curiosity Is the Point"
 description: "The more you look around in California, the more you realize there is almost always something fascinating to notice and something worth learning a little more about."
 pubDate: 2026-02-24
+heroImage: "https://californiacurated.com/wp-content/uploads/2026/02/me-diving-rig-2-1.jpg"
 wpId: 7042
 wpSlug: "curiosity-is-the-point"
 categories: ["animals", "biology", "birds", "geology-and-earthquakes", "marine-science", "places"]

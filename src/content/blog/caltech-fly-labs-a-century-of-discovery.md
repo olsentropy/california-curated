@@ -2,6 +2,7 @@
 title: "Caltech Fly Labs and a Century of Genetic Discovery"
 description: "And much of the work to understand the fruit fly has taken place and is taking place now, right here in California at the Cal Tech fly labs."
 pubDate: 2024-08-06
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/08/california-curated-fruit-fly-lab.jpg"
 wpId: 3383
 wpSlug: "caltech-fly-labs-a-century-of-discovery"
 categories: ["animals", "biology", "health-and-medicine", "history-of-science", "people", "places"]

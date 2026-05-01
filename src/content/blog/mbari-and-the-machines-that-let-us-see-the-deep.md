@@ -2,6 +2,7 @@
 title: "MBARI and the Machines That Let Us See the Deep"
 description: "The Monterey Bay Aquarium Research Institute in Moss Landing, California (Photo: Erik Olsen) You’ve probably seen the videos. A fish with a transparent head, its organs floating inside like tennis…"
 pubDate: 2026-03-06
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/10/mbari.png"
 wpId: 7067
 wpSlug: "mbari-and-the-machines-that-let-us-see-the-deep"
 categories: ["geology-and-earthquakes"]

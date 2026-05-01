@@ -2,6 +2,7 @@
 title: "The Garibaldi's Dance of Color and Character in California's Coastal Ballet"
 description: "California Garibaldi Underwater photos of California’s coast featured in books and magazines almost always showcase a certain fish: the garibaldi. Within the underwater kaleidoscope of California's…"
 pubDate: 2023-08-24
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/garibaldi.jpg"
 wpId: 2495
 wpSlug: "orange-enigma-the-garibaldis-dance-of-color-and-character-in-californias-coastal-ballet"
 categories: ["animals", "biology", "marine-science"]

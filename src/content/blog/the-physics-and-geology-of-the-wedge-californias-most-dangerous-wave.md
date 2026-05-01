@@ -2,6 +2,7 @@
 title: "The Physics and Geology of The Wedge, California’s Most Dangerous Wave"
 description: "There is something unforgettable about the Wedge and the way its waves crash with such raw force. Sometimes they detonate just offshore, sending water skyrocketing into the air; other times they slam thunderously against the sand, eliciting groans and whoops from bystanders."
 pubDate: 2025-08-27
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/08/the-wedge-erik-olsen.jpg"
 wpId: 6401
 wpSlug: "the-physics-and-geology-of-the-wedge-californias-most-dangerous-wave"
 categories: ["geology-and-earthquakes", "health-and-medicine", "marine-science", "physics", "places"]

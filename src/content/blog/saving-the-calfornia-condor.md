@@ -2,6 +2,7 @@
 title: "Saving the California Condor"
 description: "The birth of the 1000th condor chick as part of an extensive breeding and reintroduction program gives hope to many other species in peril."
 pubDate: 2019-07-24
+heroImage: "https://californiacurated.com/wp-content/uploads/2019/07/california_condor.jpg"
 wpId: 786
 wpSlug: "saving-the-calfornia-condor"
 categories: ["animals"]

@@ -2,6 +2,7 @@
 title: "A Massive Aircraft Carrier called the USS Independence Rests in Deep Waters off the Coast of California"
 description: "The waters off California’s coast are scattered with relics of wartime history, each telling its own story of conflict and survival. Among these wrecks is the USS Independence, a WWII aircraft carrier whose journey took it from the heights of naval warfare to the depths of nuclear experimentation."
 pubDate: 2024-10-30
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/10/uss_independence_cvl-22_in_san_francisco_bay_on_15_july_1943_80-g-74436.jpg"
 wpId: 4500
 wpSlug: "uss-independence-californias-aircraft-carrier-rests-off-the-coast"
 categories: ["animals", "biology", "history-of-science", "marine-science", "places", "private-science"]

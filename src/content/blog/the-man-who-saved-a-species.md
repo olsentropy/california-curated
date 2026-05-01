@@ -2,6 +2,7 @@
 title: "The Man Who Saved the Owens Pupfish"
 description: "Less than 2.5 inches in length, the Owens pupfish is a silvery-blue fish in the family Cyprinodontidae. Endemic to California's Owens Valley, 200 miles north of Los Angeles, the fish has lived on the planet since the Pleistocene, becoming a new species when its habitat was divided by changing climatic conditions, 60,000 years ago."
 pubDate: 2026-03-16
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/06/owens-pupfish.jpeg"
 wpId: 1486
 wpSlug: "the-man-who-saved-a-species"
 categories: ["animals", "biology", "climate-change", "history-of-science", "people", "places"]

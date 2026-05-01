@@ -2,6 +2,7 @@
 title: "Davidson Seamount and the Unseen Mountains and Hidden Treasures Off California's Coast"
 description: "Perhaps the most astonishing discovery at Davidson Seamount occurred in 2018, when scientists discovered the \"Octopus Garden,\" the largest known aggregation of octopuses in the world. The garden is about two miles deep and was discovered by researchers on the research vessel (RV) Nautilus."
 pubDate: 2023-09-05
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/09/octopuses-garden.jpeg"
 wpId: 2527
 wpSlug: "davidson-seamount-unveiled-the-unseen-mountains-and-hidden-treasures-off-californias-coast"
 categories: ["animals", "biology", "climate-change", "geology-and-earthquakes", "marine-science", "places"]

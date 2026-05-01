@@ -2,6 +2,7 @@
 title: "Maybe You've heard of Josiah Whitney, Mt. Whitney's Namesake"
 description: "Support California Curated with a small donation. Mount Whitney, the highest mountain in the contiguous United States, is one of the great peaks in California. A wildly popular destination for…"
 pubDate: 2023-04-24
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/03/ross-stone-wh3wux0h6aq-unsplash.jpg"
 wpId: 1888
 wpSlug: "the-man-for-whom-mt-whitney-was-named"
 categories: ["geology-and-earthquakes", "history-of-science", "people", "places"]

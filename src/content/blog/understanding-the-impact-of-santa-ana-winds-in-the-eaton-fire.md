@@ -2,6 +2,7 @@
 title: "Understanding the Impact of Santa Ana Winds in the Eaton Fire"
 description: "One fact is indisputable: the fires were unusual in their ferocity and destruction. While studies, debates, and expert analyses following the disaster are inevitable, the immediate aftermath offers one clear conclusion—this fires were driven, in large part, by the extraordinary winds that descended on Los Angeles that night."
 pubDate: 2025-01-16
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/01/altadena-fire-ols00235.jpg"
 wpId: 5030
 wpSlug: "understanding-the-impact-of-santa-ana-winds-in-the-eaton-fire"
 categories: ["cities", "climate-change", "places"]

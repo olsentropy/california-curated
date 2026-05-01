@@ -2,6 +2,7 @@
 title: "Through the Looking Glass Head: The Enigmatic World of the Barreleye Fish"
 description: "The Barreleye fish is the kind of creature that captures the imagination and evokes wonder about what remains undiscovered in the deep ocean."
 pubDate: 2023-10-05
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/10/barrel-eye.jpeg"
 wpId: 2642
 wpSlug: "through-the-looking-glass-head-the-enigmatic-world-of-the-barreleye-fish"
 categories: ["animals", "biology", "climate-change", "marine-science", "places", "private-science"]

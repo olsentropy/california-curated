@@ -2,6 +2,7 @@
 title: "The Mystical Sentinels of the Mojave: Unraveling the Secrets of the Joshua Tree"
 description: "Standing tall against the backdrop of the sun-scorched Mojave Desert, the Joshua Tree (Yucca brevifolia) is an emblematic figure of resilience and beauty. With its twisted, bristled limbs reaching towards the sky, this iconic species is not just a tree but a symbol of the untamed wilderness that is California's desert landscape."
 pubDate: 2023-11-13
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/11/joshua-trees.jpeg"
 wpId: 2734
 wpSlug: "the-mystical-sentinels-of-the-mojave-unraveling-the-secrets-of-the-joshua-tree"
 categories: ["animals", "biology", "climate-change", "horticulture", "places"]

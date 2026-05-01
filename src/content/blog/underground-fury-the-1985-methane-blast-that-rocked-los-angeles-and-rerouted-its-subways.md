@@ -2,6 +2,7 @@
 title: "Underground Fury: The 1985 Methane Blast That Rocked Los Angeles and Rerouted Its Subways"
 description: "A 1985 methane explosion in L.A.'s Fairfax district turned a Ross Dress for Less into a disaster scene. Photo by Dean Musgrove, courtesy of the Herald-Examiner Collection - Los Angeles Public…"
 pubDate: 2023-11-03
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/11/image.png"
 wpId: 2723
 wpSlug: "underground-fury-the-1985-methane-blast-that-rocked-los-angeles-and-rerouted-its-subways"
 categories: ["cities", "climate-change", "geology-and-earthquakes", "places"]

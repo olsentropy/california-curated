@@ -2,6 +2,7 @@
 title: "The Pacific Coast Highway (PCH): Icon of American Scenic Roadways"
 description: "The Pacific Coast Highway took decades to complete fully, with different sections being opened to the public at various times."
 pubDate: 2024-05-21
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/05/pch.jpg"
 wpId: 3157
 wpSlug: "the-pacific-coast-highway-pch-icon-of-american-scenic-roadways"
 categories: ["cities", "climate-change", "geology-and-earthquakes", "history-of-science", "places"]

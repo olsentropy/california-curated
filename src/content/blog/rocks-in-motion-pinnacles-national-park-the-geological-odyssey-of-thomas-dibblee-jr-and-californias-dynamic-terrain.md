@@ -2,6 +2,7 @@
 title: "Geologist Thomas Dibblee Jr. and the Theory Behind Pinnacles National Park’s 200-Mile Tectonic Journey"
 description: "Pinnacles National Park’s wide landscape of dramatic rock formations and craggy spires looks otherworldly, especially in golden hour light. But few people who visit the park, located in Central California, southeast of the San Francisco Bay Area, are aware that the rock formations were once at the center of one of the most fierce debates in the history of California geology."
 pubDate: 2024-03-27
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/03/image.png"
 wpId: 2992
 wpSlug: "rocks-in-motion-pinnacles-national-park-the-geological-odyssey-of-thomas-dibblee-jr-and-californias-dynamic-terrain"
 categories: ["geology-and-earthquakes", "history-of-science", "places"]

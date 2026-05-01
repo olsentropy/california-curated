@@ -2,6 +2,7 @@
 title: "Bring Human Exploration Back to California’s Deep Ocean"
 description: "Launching a Triton 3300/3 submersible from a scientific support ship in the Bahamas. (Photo: Erik Olsen) Would you support us? Just a few bucks. We'd appreciate it! It’s time for California to put…"
 pubDate: 2025-08-15
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/08/submersible-1.jpg"
 wpId: 6314
 wpSlug: "bring-human-exploration-back-to-californias-deep-ocean"
 categories: ["animals", "biology", "climate-change", "geology-and-earthquakes", "marine-science", "places"]

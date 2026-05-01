@@ -2,6 +2,7 @@
 title: "Einstein in Pasadena: Three Wonderful Winters in Paradise"
 description: "But of all the places he visited, one city stood out in particular. Pasadena, with its warm weather, lively culture, and, most importantly, its reputation as a scientific hub, had a deep personal appeal to Einstein. ​He visited Pasadena during the winters of 1931, 1932, and 1933, each time staying for approximately two to three months."
 pubDate: 2023-08-04
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/einstein-bicycle.jpeg"
 wpId: 2379
 wpSlug: "einstein-in-pasadena-three-winters-in-paradise"
 categories: ["cities", "history-of-science", "people", "physics", "places", "private-science"]

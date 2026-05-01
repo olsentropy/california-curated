@@ -2,6 +2,7 @@
 title: "The Fight for California’s Coastline and the Future of the Coastal Commission"
 description: "For over 50 years, the California Coastal Commission has protected public access and natural beauty, but growing challenges—wildfires, housing shortages, and political pressure—are testing its authority like never before."
 pubDate: 2025-04-01
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/03/big-sur-coast.jpg"
 wpId: 4742
 wpSlug: "the-fight-for-californias-coastline-and-the-future-of-the-coastal-commission"
 categories: ["animals", "biology", "cities", "marine-science", "people", "places"]

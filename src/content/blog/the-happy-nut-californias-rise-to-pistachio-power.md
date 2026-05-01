@@ -2,6 +2,7 @@
 title: "The Happy Nut: California’s Rise to Pistachio Power"
 description: "California now grows more pistachios than any place on Earth, generating nearly $3 billion in economic value in the state. Nearly every nut sold in the United States, and most shipped abroad, comes from orchards in the Central Valley."
 pubDate: 2025-11-06
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/11/pistachio-nuts-tree.jpg"
 wpId: 6683
 wpSlug: "the-happy-nut-californias-rise-to-pistachio-power"
 categories: ["agriculture", "biology", "books", "climate-change", "horticulture", "people", "places"]

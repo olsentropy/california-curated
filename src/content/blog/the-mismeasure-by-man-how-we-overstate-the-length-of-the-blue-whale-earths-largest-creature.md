@@ -2,6 +2,7 @@
 title: "Not So Big: How We Overstate the Length of the Blue Whale, Earth’s Largest Creature"
 description: "Many articles and references about blue whales will tell you, blue whales can reach lengths of up to 100 feet long or more. But not a single blue whale has ever been scientifically verified as being 100 feet long. That’s right. Not one."
 pubDate: 2020-04-01
+heroImage: "https://californiacurated.com/wp-content/uploads/2020/04/blue-whale-image-california-newport.jpg"
 wpId: 1295
 wpSlug: "the-mismeasure-by-man-how-we-overstate-the-length-of-the-blue-whale-earths-largest-creature"
 categories: ["animals", "marine-science"]

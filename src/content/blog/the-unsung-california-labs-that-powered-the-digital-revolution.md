@@ -2,6 +2,7 @@
 title: "The Unsung California Labs That Powered the Digital Revolution"
 description: "The technology is extreme ultraviolet lithography (EUV). And one of the most important points I want to leave you with is that the origins of EUV are not found in Silicon Valley startups or corporate boardrooms but in California’s national laboratories, where government-funded science made the impossible possible."
 pubDate: 2025-09-26
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/09/muon-based-imaging-willard-reagan-tamer-sml.jpg"
 wpId: 6528
 wpSlug: "the-unsung-california-labs-that-powered-the-digital-revolution"
 categories: ["cities", "history-of-science", "people", "physics", "places"]

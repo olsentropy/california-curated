@@ -2,6 +2,7 @@
 title: "The Ocean's Invisible Elevator: How Upwelling Fuels California's Marine Bounty"
 description: "The Vital Role of Upwelling in California’s Rich Ocean Life Click to buy us a cup of coffee? We'd appreciate it! Few marine processes have been as impactful on the abundance of sea life off the coast…"
 pubDate: 2023-09-27
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/09/olsentropy_a_visually_lush_photograph_of_fish_including_sardine_225f2c29-c646-4e72-8143-b5566c9cd208-1.png"
 wpId: 2599
 wpSlug: "the-oceans-invisible-elevator-how-upwelling-fuels-californias-marine-bounty"
 categories: ["animals", "biology", "climate-change", "marine-science"]

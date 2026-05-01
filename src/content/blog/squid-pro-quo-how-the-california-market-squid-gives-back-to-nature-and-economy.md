@@ -2,6 +2,7 @@
 title: "Squid Pro Quo: How the California Market Squid Gives Back to Nature and Economy"
 description: "The California market squid, scientifically known as Doryteuthis opalescens, is an integral component of the marine ecosystem and significantly contributes to California's economy."
 pubDate: 2024-09-23
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/09/market-squid-chromatophores.jpeg"
 wpId: 2576
 wpSlug: "squid-pro-quo-how-the-california-market-squid-gives-back-to-nature-and-economy"
 categories: ["animals", "biology", "climate-change", "marine-science"]

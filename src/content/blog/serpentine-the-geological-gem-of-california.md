@@ -2,6 +2,7 @@
 title: "Serpentine is the Geological Gem of California"
 description: "Serpentine is formed through the metamorphic process, where pre-existing rocks are transformed into new types under high temperatures, pressures, and chemical processes. This unique rock originates from the Earth's mantle, brought to the surface through tectonic activity like subduction."
 pubDate: 2023-04-21
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/04/serpentine.jpg"
 wpId: 1944
 wpSlug: "serpentine-the-geological-gem-of-california"
 categories: ["geology-and-earthquakes", "history-of-science", "places"]

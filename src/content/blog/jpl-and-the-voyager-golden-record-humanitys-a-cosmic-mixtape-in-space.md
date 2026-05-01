@@ -2,6 +2,7 @@
 title: "JPL and the Voyager Golden Record: Humanity’s A Cosmic Mixtape in Space"
 description: "The Jet Propulsion Laboratory in La Canada Flintridge, California is well-known for sending spacecraft far into the cosmos to help us better understand the universe. But the agency was also extensively involved in one of the most ambitious and symbolic projects in the history of space exploration: the Voyager Golden Record."
 pubDate: 2024-04-15
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/04/sounds-of-earth.jpg"
 wpId: 3019
 wpSlug: "jpl-and-the-voyager-golden-record-humanitys-a-cosmic-mixtape-in-space"
 categories: ["animals", "biology", "geology-and-earthquakes", "history-of-science", "people", "physics", "space"]

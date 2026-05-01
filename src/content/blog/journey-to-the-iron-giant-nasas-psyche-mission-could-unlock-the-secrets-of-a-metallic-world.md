@@ -2,6 +2,7 @@
 title: "Journey to the Iron Giant: NASA's Psyche Mission Could Unlock the Secrets of a Metallic World"
 description: "The Psyche spacecraft in the clean room of the Jet Propulsion Laboratory in La Canada Flintridge, CA A NOVEL PROPULSION SYSTEM WILL TAKE US TO A MASSIVE METAL ASTEROID IN DEEP SPACE Imagine being…"
 pubDate: 2023-10-12
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/10/psyche-clean-room.webp"
 wpId: 2693
 wpSlug: "journey-to-the-iron-giant-nasas-psyche-mission-could-unlock-the-secrets-of-a-metallic-world"
 categories: ["geology-and-earthquakes", "physics", "space"]

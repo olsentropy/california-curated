@@ -2,6 +2,7 @@
 title: "Why bringing back California's kelp is so important"
 description: "Sea urchins have devastated kelp forests in California. Support California Curated by buying us a coffee? Two centuries ago, the waters off the California coast were home to a vibrant ecosystem of…"
 pubDate: 2024-09-02
+heroImage: "https://californiacurated.com/wp-content/uploads/2021/08/20035-urchins.jpg"
 wpId: 947
 wpSlug: "why-bringing-back-californias-kelp-is-so-important"
 categories: ["animals", "biology", "climate-change", "marine-science"]

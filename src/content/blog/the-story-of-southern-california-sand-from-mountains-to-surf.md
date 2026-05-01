@@ -2,6 +2,7 @@
 title: "The Story of Southern California Sand from Mountains to Surf"
 description: "It turns out most of the grains between your toes actually began their journey high in the mountains above LA, on craggy slopes far from the shore. Mostly, we are talking about the San Gabriel Mountains and other peaks in the Transverse Ranges that run east-west across Southern California."
 pubDate: 2025-09-04
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/07/beach-3.jpg"
 wpId: 6332
 wpSlug: "the-story-of-southern-california-sand-from-mountains-to-surf"
 categories: ["cities", "climate-change", "geology-and-earthquakes", "marine-science", "places"]

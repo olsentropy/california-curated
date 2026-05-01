@@ -2,6 +2,7 @@
 title: "California’s Eye on the Cosmos: The SLAC-Built Camera That Will Time-Lapse the Universe"
 description: "Images from the most powerful astronomical discovery machine ever created, and built in California A breathtaking zoomed-in glimpse of the cosmos: this first image from the Vera C. Rubin Observatory…"
 pubDate: 2025-06-23
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/06/vera-rubin-1.webp"
 wpId: 6103
 wpSlug: "californias-eye-on-the-cosmos-the-slac-built-camera-that-will-time-lapse-the-universe"
 categories: ["history-of-science", "people", "physics", "places", "space"]

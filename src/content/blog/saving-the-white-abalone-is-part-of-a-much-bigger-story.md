@@ -2,6 +2,7 @@
 title: "Saving California's White Abalone is Part of a Much Bigger Story"
 description: "The current effort to bring back the white abalone is one of numerous projects underway in California to revive the state's once-thriving marine environment."
 pubDate: 2024-08-21
+heroImage: "https://californiacurated.com/wp-content/uploads/2019/11/white-abalone-2.png"
 wpId: 1106
 wpSlug: "saving-the-white-abalone-is-part-of-a-much-bigger-story"
 categories: ["animals", "biology", "climate-change", "marine-science"]

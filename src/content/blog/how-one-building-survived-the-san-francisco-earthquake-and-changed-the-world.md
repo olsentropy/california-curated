@@ -2,6 +2,7 @@
 title: "How one building survived the San Francisco earthquake and changed the world."
 description: "The Bekins building survived because it was made of a relatively new material that had largely been ignored (and vigorously opposed) in California. That material is reinforced concrete."
 pubDate: 2020-05-01
+heroImage: "https://californiacurated.com/wp-content/uploads/2021/08/9055c-bekins-1.jpg"
 wpId: 1336
 wpSlug: "how-one-building-survived-the-san-francisco-earthquake-and-changed-the-world"
 categories: ["cities", "geology-and-earthquakes", "physics"]

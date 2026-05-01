@@ -2,6 +2,7 @@
 title: "Julia Platt was the Unwavering Force Behind Monterey's Ecological Conservation"
 description: "Monterey Bay (Photo: Erik Olsen) Support California Curated with a small donation. In the 18th century, when Spanish and French explorers ventured along the northern California coast they encountered…"
 pubDate: 2024-04-16
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/04/monterey-beach.png"
 wpId: 3037
 wpSlug: "julia-platt-the-unwavering-force-behind-montereys-ecological-conservation"
 categories: ["biology", "climate-change", "history-of-science", "marine-science", "people", "places"]

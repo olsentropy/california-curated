@@ -2,6 +2,7 @@
 title: "Giants Fallen: The Destruction of Converse Basin Grove and its Giant Sequoias"
 description: "The true tragic story of one of the worst environmental crimes in California history."
 pubDate: 2024-04-25
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/04/giant-sequoia-stump.jpg"
 wpId: 3060
 wpSlug: "giants-fallen-the-destruction-of-converse-basin-grove-and-its-giant-sequoias"
 categories: ["agriculture", "biology", "climate-change", "history-of-science", "horticulture", "people", "places"]

@@ -2,6 +2,7 @@
 title: "Why Parkfield, California is the Nation's Earthquake Capital"
 description: "In Parkfield, every hillside and valley, grassy nook and riverbed is home to some kind of instrument that measures earthquakes. Over the years, these instruments have become more sophisticated and expensive, making it necessary in many cases to fence them off with the threat of arrest.  These instruments monitor, hour by hour, or better, millisecond by millisecond, the stirrings of the earth. To geologists, it is ground zero for seismic measurement."
 pubDate: 2024-08-26
+heroImage: "https://californiacurated.com/wp-content/uploads/2019/08/parkfield.jpg"
 wpId: 800
 wpSlug: "parkfield-california-earthquake-capital"
 categories: ["geology-and-earthquakes", "history-of-science", "people", "places"]

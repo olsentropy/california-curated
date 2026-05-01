@@ -2,6 +2,7 @@
 title: "The genius of Luther Burbank, father of the most famous potato in the world"
 description: "Luther Burbank created some of the most successful fruits and vegetables in the world, all from his California farm."
 pubDate: 2019-11-15
+heroImage: "https://californiacurated.com/wp-content/uploads/2021/08/ede49-luther-burbank-copy.jpg"
 wpId: 1070
 wpSlug: "the-genius-of-luther-burbank-father-of-the-french-fry"
 categories: ["agriculture", "history-of-science", "horticulture"]

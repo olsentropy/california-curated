@@ -2,6 +2,7 @@
 title: "A Deep Dive into Monterey Canyon, California's Great Abyss"
 description: "Monterey Canyon, often called the Grand Canyon of the Pacific, is one of the largest and most fascinating submarine canyons in the world. Stretching over 95 miles from the coast of Monterey, California, and plunging to depths exceeding 3,600 meters (11,800 feet), this underwater marvel rivals its terrestrial counterpart in size and grandeur."
 pubDate: 2025-02-04
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/02/canyon99_high.jpg"
 wpId: 2470
 wpSlug: "a-deep-dive-into-monterey-canyon-californias-great-abyss"
 categories: ["animals", "biology", "geology-and-earthquakes", "marine-science", "people", "physics"]

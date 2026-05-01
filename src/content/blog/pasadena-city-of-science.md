@@ -2,6 +2,7 @@
 title: "Pasadena: City of Science"
 description: "Pasadena, California, often renowned for its picturesque landscapes and historic architecture, harbors another, less visible identity as a bustling hub of scientific innovation and intellectual fervor. This unique blend of beauty and brains makes Pasadena not just a city, but a veritable city of science"
 pubDate: 2024-06-28
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/06/pasadena-aerial.jpg"
 wpId: 3152
 wpSlug: "pasadena-city-of-science"
 categories: ["cities", "geology-and-earthquakes", "history-of-science", "places"]

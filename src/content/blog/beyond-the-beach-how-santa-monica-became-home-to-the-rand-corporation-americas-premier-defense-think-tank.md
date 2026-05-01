@@ -2,6 +2,7 @@
 title: "Beyond the Beach: How Santa Monica Became Home to the RAND Corporation, America's Premier Defense Think Tank"
 description: "\"This was a very smart bunch,\" said Ellsberg, before his death on June 16, 2023.  \"The smartest group of people I ever did associate with. It turns out, by the way, intelligence is not a very good guarantee of wisdom.\""
 pubDate: 2024-08-13
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/08/rand-exterior.jpg"
 wpId: 3438
 wpSlug: "beyond-the-beach-how-santa-monica-became-home-to-the-rand-corporation-americas-premier-defense-think-tank"
 categories: ["history-of-science", "people", "places", "private-science"]

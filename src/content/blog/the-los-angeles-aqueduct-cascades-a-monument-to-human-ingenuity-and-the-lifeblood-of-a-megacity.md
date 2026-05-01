@@ -2,6 +2,7 @@
 title: "The Los Angeles Aqueduct Cascades is a Monument to Human Ingenuity and the Lifeblood of a Megacity"
 description: "Support California Curated with a small donation. Los Angeles is home to nearly four million people, but this bustling metropolis would not have been possible without a vital resource: water. While…"
 pubDate: 2023-04-06
+heroImage: "https://californiacurated.com/wp-content/uploads/2023/04/screenshot-2023-04-05-at-5.57.09-pm.png"
 wpId: 1892
 wpSlug: "the-los-angeles-aqueduct-cascades-a-monument-to-human-ingenuity-and-the-lifeblood-of-a-megacity"
 categories: []

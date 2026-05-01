@@ -2,6 +2,7 @@
 title: "Corals Revealed as Never Before Through a Groundbreaking New Microscope in California"
 description: "What this new tool allows scientists to do is determine whether corals may be under stress from factors like warming seas, pollution, or disease. Ideally, these warning signs are detected before the corals expel their zooxanthellae and bleach. Researchers are also learning far more about the everyday behavior of corals: something rarely studied in situ, directly in the ocean."
 pubDate: 2025-10-03
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/10/coral-polypbump.jpeg"
 wpId: 6549
 wpSlug: "a-microscopic-window-into-dying-reefs"
 categories: ["animals", "biology", "climate-change", "marine-science", "people", "places"]

@@ -2,6 +2,7 @@
 title: "New Research Sheds Light on the Saber-Toothed Cats of California, Fierce Predators of the Pleistocene"
 description: "Among the region's Pleistocene Epoch megafauna, the Saber-toothed cats are some of the most iconic prehistoric predators to have roamed California."
 pubDate: 2024-09-24
+heroImage: "https://californiacurated.com/wp-content/uploads/2024/09/saber-toothed-cat-painting401.5x.jpg"
 wpId: 3878
 wpSlug: "the-saber-toothed-cats-of-california-fierce-predators-of-the-pleistocene"
 categories: ["animals", "biology", "cities", "geology-and-earthquakes", "history-of-science"]

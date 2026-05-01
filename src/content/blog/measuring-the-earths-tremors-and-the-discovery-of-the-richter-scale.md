@@ -2,6 +2,7 @@
 title: "Measuring the Earth’s Tremors and the Development of the Richter Scale"
 description: "In 1935, Charles F. Richter, a seismologist at CalTech, introduced a groundbreaking method to quantify earthquakes: the Richter scale."
 pubDate: 2026-02-04
+heroImage: "https://californiacurated.com/wp-content/uploads/2025/03/richter-scale.jpg"
 wpId: 5357
 wpSlug: "measuring-the-earths-tremors-and-the-discovery-of-the-richter-scale"
 categories: ["geology-and-earthquakes", "history-of-science", "people", "physics", "places"]
