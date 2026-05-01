@@ -1,6 +1,6 @@
 ---
 title: "How California Has Revived Its Groundfish Fisheries"
-description: "How Smart Policy and Collaboration Brought Groundfish Back From the Brink Vermillion Rockfish scientific illustration Would you support us? Just a few bucks. We'd appreciate it! Recently, I wrote a…"
+description: "How Smart Policy and Collaboration Brought Groundfish Back From the Brink Vermillion Rockfish scientific illustration Would you support us? Just a few bucks. We’d appreciate it! Recently, I wrote a…"
 pubDate: 2025-08-05
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/08/rockfish-illustration.jpg"
 wpId: 6289

@@ -1,6 +1,6 @@
 ---
 title: "The Ivanpah Solar Project is an Engineering Solar Power Giant in the Mojave Desert"
-description: "Ivanpah Solar Power Facility in the Mojave Desert (Erik Olsen) Click to buy us a cup of coffee? We'd appreciate it! Update (February 2025): The Ivanpah Solar Electric Generating System, once a…"
+description: "Ivanpah Solar Power Facility in the Mojave Desert (Erik Olsen) Click to buy us a cup of coffee? We’d appreciate it! Update (February 2025): The Ivanpah Solar Electric Generating System, once a…"
 pubDate: 2024-10-22
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/10/ivanpah-solar-2.jpg"
 wpId: 4428

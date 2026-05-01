@@ -1,5 +1,5 @@
 ---
-title: "This is how we're going to solve climate change"
+title: "This is how we’re going to solve climate change"
 description: "Caltech. Credit: Erik Olsen Yesterday, the California Institute of Technology (Caltech) in Pasadena made a major announcement : philanthropists and entrepreneurs Stewart and Lynda Resnick gave the…"
 pubDate: 2019-09-27
 heroImage: "https://californiacurated.com/wp-content/uploads/2021/08/1ebe5-caltech.png"

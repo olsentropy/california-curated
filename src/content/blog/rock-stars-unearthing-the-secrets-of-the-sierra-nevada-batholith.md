@@ -1,6 +1,6 @@
 ---
 title: "Unearthing the Secrets of the Sierra Nevada Batholith"
-description: "An example of Sierra Nevada batholith. There are several domes in Yosemite besides Half Dome. (Erik Olsen) Click to buy us a coffee? We'd appreciate it! Ansel Adams , with his iconic black-and-white…"
+description: "An example of Sierra Nevada batholith. There are several domes in Yosemite besides Half Dome. (Erik Olsen) Click to buy us a coffee? We’d appreciate it! Ansel Adams , with his iconic black-and-white…"
 pubDate: 2024-10-11
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/yosemite-batholith-olsen.jpg"
 wpId: 2515

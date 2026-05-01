@@ -1,6 +1,6 @@
 ---
-title: "Oil rigs' future, turning rigs into reefs, Lake Death Valley,  Charles Darwin in California, Huge fossil discovery in LA"
-description: "Marine Policy What to do with California's dying oil rigs? Credit: Los Angeles Times A magnificent multimedia story by the Los Angeles Times looks at the fate of the Holly oil platform off the coast…"
+title: "Oil rigs’ future, turning rigs into reefs, Lake Death Valley,  Charles Darwin in California, Huge fossil discovery in LA"
+description: "Marine Policy What to do with California’s dying oil rigs? Credit: Los Angeles Times A magnificent multimedia story by the Los Angeles Times looks at the fate of the Holly oil platform off the coast…"
 pubDate: 2019-03-15
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/03/la-platform-holly-pictures-20180913-014.jpg"
 wpId: 214

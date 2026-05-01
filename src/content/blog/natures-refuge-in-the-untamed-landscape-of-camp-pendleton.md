@@ -1,5 +1,5 @@
 ---
-title: "Camp Pendleton's Wild Landscape as a Natural Refuge"
+title: "Camp Pendleton’s Wild Landscape as a Natural Refuge"
 description: "Covering approximately 200 square miles in north San Diego County, the base has served as a critical training ground for the U.S. Marine Corps since 1942. However, its restricted access and limited development have inadvertently preserved some of Southern California’s last remaining wild coastal terrain."
 pubDate: 2025-02-20
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/01/pendleton-wildlife.jpeg"

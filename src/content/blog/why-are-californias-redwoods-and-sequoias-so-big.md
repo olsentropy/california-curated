@@ -1,6 +1,6 @@
 ---
-title: "Why are California's redwoods and sequoias so big and tall?"
-description: "California's giant sequoias and redwoods are nature's skyscrapers. Existing mostly in a few narrow pockets in Northern California (there are also some redwoods just over the border with Oregon and Washington State), these two tree species are wonders of the biological world. They are also some of the most magnificent things to behold on the planet."
+title: "Why are California’s redwoods and sequoias so big and tall?"
+description: "California’s giant sequoias and redwoods are nature’s skyscrapers. Existing mostly in a few narrow pockets in Northern California (there are also some redwoods just over the border with Oregon and Washington State), these two tree species are wonders of the biological world. They are also some of the most magnificent things to behold on the planet."
 pubDate: 2021-03-04
 heroImage: "https://californiacurated.com/wp-content/uploads/2021/03/sequoias-olse1826-001.jpeg"
 wpId: 1640

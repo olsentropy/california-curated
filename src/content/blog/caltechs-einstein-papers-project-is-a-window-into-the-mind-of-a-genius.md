@@ -1,5 +1,5 @@
 ---
-title: "Caltech's Einstein Papers Project is a Window into the Mind of a Genius"
+title: "Caltech’s Einstein Papers Project is a Window into the Mind of a Genius"
 description: "Albert Einstein on the beach in Santa Barbara in 1931 ( The Caltech Archives ) We wrote a piece a while back about the three winters Albert Einstein spent in Pasadena, a little-known chapter in the…"
 pubDate: 2025-04-24
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/04/einstein-santa-barbara.jpg"

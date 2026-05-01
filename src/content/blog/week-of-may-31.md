@@ -1,6 +1,6 @@
 ---
-title: "California companies lead the effort to save the world with microbes, California connection: meet 2018 Nobel Prize winner in chemistry Frances Arnold, Carnegie Observatories and the GMT, Questioning \"Disaster tourism\" in California, Feeling the Force in Anaheim and more"
-description: "California companies lead the effort to save the world with microbes, California connection: meet 2018 Nobel Prize winner in chemistry Frances Arnold, Carnegie Observatories and the GMT, Questioning \"Disaster tourism\" in California, Feeling the Force in Anaheim and more"
+title: "California companies lead the effort to save the world with microbes, California connection: meet 2018 Nobel Prize winner in chemistry Frances Arnold, Carnegie Observatories and the GMT, Questioning “Disaster tourism” in California, Feeling the Force in Anaheim and more"
+description: "California companies lead the effort to save the world with microbes, California connection: meet 2018 Nobel Prize winner in chemistry Frances Arnold, Carnegie Observatories and the GMT, Questioning “Disaster tourism” in California, Feeling the Force in Anaheim and more"
 pubDate: 2019-05-31
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/05/fishforms_school_brockeninaglory1200x900-1.jpg"
 wpId: 580

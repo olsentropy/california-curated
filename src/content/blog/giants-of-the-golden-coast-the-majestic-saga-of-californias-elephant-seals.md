@@ -1,6 +1,6 @@
 ---
-title: "California's Elephant Seals are the Giants of the Golden Coast"
-description: "Elephant seal in California. Buy us a cup of coffee? Lots of work goes into California Curated. We'd appreciate it! Once teetering on the brink of extinction, the California elephant seal has made an…"
+title: "California’s Elephant Seals are the Giants of the Golden Coast"
+description: "Elephant seal in California. Buy us a cup of coffee? Lots of work goes into California Curated. We’d appreciate it! Once teetering on the brink of extinction, the California elephant seal has made an…"
 pubDate: 2024-09-30
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/10/elephant-seal-beach.jpg"
 wpId: 2708

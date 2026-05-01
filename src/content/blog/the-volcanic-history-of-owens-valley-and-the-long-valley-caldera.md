@@ -1,6 +1,6 @@
 ---
-title: "Exploring the Long Valley Caldera, California's Ancient Supervolcano"
-description: "Beneath the seemingly calm and serene landscape of Eastern California lies one of the planet's most explosive features — a volcanic giant that has been slumbering for thousands of years. It's the Long Valley Caldera."
+title: "Exploring the Long Valley Caldera, California’s Ancient Supervolcano"
+description: "Beneath the seemingly calm and serene landscape of Eastern California lies one of the planet’s most explosive features — a volcanic giant that has been slumbering for thousands of years. It’s the Long Valley Caldera."
 pubDate: 2023-01-20
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/01/drone-hot-creek.jpg"
 wpId: 87

@@ -1,6 +1,6 @@
 ---
-title: "Creosote Bushes Are the Mojave Desert's Time Travelers&nbsp;"
-description: "In the Mojave Desert, one creosote plant known as \"King Clone\" is estimated to be over 12,000 years old, making it one of the oldest living clonal organisms on Earth."
+title: "Creosote Bushes Are the Mojave Desert’s Time Travelers&nbsp;"
+description: "In the Mojave Desert, one creosote plant known as “King Clone” is estimated to be over 12,000 years old, making it one of the oldest living clonal organisms on Earth."
 pubDate: 2025-02-24
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/02/green-planet-creosote.jpg"
 wpId: 5005

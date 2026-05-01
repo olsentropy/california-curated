@@ -1,6 +1,6 @@
 ---
-title: "The Remarkable Revival of the Giant Sea Bass in California: Catalina Island's Growing Giants"
-description: "The Giant Sea Bass, also known as Stereolepis gigas, has long been a majestic part of California's coastal ecosystems. This behemoth of a fish can grow up to nearly 7 and a half feet long, weighing a whopping 560 pounds, and can live to the age of 75."
+title: "The Remarkable Revival of the Giant Sea Bass in California: Catalina Island’s Growing Giants"
+description: "The Giant Sea Bass, also known as Stereolepis gigas, has long been a majestic part of California’s coastal ecosystems. This behemoth of a fish can grow up to nearly 7 and a half feet long, weighing a whopping 560 pounds, and can live to the age of 75."
 pubDate: 2024-12-13
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/05/sea-bass.jpeg"
 wpId: 1998

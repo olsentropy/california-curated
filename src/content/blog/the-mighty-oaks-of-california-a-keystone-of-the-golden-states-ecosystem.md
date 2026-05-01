@@ -1,6 +1,6 @@
 ---
-title: "The Mighty Oaks of California Are a Keystone of the Golden State's Ecosystem"
-description: "Support California Curated by buying us a coffee? Oak trees hold a profound presence in the landscape of California, constituting a living link between the state's rich biodiversity and cultural…"
+title: "The Mighty Oaks of California Are a Keystone of the Golden State’s Ecosystem"
+description: "Support California Curated by buying us a coffee? Oak trees hold a profound presence in the landscape of California, constituting a living link between the state’s rich biodiversity and cultural…"
 pubDate: 2024-08-22
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/08/oak-tree-1.jpg"
 wpId: 2029

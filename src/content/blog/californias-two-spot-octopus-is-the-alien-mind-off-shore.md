@@ -1,6 +1,6 @@
 ---
 title: "California’s Two-Spot Octopus is the Alien Mind Off Shore"
-description: "Would you support us? Just a few bucks. We'd appreciate it! I have a deep passion for octopuses. I have made several short documentaries about them and even traveled twice to Indonesia with one of…"
+description: "Would you support us? Just a few bucks. We’d appreciate it! I have a deep passion for octopuses. I have made several short documentaries about them and even traveled twice to Indonesia with one of…"
 pubDate: 2025-12-19
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/12/octopus-int-rectangle.jpg"
 wpId: 6780

@@ -1,5 +1,5 @@
 ---
-title: "Towing an iceberg from Antarctica isn't a new idea."
+title: "Towing an iceberg from Antarctica isn’t a new idea."
 description: "It was proposed 70 years ago by a maverick California scientist at Scripps. Sign up for the&nbsp; California Science Weekly newsletter . Fresh California science every Friday! Annie Spratt…"
 pubDate: 2019-06-11
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/06/iceberg.jpeg"

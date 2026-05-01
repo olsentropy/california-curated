@@ -1,6 +1,6 @@
 ---
-title: "White shark sightings are up in California, but don't panic"
-description: "CSULB Shark Lab They're baaaack!&nbsp; Here we are in late summer and the great white shark stories keep coming. On August 22, a drone captured a white shark swimming beneath some surfers, who…"
+title: "White shark sightings are up in California, but don’t panic"
+description: "CSULB Shark Lab They’re baaaack!&nbsp; Here we are in late summer and the great white shark stories keep coming. On August 22, a drone captured a white shark swimming beneath some surfers, who…"
 pubDate: 2019-08-23
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/09/the-blob.jpg"
 wpId: 813

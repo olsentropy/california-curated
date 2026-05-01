@@ -1,5 +1,5 @@
 ---
-title: "The Majesty and Mystery of California's Bristlecone Pines"
+title: "The Majesty and Mystery of California’s Bristlecone Pines"
 description: "Bristlecones are the longest living organism on earth.  Gnarled and oftentimes squat, especially when compared to the majestic coastal redwoods and giant sequoias living near the coast further west, they hardly seem like mythical beings. But to scientists, they are a trove of information, offering clues to near immortality and to the many ways that the earth’s climate has changed over the last 5,000 years."
 pubDate: 2021-01-17
 heroImage: "https://californiacurated.com/wp-content/uploads/2021/08/158a2-bristlecone.jpg"

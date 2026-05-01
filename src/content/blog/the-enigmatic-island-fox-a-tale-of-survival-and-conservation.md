@@ -1,6 +1,6 @@
 ---
 title: "The Enigmatic Island Fox: A Tale of Survival and Conservation"
-description: "The Island Fox's journey from the brink of extinction to a conservation success story is a testament to the power of dedicated conservation efforts. It also highlights the importance of maintaining ecological balance in sensitive environments like the Channel Islands."
+description: "The Island Fox’s journey from the brink of extinction to a conservation success story is a testament to the power of dedicated conservation efforts. It also highlights the importance of maintaining ecological balance in sensitive environments like the Channel Islands."
 pubDate: 2023-12-20
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/12/santa_cruz_island_fox-nature-conservancy.jpeg"
 wpId: 2880

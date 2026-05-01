@@ -1,6 +1,6 @@
 ---
 title: "Tejon Pass is a Journey Through Time, Terrain, and Tectonics"
-description: "Interstate 5 coming out of the Grapevine near Tejon Pass (Photo: Erik Olsen) Support California Curated with a small donation. There's a drive that I've done many times where I tend to look around…"
+description: "Interstate 5 coming out of the Grapevine near Tejon Pass (Photo: Erik Olsen) Support California Curated with a small donation. There’s a drive that I’ve done many times where I tend to look around…"
 pubDate: 2023-08-04
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/grapevine-and-i5.jpg"
 wpId: 2367

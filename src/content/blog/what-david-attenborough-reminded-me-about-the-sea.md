@@ -1,6 +1,6 @@
 ---
 title: "What David Attenborough Reminded Me About the Sea"
-description: "(Photo: Alamy) Would you support us? Just a few bucks. We'd appreciate it! I’m going to keep this week’s article shorter than usual. I want to talk about the ocean. I know I do this a lot; many…"
+description: "(Photo: Alamy) Would you support us? Just a few bucks. We’d appreciate it! I’m going to keep this week’s article shorter than usual. I want to talk about the ocean. I know I do this a lot; many…"
 pubDate: 2025-07-24
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/07/ocean-oceans.jpeg"
 wpId: 6241

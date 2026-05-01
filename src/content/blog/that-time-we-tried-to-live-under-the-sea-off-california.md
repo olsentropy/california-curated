@@ -1,6 +1,6 @@
 ---
 title: "That Time We Tried to Live Under the Sea Off California"
-description: "One of the most ambitious attempts to allow humans to live on the ocean floor took place just off San Diego. It's called SEALAB II."
+description: "One of the most ambitious attempts to allow humans to live on the ocean floor took place just off San Diego. It’s called SEALAB II."
 pubDate: 2026-04-24
 heroImage: "https://californiacurated.com/wp-content/uploads/2026/04/sealab-II-navy-1024x1024.jpg"
 wpId: 7278

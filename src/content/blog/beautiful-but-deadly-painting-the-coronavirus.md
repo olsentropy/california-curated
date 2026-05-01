@@ -1,6 +1,6 @@
 ---
 title: "Beautiful, but Deadly: Painting the Coronavirus"
-description: "Pandemic as art. You've seen it. Probably a thousand or more times by now. It's the image of a greyish sphere, hanging in space, barbed with blood-red spikes. It looks like an undersea Navy mine...…"
+description: "Pandemic as art. You’ve seen it. Probably a thousand or more times by now. It’s the image of a greyish sphere, hanging in space, barbed with blood-red spikes. It looks like an undersea Navy mine……"
 pubDate: 2020-05-20
 heroImage: "https://californiacurated.com/wp-content/uploads/2021/08/0d8ba-coronavirus-goodsell.jpg"
 wpId: 1398

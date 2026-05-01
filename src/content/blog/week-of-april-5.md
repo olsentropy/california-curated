@@ -1,6 +1,6 @@
 ---
-title: "CalTech's famous fly lab, Saving California's rare fruit, Atomic microscope, Winter snowfall earthquakes, Brain enhancement drugs, Mars copter"
-description: "CalTech's famous fly lab, Saving California's rare fruit, Atomic microscope, Winter snowfall earthquakes, Brain enhancement drugs, Mars copter"
+title: "CalTech’s famous fly lab, Saving California’s rare fruit, Atomic microscope, Winter snowfall earthquakes, Brain enhancement drugs, Mars copter"
+description: "CalTech’s famous fly lab, Saving California’s rare fruit, Atomic microscope, Winter snowfall earthquakes, Brain enhancement drugs, Mars copter"
 pubDate: 2019-04-06
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/04/2880px-drosophila_melanogaster_proboscis.jpg"
 wpId: 402

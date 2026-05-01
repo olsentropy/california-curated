@@ -1,6 +1,6 @@
 ---
 title: "How a Tiny Beetle Helped Save California"
-description: "California's citrus industry confronted a deadly challenge, leading to a groundbreaking innovation in pest control. Cottony Cushion Scale (Public Domain) Click to buy us a cup of coffee? We'd…"
+description: "California’s citrus industry confronted a deadly challenge, leading to a groundbreaking innovation in pest control. Cottony Cushion Scale (Public Domain) Click to buy us a cup of coffee? We’d…"
 pubDate: 2025-01-07
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/01/cottony-cushion-scale-cottony-cushion1.jpg"
 wpId: 4943

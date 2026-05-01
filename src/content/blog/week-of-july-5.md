@@ -1,6 +1,6 @@
 ---
-title: "Redwood poachers ruin majestic giants // LA's air quality is deteriorating // Inhaled: new podcast series  // California science news roundup"
-description: "Redwood poachers ruin majestic giants // LA's air quality is deteriorating // Inhaled: new podcast series  // California science news roundup"
+title: "Redwood poachers ruin majestic giants // LA’s air quality is deteriorating // Inhaled: new podcast series  // California science news roundup"
+description: "Redwood poachers ruin majestic giants // LA’s air quality is deteriorating // Inhaled: new podcast series  // California science news roundup"
 pubDate: 2019-07-05
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/07/redwood_burl_poaching_600.jpg"
 wpId: 674

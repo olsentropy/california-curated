@@ -1,6 +1,6 @@
 ---
 title: "The California Gull is the Unsung Hero of Feathered Adaptability and Ecological Balance"
-description: "Support California Curated with a small donation. Imagine a bird that's not only a reliable fixture on both coastal and inland landscapes, but also a winged hero with a knack for saving ecosystems…"
+description: "Support California Curated with a small donation. Imagine a bird that’s not only a reliable fixture on both coastal and inland landscapes, but also a winged hero with a knack for saving ecosystems…"
 pubDate: 2023-10-06
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/10/california-gull-2.jpeg"
 wpId: 2658

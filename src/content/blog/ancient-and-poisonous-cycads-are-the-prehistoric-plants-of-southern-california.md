@@ -1,6 +1,6 @@
 ---
 title: "Ancient and Poisonous Cycads Are the Prehistoric Plants of Southern California"
-description: "Cycad at Descanso Gardens in La Canada Flintridge. (Photo: Erik Olsen) Would you support us? Just a few bucks. We'd appreciate it! If there’s one thing our increasingly digital world has pushed me…"
+description: "Cycad at Descanso Gardens in La Canada Flintridge. (Photo: Erik Olsen) Would you support us? Just a few bucks. We’d appreciate it! If there’s one thing our increasingly digital world has pushed me…"
 pubDate: 2026-01-06
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/05/cycad.jpg"
 wpId: 6823

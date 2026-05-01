@@ -1,6 +1,6 @@
 ---
 title: "The Ancient Cycads: A Living Fossil Collection at Descanso Gardens"
-description: "Cycads are cool to look at and examine closely, and it turns out that one of the best places in the United States to see actual living cycads in Descanso Gardens in La Canada Flintridge. But how'd they get there?"
+description: "Cycads are cool to look at and examine closely, and it turns out that one of the best places in the United States to see actual living cycads in Descanso Gardens in La Canada Flintridge. But how’d they get there?"
 pubDate: 2021-04-11
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/05/cycad.jpg"
 wpId: 437

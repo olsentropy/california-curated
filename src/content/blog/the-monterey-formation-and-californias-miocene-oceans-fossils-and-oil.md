@@ -1,6 +1,6 @@
 ---
-title: "California's Monterey Formation: Unraveling the Secrets of a Fossil-Rich, Oil-Bearing Geological Wonder"
-description: "California's Monterey Formation is one of the most fascinating geological formations in the United States. Stretching along the California coast from San Francisco to Los Angeles, this formation is notable for its incredible diversity of siliceous rocks—rocks rich in silica, such as shale, chert, diatomite, and porcelanite."
+title: "California’s Monterey Formation: Unraveling the Secrets of a Fossil-Rich, Oil-Bearing Geological Wonder"
+description: "California’s Monterey Formation is one of the most fascinating geological formations in the United States. Stretching along the California coast from San Francisco to Los Angeles, this formation is notable for its incredible diversity of siliceous rocks—rocks rich in silica, such as shale, chert, diatomite, and porcelanite."
 pubDate: 2024-09-04
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/09/monterey-formation.jpg"
 wpId: 3667

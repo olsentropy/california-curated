@@ -1,6 +1,6 @@
 ---
-title: "Lithium in Death Valley, Frogs making comeback, JPL's Climate Elvis, Science of traffic jams, Mono Lake's gulls, Amazing scallop eyes, Cow burps, Bee thieves"
-description: "CalTech's famous fly lab, Saving California's rare fruit, Atomic microscope, Winter snowfall earthquakes, Brain enhancement drugs, Mars copter"
+title: "Lithium in Death Valley, Frogs making comeback, JPL’s Climate Elvis, Science of traffic jams, Mono Lake’s gulls, Amazing scallop eyes, Cow burps, Bee thieves"
+description: "CalTech’s famous fly lab, Saving California’s rare fruit, Atomic microscope, Winter snowfall earthquakes, Brain enhancement drugs, Mars copter"
 pubDate: 2019-05-10
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/05/lithuum.png"
 wpId: 499

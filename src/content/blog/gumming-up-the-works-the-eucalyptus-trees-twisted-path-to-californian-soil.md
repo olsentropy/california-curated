@@ -1,5 +1,5 @@
 ---
-title: "The Eucalyptus Tree's Twisted Path to Californian Soil"
+title: "The Eucalyptus Tree’s Twisted Path to Californian Soil"
 description: "Eucalyptus in Los Angeles (Erik Olsen) Support California Curated with a small donation. The California landscape is dotted with numerous plant species, many of them native , but few have a story as…"
 pubDate: 2023-08-21
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/eucalyptus.jpg"

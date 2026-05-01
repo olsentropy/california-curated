@@ -1,6 +1,6 @@
 ---
-title: "Blocking offshore drilling // Finding clear skies for stargazing in California // Amazing moon shots // Black abalone recovery // California's Central Valley as art"
-description: "Blocking offshore drilling // Finding clear for star-gazing in California // Amazing moon shots // Black abalone recovery // California's Central Valley as art"
+title: "Blocking offshore drilling // Finding clear skies for stargazing in California // Amazing moon shots // Black abalone recovery // California’s Central Valley as art"
+description: "Blocking offshore drilling // Finding clear for star-gazing in California // Amazing moon shots // Black abalone recovery // California’s Central Valley as art"
 pubDate: 2019-06-21
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/06/oil-rig.png"
 wpId: 648

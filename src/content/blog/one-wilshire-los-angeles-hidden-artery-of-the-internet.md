@@ -1,6 +1,6 @@
 ---
 title: "One Wilshire: Los Angeles’ Hidden Artery of the Internet"
-description: "One Wilshire in downtown Los Angeles. Would you support us? Just a few bucks. We'd appreciate it! I often discover these stories not from full articles, books, or podcasts, but from a single…"
+description: "One Wilshire in downtown Los Angeles. Would you support us? Just a few bucks. We’d appreciate it! I often discover these stories not from full articles, books, or podcasts, but from a single…"
 pubDate: 2025-10-17
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/10/one-wilshire-top.jpg"
 wpId: 6601

@@ -1,5 +1,5 @@
 ---
-title: "Southern California's unheralded role in Apollo 11"
+title: "Southern California’s unheralded role in Apollo 11"
 description: "The lunar laser ranging project is the longest continuing experiment in the history of space science."
 pubDate: 2019-07-19
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/07/apollo-11.webp"

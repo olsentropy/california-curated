@@ -1,6 +1,6 @@
 ---
 title: "John Isaacs, the Maverick Oceanographer Who Wanted to Tow Icebergs to California"
-description: "California’s water crises have always inspired bold solutions, but few ideas rival the sheer audacity of John Isaacs' proposal to tow a giant Antarctic iceberg to San Diego."
+description: "California’s water crises have always inspired bold solutions, but few ideas rival the sheer audacity of John Isaacs’ proposal to tow a giant Antarctic iceberg to San Diego."
 pubDate: 2024-12-06
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/12/iceberg-towing.jpg"
 wpId: 4762

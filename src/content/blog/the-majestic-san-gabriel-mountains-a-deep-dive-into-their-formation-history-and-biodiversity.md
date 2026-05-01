@@ -1,6 +1,6 @@
 ---
 title: "The Majestic San Gabriel Mountains: A Deep Dive into Their Formation, History, and Biodiversity"
-description: "It is believed that much of the sand on California's legendary beaches originated in the San Gabriel mountains, the result of erosion and various rivers and streams that run into the Pacific Ocean."
+description: "It is believed that much of the sand on California’s legendary beaches originated in the San Gabriel mountains, the result of erosion and various rivers and streams that run into the Pacific Ocean."
 pubDate: 2023-08-31
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/san-gabriel-and-skyline.jpeg"
 wpId: 2472

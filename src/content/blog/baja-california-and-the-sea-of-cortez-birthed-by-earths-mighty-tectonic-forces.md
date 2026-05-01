@@ -1,6 +1,6 @@
 ---
 title: "Baja California Is Slowly Breaking Away from the Mainland and May One Day Become an Island"
-description: "In the southwest corner of North America, surrounded by the vast Pacific Ocean and the ethereal Sea of Cortez, lies the rugged and beautiful Baja California Peninsula. While well known for its captivating landscapes, what's perhaps more fascinating is the story of its origin—a tale written in the language of tectonic plate movements, over tens of millions of years."
+description: "In the southwest corner of North America, surrounded by the vast Pacific Ocean and the ethereal Sea of Cortez, lies the rugged and beautiful Baja California Peninsula. While well known for its captivating landscapes, what’s perhaps more fascinating is the story of its origin—a tale written in the language of tectonic plate movements, over tens of millions of years."
 pubDate: 2023-07-30
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/07/baja-photo.jpg"
 wpId: 2317

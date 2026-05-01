@@ -1,6 +1,6 @@
 ---
-title: "Using California reservoirs like a battery // NASA's Mars Helicopter // A gazillion ladybugs fill the sky // The fish with Dragonglass teeth // Lighter than air metal"
-description: "California companies lead the effort to save the world with microbes, California connection: meet 2018 Nobel Prize winner in chemistry Frances Arnold, Carnegie Observatories and the GMT, Questioning \"Disaster tourism\" in California, Feeling the Force in Anaheim and more"
+title: "Using California reservoirs like a battery // NASA’s Mars Helicopter // A gazillion ladybugs fill the sky // The fish with Dragonglass teeth // Lighter than air metal"
+description: "California companies lead the effort to save the world with microbes, California connection: meet 2018 Nobel Prize winner in chemistry Frances Arnold, Carnegie Observatories and the GMT, Questioning “Disaster tourism” in California, Feeling the Force in Anaheim and more"
 pubDate: 2019-06-07
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/06/resevoir.jpg"
 wpId: 598

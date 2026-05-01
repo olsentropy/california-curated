@@ -1,6 +1,6 @@
 ---
-title: "Salt to Salvation: The Desalination Revolution in California's Drought Battle"
-description: "While an atmospheric river storm in 2023 significantly eased California's drought conditions for the time being, there is widespread concern that serious drought conditions will soon return and become the new norm."
+title: "Salt to Salvation: The Desalination Revolution in California’s Drought Battle"
+description: "While an atmospheric river storm in 2023 significantly eased California’s drought conditions for the time being, there is widespread concern that serious drought conditions will soon return and become the new norm."
 pubDate: 2025-03-13
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/12/2022_10_13_ai_0051_shasta_lake_levels.jpg"
 wpId: 2855

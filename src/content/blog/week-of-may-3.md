@@ -1,6 +1,6 @@
 ---
-title: "Netflix's Our Planet takes on California, Talking with your brain, Banning animal dissection, California's \"King Tides\", Threats to California's artichokes"
-description: "CalTech's famous fly lab, Saving California's rare fruit, Atomic microscope, Winter snowfall earthquakes, Brain enhancement drugs, Mars copter"
+title: "Netflix’s Our Planet takes on California, Talking with your brain, Banning animal dissection, California’s “King Tides”, Threats to California’s artichokes"
+description: "CalTech’s famous fly lab, Saving California’s rare fruit, Atomic microscope, Winter snowfall earthquakes, Brain enhancement drugs, Mars copter"
 pubDate: 2019-05-03
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/04/our-planet-1.png"
 wpId: 496

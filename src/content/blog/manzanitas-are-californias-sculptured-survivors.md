@@ -1,6 +1,6 @@
 ---
-title: "Manzanitas are California's Sculptured Survivors"
-description: "At Inspiration Point, Yosemite, sticky whiteleaf manzanita tends to occupy south slopes, greenleaf manzanita tends to occupy north slopes. (Photo: NPS) Would you support us? Just a few bucks. We'd…"
+title: "Manzanitas are California’s Sculptured Survivors"
+description: "At Inspiration Point, Yosemite, sticky whiteleaf manzanita tends to occupy south slopes, greenleaf manzanita tends to occupy north slopes. (Photo: NPS) Would you support us? Just a few bucks. We’d…"
 pubDate: 2025-07-01
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/07/manzanita-manzanita-yosemite-upscale-4x.jpeg"
 wpId: 6131

@@ -1,6 +1,6 @@
 ---
-title: "Looking back at John McPhee's Assembling California: A Journey through Geology and Time"
-description: "when it comes to exploring the state's geology - its mountains, coastlines, and, most notably, its fault lines - few books can match the prowess and eloquence of John McPhee's \"Assembling California\". Part of his Pulitzer-winning series, \"Annals of the Former World,\" the book offers a comprehensive and accessible tour through the geological history of California, crafting a narrative that is as engaging as it is informative."
+title: "Looking back at John McPhee’s Assembling California: A Journey through Geology and Time"
+description: "when it comes to exploring the state’s geology - its mountains, coastlines, and, most notably, its fault lines - few books can match the prowess and eloquence of John McPhee’s “Assembling California”. Part of his Pulitzer-winning series, “Annals of the Former World,” the book offers a comprehensive and accessible tour through the geological history of California, crafting a narrative that is as engaging as it is informative."
 pubDate: 2024-09-06
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/06/e8f341ca8df67563124697c333bb77ce.jpg"
 wpId: 2076

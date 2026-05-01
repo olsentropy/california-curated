@@ -1,5 +1,5 @@
 ---
-title: "California's Two-Spot Octopus Combines Extraordinary Intelligence with Masterful Camouflage"
+title: "California’s Two-Spot Octopus Combines Extraordinary Intelligence with Masterful Camouflage"
 description: "The California two-spot octopus, Octopus bimaculoides, is a marine creature that not only captivates with its intelligence but also serves as a window into the complex tapestry of cephalopod behavior and genomics."
 pubDate: 2025-01-15
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/11/california-two-spot-octopus.jpg"

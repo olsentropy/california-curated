@@ -1,6 +1,6 @@
 ---
 title: "Hidden in Plain Sight: The Fascinating World of California’s Bush Toyon"
-description: "Toyon. (Photo: Erik Olsen) Click to buy us a cup of coffee? We'd appreciate it! California is a land of endless natural wonder. From towering redwoods to sun-soaked deserts, the state offers an…"
+description: "Toyon. (Photo: Erik Olsen) Click to buy us a cup of coffee? We’d appreciate it! California is a land of endless natural wonder. From towering redwoods to sun-soaked deserts, the state offers an…"
 pubDate: 2023-05-09
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/11/img_0149.jpg"
 wpId: 1968

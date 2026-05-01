@@ -1,5 +1,5 @@
 ---
-title: "California's Common, but Lovely, Birds: the House Finch"
+title: "California’s Common, but Lovely, Birds: the House Finch"
 description: "One of the most common birds in California, probably familiar to anyone whether a backyard enthusiast or committed ornithologist is the house finch.  The house finch (Haemorhous mexicanus) is a small passerine (perching) bird that is native to western North America, including California. This bird is widely known for its vibrant red plumage and melodic song, making it a beloved sight and sound in backyards across the state."
 pubDate: 2023-03-20
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/03/house-finch.jpg"

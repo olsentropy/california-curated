@@ -1,6 +1,6 @@
 ---
 title: "Strange new sea life in California, Magnificent murres, Eagle cam at Big Bear, Going to prison for killing a fish, Oral history of the Keck observatory"
-description: "CalTech's famous fly lab, Saving California's rare fruit, Atomic microscope, Winter snowfall earthquakes, Brain enhancement drugs, Mars copter"
+description: "CalTech’s famous fly lab, Saving California’s rare fruit, Atomic microscope, Winter snowfall earthquakes, Brain enhancement drugs, Mars copter"
 pubDate: 2019-04-19
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/04/screen-shot-2019-04-18-at-3.26.00-pm.png"
 wpId: 471

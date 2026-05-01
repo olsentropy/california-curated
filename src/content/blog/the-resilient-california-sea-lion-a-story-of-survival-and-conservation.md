@@ -1,5 +1,5 @@
 ---
-title: "The California Sea Lion's Story of Survival and Conservation"
+title: "The California Sea Lion’s Story of Survival and Conservation"
 description: "California sea lions are part of the family Otariidae, which includes all eared seals. These agile marine mammals are well adapted for life in the ocean, with streamlined bodies, strong flippers, and a layer of blubber to help regulate body temperature."
 pubDate: 2024-08-30
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/07/sealions.jpg"

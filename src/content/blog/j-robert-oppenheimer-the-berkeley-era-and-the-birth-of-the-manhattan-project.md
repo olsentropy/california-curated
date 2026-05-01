@@ -1,6 +1,6 @@
 ---
 title: "J. Robert Oppenheimer: The Berkeley Era and The Birth of the Manhattan Project"
-description: "J. Robert Oppenheimer, one of the leading physicists of the 20th century, is often remembered as the 'father of the atomic bomb'. However, his journey toward this formidable title began at the University of California, Berkeley, an intellectual crucible where his talent for theoretical physics was honed, ultimately leading him to oversee the Manhattan Project, a scientific endeavor that would change the world."
+description: "J. Robert Oppenheimer, one of the leading physicists of the 20th century, is often remembered as the ‘father of the atomic bomb’. However, his journey toward this formidable title began at the University of California, Berkeley, an intellectual crucible where his talent for theoretical physics was honed, ultimately leading him to oversee the Manhattan Project, a scientific endeavor that would change the world."
 pubDate: 2023-06-27
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/06/olsentropy_university_of_california_berkeley_in_the_1940s_shot__39de1189-4a20-43a1-b956-22203f86f25c.png"
 wpId: 2170
