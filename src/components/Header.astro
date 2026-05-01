@@ -1,0 +1,155 @@
+---
+import { SITE_TITLE, SECTIONS } from '../consts';
+
+const path = Astro.url.pathname;
+function isActive(href: string) {
+	if (href === '/') return path === '/';
+	return path === href || path.startsWith(href + '/');
+}
+---
+
+<header class="cc-header">
+	<div class="cc-utility">
+		<div class="container utility-row">
+			<button class="cc-icon-btn" aria-label="Open menu" id="mobile-toggle">
+				<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+					<path fill="currentColor" d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/>
+				</svg>
+			</button>
+			<a href="/search" class="cc-icon-btn" aria-label="Search">
+				<svg viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+					<path fill="currentColor" d="M21 20l-5.6-5.6A8 8 0 1014 16.4l5.6 5.6L21 20zm-11-3a6 6 0 110-12 6 6 0 010 12z"/>
+				</svg>
+			</a>
+			<div class="cc-utility-actions">
+				<a href="/subscribe" class="btn">Subscribe</a>
+				<a href="/donate" class="btn btn-primary">Donate</a>
+				<a href="/contact" class="btn">Contact</a>
+			</div>
+		</div>
+	</div>
+
+	<div class="container cc-brand">
+		<a href="/" class="cc-logo" aria-label={SITE_TITLE}>
+			<span class="cc-logo-orange">CALIFORNIA</span>
+			<span class="cc-logo-blue">CURATED</span>
+		</a>
+	</div>
+
+	<nav class="cc-nav" aria-label="Sections">
+		<div class="container cc-nav-row">
+			<a href="/" class={isActive('/') ? 'active' : ''}>HOME</a>
+			{SECTIONS.map(s => (
+				<a href={`/category/${s.slug}/`}
+					 class={isActive(`/category/${s.slug}`) ? 'active' : ''}>
+					{s.label.toUpperCase()}
+				</a>
+			))}
+		</div>
+	</nav>
+</header>
+
+<style>
+	.cc-header {
+		background: #fff;
+		border-bottom: 1px solid var(--cc-line);
+	}
+
+	.cc-utility {
+		background: #1B1F23;
+		color: #fff;
+	}
+	.utility-row {
+		display: flex;
+		align-items: center;
+		gap: 0.5rem;
+		padding: 0.6rem 1.25rem;
+	}
+	.cc-icon-btn {
+		background: transparent;
+		border: 0;
+		color: #fff;
+		cursor: pointer;
+		display: inline-flex;
+		align-items: center;
+		justify-content: center;
+		padding: 0.35rem;
+		border-radius: 4px;
+	}
+	.cc-icon-btn:hover { background: rgba(255,255,255,0.08); }
+	.cc-utility-actions {
+		margin-left: auto;
+		display: flex;
+		gap: 0.5rem;
+	}
+	.cc-utility-actions .btn {
+		border-color: rgba(255,255,255,0.5);
+		color: #fff;
+		padding: 0.4em 1em;
+		font-size: 0.95rem;
+	}
+	.cc-utility-actions .btn:hover { background: rgba(255,255,255,0.12); color: #fff; }
+	.cc-utility-actions .btn-primary {
+		background: var(--cc-blue);
+		border-color: var(--cc-blue);
+	}
+	.cc-utility-actions .btn-primary:hover {
+		background: var(--cc-blue-dark);
+		border-color: var(--cc-blue-dark);
+	}
+
+	.cc-brand {
+		text-align: center;
+		padding: 1.6rem 1.25rem 1rem;
+	}
+	.cc-logo {
+		display: inline-block;
+		font-family: "Helvetica Neue", Arial, sans-serif;
+		font-weight: 900;
+		font-size: 2.4rem;
+		letter-spacing: 0.04em;
+		line-height: 1;
+		text-decoration: none;
+	}
+	.cc-logo-orange { color: var(--cc-orange); }
+	.cc-logo-blue {
+		color: var(--cc-blue);
+		display: block;
+		font-size: 1.25rem;
+		letter-spacing: 0.45em;
+		margin-top: 0.15rem;
+	}
+
+	.cc-nav {
+		border-top: 1px solid var(--cc-line);
+		border-bottom: 1px solid var(--cc-line);
+	}
+	.cc-nav-row {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 0.25rem 2rem;
+		padding: 0.85rem 1.25rem;
+		font-family: "Helvetica Neue", Arial, sans-serif;
+		font-weight: 600;
+		font-size: 0.85rem;
+		letter-spacing: 0.07em;
+	}
+	.cc-nav-row a {
+		color: var(--cc-ink-soft);
+		padding: 0.25rem 0.1rem;
+		border-bottom: 2px solid transparent;
+	}
+	.cc-nav-row a:hover { color: var(--cc-orange); }
+	.cc-nav-row a.active {
+		color: var(--cc-blue);
+		border-bottom-color: var(--cc-blue);
+	}
+
+	@media (max-width: 720px) {
+		.cc-utility-actions .btn { padding: 0.3em 0.7em; font-size: 0.85rem; }
+		.cc-logo { font-size: 1.6rem; }
+		.cc-logo-blue { font-size: 0.9rem; letter-spacing: 0.4em; }
+		.cc-nav-row { gap: 0.5rem 1rem; font-size: 0.75rem; }
+	}
+</style>

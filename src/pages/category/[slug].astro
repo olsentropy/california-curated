@@ -1,0 +1,98 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Header from '../../components/Header.astro';
+import { SITE_TITLE, SECTIONS } from '../../consts';
+import { getPublishedPosts, heroUrl } from '../../lib/posts';
+import '../../styles/global.css';
+
+export async function getStaticPaths() {
+	return SECTIONS.map((s) => ({ params: { slug: s.slug }, props: { section: s } }));
+}
+
+const { section } = Astro.props;
+const posts = await getPublishedPosts();
+const inSection = posts.filter((p) =>
+	(p.data.categories ?? []).some((c) => (section.categories as readonly string[]).includes(c)),
+);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead
+			title={`${section.label} · ${SITE_TITLE}`}
+			description={`California Curated articles in the ${section.label} section.`}
+		/>
+	</head>
+	<body>
+		<Header />
+		<main class="container category">
+			<header class="cat-head">
+				<p class="kicker">Section</p>
+				<h1>{section.label}</h1>
+				<p class="cat-meta">{inSection.length} stories</p>
+			</header>
+			<ul class="cat-list">
+				{inSection.map((p) => (
+					<li>
+						<a href={`/blog/${p.id}/`}>
+							{heroUrl(p) && <img src={heroUrl(p)} alt={p.data.title} loading="lazy" />}
+							<div class="cat-body">
+								<h3>{p.data.title}</h3>
+								<p class="excerpt">{p.data.description}</p>
+								<p class="meta"><FormattedDate date={p.data.pubDate} /></p>
+							</div>
+						</a>
+					</li>
+				))}
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.category { padding: 2rem 1.25rem 4rem; }
+	.cat-head { text-align: center; padding: 1rem 0 2.5rem; }
+	.kicker {
+		color: var(--cc-blue);
+		font-size: 0.85rem;
+		font-weight: 600;
+		letter-spacing: 0.1em;
+		text-transform: uppercase;
+		margin: 0 0 0.5rem;
+	}
+	.cat-head h1 { margin: 0 0 0.25rem; font-size: 2.6rem; }
+	.cat-meta { color: var(--cc-muted); margin: 0; }
+	.cat-list {
+		list-style: none;
+		padding: 0;
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 2rem;
+	}
+	.cat-list a { display: block; color: var(--cc-ink); }
+	.cat-list img {
+		width: 100%;
+		aspect-ratio: 16 / 10;
+		object-fit: cover;
+		border-radius: var(--cc-radius);
+		margin-bottom: 0.75rem;
+	}
+	.cat-list h3 { font-size: 1.15rem; margin: 0 0 0.4rem; }
+	.cat-list a:hover h3 { color: var(--cc-orange); }
+	.cat-list .excerpt {
+		color: var(--cc-muted);
+		font-size: 0.95rem;
+		margin: 0 0 0.5rem;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+	.cat-list .meta { font-size: 0.85rem; color: var(--cc-muted); margin: 0; }
+	@media (max-width: 900px) { .cat-list { grid-template-columns: 1fr 1fr; } }
+	@media (max-width: 600px) { .cat-list { grid-template-columns: 1fr; } }
+</style>

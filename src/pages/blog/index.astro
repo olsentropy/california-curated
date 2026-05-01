@@ -1,0 +1,83 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Header from '../../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+import { getPublishedPosts, heroUrl } from '../../lib/posts';
+import '../../styles/global.css';
+
+const posts = await getPublishedPosts();
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={`Archive · ${SITE_TITLE}`} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main class="container archive">
+			<header class="archive-head">
+				<h1>All Articles</h1>
+				<p class="archive-meta">{posts.length} stories</p>
+			</header>
+			<ul class="archive-list">
+				{posts.map((p) => (
+					<li>
+						<a href={`/blog/${p.id}/`}>
+							{heroUrl(p) && <img src={heroUrl(p)} alt={p.data.title} loading="lazy" />}
+							<div class="archive-body">
+								<h3>{p.data.title}</h3>
+								<p class="excerpt">{p.data.description}</p>
+								<p class="meta"><FormattedDate date={p.data.pubDate} /></p>
+							</div>
+						</a>
+					</li>
+				))}
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.archive { padding: 2rem 1.25rem 4rem; }
+	.archive-head h1 { margin: 0 0 0.25rem; }
+	.archive-meta { color: var(--cc-muted); margin: 0 0 2rem; }
+	.archive-list {
+		list-style: none;
+		padding: 0;
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 2rem;
+	}
+	.archive-list a {
+		display: block;
+		color: var(--cc-ink);
+	}
+	.archive-list img {
+		width: 100%;
+		aspect-ratio: 16 / 10;
+		object-fit: cover;
+		border-radius: var(--cc-radius);
+		margin-bottom: 0.75rem;
+	}
+	.archive-list h3 {
+		font-size: 1.15rem;
+		margin: 0 0 0.4rem;
+	}
+	.archive-list a:hover h3 { color: var(--cc-orange); }
+	.archive-list .excerpt {
+		color: var(--cc-muted);
+		font-size: 0.95rem;
+		margin: 0 0 0.5rem;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+	.archive-list .meta { font-size: 0.85rem; color: var(--cc-muted); margin: 0; }
+	@media (max-width: 900px) { .archive-list { grid-template-columns: 1fr 1fr; } }
+	@media (max-width: 600px) { .archive-list { grid-template-columns: 1fr; } }
+</style>

@@ -1,0 +1,120 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+import { SECTIONS } from '../consts';
+import '../styles/global.css';
+
+type Props = CollectionEntry<'blog'>['data'];
+const { title, description, pubDate, updatedDate, heroImage, author, categories } = Astro.props;
+
+// Resolve hero image — schema allows asset OR raw URL string
+const hero =
+	typeof heroImage === 'string'
+		? heroImage
+		: heroImage && typeof heroImage === 'object' && 'src' in heroImage
+		? (heroImage as { src: string }).src
+		: undefined;
+
+// Map post's category slugs back to magazine sections (for the "Filed under" links)
+const filed = (categories ?? [])
+	.map((c) => SECTIONS.find((s) => (s.categories as readonly string[]).includes(c)))
+	.filter(Boolean)
+	.filter((v, i, a) => a.findIndex((x) => x?.slug === v?.slug) === i);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={title} description={description} />
+		{hero && <meta property="og:image" content={hero} />}
+		<meta property="og:type" content="article" />
+		<meta property="article:published_time" content={pubDate.toISOString()} />
+		{updatedDate && <meta property="article:modified_time" content={updatedDate.toISOString()} />}
+	</head>
+	<body>
+		<Header />
+		<main>
+			<article>
+				{hero && (
+					<div class="hero-wrap">
+						<img src={hero} alt={title} class="hero" />
+					</div>
+				)}
+				<div class="prose">
+					<header class="post-head">
+						<p class="post-meta">
+							<FormattedDate date={pubDate} />
+							{author && <> · By {author}</>}
+						</p>
+						<h1>{title}</h1>
+						{description && <p class="lead">{description}</p>}
+						{updatedDate && (
+							<p class="updated">Updated <FormattedDate date={updatedDate} /></p>
+						)}
+					</header>
+					<hr />
+					<slot />
+					{filed.length > 0 && (
+						<footer class="post-footer">
+							<p class="filed-under">
+								Filed under: {filed.map((s, i) => s && (
+									<>{i > 0 && ', '}<a href={`/category/${s.slug}/`}>{s.label}</a></>
+								))}
+							</p>
+						</footer>
+					)}
+				</div>
+			</article>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.hero-wrap {
+		max-width: 1200px;
+		margin: 0 auto;
+		padding: 2rem 1.25rem 0;
+	}
+	.hero {
+		width: 100%;
+		aspect-ratio: 16 / 9;
+		object-fit: cover;
+		border-radius: var(--cc-radius);
+	}
+	.post-head { padding: 2rem 0 1rem; }
+	.post-head h1 {
+		font-size: 2.6rem;
+		margin: 0.5rem 0 1rem;
+	}
+	.post-meta {
+		color: var(--cc-muted);
+		font-size: 0.9rem;
+		margin: 0;
+		text-transform: uppercase;
+		letter-spacing: 0.05em;
+	}
+	.lead {
+		font-size: 1.25rem;
+		color: var(--cc-ink-soft);
+		font-style: italic;
+		margin: 0;
+	}
+	.updated {
+		color: var(--cc-muted);
+		font-size: 0.85rem;
+	}
+	.post-footer {
+		margin-top: 3rem;
+		padding-top: 1.5rem;
+		border-top: 1px solid var(--cc-line);
+	}
+	.filed-under { color: var(--cc-muted); font-size: 0.95rem; }
+	@media (max-width: 720px) {
+		.post-head h1 { font-size: 1.9rem; }
+		.lead { font-size: 1.1rem; }
+	}
+</style>

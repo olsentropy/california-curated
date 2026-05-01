@@ -1,0 +1,78 @@
+---
+import { SECTIONS, SITE_AUTHOR } from '../consts';
+const year = new Date().getFullYear();
+---
+
+<footer class="cc-footer">
+	<div class="container cc-footer-grid">
+		<div>
+			<h4>California Curated</h4>
+			<p>California, explained — science, geology, marine life, climate and the people who shape the Golden State.</p>
+			<p><a href="/donate" class="btn btn-primary">Support our work</a></p>
+		</div>
+		<div>
+			<h4>Sections</h4>
+			<ul>
+				{SECTIONS.map(s => (<li><a href={`/category/${s.slug}/`}>{s.label}</a></li>))}
+			</ul>
+		</div>
+		<div>
+			<h4>About</h4>
+			<ul>
+				<li><a href="/about/">About</a></li>
+				<li><a href="/contact/">Contact</a></li>
+				<li><a href="/subscribe/">Subscribe</a></li>
+				<li><a href="/rss.xml">RSS feed</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="cc-footer-bar">
+		<div class="container">
+			&copy; {year} {SITE_AUTHOR} · California Curated · All rights reserved.
+		</div>
+	</div>
+</footer>
+
+<style>
+	.cc-footer {
+		margin-top: 4rem;
+		background: #1B1F23;
+		color: #C9CDD3;
+	}
+	.cc-footer a { color: #C9CDD3; }
+	.cc-footer a:hover { color: var(--cc-orange); }
+	.cc-footer-grid {
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 2.5rem;
+		padding: 3rem 1.25rem 2rem;
+	}
+	.cc-footer h4 {
+		color: #fff;
+		font-family: "Helvetica Neue", Arial, sans-serif;
+		font-size: 1rem;
+		letter-spacing: 0.08em;
+		margin-bottom: 1rem;
+		text-transform: uppercase;
+	}
+	.cc-footer ul { list-style: none; padding: 0; margin: 0; }
+	.cc-footer ul li { margin: 0.4rem 0; }
+	.cc-footer-bar {
+		border-top: 1px solid #2A2F35;
+		padding: 1.25rem;
+		font-size: 0.85rem;
+		color: #6B7480;
+	}
+	.cc-footer .btn-primary {
+		background: var(--cc-blue);
+		border-color: var(--cc-blue);
+		color: #fff;
+	}
+	@media (max-width: 720px) {
+		.cc-footer-grid {
+			grid-template-columns: 1fr;
+			gap: 2rem;
+			padding: 2rem 1.25rem 1.5rem;
+		}
+	}
+</style>

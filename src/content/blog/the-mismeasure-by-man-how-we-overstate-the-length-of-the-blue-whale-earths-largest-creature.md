@@ -1,0 +1,88 @@
+---
+title: "Not So Big: How We Overstate the Length of the Blue Whale, Earth’s Largest Creature"
+description: "Many articles and references about blue whales will tell you, blue whales can reach lengths of up to 100 feet long or more. But not a single blue whale has ever been scientifically verified as being 100 feet long. That’s right. Not one."
+pubDate: 2020-04-01
+wpId: 1295
+wpSlug: "the-mismeasure-by-man-how-we-overstate-the-length-of-the-blue-whale-earths-largest-creature"
+categories: ["animals", "marine-science"]
+tags: ["blue-whales", "california", "cetaceans", "pacific-ocean"]
+author: "Erik Olsen"
+---
+
+![](https://californiacurated.com/wp-content/uploads/2020/04/blue-whale-image-california-newport.jpg?w=1024)Blue whale - probably under 50 feet - off the coast of Southern California (Erik Olsen)
+
+[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+
+For decades, the majestic blue whale has been celebrated as the largest animal ever to have existed, with popular claims frequently stating that these marine giants can reach lengths of 100 feet or more. However, no single blue whale has _ever_ been scientifically measured at 100 feet. Mainstream media, in its quest for sensational stories, has perpetuated this myth, overshadowing scientific data that places the average size much lower. This discrepancy not only distorts our understanding of these magnificent creatures but also highlights the broader issue of how media can shape and sometimes mislead public perception of scientific facts. 
+
+**The perception that blue whales commonly reach lengths of 100 feet or more likely stems from a combination of historical anecdotes, estimation errors, and a tendency to highlight extreme examples.**
+
+The blue whale (_Balaenoptera musculus_) is a truly magnificent creature. Hunted nearly to extinction in the 19th and 19th centuries, the blue whale has staged a hopeful recovery in the last five decades, since commercial whaling [was outlawed](<https://en.wikipedia.org/wiki/Whaling>) by the international community in 1966 (although some Soviet whale hunting continued into the early 1970s). 
+
+![](https://californiacurated.com/wp-content/uploads/2021/08/38b30-blue_whale_tail.jpg)Blue whale tail fluke in Sri Lanka. Credit: [Erik Olsen](<https://erikolsen.com/>)
+
+Before commercial whaling began, it was estimated that there were some 400,000 blue whales on earth. 360,000 were killed in the Antarctic alone. The International Union for Conservation of Nature estimates that there are probably between 10,000 and 25,000 blue whales worldwide today, divided among some five separate populations or groups. One of those groups, the largest in the world, is called the Eastern North Pacific population, consists of some 2,000 animals and makes an annual migration from the warm waters of Baja California to Alaska and back every year. Many swim so close to shore that a lucrative whale-watching industry has emerged in places like Southern California, where numerous fishing vessels have been converted into whale-watching ships.  
+
+> But here’s the problem: **_not a single blue whale has ever been scientifically verified as being 100 feet long._** That’s right. Not one. 
+
+Blue whales were in the news recently with the publication of two papers by Stanford’s [Jeremy Goldbogen](<https://profiles.stanford.edu/jeremy-goldbogen>) at the [Hopkins Marine Station](<https://hopkinsmarinestation.stanford.edu/>) in Pacific Grove, California. [The first paper](<https://news.stanford.edu/2019/11/25/first-ever-recording-blue-whales-heart-rate/>) recorded a leviathan’s heartbeat at great depths in Monterey Bay, revealing the somewhat astonishing fact that the whales’ heart rate slows significantly the deeper they go, reaching an average minimum of about four to eight beats per minute, _with a low of two beats per minute_. That figure was about 30 to 50 percent lower than predicted, said the researchers. The second [paper](<https://science.sciencemag.org/content/366/6471/1367>) looked at the blue whale’s size, and attempted to quantify how whales got so big and, well, why they are not bigger.  
+
+![](https://californiacurated.com/wp-content/uploads/2021/08/f550b-blue_whale_542-1.jpg)Blue whale in Sri Lanka. Photo: [Erik Olsen](<https://erikolsen.com/>)
+
+So let’s talk further about size because there are some misconceptions out there about how big these animals can get. 
+
+The blue whale is frequently cited as the largest animal to have ever lived. That’s true (so far as we know) if by size we mean weight. The largest dinosaur that we’ve ever found fossils for is the Argentinosaurus. The [Argentinosaurus](<https://www.livescience.com/34278-worlds-largest-dinosaur.html>) lived about 100 million to 93 million years ago during the Cretaceous period in what is now Argentina and is part of a group of dinosaurs known as titanosaurs. Titanosaurs were long-necked sauropods, four-legged, herbivorous animals that often grew to extraordinary sizes. We can only speculate about the actual size of Argentinosaurus since all that we know comes from just 13 bones. Scientists estimate that the Argentinosaurus probably weighed somewhere around 70-80 tons, maybe reaching as much as 90 tons. The [Natural History Museum](<https://www.nhm.ac.uk/discover/dino-directory/argentinosaurus.html>) in London suggests the animal may have been as long as 115 feet. 
+
+![](http://californiacurated.com/wp-content/uploads/2020/04/f564d-argentinosaurus_bw.jpg)_Argentinosaurus_ : Nobu Tamura
+
+Another contender for the world’s largest dinosaur is Dreadnoughtus, and in this case, the fossil record is a bit more informative. The fossils for Dreadnoughtus contained 115 bones, representing roughly 70 percent of the dinosaur’s skeleton behind its head. Dreadnoughtus was said to reach lengths of about 85 feet with an estimated mass of about [65 tons](<https://www.britannica.com/animal/Dreadnoughtus>). 
+
+However, estimates for the top size of blue whales go up to 200 tons. And, as many articles and references about blue whales will tell you, _blue whales can reach lengths of up to 100 feet long or more._ The number of legitimate science books, articles, [Web sites](<https://www.nationalgeographic.com/animals/mammals/b/blue-whale/>) and even esteemed science journals that quote this number is in the thousands. [Google it](<https://www.google.com/search?q=blue+whales+can+reach+lengths+of+up+to+100+feet+long+or+more&oq=blue+whales+can+reach+lengths+of+up+to+100+feet+long+or+more&aqs=chrome..69i57.310j0j9&sourceid=chrome&ie=UTF-8>). 
+
+But here’s the problem: **_not a single blue whale has ever been scientifically verified as being 100 feet long._** That’s right. Not one. 
+
+That said, there are two references in scientific papers of blue whales that are _near_ 100 feet. The first is a measurement dating back to 1937. This was at an Antarctic whaling station where the animal was said to measure 98 feet. But even that figure is shrouded in some suspicion. First of all, 1937 was a long time ago, and while the size of a foot or meter has not changed, a lot of record-keeping during that time is suspect, as whales were not measured using standard zoological measurement techniques. The 98-foot specimen was recorded by Lieut. Quentin R. Walsh of the US Coast Guard, who was acting as a whaling inspector of the factory ship Ulysses. Sadly, there is scant detail available about this measurement and it remains suspect in the scientific community.
+
+[The second is from a book](<https://books.google.com/books?id=FFEpmeFso7QC&pg=RA16-PP4&lpg=RA16-PP4&dq=mahasaru+nishiwaki+98+foot+whale&source=bl&ots=FylkT06Ua-&sig=ACfU3U2FlgwkQNSCzDXuM-vDXiwMV8rALw&hl=en&sa=X&ved=2ahUKEwiQtvO43czmAhUDnZ4KHZVxC40Q6AEwAHoECAgQAQ#v=onepage&q=mahasaru%20nishiwaki%2098%20foot%20whale&f=false>) and [a 1973 paper](<https://www.sararegistry.gc.ca/virtual_sara/files/cosewic/sr_blue_whale_e.pdf>) by the late biologist [Dale W. Rice](<https://go.gale.com/ps/anonymous?id=GALE%7CA535156411&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=01675427&p=AONE&sw=w>), who references a single female in Antarctica whose “authenticated” measurement was also 98 feet. The measurement was conducted by the late Japanese biologist [Masaharu Nishiwaki](<https://library.ucsd.edu/dc/object/bb0888420n>). Nishiwaki and Rice were friends, and while both are deceased, a record of their correspondence exists in a collection of Rice’s papers held by Sally Mizroch, co-trustee of the Dale W. Rice Research Library in Seattle. Reached by email, Dr. Mizroch said that Nishiwaki, who died in 1984, was a very well-respected scientist and that the figure he cited should be treated as reliable. 
+
+According to Mizroch, who has reviewed many of the Antarctic whaling records from the whaling era, whales were often measured in pieces after they were cut up, which greatly introduces the possibility for error. That is likely not the case with the 98-foot measurement, which took place in 1947 at a whaling station in Antarctica where Nishiwaki was stationed as a scientific observer. 
+
+Proper scientific measurements, the so-called “standard method”, are taken by using a straight line from the tip of the snout to the notch in the tail flukes. This technique was likely not used until well into the 20th century, said Mizroch. In fact, it wasn’t until the 1940s that the use of a metal tape measure became commonplace. According to Dan Bortolotti, author of [Wild Blue: A Natural History of the World's Largest Animal](<https://www.amazon.com/Wild-Blue-Natural-History-Largest/dp/B003D7JSZ0>), many of the larger whales in the whaling records  \-- especially those said to be over 100 feet -- were probably measured incorrectly or even deliberately exaggerated because bonus money was paid to whalers based on the size of the animal caught. 
+
+So, according to the best records we have, the largest blue whale ever properly measured ws 98 feet long. Granted, 98 feet is close to 100 feet, _but it’s not 100 feet_ and it’s certainly _not over 100 feet_ , as so many otherwise reputable references state. 
+
+So setting aside the fact that so many sources say the blue whale has reached 100 feet or more, and that there is no scientific evidence proving this, a key question to ask is how large can whales become. The second scientific paper cited above [in Science](<https://science.sciencemag.org/content/366/6471/1367>) looked at energetics, the study of how efficiently animals ingest prey and turn the energy it contains into body mass. 
+
+![](http://californiacurated.com/wp-content/uploads/2020/04/c6e5b-anim1754_-_flickr_-_noaa_photo_library.jpg)National Oceanic and Atmospheric Administration
+
+Most baleen whales are so-called lunge feeders. They open their mouths wide and lunge at prey like krill or copepods, drawing in hundreds of pounds of food at a time. Lunge-feeding baleen whales, it turns out, are wonderfully efficient feeders. The larger they become, the larger their gulps are, and the more food they draw in. But they also migrate vast distances, and oftentimes have to dive deep to find prey, both of which consume a large amount of energy. 
+
+Using an ocean-going Fitbit-like tag, the scientists tracked whales’ foraging patterns, hoping to measure the animals energetic efficiency, or the total amount of energy gained from foraging, relative to the energy expended in finding and consuming prey. Using data from numerous expeditions around the globe that involved tens of thousands of hours of fieldwork at sea on living whales from pole to pole, the team concluded that there are likely ecological limits to how large a whale can become and that they are likely constrained by the amount of food available in their specific habitat.    
+
+![](https://californiacurated.com/wp-content/uploads/2020/04/whale-fall.png?w=1024)Whale fall off the California Coast (Ocean Exploration Trust)
+
+[John Calambokidis](<http://www.cascadiaresearch.org/page/biologists-cascadia-research>), a Senior Research Biologist and co-founder of [Cascadia Research](<https://cascadiaresearch.org/>), a non-profit research organization formed in 1979 based in Olympia, Washington, has studied blue whales up and down the West Coast for decades. He told [California Curated](<https://californiacurated.com/>) that the persistent use of the 100-foot figure can be misleading, especially when the number is used as a reference to all blue whales. 
+
+The sizes among different blue whale groups differ significantly depending on their location around the globe. Antarctic whales tend to be much bigger, largely due to the amount of available food in cold Southern waters. The blue whales we see off the coast of California, Oregon, Washington and Alaska, are part of a different group from those in the North Pacific. They differ slightly both morphologically and genetically, and they consume different types and quantities of food. North Pacific blue whales tend to be smaller, and likely have always been so. Calambokidis believes that the chances any blue whales off the West Coast of the US ever reaching anything close to 100 feet is “almost non-existent”. 
+
+We emailed [Regina Asmutis-Silvia](<https://us.whales.org/author/regina-asmutis-silvia/>), Executive Director North America of [Whale and Dolphin Conservation](<https://us.whales.org/>), to ask about this discrepancy among so many seemingly authoritative outlets. She wrote: “While it appears biologically possible for blue whales to reach or exceed lengths of 100’, the current (and limited) photogrammetry data suggest that the larger blue whales which have been more recently sampled are under 80 feet.” ([Photogrammetry](<https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/photogrammetry#:~:text=Photogrammetry%20comprises%20all%20techniques%20concerned,tripods%2C%20airborne%20or%20spaceborne%20platforms.>) is the process of using several photos of an object (like a blue whale) to extract a three-dimensional measurement. from two-dimensional data. It is widely used in biology, as well as engineering, architecture and many other disciplines.) Photogrammetry measurements are now often acquired by drones and have proven to be a more accurate means of measuring whale size at sea. 
+
+![](https://californiacurated.com/wp-content/uploads/2021/08/35656-whaling-dstation.jpg)Antarctic whaling station. 
+
+Here’s a key point: In the early part of the 20th century and before, whales were measured by whalers for the purpose of whaling, not measured by scientists for the purpose of science. Again, none of this is to say that blue whales aren’t gargantuan animals. They are massive and magnificent, but if we are striving for precision, it is not accurate to declare, as so many articles do, that blue whales reach lengths of 100 feet or more. This is not to say it’s impossible that whales grew to or above 100 feet, it’s that, according to the scientific records, none ever has. 
+
+A relevant point from Dr. Asmutis-Silvia about the early days of Antarctic whaling: “ _Given that whales are long-lived and we don't know at what age each species reaches its maximum length, it is possible that we took some very big, very old whales before we started to measure what we were taking.”  _
+
+This seems entirely reasonable, but the fact still remains that we still do not have a single verified completely reliable account of any blue whale, any animal for that matter, ever growing to 100 feet. References to the 100-foot number, which we reiterate are found [everywhere](<https://www.google.com/search?biw=1954&bih=1224&sxsrf=ACYBGNTQLkNUuDhVoEFB4lddfpcLtyZI7A%3A1576618976045&ei=4Ev5Xau7AvXK0PEP3OunoAw&q=blue+whale+length+100+feet&oq=blue+whale+length+100+feet&gs_l=psy-ab.3...2707.4778..5041...0.2..0.167.983.4j5......0....1..gws-wiz.......0i71j0i20i263j0j33i22i29i30.LVR75PYDins&ved=0ahUKEwirq42w073mAhV1JTQIHdz1CcQQ4dUDCAs&uact=5>), also seem to suggest that blue whales today reach that length, and this is not backed up by a shred of evidence. The largest blue whales [measured using the modern photogrammetry techniques](<https://www.int-res.com/articles/esr2018/37/n037p183.pdf;%20https://onlinelibrary.wiley.com/doi/pdf/10.1111/mms.12328>)**** mentioned above have never surpassed 90 feet. 
+
+In an email exchange with [Jeremy Goldbogen](<https://hopkinsmarinestation.stanford.edu/people/jeremy-goldbogen>), the scientist at Stanford who authored the two studies above, he says that measurements with drones off California “have been as high as 26 meters” or 85 feet. 
+
+So, why does nearly every citation online and elsewhere regularly cite the 100-foot number? It probably has to do with our love of superlatives and round numbers. We have a deep visceral NEED to be able to say that such and such animal is the biggest or the heaviest or the smallest or whatever. And, when it comes down to it, 100 feet is a nice round number that rolls easily off the tongue or typing fingers. 
+
+All said, blue whales remain incredible and incredibly large animals, and deserve our appreciation and protection. Their impressive rebound over the last half-century is to be widely celebrated, but let’s not, in the spirit of scientific inquiry, overstate their magnificence. They are magnificent enough.  
+
+[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+
+* * *
+
+If you are interested in other organisms on the planet that are the world's largest, check out [our recent story on California Redwoods and Giant Sequoias](<https://californiacurated.com/2020/03/04/why-are-californias-redwoods-and-sequoias-so-big/>).

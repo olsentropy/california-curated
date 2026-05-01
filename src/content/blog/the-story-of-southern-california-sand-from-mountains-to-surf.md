@@ -1,0 +1,54 @@
+---
+title: "The Story of Southern California Sand from Mountains to Surf"
+description: "It turns out most of the grains between your toes actually began their journey high in the mountains above LA, on craggy slopes far from the shore. Mostly, we are talking about the San Gabriel Mountains and other peaks in the Transverse Ranges that run east-west across Southern California."
+pubDate: 2025-09-04
+wpId: 6332
+wpSlug: "the-story-of-southern-california-sand-from-mountains-to-surf"
+categories: ["cities", "climate-change", "geology-and-earthquakes", "marine-science", "places"]
+tags: ["beach-geology", "beach-sand-science", "california", "california-beaches", "california-coast", "cliff-erosion", "coastal-ecosystems", "coastal-erosion", "environment", "geology", "geology-california", "littoral-cells", "national-park-service", "nature", "pacific-ocean", "rivers-and-sand", "san-gabriel-mountains", "sand-and-surf", "sand-origins", "scripps-oceanography", "sediment-transport", "travel"]
+author: "Erik Olsen"
+---
+
+![](https://californiacurated.com/wp-content/uploads/2023/07/beach-3.jpg?w=1024)Beautiful day at a Southern California beach (Photo: Erik Olsen)
+
+[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+
+Southern California’s beaches are a miracle. More than just landscapes, they’re cultural treasures. In movies, ads, and music, the coastline often feels like its own character. To many of us who live here, the coastline is not just a place to swim or sunbathe but a symbol of freedom, fun, and the state’s enduring connection to the Pacific Ocean. 
+
+And let's face it, the beach would not be _the beach_ without sand. 
+
+[![](https://californiacurated.com/wp-content/uploads/2025/08/california-quail-mockup-4.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)Pick up some California wildlife gifts at our Etsy store. Seriously, they're cool. 
+
+I didn’t realize how essential sand is until I read Vince Beiser’s _[The World in a Grain](<https://amzn.to/4p4g8QD>)_. It quickly became one of my favorite nonfiction books in recent years ... and I read _a lot_ of nonfiction. Think about it: without sand, there would be no roads, no skyscrapers, no glass. That means no windows, no windshields, no microscopes or telescopes. No fiber-optic cables. No computer chips, since silicon, the foundation of modern technology, is essentially refined sand. The list is endless. I get that it's not all beach sand per se, but that's a quibble. 
+
+However, that's not what I want to focus on here. What struck me, as I was walking along the beach the other day, was a simpler question: where does all the sand on Southern California’s beaches actually come from?
+
+![](https://californiacurated.com/wp-content/uploads/2023/07/san-gabriel-mountains.jpg?w=1024)San Gabriel Mountains (Photo: Erik Olsen)
+
+Well, put yourself for a moment on the beach in Southern California. No shoes. It turns out most of the grains between your toes actually began their journey high in the mountains above LA, on craggy slopes far from the shore. Mostly, we are talking about the [San Gabriel Mountains](<https://californiacurated.com/2023/08/31/the-majestic-san-gabriel-mountains-a-deep-dive-into-their-formation-history-and-biodiversity/>) and other peaks in the [Transverse Ranges](<https://en.wikipedia.org/wiki/Transverse_Ranges>) that run east-west across Southern California. The rugged, crumbling peaks are made of granite and other crystalline rocks rich in [quartz, feldspar, and mica](<https://core.ac.uk/download/pdf/289179767.pdf>). Through the relentless process of erosion, wind and rain loosen these minerals, which tumble into streams and rivers, such as the San Gabriel and Santa Ana and are carried out to sea. During storms, torrents of sediment rush downhill toward the coast, and that's where ocean currents take over.
+
+This region where wave action dominates is called the [littoral zone](<https://en.wikipedia.org/wiki/Littoral_zone>) (no, not the literal zone), and it is where sand gets pushed around through a process known as [longshore drift](<https://en.wikipedia.org/wiki/Longshore_drift>). Waves arriving at an angle push sediment along the shore, creating a conveyor belt that can carry grains for miles. 
+
+![](https://californiacurated.com/wp-content/uploads/2025/09/lifeguard-tower.jpg?w=1024)Lifeguard tower in Southern California (Photo: Erik Olsen)
+
+In Southern California, this natural process has been reshaping the shoreline for thousands of years, constantly adding sand to some beaches while stripping it away from others. A lot has changed recently though (I mean "recent" in geologic terms). Humans, as we often do, have f*cked things up a bit, changing the nature of our beaches since the late 1800s. The piece [I wrote recently about the Wedge in Newport](<https://californiacurated.substack.com/p/the-physics-and-geology-of-the-wedge>) is a good example. Breakwaters and other "[shoreline armoring](<https://oceanservice.noaa.gov/facts/shoreline-armoring.html>)" built along our coast have altered the movement of sand, sending much of it into deep water where it is lost. 
+
+Dams have also cut off a huge portion of sediment that would once have reached the coast, reducing Southern California’s [natural sand supply by nearly half](<https://dbw.parks.ca.gov/?page_id=29356>). To make up the difference, beach managers [spend millions each year](<https://www.cbsnews.com/beach-nourishment>) dredging sand from offshore deposits or harbor entrances and [pumping it onto the shore](<https://pubs.geoscienceworld.org/gsa/books/monograph/2201/chapter-abstract/122817700/Beach-Nourishment>). We've been doing this for nearly a century. Between 1930 and 1993, [more than 130 million cubic yards](<https://www.coastal.ca.gov/coastalvoices/resources/2006-LittoralCells.pdf>) of sand were placed on Southern California beaches, creating wide stretches like Santa Monica and the [Silver Strand](<https://en.wikipedia.org/wiki/Silver_Strand_\(San_Diego\)>) that are much larger today than they would have been naturally. And if you think this is a temporary thing, forget it. With climate change driving stronger storms and rising seas, the need to keep replenishing sand is only going to grow.
+
+![](https://californiacurated.com/wp-content/uploads/2025/09/big-tujunga-dam.jpg?w=1024)Big Tujunga Dam in Southern California (Photo: Erik Olsen)
+
+For decades, geologists believed that rivers supplied as much as 90 percent of California’s beach sand. That view has shifted. [Research from Scripps Institution of Oceanography](<https://scripps.ucsd.edu/news/coastal-bluffs-provide-more-sand-california-beaches-previously-believed>) shows that coastal cliffs also play a huge role on some beaches. Along the stretch from Dana Point to La Jolla, cliff erosion has been shown to contribute about half of the beach-sized sediment, and in some places up to 68 percent. This is especially true in dry years, when rivers deliver less. Still, on a statewide scale, rivers remain the main suppliers of sand. Studies from the California Coastal Sediment Management Workgroup show that, under present conditions, rivers account for about 90 percent of sand reaching Southern California beaches, with bluff erosion contributing roughly 10 percent.
+
+![](https://californiacurated.com/wp-content/uploads/2025/09/littoral-cells.jpg?w=1024)Littoral cells in Southern California (Source: California Coastal Commission)
+
+The sand’s story does not end at the shoreline. California’s coast is divided into [littoral cells](<https://www.coastal.ca.gov/coastalvoices/resources/2006-LittoralCells.pdf>), essentially self-contained systems with their own sand sources, transport pathways, and sinks. Most sand in Southern California moves north to south, carried by waves arriving from the northwest. Eventually, much of it is lost into submarine canyons like Mugu, Newport, and Redondo, where it drops into deep water and exits the system. 
+
+Beach sand can also come from more subtle sources. Shell fragments from marine life, volcanic ash from distant eruptions, and even windblown desert dust can mix into the sediment. Perhaps not surprisingly, in recent decades, scientists [have discovered another ingredient](<https://www.wired.com/story/microplastic-core-samples>) in our sand: plastic. [Studies at Point Reyes and Golden Gate National Parks](<https://www.nps.gov/articles/microplastics-on-national-park-beaches.htm>) found an average of about 140 microplastic particles per kilogram of beach sand, which works out to roughly 50 pieces in a single measuring cup. Even beaches farther south, like Cabrillo, average nearly 40 pieces per kilogram.
+
+![](https://californiacurated.com/wp-content/uploads/2025/09/microplastics-nps.jpeg?w=1024)Staff collect sand samples at Cabrillo National Monument. Testing revealed that Cabrillo sand had the lowest average concentration of microplastics of all of the West Coast parks studied. Point Reyes and Golden Gate had the highest. (Photo: National Park Service)
+
+Offshore sediment cores show that microplastic deposition [has doubled every 15 years](<https://www.wired.com/story/microplastic-core-samples/>) since the 1940s, with most fragments being synthetic fibers shed from clothing. These findings show that California’s sand is no longer entirely natural; it now carries the pernicious imprint of modern consumer life, with fragments of plastic woven into its mix of minerals and shells. Interestingly, the concentration of microplastics off the coast of California, where researchers carried out their studies, appears to be lower than in many other parts of the world. “If they were doing the same thing in the Yellow Sea in China, right outside some of the big rivers like the Yangtze and Yellow River, the concentrations would probably be huge and cause adverse effects,” University of Michigan eco-toxicologist Allen Burton [told Wired Magazine](<https://www.wired.com/story/microplastic-core-samples/>).
+
+But look, the chance to walk or run on the beach is one of the real gifts of living in California. The sand that sticks to your towel, finds its way into your shoes, or gets stuck into your hair has traveled a long, remarkable journey to reach the shore. It’s true that some of it now includes plastic, which is unfortunate, but that doesn’t diminish the joy of being at the beach. In a world where so much feels fast, fleeting, and digital, there’s something really cool and satisfying about putting your toes in the sand, a remarkable substance that is totally crucial to modern civilization, yet which is also timeless and ancient and part of the natural world around us.
+
+[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)

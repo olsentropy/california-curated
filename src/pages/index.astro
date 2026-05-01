@@ -1,0 +1,308 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import { SITE_DESCRIPTION, SITE_TITLE, SECTIONS } from '../consts';
+import { getPublishedPosts, heroUrl, take } from '../lib/posts';
+import '../styles/global.css';
+
+const posts = await getPublishedPosts();
+const [hero, ...rest] = posts;
+const previousPosts = take(rest, 5);
+const popularFeatures = take(rest.slice(5), 6);
+
+// Build per-section rails for the rest of the homepage
+const sectionRails = SECTIONS.map((s) => {
+	const inSection = posts.filter((p) =>
+		(p.data.categories ?? []).some((c) => (s.categories as readonly string[]).includes(c)),
+	);
+	return { section: s, posts: take(inSection, 4) };
+}).filter((r) => r.posts.length > 0);
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<!-- ====== HERO ROW ====== -->
+			<section class="hero-row container">
+				<div class="hero-secondary">
+					{previousPosts.slice(0, 2).map((p) => (
+						<article class="byline-card">
+							<p class="byline">— {p.data.author}</p>
+							<a href={`/blog/${p.id}/`}><h3>{p.data.title}</h3></a>
+						</article>
+					))}
+				</div>
+
+				{hero && (
+					<a class="hero-main" href={`/blog/${hero.id}/`}>
+						{heroUrl(hero) && <img src={heroUrl(hero)} alt={hero.data.title} loading="eager" />}
+						<div class="hero-divider" aria-hidden="true">—</div>
+						<h1>{hero.data.title}</h1>
+					</a>
+				)}
+
+				<aside class="hero-rail">
+					<h3 class="rail-title">Previous Posts</h3>
+					{previousPosts.map((p) => (
+						<article class="rail-item">
+							<a href={`/blog/${p.id}/`}>
+								<h4>{p.data.title}</h4>
+								<p class="meta"><FormattedDate date={p.data.pubDate} /></p>
+							</a>
+						</article>
+					))}
+				</aside>
+			</section>
+
+			<div class="container donate-cta">
+				<a href="/donate" class="btn btn-primary">Support California Curated With A Small Donation</a>
+			</div>
+
+			<!-- ====== POPULAR FEATURES ====== -->
+			<section class="features-band">
+				<div class="container features-band-inner">
+					<h2 class="features-title">Popular Features</h2>
+				</div>
+			</section>
+			<section class="container features-grid">
+				{popularFeatures.map((p) => (
+					<article class="feature-card">
+						<a href={`/blog/${p.id}/`} class="thumb">
+							{heroUrl(p) ? <img src={heroUrl(p)} alt={p.data.title} loading="lazy" /> : <div class="thumb-fallback" />}
+						</a>
+						<div class="feature-body">
+							<a href={`/blog/${p.id}/`}><h3>{p.data.title}</h3></a>
+							<p class="excerpt">{p.data.description}</p>
+							<a href={`/blog/${p.id}/`} class="btn btn-primary">Read</a>
+						</div>
+					</article>
+				))}
+			</section>
+
+			<!-- ====== SECTION RAILS ====== -->
+			{sectionRails.map(({ section, posts }) => (
+				<section class="container section-rail">
+					<div class="section-rail-head">
+						<h2>{section.label}</h2>
+						<a href={`/category/${section.slug}/`} class="see-all">See all →</a>
+					</div>
+					<div class="rail-grid">
+						{posts.map((p) => (
+							<a href={`/blog/${p.id}/`} class="rail-card">
+								{heroUrl(p) && <img src={heroUrl(p)} alt={p.data.title} loading="lazy" />}
+								<h4>{p.data.title}</h4>
+								<p class="meta"><FormattedDate date={p.data.pubDate} /></p>
+							</a>
+						))}
+					</div>
+				</section>
+			))}
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.hero-row {
+		display: grid;
+		grid-template-columns: 220px 1fr 280px;
+		gap: 1.5rem;
+		padding: 2rem 1.25rem;
+		align-items: start;
+	}
+
+	.hero-secondary {
+		display: flex;
+		flex-direction: column;
+		gap: 2rem;
+	}
+	.byline-card .byline {
+		color: var(--cc-blue);
+		font-size: 0.85rem;
+		font-weight: 600;
+		margin: 0 0 0.4rem;
+	}
+	.byline-card h3 {
+		font-size: 1.4rem;
+		line-height: 1.15;
+		margin: 0;
+	}
+	.byline-card a { color: var(--cc-ink); }
+	.byline-card a:hover { color: var(--cc-orange); }
+
+	.hero-main {
+		display: block;
+		text-align: center;
+		color: var(--cc-ink);
+	}
+	.hero-main img {
+		width: 100%;
+		aspect-ratio: 16 / 9;
+		object-fit: cover;
+		border-radius: var(--cc-radius);
+	}
+	.hero-divider {
+		color: var(--cc-blue);
+		font-size: 1.5rem;
+		margin: 1rem 0 0.5rem;
+	}
+	.hero-main h1 {
+		font-size: 2rem;
+		max-width: 600px;
+		margin: 0 auto;
+	}
+	.hero-main:hover h1 { color: var(--cc-orange); }
+
+	.hero-rail .rail-title {
+		font-size: 1.6rem;
+		font-family: Georgia, serif;
+		margin-bottom: 1rem;
+	}
+	.rail-item {
+		padding: 1rem 0;
+		border-top: 1px solid var(--cc-line);
+	}
+	.rail-item:first-of-type { border-top: 0; padding-top: 0; }
+	.rail-item h4 {
+		font-size: 1.1rem;
+		margin: 0 0 0.35rem;
+		color: var(--cc-ink);
+	}
+	.rail-item:hover h4 { color: var(--cc-orange); }
+	.rail-item .meta {
+		font-size: 0.85rem;
+		color: var(--cc-muted);
+		margin: 0;
+	}
+
+	.donate-cta {
+		text-align: center;
+		padding: 1.5rem 1.25rem 3rem;
+	}
+	.donate-cta .btn-primary { font-size: 1.05rem; padding: 0.85em 2em; }
+
+	.features-band {
+		background: #1B1F23;
+		color: #fff;
+		position: relative;
+	}
+	.features-band-inner {
+		padding: 1rem 1.25rem;
+		position: relative;
+	}
+	.features-band-inner::after {
+		content: "";
+		position: absolute;
+		right: 1.25rem; top: 50%; transform: translateY(-50%);
+		width: 60px; height: 18px;
+		background: linear-gradient(90deg, var(--cc-blue) 0 50%, transparent 50% 100%);
+		clip-path: polygon(0 0, 100% 0, 90% 100%, 0 100%);
+	}
+	.features-title {
+		color: #fff;
+		font-family: "Helvetica Neue", Arial, sans-serif;
+		font-size: 1.3rem;
+		letter-spacing: 0.08em;
+		margin: 0;
+	}
+
+	.features-grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 2.5rem;
+		padding: 2.5rem 1.25rem;
+	}
+	.feature-card {
+		display: grid;
+		grid-template-columns: 200px 1fr;
+		gap: 1.25rem;
+	}
+	.feature-card .thumb img {
+		width: 100%;
+		aspect-ratio: 1 / 1;
+		object-fit: cover;
+		border-radius: var(--cc-radius);
+	}
+	.feature-card .thumb-fallback {
+		width: 100%;
+		aspect-ratio: 1/1;
+		background: var(--cc-line-soft);
+		border-radius: var(--cc-radius);
+	}
+	.feature-card h3 {
+		font-size: 1.15rem;
+		margin: 0 0 0.5rem;
+	}
+	.feature-card a { color: var(--cc-ink); }
+	.feature-card a:hover h3 { color: var(--cc-orange); }
+	.feature-card .excerpt {
+		color: var(--cc-muted);
+		font-size: 0.95rem;
+		margin: 0 0 1rem;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+
+	.section-rail {
+		padding: 2.5rem 1.25rem;
+		border-top: 1px solid var(--cc-line);
+	}
+	.section-rail-head {
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+		margin-bottom: 1.25rem;
+	}
+	.section-rail-head h2 {
+		font-size: 1.6rem;
+		margin: 0;
+	}
+	.see-all {
+		font-size: 0.95rem;
+		font-weight: 600;
+	}
+	.rail-grid {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		gap: 1.5rem;
+	}
+	.rail-card { color: var(--cc-ink); }
+	.rail-card img {
+		width: 100%;
+		aspect-ratio: 4 / 3;
+		object-fit: cover;
+		border-radius: var(--cc-radius);
+		margin-bottom: 0.6rem;
+	}
+	.rail-card h4 {
+		font-size: 1rem;
+		margin: 0 0 0.3rem;
+	}
+	.rail-card:hover h4 { color: var(--cc-orange); }
+	.rail-card .meta {
+		font-size: 0.85rem;
+		color: var(--cc-muted);
+		margin: 0;
+	}
+
+	@media (max-width: 980px) {
+		.hero-row { grid-template-columns: 1fr; }
+		.hero-secondary { flex-direction: row; }
+		.features-grid { grid-template-columns: 1fr; }
+		.feature-card { grid-template-columns: 120px 1fr; }
+		.rail-grid { grid-template-columns: 1fr 1fr; }
+	}
+	@media (max-width: 600px) {
+		.hero-secondary { flex-direction: column; }
+		.rail-grid { grid-template-columns: 1fr; }
+	}
+</style>

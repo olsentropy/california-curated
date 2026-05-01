@@ -1,0 +1,816 @@
+{
+  "redirects": [
+    {
+      "source": "/2019/03/15/week-of-march-15",
+      "destination": "/blog/week-of-march-15/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/04/05/week-of-april-5",
+      "destination": "/blog/week-of-april-5/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/04/12/week-of-april-12",
+      "destination": "/blog/week-of-april-12/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/04/19/week-of-april-19",
+      "destination": "/blog/week-of-april-19/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/05/03/week-of-may-3",
+      "destination": "/blog/week-of-may-3/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/05/10/week-of-may-10",
+      "destination": "/blog/week-of-may-10/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/05/29/how-california-companies-are-leading-the-effort-to-save-the-world-with-microbes",
+      "destination": "/blog/how-california-companies-are-leading-the-effort-to-save-the-world-with-microbes/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/05/31/week-of-may-31",
+      "destination": "/blog/week-of-may-31/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/06/07/week-of-june-7",
+      "destination": "/blog/week-of-june-7/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/01/20/the-volcanic-history-of-owens-valley-and-the-long-valley-caldera",
+      "destination": "/blog/the-volcanic-history-of-owens-valley-and-the-long-valley-caldera/",
+      "permanent": true
+    },
+    {
+      "source": "/2021/04/11/descanso-gardens-rare-collection-of-dinosaur-era-plants",
+      "destination": "/blog/descanso-gardens-rare-collection-of-dinosaur-era-plants/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/06/11/towing-an-iceberg-from-antarctica-isnt-a-new-idea",
+      "destination": "/blog/towing-an-iceberg-from-antarctica-isnt-a-new-idea/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/06/21/week-of-june-21-2019",
+      "destination": "/blog/week-of-june-21-2019/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/07/05/week-of-july-5",
+      "destination": "/blog/week-of-july-5/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/07/18/californias-unheralded-role-in-apollo-11",
+      "destination": "/blog/californias-unheralded-role-in-apollo-11/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/07/19/week-of-july-19",
+      "destination": "/blog/week-of-july-19/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/07/24/saving-the-calfornia-condor",
+      "destination": "/blog/saving-the-calfornia-condor/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/08/23/white-shark-sightings-are-up-but-dont-panic",
+      "destination": "/blog/white-shark-sightings-are-up-but-dont-panic/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/09/27/this-is-how-were-going-to-solve-climate-change",
+      "destination": "/blog/this-is-how-were-going-to-solve-climate-change/",
+      "permanent": true
+    },
+    {
+      "source": "/2021/11/08/the-little-known-california-scientist-who-may-have-saved-millions-of-lives",
+      "destination": "/blog/the-little-known-california-scientist-who-may-have-saved-millions-of-lives/",
+      "permanent": true
+    },
+    {
+      "source": "/2019/11/15/the-genius-of-luther-burbank-father-of-the-french-fry",
+      "destination": "/blog/the-genius-of-luther-burbank-father-of-the-french-fry/",
+      "permanent": true
+    },
+    {
+      "source": "/2021/01/17/the-majesty-and-mystery-of-californias-bristlecone-pine",
+      "destination": "/blog/the-majesty-and-mystery-of-californias-bristlecone-pine/",
+      "permanent": true
+    },
+    {
+      "source": "/2020/01/30/vasquez-rocks-where-plates-collide-and-captain-kirk-roamed",
+      "destination": "/blog/vasquez-rocks-where-plates-collide-and-captain-kirk-roamed/",
+      "permanent": true
+    },
+    {
+      "source": "/2020/04/01/the-mismeasure-by-man-how-we-overstate-the-length-of-the-blue-whale-earths-largest-creature",
+      "destination": "/blog/the-mismeasure-by-man-how-we-overstate-the-length-of-the-blue-whale-earths-largest-creature/",
+      "permanent": true
+    },
+    {
+      "source": "/2020/04/30/how-one-building-survived-the-san-francisco-earthquake-and-changed-the-world",
+      "destination": "/blog/how-one-building-survived-the-san-francisco-earthquake-and-changed-the-world/",
+      "permanent": true
+    },
+    {
+      "source": "/2020/05/20/beautiful-but-deadly-painting-the-coronavirus",
+      "destination": "/blog/beautiful-but-deadly-painting-the-coronavirus/",
+      "permanent": true
+    },
+    {
+      "source": "/2020/06/11/ancient-bristlecone-pines-by-drone",
+      "destination": "/blog/ancient-bristlecone-pines-by-drone/",
+      "permanent": true
+    },
+    {
+      "source": "/2020/06/26/mars-helicopter-ingenuity-is-ready-for-its-wright-brothers-moment",
+      "destination": "/blog/mars-helicopter-ingenuity-is-ready-for-its-wright-brothers-moment/",
+      "permanent": true
+    },
+    {
+      "source": "/2021/03/04/why-are-californias-redwoods-and-sequoias-so-big",
+      "destination": "/blog/why-are-californias-redwoods-and-sequoias-so-big/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/03/19/californias-common-birds-the-house-finch",
+      "destination": "/blog/californias-common-birds-the-house-finch/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/02/09/the-rich-historical-and-geological-past-of-the-alabama-hills",
+      "destination": "/blog/the-rich-historical-and-geological-past-of-the-alabama-hills/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/02/13/california-is-a-dolphin-paradise",
+      "destination": "/blog/california-is-a-dolphin-paradise/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/02/14/ten-little-known-facts-about-california",
+      "destination": "/blog/ten-little-known-facts-about-california/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/04/23/the-man-for-whom-mt-whitney-was-named",
+      "destination": "/blog/the-man-for-whom-mt-whitney-was-named/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/04/05/the-los-angeles-aqueduct-cascades-a-monument-to-human-ingenuity-and-the-lifeblood-of-a-megacity",
+      "destination": "/blog/the-los-angeles-aqueduct-cascades-a-monument-to-human-ingenuity-and-the-lifeblood-of-a-megacity/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/04/18/the-return-of-lake-tulare-once-the-largest-lake-west-of-the-mississippi",
+      "destination": "/blog/the-return-of-lake-tulare-once-the-largest-lake-west-of-the-mississippi/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/04/20/serpentine-the-geological-gem-of-california",
+      "destination": "/blog/serpentine-the-geological-gem-of-california/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/05/08/toyon-californias-berry-own-super-shrub",
+      "destination": "/blog/toyon-californias-berry-own-super-shrub/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/05/15/the-desert-tortoise-a-resilient-survivor-of-the-mojave",
+      "destination": "/blog/the-desert-tortoise-a-resilient-survivor-of-the-mojave/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/06/07/the-unearthed-truth-hydraulic-minings-lingering-legacy-in-california",
+      "destination": "/blog/the-unearthed-truth-hydraulic-minings-lingering-legacy-in-california/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/06/08/the-long-life-and-accidental-death-of-the-prometheus-bristlecone-pine",
+      "destination": "/blog/the-long-life-and-accidental-death-of-the-prometheus-bristlecone-pine/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/06/16/a-deep-dive-into-the-world-of-californias-orcas-majestic-ocean-predators",
+      "destination": "/blog/a-deep-dive-into-the-world-of-californias-orcas-majestic-ocean-predators/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/06/20/ghost-of-the-west-the-tragic-story-of-the-california-grizzly-bears-journey-from-wilderness-to-state-flag",
+      "destination": "/blog/ghost-of-the-west-the-tragic-story-of-the-california-grizzly-bears-journey-from-wilderness-to-state-flag/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/06/21/genetic-guardians-the-asilomar-conference-and-its-dna-diplomacy",
+      "destination": "/blog/genetic-guardians-the-asilomar-conference-and-its-dna-diplomacy/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/06/27/j-robert-oppenheimer-the-berkeley-era-and-the-birth-of-the-manhattan-project",
+      "destination": "/blog/j-robert-oppenheimer-the-berkeley-era-and-the-birth-of-the-manhattan-project/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/07/05/how-the-zesty-gold-rush-of-citrus-transformed-california",
+      "destination": "/blog/how-the-zesty-gold-rush-of-citrus-transformed-california/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/07/08/chasing-shadows-why-are-dinosaur-fossils-so-scarce-in-california",
+      "destination": "/blog/chasing-shadows-why-are-dinosaur-fossils-so-scarce-in-california/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/07/20/mountains-to-shoreline-the-geologic-journey-of-southern-californias-beaches",
+      "destination": "/blog/mountains-to-shoreline-the-geologic-journey-of-southern-californias-beaches/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/07/30/baja-california-and-the-sea-of-cortez-birthed-by-earths-mighty-tectonic-forces",
+      "destination": "/blog/baja-california-and-the-sea-of-cortez-birthed-by-earths-mighty-tectonic-forces/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/08/02/the-dive-of-the-century-hannes-kellers-1000-foot-descent-off-catalina-island",
+      "destination": "/blog/the-dive-of-the-century-hannes-kellers-1000-foot-descent-off-catalina-island/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/08/04/tejon-pass-a-journey-through-time-terrain-and-tectonics",
+      "destination": "/blog/tejon-pass-a-journey-through-time-terrain-and-tectonics/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/08/04/einstein-in-pasadena-three-winters-in-paradise",
+      "destination": "/blog/einstein-in-pasadena-three-winters-in-paradise/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/08/08/the-sweet-tale-of-the-boysenberry-from-berry-vines-to-theme-park-lines",
+      "destination": "/blog/the-sweet-tale-of-the-boysenberry-from-berry-vines-to-theme-park-lines/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/08/10/mt-wilson-observatory-a-celestial-time-capsule",
+      "destination": "/blog/mt-wilson-observatory-a-celestial-time-capsule/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/08/21/gumming-up-the-works-the-eucalyptus-trees-twisted-path-to-californian-soil",
+      "destination": "/blog/gumming-up-the-works-the-eucalyptus-trees-twisted-path-to-californian-soil/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/08/31/the-majestic-san-gabriel-mountains-a-deep-dive-into-their-formation-history-and-biodiversity",
+      "destination": "/blog/the-majestic-san-gabriel-mountains-a-deep-dive-into-their-formation-history-and-biodiversity/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/08/24/orange-enigma-the-garibaldis-dance-of-color-and-character-in-californias-coastal-ballet",
+      "destination": "/blog/orange-enigma-the-garibaldis-dance-of-color-and-character-in-californias-coastal-ballet/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/09/05/davidson-seamount-unveiled-the-unseen-mountains-and-hidden-treasures-off-californias-coast",
+      "destination": "/blog/davidson-seamount-unveiled-the-unseen-mountains-and-hidden-treasures-off-californias-coast/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/09/07/navigating-the-unseen-current-how-the-california-current-system-shapes-our-ocean-climate-and-future",
+      "destination": "/blog/navigating-the-unseen-current-how-the-california-current-system-shapes-our-ocean-climate-and-future/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/09/27/the-oceans-invisible-elevator-how-upwelling-fuels-californias-marine-bounty",
+      "destination": "/blog/the-oceans-invisible-elevator-how-upwelling-fuels-californias-marine-bounty/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/10/09/autumns-alchemy-unveiling-the-science-behind-californias-high-sierra-fall-foliage",
+      "destination": "/blog/autumns-alchemy-unveiling-the-science-behind-californias-high-sierra-fall-foliage/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/10/05/through-the-looking-glass-head-the-enigmatic-world-of-the-barreleye-fish",
+      "destination": "/blog/through-the-looking-glass-head-the-enigmatic-world-of-the-barreleye-fish/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/10/06/the-california-gull-the-unsung-hero-of-feathered-adaptability-and-ecological-balance",
+      "destination": "/blog/the-california-gull-the-unsung-hero-of-feathered-adaptability-and-ecological-balance/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/10/12/journey-to-the-iron-giant-nasas-psyche-mission-could-unlock-the-secrets-of-a-metallic-world",
+      "destination": "/blog/journey-to-the-iron-giant-nasas-psyche-mission-could-unlock-the-secrets-of-a-metallic-world/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/11/03/underground-fury-the-1985-methane-blast-that-rocked-los-angeles-and-rerouted-its-subways",
+      "destination": "/blog/underground-fury-the-1985-methane-blast-that-rocked-los-angeles-and-rerouted-its-subways/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/11/13/the-mystical-sentinels-of-the-mojave-unraveling-the-secrets-of-the-joshua-tree",
+      "destination": "/blog/the-mystical-sentinels-of-the-mojave-unraveling-the-secrets-of-the-joshua-tree/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/11/20/roadcut-revelations-unearthing-deep-history-along-the-highway",
+      "destination": "/blog/roadcut-revelations-unearthing-deep-history-along-the-highway/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/11/22/frontiers-of-discovery-slacs-mission-to-unveil-the-mysteries-of-matter-and-the-cosmos",
+      "destination": "/blog/frontiers-of-discovery-slacs-mission-to-unveil-the-mysteries-of-matter-and-the-cosmos/",
+      "permanent": true
+    },
+    {
+      "source": "/2023/12/20/the-enigmatic-island-fox-a-tale-of-survival-and-conservation",
+      "destination": "/blog/the-enigmatic-island-fox-a-tale-of-survival-and-conservation/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/08/26/parkfield-california-earthquake-capital",
+      "destination": "/blog/parkfield-california-earthquake-capital/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/08/23/how-theodore-roosevelts-1903-trip-to-california-gave-birth-to-modern-conservation",
+      "destination": "/blog/how-theodore-roosevelts-1903-trip-to-california-gave-birth-to-modern-conservation/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/09/02/why-bringing-back-californias-kelp-is-so-important",
+      "destination": "/blog/why-bringing-back-californias-kelp-is-so-important/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/08/21/saving-the-white-abalone-is-part-of-a-much-bigger-story",
+      "destination": "/blog/saving-the-white-abalone-is-part-of-a-much-bigger-story/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/08/22/the-mighty-oaks-of-california-a-keystone-of-the-golden-states-ecosystem",
+      "destination": "/blog/the-mighty-oaks-of-california-a-keystone-of-the-golden-states-ecosystem/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/08/30/the-resilient-california-sea-lion-a-story-of-survival-and-conservation",
+      "destination": "/blog/the-resilient-california-sea-lion-a-story-of-survival-and-conservation/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/02/27/feathers-on-the-flyway-unraveling-avian-mysteries-at-bear-divide-with-the-moore-lab",
+      "destination": "/blog/feathers-on-the-flyway-unraveling-avian-mysteries-at-bear-divide-with-the-moore-lab/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/01/10/mysteries-etched-in-earth-unraveling-the-secrets-of-the-blythe-intaglios-californias-nazca-lines",
+      "destination": "/blog/mysteries-etched-in-earth-unraveling-the-secrets-of-the-blythe-intaglios-californias-nazca-lines/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/03/27/rocks-in-motion-pinnacles-national-park-the-geological-odyssey-of-thomas-dibblee-jr-and-californias-dynamic-terrain",
+      "destination": "/blog/rocks-in-motion-pinnacles-national-park-the-geological-odyssey-of-thomas-dibblee-jr-and-californias-dynamic-terrain/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/04/15/jpl-and-the-voyager-golden-record-humanitys-a-cosmic-mixtape-in-space",
+      "destination": "/blog/jpl-and-the-voyager-golden-record-humanitys-a-cosmic-mixtape-in-space/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/04/16/julia-platt-the-unwavering-force-behind-montereys-ecological-conservation",
+      "destination": "/blog/julia-platt-the-unwavering-force-behind-montereys-ecological-conservation/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/04/25/giants-fallen-the-destruction-of-converse-basin-grove-and-its-giant-sequoias",
+      "destination": "/blog/giants-fallen-the-destruction-of-converse-basin-grove-and-its-giant-sequoias/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/05/01/black-gold-beach-how-oil-transformed-long-beach-and-grew-the-california-economy",
+      "destination": "/blog/black-gold-beach-how-oil-transformed-long-beach-and-grew-the-california-economy/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/06/28/pasadena-city-of-science",
+      "destination": "/blog/pasadena-city-of-science/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/05/21/the-pacific-coast-highway-pch-icon-of-american-scenic-roadways",
+      "destination": "/blog/the-pacific-coast-highway-pch-icon-of-american-scenic-roadways/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/05/24/dark-parks-in-california-reconnecting-with-the-universe",
+      "destination": "/blog/dark-parks-in-california-reconnecting-with-the-universe/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/06/07/from-desert-riches-to-durable-glass-the-story-of-the-rio-tinto-borax-mine",
+      "destination": "/blog/from-desert-riches-to-durable-glass-the-story-of-the-rio-tinto-borax-mine/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/07/17/whale-falls-a-deep-sea-spectacle-off-the-california-coast",
+      "destination": "/blog/whale-falls-a-deep-sea-spectacle-off-the-california-coast/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/08/06/caltech-fly-labs-a-century-of-discovery",
+      "destination": "/blog/caltech-fly-labs-a-century-of-discovery/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/08/13/beyond-the-beach-how-santa-monica-became-home-to-the-rand-corporation-americas-premier-defense-think-tank",
+      "destination": "/blog/beyond-the-beach-how-santa-monica-became-home-to-the-rand-corporation-americas-premier-defense-think-tank/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/10/04/the-magic-wonder-and-science-of-ocean-bioluminescence",
+      "destination": "/blog/the-magic-wonder-and-science-of-ocean-bioluminescence/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/10/08/the-western-fence-lizard-the-world-of-scaly-sunbathing-acrobats",
+      "destination": "/blog/the-western-fence-lizard-the-world-of-scaly-sunbathing-acrobats/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/12/13/the-remarkable-revival-of-the-giant-sea-bass-in-california-catalina-islands-growing-giants",
+      "destination": "/blog/the-remarkable-revival-of-the-giant-sea-bass-in-california-catalina-islands-growing-giants/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/09/06/looking-back-john-mcphees-assembling-california-a-journey-through-geology-and-time",
+      "destination": "/blog/looking-back-john-mcphees-assembling-california-a-journey-through-geology-and-time/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/10/10/rock-stars-unearthing-the-secrets-of-the-sierra-nevada-batholith",
+      "destination": "/blog/rock-stars-unearthing-the-secrets-of-the-sierra-nevada-batholith/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/09/23/squid-pro-quo-how-the-california-market-squid-gives-back-to-nature-and-economy",
+      "destination": "/blog/squid-pro-quo-how-the-california-market-squid-gives-back-to-nature-and-economy/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/09/30/giants-of-the-golden-coast-the-majestic-saga-of-californias-elephant-seals",
+      "destination": "/blog/giants-of-the-golden-coast-the-majestic-saga-of-californias-elephant-seals/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/09/17/the-desert-garden-at-the-huntington-a-sanctuary-for-succulents-and-a-battleground-against-poaching",
+      "destination": "/blog/the-desert-garden-at-the-huntington-a-sanctuary-for-succulents-and-a-battleground-against-poaching/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/09/04/the-monterey-formation-and-californias-miocene-oceans-fossils-and-oil",
+      "destination": "/blog/the-monterey-formation-and-californias-miocene-oceans-fossils-and-oil/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/09/09/the-geology-behind-palos-verdes-perlious-predicament-of-landslides",
+      "destination": "/blog/the-geology-behind-palos-verdes-perlious-predicament-of-landslides/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/09/24/the-saber-toothed-cats-of-california-fierce-predators-of-the-pleistocene",
+      "destination": "/blog/the-saber-toothed-cats-of-california-fierce-predators-of-the-pleistocene/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/10/03/the-lost-island-of-santarosae-off-californias-coast",
+      "destination": "/blog/the-lost-island-of-santarosae-off-californias-coast/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/12/09/dark-eyed-juncos-are-californias-unexpected-pioneers-of-urban-evolution",
+      "destination": "/blog/dark-eyed-juncos-are-californias-unexpected-pioneers-of-urban-evolution/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/10/15/get-your-nukes-on-route-66-the-wild-plan-to-blast-a-highway-through-the-california-desert",
+      "destination": "/blog/get-your-nukes-on-route-66-the-wild-plan-to-blast-a-highway-through-the-california-desert/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/10/22/the-ivanpah-solar-project-is-an-engineering-solar-power-giant-in-the-mojave-desert",
+      "destination": "/blog/the-ivanpah-solar-project-is-an-engineering-solar-power-giant-in-the-mojave-desert/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/10/30/uss-independence-californias-aircraft-carrier-rests-off-the-coast",
+      "destination": "/blog/uss-independence-californias-aircraft-carrier-rests-off-the-coast/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/11/07/the-great-los-angeles-flood-of-1934-was-a-disaster-that-shaped-californias-approach-to-flood-control",
+      "destination": "/blog/the-great-los-angeles-flood-of-1934-was-a-disaster-that-shaped-californias-approach-to-flood-control/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/12/03/all-the-fish-we-did-not-see-the-discovery-of-the-oceans-false-bottom-off-california",
+      "destination": "/blog/all-the-fish-we-did-not-see-the-discovery-of-the-oceans-false-bottom-off-california/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/11/26/cadillac-desert-how-marc-reisner-changed-the-way-we-see-water",
+      "destination": "/blog/cadillac-desert-how-marc-reisner-changed-the-way-we-see-water/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/12/06/john-isaacs-the-maverick-oceanographer-who-wanted-to-tow-icebergs-to-california",
+      "destination": "/blog/john-isaacs-the-maverick-oceanographer-who-wanted-to-tow-icebergs-to-california/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/02/04/a-deep-dive-into-monterey-canyon-californias-great-abyss",
+      "destination": "/blog/a-deep-dive-into-monterey-canyon-californias-great-abyss/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/01/15/chromatics-and-cognition-the-intriguing-world-of-the-california-two-spot-octopus",
+      "destination": "/blog/chromatics-and-cognition-the-intriguing-world-of-the-california-two-spot-octopus/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/03/13/salt-to-salvation-the-desalination-revolution-in-californias-drought-battle",
+      "destination": "/blog/salt-to-salvation-the-desalination-revolution-in-californias-drought-battle/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/06/05/islands-of-insight-unraveling-the-mysteries-of-island-biogeography-in-californias-channel-islands",
+      "destination": "/blog/islands-of-insight-unraveling-the-mysteries-of-island-biogeography-in-californias-channel-islands/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/12/23/laurel-sumac-the-resilient-beauty-of-southern-californias-chaparral",
+      "destination": "/blog/laurel-sumac-the-resilient-beauty-of-southern-californias-chaparral/",
+      "permanent": true
+    },
+    {
+      "source": "/2024/12/17/walter-munk-was-a-californian-oceanographer-who-changed-our-understanding-of-the-seas",
+      "destination": "/blog/walter-munk-was-a-californian-oceanographer-who-changed-our-understanding-of-the-seas/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/04/24/caltechs-einstein-papers-project-is-a-window-into-the-mind-of-a-genius",
+      "destination": "/blog/caltechs-einstein-papers-project-is-a-window-into-the-mind-of-a-genius/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/02/20/natures-refuge-in-the-untamed-landscape-of-camp-pendleton",
+      "destination": "/blog/natures-refuge-in-the-untamed-landscape-of-camp-pendleton/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/04/01/the-fight-for-californias-coastline-and-the-future-of-the-coastal-commission",
+      "destination": "/blog/the-fight-for-californias-coastline-and-the-future-of-the-coastal-commission/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/01/17/how-a-california-company-is-giving-old-ev-batteries-a-second-life-on-the-grid-in-lancaster",
+      "destination": "/blog/how-a-california-company-is-giving-old-ev-batteries-a-second-life-on-the-grid-in-lancaster/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/01/06/how-a-tiny-beetle-helped-save-california",
+      "destination": "/blog/how-a-tiny-beetle-helped-save-california/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/02/24/creosote-bushes-are-the-mojave-deserts-time-travelers",
+      "destination": "/blog/creosote-bushes-are-the-mojave-deserts-time-travelers/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/01/16/understanding-the-impact-of-santa-ana-winds-in-the-eaton-fire",
+      "destination": "/blog/understanding-the-impact-of-santa-ana-winds-in-the-eaton-fire/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/01/29/the-mountain-pass-mine-in-california-may-be-the-u-s-rare-earths-game-changer",
+      "destination": "/blog/the-mountain-pass-mine-in-california-may-be-the-u-s-rare-earths-game-changer/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/02/10/long-valley-caldera-discover-the-science-and-beauty-of-californias-ancient-supervolcano",
+      "destination": "/blog/long-valley-caldera-discover-the-science-and-beauty-of-californias-ancient-supervolcano/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/03/04/berkeleys-cosmic-breakthrough-and-the-alvarez-discovery-that-rewrote-earths-history",
+      "destination": "/blog/berkeleys-cosmic-breakthrough-and-the-alvarez-discovery-that-rewrote-earths-history/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/03/24/the-plate-tectonic-revolution-and-how-california-became-the-epicenter-of-a-scientific-breakthrough",
+      "destination": "/blog/the-plate-tectonic-revolution-and-how-california-became-the-epicenter-of-a-scientific-breakthrough/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/05/07/the-scourge-of-ghost-lobster-traps-and-the-battle-to-save-marine-life-in-california",
+      "destination": "/blog/the-scourge-of-ghost-lobster-traps-and-the-battle-to-save-marine-life-in-california/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/06/23/californias-eye-on-the-cosmos-the-slac-built-camera-that-will-time-lapse-the-universe",
+      "destination": "/blog/californias-eye-on-the-cosmos-the-slac-built-camera-that-will-time-lapse-the-universe/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/07/01/manzanitas-are-californias-sculptured-survivors",
+      "destination": "/blog/manzanitas-are-californias-sculptured-survivors/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/07/15/californias-strangest-catastrophe",
+      "destination": "/blog/californias-strangest-catastrophe/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/11/19/transforming-californias-oil-platforms-into-marine-sanctuaries",
+      "destination": "/blog/transforming-californias-oil-platforms-into-marine-sanctuaries/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/07/10/the-caltech-experiment-that-proved-how-life-copies-itself",
+      "destination": "/blog/the-caltech-experiment-that-proved-how-life-copies-itself/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/07/24/what-david-attenborough-reminded-me-about-the-sea",
+      "destination": "/blog/what-david-attenborough-reminded-me-about-the-sea/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/05/how-california-has-revived-its-groundfish-fisheries",
+      "destination": "/blog/how-california-has-revived-its-groundfish-fisheries/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/15/bring-human-exploration-back-to-californias-deep-ocean",
+      "destination": "/blog/bring-human-exploration-back-to-californias-deep-ocean/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/09/04/the-story-of-southern-california-sand-from-mountains-to-surf",
+      "destination": "/blog/the-story-of-southern-california-sand-from-mountains-to-surf/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/20/californias-precarious-future-and-the-promise-and-limits-of-desalination",
+      "destination": "/blog/californias-precarious-future-and-the-promise-and-limits-of-desalination/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/08/27/the-physics-and-geology-of-the-wedge-californias-most-dangerous-wave",
+      "destination": "/blog/the-physics-and-geology-of-the-wedge-californias-most-dangerous-wave/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/09/11/riding-wave-energy-in-los-angeles",
+      "destination": "/blog/riding-wave-energy-in-los-angeles/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/09/19/a-tiny-california-seaweed-could-make-a-big-dent-in-livestock-methane",
+      "destination": "/blog/a-tiny-california-seaweed-could-make-a-big-dent-in-livestock-methane/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/09/26/the-unsung-california-labs-that-powered-the-digital-revolution",
+      "destination": "/blog/the-unsung-california-labs-that-powered-the-digital-revolution/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/10/03/a-microscopic-window-into-dying-reefs",
+      "destination": "/blog/a-microscopic-window-into-dying-reefs/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/10/10/california-is-a-nobel-powerhouse",
+      "destination": "/blog/california-is-a-nobel-powerhouse/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/10/17/one-wilshire-los-angeles-hidden-artery-of-the-internet",
+      "destination": "/blog/one-wilshire-los-angeles-hidden-artery-of-the-internet/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/10/23/not-so-big-how-we-overstate-the-length-of-the-blue-whale-earths-largest-creature",
+      "destination": "/blog/not-so-big-how-we-overstate-the-length-of-the-blue-whale-earths-largest-creature/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/11/03/ten-essential-books-about-californias-nature-science-and-sense-of-place",
+      "destination": "/blog/ten-essential-books-about-californias-nature-science-and-sense-of-place/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/11/06/the-happy-nut-californias-rise-to-pistachio-power",
+      "destination": "/blog/the-happy-nut-californias-rise-to-pistachio-power/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/11/14/san-clemente-island-is-where-war-games-and-wildlife-coexist",
+      "destination": "/blog/san-clemente-island-is-where-war-games-and-wildlife-coexist/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/12/15/upwelling-the-oceans-engine-beneath-californias-waters",
+      "destination": "/blog/upwelling-the-oceans-engine-beneath-californias-waters/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/03/16/the-man-who-saved-a-species",
+      "destination": "/blog/the-man-who-saved-a-species/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/02/03/measuring-the-earths-tremors-and-the-discovery-of-the-richter-scale",
+      "destination": "/blog/measuring-the-earths-tremors-and-the-discovery-of-the-richter-scale/",
+      "permanent": true
+    },
+    {
+      "source": "/2025/12/19/californias-two-spot-octopus-is-the-alien-mind-off-shore",
+      "destination": "/blog/californias-two-spot-octopus-is-the-alien-mind-off-shore/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/01/06/ancient-and-poisonous-cycads-are-the-prehistoric-plants-of-southern-california",
+      "destination": "/blog/ancient-and-poisonous-cycads-are-the-prehistoric-plants-of-southern-california/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/01/15/my-favorite-california-science-nature-videos",
+      "destination": "/blog/my-favorite-california-science-nature-videos/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/01/22/when-muybridge-made-motion-visible-in-palo-alto",
+      "destination": "/blog/when-muybridge-made-motion-visible-in-palo-alto/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/02/04/californias-daily-tidal-wave-of-life",
+      "destination": "/blog/californias-daily-tidal-wave-of-life/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/02/12/the-valley-that-feeds-a-nation",
+      "destination": "/blog/the-valley-that-feeds-a-nation/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/02/24/curiosity-is-the-point",
+      "destination": "/blog/curiosity-is-the-point/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/03/06/mbari-and-the-machines-that-let-us-see-the-deep",
+      "destination": "/blog/mbari-and-the-machines-that-let-us-see-the-deep/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/04/01/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks",
+      "destination": "/blog/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/04/13/why-southern-california-is-the-stingray-capital-of-the-world",
+      "destination": "/blog/why-southern-california-is-the-stingray-capital-of-the-world/",
+      "permanent": true
+    },
+    {
+      "source": "/2026/04/24/that-time-we-tried-to-live-under-the-sea-off-california",
+      "destination": "/blog/that-time-we-tried-to-live-under-the-sea-off-california/",
+      "permanent": true
+    }
+  ],
+  "cleanUrls": true,
+  "trailingSlash": true
+}

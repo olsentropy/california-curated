@@ -1,0 +1,54 @@
+---
+title: "Serpentine is the Geological Gem of California"
+description: "Serpentine is formed through the metamorphic process, where pre-existing rocks are transformed into new types under high temperatures, pressures, and chemical processes. This unique rock originates from the Earth's mantle, brought to the surface through tectonic activity like subduction."
+pubDate: 2023-04-21
+wpId: 1944
+wpSlug: "serpentine-the-geological-gem-of-california"
+categories: ["geology-and-earthquakes", "history-of-science", "places"]
+tags: ["california", "environment", "gems", "geology", "serpentine", "state-rock"]
+author: "Erik Olsen"
+---
+
+![](https://californiacurated.com/wp-content/uploads/2023/04/serpentine.jpg?w=1024)Serpentine (Wikipedia)
+
+[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+
+Ask anyone what the California state rock is, and I doubt whether many people would answer correctly. Is it granite, the magnificent slabby stone that creates the sheer face of [Half Dome ](<https://www.myyosemitepark.com/things-to-do/natural-wonders/yosemite-half-dome/>)and El Capitan in Yosemite? Is it [obsidian](<https://www.atlasobscura.com/places/obsidian-dome>), the glinty black stone so favored by some Native American tribes that they [would walk hundreds of miles](<https://www.nytimes.com/2023/03/20/science/yellowstone-indigenous-people-obsidian.html>) to collect it and bring home to make tools and weapons? 
+
+No, the state rock of California is neither of these. [The state rock of California is serpentine.](<https://www.conservation.ca.gov/cgs/Pages/Publications/Note_14.aspx#:~:text=Serpentine%20rock%20is%20apple%2Dgreen,and%20a%20slightly%20soapy%20feel.>)
+
+Serpentine is more than just a pretty rock—it tells a fascinating geological story. Found in many parts of California, particularly in the Coast Ranges and the Sierra Nevada foothills, serpentine is a direct link to the deep, dynamic forces that shape the planet. Because it originates from the mantle, serpentine represents a rare glimpse into Earth’s interior, a reminder that what lies beneath us is always in motion. Beyond its aesthetic appeal, serpentine plays an important role in the environment. The soils that develop from serpentine rock are famously inhospitable to many plants due to their high levels of magnesium and low levels of essential nutrients like calcium. Yet, these tough conditions have led to the evolution of specialized plants—some of which are found nowhere else on Earth. California’s serpentine landscapes, with their sparse but highly adapted plant life, are home to unique ecological communities that have fascinated scientists for decades.
+
+![serpentine](https://californiacurated.com/wp-content/uploads/2023/04/serpentine-polished.jpg?w=800)A piece of polished serpentine reveals its beauty. (gemstones.com)
+
+Serpentine is formed through the metamorphic process, where pre-existing rocks are transformed into new types under high temperatures, pressures, and chemical processes. Serpentine is primarily composed of hydrous magnesium silicate minerals, such as antigorite, chrysotile, and [lizardite](<https://en.wikipedia.org/wiki/Lizardite>) (yes, lizardite). Its distinct, vibrant green color and serpent-like appearance make it easily recognizable and intriguing to rock enthusiasts and casual observers alike. It is also widely collected and used as jewelry.
+
+Serpentine is predominantly found in the coastal ranges of California, particularly in the [Klamath Mountains](<https://en.wikipedia.org/wiki/Klamath_Mountains>) and the [Sierra Nevada](<https://californiacurated.com/2024/10/10/rock-stars-unearthing-the-secrets-of-the-sierra-nevada-batholith/>) foothills. It is also present in smaller quantities throughout the state. The prevalence of Serpentine in California is a result of the state's complex geological history, which includes the subduction of oceanic plates beneath the continental North American Plate. This tectonic activity created ideal conditions for the formation of Serpentine. The recognition and study of serpentine in California contributed to the understanding of modern plate tectonic theory.
+
+![](https://californiacurated.com/wp-content/uploads/2023/04/serpentine-wiki.jpg?w=777)Serpentine ([Wikipedia](<http://By Tiia Monto, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=61926200>))
+
+While not considered a precious gemstone, Serpentine holds significant value due to its unique aesthetic and limited distribution. It is often used as an[ ornamental stone](<https://geology.com/minerals/serpentine.shtml>) for jewelry, sculptures, and architectural elements. In addition, Serpentine is historically known for its use in carving, particularly by Native American tribes in California. Serpentine's low hardness and smooth texture make it ideal for intricate carvings and designs. In recent years, Serpentine has gained popularity among collectors and as a decorative addition to gardens and landscaping.
+
+Serpentine was [designated as California's state rock in 1965](<https://capitolmuseum.ca.gov/state-symbols/rock-serpentine/#:~:text=Many%20Californians%20might%20think%20gold,such%20designation%20for%20any%20state.>), thanks to the efforts of state [Assemblyman John Knox](<https://en.wikipedia.org/wiki/John_T._Knox>). This choice was influenced by the rock's unique beauty, the significant role it played in California's geological history, and its importance in the state's mining industry during the late 19th and early 20th centuries. Asbestos, a fibrous mineral found in some forms of Serpentine, was once highly sought after for its heat-resistant properties. However, due to its association with health risks (asbestos [is a known carcinogen](<https://www.epa.gov/asbestos/learn-about-asbestos>) that has long been associated with lung cancer), the use of asbestos has significantly declined, and current appreciation of Serpentine is largely focused on its aesthetic qualities.
+
+![](https://californiacurated.com/wp-content/uploads/2023/04/serpentine-bluff.jpg?w=500)Serpentinite outcrop on the coastal bluffs of the Presidio (National Park Service)
+
+However, the state [almost dropped serpentine](<https://www.nytimes.com/2010/07/14/us/14rock.html>) from its state rock designation due to the high relative quantity of [asbestos](<https://www.cancer.gov/about-cancer/causes-prevention/risk/substances/asbestos#:~:text=Asbestos%20is%20the%20name%20given,automotive%20brakes%2C%20and%20wallboard%20materials.>) that serpentine contains. Asbestos occurs naturally in many minerals and in many places. And in fact some serpentine rocks do host chrysotile, a form of asbestos. But geologists say chrysotile is less harmful than some other forms of asbestos and would be a danger — like scores of other rocks — only if a person were to breathe its dust repeatedly.
+
+Fascinatingly, serpentine landscapes host a rare and diverse range of plant species adapted to its high magnesium and low calcium environment, [often thriving in soils toxic](<https://www.sciencedirect.com/science/article/abs/pii/S0341816216301011#:~:text=Serpentine%20soils%20have%20relatively%20high,low%20amounts%20of%20major%20nutrients.>) to other vegetation. This peculiar combination of geology and ecology makes California's serpentine areas not just a subject of geological interest, but also a haven for biological research, offering insights into how life adapts to extreme conditions.
+
+One well-studied group of organisms are plants that display [serpentine endemism](<https://norriscenter.ucsc.edu/events/blog/serpentine-endemics.html>), meaning they are specially adapted to survive in these harsh soils. A key adaptation in plants involves tolerating high levels of toxic metals and nutrient deficiencies, which can drive speciation and lead to unique ecological communities. Studies on species like _[Arabidopsis arenosa](<https://en.wikipedia.org/wiki/Arabidopsis_arenosa>)_ have shown that genetic variation plays a crucial role in these adaptations, with gene flow and mutations contributing to their survival strategies in serpentine soils​.
+
+![](https://californiacurated.com/wp-content/uploads/2023/04/image.png?w=1024)Serpentine rock (Wikipedia)
+
+Native Americans in California found a variety of [practical and cultural uses](<https://nativeamericanjewelrytips.wordpress.com/2011/01/05/serpentine-a-very-popular-stone-for-native-american-fetish-carvings/>) for serpentine, a mineral abundant in the state and prized for its unique properties. It was particularly valued for its distinctive greenish color, soft texture, and ability to be easily shaped and polished. These qualities made it a favored material for crafting tools, ornaments, and ceremonial objects. Tribes used serpentine to create beads, pendants, and pipes, all of which could be intricately carved and polished to a smooth finish.
+
+In addition to its practical uses, serpentine held significant spiritual and healing value for some Native American groups. The rock's cool, smooth surface and striking color were believed to possess special properties, and it was often used in rituals or as a symbol of protection and healing. The association with spiritual energy likely contributed to its use in ceremonies or as amulets meant to bring good fortune or ward off harm.
+
+![](https://californiacurated.com/wp-content/uploads/2023/04/serpentine-stones.webp?w=1024)Serpentine stones available for purchase on Ebay (Ebay)
+
+Serpentine also played a role in trade among tribes. Crafted serpentine objects, such as polished ornaments and ceremonial items, were valuable trade goods. These items could be exchanged for other resources, reflecting the mineral's cultural and economic importance. The widespread availability of serpentine in California's unique geological landscape made it an accessible yet valuable material for Native American communities, shaping both their daily lives and spiritual practices.
+
+Serpentine is not just a beautiful rock; it is a symbol of [California's rich geological](<https://californiacurated.com/2023/08/31/the-majestic-san-gabriel-mountains-a-deep-dive-into-their-formation-history-and-biodiversity/>) and cultural heritage. By understanding the origins and significance of Serpentine, we can appreciate the complex processes that have shaped our planet and the remarkable diversity of its natural resources. Furthermore, the presence of Serpentine in California is an excellent example of the interconnectedness of geology, ecology, and human history, as the unique habitats it creates support rare plant species and have inspired the artistic endeavors of numerous cultures throughout time.
+
+[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
