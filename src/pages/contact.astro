@@ -1,0 +1,26 @@
+---
+import Layout from '../layouts/BlogPost.astro';
+
+const EMAIL = 'contactme@erikolsen.com';
+---
+
+<Layout
+	title="Contact"
+	description="Get in touch with California Curated."
+	pubDate={new Date('2026-05-01')}
+	categories={[]}
+	tags={[]}
+	author="Erik Olsen"
+	draft={false}
+>
+	<p>
+		Have a story tip, correction, question, or just want to say hello? I'd love to hear from you.
+	</p>
+	<p>
+		The best way to reach me is by email at
+		<a href={`mailto:${EMAIL}`}>{EMAIL}</a>.
+	</p>
+	<p style="margin-top: 2rem;">
+		<a href={`mailto:${EMAIL}`} class="btn btn-primary">Email Erik</a>
+	</p>
+</Layout>
