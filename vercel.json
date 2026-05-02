@@ -812,11 +812,5 @@
     }
   ],
   "cleanUrls": true,
-  "trailingSlash": true,
-  "rewrites": [
-    {
-      "source": "/wp-content/:path*",
-      "destination": "https://i0.wp.com/californiacurated.com/wp-content/:path*"
-    }
-  ]
+  "trailingSlash": true
 }
