@@ -20,7 +20,6 @@ Editor's note: We're heading to Indonesia next week on an assignment, so we'll m
 
 ## A war is brewing over lithium mining near Death Valley
 
-[![](https://californiacurated.com/wp-content/uploads/2019/05/lithuum.png)](<https://www.latimes.com/local/california/la-me-death-valley-lithium-mine-california-environment-20190507-story.html>)
 
 Lithium. It is one of the world's most valuable elements, allowing batteries to be more powerful and longer-lasting than ever before. Right now, most lithium is mined in the high deserts of South America, but a new battle is being waged between battery companies and environmentalists over whether to mine lithium in Panamint Valley in California, right on the edge of [Death Valley](<https://www.latimes.com/local/california/la-me-death-valley-lithium-mine-california-environment-20190507-story.html>). There are strong arguments to be made that having a large domestic source of lithium is key to a carbon-free future, but some are saying that mining would potentially despoil one of California's most treasured natural areas. 
 

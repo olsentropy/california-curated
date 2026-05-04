@@ -22,7 +22,6 @@ Here at the [**California Science Weekly**](<https://californiacurated.com/>), w
 
 ## An end to California's magnificent mountain lions?
 
-[![](https://californiacurated.com/wp-content/uploads/2019/04/santamonicamountainlion_p35_nps_web.jpg)](<https://e360.yale.edu/digest/mountain-lions-could-go-locally-extinct-in-southern-california-within-50-years>)Credit: US National Park Service
 
 **[](<http://drlucyjones.com/>)**Two**[mountain lion populations](<https://www.wildlife.ca.gov/Conservation/Mammals/Mountain-Lion/Approved-Projects>)** in Southern California face a real threat of extinction if an effort is not made to protect their environment and create so-called "wildlife corridors" through the city's developed areas, a new study warns.
 

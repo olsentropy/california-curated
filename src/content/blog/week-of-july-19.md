@@ -18,7 +18,6 @@ Sign up for the [**California Science Weekly newsletter**](<https://mailchi.mp/5
 
 ## California's unheralded role in Apollo 11
 
-[![Buzz Aldrin on the moon - NASA](https://californiacurated.com/wp-content/uploads/2019/07/337294main_pg62_as11-40-5903_full-1.jpg)](<https://californiascienceweekly.com/2019/07/18/californias-unheralded-role-in-apollo-11/>)NASA
 
 When we think about Apollo and attempt to localize it here on earth in our minds, we typically think about Apollo Mission Control Center in Houston, Texas. Who can forget Neil Armstrong’s famous words: "Houston, Tranquillity Base here. The Eagle has landed."   
   

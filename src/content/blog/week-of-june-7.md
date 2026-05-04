@@ -18,7 +18,6 @@ Sign up for the [**California Science Weekly newsletter**](<https://mailchi.mp/5
 
 ## California uses reservoirs and pumps to tackle climate change
 
-[![](https://californiacurated.com/wp-content/uploads/2019/06/resevoir.jpg)](<https://www.bloomberg.com/news/articles/2019-06-06/in-quest-for-bigger-batteries-california-mulls-century-old-idea?srnd=premium>)PG&E Corp.
 
 California has some of the most aggressive renewable energy goals in the country. The state is required to obtain at least 33% of its electricity from renewable resources by 2020, and 100% from carbon-free sources by 2045. That's going to take a lot of energy storage, and the fact is that Lithium-ion batteries, like Elon Musk's [Powerwall](<https://www.tesla.com/powerwall>), produce a few hundred megawatts of electricity at most and will not be up to the task.  
   

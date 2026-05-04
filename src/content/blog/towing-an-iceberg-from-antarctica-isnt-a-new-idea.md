@@ -14,7 +14,6 @@ author: "Erik Olsen"
 
 Sign up for the [**California Science Weekly newsletter**](<https://mailchi.mp/532b7112b1a4/californiascienceweekly>). Fresh California science every Friday!
 
-![](https://californiacurated.com/wp-content/uploads/2019/06/iceberg.jpeg)[Annie Spratt](<https://unsplash.com/@anniespratt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>) on [Unsplash](<https://unsplash.com/?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText>)
 
 A year ago, Cape Town, South Africa was suffering one of the worst droughts in its history. The city of 4 million [made headlines](<https://www.citylab.com/environment/2019/04/cape-town-water-conservation-south-africa-drought/587011/>) by being one of the first major cities on the planet to run out of municipal water, and entering a so-called Zero-Day status that seemed a harbinger of things to come for many other cities (Los Angeles included) facing dire water shortages. 
 

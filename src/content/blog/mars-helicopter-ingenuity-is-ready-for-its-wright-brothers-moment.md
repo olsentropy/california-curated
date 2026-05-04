@@ -20,7 +20,6 @@ This is not an easy task, but it will be massively historic.
 
 The helicopter will be aboard the Perseverance, the fifth robotic rover NASA has sent to Mars. The copter and the rover were both designed and built at at at NASA’s [Jet Propulsion Laboratory](<https://www.jpl.nasa.gov/>) in La Canada Flintridge. The project has been in development over the past six years. 
 
-![](http://californiacurated.com/wp-content/uploads/2020/06/460d9-2-pia23882-helicopterbeautyshot2-120531_-_d2020_0129_rl2757.jpg)Credit: JPL
 
 If successful, the small helicopter will initiate a new era for robotic exploration, with the opportunity to get an aerial view of Mars and possibly other worlds in the solar system.
 

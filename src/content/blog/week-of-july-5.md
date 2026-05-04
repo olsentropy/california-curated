@@ -18,7 +18,6 @@ Sign up for the [**California Science Weekly newsletter**](<https://mailchi.mp/5
 
 ## Redwood poachers ruin majestic giants
 
-[![](https://californiacurated.com/wp-content/uploads/2019/07/redwood_burl_poaching_600.jpg)](<https://www.bloomberg.com/news/features/2019-06-25/stealing-redwood-trees-is-hard-but-stealing-burls-isn-t?srnd=2018-heist-issue>)Credit: National Park Service
 
 Probably our favorite thing we read all week was this story from Bloomberg about the illegal theft of so-called Redwood burls from California's [Redwood National Park](<https://www.nps.gov/redw/index.htm>). Burls are the massive, swollen, misshapen growths that naturally occur on trees. Basically, the grain has grown from the tree in a deformed manner, a form of cellular misdirection. They look a little bit like tumors or additional appendages. But because of the strange patterns they exhibit when the fresh wood is exposed, burls are extremely valuable around the world. They are used to make tables and countertops and footstools, etc. A quick search online came up with numerous sites selling redwood burl tables for tens of thousands of dollars. Certain raw burl pieces are also extremely valuable. No wonder thieves go after them.   
   

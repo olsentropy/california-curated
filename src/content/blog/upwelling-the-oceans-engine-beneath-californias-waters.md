@@ -10,7 +10,6 @@ tags: ["animals", "california", "climate-change", "coriolis-effect", "environmen
 author: "Erik Olsen"
 ---
 
-[![](https://substackcdn.com/image/fetch/$s_!dNl8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6770556b-2839-4ef7-a41c-6c67b70dbd8c_1024x573.png)](<https://substackcdn.com/image/fetch/$s_!dNl8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6770556b-2839-4ef7-a41c-6c67b70dbd8c_1024x573.png>)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

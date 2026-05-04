@@ -18,7 +18,6 @@ Sign up for the [**California Science Weekly newsletter**](<https://mailchi.mp/5
 
 ## California companies are leading the effort to save the world with microbes
 
-[![](https://californiacurated.com/wp-content/uploads/2019/05/fishforms_school_brockeninaglory1200x900-1.jpg)](<https://www.latimes.com/local/california/la-me-death-valley-lithium-mine-california-environment-20190507-story.html>)Wikipedia
 
 Overfishing is arguably one of the most significant threats to the human food supply on the planet. Approximately [three billion people](<http://www.fao.org/news/story/en/item/248479/icode/>) in the world rely on both wild and farmed seafood as their primary source of protein, and ten percent of the world’s population depends on fisheries to make a living.
 

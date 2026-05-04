@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **In the 1960s, as America raced to the Moon, the Navy sent aquanauts to the ocean floor off La Jolla in an ambitious experiment called SEALAB II.**
 
-![](https://californiacurated.com/wp-content/uploads/2026/04/sealab-II-navy-1024x1024.jpg)The U.S. Navy’s SEALAB II habitat is prepared for deployment in 1965, as support ships stand by off the Southern California coast. Lowered to about 205 feet near La Jolla, the experimental underwater station would house teams of aquanauts for weeks at a time, testing whether humans could live and work on the ocean floor. (Photo: U.S. Navy)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

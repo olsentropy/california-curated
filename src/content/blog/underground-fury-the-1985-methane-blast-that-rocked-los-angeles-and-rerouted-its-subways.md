@@ -10,7 +10,6 @@ tags: ["california", "climate-change", "environment", "explosion", "geology", "m
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/11/image.png)A 1985 methane explosion in L.A.'s Fairfax district turned a Ross Dress for Less into a disaster scene.   
 Photo by Dean Musgrove, courtesy of the Herald-Examiner Collection - Los Angeles Public Library.
 
 In the heart of Los Angeles, on a seemingly ordinary spring day in 1985, a sudden explosion tore through the [Ross Dress for Less](<https://web.stanford.edu/~meehan/class/ce2942001/rosspaper.htm>) store at the corner of 3rd Street and Fairfax Avenue. This wasn't an industrial accident nor was it an act of malice—it was a force of nature that had been lurking unseen beneath the city's streets: methane gas.

@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 A century-old law, the Jones Act, is keeping coastal shipping off the map—while traffic, costs, and emissions keep rising on land.
 
-[![](https://substackcdn.com/image/fetch/$s_!lkpf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc0a9fe8-f00e-4a2c-bd8e-89a50ce9a4f7_5464x3070.jpeg)](<https://substackcdn.com/image/fetch/$s_!lkpf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc0a9fe8-f00e-4a2c-bd8e-89a50ce9a4f7_5464x3070.jpeg>)A Maersk container ship (and many others) sits off the California coast during Covid in 2020. (Photo: Erik Olsen)
 
 _This article is adapted from[my Substack](<https://substack.com/@californiacurated>), which offers weekly articles on California. You can [get 50% off a subscription with this link](<https://californiacurated.substack.com/subscribe?coupon=d510b870>). It helps fund the work we do here at California Curated. These articles take a ton of work, and if you enjoy the publication, we’d be grateful to have your support._
 

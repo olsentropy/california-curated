@@ -18,7 +18,6 @@ Sign up for the [**California Science Weekly newsletter**](<https://mailchi.mp/5
 
 ## House approves a measure to block offshore drilling for a year
 
-[![](https://californiacurated.com/wp-content/uploads/2019/06/oil-rig.png)](<https://thehill.com/policy/energy-environment/449696-house-votes-to-block-offshore-drilling-across-us-for-one-year>)Credit: Erik Olsen
 
 The House [passed a spending bill](<https://thehill.com/policy/energy-environment/449696-house-votes-to-block-offshore-drilling-across-us-for-one-year>) late Thursday that would block offshore drilling along most U.S. shores, including a ban on seismic testing used to find oil and gas reserves. Unfortunately, it only lasts a year. Many groups, particularly in California, have long sought an end to drilling, and there was immense hope that would be the case in 2016 when President Obama permanently ended oil and gas leasing in parts of the Atlantic and Arctic oceans. However, President Trump issued an executive order in April 2017 that would roll back these protections, and in January 2018, now former U.S. Department of the Interior Secretary Ryan Zinke proposing opening up nearly all federal waters to oil and gas extraction. The new measure potentially restores the safeguard that protected California’s coast for more than a quarter century.  
 
