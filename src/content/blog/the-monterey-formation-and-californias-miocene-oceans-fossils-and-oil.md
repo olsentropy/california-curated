@@ -10,7 +10,6 @@ tags: ["california", "climate-change", "fossils", "geology", "monterey-formation
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/09/monterey-formation.jpg?w=1024)Monterey Formation rocks near Newport Beach (Erik Olsen)
 
 [Lots of work goes into writing California Curated. Buy us a cup of coffee? We'd appreciate it! ](<https://ko-fi.com/californiacurated>)
 

@@ -10,7 +10,6 @@ tags: ["california", "environment", "mountains", "national-park-service"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/san-gabriel-and-skyline.jpeg?w=1024)Photo: “[LA Skyline Mountains2](<https://commons.wikimedia.org/wiki/File:LA%20Skyline%20Mountains2.jpg>)” by [Nserrano](<https://commons.wikimedia.org/wiki/User:Nserrano>) is licensed under  [CC BY-SA 3.0](<https://creativecommons.org/licenses/by-sa/3.0/legalcode>)
 
 [Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

@@ -10,7 +10,6 @@ tags: ["california", "climate-change", "eaton-fire", "environment", "news", "san
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/01/altadena-fire-ols00235.jpg?w=1024)Homes in Altadena destroyed by the Eaton Fire (Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

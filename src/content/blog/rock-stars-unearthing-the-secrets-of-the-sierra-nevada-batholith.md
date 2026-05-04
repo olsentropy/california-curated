@@ -10,7 +10,6 @@ tags: ["california", "environment", "geology"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/yosemite-batholith-olsen.jpg?w=1024)An example of Sierra Nevada batholith. There are several domes in Yosemite besides Half Dome. (Erik Olsen) 
 
 [Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

@@ -10,7 +10,6 @@ tags: ["animals", "birds", "california"]
 author: "Erik Olsen"
 ---
 
-![House Finch](https://californiacurated.com/wp-content/uploads/2023/03/house-finch.jpg?w=1024)
 
 California is home to an impressive number of bird species, with [over 700 recorded ](<https://ebird.org/region/US/regions>)throughout the state. From the rocky shores of the Pacific coast to the towering peaks of the Sierra Nevada, California's diverse landscapes provide habitats for a wide range of birdlife. Many of these species are endemic to California, meaning they are found nowhere else in the world. The state's unique geography and climate, as well as its location on the [Pacific Flyway migration route](<https://oceantoday.noaa.gov/pacificflyway/#:~:text=The%20Pacific%20Flyway%20extends%20from,making%20for%20a%20calm%20sanctuary.>), make it a haven for birdwatchers and ornithologists alike.
 

@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **While the gold rush was an incredible boon for California, hydraulic mining’s environmental toll—eroded hillsides and choked rivers—remains a stark reminder of the cost of progress.**
 
-![](https://californiacurated.com/wp-content/uploads/2023/06/grex-hydraulicmining.jpg?w=800)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

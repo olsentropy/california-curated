@@ -10,7 +10,6 @@ tags: []
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/04/screenshot-2023-04-05-at-5.57.09-pm.png?w=1024)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

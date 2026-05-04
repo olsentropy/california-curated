@@ -10,7 +10,6 @@ tags: ["california", "dolphins", "marine-mammals"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/02/img_3298.jpg?w=1024)
 
 A Pacific White-Sided Dolphin swims alongside a boat off Newport Beach, California
 

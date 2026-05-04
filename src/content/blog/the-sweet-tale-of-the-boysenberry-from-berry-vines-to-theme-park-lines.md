@@ -10,7 +10,6 @@ tags: ["california"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/boysenberry-2.jpg?w=1024)Bowl of boysenberries on wooden table.
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

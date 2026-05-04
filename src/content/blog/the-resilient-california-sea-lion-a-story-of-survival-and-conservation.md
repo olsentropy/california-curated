@@ -10,7 +10,6 @@ tags: ["california", "climate-change", "mammals", "sea-lion"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/07/sealions.jpg?w=1024)California Sea Lion (Photo: Erik Olsen)
 
 [Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
 

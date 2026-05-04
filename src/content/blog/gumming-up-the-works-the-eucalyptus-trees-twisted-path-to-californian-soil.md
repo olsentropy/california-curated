@@ -10,7 +10,6 @@ tags: ["california", "climate-change", "environment", "eucalyptus", "trees"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/eucalyptus.jpg?w=1024)Eucalyptus in Los Angeles (Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

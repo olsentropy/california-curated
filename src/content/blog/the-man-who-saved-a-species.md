@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **How biologist Phil Pister helped rescue a species that had nearly disappeared**
 
-![](https://californiacurated.com/wp-content/uploads/2023/06/owens-pupfish.jpeg?w=346)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

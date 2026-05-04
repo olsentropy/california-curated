@@ -10,7 +10,6 @@ tags: ["california", "california-institute-of-technology", "caltech", "clair-pat
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/d3fe6-10.41-77.jpg?w=1024)Clair Patterson. (Courtesy of the Archives, California Institute of Technology)
 
 ## At Caltech, Clair Patterson's relentless determination to understand the health impacts of atmospheric lead changed the world for the better. 
 

@@ -10,7 +10,6 @@ tags: ["california", "creosote", "desert", "desert-plants", "environment", "moja
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/02/green-planet-creosote.jpg?w=1024)Scene from BBC's Green Planet in California's Mojave Desert (BBC)
 
 [Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

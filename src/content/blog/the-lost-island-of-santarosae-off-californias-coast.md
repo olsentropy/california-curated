@@ -10,7 +10,6 @@ tags: ["animals", "california", "channel-islands", "climate-change", "environmen
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/10/santarosae.jpg?w=1024)Santarosae Midjourney rendering
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

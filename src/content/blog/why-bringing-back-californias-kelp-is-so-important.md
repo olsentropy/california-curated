@@ -10,7 +10,6 @@ tags: ["kelp", "monterey", "monterey-bay", "sea-otters", "sea-urchins", "urchins
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/20035-urchins.jpg?w=1024)Sea urchins have devastated kelp forests in California. 
 
 [Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
 

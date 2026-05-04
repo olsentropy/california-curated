@@ -10,7 +10,6 @@ tags: ["animals", "california", "catalina-island", "climate-change", "environmen
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/08/submersible-1.jpg?w=1024)Launching a Triton 3300/3 submersible from a scientific support ship in the Bahamas. (Photo: Erik Olsen)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

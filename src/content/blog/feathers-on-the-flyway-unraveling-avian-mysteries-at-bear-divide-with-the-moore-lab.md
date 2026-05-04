@@ -10,7 +10,6 @@ tags: ["animals", "bird-migration", "birding", "birds", "california", "climate-c
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/02/western-tanager.jpeg?w=1024)Western tanager (Ryan Terrill)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

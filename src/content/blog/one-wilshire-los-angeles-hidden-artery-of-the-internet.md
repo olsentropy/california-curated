@@ -10,7 +10,6 @@ tags: ["60-hudson-street", "asia-data-link", "att", "california", "california-in
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/10/one-wilshire-top.jpg?w=1024)One Wilshire in downtown Los Angeles.
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

@@ -10,7 +10,6 @@ tags: ["books", "documentary", "film", "movies", "writing"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2026/01/california-shooter.jpg?w=1024)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

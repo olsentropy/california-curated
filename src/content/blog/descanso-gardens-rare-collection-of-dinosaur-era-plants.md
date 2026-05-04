@@ -10,7 +10,6 @@ tags: ["ancient-plants", "biodiversity", "botanical-gardens", "botany", "califor
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/05/cycad.jpg?w=768)Cycad at Descanso Gardens (Erik Olsen)
 
 [Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

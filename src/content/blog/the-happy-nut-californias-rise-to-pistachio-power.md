@@ -10,7 +10,6 @@ tags: ["agribusiness", "agricultural-power", "agriculture", "almonds", "californ
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/11/pistachio-nuts-tree.jpg?w=1024)Pistachios grow on a tree in the Central Valley (Photo: Erik Olsen)
 
 [Would you support us? Just buck or two. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

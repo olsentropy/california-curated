@@ -10,7 +10,6 @@ tags: ["california", "john-muir", "national-park-service", "theodore-roosevelt",
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2019/08/b817c-crop-0-0-800-600-0-muir_and_roosevelt_restored.jpg?w=800)Theodore Roosevelt and John Muir in Yosemite. Credit: National Park Service
 
 [Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
 

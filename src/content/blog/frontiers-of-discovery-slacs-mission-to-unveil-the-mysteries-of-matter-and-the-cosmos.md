@@ -10,7 +10,6 @@ tags: ["california", "environment", "physics", "slac"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/11/slac-history.webp?w=1024)The BaBar Detector at SLAC with physicist Michael Kelsey inside wearing a red hard hat, 2002.   
 _(Peter Ginter/SLAC National Accelerator Laboratory)_
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)

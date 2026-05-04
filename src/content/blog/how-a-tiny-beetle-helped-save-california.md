@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 ### California's citrus industry confronted a deadly challenge, leading to a groundbreaking innovation in pest control.
 
-![](https://californiacurated.com/wp-content/uploads/2025/01/cottony-cushion-scale-cottony-cushion1.jpg?w=1024)Cottony Cushion Scale (Public Domain)
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

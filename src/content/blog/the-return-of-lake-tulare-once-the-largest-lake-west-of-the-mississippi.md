@@ -10,7 +10,6 @@ tags: []
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/04/tulare.jpeg?w=1024)
 
 The massive atmospheric snowstorms that pummeled California this year have been a boon to ski slopes throughout the Sierra Nevada mountains. But the rains have had an unusual result: The torrents of rain have drowned thousands of acres of farmland in California’s Central Valley and resuscitated a lake that vanished decades ago. Standing in an area that was dry as a bone just a year ago, right now, as far as the eye can see, water stretches to the horizon. It has covered roads, and crop fields, and submerged homes and buildings.
 

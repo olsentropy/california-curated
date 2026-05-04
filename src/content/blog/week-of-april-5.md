@@ -20,7 +20,6 @@ Here at the [**California Science Weekly**](<https://californiacurated.com/>), w
 
 ##  An homage to Cal Tech's fly lab
 
-[![](https://californiacurated.com/wp-content/uploads/2019/04/2880px-drosophila_melanogaster_proboscis.jpg?w=1024)](<https://magazine.caltech.edu/post/a-fruitful-collaboration>)Credit: Sanjay Acharya
 
 **[](<http://drlucyjones.com/>)**Few critters in the history of science have been as important to our understanding of life as the humble fruit fly. The genus _Drosophila melanogaster_ holds a particularly esteemed spot among the dozens of model organisms that provide insight into life's inner workings. Much of the work has taken place, _and is taking place now_ , right here in California. 
 

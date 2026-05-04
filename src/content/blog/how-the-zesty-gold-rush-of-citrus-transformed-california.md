@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **A Look into the Roots and Ripened Impact of the Citrus Industry**
 
-![](https://californiacurated.com/wp-content/uploads/2023/07/orange-groves-old.png?w=1024)
 
 You might associate California with Hollywood, Silicon Valley, or even its stunning coastline. However, a significant cornerstone in the Golden State's development, prosperity, and identity was quite literally golden: zesty, golden orbs of citrus fruit. California's citrus industry had a profound impact on the state's economic, labor, and global landscape, particularly within Southern California. 
 

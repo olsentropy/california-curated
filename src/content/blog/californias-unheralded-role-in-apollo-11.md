@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **For the 50th Anniversary of Apollo 11, we bring you a story about our state's contribution to that great historical event.**
 
-![](https://californiacurated.com/wp-content/uploads/2019/07/apollo-11.webp?w=1024)Buzz Aldrin standing on the moon during Apollo 11 (NASA) 
 
 This summer Americans have Apollo fever. July 20, as most everyone knows, is the 50th anniversary of the Apollo moon landing, when astronauts Neil Armstrong and Buzz Aldrin became the first humans to set foot on the moon. Many people, including some of our [most eminent historians](<https://www.cbsnews.com/news/apollo-11-50th-anniversary-of-moon-landing-defining-moment-in-history/>), have called it the greatest achievement in the history of mankind. 
 

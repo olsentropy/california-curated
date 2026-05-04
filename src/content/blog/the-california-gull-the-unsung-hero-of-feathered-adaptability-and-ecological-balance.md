@@ -10,7 +10,6 @@ tags: ["animals", "birds", "california", "environment"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/10/california-gull-2.jpeg?w=1024)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

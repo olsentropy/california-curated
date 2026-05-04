@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 ## **Luther Burbank created some of the world's most commercially successful fruits and vegetables, all from his Santa Rosa, California farm.**
 
-![luther burbank - Library of Congress](https://californiacurated.com/wp-content/uploads/2021/08/ede49-luther-burbank-copy.jpg?w=1024)Luther Burbank in his garden - Credit: Library of Congress
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

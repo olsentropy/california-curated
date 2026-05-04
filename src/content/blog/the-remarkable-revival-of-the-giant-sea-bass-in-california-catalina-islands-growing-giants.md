@@ -10,7 +10,6 @@ tags: ["animals", "california", "catalina", "environment", "fish"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/05/sea-bass.jpeg?w=960)National Park Service
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

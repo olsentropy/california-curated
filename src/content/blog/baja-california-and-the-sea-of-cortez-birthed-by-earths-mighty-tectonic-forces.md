@@ -10,7 +10,6 @@ tags: ["animals", "baja", "california", "earthquakes", "environment", "salton-se
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/07/baja-photo.jpg?w=1024)Baja California and the Sea of Cortez (Photo: Erik Olsen)
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

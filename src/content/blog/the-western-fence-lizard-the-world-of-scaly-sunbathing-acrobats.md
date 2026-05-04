@@ -10,7 +10,6 @@ tags: ["animals", "california", "lizards", "reptiles"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/04/western-fence-lizard-in-california.jpg?w=1024)Western Fence Lizard (Sceloporus occidentalis)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

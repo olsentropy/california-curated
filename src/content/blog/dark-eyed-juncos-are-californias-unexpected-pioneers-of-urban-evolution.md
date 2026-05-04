@@ -10,7 +10,6 @@ tags: ["animals", "birding", "birds", "california", "environment", "evolution", 
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/12/ubf-2-virgin-mary-2.jpg?w=1024)Dark-eyed junco in Southern California (Photo: Alex Fu)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

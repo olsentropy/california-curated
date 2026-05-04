@@ -14,7 +14,6 @@ author: "Erik Olsen"
 
 ## What to do with California's dying oil rigs? 
 
-[![](https://californiacurated.com/wp-content/uploads/2019/03/la-platform-holly-pictures-20180913-014.jpg?w=740)](<https://www.latimes.com/projects/la-me-platform-holly/>)Credit: Los Angeles Times
 
 A [**magnificent multimedia story**](<https://www.latimes.com/projects/la-me-platform-holly/>) by the Los Angeles Times looks at the fate of the Holly oil platform off the coast of Southern California. Oil rigs have long been a source of controversy in California, especially following the [**January 28, 1969 oil spill**](<https://en.wikipedia.org/wiki/1969_Santa_Barbara_oil_spill>) near Santa Barbara, which gushed 80,000 barrels of oil into the ocean. The spill led California, and then Congress, to enact numerous measures to stop the development of new platforms in local and federal waters. A [**2015 spill**](<https://en.wikipedia.org/wiki/Refugio_oil_spill>) at Holly essentially shut the platform down, and now the state must wrestle with what to do with it. Pull it out? Turn it into an **[artificial reef](<https://qz.com/1464528/some-oil-rigs-in-california-are-absolutely-teeming-with-sea-life/>)**? Interestingly, the platform is said to have inspired the Doors' Jim Morrison to write “The Crystal Ship.” 
 

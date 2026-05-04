@@ -10,7 +10,6 @@ tags: ["borates", "california", "environment", "industrial"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/06/us-borax-borate-mine.jpg?w=1024)U.S. Borax borate mine in California (Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

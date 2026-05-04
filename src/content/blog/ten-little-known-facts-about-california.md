@@ -10,7 +10,6 @@ tags: ["bristlecones", "california", "national-park-service", "trees"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/02/sequoias-olse1835_rip.jpg?w=1024)
 
 Giant Sequoia
 

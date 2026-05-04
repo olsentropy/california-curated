@@ -10,7 +10,6 @@ tags: ["blue-whales", "california", "cetaceans", "pacific-ocean"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2020/04/blue-whale-image-california-newport.jpg?w=1024)Blue whale - probably under 50 feet - off the coast of Southern California (Erik Olsen)
 
 [Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

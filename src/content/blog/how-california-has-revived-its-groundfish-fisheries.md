@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **How Smart Policy and Collaboration Brought Groundfish Back From the Brink**
 
-![](https://californiacurated.com/wp-content/uploads/2025/08/rockfish-illustration.jpg?w=1024)Vermillion Rockfish scientific illustration
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

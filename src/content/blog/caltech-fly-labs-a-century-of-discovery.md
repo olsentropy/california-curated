@@ -10,7 +10,6 @@ tags: ["animals", "biology", "california", "caltech", "insects", "species"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/08/california-curated-fruit-fly-lab.jpg?w=1000)Fruit fly [Drosophila melanogaster](<https://en.wikipedia.org/wiki/Drosophila_melanogaster>)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

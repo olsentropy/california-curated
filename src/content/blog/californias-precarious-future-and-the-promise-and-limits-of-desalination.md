@@ -10,7 +10,6 @@ tags: ["000-per-acre-foot", "3", "california", "california-water-management", "c
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/12/2022_10_13_ai_0051_shasta_lake_levels.jpg?w=1024)Visibly low water conditions at Shasta Lake in Shasta County, on October 13, 2022.   
 Andrew Innerarity / California Department of Water Resources.
 
 **Water, water, every where, nor any drop to drink.  ** _\-- Samuel Taylor Coleridge's poem The Rime of the Ancient Mariner.  _

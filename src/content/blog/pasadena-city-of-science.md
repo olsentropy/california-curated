@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **How Pasadena Became a Hub of Scientific Endeavor**
 
-![](https://californiacurated.com/wp-content/uploads/2024/06/pasadena-aerial.jpg?w=1000)Pasadena and Colorado Boulevard (Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

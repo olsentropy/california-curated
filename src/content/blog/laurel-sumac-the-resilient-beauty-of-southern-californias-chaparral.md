@@ -10,7 +10,6 @@ tags: ["california", "environment", "flowers", "gardening", "native-plants", "na
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/12/laurel-sumac-1.jpg?w=1024)Laurel sumac in the San Gabriel Mountains (Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

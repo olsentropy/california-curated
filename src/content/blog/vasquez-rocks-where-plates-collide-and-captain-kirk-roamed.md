@@ -10,7 +10,6 @@ tags: ["california", "earthquakes", "geology", "san-andreas-fault", "vasquez-roc
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2020/01/vasquez-rocks.jpg?w=1024)Vasquez Rocks (Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

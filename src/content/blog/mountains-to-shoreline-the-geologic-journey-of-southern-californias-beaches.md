@@ -10,7 +10,6 @@ tags: ["beach", "california", "river"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/07/california-beach.jpg?w=1024)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

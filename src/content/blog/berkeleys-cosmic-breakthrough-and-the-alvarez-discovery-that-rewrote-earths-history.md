@@ -10,7 +10,6 @@ tags: ["asteroid", "california", "chicxulub-crater", "cretaceous-paleogene-k-pg-
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/03/chicxulub-meteor.jpg?w=1024)Artist's rendering of the colossal Chicxulub meteor hurtling toward Earth, moments before impact on the Yucatán Peninsula, an event that reshaped life on our planet 66 million years ago. (Erik Olsen)
 
 [Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

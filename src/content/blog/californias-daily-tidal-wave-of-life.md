@@ -10,7 +10,6 @@ tags: ["animals", "california-coast", "california-current", "climate-change", "d
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2026/02/lobate-ctenophore.jpg?w=800)A lobate ctenophore in the ocean twilight zone. (Photo: NOAA) 
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 A California Company Called MP Materials Hopes to Revitalize Domestic Rare Earth Production to Reduce Dependence on China
 
-![](https://californiacurated.com/wp-content/uploads/2025/01/mp-materials-mine.jpeg?w=1024)MP Materials Rare Earths Mine in Mountain Pass, California (Photo: Erik Olsen)
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

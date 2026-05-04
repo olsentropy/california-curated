@@ -10,7 +10,6 @@ tags: ["california", "environment", "fish", "garibaldi", "ocean", "pacific-ocean
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/garibaldi.jpg?w=1024)California Garibaldi
 
 Underwater photos of California’s coast featured in books and magazines almost always showcase a certain fish: the garibaldi. Within the underwater kaleidoscope of California's coastal waters, the Garibaldi fish stands out with its fiery orange hue. The garibaldi, a member of the damselfish family, is [the California State marine fish](<https://www.nps.gov/chis/learn/nature/garibaldi.htm#:~:text=The%20garibaldi%2C%20a%20member%20of,Baja%20coastline%20waters%20of%20Mexico.>), and its possession is illegal.
 

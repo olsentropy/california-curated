@@ -10,7 +10,6 @@ tags: ["anacapa", "anacapa-island", "animals", "beach", "california", "channel-i
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/05/ghost-lobster-trap.jpeg?w=1024)Ghost lobster trap off Santa Cruz Island in California's Channel Islands (Photo: Erik Olsen)
 
 Lobster is delicious. Let’s just get that out of the way. Yes, I’m sure there are some who either don’t enjoy the taste of this prolific crustacean, or who are allergic, but for my part, lobster (with a small vial of melted butter) is ambrosia from the sea.
 

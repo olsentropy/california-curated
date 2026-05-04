@@ -10,7 +10,6 @@ tags: ["ab-2503", "amber-sparks", "animals", "artificial-reefs", "blue-latitudes
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/01/rig-to-reef-life-photo.jpg?w=1024)An abundance of sea life is thriving on the substructure beneath the Eureka oil rig in Southern California (Erik Olsen)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 ### Part of an [ongoing series](<https://californiacurated.com/2020/01/17/the-majesty-and-mystery-of-californias-bristlecone-pine/>) about California's unique and remarkable trees.
 
-![](https://californiacurated.com/wp-content/uploads/2021/03/sequoias-olse1826-001.jpeg?w=1024)Giant sequoias in California (Photo: Erik Olsen)
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

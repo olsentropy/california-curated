@@ -10,7 +10,6 @@ tags: ["agriculture", "agriculture-emissions", "alternative-feed", "animals", "a
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/09/flasks-seaweed.jpg?w=1024)Flasks of _Asparagopsis taxiformis_ growing at Scripps Institution of Oceanography. Researchers are studying this red seaweed for its potential to slash methane emissions from cattle when added in small amounts to their feed. (Photo: Erik Olsen)
 
 [Click here to support us! We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

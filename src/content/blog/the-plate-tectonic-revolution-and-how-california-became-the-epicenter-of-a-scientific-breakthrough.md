@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 ### __How the 1969 Penrose Conference on plate tectonics at Asilomar in California transformed our understanding of Earth's dynamic processes.__
 
-![](https://californiacurated.com/wp-content/uploads/2025/03/san-andreas-fault.jpg?w=1024)Aerial photo of San Andreas Fault looking northwest onto the Carrizo Plain with Soda Lake visible at the upper left. (Wikipedia)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

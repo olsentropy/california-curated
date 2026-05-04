@@ -10,7 +10,6 @@ tags: ["california", "hubble", "mt-wilson", "nasa", "planets", "space", "stars"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/mt.-wilson-olsen.png?w=1024)Mt. Wilson Observatory (Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

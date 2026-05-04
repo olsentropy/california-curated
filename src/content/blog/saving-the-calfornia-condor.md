@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **The birth of the 1000th chick as part of an extensive breeding and reintroduction program gives hope to many other species in peril.**
 
-![](https://californiacurated.com/wp-content/uploads/2019/07/california_condor.jpg?w=1024)National Park Service
 
 The California condor is North America’s largest flying bird. It also one of the ugliest birds in the world. Sorry, in the universe. The bird would, in fact, be right at home in the cantina on Mos Eisley.  But the bird's ungainly size and ugliness are what make it special, special enough to save.
 

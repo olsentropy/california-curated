@@ -10,7 +10,6 @@ tags: ["animals", "barreleye", "california", "environment", "fish", "marine-life
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/10/barrel-eye.jpeg?w=1024)The barreleye (_Macropinna microstoma_)  
 (Courtesy: Monterey Bay Aquarium Research Institute MBARI)
 
 [Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)

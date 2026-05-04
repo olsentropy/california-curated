@@ -10,7 +10,6 @@ tags: ["california", "climate", "climate-change", "energy", "environment", "geol
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/04/oil-fields-1.png?w=1024)Signal Hill oil development (Photo: The Huntington Library, Art Museum, and Botanical Gardens)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

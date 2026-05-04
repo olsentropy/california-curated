@@ -10,7 +10,6 @@ tags: ["blog", "california", "earthquakes", "environment", "geology", "hiking", 
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/09/portuguese-bend-street.jpg?w=1024)A neighborhood threatened by landslides at Portuguese Bend on Palos Verdes (Erik Olsen)
 
 For decades, geologists and engineers [have been aware](<https://www.rpvca.gov/FAQ.aspx?QID=346>) that the Portuguese Bend region of Palos Verdes is prone to landslides. Early maps and aerial surveys from the 1930s show continuous movement from the upper hills towards the high cliffs and bluffs that reach the Pacific Ocean.
 

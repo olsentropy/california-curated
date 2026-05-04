@@ -10,7 +10,6 @@ tags: ["california", "ccs", "environment", "ocean", "ocean-current", "plankton"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/09/easternpacific_vir_2016039_lrg.jpg?w=1024)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

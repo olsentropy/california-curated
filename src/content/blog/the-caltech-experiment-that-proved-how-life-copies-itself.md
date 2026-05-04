@@ -10,7 +10,6 @@ tags: ["california", "california-institute-of-technology", "caltech", "dna", "do
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/07/dna-molecule.jpg?w=1024)DNA molecule (Midjourney)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

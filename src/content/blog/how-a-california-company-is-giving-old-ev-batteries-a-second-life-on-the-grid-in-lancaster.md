@@ -10,7 +10,6 @@ tags: ["batteries", "california", "climate-change", "electric-vehicles", "energy
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/01/solar-array-mojave-.jpg?w=1024)Solar array in the Mojave desert (Erik Olsen)
 
 [Consider supporting California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

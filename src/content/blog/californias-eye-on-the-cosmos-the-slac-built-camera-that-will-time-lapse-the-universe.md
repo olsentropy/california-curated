@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **Images from the most powerful astronomical discovery machine ever created, and built in California**
 
-![](https://californiacurated.com/wp-content/uploads/2025/06/vera-rubin-1.webp?w=1024)A breathtaking zoomed-in glimpse of the cosmos: this first image from the Vera C. Rubin Observatory reveals a deep field crowded with galaxies, offering just a taste of the observatory’s power to map the universe in unprecedented detail.   
 (Credit: NSF–DOE Vera C. Rubin Observatory)
 
 I woke up this morning to watch a much-anticipated press conference about the release of the first images from the [Vera Rubin Telescope and Observatory](<https://rubinobservatory.org/>). It left me flabbergasted: not just for what we saw today, but for what is still to come. The images weren’t just beautiful; they hinted at a decade of discovery that could reshape what we know about the cosmos.I just finished watching and have to catch my breath. What lies ahead is very, very exciting. 

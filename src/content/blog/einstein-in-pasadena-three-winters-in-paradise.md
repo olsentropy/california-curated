@@ -10,7 +10,6 @@ tags: ["1930s", "albert-einstein", "california", "caltech", "einstein", "exile",
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/einstein-bicycle.jpeg?w=1000)Einstein at the Santa Barbara home of Caltech trustee Ben Meyer on Feb. 6, 1933.  
 [(The Caltech Archives](<https://digital.archives.caltech.edu/islandora/object/image%3A1780>))
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)

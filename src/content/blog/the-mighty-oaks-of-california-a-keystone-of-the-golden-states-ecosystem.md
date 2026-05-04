@@ -10,7 +10,6 @@ tags: ["landscape", "oak", "oak-tree", "trees"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/08/oak-tree-1.jpg?w=1024)
 
 [Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
 

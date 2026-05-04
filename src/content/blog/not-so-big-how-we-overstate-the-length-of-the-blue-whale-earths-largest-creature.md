@@ -10,7 +10,6 @@ tags: ["animals", "baja-california", "blue-whale", "california", "california-coa
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2020/04/blue-whale-image-california-newport.jpg?w=1024)Blue whale off the California coast. (Photo: Erik Olsen)
 
 **Not So Big: How We Overstate the Length of the Blue Whale, Earth’s Largest Creature**
 

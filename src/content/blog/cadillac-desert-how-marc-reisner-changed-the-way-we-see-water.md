@@ -10,7 +10,6 @@ tags: ["california", "climate-change", "environment", "owens-river", "owens-vall
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/11/la-aqueduct.jpg?w=1024)Los Angeles Aqueduct passing through Palmdale, California (Photo: Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

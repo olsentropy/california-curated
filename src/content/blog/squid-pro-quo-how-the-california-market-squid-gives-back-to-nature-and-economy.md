@@ -10,7 +10,6 @@ tags: ["animals", "california", "environment", "marine-science", "pacific-ocean"
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/09/market-squid-chromatophores.jpeg?w=1024)California Market Squid. The animal's skin is covered with thousands of tiny chromatophores that change color and can dramatically transform the squid's appearance. 
 
 [Buy us coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

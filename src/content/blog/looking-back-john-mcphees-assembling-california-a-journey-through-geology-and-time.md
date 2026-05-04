@@ -10,7 +10,6 @@ tags: ["geology", "john-mcphee", "sierra-nevada"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/06/e8f341ca8df67563124697c333bb77ce.jpg?w=1024)Sierra Nevada Mountains and Hot Creek Geological Site (Erik Olsen)
 
 California's diverse landscapes, rich history, and abundant natural phenomena have inspired many scientific-themed popular books, ranging from John Steinbeck's "[The Log from the Sea of Cortez](<https://amzn.to/3oWSr2A>)," with its focus on marine biology, to Mary Austin's "[The Land of Little Rain](<https://amzn.to/3oYZEzi>)," a lyrical examination of California's desert environment, not to mention the late [Marc Reisner’s Cadillac Desert](<https://www.amazon.com/Cadillac-Desert-American-Disappearing-Revised/dp/0140178244>), an epic history of California’s contentious relationship with water. (I’ve read it twice.)
 

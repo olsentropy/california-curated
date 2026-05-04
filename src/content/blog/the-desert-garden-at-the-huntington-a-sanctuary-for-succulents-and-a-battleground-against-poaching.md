@@ -10,7 +10,6 @@ tags: ["california", "environment", "garden", "gardening", "huntington-garden", 
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/09/huntington-succulent-1.jpg?w=1024)Golden Barrel cacti in the Desert Garden at The Huntington Library, Art Museum and Botanical Gardens (Erik Olsen)
 
 [Buy us coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

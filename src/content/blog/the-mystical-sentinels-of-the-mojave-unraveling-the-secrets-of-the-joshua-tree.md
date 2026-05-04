@@ -10,7 +10,6 @@ tags: ["california", "climate-change", "joshua-tree", "joshua-trees", "mojave", 
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/11/joshua-trees.jpeg?w=1024)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

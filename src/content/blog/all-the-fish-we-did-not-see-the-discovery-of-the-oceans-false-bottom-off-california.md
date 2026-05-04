@@ -10,7 +10,6 @@ tags: ["animals", "bristlemouth", "california", "climate-change", "deep-ocean", 
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/12/paper-nautilus.jpg?w=1024)A paper nautilus or Argonaut, a group of pelagic octopuses that dwell in the ocean's twilight zone. (Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

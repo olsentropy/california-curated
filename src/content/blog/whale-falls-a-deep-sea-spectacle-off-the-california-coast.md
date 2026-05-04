@@ -10,7 +10,6 @@ tags: ["animals", "blue-whales", "california", "cetaceans", "environment", "paci
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/07/whale-fall.jpg?w=1024)A whale fall recorded off the Coast of California. (Photo: Ocean Exploration Trust/NOAA)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

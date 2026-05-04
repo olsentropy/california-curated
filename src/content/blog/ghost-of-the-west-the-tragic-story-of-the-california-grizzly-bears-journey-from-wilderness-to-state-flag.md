@@ -10,7 +10,6 @@ tags: ["animals", "bear", "california", "center-for-biological-diversity", "envi
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/06/olsentropy_wide_shot_of_the_california_grizzly_bear_in_the_fore_90a1c808-26bd-4612-a44f-1370e2928b5e.png?w=1024)
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

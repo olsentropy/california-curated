@@ -10,7 +10,6 @@ tags: ["california", "environment", "gems", "geology", "serpentine", "state-rock
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/04/serpentine.jpg?w=1024)Serpentine (Wikipedia)
 
 [Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

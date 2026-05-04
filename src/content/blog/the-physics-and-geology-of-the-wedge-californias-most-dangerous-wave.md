@@ -10,7 +10,6 @@ tags: ["beach-life", "bodysurfing", "california", "california-coast", "coastal-s
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/08/the-wedge-erik-olsen.jpg?w=1024)Dangerous surf at The Wedge in Newport Beach, California (Photo: Erik Olsen)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

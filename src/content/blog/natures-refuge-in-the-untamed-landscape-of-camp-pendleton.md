@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 The Unlikely Intersection of Military Training and Coastal Preservation
 
-![](https://californiacurated.com/wp-content/uploads/2025/01/pendleton-wildlife.jpeg?w=1024)An endangered species sign is posted along the coastline on Marine Corps Base Camp Pendleton, California,   
 March 29, 2022. (U.S. Marine Corps photo by Lance Cpl. Nataly Espitia)
 
 [Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)

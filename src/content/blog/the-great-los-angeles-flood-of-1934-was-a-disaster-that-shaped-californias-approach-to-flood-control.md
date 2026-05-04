@@ -10,7 +10,6 @@ tags: ["california", "climate-change", "disasters", "environment", "flooding", "
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/10/1934-flood-6.jpg?w=800)A house in the La Crescenta-Montrose area was swept off its foundation and carried several hundred feet by the   
 New Year's Eve floodwaters. (LA Times)
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)

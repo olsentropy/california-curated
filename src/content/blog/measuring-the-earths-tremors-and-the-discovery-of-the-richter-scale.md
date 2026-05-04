@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 
-![](https://californiacurated.com/wp-content/uploads/2025/03/richter-scale.jpg?w=1024)Seismometer measuring earthquake impact.
 
 We all know California is known for earthquakes. AND most people probably know there's a reason for that: California lies along the [Pacific Ring of Fire](<https://en.wikipedia.org/wiki/Ring_of_Fire>), and it also sits at the boundary between the Pacific and North American tectonic plates, creating the San Andreas Fault and making it especially prone to seismic shaking. Even if you've lived here for just a short while, the chances are you've felt a tremble or two. 
 

@@ -10,7 +10,6 @@ tags: ["aliens", "animals", "biology", "california", "cephalopods", "climate-cha
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/12/octopus-int-rectangle.jpg?w=1024)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

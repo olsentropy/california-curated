@@ -10,7 +10,6 @@ tags: ["animals", "california", "environment", "la-brea-tar-pits", "pleistocene"
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/09/saber-toothed-cat-painting401.5x.jpg?w=1024)Charles R. Knight _Wikimedia_
 
 [Buy us coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

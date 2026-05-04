@@ -10,7 +10,6 @@ tags: ["california", "geology", "hadrosaur"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/07/hadrosaur.jpg?w=1024)Hadrosaur on ancient California landscape. Hadrosaurs like this AI generated one are among the very few dinosaurs whose fossils have ever been found in California. 
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

@@ -10,7 +10,6 @@ tags: ["animals", "bleaching", "bump-imaging-system", "california", "climate-cha
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/10/coral-polypbump.jpeg?w=1024)A fluorescence image of a polyp from the coral _Stylophora pistillata_ (side view) taken with the BUMP. (Credit: Or Ben-Zvi)
 
 (**We did a video about this story as well.**[**We hope you watch!** ](<https://youtu.be/UD-vz2HBLbg>))
 

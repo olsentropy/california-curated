@@ -10,7 +10,6 @@ tags: ["alabama-hills", "california", "environment", "geology", "mt-whitney"]
 author: "Erik Olsen"
 ---
 
-![Mobius Arch in Alabama Hills. Lone Pine, California](https://californiacurated.com/wp-content/uploads/2023/02/mobius-arch-2.jpg?w=1024)The Mobius Arch in the Alabama Hills in California (Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

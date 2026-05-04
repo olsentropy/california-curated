@@ -10,7 +10,6 @@ tags: ["animals", "california", "climate-change", "environment", "mbari", "ocean
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/02/canyon99_high.jpg?w=1024)  
 Monterey Canyon stretches nearly 95 miles out to sea, plunging over 11,800 feet into the depths—one of the largest submarine canyons on the Pacific Coast, hidden beneath the waves. (Courtesy: Monterey Bay Aquarium Research Institute MBARI)
 
 [Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)

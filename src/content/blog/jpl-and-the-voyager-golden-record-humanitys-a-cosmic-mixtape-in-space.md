@@ -10,7 +10,6 @@ tags: ["animals", "california", "jpl", "nasa", "space"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/04/sounds-of-earth.jpg?w=1024)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

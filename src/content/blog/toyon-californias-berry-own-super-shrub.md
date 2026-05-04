@@ -10,7 +10,6 @@ tags: []
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/11/img_0149.jpg?w=768)Toyon. (Photo: Erik Olsen)
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

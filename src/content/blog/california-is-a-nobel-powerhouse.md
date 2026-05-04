@@ -10,7 +10,6 @@ tags: ["art", "books", "california", "climate-change", "environment", "photograp
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/10/nobel-prize-california.jpg?w=1024)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

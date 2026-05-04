@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 ## The Vital Role of Upwelling in California’s Rich Ocean Life
 
-![](https://californiacurated.com/wp-content/uploads/2023/09/olsentropy_a_visually_lush_photograph_of_fish_including_sardine_225f2c29-c646-4e72-8143-b5566c9cd208-1.png?w=1024)
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

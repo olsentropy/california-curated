@@ -10,7 +10,6 @@ tags: ["california", "climate-change", "environment", "mohole", "ocean-science",
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/12/walter-munk-ucsd.jpg?w=800)Photo: Erik Jepsen (UC San Diego)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

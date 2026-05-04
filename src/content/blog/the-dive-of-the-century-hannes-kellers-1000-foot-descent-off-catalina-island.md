@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **An ambitious quest for underwater exploration that ended in tragedy beneath the Pacific waves.**
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/catalina-island.png?w=1024)The city of Avalon on Catalina Island (Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

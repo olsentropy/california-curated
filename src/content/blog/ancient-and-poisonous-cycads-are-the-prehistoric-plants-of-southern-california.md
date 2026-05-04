@@ -10,7 +10,6 @@ tags: ["ancient-plants", "beetle-pollinators", "california", "cycad-cones", "cyc
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/05/cycad.jpg?w=768)Cycad at Descanso Gardens in La Canada Flintridge. (Photo: Erik Olsen)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

@@ -10,7 +10,6 @@ tags: ["albert-einstein", "california", "california-institute-of-technology", "c
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/04/einstein-santa-barbara.jpg?w=1024)Albert Einstein on the beach in Santa Barbara in 1931 ([The Caltech Archives](<https://digital.archives.caltech.edu/islandora/object/image%3A1780>))
 
 We wrote [a piece a while back](<https://californiacurated.com/2023/08/04/einstein-in-pasadena-three-winters-in-paradise/>) about the three winters Albert Einstein spent in Pasadena, a little-known chapter in the life of a man who changed how we understand the universe. It was our way of showing how Einstein, often seen as a figure of European academia and global science, formed a real affection for California and for Pasadena in particular. It’s easy to picture him walking the streets here, lost in thought or sharing a laugh with [Charlie Chaplin](<https://www.mentalfloss.com/article/516452/when-albert-einstein-met-charlie-chaplin>). The idea of those two geniuses, one transforming physics and the other revolutionizing comedy, striking up a friendship is something worth imagining.
 

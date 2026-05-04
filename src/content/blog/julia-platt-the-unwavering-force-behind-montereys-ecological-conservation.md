@@ -10,7 +10,6 @@ tags: ["california", "coastal-protection", "environment", "monterey", "pacific-o
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/04/monterey-beach.png?w=1024)Monterey Bay (Photo: Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

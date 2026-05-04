@@ -22,7 +22,6 @@ Here at the [**California Science Weekly**](<https://californiacurated.com/>), w
 
 ## Something's happening here. Sea life around California is changing. 
 
-[![](https://californiacurated.com/wp-content/uploads/2019/04/screen-shot-2019-04-18-at-3.26.00-pm.png?w=800)](<https://www.youtube.com/watch?time_continue=2&v=zJpR3TnTZ_w>)Hakai Magazine
 
 **[](<http://drlucyjones.com/>)**This time of year, it is normal to see whales -[grays](<http://wildwhales.org/speciesid/whales/grey-whale/>) and [humpbacks](<http://wildwhales.org/speciesid/whales/humpback-whale/>) among them - migrating north to cooler climes and nutrient-rich waters in Alaska. But it's not normal for them to hang around for a long time, nor is it normal to see them frolicking together in San Francisco Bay. 
 

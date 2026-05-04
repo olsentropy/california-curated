@@ -10,7 +10,6 @@ tags: ["california", "defense-think-tank", "drone-warfare", "national-security",
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/08/rand-exterior.jpg?w=1024)RAND's current headquarters in Santa Monica (Erik Olsen)
 
 [Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
 

@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 ## **From Battlefront to Atomic Legacy: The Journey of the USS Independence to Its Final Resting Place off Northern California**
 
-![](https://californiacurated.com/wp-content/uploads/2024/10/uss_independence_cvl-22_in_san_francisco_bay_on_15_july_1943_80-g-74436.jpg?w=1024)The U.S. Navy light aircraft carrier USS _Independence_  (CVL-22) in San Francisco Bay (USA) on 15 July 1943. Note that she still carries Douglas SBD _Dauntless_  dive bombers. Before entering combat the air group would only consist of Grumman F6F _Hellcat_  fighters and TBF _Avenger_  torpedo bombers. (Wikipedia)
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

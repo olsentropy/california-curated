@@ -10,7 +10,6 @@ tags: ["bristlecones", "california", "climate-change", "endangered", "forest", "
 author: "Erik Olsen"
 ---
 
-![Bristlecone Pine](https://californiacurated.com/wp-content/uploads/2021/08/158a2-bristlecone.jpg?w=1024)Bristlecone Pine in the White Mountains (National Park Service)
 
 [Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
 

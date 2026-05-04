@@ -10,7 +10,6 @@ tags: ["owens-river", "owens-valley"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/01/drone-hot-creek.jpg?w=1024) Hot Springs geological site near Mammoth Lakes, California. (Erik Olsen)
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

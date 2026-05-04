@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **California’s coast is home to dozens of seamounts, each harboring diverse ecosystems and geological mysteries waiting to be explored.**
 
-![](https://californiacurated.com/wp-content/uploads/2023/09/octopuses-garden.jpeg?w=1024)The **Octopuses Garden on Davidson Seamount in California. Photo Credit:  **Chad King / OET, NOAA
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

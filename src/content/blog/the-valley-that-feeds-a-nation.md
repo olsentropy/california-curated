@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **How tectonics, sediment, and water created one of the most productive landscapes on Earth.**
 
-![](https://californiacurated.com/wp-content/uploads/2026/02/central-valley-farms.jpg?w=1024)Aerial view of California’s Central Valley, where Interstate 5 slices through a vast patchwork of irrigated fields, some of the most productive farmland on Earth, shaped by deep alluvial soils and Sierra Nevada snowmelt. (Photo: Erik Olsen)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

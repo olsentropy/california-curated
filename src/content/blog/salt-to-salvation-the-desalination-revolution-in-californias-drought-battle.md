@@ -10,7 +10,6 @@ tags: ["california", "carlsbad", "climate-change", "desalination", "environment"
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/12/2022_10_13_ai_0051_shasta_lake_levels.jpg?w=1024)Visibly low water conditions at Shasta Lake in Shasta County, on October 13, 2022.   
 Andrew Innerarity / California Department of Water Resources.
 
 Water, water, every where, nor any drop to drink. 

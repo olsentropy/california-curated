@@ -10,7 +10,6 @@ tags: ["astronomy", "california", "environment", "hiking", "national-park-servic
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/05/milky-way-california.png?w=1024)The Milky Way above the Eastern Sierra.
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

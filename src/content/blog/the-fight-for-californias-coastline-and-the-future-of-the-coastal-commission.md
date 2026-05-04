@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **For over 50 years, the California Coastal Commission has protected public access and natural beauty, but growing challenges—wildfires, housing shortages, and political pressure—are testing its authority like never before.**
 
-![](https://californiacurated.com/wp-content/uploads/2025/03/big-sur-coast.jpg?w=1024)California Coast at Big Sur (Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

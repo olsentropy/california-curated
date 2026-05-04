@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **__Eadweard Muybridge’s ‘Animal Locomotion’ was the first scientific study to use photography. Now, more than 130 years later, Muybridge’s work is seen as both an innovation in photography and the science of movement.__**
 
-![](https://californiacurated.com/wp-content/uploads/2026/01/cc-eadweard-muybridge-detail-bouquet-galloping-1887-collotype-paper-rijksmuseum-amsterdam-netherlands.jpeg?w=1024)Eadweard Muybridge, detail of _‘Bouquet’, Galloping,_  1887\. (Source: Rijksmuseum, Amsterdam, Netherlands)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

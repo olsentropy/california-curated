@@ -10,7 +10,6 @@ tags: ["ai-chips", "asml", "books", "california", "california-science", "cleanro
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/09/muon-based-imaging-willard-reagan-tamer-sml.jpg?w=1024)Researchers at Lawrence Livermore National Laboratory working with the Big Aperture Thulium (BAT) laser system, part of the laser and plasma research that laid the groundwork for generating the extreme ultraviolet light at the heart of today’s most advanced chipmaking machines. (Photo: Jason Laurea/LLNL)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

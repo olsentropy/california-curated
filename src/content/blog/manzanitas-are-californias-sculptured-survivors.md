@@ -10,7 +10,6 @@ tags: ["california", "climate-change", "environment", "garden", "gardening", "ho
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/07/manzanita-manzanita-yosemite-upscale-4x.jpeg?w=1024)At Inspiration Point, Yosemite, sticky whiteleaf manzanita tends to occupy south slopes, greenleaf manzanita tends to occupy north slopes. (Photo: NPS)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

@@ -10,7 +10,6 @@ tags: ["california", "climate", "climate-change", "drought", "environment", "glo
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/12/iceberg-towing.jpg?w=1024)An AI rendering of Isaacs' bold idea (Midjourney) 
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

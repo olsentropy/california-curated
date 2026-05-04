@@ -10,7 +10,6 @@ tags: ["animals", "california", "channel-islands", "environment", "island-fox", 
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/12/santa_cruz_island_fox-nature-conservancy.jpeg?w=1024)Nature Conservancy
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

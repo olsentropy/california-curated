@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **How a gathering of the world's top genetic scientists helped create a roadmap for responsible biology.**
 
-![](https://californiacurated.com/wp-content/uploads/2023/06/asilomar-ols01379-1.jpg?w=1024)Asilomar Conference Grounds Interior 
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

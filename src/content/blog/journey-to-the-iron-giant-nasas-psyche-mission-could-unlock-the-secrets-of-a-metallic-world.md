@@ -10,7 +10,6 @@ tags: ["asteroid", "california", "jpl", "nasa", "space", "spacecraft"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/10/psyche-clean-room.webp?w=1024)The Psyche spacecraft in the clean room of the Jet Propulsion Laboratory in La Canada Flintridge, CA
 
 **A NOVEL PROPULSION SYSTEM WILL TAKE US TO A MASSIVE METAL ASTEROID IN DEEP SPACE**
 

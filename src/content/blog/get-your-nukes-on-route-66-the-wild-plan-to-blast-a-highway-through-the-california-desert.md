@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 _...and they shall beat their swords into plowshares, and their spears into pruning hooks: nation shall not lift up sword against nation, neither shall they learn war any more. Micah 4:3_
 
-![](https://californiacurated.com/wp-content/uploads/2024/10/project-carryall.jpg?w=1024)Fake rendering of an atomic bomb exploding near road in Mojave Desert.
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

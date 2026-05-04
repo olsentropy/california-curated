@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 ## A Model Organism Advancing Research in Genomics and Behavioral Science
 
-![](https://californiacurated.com/wp-content/uploads/2023/11/california-two-spot-octopus.jpg?w=1024)California Two Spot Octopus (Photo: Erik Olsen) 
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

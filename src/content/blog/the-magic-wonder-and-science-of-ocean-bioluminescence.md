@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **How and why so many of earth's creatures make their own light.**
 
-![](https://californiacurated.com/wp-content/uploads/2024/10/biolum.jpg?w=1024)Bioluminescent waves in Southern California
 
 [Buy us a cup of coffee? Lots of work goes into California Curated. We'd appreciate it! ](<https://ko-fi.com/californiacurated>)
 

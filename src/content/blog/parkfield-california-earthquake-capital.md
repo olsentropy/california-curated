@@ -10,7 +10,6 @@ tags: ["california", "earthquakes", "geology"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2019/08/parkfield.jpg?w=1024)[Parkfield, California](<https://en.wikipedia.org/wiki/Parkfield,_California>)
 
 [Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
 

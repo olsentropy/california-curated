@@ -22,7 +22,6 @@ Here at the [**California Science Weekly**](<https://californiacurated.com/>), w
 
 ## Netflix's amazing Our Planet takes a long look at one of California's iconic coastal ecosystems
 
-[![](https://californiacurated.com/wp-content/uploads/2019/04/our-planet-1.png?w=576)](<https://www.netflix.com/title/80049832>)
 
 For Californians who have not yet had the joyful opportunity to catch Netflix's new nature show [**Our Planet**](<https://www.netflix.com/title/80049832>), you should click over now and catch [**episode four**](<https://www.netflix.com/watch/80094032?trackId=14277283&tctx=0%2C3%2C8ae88851-9653-44b3-99fa-2c562fde6eaa-781649828%2C%2C>), which features long, impossibly beautiful ruminations on California's coastal environment. 
 

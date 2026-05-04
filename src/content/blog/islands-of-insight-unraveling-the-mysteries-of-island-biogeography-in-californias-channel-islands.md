@@ -10,7 +10,6 @@ tags: ["animals", "california", "channel-islands", "environment", "island-biogeo
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/01/channel-islands-olsen.jpg?w=1024)Anacapa Island in California's Channel Islands (Photo: Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

@@ -10,7 +10,6 @@ tags: ["california", "earthquakes", "environment", "geology"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/grapevine-and-i5.jpg?w=1024)Interstate 5 coming out of the Grapevine near Tejon Pass (Photo: Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

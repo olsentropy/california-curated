@@ -10,7 +10,6 @@ tags: ["bristlecones", "california", "climate-change", "conservation", "environm
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/06/bristlecone-olsen.jpg?w=1024)Bristlecone Pines in the White Mountains of California ([Erik Olsen](<https://erikolsen.com/>))
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

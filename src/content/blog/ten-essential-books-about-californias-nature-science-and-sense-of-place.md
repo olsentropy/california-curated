@@ -10,7 +10,6 @@ tags: ["amy-tan", "animals", "california", "california-coast", "california-curat
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/11/books-joshua-tree.jpg?w=1024)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

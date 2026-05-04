@@ -10,7 +10,6 @@ tags: ["california", "clean-energy", "climate-change", "energy", "environment", 
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/10/ivanpah-solar-2.jpg?w=1024)Ivanpah Solar Power Facility in the Mojave Desert (Erik Olsen)
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

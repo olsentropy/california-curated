@@ -10,7 +10,6 @@ tags: ["beach-geology", "beach-sand-science", "california", "california-beaches"
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/07/beach-3.jpg?w=1024)Beautiful day at a Southern California beach (Photo: Erik Olsen)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

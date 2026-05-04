@@ -10,7 +10,6 @@ tags: ["california", "earthquakes", "eldridge-moores", "environment", "geology",
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/11/roadcuts-dji_fly_20231118_145934_0024_1700353622752_photo.jpg?w=1024)Roadcut in Southern California on Angeles Crest Highway (Photo: Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

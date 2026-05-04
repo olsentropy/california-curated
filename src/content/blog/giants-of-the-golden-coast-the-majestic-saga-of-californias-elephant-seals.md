@@ -10,7 +10,6 @@ tags: ["animals", "california", "elephant-seal", "environment", "marine-mammals"
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/10/elephant-seal-beach.jpg?w=1024)Elephant seal in California. 
 
 [Buy us a cup of coffee? Lots of work goes into California Curated. We'd appreciate it! ](<https://ko-fi.com/californiacurated>)
 

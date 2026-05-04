@@ -10,7 +10,6 @@ tags: ["birding", "california", "climate-change", "conservation-biology", "envir
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/11/loggerhead-shrike.jpg?w=1024)Loggerhead Shrike (Photo: US Fish and Wildlife Service)
 
 [Would you support us? Just buck or two. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

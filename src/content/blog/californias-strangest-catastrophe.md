@@ -10,7 +10,6 @@ tags: ["california", "catastrophe", "clean-energy-2", "colorado-river", "desert"
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/03/designclass-hypwhvpqb1i-unsplash.jpg?w=1024)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

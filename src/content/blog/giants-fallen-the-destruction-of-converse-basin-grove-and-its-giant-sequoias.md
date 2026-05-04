@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **The true tragic story of one of the worst environmental crimes in California history.**
 
-![](https://californiacurated.com/wp-content/uploads/2024/04/giant-sequoia-stump.jpg?w=1024)The stump of a Giant Sequoia at Converse Grove in California. (Photo: National Park Service)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **Turning the steady motion of the Pacific into clean electricity, Eco Wave Power’s pilot at the Port of Los Angeles tests whether wave energy can become a real piece of California’s renewable future.**
 
-![](https://californiacurated.com/wp-content/uploads/2025/09/eco-wave.jpg?w=1024)Eco-Wave's Wave Energy Station at the Port of Los Angeles (Photo: Erik Olsen)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

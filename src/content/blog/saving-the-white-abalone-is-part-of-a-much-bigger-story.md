@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 ### **The current effort to bring back the white abalone is one of numerous projects underway in California to revive the state's once-thriving marine environment.**
 
-![](https://californiacurated.com/wp-content/uploads/2019/11/white-abalone-2.png?w=1024)White abalone
 
 If you grew up in Southern California in the 1970s, there were a few things that defined California: surfing, skateboarding, the Eagles (preferably on the radio while driving down [the Pacific Coast Highway](<https://en.wikipedia.org/wiki/California_State_Route_1>)) and abalone. 
 

@@ -12,7 +12,6 @@ author: "Erik Olsen"
 
 **The Legacy of One of North America’s Largest Volcanic Eruptions**
 
-![](https://californiacurated.com/wp-content/uploads/2023/01/long-valley-owens-river-road-copy.jpg?w=1024)The Long Valley Caldera is one of the most active volcanic sites in the United States.  
 Here, the Owens River flows through it, winding south through Owens Valley. ([Erik Olsen](<https://erikolsen.com/>))
 
 [Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)

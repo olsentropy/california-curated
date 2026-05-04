@@ -10,7 +10,6 @@ tags: ["animals", "california", "environment"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2024/01/intaglio.jpeg?w=960)Blythe Intaglio of a human figure in Southern California (Wikipedia)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 

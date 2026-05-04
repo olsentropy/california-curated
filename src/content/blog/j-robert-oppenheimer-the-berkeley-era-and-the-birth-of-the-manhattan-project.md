@@ -10,7 +10,6 @@ tags: ["nuclear", "oppenheimer", "physics"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/06/olsentropy_university_of_california_berkeley_in_the_1940s_shot__39de1189-4a20-43a1-b956-22203f86f25c.png?w=1024)
 
 [Buy us coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

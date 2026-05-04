@@ -10,7 +10,6 @@ tags: ["adventure", "animals", "california", "california-curated", "environment"
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2026/02/me-diving-rig-2-1.jpg?w=683)Diving and filming beneath one of California's oil rigs. (Photo: Kyle McBurnie)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

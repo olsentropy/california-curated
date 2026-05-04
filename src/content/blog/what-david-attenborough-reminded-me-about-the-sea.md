@@ -10,7 +10,6 @@ tags: ["30-by-30-initiative", "animals", "biodiversity", "california", "californ
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2025/07/ocean-oceans.jpeg?w=1024)(Photo: Alamy)
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 

@@ -10,7 +10,6 @@ tags: ["california", "eastern-sierra", "environment", "mountains", "trees"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2023/10/fall-colors-rock-creek.jpg?w=1024)Fall colors changing in the Eastern Sierra (Photo: Erik Olsen)
 
 [Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
 
