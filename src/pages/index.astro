@@ -296,7 +296,9 @@ const sectionRails = SECTIONS.map((s) => {
 
 	@media (max-width: 980px) {
 		.hero-row { grid-template-columns: 1fr; }
-		.hero-secondary { flex-direction: row; }
+		.hero-main { order: 1; }
+		.hero-secondary { order: 2; flex-direction: row; }
+		.hero-rail { order: 3; }
 		.features-grid { grid-template-columns: 1fr; }
 		.feature-card { grid-template-columns: 120px 1fr; }
 		.rail-grid { grid-template-columns: 1fr 1fr; }
