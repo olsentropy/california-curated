@@ -34,8 +34,10 @@ const sectionRails = SECTIONS.map((s) => {
 				<div class="hero-secondary">
 					{previousPosts.slice(0, 2).map((p) => (
 						<article class="byline-card">
-							<p class="byline">— {p.data.author}</p>
-							<a href={`/blog/${p.id}/`}><h3>{p.data.title}</h3></a>
+							<a href={`/blog/${p.id}/`}>
+								{heroUrl(p) && <img src={heroUrl(p)} alt={p.data.title} class="byline-thumb" loading="lazy" />}
+								<h3>{p.data.title}</h3>
+							</a>
 						</article>
 					))}
 				</div>
@@ -123,11 +125,13 @@ const sectionRails = SECTIONS.map((s) => {
 		flex-direction: column;
 		gap: 2rem;
 	}
-	.byline-card .byline {
-		color: var(--cc-blue);
-		font-size: 0.85rem;
-		font-weight: 600;
-		margin: 0 0 0.4rem;
+	.byline-card .byline-thumb {
+		width: 100%;
+		aspect-ratio: 4 / 3;
+		object-fit: cover;
+		border-radius: var(--cc-radius);
+		margin-bottom: 0.6rem;
+		display: block;
 	}
 	.byline-card h3 {
 		font-size: 1.4rem;
