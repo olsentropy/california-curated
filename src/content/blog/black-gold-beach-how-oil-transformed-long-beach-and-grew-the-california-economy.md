@@ -1,6 +1,6 @@
 ---
 title: "Black Gold Beach or How Oil Transformed Long Beach and Built the Southern California Economy"
-description: "Signal Hill oil development (Photo: The Huntington Library, Art Museum, and Botanical Gardens) Support California Curated with a small donation. Southern California is best known for its sun-soaked…"
+description: "Southern California is best known for its sun-soaked…"
 pubDate: 2024-05-01
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/04/oil-fields-1.png"
 wpId: 3090

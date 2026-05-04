@@ -1,6 +1,6 @@
 ---
 title: "This is how we’re going to solve climate change"
-description: "Caltech. Credit: Erik Olsen Yesterday, the California Institute of Technology (Caltech) in Pasadena made a major announcement : philanthropists and entrepreneurs Stewart and Lynda Resnick gave the…"
+description: "The California Institute of Technology in Pasadena announced that philanthropists Stewart and Lynda Resnick gave the school $750 million to develop technologies to tackle climate change — a major bet on geoengineering as a path forward."
 pubDate: 2019-09-27
 heroImage: "https://californiacurated.com/wp-content/uploads/2021/08/1ebe5-caltech.png"
 wpId: 855

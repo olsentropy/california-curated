@@ -1,6 +1,6 @@
 ---
 title: "Dark Parks in California Allow Us to  Reconnect with the Universe"
-description: "The Milky Way above the Eastern Sierra. Support California Curated with a small donation. Despite its vast expanse (over 163,000 square miles) California offers surprisingly few places where one can…"
+description: "The Milky Way above the Eastern Sierra. Despite its vast expanse (over 163,000 square miles) California offers surprisingly few places where one can…"
 pubDate: 2024-05-24
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/05/milky-way-california.png"
 wpId: 3206

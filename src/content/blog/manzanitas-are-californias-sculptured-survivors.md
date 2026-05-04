@@ -1,6 +1,6 @@
 ---
 title: "Manzanitas are California’s Sculptured Survivors"
-description: "At Inspiration Point, Yosemite, sticky whiteleaf manzanita tends to occupy south slopes, greenleaf manzanita tends to occupy north slopes. (Photo: NPS) Would you support us? Just a few bucks. We’d…"
+description: "As an avid hiker in Southern California, I’ve come to deeply admire the chaparral that carpets the hills and mountains. Among its plants, manzanita stands out — sculptural, sometimes called the Jewel of the Chaparral, and one of the most quietly extraordinary plants in California."
 pubDate: 2025-07-01
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/07/manzanita-manzanita-yosemite-upscale-4x.jpeg"
 wpId: 6131

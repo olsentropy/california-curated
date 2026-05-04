@@ -1,6 +1,6 @@
 ---
 title: "Unraveling the Geology Behind Palos Verdes’ Ongoing Landslide Crisis"
-description: "A neighborhood threatened by landslides at Portuguese Bend on Palos Verdes (Erik Olsen) For decades, geologists and engineers have been aware that the Portuguese Bend region of Palos Verdes is prone…"
+description: "For decades, geologists and engineers have been aware that the Portuguese Bend region of Palos Verdes is prone…"
 pubDate: 2024-09-09
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/09/portuguese-bend-street.jpg"
 wpId: 3671

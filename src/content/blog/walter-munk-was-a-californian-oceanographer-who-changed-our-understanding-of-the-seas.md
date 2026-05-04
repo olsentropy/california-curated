@@ -1,6 +1,6 @@
 ---
 title: "Walter Munk was a Californian Oceanographer Who Changed Our Understanding of the Seas"
-description: "Photo: Erik Jepsen (UC San Diego) Support California Curated with a small donation. Walter Munk, often referred to as the “Einstein of the Oceans,” was one of the most influential oceanographers of…"
+description: "Photo: Erik Jepsen (UC San Diego) Walter Munk, often referred to as the “Einstein of the Oceans,” was one of the most influential oceanographers of…"
 pubDate: 2024-12-17
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/12/walter-munk-ucsd.jpg"
 wpId: 4053

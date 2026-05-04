@@ -1,6 +1,6 @@
 ---
 title: "The Great Los Angeles Flood of 1934 was a Disaster That Shaped California’s Approach to Flood Control"
-description: "A house in the La Crescenta-Montrose area was swept off its foundation and carried several hundred feet by the New Year’s Eve floodwaters. (LA Times) Click to buy us a cup of coffee? We’d appreciate…"
+description: "In early 1934, Southern California suffered one of its most devastating natural disasters: the Los Angeles flood. Largely forgotten outside the affected foothills, it reshaped not just the landscape but how California approaches flood management to this day."
 pubDate: 2024-11-07
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/10/1934-flood-6.jpg"
 wpId: 4537

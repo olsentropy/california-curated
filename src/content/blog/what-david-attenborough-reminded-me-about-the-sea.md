@@ -1,6 +1,6 @@
 ---
 title: "What David Attenborough Reminded Me About the Sea"
-description: "(Photo: Alamy) Would you support us? Just a few bucks. We’d appreciate it! I’m going to keep this week’s article shorter than usual. I want to talk about the ocean. I know I do this a lot; many…"
+description: "I want to talk about the ocean. The new National Geographic documentary Oceans, narrated by David Attenborough, is a reminder of why protecting it is the most important thing we can do — and why bottom trawling has to end."
 pubDate: 2025-07-24
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/07/ocean-oceans.jpeg"
 wpId: 6241
