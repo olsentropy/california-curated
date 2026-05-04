@@ -1,7 +1,10 @@
 ---
 import Layout from '../layouts/BlogPost.astro';
 
-const EMAIL = 'contactme@erikolsen.com';
+// Formspree form endpoint. Sign up at https://formspree.io, create a new form
+// pointed at contactme@erikolsen.com, and paste the form ID below.
+const FORMSPREE_ID = 'mlgzjqbo';
+const FORM_ENDPOINT = `https://formspree.io/f/${FORMSPREE_ID}`;
 ---
 
 <Layout
@@ -14,13 +17,143 @@ const EMAIL = 'contactme@erikolsen.com';
 	draft={false}
 >
 	<p>
-		Have a story tip, correction, question, or just want to say hello? I'd love to hear from you.
+		Have a story tip, correction, question, or just want to say hello?
+		Send a note using the form below — it lands directly in my inbox.
 	</p>
-	<p>
-		The best way to reach me is by email at
-		<a href={`mailto:${EMAIL}`}>{EMAIL}</a>.
-	</p>
-	<p style="margin-top: 2rem;">
-		<a href={`mailto:${EMAIL}`} class="btn btn-primary">Email Erik</a>
-	</p>
+
+	<form id="cc-contact-form" action={FORM_ENDPOINT} method="POST">
+		<label>
+			<span>Your name</span>
+			<input type="text" name="name" required autocomplete="name" />
+		</label>
+
+		<label>
+			<span>Your email</span>
+			<input type="email" name="email" required autocomplete="email" />
+		</label>
+
+		<label>
+			<span>Subject <em>(optional)</em></span>
+			<input type="text" name="subject" autocomplete="off" />
+		</label>
+
+		<label>
+			<span>Message</span>
+			<textarea name="message" rows="7" required></textarea>
+		</label>
+
+		<!-- Spam honeypot — humans won't see this; bots fill it in and get rejected. -->
+		<input type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true" class="cc-honeypot" />
+
+		<button type="submit" class="btn btn-primary">Send Message</button>
+	</form>
+
+	<div id="cc-contact-success" hidden>
+		<p><strong>Thanks — your message is on its way.</strong> I'll get back to you as soon as I can.</p>
+	</div>
+
+	<div id="cc-contact-error" hidden>
+		<p><strong>Something went wrong.</strong> Please try again, or email me directly.</p>
+	</div>
 </Layout>
+
+<style>
+	#cc-contact-form label {
+		display: block;
+		margin-bottom: 1.1rem;
+	}
+	#cc-contact-form label > span {
+		display: block;
+		font-weight: 600;
+		margin-bottom: 0.35rem;
+		font-size: 0.95rem;
+	}
+	#cc-contact-form label > span em {
+		font-weight: 400;
+		color: #777;
+		font-style: normal;
+	}
+	#cc-contact-form input,
+	#cc-contact-form textarea {
+		width: 100%;
+		padding: 0.6rem 0.7rem;
+		font: inherit;
+		border: 1px solid #ccc;
+		border-radius: 4px;
+		background: #fff;
+		box-sizing: border-box;
+	}
+	#cc-contact-form textarea {
+		resize: vertical;
+		min-height: 8rem;
+	}
+	#cc-contact-form input:focus,
+	#cc-contact-form textarea:focus {
+		outline: 2px solid var(--cc-accent, #1a8fc4);
+		outline-offset: 1px;
+		border-color: transparent;
+	}
+	#cc-contact-form .btn {
+		margin-top: 0.5rem;
+	}
+	.cc-honeypot {
+		position: absolute !important;
+		left: -10000px !important;
+		width: 1px !important;
+		height: 1px !important;
+		opacity: 0 !important;
+		pointer-events: none !important;
+	}
+	#cc-contact-success,
+	#cc-contact-error {
+		margin-top: 1.5rem;
+		padding: 1rem 1.25rem;
+		border-radius: 6px;
+	}
+	#cc-contact-success {
+		background: #e8f5ee;
+		border-left: 4px solid #2a9d54;
+	}
+	#cc-contact-error {
+		background: #fdecec;
+		border-left: 4px solid #c0392b;
+	}
+</style>
+
+<script is:inline>
+	(() => {
+		const form = document.getElementById('cc-contact-form');
+		const success = document.getElementById('cc-contact-success');
+		const error = document.getElementById('cc-contact-error');
+		if (!form) return;
+
+		form.addEventListener('submit', async (e) => {
+			e.preventDefault();
+			error.hidden = true;
+			const submitBtn = form.querySelector('button[type="submit"]');
+			const originalLabel = submitBtn.textContent;
+			submitBtn.disabled = true;
+			submitBtn.textContent = 'Sending…';
+
+			try {
+				const res = await fetch(form.action, {
+					method: 'POST',
+					body: new FormData(form),
+					headers: { 'Accept': 'application/json' }
+				});
+				if (res.ok) {
+					form.hidden = true;
+					success.hidden = false;
+				} else {
+					error.hidden = false;
+					submitBtn.disabled = false;
+					submitBtn.textContent = originalLabel;
+				}
+			} catch (err) {
+				error.hidden = false;
+				submitBtn.disabled = false;
+				submitBtn.textContent = originalLabel;
+			}
+		});
+	})();
+</script>
