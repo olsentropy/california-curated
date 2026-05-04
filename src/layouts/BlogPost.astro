@@ -7,8 +7,8 @@ import Header from '../components/Header.astro';
 import { SECTIONS } from '../consts';
 import '../styles/global.css';
 
-type Props = CollectionEntry<'blog'>['data'];
-const { title, description, pubDate, updatedDate, heroImage, author, categories } = Astro.props;
+type Props = CollectionEntry<'blog'>['data'] & { hideMeta?: boolean };
+const { title, description, pubDate, updatedDate, heroImage, author, categories, hideMeta } = Astro.props;
 
 // Resolve hero image — schema allows asset OR raw URL string
 const hero =
@@ -45,17 +45,19 @@ const filed = (categories ?? [])
 				)}
 				<div class="prose">
 					<header class="post-head">
-						<p class="post-meta">
-							<FormattedDate date={pubDate} />
-							{author && <> · By {author}</>}
-						</p>
+						{!hideMeta && (
+							<p class="post-meta">
+								<FormattedDate date={pubDate} />
+								{author && <> · By {author}</>}
+							</p>
+						)}
 						<h1>{title}</h1>
 						{description && <p class="lead">{description}</p>}
-						{updatedDate && (
+						{!hideMeta && updatedDate && (
 							<p class="updated">Updated <FormattedDate date={updatedDate} /></p>
 						)}
 					</header>
-					<hr />
+					{!hideMeta && <hr />}
 					<slot />
 					{filed.length > 0 && (
 						<footer class="post-footer">
