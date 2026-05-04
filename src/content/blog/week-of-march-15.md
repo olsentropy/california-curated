@@ -1,6 +1,6 @@
 ---
 title: "Oil rigs’ future, turning rigs into reefs, Lake Death Valley,  Charles Darwin in California, Huge fossil discovery in LA"
-description: "A weekly roundup of California science and nature stories — what to do with the state’s dying oil rigs, how those same rigs harbor remarkable marine biodiversity, and more."
+description: "A weekly roundup: the fate of California’s aging oil platforms, the surprising marine life thriving on rigs, and what to do with the structures when the drilling stops."
 pubDate: 2019-03-15
 heroImage: "https://californiacurated.com/wp-content/uploads/2019/03/la-platform-holly-pictures-20180913-014.jpg"
 wpId: 214

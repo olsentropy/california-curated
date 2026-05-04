@@ -1,6 +1,6 @@
 ---
 title: "The Great Los Angeles Flood of 1934 was a Disaster That Shaped California’s Approach to Flood Control"
-description: "In early 1934, Southern California suffered one of its most devastating natural disasters: the Los Angeles flood. Largely forgotten outside the affected foothills, it reshaped not just the landscape but how California approaches flood management to this day."
+description: "A forgotten New Year’s disaster killed dozens, swept hundreds of homes off their foundations in the foothills, and forced California to invent the modern playbook for flood control."
 pubDate: 2024-11-07
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/10/1934-flood-6.jpg"
 wpId: 4537

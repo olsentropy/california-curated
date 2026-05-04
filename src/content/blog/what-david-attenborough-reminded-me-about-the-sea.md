@@ -1,6 +1,6 @@
 ---
 title: "What David Attenborough Reminded Me About the Sea"
-description: "I want to talk about the ocean. The new National Geographic documentary Oceans, narrated by David Attenborough, is a reminder of why protecting it is the most important thing we can do — and why bottom trawling has to end."
+description: "The new National Geographic documentary Oceans makes plain what bottom trawling does to the seafloor — and why protecting the ocean might be the most important thing we can do."
 pubDate: 2025-07-24
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/07/ocean-oceans.jpeg"
 wpId: 6241

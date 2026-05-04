@@ -1,6 +1,6 @@
 ---
 title: "Manzanitas are California’s Sculptured Survivors"
-description: "As an avid hiker in Southern California, I’ve come to deeply admire the chaparral that carpets the hills and mountains. Among its plants, manzanita stands out — sculptural, sometimes called the Jewel of the Chaparral, and one of the most quietly extraordinary plants in California."
+description: "With twisting, terra-cotta limbs and bark polished smooth by the sun, manzanita doesn’t just grow in California’s chaparral — it sculpts itself into the landscape."
 pubDate: 2025-07-01
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/07/manzanita-manzanita-yosemite-upscale-4x.jpeg"
 wpId: 6131

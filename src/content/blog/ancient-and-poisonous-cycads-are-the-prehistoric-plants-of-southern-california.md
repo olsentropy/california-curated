@@ -1,6 +1,6 @@
 ---
 title: "Ancient and Poisonous Cycads Are the Prehistoric Plants of Southern California"
-description: "If there’s one thing our increasingly digital world has pushed me toward, it’s a desire to reconnect with the natural one — and California is full of those opportunities. One I want to call your attention to: cycads, one of the oldest surviving lineages of seed plants on Earth."
+description: "These living fossils predate dinosaurs and bear some of the largest seed cones on Earth — yet most Californians walk past them in gardens without ever recognizing what they’re seeing."
 pubDate: 2026-01-06
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/05/cycad.jpg"
 wpId: 6823
