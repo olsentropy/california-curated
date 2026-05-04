@@ -1,5 +1,5 @@
 ---
-import { SITE_TITLE, SECTIONS } from '../consts';
+import { SITE_TITLE, SITE_TAGLINE, SECTIONS } from '../consts';
 
 const path = Astro.url.pathname;
 function isActive(href: string) {
@@ -33,6 +33,7 @@ function isActive(href: string) {
 			<span class="cc-logo-orange">CALIFORNIA</span>
 			<span class="cc-logo-blue">CURATED</span>
 		</a>
+		<p class="cc-tagline">{SITE_TAGLINE}</p>
 	</div>
 
 	<nav class="cc-nav" aria-label="Sections">
@@ -118,6 +119,13 @@ function isActive(href: string) {
 		letter-spacing: 0.45em;
 		margin-top: 0.15rem;
 	}
+	.cc-tagline {
+		margin: 0.7rem 0 0;
+		color: var(--cc-muted);
+		font-style: italic;
+		font-size: 1rem;
+		letter-spacing: 0.01em;
+	}
 
 	.cc-nav {
 		border-top: 1px solid var(--cc-line);
@@ -149,6 +157,7 @@ function isActive(href: string) {
 		.cc-utility-actions .btn { padding: 0.3em 0.7em; font-size: 0.85rem; }
 		.cc-logo { font-size: 1.6rem; }
 		.cc-logo-blue { font-size: 0.9rem; letter-spacing: 0.4em; }
+		.cc-tagline { font-size: 0.85rem; }
 		.cc-nav-row { gap: 0.5rem 1rem; font-size: 0.75rem; }
 	}
 </style>

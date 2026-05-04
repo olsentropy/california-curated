@@ -2,6 +2,7 @@
 // You can import this data from anywhere in your site by using the `import` keyword.
 
 export const SITE_TITLE = 'California Curated';
+export const SITE_TAGLINE = 'The natural world of California, explained.';
 export const SITE_DESCRIPTION = 'California, explained.';
 export const SITE_AUTHOR = 'Erik Olsen';
 
