@@ -1,0 +1,75 @@
+# Sveltia CMS configuration for California Curated.
+# Docs: https://github.com/sveltia/sveltia-cms
+
+backend:
+  name: github
+  repo: olsentropy/california-curated
+  branch: main
+  # Sveltia uses PKCE OAuth — no auth server required, but you must
+  # register a GitHub OAuth App and put its Client ID in app_id below.
+  # Setup: https://github.com/sveltia/sveltia-cms#github
+  auth_type: pkce
+  app_id: Ov23liUOJ44dmHFxbPOE
+  commit_messages:
+    create: 'CMS: add "{{slug}}"'
+    update: 'CMS: update "{{slug}}"'
+    delete: 'CMS: delete "{{slug}}"'
+    uploadMedia: 'CMS: upload {{path}}'
+    deleteMedia: 'CMS: delete {{path}}'
+
+# Where the CMS uploads new images.
+media_folder: public/wp-content/uploads/cms
+public_folder: /wp-content/uploads/cms
+
+site_url: https://californiacurated.com
+display_url: https://californiacurated.com
+logo_url: https://californiacurated.com/icon-192.png
+
+# What the editor can manage. One collection: blog posts.
+collections:
+  - name: blog
+    label: Articles
+    label_singular: Article
+    folder: src/content/blog
+    create: true
+    delete: true
+    slug: '{{slug}}'
+    extension: md
+    format: yaml-frontmatter
+    summary: '{{title}} — {{pubDate | date("MMM D, YYYY")}}'
+    sortable_fields: [pubDate, title]
+    view_filters:
+      - label: Drafts
+        field: draft
+        pattern: true
+      - label: Published
+        field: draft
+        pattern: false
+    fields:
+      - { name: title, label: Headline, widget: string }
+      - { name: description, label: 'Subhead / SEO description', widget: text, hint: '1–2 sentences. Shows under the title and in Google search results. Aim for ~150 chars.' }
+      - { name: pubDate, label: 'Publish date', widget: datetime, format: 'YYYY-MM-DD', date_format: 'YYYY-MM-DD', time_format: false, picker_utc: false }
+      - { name: updatedDate, label: 'Updated date (optional)', widget: datetime, format: 'YYYY-MM-DD', date_format: 'YYYY-MM-DD', time_format: false, picker_utc: false, required: false }
+      - { name: heroImage, label: 'Hero image', widget: image, required: false, hint: 'Square or 16:9 ratio works best. Drag-drop to upload or paste a URL.' }
+      - name: categories
+        label: Categories
+        widget: select
+        multiple: true
+        options:
+          - { label: Animals, value: animals }
+          - { label: Birds, value: birds }
+          - { label: Geology / Earthquakes, value: geology-and-earthquakes }
+          - { label: Oceans / Marine Science, value: marine-science }
+          - { label: Climate Change, value: climate-change }
+          - { label: Plants / Horticulture, value: horticulture }
+          - { label: Space, value: space }
+          - { label: Science History, value: history-of-science }
+          - { label: Biology, value: biology }
+          - { label: Cities, value: cities }
+          - { label: People, value: people }
+          - { label: Places, value: places }
+        hint: 'Pick the magazine sections this story belongs to. The first matching section drives the URL prefix.'
+      - { name: tags, label: Tags, widget: list, required: false, default: [] }
+      - { name: author, label: Author, widget: string, default: 'Erik Olsen' }
+      - { name: draft, label: 'Draft (uncheck to publish)', widget: boolean, default: true }
+      - { name: body, label: 'Article body', widget: markdown, hint: 'Paste from Word, Google Docs, etc. — formatting transfers.' }
