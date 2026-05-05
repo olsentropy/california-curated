@@ -12,8 +12,16 @@ const blog = defineCollection({
 			title: z.string(),
 			description: z.string(),
 			pubDate: z.coerce.date(),
-			updatedDate: z.coerce.date().optional(),
-			heroImage: z.optional(image().or(z.string())),
+			// Sveltia CMS writes empty values as '' or null for unset optional fields.
+			// Preprocess those to undefined so the schema's .optional() can apply cleanly.
+			updatedDate: z.preprocess(
+				(v) => (v === '' || v === null ? undefined : v),
+				z.coerce.date().optional(),
+			),
+			heroImage: z.preprocess(
+				(v) => (v === '' || v === null ? undefined : v),
+				z.optional(image().or(z.string())),
+			),
 			// Preserved from WordPress for URL parity:
 			wpId: z.number().optional(),
 			wpSlug: z.string().optional(),
