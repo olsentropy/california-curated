@@ -5,10 +5,10 @@ backend:
   name: github
   repo: olsentropy/california-curated
   branch: main
-  # Sveltia uses PKCE OAuth — no auth server required, but you must
-  # register a GitHub OAuth App and put its Client ID in app_id below.
-  # Setup: https://github.com/sveltia/sveltia-cms#github
-  auth_type: pkce
+  # GitHub OAuth via Sveltia's hosted auth proxy (free, open source).
+  # The proxy handles the token exchange — your Client ID is below.
+  # Source: https://github.com/sveltia/sveltia-cms-auth
+  base_url: https://sveltia-cms-auth.deno.dev
   app_id: Ov23liUOJ44dmHFxbPOE
   commit_messages:
     create: 'CMS: add "{{slug}}"'
