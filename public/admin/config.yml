@@ -5,11 +5,11 @@ backend:
   name: github
   repo: olsentropy/california-curated
   branch: main
-  # GitHub OAuth via Sveltia's hosted auth proxy (free, open source).
-  # The proxy handles the token exchange — your Client ID is below.
-  # Source: https://github.com/sveltia/sveltia-cms-auth
-  base_url: https://sveltia-cms-auth.deno.dev
-  app_id: Ov23liUOJ44dmHFxbPOE
+  # OAuth proxy is a pair of self-hosted Vercel serverless functions
+  # at /api/auth and /api/callback. Configured via Vercel env vars
+  # GITHUB_CLIENT_ID and GITHUB_CLIENT_SECRET.
+  base_url: https://californiacurated.com
+  auth_endpoint: api/auth
   commit_messages:
     create: 'CMS: add "{{slug}}"'
     update: 'CMS: update "{{slug}}"'
