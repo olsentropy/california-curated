@@ -1,13 +1,16 @@
 ---
-title: "White shark sightings are up in California, but don’t panic"
-description: "CSULB Shark Lab They’re baaaack!&nbsp; Here we are in late summer and the great white shark stories keep coming. On August 22, a drone captured a white shark swimming beneath some surfers, who…"
+title: White shark sightings are up in California, but don’t panic
+description: CSULB Shark Lab They’re baaaack!&nbsp; Here we are in late summer and the great white shark stories keep coming. On August 22, a drone captured a white shark swimming beneath some surfers, who…
 pubDate: 2019-08-23
-heroImage: "https://californiacurated.com/wp-content/uploads/2019/09/the-blob.jpg"
-wpId: 813
-wpSlug: "white-shark-sightings-are-up-but-dont-panic"
-categories: ["animals", "marine-science"]
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2019/09/the-blob.jpg
+categories:
+  - animals
+  - marine-science
 tags: []
-author: "Erik Olsen"
+author: Erik Olsen
+wpId: 813
+wpSlug: white-shark-sightings-are-up-but-dont-panic
 ---
 
 ![](https://californiacurated.com/wp-content/uploads/2021/08/c3ea4-screen-shot-2019-08-22-at-6.22.53-pm.png)CSULB Shark Lab
@@ -16,7 +19,7 @@ They're baaaack! 
 
 Here we are in late summer and the great white shark stories keep coming. On August 22, [a drone captured](<https://www.geek.com/news/watch-great-white-sharks-swim-close-to-oblivious-surfers-1801211/>) a white shark swimming beneath some surfers, who remained oblivious. Two days ago, a pair of kayakers off Cambria [filmed a great white](<https://www.sacbee.com/news/california/article234198077.html>) swimming beneath their boats. The shark circled the kayaks for a few minutes and then swam away. And in July, a large grouping of white sharks was[ spotted](<https://sanfrancisco.cbslocal.com/2019/07/17/large-number-great-white-sharks-california-coast-monterey/>) off Monterey. Of course, the list goes on. 
 
-The fact is, great whites in California waters are not unusual. They've always been around. But over the last 20 years, the population has grown, so much so that scientists are calling it a remarkable comeback, which may not be the most comforting thing to hear if you spend a lot of time in the water. 
+The fact is, great whites in California waters are not unusual. They've always been around. But over the last 20 years, the population has grown, so much so that scientists are calling it a remarkable comeback, which may not be the most comforting thing to hear if you spend a lot of time in the water.  So, don't go watch Jaws again soon. 
 
 The growth in the shark population has several causes, says Chris Lowe at the [Shark Lab at California State University Long Beach](<https://www.csulb.edu/shark-lab>). First, the last 50 years have seen a dramatic improvement in water quality. That means the overall ecosystem is more healthy, allowing a richer abundance of animals on every level of the food chain. More importantly, though, is the impact of the 1972 Marine Mammal Protection Act, which made it illegal to kill or molest marine mammals like sea lions. As a result, the sea lion population has exploded in Southern California. Sea lions are [sharks' favorite food](<https://www.ocregister.com/2019/07/31/great-white-sharks-attacking-sea-lions-at-increased-rate-off-southern-california-coast/>), so it stands to reason: more sea lions, more great white sharks. 
 
