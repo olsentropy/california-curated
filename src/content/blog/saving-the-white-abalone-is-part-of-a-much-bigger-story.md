@@ -31,7 +31,8 @@ It is estimated that around [1,600 individuals remain](<https://biodiversityla.o
 
 California is home to seven species of abalone (red, pink, black, green, white, pinto, and flat), none of them are plentiful any longer in California waters, but it is the white abalone, in particular, that became the most prized for its tender, flavorful flesh. We loved white abalone. And then they were gone. 
 
-![White abalone. Credit: NOAA](https://californiacurated.com/wp-content/uploads/2021/08/9c935-white-abalone.jpg)White abalone. Credit: NOAA
+
+*White abalone. Credit: NOAA*
 
 Despite a fishing ban for over two decades, wild populations of white abalone have not shown signs of recovery. Abalone reproduce through broadcast spawning, where they release their gametes into the water. This method requires a certain population density to be effective, but current wild populations of white abalone are too sparse for successful natural reproduction.
 

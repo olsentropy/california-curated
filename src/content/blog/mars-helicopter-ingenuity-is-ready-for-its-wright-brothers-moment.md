@@ -35,7 +35,8 @@ The first is to go up about a few feet and hover for up to 30 seconds, then land
 
 This is an extremely exciting time for JPL's planetary exploration project. [The Juno project ](<https://www.jpl.nasa.gov/missions/juno/>)has been sending back stunning images of Jupiter, including strange hexagonal cloud formations at the poles of the giant planet. 
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/41fb6-jupiter-south-pole.jpg)Credit: JPL
+
+*Credit: JPL*
 
 * * *
 

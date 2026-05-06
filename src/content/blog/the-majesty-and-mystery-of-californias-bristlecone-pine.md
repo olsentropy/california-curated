@@ -35,7 +35,8 @@ How the bristlecone has managed this incredible feat of endurance is a mystery t
 
 But insects don’t seem to be a problem for bristlecones. Bristlecone wood is so dense that mountain-pine beetles and other pests can rarely burrow their way into it. Further, the region where the bristlecones live tends to be sparse with vegetation, and thus far less prone to wildfire. 
 
-![Jeff Sullivan](https://californiacurated.com/wp-content/uploads/2021/08/b9332-bristlecone-3.jpg)[Jeff Sullivan](<https://www.flickr.com/photos/jeffreysullivan/>)
+
+*[Jeff Sullivan](<https://www.flickr.com/photos/jeffreysullivan/>)*
 
 So how do the trees manage to live so long? 
 

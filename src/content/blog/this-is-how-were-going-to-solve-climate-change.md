@@ -10,7 +10,8 @@ tags: ["geoengineering"]
 author: "Erik Olsen"
 ---
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/47bba-caltech.png)Caltech. Credit: Erik Olsen
+
+*Caltech. Credit: Erik Olsen*
 
 Yesterday, the California Institute of Technology (Caltech) in Pasadena made [a major announcement](<https://www.caltech.edu/about/news/stewart-and-lynda-resnick-pledge-750-million-caltech-support-environmental-sustainability-research>): philanthropists and entrepreneurs Stewart and Lynda Resnick gave the school $750 million to develop technologies to tackle climate change. The news of the announcement was somewhat lost in the craziness of the news cycle following the whistle-blower revelations of the Trump administration, but make no bones about it, this is major news. 
 

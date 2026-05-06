@@ -35,7 +35,8 @@ Next came the [Nobel Prize in Physics](<https://www.nobelprize.org/prizes/physic
 
 [The Chemistry Prize](<https://www.nobelprize.org/prizes/chemistry/2025/summary/>) followed a day later, shared by Susumu Kitagawa, Richard Robson, and [Omar M. Yaghi of UC Berkeley](<https://www.nobelprize.org/prizes/chemistry/2025/yaghi/facts/>) for discoveries in metal–organic frameworks, or MOFs. These are crystalline materials so porous that a single gram can hold an entire roomful of gas (mind blown). MOFs are now used to capture carbon dioxide, filter water, and even pull drinking water from desert air. Yaghi’s Berkeley lab coined the term “[reticular chemistry](<https://yaghi.berkeley.edu/pdfPublications/19-Book-IntroReticularChem-Chap1.pdf>)” to describe this new molecular architecture. His [work](<https://en.wikipedia.org/wiki/Metal%E2%80%93organic_framework>) has become one of California’s most important contributions to the climate sciences.
 
-![](https://californiacurated.com/wp-content/uploads/2024/08/47bba-caltech.png)California Institute of Technology (Photo: Erik Olsen)
+
+*California Institute of Technology (Photo: Erik Olsen)*
 
 Those three announcements in as many days lit up California’s scientific community, has garnered many headlines and carried on a tradition that has made the state one of the world’s most reliable engines of Nobel-level discovery.
 

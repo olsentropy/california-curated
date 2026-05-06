@@ -19,7 +19,8 @@ For decades, the majestic blue whale has been celebrated as the largest animal e
 
 The blue whale (_Balaenoptera musculus_) is a truly magnificent creature. Hunted nearly to extinction in the 19th and 19th centuries, the blue whale has staged a hopeful recovery in the last five decades, since commercial whaling [was outlawed](<https://en.wikipedia.org/wiki/Whaling>) by the international community in 1966 (although some Soviet whale hunting continued into the early 1970s). 
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/38b30-blue_whale_tail.jpg)Blue whale tail fluke in Sri Lanka. Credit: [Erik Olsen](<https://erikolsen.com/>)
+
+*Blue whale tail fluke in Sri Lanka. Credit: [Erik Olsen](<https://erikolsen.com/>)*
 
 Before commercial whaling began, it was estimated that there were some 400,000 blue whales on earth. 360,000 were killed in the Antarctic alone. The International Union for Conservation of Nature estimates that there are probably between 10,000 and 25,000 blue whales worldwide today, divided among some five separate populations or groups. One of those groups, the largest in the world, is called the Eastern North Pacific population, consists of some 2,000 animals and makes an annual migration from the warm waters of Baja California to Alaska and back every year. Many swim so close to shore that a lucrative whale-watching industry has emerged in places like Southern California, where numerous fishing vessels have been converted into whale-watching ships.  
 
@@ -27,7 +28,8 @@ Before commercial whaling began, it was estimated that there were some 400,000 b
 
 Blue whales were in the news recently with the publication of two papers by Stanford’s [Jeremy Goldbogen](<https://profiles.stanford.edu/jeremy-goldbogen>) at the [Hopkins Marine Station](<https://hopkinsmarinestation.stanford.edu/>) in Pacific Grove, California. [The first paper](<https://news.stanford.edu/2019/11/25/first-ever-recording-blue-whales-heart-rate/>) recorded a leviathan’s heartbeat at great depths in Monterey Bay, revealing the somewhat astonishing fact that the whales’ heart rate slows significantly the deeper they go, reaching an average minimum of about four to eight beats per minute, _with a low of two beats per minute_. That figure was about 30 to 50 percent lower than predicted, said the researchers. The second [paper](<https://science.sciencemag.org/content/366/6471/1367>) looked at the blue whale’s size, and attempted to quantify how whales got so big and, well, why they are not bigger.  
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/f550b-blue_whale_542-1.jpg)Blue whale in Sri Lanka. Photo: [Erik Olsen](<https://erikolsen.com/>)
+
+*Blue whale in Sri Lanka. Photo: [Erik Olsen](<https://erikolsen.com/>)*
 
 So let’s talk further about size because there are some misconceptions out there about how big these animals can get. 
 
@@ -67,7 +69,8 @@ The sizes among different blue whale groups differ significantly depending on th
 
 We emailed [Regina Asmutis-Silvia](<https://us.whales.org/author/regina-asmutis-silvia/>), Executive Director North America of [Whale and Dolphin Conservation](<https://us.whales.org/>), to ask about this discrepancy among so many seemingly authoritative outlets. She wrote: “While it appears biologically possible for blue whales to reach or exceed lengths of 100’, the current (and limited) photogrammetry data suggest that the larger blue whales which have been more recently sampled are under 80 feet.” ([Photogrammetry](<https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/photogrammetry#:~:text=Photogrammetry%20comprises%20all%20techniques%20concerned,tripods%2C%20airborne%20or%20spaceborne%20platforms.>) is the process of using several photos of an object (like a blue whale) to extract a three-dimensional measurement. from two-dimensional data. It is widely used in biology, as well as engineering, architecture and many other disciplines.) Photogrammetry measurements are now often acquired by drones and have proven to be a more accurate means of measuring whale size at sea. 
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/35656-whaling-dstation.jpg)Antarctic whaling station. 
+
+*Antarctic whaling station.*
 
 Here’s a key point: In the early part of the 20th century and before, whales were measured by whalers for the purpose of whaling, not measured by scientists for the purpose of science. Again, none of this is to say that blue whales aren’t gargantuan animals. They are massive and magnificent, but if we are striving for precision, it is not accurate to declare, as so many articles do, that blue whales reach lengths of 100 feet or more. This is not to say it’s impossible that whales grew to or above 100 feet, it’s that, according to the scientific records, none ever has. 
 

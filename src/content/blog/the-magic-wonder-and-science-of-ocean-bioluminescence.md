@@ -29,7 +29,8 @@ The phenomenon of bioluminescence is surprisingly common in nature. Both terrest
 
 It’s estimated that [nearly 90 percent of the animals](<https://oceanexplorer.noaa.gov/edu/materials/bioluminescence-fact-sheet.pdf>) living in the open ocean, in waters below 1,500 feet, make their own light. Why they do this is in part a mystery, but scientists are pretty sure they understand the basic reasons animals do it: to eat, to not be eaten, and to mate. In other words, to survive. And to communicate. 
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/891fb-noaa.jpg)Credit: NOAA
+
+*Credit: NOAA*
 
 The [angler fish](<https://www.youtube.com/watch?v=anDIlMVgNwk>) dangles a lighted lure in front of its face to attract prey. Some [squid](<https://www.youtube.com/watch?v=9HXXQBz6Vv0>) expel bioluminescent liquid, rather than ink, to confuse their predators. A [few shrimp](<https://www.wired.com/2012/01/glow-little-spewing-shrimp-glow/>) do too. Worms and small crustaceans use bioluminescence to attract mates. When it is attacked, the [Atolla jellyfish](<https://en.wikipedia.org/wiki/Atolla_jellyfish>) (_Atolla wyvillei_) broadcasts a vivid, circular display of bioluminescent light, which scientists believe may be a kind of alarm system. The theory is that the light will attract a larger predator to go after whatever is attacking the jellyfish. While this is still a theory, a 2019 expedition that took the very first images of the giant squid used a fake Atolla jellyfish designed by the scientist [Edith Widder](<https://www.teamorca.org/about.html>) to lure the squid into frame. I [had the fortune of interviewing Dr. Widder](<https://www.nytimes.com/video/science/100000001230824/edith-widders-new-crusade.html>), one of the world’s top experts on bioluminescence, several years ago for the New York Times.   
 

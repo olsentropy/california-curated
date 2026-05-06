@@ -22,7 +22,8 @@ The Pacific Coast Highway (PCH), also known as [California State Route 1](<https
 
 The origins of the Pacific Coast Highway date back to the early 20th century, when the automobile was becoming an essential part of American life. The idea for a coastal highway was initially conceived to connect the state's isolated coastal communities and improve access to California's scenic beauty. The concept gained traction in the 1910s and 1920s, and construction began in earnest in the 1930s, to provide jobs during the Great Depression.
 
-![](https://californiacurated.com/wp-content/uploads/2024/05/pch-high-shot.webp.jpeg?w=786)Lovely aerial of Pacific Coast Highway in Central California
+
+*Lovely aerial of Pacific Coast Highway in Central California*
 
 “It took decades to get the highway built,” Carina Monica Montoya told the Los Angeles Times. Montoya is the author of, “[Pacific Coast Highway In Los Angeles County](<https://amzn.to/3yBPGrS>)” (The History Press, 2014). 
 

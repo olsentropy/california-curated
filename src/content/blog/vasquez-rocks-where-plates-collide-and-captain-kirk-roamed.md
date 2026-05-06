@@ -31,7 +31,8 @@ There’s a reason that Vasquez Rocks is so often chosen as a set. The site lies
 
 Named for [Tiburcio Vásquez](<https://en.wikipedia.org/wiki/Tiburcio_V%C3%A1squez>), a notorious California Bandit who used the formation to elude officials in 1873-1874, the rocks have made it a favorite filming location going back to the Saturday-morning westerns of the 1920s and ’30s like “The Texas Ranger” in 1931 and “The Girl and the Bandit” in 1939. Other, non-Star Trek productions include the 1994 film version of “The Flintstones” and “The Big Bang Theory.” 
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/b5683-vasquez.jpeg)[Tiburcio Vásquez](<https://en.wikipedia.org/wiki/Tiburcio_V%C3%A1squez>)
+
+*[Tiburcio Vásquez](<https://en.wikipedia.org/wiki/Tiburcio_V%C3%A1squez>)*
 
 Most people are aware of the rocks’ fame in cinema, but its geological history is in many ways even more interesting. Vasquez Rocks sit astride or are near several other faults. The Elkhorn Fault, an offshoot of the San Andreas Fault, runs right through the [Vasquez Rocks Natural Area Park](<https://parks.lacounty.gov/vasquez-rocks-natural-area-and-nature-center/>), administered by LA County. Other faults, such as the Pelona, Vasquez Canyon, Soledad, and San Gabriel Faults, all lie near to the formation, making it a boon for geologists hoping to better understand California’s geological and seismographic history. 
 

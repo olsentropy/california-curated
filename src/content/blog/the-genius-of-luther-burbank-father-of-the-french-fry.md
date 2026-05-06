@@ -49,7 +49,8 @@ But the Russet Burbank was such a hearty strain, and so nutritious and flavorful
 
 Unfortunately, Luther Burbank had a dark side, especially by modern mores. He believed in [eugenics](<https://www.genome.gov/about-genomics/fact-sheets/Eugenics-and-Scientific-Racism>), the idea that human beings should be selectively bred like produce. He was a member of a national eugenicist group, which promoted anti-miscegenation laws, segregation, involuntary sterilization, and other discrimination by race.
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/da6fc-luther-burbanks-home.jpg)Luther Burbank home in Santa Rosa, California. Credit: Library of Congress
+
+*Luther Burbank home in Santa Rosa, California. Credit: Library of Congress*
 
 Luther Burbank died after a heart attack and gastrointestinal illness in 1926. His name is known in certain regions of California, in and around Santa Rosa, although if you asked the average person who he was, few would be able to say. The [Luther Burbank Home and Gardens](<https://en.wikipedia.org/wiki/Luther_Burbank_Home_and_Gardens>), in downtown Santa Rosa, are designated as a [National Historic Landmark](<https://en.wikipedia.org/wiki/National_Historic_Landmark>). 
 

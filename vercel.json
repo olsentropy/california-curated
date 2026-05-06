@@ -809,6 +809,21 @@
       "source": "/2026/04/24/that-time-we-tried-to-live-under-the-sea-off-california/",
       "destination": "/blog/that-time-we-tried-to-live-under-the-sea-off-california/",
       "permanent": true
+    },
+    {
+      "source": "/feed/",
+      "destination": "/rss.xml",
+      "permanent": true
+    },
+    {
+      "source": "/feed/atom/",
+      "destination": "/rss.xml",
+      "permanent": true
+    },
+    {
+      "source": "/comments/feed/",
+      "destination": "/rss.xml",
+      "permanent": true
     }
   ],
   "cleanUrls": true,

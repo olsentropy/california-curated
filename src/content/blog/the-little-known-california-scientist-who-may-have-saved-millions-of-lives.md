@@ -25,7 +25,8 @@ Of course, once science got involved, the estimated age changed dramatically, bu
 
 But in 1907, scientists developed the technique of [radiometric dating](<https://www.pbs.org/wgbh/evolution/library/03/3/l_033_01.html>), allowing scientists to compare the amount of uranium in rock with the amount of lead, the radioactive decay byproduct of uranium. If there was more lead in a rock, then there was less uranium, and thus the rock was determined to be older. Using this technique in 1913, British geologist [Arthur Holmes](<https://en.wikipedia.org/wiki/Arthur_Holmes>) put the Earth’s age at about 1.6 billion years, and in 1947, he pushed the age to about 3.4 billion years. Not bad. That was the (mostly) accepted figure when geochemist [Clair Patterson](<https://en.wikipedia.org/wiki/Clair_Cameron_Patterson>) arrived at the [California Institute of Technology](<https://www.caltech.edu/>) in Pasadena from the University of Chicago in 1952. (Radiometric dating remains today the predominant way geologists measure the age of rocks.) 
 
-![The Canyon Diablo meteorite was used by Clair Patterson to determine the age of the earth. Credit: Geoffrey Notkin](https://californiacurated.com/wp-content/uploads/2021/08/00351-canyon-diablo-meteorite.jpg)**Canyon Diablo** [meteorite](<https://en.wikipedia.org/wiki/Meteorite>). (Photo: Geoffrey Notkin)
+
+***Canyon Diablo** [meteorite](<https://en.wikipedia.org/wiki/Meteorite>). (Photo: Geoffrey Notkin)*
 
 By employing a much more precise methodology, and using samples from the [Canyon Diablo meteorite](<https://en.wikipedia.org/wiki/Canyon_Diablo_\(meteorite\)>), Patterson was able to place the creation of the solar system, and its planetary bodies such as the earth, at around _4.6 billion years_. (It is assumed that the meteorite formed at the same time as the rest of the solar system, including Earth). Subsequent studies have confirmed this number and it remains the [accepted age of our planet](<https://www.lindahall.org/clair-patterson/>). 
 
@@ -60,7 +61,8 @@ He decided to look in places far from industrial centers, ice caves in Greenland
 
 In his Greenland work, Patterson's data showed a “200- or 300-fold increase” in lead from the 1700s to the present day; and, most astonishing, the largest concentrations occurred only _in the last three decades_. Were we, like the Romans, perhaps on the brink of an environmental calamity that could hasten the end of our civilization? Not if Patterson could help it. 
 
-![Exterior shot of the California Institute of Technology. Credit: Erik Olsen](https://californiacurated.com/wp-content/uploads/2021/08/47bba-caltech.png)California Institute of Technology. Credit: Erik Olsen
+
+*California Institute of Technology. Credit: Erik Olsen*
 
 That may be far too grandiose and speculative, but there was no doubting that there was so much more lead in the modern world, and it seemed to have appeared only recently. But why? And how? 
 
@@ -85,7 +87,8 @@ But there signs even then that something was wrong with lead.
 
 [A New York Times story](<https://www.nytimes.com/1924/10/27/archives/odd-gas-kills-one-makes-four-insane-stricken-at-work-in-standards.html>) going back to 1924 documented how one man was killed and another driven insane by inhaling gases released in the production of the tetraethyl lead at the Bayway plant of the Standard Oil Company at Elizabeth, N.J. Many more cases of lead poisoning were documented in ensuing years, with studies showing that it not only leads to physical illness but also to serious mental problems and lower IQs. No one, however, was drawing the connection between all the lead being pumped into the air by automobiles and the potential health impacts. Patterson saw the connection. 
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/d1aa2-1910ford-t.jpg)Ford Model T. Credit: Harry Shipler
+
+*Ford Model T. Credit: Harry Shipler*
 
 When Patterson published his findings in 1963, he was met with both applause and derision. The billion-dollar oil and gas industry fought his ideas vigorously, trying to impugn his methods and his character. They even tried to pay him off to study something else. But it soon became apparent that Patterson was right. Patterson and other health officials realized that If nothing was done, the result could be a global health crisis that could end up causing millions of human deaths. Perhaps the decline of civilization itself. 
 

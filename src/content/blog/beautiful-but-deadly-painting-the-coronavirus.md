@@ -14,7 +14,8 @@ Pandemic as art.
 
 You've seen it. Probably a thousand or more times by now. It's the image of a greyish sphere, hanging in space, barbed with blood-red spikes. It looks like an undersea Navy mine... or perhaps a dog's chew toy. The Covid-19 coronavirus illustration is one of the best known and most viewed scientific illustrations in history. Released in early February by the [Centers for Disease Control and Prevention](<https://www.cdc.gov/>), the image has been seen on news sites, in magazines, even on SNL. 
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/f875e-cdc-coronavirus.jpg)[Centers for Disease Control and Prevention](<https://www.cdc.gov/>)
+
+*[Centers for Disease Control and Prevention](<https://www.cdc.gov/>)*
 
 That digital illustration, created by two medical illustrators at the CDC's [Graphic Services Branch](<https://www.cdc.gov/media/subtopic/images.htm>) \-- Alissa Eckert and Dan Higgins -- will forever be the iconic image of the current pandemic. As a piece of digital art, it is lovely. As a piece of science, it is terrifying.
 

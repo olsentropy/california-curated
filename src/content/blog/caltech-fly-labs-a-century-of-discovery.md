@@ -52,7 +52,8 @@ Since Benzer's [retirement in 1991](<https://wellcomecollection.org/works/ecuuqs
 
 In 2018, the Anderson laboratory identified a cluster of just three neurons in the fly brain that controls a ["threat display" ](<https://davidandersonlab.caltech.edu/news-media/news/picking-fights-fruit-flies-84375>)— a specific set of behaviors male fruit flies exhibit when facing a male challenger. During a threat display, a fly will extend its wings, make quick, short lunges forward, and continually reorient itself to face the intruder.
 
-![](https://californiacurated.com/wp-content/uploads/2024/08/47bba-caltech.png?w=800)California Institute of Technology (Photo: Erik Olsen)
+
+*California Institute of Technology (Photo: Erik Olsen)*
 
 **[Michael Dickinson](<https://www.bbe.caltech.edu/people/michael-h-dickinson>)** is renowned for his studies on the biomechanics and neural control of flight in Drosophila. In the [Dickenson Lab](<https://dickinsonlab.caltech.edu/>), researchers combine behavioral experiments with computational models and robotic simulations, seeking to understand how flies [execute complex flight maneuvers](<https://www.nytimes.com/2013/10/08/science/focusing-on-fruit-flies-curiosity-takes-flight.html>) with such precision. His work has broader applications in robotics and may inspire new designs for autonomous flying robots. 
 
