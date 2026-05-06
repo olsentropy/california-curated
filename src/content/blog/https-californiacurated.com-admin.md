@@ -33,7 +33,7 @@ And those sharks are not rare.
 
 [![](/wp-content/uploads/cms/shark%20jaws%20csulb.jpg "Shark jaws in Shark Lab (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!zCVr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff186a5-465b-45ad-881a-a80938efef68_2000x1125.jpeg)
 
-Shark jaws hangon the wall at the Shark Lab at Cal State Long Beach (Photo: Erik Olsen)
+Shark jaws hang on the wall at the Shark Lab at Cal State Long Beach (Photo: Erik Olsen)
 
 What changed is not just awareness, but the ocean itself. Decades of conservation, including protections that began in 1994, when the state made it illegal to target or land great white sharks, effectively gave them full protection in state waters. This has allowed white shark populations to recover. At the same time, their prey has rebounded. Also, thanks in part to the [Marine Mammal Protection Act](https://www.mmc.gov/about-the-commission/our-mission/marine-mammal-protection-act/), “There are now more California sea lions on the planet than there may have ever been,” Lowe notes. Add in abundant stingrays, a favorite food for young sharks, and the result is a coastline that looks more like it did a century ago.
 
