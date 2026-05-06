@@ -75,7 +75,7 @@ Stingray warning sign for beach tourists at Seal Beach. “Do the Shuffle” to 
 
 “Baby white sharks, their favorite things to eat are what we call stingray pancakes,” Lowe says.
 
-In other words, you are probably not shark food, but it is shark food - stingrays - that are mostly hurting us, and sharks may be a means by which we significantly reduce the stingray population: “When there are a lot of white sharks off your beach, believe it or not, they’re keeping you safer, because they’re eating the stingrays that are far more likely to injure people than the sharks are themselves”.
+In other words, you are probably not shark food, but it is shark food - stingrays - that are mostly hurting us, and sharks may be a means by which we significantly reduce the stingray population: “When there are a lot of white sharks off your beach, believe it or not, they’re keeping you safer, because they’re eating the stingrays that are far more likely to injure people than the sharks are themselves”. 
 
 [![sting ray CSULB Shark Lab](/wp-content/uploads/cms/Stingray%20off%20the%20coast%20csulab.webp "Stingray off Southern California (Photo: CSULB)")](https://substackcdn.com/image/fetch/$s_!R3WO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd0bb4da-cf9b-4e44-93eb-212a3335394a_2800x2096.jpeg)
 
