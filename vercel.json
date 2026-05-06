@@ -1,48 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/2019/03/15/week-of-march-15/",
-      "destination": "/blog/week-of-march-15/",
-      "permanent": true
-    },
-    {
-      "source": "/2019/04/05/week-of-april-5/",
-      "destination": "/blog/week-of-april-5/",
-      "permanent": true
-    },
-    {
-      "source": "/2019/04/12/week-of-april-12/",
-      "destination": "/blog/week-of-april-12/",
-      "permanent": true
-    },
-    {
-      "source": "/2019/04/19/week-of-april-19/",
-      "destination": "/blog/week-of-april-19/",
-      "permanent": true
-    },
-    {
-      "source": "/2019/05/03/week-of-may-3/",
-      "destination": "/blog/week-of-may-3/",
-      "permanent": true
-    },
-    {
-      "source": "/2019/05/10/week-of-may-10/",
-      "destination": "/blog/week-of-may-10/",
-      "permanent": true
-    },
-    {
       "source": "/2019/05/29/how-california-companies-are-leading-the-effort-to-save-the-world-with-microbes/",
       "destination": "/blog/how-california-companies-are-leading-the-effort-to-save-the-world-with-microbes/",
-      "permanent": true
-    },
-    {
-      "source": "/2019/05/31/week-of-may-31/",
-      "destination": "/blog/week-of-may-31/",
-      "permanent": true
-    },
-    {
-      "source": "/2019/06/07/week-of-june-7/",
-      "destination": "/blog/week-of-june-7/",
       "permanent": true
     },
     {
@@ -58,26 +18,6 @@
     {
       "source": "/2019/06/11/towing-an-iceberg-from-antarctica-isnt-a-new-idea/",
       "destination": "/blog/towing-an-iceberg-from-antarctica-isnt-a-new-idea/",
-      "permanent": true
-    },
-    {
-      "source": "/2019/06/21/week-of-june-21-2019/",
-      "destination": "/blog/week-of-june-21-2019/",
-      "permanent": true
-    },
-    {
-      "source": "/2019/07/05/week-of-july-5/",
-      "destination": "/blog/week-of-july-5/",
-      "permanent": true
-    },
-    {
-      "source": "/2019/07/18/californias-unheralded-role-in-apollo-11/",
-      "destination": "/blog/californias-unheralded-role-in-apollo-11/",
-      "permanent": true
-    },
-    {
-      "source": "/2019/07/19/week-of-july-19/",
-      "destination": "/blog/week-of-july-19/",
       "permanent": true
     },
     {
