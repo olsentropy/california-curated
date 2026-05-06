@@ -3,7 +3,7 @@ title: It’s Going to Be a Sharky Summer. Here’s Why That’s Okay.
 description: Shark populations are rebounding along California’s coast, and the risks may be far lower than people think, says Chris Lowe, the director of the Shark Lab at Cal State Long Beach.
 pubDate: 2026-05-06
 updatedDate: ''
-heroImage: /wp-content/uploads/cms/pasted-image-1778096666841.png
+heroImage: /wp-content/uploads/cms/great white shark csulb.jpg
 categories:
   - animals
   - marine-science
@@ -31,7 +31,7 @@ And those sharks are not rare.
 
 “I can tell people on any given day I could probably take them out and show them a white shark,” Lowe says. Twenty-five years ago, he would have laughed at that idea.
 
-[![](https://substackcdn.com/image/fetch/$s_!zCVr!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff186a5-465b-45ad-881a-a80938efef68_2000x1125.jpeg "Shark jaws in Shark Lab (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!zCVr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff186a5-465b-45ad-881a-a80938efef68_2000x1125.jpeg)
+[![](/wp-content/uploads/cms/shark%20jaws%20csulb.jpg "Shark jaws in Shark Lab (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!zCVr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff186a5-465b-45ad-881a-a80938efef68_2000x1125.jpeg)
 
 Shark jaws hangon the wall at the Shark Lab at Cal State Long Beach (Photo: Erik Olsen)
 
