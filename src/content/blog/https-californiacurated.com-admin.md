@@ -67,7 +67,7 @@ Instagram accounts like that of Carlos Gauna, also known as [Malibu Artist](htt
 
 But [as I wrote a few weeks ago](https://californiacurated.substack.com/p/why-southern-california-is-the-stingray), perhaps the fear over great white sharks is not only overblown, but misplaced. If you measure danger not by fear but by injuries, even mild ones, the most consequential animal in Southern California surf isn’t a shark. It’s a stingray. As I wrote, it is possible, if not likely, that Southern California, Seal Beach in particular, is the stingray capital of the world.
 
-[![](https://substackcdn.com/image/fetch/$s_!YmTd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg)](https://substackcdn.com/image/fetch/$s_!YmTd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg)
+[![stingray sign seal beach](https://substackcdn.com/image/fetch/$s_!YmTd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg)](https://substackcdn.com/image/fetch/$s_!YmTd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg)
 
 Stingray warning sign for beach tourists at Seal Beach. “Do the Shuffle” to help prevent stings. (Photo: Erik Olsen)
 
@@ -77,7 +77,7 @@ Stingray warning sign for beach tourists at Seal Beach. “Do the Shuffle” to 
 
 In other words, you are probably not shark food, but it is shark food - stingrays - that are mostly hurting us, and sharks may be a means by which we significantly reduce the stingray population: “When there are a lot of white sharks off your beach, believe it or not, they’re keeping you safer, because they’re eating the stingrays that are far more likely to injure people than the sharks are themselves”.
 
-[![](https://substackcdn.com/image/fetch/$s_!R3WO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd0bb4da-cf9b-4e44-93eb-212a3335394a_2800x2096.jpeg)](https://substackcdn.com/image/fetch/$s_!R3WO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd0bb4da-cf9b-4e44-93eb-212a3335394a_2800x2096.jpeg)
+[![sting ray CSULB Shark Lab](https://substackcdn.com/image/fetch/$s_!R3WO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd0bb4da-cf9b-4e44-93eb-212a3335394a_2800x2096.jpeg)](https://substackcdn.com/image/fetch/$s_!R3WO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd0bb4da-cf9b-4e44-93eb-212a3335394a_2800x2096.jpeg)
 
 Round stingray off the California coast. (Photo: Cal State Long Beach Shark Lab)
 
