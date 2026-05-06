@@ -67,7 +67,7 @@ Instagram accounts like that of Carlos Gauna, also known as [Malibu Artist](htt
 
 But [as I wrote a few weeks ago](https://californiacurated.substack.com/p/why-southern-california-is-the-stingray), perhaps the fear over great white sharks is not only overblown, but misplaced. If you measure danger not by fear but by injuries, even mild ones, the most consequential animal in Southern California surf isn’t a shark. It’s a stingray. As I wrote, it is possible, if not likely, that Southern California, Seal Beach in particular, is the stingray capital of the world.
 
-[![stingray sign seal beach](https://substackcdn.com/image/fetch/$s_!YmTd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg)](https://substackcdn.com/image/fetch/$s_!YmTd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg)
+[![stingray sign seal beach](https://substackcdn.com/image/fetch/$s_!YmTd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg "Stingray sign seal beach (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!YmTd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg)
 
 Stingray warning sign for beach tourists at Seal Beach. “Do the Shuffle” to help prevent stings. (Photo: Erik Olsen)
 
