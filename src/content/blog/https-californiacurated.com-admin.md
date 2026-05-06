@@ -1,5 +1,5 @@
 ---
-title: https://californiacurated.com/admin/
+title: It’s Going to Be a Sharky Summer. Here’s Why That’s Okay.
 description: Shark populations are rebounding along California’s coast, and the risks may be far lower than people think, says Chris Lowe, the director of the Shark Lab at Cal State Long Beach.
 pubDate: 2026-05-06
 updatedDate: ''
@@ -19,7 +19,7 @@ At the [California State University Long Beach Shark Lab](https://www.csulb.edu
 
 This is one of the country’s leading centers for studying [elasmobranchs](https://en.wikipedia.org/wiki/Elasmobranchii), the ancient group of cartilaginous fish that includes sharks, rays, skates, and chimaeras. And its director, [Chris Lowe](https://www.csulb.edu/media/page/chris-lowe), has spent decades trying to answer a deceptively simple question: what are these animals actually doing just off California’s beaches, and what does that mean for the millions of people who share the water with them?
 
-[![A shark swims near a paddleboarder. ](https://substackcdn.com/image/fetch/$s_!Gvag!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b484522-3c99-4e2b-9ac6-ffaf2d5b47c2_1200x739.jpeg "A shark swims near a paddleboarder. ")](https://substackcdn.com/image/fetch/$s_!Gvag!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b484522-3c99-4e2b-9ac6-ffaf2d5b47c2_1200x739.jpeg)
+[![A shark swims near a paddleboarder.](https://substackcdn.com/image/fetch/$s_!Gvag!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b484522-3c99-4e2b-9ac6-ffaf2d5b47c2_1200x739.jpeg "A shark swims near a paddleboarder.")](https://substackcdn.com/image/fetch/$s_!Gvag!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b484522-3c99-4e2b-9ac6-ffaf2d5b47c2_1200x739.jpeg)
 
 Researchers at the California State University Long Beach Shark Lab have found that sharks and people share the water at some California beaches far more often than anyone realized. (Photo: Carlos Gauna / Cal State Long Beach)
 
