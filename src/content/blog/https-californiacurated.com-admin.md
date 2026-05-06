@@ -12,7 +12,7 @@ categories:
 tags:
   - '#California, #Sharks, #GreatWhiteShark, #SharkWeek, #CaliforniaCoast, #OceanScience, #MarineBiology, #ChrisLowe, #SharkLab, #LongBeach, #SealBeach, #SouthernCalifornia, #BeachLife, #OceanSafety, #MarineLife, #Wildlife, #Nature, #Science, #Conservation, #CaliforniaCurated'
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 At the [California State University Long Beach Shark Lab](https://www.csulb.edu/shark-lab), which is landlocked though just a short drive from the beach, the vibe is part messy garage, part frontier science. A kiddie-pool-sized tank circles with small sharks and stingrays. Along the walls, rows of dried jaws hang open, rows of razor-sharp teeth, straight out of _Jaws_. On a nearby table, syringe-sized tagging devices sit ready, wired and waiting.
