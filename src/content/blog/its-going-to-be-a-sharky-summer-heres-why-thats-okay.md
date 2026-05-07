@@ -68,7 +68,7 @@ In other words, you are probably not shark food, but it is shark food - stingray
 
 [![stingray CSULB](/wp-content/uploads/cms/stingray-off-the-coast-csulab.webp "Round stingray off California beach. (Photo CSULB Shark Lab)")](https://substackcdn.com/image/fetch/$s_!R3WO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd0bb4da-cf9b-4e44-93eb-212a3335394a_2800x2096.jpeg)Round stingray off the California coast. (Photo: Cal State Long Beach Shark Lab)
 
-In a way, it’s a classic ecological loop. Predators return and systems rebalance. Which brings us back to what’s coming: A sharky summer. Yes, Lowe says we’re likely to see more sharks this year. Warmer waters, rising populations, and lots of beachgoers. But as Lowe says, let’s not panic. Feel free to return to the water. Ignore the _da-dum da dum_ music playing in your head.
+In a way, it’s a classic ecological loop. Predators return and systems rebalance. Which brings us back to what’s coming: A sharky summer. Yes, Lowe says we’re likely to see more sharks this year. Warmer waters, rising populations, and lots of beachgoers. But as Lowe says, let’s not panic. Feel free to return to the water. Ignore the _da-dum da-dum_ music playing in your head.
 
 Because the reality is this: the water off California has always been a shared space with these animals, and for a long time, we tried to shove sharks out of it. Now they’re coming back.
 
