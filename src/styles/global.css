@@ -113,18 +113,6 @@ h4 { font-size: 1.15rem; }
 	margin-top: 1.75em;
 	margin-bottom: 1.75em;
 }
-/* Captions in a SEPARATE paragraph immediately after an image-only
-   paragraph (the typical Substack/CMS pattern). Lives in global.css —
-   not in BlogPost.astro — because Astro scoped styles don't match
-   markdown-rendered slot content. */
-.prose p:has(> img:only-child) + p:not(:has(img)),
-.prose p:has(> a:only-child > img:only-child) + p:not(:has(img)) {
-	font-size: 0.9rem;
-	font-style: italic;
-	color: var(--cc-muted);
-	line-height: 1.45;
-	margin-top: -0.5rem;
-}
 .prose a {
 	color: var(--cc-blue-dark);
 	text-decoration: underline;
