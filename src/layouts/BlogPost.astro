@@ -115,20 +115,6 @@ const filed = (categories ?? [])
 		border-top: 1px solid var(--cc-line);
 	}
 	.filed-under { color: var(--cc-muted); font-size: 0.95rem; }
-
-	/* Image captions — any plain paragraph immediately following an
-	   image-only paragraph (or image-link-only paragraph) gets the
-	   smaller, italic, muted treatment. Works for every post without
-	   needing changes in markdown. */
-	.prose p:has(> img:only-child) + p:not(:has(img)),
-	.prose p:has(> a:only-child > img:only-child) + p:not(:has(img)) {
-		font-size: 0.9rem;
-		font-style: italic;
-		color: var(--cc-muted);
-		line-height: 1.45;
-		margin-top: -0.5rem;
-	}
-
 	@media (max-width: 720px) {
 		.post-head h1 { font-size: 1.9rem; }
 		.lead { font-size: 1.1rem; }
