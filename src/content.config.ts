@@ -18,9 +18,14 @@ const blog = defineCollection({
 				(v) => (v === '' || v === null ? undefined : v),
 				z.coerce.date().optional(),
 			),
+			// heroImage accepts any string (full URL or absolute /public path).
+			// We don't run images through Astro's asset pipeline — every consumer
+			// just uses the value as a plain <img src>. Using image() here was
+			// breaking builds for /wp-content/... paths (Vite couldn't resolve
+			// them as importable modules).
 			heroImage: z.preprocess(
 				(v) => (v === '' || v === null ? undefined : v),
-				z.optional(image().or(z.string())),
+				z.string().optional(),
 			),
 			// Preserved from WordPress for URL parity:
 			wpId: z.number().optional(),
