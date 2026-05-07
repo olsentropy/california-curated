@@ -1,0 +1,10 @@
+# California Curated — robots.txt
+# All search engines are welcome to crawl every public page.
+# The CMS admin UI at /admin is intentionally not for indexing.
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://californiacurated.com/sitemap-index.xml
