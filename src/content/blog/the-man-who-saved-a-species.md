@@ -39,7 +39,7 @@ Elizabeth Kolbert captured the scale of the problem in her book [_The Sixth Exti
 
 But every so often, there are stories that tick in the other direction. Small victories. Species that somehow slip through the cracks and hang on.
 
-![](https://substackcdn.com/image/fetch/$s_!0yVn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40b1560e-9e0c-472a-b3cf-168b5fbca026_2000x1125.jpeg "The author at the Owens River in California")
+![The author at the Owens River in California](https://substackcdn.com/image/fetch/$s_!0yVn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40b1560e-9e0c-472a-b3cf-168b5fbca026_2000x1125.jpeg "The author at the Owens River in California")
 
 Amanda Royal over at [Earth Hope](<https://earthhope.substack.com/>) does a wonderful job documenting some of those rare moments of recovery. And there are more of them than you might think if you look closely.
 
