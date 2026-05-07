@@ -48,7 +48,9 @@ Why sharks bite people at all is still an open question. It could be mistaken id
 
 In other words, sharks are not hunting us. If anything, they’re ignoring us.
 
-“We have hours of footage of people in the water, sharks swimming right by them, sometimes right underneath them, and completely ignoring them,” Lowe says, pointing to drone footage of a sleek silhouette passing astonishingly close to a surfer. [![Shark sign California beach (Photo: Erik Olsen)](/wp-content/uploads/cms/shark-sign.jpg "Shark sign California beach (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!l4gn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17a0d834-9e92-4ac2-8dcf-4c34848329b2_1612x956.jpeg)More sharks are showing up along California’s coast this summer. Not because something’s wrong, but because something’s working. Populations are recovering. The ocean is getting healthier. (Photo: Erik Olsen)
+“We have hours of footage of people in the water, sharks swimming right by them, sometimes right underneath them, and completely ignoring them,” Lowe says, pointing to drone footage of a sleek silhouette passing astonishingly close to a surfer. 
+
+[![Shark sign California beach (Photo: Erik Olsen)](/wp-content/uploads/cms/shark-sign.jpg "Shark sign California beach (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!l4gn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17a0d834-9e92-4ac2-8dcf-4c34848329b2_1612x956.jpeg)More sharks are showing up along California’s coast this summer. Not because something’s wrong, but because something’s working. Populations are recovering. The ocean is getting healthier. (Photo: Erik Olsen)
 
 That gap between perception and reality is the foundation of the Shark Lab’s work. The team tags sharks with acoustic transmitters, tracks them across hundreds of miles, and feeds real-time data to lifeguards. The result is a system where beaches are no longer closed simply because a shark is nearby. In many cases, sharks are present every day.
 
