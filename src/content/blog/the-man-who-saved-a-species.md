@@ -1,17 +1,31 @@
 ---
-title: "The Man Who Saved the Owens Pupfish"
-description: "Less than 2.5 inches in length, the Owens pupfish is a silvery-blue fish in the family Cyprinodontidae. Endemic to California’s Owens Valley, 200 miles north of Los Angeles, the fish has lived on the planet since the Pleistocene, becoming a new species when its habitat was divided by changing climatic conditions, 60,000 years ago."
+title: The Man Who Saved the Owens Pupfish
+description: Less than 2.5 inches in length, the Owens pupfish is a silvery-blue fish in the family Cyprinodontidae. Endemic to California’s Owens Valley, 200 miles north of Los Angeles, the fish has lived on the planet since the Pleistocene, becoming a new species when its habitat was divided by changing climatic conditions, 60,000 years ago.
 pubDate: 2026-03-16
-heroImage: "https://californiacurated.com/wp-content/uploads/2023/06/owens-pupfish.jpeg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2023/06/owens-pupfish.jpeg
+categories:
+  - animals
+  - biology
+  - climate-change
+  - history-of-science
+  - people
+  - places
+tags:
+  - california
+  - climate-change
+  - conservation
+  - edwin-philip-pister
+  - endangered-species
+  - fish
+  - owens-pupfish
+  - owens-valley
+author: Erik Olsen
 wpId: 1486
-wpSlug: "the-man-who-saved-a-species"
-categories: ["animals", "biology", "climate-change", "history-of-science", "people", "places"]
-tags: ["california", "climate-change", "conservation", "edwin-philip-pister", "endangered-species", "fish", "owens-pupfish", "owens-valley"]
-author: "Erik Olsen"
+wpSlug: the-man-who-saved-a-species
 ---
 
 **How biologist Phil Pister helped rescue a species that had nearly disappeared**
-
 
 [Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
 
@@ -25,7 +39,7 @@ Elizabeth Kolbert captured the scale of the problem in her book [_The Sixth Exti
 
 But every so often, there are stories that tick in the other direction. Small victories. Species that somehow slip through the cracks and hang on.
 
-![](https://substackcdn.com/image/fetch/$s_!0yVn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40b1560e-9e0c-472a-b3cf-168b5fbca026_2000x1125.jpeg)
+![](https://substackcdn.com/image/fetch/$s_!0yVn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40b1560e-9e0c-472a-b3cf-168b5fbca026_2000x1125.jpeg "The author at the Owens River in California")
 
 Amanda Royal over at [Earth Hope](<https://earthhope.substack.com/>) does a wonderful job documenting some of those rare moments of recovery. And there are more of them than you might think if you look closely.
 
