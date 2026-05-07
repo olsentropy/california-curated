@@ -3,7 +3,7 @@ title: It’s Going to Be a Sharky Summer. Here’s Why That’s Okay.
 description: Shark populations are rebounding along California’s coast, and the risks may be far lower than people think, says Chris Lowe, the director of the Shark Lab at Cal State Long Beach.
 pubDate: 2026-05-06
 updatedDate: ''
-heroImage: /wp-content/uploads/cms/great white shark csulb.jpg
+heroImage: /wp-content/uploads/cms/great-white-shark-csulb.jpg
 categories:
   - animals
   - marine-science
@@ -30,7 +30,7 @@ And those sharks are not rare.
 
 “I can tell people on any given day I could probably take them out and show them a white shark,” Lowe says. Twenty-five years ago, he would have laughed at that idea.
 
-[![](/wp-content/uploads/cms/shark%20jaws%20csulb.jpg "Shark jaws on the wall at the CSULB Shark Lab (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!zCVr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff186a5-465b-45ad-881a-a80938efef68_2000x1125.jpeg)
+[![](/wp-content/uploads/cms/shark-jaws-csulb.jpg "Shark jaws on the wall at the CSULB Shark Lab (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!zCVr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff186a5-465b-45ad-881a-a80938efef68_2000x1125.jpeg)
 
 Shark jaws hang on the wall at the Shark Lab at Cal State Long Beach (Photo: Erik Olsen)
 
@@ -44,7 +44,7 @@ Since 1950, California has recorded roughly 130 unprovoked shark bites, with jus
 
 “When you consider how many people use the ocean on a daily basis, the likelihood of being bitten by a shark is so infinitesimally small that it almost seems crazy to worry about,” Lowe says.
 
-[![Dr. Chris Lowe, Director of the CSULB Shark Lab (Pohto: Erik Olsen)](/wp-content/uploads/cms/chris%20lowe%20CSULB.webp "Dr. Chris Lowe, Director of the CSULB Shark Lab (Pohto: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!1ijp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f774d5a-c1aa-4e4f-8770-103e56ac66a7_2000x1129.jpeg)
+[![Dr. Chris Lowe, Director of the CSULB Shark Lab (Pohto: Erik Olsen)](/wp-content/uploads/cms/chris-lowe-csulb.webp "Dr. Chris Lowe, Director of the CSULB Shark Lab (Pohto: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!1ijp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f774d5a-c1aa-4e4f-8770-103e56ac66a7_2000x1129.jpeg)
 
 Dr. Chris Lowe is a professor of marine biology and director of the Shark Lab at Cal State, Long Beach. (Photo: Erik Olsen)
 
@@ -56,7 +56,7 @@ In other words, sharks are not hunting us. If anything, they’re ignoring us.
 
 “We have hours of footage of people in the water, sharks swimming right by them, sometimes right underneath them, and completely ignoring them,” Lowe says, pointing to drone footage of a sleek silhouette passing astonishingly close to a surfer.
 
-[![Shark sign California beach (Photo: Erik Olsen)](/wp-content/uploads/cms/shark%20sign.jpg "Shark sign California beach (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!l4gn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17a0d834-9e92-4ac2-8dcf-4c34848329b2_1612x956.jpeg)
+[![Shark sign California beach (Photo: Erik Olsen)](/wp-content/uploads/cms/shark-sign.jpg "Shark sign California beach (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!l4gn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17a0d834-9e92-4ac2-8dcf-4c34848329b2_1612x956.jpeg)
 
 More sharks are showing up along California’s coast this summer. Not because something’s wrong, but because something’s working. Populations are recovering. The ocean is getting healthier. (Photo: Erik Olsen)
 
@@ -66,7 +66,7 @@ Instagram accounts like that of Carlos Gauna, also known as [Malibu Artist](htt
 
 But [as I wrote a few weeks ago](https://californiacurated.substack.com/p/why-southern-california-is-the-stingray), perhaps the fear over great white sharks is not only overblown, but misplaced. If you measure danger not by fear but by injuries, even mild ones, the most consequential animal in Southern California surf isn’t a shark. It’s a stingray. As I wrote, it is possible, if not likely, that Southern California, Seal Beach in particular, is the stingray capital of the world.
 
-[![stingray sign seal beach](/wp-content/uploads/cms/sting%20ray%20shuffle%20sign.webp "Stingray sign at Seal Beach (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!YmTd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg)
+[![stingray sign seal beach](/wp-content/uploads/cms/sting-ray-shuffle-sign.webp "Stingray sign at Seal Beach (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!YmTd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg)
 
 Stingray warning sign for beach tourists at Seal Beach. “Do the Shuffle” to help prevent stings. (Photo: Erik Olsen)
 
@@ -76,7 +76,7 @@ Stingray warning sign for beach tourists at Seal Beach. “Do the Shuffle” to 
 
 In other words, you are probably not shark food, but it is shark food - stingrays - that are mostly hurting us, and sharks may be a means by which we significantly reduce the stingray population: “When there are a lot of white sharks off your beach, believe it or not, they’re keeping you safer, because they’re eating the stingrays that are far more likely to injure people than the sharks are themselves”.
 
-[![stingray CSULB](/wp-content/uploads/cms/Stingray%20off%20the%20coast%20csulab.webp "Round stingray off California beach. (Photo CSULB Shark Lab)")](https://substackcdn.com/image/fetch/$s_!R3WO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd0bb4da-cf9b-4e44-93eb-212a3335394a_2800x2096.jpeg)
+[![stingray CSULB](/wp-content/uploads/cms/stingray-off-the-coast-csulab.webp "Round stingray off California beach. (Photo CSULB Shark Lab)")](https://substackcdn.com/image/fetch/$s_!R3WO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd0bb4da-cf9b-4e44-93eb-212a3335394a_2800x2096.jpeg)
 
 Round stingray off the California coast. (Photo: Cal State Long Beach Shark Lab)
 
