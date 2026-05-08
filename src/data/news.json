@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-08T19:12:47.966Z",
+	"lastUpdated": "2026-05-08T20:42:04.306Z",
 	"items": [
 		{
 			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
@@ -8,16 +8,28 @@
 			"publishedAt": "2026-05-08T10:00:00.000Z"
 		},
 		{
-			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
-			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T00:36:03.000Z"
+			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
+			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-08T15:40:45.000Z"
 		},
 		{
 			"headline": "Solving the Mystery of Point Reyes' Purple Waves",
 			"url": "https://baynature.org/2026/05/07/science-nature/solving-the-mystery-of-point-reyes-purple-waves-2/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-07T23:17:39.000Z"
+		},
+		{
+			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
+			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T00:36:03.000Z"
+		},
+		{
+			"headline": "Ganymede Might Still Be Forming Its Metal Core Today",
+			"url": "https://www.caltech.edu/about/news/ganymede-might-still-be-forming-its-metal-core-today",
+			"source": "Caltech",
+			"publishedAt": "2026-05-07T15:14:00.000Z"
 		},
 		{
 			"headline": "Physicians, politicians, activists call for emergency declaration on the Tijuana River",
@@ -30,18 +42,6 @@
 			"url": "https://www.latimes.com/california/story/2026-05-07/federal-funds-set-to-finally-help-rancho-palos-verdes-landslides",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-07T20:07:28.000Z"
-		},
-		{
-			"headline": "Ganymede Might Still Be Forming Its Metal Core Today",
-			"url": "https://www.caltech.edu/about/news/ganymede-might-still-be-forming-its-metal-core-today",
-			"source": "Caltech",
-			"publishedAt": "2026-05-07T15:14:00.000Z"
-		},
-		{
-			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
-			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-08T15:40:45.000Z"
 		},
 		{
 			"headline": "As federal scientists faced turmoil, the Devils Hole pupfish reached a crisis point",
@@ -62,16 +62,10 @@
 			"publishedAt": "2026-05-07T10:00:00.000Z"
 		},
 		{
-			"headline": "Urban Methane Emissions Are Rising, Despite Cities' Pledges",
-			"url": "https://eos.org/articles/urban-methane-emissions-are-rising-despite-cities-pledges",
-			"source": "Eos",
-			"publishedAt": "2026-05-08T13:55:53.000Z"
-		},
-		{
-			"headline": "MBARI technology helps reveal rhythms of microbial activity in open ocean eddies",
-			"url": "https://www.mbari.org/news/mbari-technology-helps-reveal-rhythms-of-microbial-activity-in-open-ocean-eddies/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-06T16:00:55.000Z"
+			"headline": "A full-grown mountain lion hides under a pickup in a SoCal apartment complex",
+			"url": "https://www.latimes.com/california/story/2026-05-06/mountain-lion-wanders-near-socal-homes-crawls-under-vehicle",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-06T23:32:01.000Z"
 		},
 		{
 			"headline": "Restoring Salt Ponds to Marshes Is a Win. Unless You're a Snowy Plover.",
@@ -80,16 +74,16 @@
 			"publishedAt": "2026-05-06T23:55:25.000Z"
 		},
 		{
-			"headline": "A full-grown mountain lion hides under a pickup in a SoCal apartment complex",
-			"url": "https://www.latimes.com/california/story/2026-05-06/mountain-lion-wanders-near-socal-homes-crawls-under-vehicle",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-06T23:32:01.000Z"
-		},
-		{
 			"headline": "Katherine Yelick named director of Lawrence Berkeley National Laboratory",
 			"url": "https://www.universityofcalifornia.edu/press-room/katherine-yelick-named-director-lawrence-berkeley-national-laboratory",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-06T17:06:31.000Z"
+		},
+		{
+			"headline": "MBARI technology helps reveal rhythms of microbial activity in open ocean eddies",
+			"url": "https://www.mbari.org/news/mbari-technology-helps-reveal-rhythms-of-microbial-activity-in-open-ocean-eddies/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-06T16:00:55.000Z"
 		},
 		{
 			"headline": "Southern California warms up; heat will peak on Mother's Day, forecasters say",
@@ -98,34 +92,10 @@
 			"publishedAt": "2026-05-06T17:01:04.000Z"
 		},
 		{
-			"headline": "Yosemite ditches reservations, drawing huge crowds in a free-for-all",
-			"url": "https://www.latimes.com/california/story/2026-05-06/yosemite-ditches-reservations-drawing-huge-crowds-in-free-for-all",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-06T10:00:00.000Z"
-		},
-		{
-			"headline": "The Forensics of a Skyscraper-Sized Tsunami",
-			"url": "https://eos.org/articles/the-forensics-of-a-skyscraper-sized-tsunami",
-			"source": "Eos",
-			"publishedAt": "2026-05-06T13:15:42.000Z"
-		},
-		{
-			"headline": "Deforestation and warming could push Amazon to tipping point by 2040s: Study",
-			"url": "https://news.mongabay.com/2026/05/deforestation-and-warming-could-push-amazon-to-tipping-point-by-2040s-study/",
-			"source": "Mongabay",
-			"publishedAt": "2026-05-07T14:10:09.000Z"
-		},
-		{
-			"headline": "Climate change could erase most South American cloud forests, study warns",
-			"url": "https://news.mongabay.com/2026/05/climate-change-could-erase-most-south-american-cloud-forests-study-warns/",
-			"source": "Mongabay",
-			"publishedAt": "2026-05-07T14:15:11.000Z"
-		},
-		{
-			"headline": "UC Berkeley researchers discover new pathway to building energy-efficient computing chips",
-			"url": "https://engineering.berkeley.edu/news/2026/05/researchers-discover-a-new-pathway-to-building-energy-efficient-computing-chips/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-05T18:58:47.000Z"
+			"headline": "Preserving pollinators is good for health -- and income",
+			"url": "https://www.npr.org/2026/05/06/nx-s1-5807663/preserving-pollinators-is-good-for-health-and-income",
+			"source": "NPR Science",
+			"publishedAt": "2026-05-06T18:05:59.000Z"
 		},
 		{
 			"headline": "Researchers say closing a top USDA research lab will slow responses to honeybee deaths",
@@ -134,22 +104,52 @@
 			"publishedAt": "2026-05-06T21:15:25.000Z"
 		},
 		{
-			"headline": "Preserving pollinators is good for health -- and income",
-			"url": "https://www.npr.org/2026/05/06/nx-s1-5807663/preserving-pollinators-is-good-for-health-and-income",
-			"source": "NPR Science",
-			"publishedAt": "2026-05-06T18:05:59.000Z"
+			"headline": "UC Berkeley researchers discover new pathway to building energy-efficient computing chips",
+			"url": "https://engineering.berkeley.edu/news/2026/05/researchers-discover-a-new-pathway-to-building-energy-efficient-computing-chips/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-05T18:58:47.000Z"
 		},
 		{
-			"headline": "A baby boom for North Atlantic right whales, but extinction still a threat",
-			"url": "https://news.mongabay.com/short-article/2026/05/a-baby-boom-for-north-atlantic-right-whales-but-extinction-still-a-threat/",
-			"source": "Mongabay",
-			"publishedAt": "2026-05-06T17:21:08.000Z"
+			"headline": "Urban Methane Emissions Are Rising, Despite Cities' Pledges",
+			"url": "https://eos.org/articles/urban-methane-emissions-are-rising-despite-cities-pledges",
+			"source": "Eos",
+			"publishedAt": "2026-05-08T13:55:53.000Z"
 		},
 		{
 			"headline": "Interstellar Comet Was Born in a Very Cold Place",
 			"url": "https://eos.org/articles/interstellar-comet-was-born-in-a-very-cold-place",
 			"source": "Eos",
 			"publishedAt": "2026-05-07T13:11:56.000Z"
+		},
+		{
+			"headline": "The Forensics of a Skyscraper-Sized Tsunami",
+			"url": "https://eos.org/articles/the-forensics-of-a-skyscraper-sized-tsunami",
+			"source": "Eos",
+			"publishedAt": "2026-05-06T13:15:42.000Z"
+		},
+		{
+			"headline": "Taking the Pulse of Atmospheric Drag to Predict Satellite Trajectory",
+			"url": "https://eos.org/editor-highlights/taking-the-pulse-of-atmospheric-drag-to-predict-satellite-trajectory",
+			"source": "Eos",
+			"publishedAt": "2026-05-06T12:00:00.000Z"
+		},
+		{
+			"headline": "Number of Scientific Publications from EPA Authors Has Dropped During Trump Administration",
+			"url": "https://eos.org/research-and-developments/number-of-scientific-publications-from-epa-authors-has-dropped-during-trump-administration",
+			"source": "Eos",
+			"publishedAt": "2026-05-05T19:39:43.000Z"
+		},
+		{
+			"headline": "Martian Aerosols Reveal Dynamics of Dust and Cloud Transport",
+			"url": "https://eos.org/editor-highlights/martian-aerosols-reveal-dynamics-of-dust-and-cloud-transport",
+			"source": "Eos",
+			"publishedAt": "2026-05-07T12:00:00.000Z"
+		},
+		{
+			"headline": "The 10 August 2025 landslide and tsunami at Tracy Arm fjord in Alaska",
+			"url": "https://eos.org/thelandslideblog/the-10-august-2025-landslide-and-tsunami-at-tracy-arm-fjord-in-alaska",
+			"source": "Eos",
+			"publishedAt": "2026-05-07T07:36:17.000Z"
 		}
 	]
 }
