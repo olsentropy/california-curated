@@ -1,6 +1,6 @@
 // Refreshes src/data/news.json by:
 //   1. Fetching every RSS feed in scripts/feeds.mjs (in parallel; tolerates
-//      individual feed failures).
+//      individual feed failures, including malformed XML).
 //   2. Combining + de-duping items, capping to the most recent ~150.
 //   3. Asking Claude Haiku to pick the most relevant headlines for a
 //      California-focused science / nature / history publication.
@@ -24,6 +24,12 @@ const OUT_PATH = path.join(__dirname, '..', 'src', 'data', 'news.json');
 const TARGET_COUNT = 25;       // how many curated items to keep
 const RECENT_POOL = 150;       // newest N items considered by the model
 const MAX_AGE_DAYS = 14;       // drop anything older than this before AI filtering
+const FETCH_TIMEOUT_MS = 15_000;
+
+// Identify ourselves as a polite bot. Some publishers (USGS, etc.) refuse
+// requests with a default Node fetch User-Agent.
+const USER_AGENT =
+	'Mozilla/5.0 (compatible; CaliforniaCuratedBot/1.0; +https://californiacurated.com/news)';
 
 const SYSTEM_PROMPT = `You are a news editor for "California Curated," a publication about California's natural world: science, geology, marine biology, plants, animals, climate, weather, space exploration, and science history.
 
@@ -50,15 +56,51 @@ Return ONLY a JSON array. No prose, no markdown fences, no explanation. Each ele
 
 Use the exact strings from the input — do not rewrite headlines. Order newest first.`;
 
+/**
+ * Fix common XML errors that break strict parsers. Most often this is a bare
+ * "&" character in a feed body (e.g. KQED) that should be "&amp;".
+ */
+function sanitizeXml(xml) {
+	return xml.replace(
+		/&(?!(?:amp|lt|gt|quot|apos|#\d+|#x[\da-fA-F]+);)/g,
+		'&amp;',
+	);
+}
+
+async function fetchFeedRaw(url) {
+	const ac = new AbortController();
+	const timer = setTimeout(() => ac.abort(), FETCH_TIMEOUT_MS);
+	try {
+		const res = await fetch(url, {
+			redirect: 'follow',
+			signal: ac.signal,
+			headers: {
+				'User-Agent': USER_AGENT,
+				Accept:
+					'application/rss+xml, application/atom+xml, application/xml;q=0.9, text/xml;q=0.9, */*;q=0.5',
+			},
+		});
+		if (!res.ok) {
+			throw new Error(`HTTP ${res.status}`);
+		}
+		return await res.text();
+	} finally {
+		clearTimeout(timer);
+	}
+}
+
 async function fetchFeed(parser, feed) {
 	try {
-		const parsed = await parser.parseURL(feed.url);
+		const raw = await fetchFeedRaw(feed.url);
+		const xml = sanitizeXml(raw);
+		const parsed = await parser.parseString(xml);
 		const items = (parsed.items || []).map((it) => ({
 			headline: (it.title || '').trim(),
 			url: it.link || '',
 			source: feed.source,
 			publishedAt: it.isoDate || it.pubDate || new Date().toISOString(),
 		}));
+		console.log(`[ok]   ${feed.source} — ${items.length} items`);
 		return items;
 	} catch (err) {
 		console.warn(`[skip] ${feed.url} — ${err.message}`);
@@ -69,7 +111,6 @@ async function fetchFeed(parser, feed) {
 function dedupe(items) {
 	const byKey = new Map();
 	for (const it of items) {
-		// Use URL as primary key; fall back to source+headline.
 		const key = it.url || `${it.source}::${it.headline}`;
 		if (!byKey.has(key)) byKey.set(key, it);
 	}
@@ -91,7 +132,6 @@ function sortNewestFirst(items) {
 }
 
 function extractJsonArray(text) {
-	// Tolerate code fences or stray prose around the JSON array.
 	const fenced = text.match(/```(?:json)?\s*(\[[\s\S]*?\])\s*```/);
 	if (fenced) return JSON.parse(fenced[1]);
 	const bare = text.match(/\[[\s\S]*\]/);
@@ -119,7 +159,6 @@ async function curate(client, candidates) {
 }
 
 function shapeOutput(curated) {
-	// Ensure each entry has the exact shape the site consumes, drop bad rows.
 	return curated
 		.map((it) => ({
 			headline: String(it.headline || '').trim(),
@@ -137,7 +176,7 @@ async function main() {
 	}
 
 	console.log(`Fetching ${FEEDS.length} feeds…`);
-	const parser = new Parser({ timeout: 15_000 });
+	const parser = new Parser({ timeout: FETCH_TIMEOUT_MS });
 	const all = (await Promise.all(FEEDS.map((f) => fetchFeed(parser, f)))).flat();
 
 	const fresh = sortNewestFirst(recentOnly(dedupe(all)));
