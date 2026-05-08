@@ -1,8 +1,7 @@
 name: Refresh news
 
 # Runs scripts/fetch-news.mjs every 4 hours, plus on-demand. Updates
-# src/data/news.json on whatever branch is checked out (currently
-# news-section-preview; change `ref:` below when promoting to main).
+# src/data/news.json on the main branch (production).
 #
 # Required repo secret: ANTHROPIC_API_KEY
 
@@ -26,7 +25,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          ref: news-section-preview
+          ref: main
           # Use a token that can push back to the branch.
           token: ${{ secrets.GITHUB_TOKEN }}
 
