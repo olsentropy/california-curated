@@ -89,9 +89,72 @@ async function fetchFeedRaw(url) {
 	}
 }
 
+/**
+ * Lenient regex-based fallback for feeds whose XML is too malformed for
+ * strict parsers. Extracts <item>/<entry> blocks via pattern matching and
+ * pulls out title, link, and pubDate. Brittle but tolerant.
+ */
+function lenientExtract(raw, sourceLabel) {
+	const items = [];
+	const itemPattern = /<(item|entry)\b[^>]*>([\s\S]*?)<\/\1\s*>/gi;
+	let match;
+	while ((match = itemPattern.exec(raw)) !== null) {
+		const block = match[2];
+		const title =
+			matchTagBody(block, 'title') ||
+			matchTagBody(block, 'media:title') ||
+			'';
+		// <link>http://...</link>  OR  <link href="http://..." />
+		const link =
+			matchTagBody(block, 'link') ||
+			(block.match(/<link\b[^>]*href=["']([^"']+)["']/i) || [])[1] ||
+			'';
+		const pubDate =
+			matchTagBody(block, 'pubDate') ||
+			matchTagBody(block, 'published') ||
+			matchTagBody(block, 'updated') ||
+			matchTagBody(block, 'dc:date') ||
+			'';
+		const cleanTitle = stripCdataAndTags(title);
+		const cleanLink = stripCdataAndTags(link);
+		if (cleanTitle && cleanLink) {
+			items.push({
+				headline: cleanTitle,
+				url: cleanLink,
+				source: sourceLabel,
+				publishedAt: pubDate
+					? new Date(pubDate).toISOString()
+					: new Date().toISOString(),
+			});
+		}
+	}
+	return items;
+}
+
+function matchTagBody(block, tag) {
+	const re = new RegExp(`<${tag}\\b[^>]*>([\\s\\S]*?)<\\/${tag}\\s*>`, 'i');
+	return (block.match(re) || [])[1] || '';
+}
+
+function stripCdataAndTags(s) {
+	return String(s)
+		.replace(/<!\[CDATA\[([\s\S]*?)\]\]>/g, '$1')
+		.replace(/<[^>]+>/g, '')
+		.replace(/\s+/g, ' ')
+		.trim();
+}
+
 async function fetchFeed(parser, feed) {
+	let raw;
 	try {
-		const raw = await fetchFeedRaw(feed.url);
+		raw = await fetchFeedRaw(feed.url);
+	} catch (err) {
+		console.warn(`[skip] ${feed.url} — ${err.message}`);
+		return [];
+	}
+
+	// First pass: strict parse with a sanitization step for bare ampersands.
+	try {
 		const xml = sanitizeXml(raw);
 		const parsed = await parser.parseString(xml);
 		const items = (parsed.items || []).map((it) => ({
@@ -102,8 +165,15 @@ async function fetchFeed(parser, feed) {
 		}));
 		console.log(`[ok]   ${feed.source} — ${items.length} items`);
 		return items;
-	} catch (err) {
-		console.warn(`[skip] ${feed.url} — ${err.message}`);
+	} catch (strictErr) {
+		// Second pass: regex-based lenient extraction. Used for feeds whose XML
+		// is so malformed that even strict-mode-off parsers reject them.
+		const items = lenientExtract(raw, feed.source);
+		if (items.length > 0) {
+			console.log(`[ok*]  ${feed.source} — ${items.length} items (lenient parse)`);
+			return items;
+		}
+		console.warn(`[skip] ${feed.url} — ${strictErr.message}`);
 		return [];
 	}
 }
