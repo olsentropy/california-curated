@@ -1,0 +1,57 @@
+name: Refresh news
+
+# Runs scripts/fetch-news.mjs every 4 hours, plus on-demand. Updates
+# src/data/news.json on whatever branch is checked out (currently
+# news-section-preview; change `ref:` below when promoting to main).
+#
+# Required repo secret: ANTHROPIC_API_KEY
+
+on:
+  schedule:
+    # Every 4 hours, on the hour. UTC.
+    - cron: '0 */4 * * *'
+  workflow_dispatch: {}
+
+# Avoid stomping on a previous run that's still committing.
+concurrency:
+  group: refresh-news
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          ref: news-section-preview
+          # Use a token that can push back to the branch.
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Run fetcher
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: node scripts/fetch-news.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet src/data/news.json; then
+            echo "No changes to news.json — skipping commit."
+          else
+            git add src/data/news.json
+            git commit -m "News: refresh headlines [skip ci]"
+            git push
+          fi
