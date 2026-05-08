@@ -1,0 +1,160 @@
+---
+// Homepage news rail — curated linked headlines from across California's
+// science / nature / environment / history beats. Data lives in
+// src/data/news.json and is auto-refreshed by a GitHub Action.
+import { topItems, relativeTime, news } from '../lib/news';
+
+const items = topItems(8);
+const lastUpdatedRel = relativeTime(news.lastUpdated);
+
+// Split items into two equal-ish columns for the desktop grid.
+const half = Math.ceil(items.length / 2);
+const colLeft = items.slice(0, half);
+const colRight = items.slice(half);
+---
+
+<section class="news-rail">
+	<div class="container">
+		<header class="news-rail-head">
+			<div>
+				<p class="kicker">On our radar</p>
+				<h2>California Science and Nature News</h2>
+			</div>
+			<p class="updated">Updated {lastUpdatedRel}</p>
+		</header>
+
+		<div class="news-rail-grid">
+			<ul class="news-col">
+				{colLeft.map((it) => (
+					<li class="news-item">
+						<a href={it.url} target="_blank" rel="noopener noreferrer">
+							<h3>{it.headline}</h3>
+							<p class="source-line">
+								<span class="source">{it.source}</span>
+								<span class="sep">·</span>
+								<span class="when">{relativeTime(it.publishedAt)}</span>
+							</p>
+						</a>
+					</li>
+				))}
+			</ul>
+			<ul class="news-col">
+				{colRight.map((it) => (
+					<li class="news-item">
+						<a href={it.url} target="_blank" rel="noopener noreferrer">
+							<h3>{it.headline}</h3>
+							<p class="source-line">
+								<span class="source">{it.source}</span>
+								<span class="sep">·</span>
+								<span class="when">{relativeTime(it.publishedAt)}</span>
+							</p>
+						</a>
+					</li>
+				))}
+			</ul>
+		</div>
+
+		<footer class="news-rail-foot">
+			<a href="/news/">See the full California science &amp; nature news roundup &rarr;</a>
+		</footer>
+	</div>
+</section>
+
+<style>
+	.news-rail {
+		background: var(--cc-bg-alt);
+		border-top: 1px solid var(--cc-line);
+		border-bottom: 1px solid var(--cc-line);
+		padding: 2.5rem 0;
+		margin-bottom: 2.5rem;
+	}
+	.news-rail-head {
+		display: flex;
+		align-items: baseline;
+		justify-content: space-between;
+		gap: 1rem;
+		margin-bottom: 1.5rem;
+		padding-bottom: 1rem;
+		border-bottom: 2px solid var(--cc-ink);
+	}
+	.news-rail-head .kicker {
+		font-size: 0.75rem;
+		letter-spacing: 0.12em;
+		text-transform: uppercase;
+		color: var(--cc-muted);
+		margin: 0;
+	}
+	.news-rail-head h2 {
+		font-size: 1.6rem;
+		margin: 0.25rem 0 0;
+	}
+	.news-rail-head .updated {
+		font-size: 0.75rem;
+		letter-spacing: 0.06em;
+		text-transform: uppercase;
+		color: var(--cc-muted);
+		margin: 0;
+		white-space: nowrap;
+	}
+	.news-rail-grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr;
+		gap: 0 2.5rem;
+	}
+	.news-col {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+	}
+	.news-item {
+		padding: 0.85rem 0;
+		border-top: 1px solid var(--cc-line);
+	}
+	.news-item:first-child { border-top: none; }
+	.news-item a {
+		display: block;
+		color: var(--cc-ink);
+		text-decoration: none;
+	}
+	.news-item a:hover h3 { color: var(--cc-orange); }
+	.news-item h3 {
+		font-family: Georgia, "Times New Roman", serif;
+		font-size: 1.05rem;
+		line-height: 1.35;
+		margin: 0 0 0.35rem;
+		font-weight: 600;
+		color: var(--cc-ink);
+		letter-spacing: -0.005em;
+	}
+	.news-item .source-line {
+		font-size: 0.75rem;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+		color: var(--cc-muted);
+		margin: 0;
+	}
+	.news-item .source-line .sep {
+		color: #c0c4cb;
+		margin: 0 0.4em;
+	}
+	.news-rail-foot {
+		margin-top: 1.5rem;
+		padding-top: 1.25rem;
+		border-top: 1px solid var(--cc-line);
+		text-align: center;
+	}
+	.news-rail-foot a {
+		font-weight: 600;
+		font-size: 0.95rem;
+		color: var(--cc-blue-dark);
+		text-decoration: none;
+	}
+	.news-rail-foot a:hover { color: var(--cc-orange); }
+
+	@media (max-width: 720px) {
+		.news-rail-grid { grid-template-columns: 1fr; gap: 0; }
+		.news-rail-head h2 { font-size: 1.3rem; }
+		.news-rail-head { flex-direction: column; align-items: flex-start; gap: 0.25rem; }
+		.news-rail-head .updated { margin-top: 0.5rem; }
+	}
+</style>
