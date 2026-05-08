@@ -5,6 +5,7 @@ import Header from '../components/Header.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_DESCRIPTION, SITE_TITLE, SECTIONS } from '../consts';
 import { getPublishedPosts, heroUrl, take } from '../lib/posts';
+import NewsRail from '../components/NewsRail.astro';
 import '../styles/global.css';
 
 const posts = await getPublishedPosts();
@@ -65,6 +66,9 @@ const sectionRails = SECTIONS.map((s) => {
 			<div class="container donate-cta">
 				<a href="https://ko-fi.com/californiacurated" class="btn btn-primary" target="_blank" rel="noopener noreferrer">Support California Curated With A Small Donation</a>
 			</div>
+
+			<!-- ====== CALIFORNIA IN THE NEWS ====== -->
+			<NewsRail />
 
 			<!-- ====== POPULAR FEATURES ====== -->
 			<section class="features-band">
