@@ -46,6 +46,7 @@ const sectionRails = SECTIONS.map((s) => {
 				{hero && (
 					<a class="hero-main" href={`/blog/${hero.id}/`}>
 						<h1>{hero.data.title}</h1>
+						{hero.data.description && <p class="hero-sub">{hero.data.description}</p>}
 						{heroUrl(hero) && <img src={heroUrl(hero)} alt={hero.data.title} loading="eager" />}
 					</a>
 				)}
@@ -148,9 +149,17 @@ const sectionRails = SECTIONS.map((s) => {
 	.hero-main h1 {
 		font-size: 2rem;
 		max-width: 600px;
-		margin: 0 auto 1.5rem;
+		margin: 0 auto 1rem;
 	}
 	.hero-main:hover h1 { color: var(--cc-orange); }
+	.hero-main .hero-sub {
+		font-size: 1.1rem;
+		font-style: italic;
+		color: var(--cc-ink-soft);
+		max-width: 640px;
+		margin: 0 auto 1.5rem;
+		line-height: 1.45;
+	}
 	.hero-main img {
 		width: 100%;
 		aspect-ratio: 16 / 9;
