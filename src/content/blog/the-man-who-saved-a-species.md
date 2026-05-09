@@ -41,6 +41,8 @@ But every so often, there are stories that tick in the other direction. Small vi
 
 ![The author at the Owens River in California](https://substackcdn.com/image/fetch/$s_!0yVn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F40b1560e-9e0c-472a-b3cf-168b5fbca026_2000x1125.jpeg "The author at the Owens River in California")
 
+_The author at the Owens River in California_
+
 Amanda Royal over at [Earth Hope](<https://earthhope.substack.com/>) does a wonderful job documenting some of those rare moments of recovery. And there are more of them than you might think if you look closely.
 
 One of them begins in the high desert of California’s Eastern Sierra, with a fish no longer than your finger.
