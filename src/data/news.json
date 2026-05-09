@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-05-09T01:27:02.991Z",
+	"lastUpdated": "2026-05-09T06:08:47.912Z",
 	"items": [
+		{
+			"headline": "Bay Nature's 2026 Summer Guide",
+			"url": "https://baynature.org/2026/05/08/explore/summer-guide-2026/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-09T01:20:46.000Z"
+		},
+		{
+			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
+			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-08T15:40:45.000Z"
+		},
+		{
+			"headline": "Ganymede Might Still Be Forming Its Metal Core Today",
+			"url": "https://www.caltech.edu/about/news/ganymede-might-still-be-forming-its-metal-core-today",
+			"source": "Caltech",
+			"publishedAt": "2026-05-07T15:14:00.000Z"
+		},
 		{
 			"headline": "Solving the Mystery of Point Reyes' Purple Waves",
 			"url": "https://baynature.org/2026/05/07/science-nature/solving-the-mystery-of-point-reyes-purple-waves-2/",
@@ -20,16 +38,10 @@
 			"publishedAt": "2026-05-08T00:36:03.000Z"
 		},
 		{
-			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
-			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-08T15:40:45.000Z"
-		},
-		{
-			"headline": "Ganymede Might Still Be Forming Its Metal Core Today",
-			"url": "https://www.caltech.edu/about/news/ganymede-might-still-be-forming-its-metal-core-today",
-			"source": "Caltech",
-			"publishedAt": "2026-05-07T15:14:00.000Z"
+			"headline": "Physicians, politicians, activists call for emergency declaration on the Tijuana River",
+			"url": "https://www.latimes.com/science/story/2026-05-07/tijuana-river-is-emergency-coalition-says-proposes-package-to-clean-it-up",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-07T21:57:31.000Z"
 		},
 		{
 			"headline": "As federal scientists faced turmoil, the Devils Hole pupfish reached a crisis point",
@@ -50,22 +62,22 @@
 			"publishedAt": "2026-05-07T10:00:00.000Z"
 		},
 		{
-			"headline": "Physicians, politicians, activists call for emergency declaration on the Tijuana River",
-			"url": "https://www.latimes.com/science/story/2026-05-07/tijuana-river-is-emergency-coalition-says-proposes-package-to-clean-it-up",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-07T21:57:31.000Z"
-		},
-		{
 			"headline": "After years of disaster-level landslides, Rancho Palos Verdes will finally get some federal aid. Is it enough?",
 			"url": "https://www.latimes.com/california/story/2026-05-07/federal-funds-set-to-finally-help-rancho-palos-verdes-landslides",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-07T20:07:28.000Z"
 		},
 		{
-			"headline": "Californians were aboard hantavirus-stricken cruise ship. Is there a risk to the public?",
-			"url": "https://www.latimes.com/california/story/2026-05-07/californians-hantavirus-cruise-ship-risk",
+			"headline": "A full-grown mountain lion hides under a pickup in a SoCal apartment complex",
+			"url": "https://www.latimes.com/california/story/2026-05-06/mountain-lion-wanders-near-socal-homes-crawls-under-vehicle",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-07T20:10:31.000Z"
+			"publishedAt": "2026-05-06T23:32:01.000Z"
+		},
+		{
+			"headline": "Restoring Salt Ponds to Marshes Is a Win. Unless You're a Snowy Plover.",
+			"url": "https://baynature.org/2026/05/06/conservation/restoring-salt-ponds-to-marshes-is-a-win-unless-youre-a-snowy-plover/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-06T23:55:25.000Z"
 		},
 		{
 			"headline": "MBARI technology helps reveal rhythms of microbial activity in open ocean eddies",
@@ -80,6 +92,12 @@
 			"publishedAt": "2026-05-06T17:06:31.000Z"
 		},
 		{
+			"headline": "Southern California warms up; heat will peak on Mother's Day, forecasters say",
+			"url": "https://www.latimes.com/california/story/2026-05-06/southern-california-mothers-day-weather",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-06T17:01:04.000Z"
+		},
+		{
 			"headline": "Yosemite ditches reservations, drawing huge crowds in a free-for-all",
 			"url": "https://www.latimes.com/california/story/2026-05-06/yosemite-ditches-reservations-drawing-huge-crowds-in-free-for-all",
 			"source": "Los Angeles Times",
@@ -92,22 +110,10 @@
 			"publishedAt": "2026-05-06T10:00:00.000Z"
 		},
 		{
-			"headline": "Restoring Salt Ponds to Marshes Is a Win. Unless You're a Snowy Plover.",
-			"url": "https://baynature.org/2026/05/06/conservation/restoring-salt-ponds-to-marshes-is-a-win-unless-youre-a-snowy-plover/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-06T23:55:25.000Z"
-		},
-		{
-			"headline": "A full-grown mountain lion hides under a pickup in a SoCal apartment complex",
-			"url": "https://www.latimes.com/california/story/2026-05-06/mountain-lion-wanders-near-socal-homes-crawls-under-vehicle",
+			"headline": "Double the vote. Students push for increased power on UC Regents board",
+			"url": "https://www.latimes.com/california/story/2026-05-06/uc-students-push-for-aca-18-adding-a-second-voting-member-to-regents-board",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-06T23:32:01.000Z"
-		},
-		{
-			"headline": "UC Berkeley researchers discover new pathway to building energy-efficient computing chips",
-			"url": "https://engineering.berkeley.edu/news/2026/05/researchers-discover-a-new-pathway-to-building-energy-efficient-computing-chips/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-05T18:58:47.000Z"
+			"publishedAt": "2026-05-06T10:00:00.000Z"
 		},
 		{
 			"headline": "As students graduate into a turbulent world, commencement speaker Robert Reich embraces hope",
@@ -116,28 +122,10 @@
 			"publishedAt": "2026-05-05T23:25:14.000Z"
 		},
 		{
-			"headline": "A historic $200-million USC gift from Nvidia board member aims to transform AI education",
-			"url": "https://www.latimes.com/california/story/2026-05-05/usc-200-million-donation-ai-artificial-intelligence",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-05T22:33:19.000Z"
-		},
-		{
-			"headline": "In Oceano, where cars and ATVs are temporarily banned on the dunes, locals are nervous",
-			"url": "https://www.latimes.com/travel/story/2026-05-05/oceano-dunes-pismo-beach-car-camping-off-roading-rules",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-05T20:49:02.000Z"
-		},
-		{
 			"headline": "Caltech Students Host Science Olympiad State Tournament",
 			"url": "https://www.caltech.edu/about/news/caltech-hosts-science-olympiad",
 			"source": "Caltech",
 			"publishedAt": "2026-05-06T04:50:00.000Z"
-		},
-		{
-			"headline": "Six UC Berkeley Journalism alumni among 2026 Pulitzer Prize winners",
-			"url": "https://journalism.berkeley.edu/2026-pulitzer-prizes/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-06T19:14:33.000Z"
 		}
 	]
 }
