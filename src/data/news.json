@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-05-09T12:44:42.526Z",
+	"lastUpdated": "2026-05-09T16:38:13.883Z",
 	"items": [
+		{
+			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
+			"url": "https://www.latimes.com/california/story/2026-05-08/california-weather-heat-wave-100-degrees",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T10:00:00.000Z"
+		},
 		{
 			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
 			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
@@ -14,10 +20,16 @@
 			"publishedAt": "2026-05-07T15:14:00.000Z"
 		},
 		{
-			"headline": "As federal scientists faced turmoil, the Devils Hole pupfish reached a crisis point",
-			"url": "https://www.npr.org/2026/05/07/nx-s1-5803173/devils-hole-pupfish-crisis-federal-science-trump",
-			"source": "NPR Science",
-			"publishedAt": "2026-05-07T10:00:00.000Z"
+			"headline": "Solving the Mystery of Point Reyes' Purple Waves",
+			"url": "https://baynature.org/2026/05/07/science-nature/solving-the-mystery-of-point-reyes-purple-waves-2/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-07T23:17:39.000Z"
+		},
+		{
+			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
+			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T00:36:03.000Z"
 		},
 		{
 			"headline": "Trees that survived L.A.'s wildfires are dying at alarming rate. Can they be saved?",
@@ -32,10 +44,10 @@
 			"publishedAt": "2026-05-07T10:00:00.000Z"
 		},
 		{
-			"headline": "Solving the Mystery of Point Reyes' Purple Waves",
-			"url": "https://baynature.org/2026/05/07/science-nature/solving-the-mystery-of-point-reyes-purple-waves-2/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-07T23:17:39.000Z"
+			"headline": "As federal scientists faced turmoil, the Devils Hole pupfish reached a crisis point",
+			"url": "https://www.npr.org/2026/05/07/nx-s1-5803173/devils-hole-pupfish-crisis-federal-science-trump",
+			"source": "NPR Science",
+			"publishedAt": "2026-05-07T10:00:00.000Z"
 		},
 		{
 			"headline": "Physicians, politicians, activists call for emergency declaration on the Tijuana River",
@@ -44,40 +56,16 @@
 			"publishedAt": "2026-05-07T21:57:31.000Z"
 		},
 		{
-			"headline": "MBARI technology helps reveal rhythms of microbial activity in open ocean eddies",
-			"url": "https://www.mbari.org/news/mbari-technology-helps-reveal-rhythms-of-microbial-activity-in-open-ocean-eddies/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-06T16:00:55.000Z"
-		},
-		{
-			"headline": "Katherine Yelick named director of Lawrence Berkeley National Laboratory",
-			"url": "https://www.universityofcalifornia.edu/press-room/katherine-yelick-named-director-lawrence-berkeley-national-laboratory",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-06T17:06:31.000Z"
-		},
-		{
-			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
-			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T00:36:03.000Z"
-		},
-		{
-			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
-			"url": "https://www.latimes.com/california/story/2026-05-08/california-weather-heat-wave-100-degrees",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T10:00:00.000Z"
-		},
-		{
 			"headline": "After years of disaster-level landslides, Rancho Palos Verdes will finally get some federal aid. Is it enough?",
 			"url": "https://www.latimes.com/california/story/2026-05-07/federal-funds-set-to-finally-help-rancho-palos-verdes-landslides",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-07T20:07:28.000Z"
 		},
 		{
-			"headline": "Restoring Salt Ponds to Marshes Is a Win. Unless You're a Snowy Plover.",
-			"url": "https://baynature.org/2026/05/06/conservation/restoring-salt-ponds-to-marshes-is-a-win-unless-youre-a-snowy-plover/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-06T23:55:25.000Z"
+			"headline": "MBARI technology helps reveal rhythms of microbial activity in open ocean eddies",
+			"url": "https://www.mbari.org/news/mbari-technology-helps-reveal-rhythms-of-microbial-activity-in-open-ocean-eddies/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-06T16:00:55.000Z"
 		},
 		{
 			"headline": "Yosemite ditches reservations, drawing huge crowds in a free-for-all",
@@ -86,16 +74,40 @@
 			"publishedAt": "2026-05-06T10:00:00.000Z"
 		},
 		{
-			"headline": "Another California baby gets measles. How can kids be protected?",
-			"url": "https://www.latimes.com/california/story/2026-05-06/another-california-baby-gets-measles-how-can-kids-be-protected",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-06T10:00:00.000Z"
+			"headline": "Katherine Yelick named director of Lawrence Berkeley National Laboratory",
+			"url": "https://www.universityofcalifornia.edu/press-room/katherine-yelick-named-director-lawrence-berkeley-national-laboratory",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-06T17:06:31.000Z"
 		},
 		{
 			"headline": "Bay Nature's 2026 Summer Guide",
 			"url": "https://baynature.org/2026/05/08/explore/summer-guide-2026/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-09T01:20:46.000Z"
+		},
+		{
+			"headline": "A full-grown mountain lion hides under a pickup in a SoCal apartment complex",
+			"url": "https://www.latimes.com/california/story/2026-05-06/mountain-lion-wanders-near-socal-homes-crawls-under-vehicle",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-06T23:32:01.000Z"
+		},
+		{
+			"headline": "Restoring Salt Ponds to Marshes Is a Win. Unless You're a Snowy Plover.",
+			"url": "https://baynature.org/2026/05/06/conservation/restoring-salt-ponds-to-marshes-is-a-win-unless-youre-a-snowy-plover/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-06T23:55:25.000Z"
+		},
+		{
+			"headline": "Another California baby gets measles. How can kids be protected?",
+			"url": "https://www.latimes.com/california/story/2026-05-06/another-california-baby-gets-measles-how-can-kids-be-protected",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-06T10:00:00.000Z"
+		},
+		{
+			"headline": "Six UC Berkeley Journalism alumni among 2026 Pulitzer Prize winners",
+			"url": "https://journalism.berkeley.edu/2026-pulitzer-prizes/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-06T19:14:33.000Z"
 		},
 		{
 			"headline": "As students graduate into a turbulent world, commencement speaker Robert Reich embraces hope",
@@ -108,30 +120,6 @@
 			"url": "https://www.caltech.edu/about/news/caltech-hosts-science-olympiad",
 			"source": "Caltech",
 			"publishedAt": "2026-05-06T04:50:00.000Z"
-		},
-		{
-			"headline": "Financial strain puts SoCal humane rescue sanctuaries on the brink, animals at risk",
-			"url": "https://www.latimes.com/california/story/2026-05-09/lack-of-funding-leads-to-severe-neglect-at-socal-animal-rescues",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-09T10:00:00.000Z"
-		},
-		{
-			"headline": "A full-grown mountain lion hides under a pickup in a SoCal apartment complex",
-			"url": "https://www.latimes.com/california/story/2026-05-06/mountain-lion-wanders-near-socal-homes-crawls-under-vehicle",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-06T23:32:01.000Z"
-		},
-		{
-			"headline": "UCLA medical school illegally uses race in admissions, Justice Department investigation says",
-			"url": "https://www.latimes.com/california/story/2026-05-06/ucla-medical-school-illegal-use-race-admissions-doj-investigation-findings",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-06T17:00:05.000Z"
-		},
-		{
-			"headline": "Six UC Berkeley Journalism alumni among 2026 Pulitzer Prize winners",
-			"url": "https://journalism.berkeley.edu/2026-pulitzer-prizes/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-06T19:14:33.000Z"
 		}
 	]
 }
