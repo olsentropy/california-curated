@@ -1,17 +1,29 @@
 {
-	"lastUpdated": "2026-05-08T20:44:21.040Z",
+	"lastUpdated": "2026-05-09T01:27:02.991Z",
 	"items": [
-		{
-			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
-			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-08T15:40:45.000Z"
-		},
 		{
 			"headline": "Solving the Mystery of Point Reyes' Purple Waves",
 			"url": "https://baynature.org/2026/05/07/science-nature/solving-the-mystery-of-point-reyes-purple-waves-2/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-07T23:17:39.000Z"
+		},
+		{
+			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
+			"url": "https://www.latimes.com/california/story/2026-05-08/california-weather-heat-wave-100-degrees",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T10:00:00.000Z"
+		},
+		{
+			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
+			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T00:36:03.000Z"
+		},
+		{
+			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
+			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-08T15:40:45.000Z"
 		},
 		{
 			"headline": "Ganymede Might Still Be Forming Its Metal Core Today",
@@ -38,28 +50,10 @@
 			"publishedAt": "2026-05-07T10:00:00.000Z"
 		},
 		{
-			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
-			"url": "https://www.latimes.com/california/story/2026-05-08/california-weather-heat-wave-100-degrees",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T10:00:00.000Z"
-		},
-		{
-			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
-			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T00:36:03.000Z"
-		},
-		{
 			"headline": "Physicians, politicians, activists call for emergency declaration on the Tijuana River",
 			"url": "https://www.latimes.com/science/story/2026-05-07/tijuana-river-is-emergency-coalition-says-proposes-package-to-clean-it-up",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-07T21:57:31.000Z"
-		},
-		{
-			"headline": "Californians were aboard hantavirus-stricken cruise ship. Is there a risk to the public?",
-			"url": "https://www.latimes.com/california/story/2026-05-07/californians-hantavirus-cruise-ship-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-07T20:10:31.000Z"
 		},
 		{
 			"headline": "After years of disaster-level landslides, Rancho Palos Verdes will finally get some federal aid. Is it enough?",
@@ -68,16 +62,22 @@
 			"publishedAt": "2026-05-07T20:07:28.000Z"
 		},
 		{
-			"headline": "Katherine Yelick named director of Lawrence Berkeley National Laboratory",
-			"url": "https://www.universityofcalifornia.edu/press-room/katherine-yelick-named-director-lawrence-berkeley-national-laboratory",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-06T17:06:31.000Z"
+			"headline": "Californians were aboard hantavirus-stricken cruise ship. Is there a risk to the public?",
+			"url": "https://www.latimes.com/california/story/2026-05-07/californians-hantavirus-cruise-ship-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-07T20:10:31.000Z"
 		},
 		{
 			"headline": "MBARI technology helps reveal rhythms of microbial activity in open ocean eddies",
 			"url": "https://www.mbari.org/news/mbari-technology-helps-reveal-rhythms-of-microbial-activity-in-open-ocean-eddies/",
 			"source": "MBARI",
 			"publishedAt": "2026-05-06T16:00:55.000Z"
+		},
+		{
+			"headline": "Katherine Yelick named director of Lawrence Berkeley National Laboratory",
+			"url": "https://www.universityofcalifornia.edu/press-room/katherine-yelick-named-director-lawrence-berkeley-national-laboratory",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-06T17:06:31.000Z"
 		},
 		{
 			"headline": "Yosemite ditches reservations, drawing huge crowds in a free-for-all",
@@ -92,16 +92,16 @@
 			"publishedAt": "2026-05-06T10:00:00.000Z"
 		},
 		{
-			"headline": "A full-grown mountain lion hides under a pickup in a SoCal apartment complex",
-			"url": "https://www.latimes.com/california/story/2026-05-06/mountain-lion-wanders-near-socal-homes-crawls-under-vehicle",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-06T23:32:01.000Z"
-		},
-		{
 			"headline": "Restoring Salt Ponds to Marshes Is a Win. Unless You're a Snowy Plover.",
 			"url": "https://baynature.org/2026/05/06/conservation/restoring-salt-ponds-to-marshes-is-a-win-unless-youre-a-snowy-plover/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-06T23:55:25.000Z"
+		},
+		{
+			"headline": "A full-grown mountain lion hides under a pickup in a SoCal apartment complex",
+			"url": "https://www.latimes.com/california/story/2026-05-06/mountain-lion-wanders-near-socal-homes-crawls-under-vehicle",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-06T23:32:01.000Z"
 		},
 		{
 			"headline": "UC Berkeley researchers discover new pathway to building energy-efficient computing chips",
@@ -116,10 +116,28 @@
 			"publishedAt": "2026-05-05T23:25:14.000Z"
 		},
 		{
+			"headline": "A historic $200-million USC gift from Nvidia board member aims to transform AI education",
+			"url": "https://www.latimes.com/california/story/2026-05-05/usc-200-million-donation-ai-artificial-intelligence",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-05T22:33:19.000Z"
+		},
+		{
+			"headline": "In Oceano, where cars and ATVs are temporarily banned on the dunes, locals are nervous",
+			"url": "https://www.latimes.com/travel/story/2026-05-05/oceano-dunes-pismo-beach-car-camping-off-roading-rules",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-05T20:49:02.000Z"
+		},
+		{
 			"headline": "Caltech Students Host Science Olympiad State Tournament",
 			"url": "https://www.caltech.edu/about/news/caltech-hosts-science-olympiad",
 			"source": "Caltech",
 			"publishedAt": "2026-05-06T04:50:00.000Z"
+		},
+		{
+			"headline": "Six UC Berkeley Journalism alumni among 2026 Pulitzer Prize winners",
+			"url": "https://journalism.berkeley.edu/2026-pulitzer-prizes/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-06T19:14:33.000Z"
 		}
 	]
 }
