@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-05-10T16:39:25.673Z",
+	"lastUpdated": "2026-05-10T20:34:54.168Z",
 	"items": [
+		{
+			"headline": "Earthquake swarm shakes Imperial County with 4.7 magnitude quake reported",
+			"url": "https://www.latimes.com/california/story/2026-05-10/earthquake-swarm-shakes-imperial-county-magnitude-4-7-quake-reported",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-10T17:55:00.000Z"
+		},
 		{
 			"headline": "After exile, California tribes could help run their ancestral redwoods again",
 			"url": "https://www.latimes.com/environment/story/2026-05-10/california-bill-shifts-away-from-logging-toward-tribal-co-management",
@@ -20,6 +26,12 @@
 			"publishedAt": "2026-05-08T15:40:45.000Z"
 		},
 		{
+			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
+			"url": "https://www.latimes.com/california/story/2026-05-08/california-weather-heat-wave-100-degrees",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T10:00:00.000Z"
+		},
+		{
 			"headline": "Solving the Mystery of Point Reyes' Purple Waves",
 			"url": "https://baynature.org/2026/05/07/science-nature/solving-the-mystery-of-point-reyes-purple-waves-2/",
 			"source": "Bay Nature",
@@ -32,10 +44,16 @@
 			"publishedAt": "2026-05-07T21:57:31.000Z"
 		},
 		{
-			"headline": "Ganymede Might Still Be Forming Its Metal Core Today",
-			"url": "https://www.caltech.edu/about/news/ganymede-might-still-be-forming-its-metal-core-today",
-			"source": "Caltech",
-			"publishedAt": "2026-05-07T15:14:00.000Z"
+			"headline": "After years of disaster-level landslides, Rancho Palos Verdes will finally get some federal aid. Is it enough?",
+			"url": "https://www.latimes.com/california/story/2026-05-07/federal-funds-set-to-finally-help-rancho-palos-verdes-landslides",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-07T20:07:28.000Z"
+		},
+		{
+			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
+			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T00:36:03.000Z"
 		},
 		{
 			"headline": "As federal scientists faced turmoil, the Devils Hole pupfish reached a crisis point",
@@ -54,6 +72,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-07/californias-single-use-plastic-law-is-angering-all-sides",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-07T10:00:00.000Z"
+		},
+		{
+			"headline": "Ganymede Might Still Be Forming Its Metal Core Today",
+			"url": "https://www.caltech.edu/about/news/ganymede-might-still-be-forming-its-metal-core-today",
+			"source": "Caltech",
+			"publishedAt": "2026-05-07T15:14:00.000Z"
 		},
 		{
 			"headline": "Restoring Salt Ponds to Marshes Is a Win. Unless You're a Snowy Plover.",
@@ -80,12 +104,6 @@
 			"publishedAt": "2026-05-06T17:06:31.000Z"
 		},
 		{
-			"headline": "Southern California warms up; heat will peak on Mother's Day, forecasters say",
-			"url": "https://www.latimes.com/california/story/2026-05-06/southern-california-mothers-day-weather",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-06T17:01:04.000Z"
-		},
-		{
 			"headline": "Six UC Berkeley Journalism alumni among 2026 Pulitzer Prize winners",
 			"url": "https://journalism.berkeley.edu/2026-pulitzer-prizes/",
 			"source": "UC Berkeley News",
@@ -98,18 +116,6 @@
 			"publishedAt": "2026-05-06T19:14:21.000Z"
 		},
 		{
-			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
-			"url": "https://www.latimes.com/california/story/2026-05-08/california-weather-heat-wave-100-degrees",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T10:00:00.000Z"
-		},
-		{
-			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
-			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T00:36:03.000Z"
-		},
-		{
 			"headline": "Yosemite ditches reservations, drawing huge crowds in a free-for-all",
 			"url": "https://www.latimes.com/california/story/2026-05-06/yosemite-ditches-reservations-drawing-huge-crowds-in-free-for-all",
 			"source": "Los Angeles Times",
@@ -120,18 +126,6 @@
 			"url": "https://www.latimes.com/california/story/2026-05-06/another-california-baby-gets-measles-how-can-kids-be-protected",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-06T10:00:00.000Z"
-		},
-		{
-			"headline": "After years of disaster-level landslides, Rancho Palos Verdes will finally get some federal aid. Is it enough?",
-			"url": "https://www.latimes.com/california/story/2026-05-07/federal-funds-set-to-finally-help-rancho-palos-verdes-landslides",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-07T20:07:28.000Z"
-		},
-		{
-			"headline": "Californians were aboard hantavirus-stricken cruise ship. Is there a risk to the public?",
-			"url": "https://www.latimes.com/california/story/2026-05-07/californians-hantavirus-cruise-ship-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-07T20:10:31.000Z"
 		}
 	]
 }
