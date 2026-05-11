@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-11T17:47:44.262Z",
+	"lastUpdated": "2026-05-11T21:07:17.762Z",
 	"items": [
 		{
 			"headline": "After exile, California tribes could help oversee ancestral redwoods again",
@@ -14,10 +14,28 @@
 			"publishedAt": "2026-05-10T17:55:00.000Z"
 		},
 		{
+			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
+			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-08T15:40:45.000Z"
+		},
+		{
+			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
+			"url": "https://www.latimes.com/california/story/2026-05-08/california-weather-heat-wave-100-degrees",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T10:00:00.000Z"
+		},
+		{
 			"headline": "Solving the Mystery of Point Reyes' Purple Waves",
 			"url": "https://baynature.org/2026/05/07/science-nature/solving-the-mystery-of-point-reyes-purple-waves-2/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-07T23:17:39.000Z"
+		},
+		{
+			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
+			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T00:36:03.000Z"
 		},
 		{
 			"headline": "Physicians, politicians, activists call for emergency declaration on the Tijuana River",
@@ -72,54 +90,6 @@
 			"url": "https://capolicylab.org/news/calfresh-benefits-help-students-succeed-in-college-new-study-finds/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-06T19:14:21.000Z"
-		},
-		{
-			"headline": "Katherine Yelick named director of Lawrence Berkeley National Laboratory",
-			"url": "https://www.universityofcalifornia.edu/press-room/katherine-yelick-named-director-lawrence-berkeley-national-laboratory",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-06T17:06:31.000Z"
-		},
-		{
-			"headline": "UCLA medical school illegally uses race in admissions, Justice Department investigation says",
-			"url": "https://www.latimes.com/california/story/2026-05-06/ucla-medical-school-illegal-use-race-admissions-doj-investigation-findings",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-06T17:00:05.000Z"
-		},
-		{
-			"headline": "MBARI technology helps reveal rhythms of microbial activity in open ocean eddies",
-			"url": "https://www.mbari.org/news/mbari-technology-helps-reveal-rhythms-of-microbial-activity-in-open-ocean-eddies/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-06T16:00:55.000Z"
-		},
-		{
-			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
-			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-08T15:40:45.000Z"
-		},
-		{
-			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
-			"url": "https://www.latimes.com/california/story/2026-05-08/california-weather-heat-wave-100-degrees",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T10:00:00.000Z"
-		},
-		{
-			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
-			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T00:36:03.000Z"
-		},
-		{
-			"headline": "After years of disaster-level landslides, Rancho Palos Verdes will finally get some federal aid. Is it enough?",
-			"url": "https://www.latimes.com/california/story/2026-05-07/federal-funds-set-to-finally-help-rancho-palos-verdes-landslides",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-07T20:07:28.000Z"
-		},
-		{
-			"headline": "Bay Nature's 2026 Summer Guide",
-			"url": "https://baynature.org/2026/05/08/explore/summer-guide-2026/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-09T01:20:46.000Z"
 		}
 	]
 }
