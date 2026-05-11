@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-11T01:46:38.205Z",
+	"lastUpdated": "2026-05-11T06:57:26.912Z",
 	"items": [
 		{
 			"headline": "Earthquake swarm shakes Imperial County with 4.7 magnitude quake reported",
@@ -12,12 +12,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-10/california-bill-shifts-away-from-logging-toward-tribal-co-management",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-10T10:00:00.000Z"
-		},
-		{
-			"headline": "Californian exposed to hantavirus aboard cruise ship resides in Bay Area, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-10/californian-exposed-to-hantavirus-lives-in-bay-area-officials-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-10T20:56:12.000Z"
 		},
 		{
 			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
@@ -80,34 +74,16 @@
 			"publishedAt": "2026-05-07T10:00:00.000Z"
 		},
 		{
-			"headline": "A full-grown mountain lion hides under a pickup in a SoCal apartment complex",
-			"url": "https://www.latimes.com/california/story/2026-05-06/mountain-lion-wanders-near-socal-homes-crawls-under-vehicle",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-06T23:32:01.000Z"
-		},
-		{
 			"headline": "Restoring Salt Ponds to Marshes Is a Win. Unless You're a Snowy Plover.",
 			"url": "https://baynature.org/2026/05/06/conservation/restoring-salt-ponds-to-marshes-is-a-win-unless-youre-a-snowy-plover/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-06T23:55:25.000Z"
 		},
 		{
-			"headline": "Katherine Yelick named director of Lawrence Berkeley National Laboratory",
-			"url": "https://www.universityofcalifornia.edu/press-room/katherine-yelick-named-director-lawrence-berkeley-national-laboratory",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-06T17:06:31.000Z"
-		},
-		{
-			"headline": "MBARI technology helps reveal rhythms of microbial activity in open ocean eddies",
-			"url": "https://www.mbari.org/news/mbari-technology-helps-reveal-rhythms-of-microbial-activity-in-open-ocean-eddies/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-06T16:00:55.000Z"
-		},
-		{
-			"headline": "UCLA medical school illegally uses race in admissions, Justice Department investigation says",
-			"url": "https://www.latimes.com/california/story/2026-05-06/ucla-medical-school-illegal-use-race-admissions-doj-investigation-findings",
+			"headline": "A full-grown mountain lion hides under a pickup in a SoCal apartment complex",
+			"url": "https://www.latimes.com/california/story/2026-05-06/mountain-lion-wanders-near-socal-homes-crawls-under-vehicle",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-06T17:00:05.000Z"
+			"publishedAt": "2026-05-06T23:32:01.000Z"
 		},
 		{
 			"headline": "Six UC Berkeley Journalism alumni among 2026 Pulitzer Prize winners",
@@ -122,16 +98,16 @@
 			"publishedAt": "2026-05-06T19:14:21.000Z"
 		},
 		{
-			"headline": "Southern California warms up; heat will peak on Mother's Day, forecasters say",
-			"url": "https://www.latimes.com/california/story/2026-05-06/southern-california-mothers-day-weather",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-06T17:01:04.000Z"
+			"headline": "Katherine Yelick named director of Lawrence Berkeley National Laboratory",
+			"url": "https://www.universityofcalifornia.edu/press-room/katherine-yelick-named-director-lawrence-berkeley-national-laboratory",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-06T17:06:31.000Z"
 		},
 		{
-			"headline": "Bay Nature's 2026 Summer Guide",
-			"url": "https://baynature.org/2026/05/08/explore/summer-guide-2026/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-09T01:20:46.000Z"
+			"headline": "MBARI technology helps reveal rhythms of microbial activity in open ocean eddies",
+			"url": "https://www.mbari.org/news/mbari-technology-helps-reveal-rhythms-of-microbial-activity-in-open-ocean-eddies/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-06T16:00:55.000Z"
 		}
 	]
 }
