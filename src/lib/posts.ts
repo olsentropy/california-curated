@@ -38,3 +38,31 @@ export function heroUrl(post: Post): string | undefined {
 export function take<T>(arr: T[], n: number): T[] {
 	return arr.slice(0, n);
 }
+
+/**
+ * Related posts: other published posts that share at least one category with
+ * `categories`, excluding the post with id `currentId`. Sorted newest-first
+ * (inherits ordering from getPublishedPosts). Returns up to `n` posts.
+ *
+ * Used by BlogPost.astro to render a "Keep reading" block at the bottom of
+ * each article — helps SEO via internal linking and keeps readers on site.
+ */
+export async function getRelatedPosts(
+	currentId: string,
+	categories: readonly string[] | string[],
+	n: number = 4,
+): Promise<Post[]> {
+	if (!categories || categories.length === 0) return [];
+	const wanted = new Set(categories.map((c) => c.toLowerCase()));
+	const posts = await getPublishedPosts();
+	return posts
+		.filter((p) => p.id !== currentId)
+		.filter((p) => (p.data.categories ?? []).some((c) => wanted.has(c.toLowerCase())))
+		.slice(0, n);
+}
+
+/** Posts authored by `authorName` (exact match), newest first. */
+export async function getPostsByAuthor(authorName: string): Promise<Post[]> {
+	const posts = await getPublishedPosts();
+	return posts.filter((p) => p.data.author === authorName);
+}

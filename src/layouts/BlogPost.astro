@@ -5,11 +5,13 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import AdSlot from '../components/AdSlot.astro';
-import { SECTIONS } from '../consts';
+import { SECTIONS, SITE_AUTHOR, SITE_AUTHOR_SLUG } from '../consts';
+import { getRelatedPosts, heroUrl } from '../lib/posts';
 import '../styles/global.css';
 
-type Props = CollectionEntry<'blog'>['data'] & { hideMeta?: boolean };
-const { title, description, pubDate, updatedDate, heroImage, author, categories, hideMeta } = Astro.props;
+type Props = CollectionEntry<'blog'>['data'] & { hideMeta?: boolean; currentId?: string };
+const { title, description, pubDate, updatedDate, heroImage, author, categories, hideMeta, currentId } =
+	Astro.props;
 
 // Resolve hero image — schema allows asset OR raw URL string
 const hero =
@@ -24,6 +26,16 @@ const filed = (categories ?? [])
 	.map((c) => SECTIONS.find((s) => (s.categories as readonly string[]).includes(c)))
 	.filter(Boolean)
 	.filter((v, i, a) => a.findIndex((x) => x?.slug === v?.slug) === i);
+
+// Related stories: posts that share a category with this one. Only fetched
+// when we have an id (i.e. we're rendering an actual blog post, not /about/).
+const related =
+	currentId && (categories ?? []).length > 0
+		? await getRelatedPosts(currentId, categories ?? [], 4)
+		: [];
+
+// Link the author byline to their archive page when the name matches.
+const authorHref = author === SITE_AUTHOR ? `/author/${SITE_AUTHOR_SLUG}/` : undefined;
 ---
 
 <!doctype html>
@@ -49,7 +61,9 @@ const filed = (categories ?? [])
 						{!hideMeta && (
 							<p class="post-meta">
 								<FormattedDate date={pubDate} />
-								{author && <> · By {author}</>}
+								{author && (
+									<> · By {authorHref ? <a href={authorHref}>{author}</a> : author}</>
+								)}
 							</p>
 						)}
 						<h1>{title}</h1>
@@ -74,6 +88,24 @@ const filed = (categories ?? [])
 					)}
 				</div>
 			</article>
+			{related.length > 0 && (
+				<aside class="related-stories" aria-labelledby="related-stories-heading">
+					<div class="related-inner">
+						<h2 id="related-stories-heading">Keep reading</h2>
+						<ul class="related-grid">
+							{related.map((p) => (
+								<li>
+									<a href={`/blog/${p.id}/`}>
+										{heroUrl(p) && <img src={heroUrl(p)} alt={p.data.title} loading="lazy" />}
+										<h3>{p.data.title}</h3>
+										<p class="related-meta"><FormattedDate date={p.data.pubDate} /></p>
+									</a>
+								</li>
+							))}
+						</ul>
+					</div>
+				</aside>
+			)}
 		</main>
 		<Footer />
 	</body>
@@ -119,6 +151,57 @@ const filed = (categories ?? [])
 		border-top: 1px solid var(--cc-line);
 	}
 	.filed-under { color: var(--cc-muted); font-size: 0.95rem; }
+	.post-meta a { color: inherit; text-decoration: underline; text-decoration-color: var(--cc-line); }
+	.post-meta a:hover { color: var(--cc-orange); }
+
+	/* Related stories block — appears below the article, outside .prose so
+	   the grid can use the full content width rather than the narrow body
+	   column. */
+	.related-stories {
+		border-top: 1px solid var(--cc-line);
+		margin-top: 4rem;
+		padding: 3rem 0 1rem;
+		background: var(--cc-bg-soft, #FAFAF8);
+	}
+	.related-inner {
+		max-width: 1100px;
+		margin: 0 auto;
+		padding: 0 1.25rem;
+	}
+	.related-stories h2 {
+		font-size: 1.4rem;
+		font-family: "Helvetica Neue", Arial, sans-serif;
+		letter-spacing: 0.05em;
+		text-transform: uppercase;
+		color: var(--cc-ink-soft);
+		margin: 0 0 1.5rem;
+	}
+	.related-grid {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		gap: 1.5rem;
+	}
+	.related-grid a { display: block; color: var(--cc-ink); }
+	.related-grid img {
+		width: 100%;
+		aspect-ratio: 4 / 3;
+		object-fit: cover;
+		border-radius: var(--cc-radius);
+		margin-bottom: 0.6rem;
+	}
+	.related-grid h3 {
+		font-size: 1rem;
+		margin: 0 0 0.3rem;
+		line-height: 1.25;
+	}
+	.related-grid a:hover h3 { color: var(--cc-orange); }
+	.related-meta { font-size: 0.85rem; color: var(--cc-muted); margin: 0; }
+	@media (max-width: 900px) { .related-grid { grid-template-columns: 1fr 1fr; } }
+	@media (max-width: 560px) { .related-grid { grid-template-columns: 1fr; } }
+
 	@media (max-width: 720px) {
 		.post-head h1 { font-size: 1.9rem; }
 		.lead { font-size: 1.1rem; }

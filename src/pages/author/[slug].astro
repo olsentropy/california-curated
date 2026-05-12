@@ -1,0 +1,137 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Footer from '../../components/Footer.astro';
+import FormattedDate from '../../components/FormattedDate.astro';
+import Header from '../../components/Header.astro';
+import { SITE_AUTHOR, SITE_AUTHOR_SLUG } from '../../consts';
+import { getPostsByAuthor, heroUrl } from '../../lib/posts';
+import '../../styles/global.css';
+
+// Single-author site for now. If additional contributors are added later,
+// extend this list and the consts so each gets their own /author/<slug>/ page.
+const AUTHORS = [
+	{
+		slug: SITE_AUTHOR_SLUG,
+		name: SITE_AUTHOR,
+		bio: 'Los Angeles–based journalist and filmmaker. Former Senior Video Journalist at The New York Times and West Coast correspondent for Quartz. Work has appeared in National Geographic, BBC, Scientific American, Popular Science, CNN, MSNBC, and PBS NOVA.',
+		photo: '/erik-olsen.jpg',
+	},
+] as const;
+
+export async function getStaticPaths() {
+	return [{ params: { slug: SITE_AUTHOR_SLUG } }];
+}
+
+const { slug } = Astro.params;
+const author = AUTHORS.find((a) => a.slug === slug);
+if (!author) {
+	throw new Error(`Unknown author: ${slug}`);
+}
+
+const posts = await getPostsByAuthor(author.name);
+
+const description = `Articles by ${author.name} for California Curated: reporting and features on California's natural world, including marine biology, geology, wildlife, climate, and the science of the Golden State.`;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={author.name} description={description} image={author.photo} />
+	</head>
+	<body>
+		<Header />
+		<main class="container author-page">
+			<header class="author-head">
+				<img src={author.photo} alt={author.name} class="author-photo" />
+				<p class="kicker">Author</p>
+				<h1>{author.name}</h1>
+				<p class="author-bio">{author.bio}</p>
+				<p class="author-count">{posts.length} {posts.length === 1 ? 'story' : 'stories'}</p>
+			</header>
+
+			<ul class="author-list">
+				{posts.map((p) => (
+					<li>
+						<a href={`/blog/${p.id}/`}>
+							{heroUrl(p) && <img src={heroUrl(p)} alt={p.data.title} loading="lazy" />}
+							<div class="author-list-body">
+								<h3>{p.data.title}</h3>
+								<p class="excerpt">{p.data.description}</p>
+								<p class="meta"><FormattedDate date={p.data.pubDate} /></p>
+							</div>
+						</a>
+					</li>
+				))}
+			</ul>
+		</main>
+		<Footer />
+	</body>
+</html>
+
+<style>
+	.author-page { padding: 2rem 1.25rem 4rem; }
+
+	.author-head {
+		text-align: center;
+		padding: 1rem 0 2.5rem;
+		max-width: 720px;
+		margin: 0 auto;
+	}
+	.author-photo {
+		width: 140px;
+		height: 140px;
+		object-fit: cover;
+		border-radius: 50%;
+		margin: 0 auto 1rem;
+		display: block;
+	}
+	.kicker {
+		color: var(--cc-blue);
+		font-size: 0.85rem;
+		font-weight: 600;
+		letter-spacing: 0.1em;
+		text-transform: uppercase;
+		margin: 0 0 0.5rem;
+	}
+	.author-head h1 { margin: 0 0 1rem; font-size: 2.6rem; }
+	.author-bio {
+		color: var(--cc-ink-soft);
+		font-size: 1.05rem;
+		line-height: 1.55;
+		margin: 0 0 1rem;
+	}
+	.author-count { color: var(--cc-muted); margin: 0; font-size: 0.9rem; }
+
+	.author-list {
+		list-style: none;
+		padding: 0;
+		display: grid;
+		grid-template-columns: repeat(3, 1fr);
+		gap: 2rem;
+	}
+	.author-list a { display: block; color: var(--cc-ink); }
+	.author-list img {
+		width: 100%;
+		aspect-ratio: 16 / 10;
+		object-fit: cover;
+		border-radius: var(--cc-radius);
+		margin-bottom: 0.75rem;
+	}
+	.author-list h3 { font-size: 1.15rem; margin: 0 0 0.4rem; }
+	.author-list a:hover h3 { color: var(--cc-orange); }
+	.author-list .excerpt {
+		color: var(--cc-muted);
+		font-size: 0.95rem;
+		margin: 0 0 0.5rem;
+		display: -webkit-box;
+		-webkit-line-clamp: 3;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+	.author-list .meta { font-size: 0.85rem; color: var(--cc-muted); margin: 0; }
+	@media (max-width: 900px) { .author-list { grid-template-columns: 1fr 1fr; } }
+	@media (max-width: 600px) {
+		.author-head h1 { font-size: 1.9rem; }
+		.author-list { grid-template-columns: 1fr; }
+	}
+</style>
