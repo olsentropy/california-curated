@@ -3,25 +3,94 @@ import Layout from '../layouts/BlogPost.astro';
 ---
 
 <Layout
-	title="About"
-	description="California, explained. The people, places, science, and history of the Golden State."
+	title="About California Curated"
+	description="California Curated is an independent publication about California's natural world: marine biology, geology, wildlife, climate, and the people studying it. Written and edited by Los Angeles–based journalist Erik Olsen."
 	pubDate={new Date('2024-01-01')}
 	categories={[]}
 	tags={[]}
 	author="Erik Olsen"
 	draft={false}
+	hideMeta={true}
 >
+	<p class="tagline"><em>Stories that help readers see California with fresh eyes.</em></p>
+
+	<!--
+		AUTHOR PHOTO: drop a file into /public (e.g. /public/erik-olsen.jpg)
+		and update the src below. Recommended ~600px wide, square crop.
+	-->
+	<figure class="author-photo">
+		<img src="/erik-olsen.jpg" alt="Erik Olsen" />
+	</figure>
+
+	<h2>What this is</h2>
 	<p>
-		California Curated is a publication about the people, places, science, and history of the Golden State —
-		written for curious readers who want to understand California a little better.
+		California Curated is an independent publication about California's natural world: the science,
+		the landscapes, and the people working to understand and protect them. I cover the things that
+		make this state geologically and ecologically singular: the kelp forests off the Channel Islands,
+		the San Andreas Fault, the snowpack in the Sierra Nevada, the slow ecology of the Mojave Desert,
+		the comeback of California condors, the redwoods up north, and the long-running questions about
+		drought, fire ecology, and a warming ocean.
 	</p>
 	<p>
-		We cover marine science, geology and earthquakes, climate change, plants and animals, space exploration,
-		and the long, strange history of how science has unfolded in California.
+		I write about marine biology and oceanography, geology and earthquakes, wildlife and habitat,
+		climate and water, and the institutions that have made California a global center of
+		environmental science: Scripps Institution of Oceanography, MBARI, the UC system, Caltech,
+		the California Academy of Sciences, and the state and federal agencies that manage everything
+		from the Delta to the deep sea.
+	</p>
+
+	<h2>Who's behind it</h2>
+	<p>
+		I'm <strong>Erik Olsen</strong>, a journalist and filmmaker based in Los Angeles. I spent more
+		than a decade as a Senior Video Journalist at <em>The New York Times</em>, reporting from New York
+		and Berlin, and later covered the West Coast as a correspondent for <em>Quartz</em>. My work has
+		appeared in <em>National Geographic</em>, the <em>BBC</em>, <em>Scientific American</em>,
+		<em>Popular Science</em>, <em>CNN</em>'s Great Big Story, <em>MSNBC</em>, and <em>PBS NOVA</em>,
+		where I've directed science documentaries. I've worked with aerial drones, dived in submersibles
+		more than 2,000 feet below the surface, and spent a lot of time reporting in the field with
+		scientists.
 	</p>
 	<p>
-		If you'd like to support our work, you can <a href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer">make a small donation</a> or
-		<a href="https://substack.com/@californiacurated" target="_blank" rel="noopener noreferrer">subscribe to our Substack</a>.
+		I started California Curated because California's natural-history beat deserves more careful,
+		patient coverage than it usually gets, and because, after years of reporting on this state, I
+		wanted a place to do that kind of work on my own terms.
 	</p>
-	<p><em>(Replace this with the real "About" copy from the WordPress site.)</em></p>
+
+	<h2>What you'll find here</h2>
+	<p>
+		Original reporting, longer features, photo essays, and a curated daily rail of California science
+		and nature news drawn from sources I trust: the <em>Los Angeles Times</em>, <em>KQED</em>,
+		<em>Bay Nature</em>, <em>NPR</em>, <em>Mongabay</em>, <em>Eos</em>, Caltech, UC Berkeley, MBARI,
+		and others. The news rail updates every few hours; the features take longer.
+	</p>
+
+	<h2>Stay in touch</h2>
+	<p>
+		The best way to follow the work is to
+		<a href="https://substack.com/@californiacurated" target="_blank" rel="noopener noreferrer">subscribe to the Substack</a>.
+		New pieces and the occasional newsletter land there first. If you'd like to help keep this going,
+		you can also
+		<a href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer">make a small donation</a>.
+		Tips, story ideas, and corrections are always welcome.
+	</p>
 </Layout>
+
+<style>
+	.tagline {
+		font-size: 1.25rem;
+		color: var(--cc-ink-soft);
+		text-align: center;
+		margin: 0 0 2rem;
+	}
+	.author-photo {
+		max-width: 280px;
+		margin: 0 auto 2rem;
+	}
+	.author-photo img {
+		width: 100%;
+		aspect-ratio: 1 / 1;
+		object-fit: cover;
+		border-radius: var(--cc-radius);
+		display: block;
+	}
+</style>
