@@ -1,0 +1,64 @@
+---
+// Manually-placed AdSense slot. Renders a single responsive display ad.
+// Use this instead of relying on Auto Ads — Auto Ads injects ads in
+// unpredictable places and is prone to deceptive creatives.
+//
+// Pass the slot ID from your AdSense ad unit. Use the optional `label`
+// prop to vary visual treatment (currently affects max-width).
+//
+// Example:
+//   <AdSlot slot="9618208010" label="homepage-banner" />
+//   <AdSlot slot="8305126348" label="in-article" />
+//
+// The ANTHROPIC_PUBLISHER_ID is hard-coded since California Curated has a
+// single AdSense account.
+
+interface Props {
+	slot: string;
+	label?: 'homepage-banner' | 'in-article';
+}
+
+const { slot, label = 'in-article' } = Astro.props;
+const PUBLISHER = 'ca-pub-1706933876941682';
+---
+
+<aside class={`ad-slot ad-slot--${label}`} aria-label="Advertisement">
+	<p class="ad-slot-label">Advertisement</p>
+	<ins class="adsbygoogle"
+		style="display:block"
+		data-ad-client={PUBLISHER}
+		data-ad-slot={slot}
+		data-ad-format="auto"
+		data-full-width-responsive="true"></ins>
+	<script is:inline>
+		(window.adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</aside>
+
+<style>
+	.ad-slot {
+		margin: 2rem auto;
+		padding: 0 1.25rem;
+		text-align: center;
+	}
+	.ad-slot--homepage-banner {
+		max-width: 970px;
+		margin: 3rem auto;
+	}
+	.ad-slot--in-article {
+		max-width: 720px;
+		margin: 2.5rem auto;
+	}
+	.ad-slot-label {
+		font-size: 0.7rem;
+		letter-spacing: 0.12em;
+		text-transform: uppercase;
+		color: var(--cc-muted);
+		margin: 0 0 0.5rem;
+	}
+	/* Ensure the ad container has a sensible min-height while loading so
+	   the page doesn't reflow when the ad renders. */
+	.ad-slot .adsbygoogle {
+		min-height: 90px;
+	}
+</style>

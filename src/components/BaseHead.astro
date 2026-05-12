@@ -53,18 +53,16 @@ const fullTitle = title === SITE_TITLE ? title : `${title} – ${SITE_TITLE}`;
 <meta property="twitter:description" content={description} />
 {ogImage && <meta property="twitter:image" content={ogImage} />}
 
-<!-- Google AdSense — temporarily disabled May 2026 because Auto Ads was
-     injecting deceptive "Continue here" overlays and breaking the article
-     card layout. To re-enable: uncomment the <script> block below, then
-     either tighten Auto Ads in the AdSense dashboard or migrate to manual
-     placement before turning it back on.
+<!-- Google AdSense loader. Manual placement only — Auto Ads must remain
+     OFF in the AdSense dashboard to keep the layout predictable. Specific
+     ad slots are placed via <AdSlot /> components in index.astro and
+     BlogPost.astro. -->
 <script
 	is:inline
 	async
 	src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1706933876941682"
 	crossorigin="anonymous"
 ></script>
--->
 
 
 <!-- Google Analytics 4 (gtag.js) -->
