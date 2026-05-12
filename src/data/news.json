@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-12T10:20:17.087Z",
+	"lastUpdated": "2026-05-12T13:29:37.729Z",
 	"items": [
 		{
 			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
@@ -8,16 +8,34 @@
 			"publishedAt": "2026-05-12T10:00:00.000Z"
 		},
 		{
-			"headline": "Hantavirus fears heighten with 4 Californians exposed to the disease. Is the alarm warranted?",
-			"url": "https://www.latimes.com/california/story/2026-05-11/hantavirus-fears-heighten-with-4-californians-exposed-to-disease",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-11T23:00:48.000Z"
+			"headline": "Universal Voting-By-Mail Increases Voter Turnout for Both Major Parties",
+			"url": "https://www.caltech.edu/about/news/universal-voting-by-mail-increases-voter-turnout-for-both-major-parties",
+			"source": "Caltech",
+			"publishedAt": "2026-05-11T21:11:43.551Z"
 		},
 		{
 			"headline": "Oil rig off the SoCal coast catches fire; 'no immediate threat' to environment, officials say",
 			"url": "https://www.latimes.com/california/story/2026-05-11/oil-platform-fire-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-11T18:43:51.000Z"
+		},
+		{
+			"headline": "2026 University Medal finalists: Eyes on the stars, feet on the ground",
+			"url": "https://news.berkeley.edu/2026/05/11/2026-university-medal-finalists-eyes-on-the-stars-feet-on-the-ground/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-11T16:31:36.000Z"
+		},
+		{
+			"headline": "Most of the U.S. West Will Face Above-Normal Wildfire Risk This Summer",
+			"url": "https://eos.org/articles/most-of-the-u-s-west-will-face-above-normal-wildfire-risk-this-summer",
+			"source": "Eos",
+			"publishedAt": "2026-05-11T13:16:40.000Z"
+		},
+		{
+			"headline": "Earthquake swarm shakes Imperial County with 4.7 magnitude quake reported",
+			"url": "https://www.latimes.com/california/story/2026-05-10/earthquake-swarm-shakes-imperial-county-magnitude-4-7-quake-reported",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-10T17:55:00.000Z"
 		},
 		{
 			"headline": "After exile, California tribes could help oversee ancestral redwoods again",
@@ -32,16 +50,28 @@
 			"publishedAt": "2026-05-10T20:56:12.000Z"
 		},
 		{
-			"headline": "Earthquake swarm shakes Imperial County with 4.7 magnitude quake reported",
-			"url": "https://www.latimes.com/california/story/2026-05-10/earthquake-swarm-shakes-imperial-county-magnitude-4-7-quake-reported",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-10T17:55:00.000Z"
+			"headline": "Bay Nature's 2026 Summer Guide",
+			"url": "https://baynature.org/2026/05/08/explore/summer-guide-2026/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-09T01:20:46.000Z"
 		},
 		{
 			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
 			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-08T15:40:45.000Z"
+		},
+		{
+			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
+			"url": "https://www.latimes.com/california/story/2026-05-08/california-weather-heat-wave-100-degrees",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T10:00:00.000Z"
+		},
+		{
+			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
+			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T00:36:03.000Z"
 		},
 		{
 			"headline": "Solving the Mystery of Point Reyes' Purple Waves",
@@ -56,10 +86,10 @@
 			"publishedAt": "2026-05-07T21:57:31.000Z"
 		},
 		{
-			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
-			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
+			"headline": "After years of disaster-level landslides, Rancho Palos Verdes will finally get some federal aid. Is it enough?",
+			"url": "https://www.latimes.com/california/story/2026-05-07/federal-funds-set-to-finally-help-rancho-palos-verdes-landslides",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T00:36:03.000Z"
+			"publishedAt": "2026-05-07T20:07:28.000Z"
 		},
 		{
 			"headline": "Ganymede Might Still Be Forming Its Metal Core Today",
@@ -84,36 +114,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-07/californias-single-use-plastic-law-is-angering-all-sides",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-07T10:00:00.000Z"
-		},
-		{
-			"headline": "After years of disaster-level landslides, Rancho Palos Verdes will finally get some federal aid. Is it enough?",
-			"url": "https://www.latimes.com/california/story/2026-05-07/federal-funds-set-to-finally-help-rancho-palos-verdes-landslides",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-07T20:07:28.000Z"
-		},
-		{
-			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
-			"url": "https://www.latimes.com/california/story/2026-05-08/california-weather-heat-wave-100-degrees",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T10:00:00.000Z"
-		},
-		{
-			"headline": "L.A.'s long-awaited subway under Wilshire Boulevard opens, linking Beverly Hills to downtown",
-			"url": "https://www.latimes.com/california/story/2026-05-08/l-a-s-long-awaited-subway-under-wilshire-boulevard-opens-linking-beverly-hills-to-downtown",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T18:02:22.000Z"
-		},
-		{
-			"headline": "Bay Nature's 2026 Summer Guide",
-			"url": "https://baynature.org/2026/05/08/explore/summer-guide-2026/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-09T01:20:46.000Z"
-		},
-		{
-			"headline": "Amazon halts high-speed e-bike sales in California after fatal crashes",
-			"url": "https://www.latimes.com/california/story/2026-05-10/amazon-removes-high-speed-e-bikes-following-fatal-collisions",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-10T23:21:26.000Z"
 		}
 	]
 }
