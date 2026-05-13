@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-13T01:47:20.945Z",
+	"lastUpdated": "2026-05-13T06:41:11.715Z",
 	"items": [
 		{
 			"headline": "A Greener Route to Making Epoxides",
@@ -8,16 +8,22 @@
 			"publishedAt": "2026-05-12T21:56:00.000Z"
 		},
 		{
+			"headline": "L.A. quietly fires its first chief heat officer",
+			"url": "https://www.latimes.com/environment/story/2026-05-12/la-parts-ways-with-its-first-chief-heat-officer",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-12T18:38:26.000Z"
+		},
+		{
 			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
 			"url": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-12T10:00:00.000Z"
 		},
 		{
-			"headline": "L.A. quietly fires its first chief heat officer",
-			"url": "https://www.latimes.com/environment/story/2026-05-12/la-parts-ways-with-its-first-chief-heat-officer",
+			"headline": "Hantavirus fears heighten with 4 Californians exposed to the disease. Is the alarm warranted?",
+			"url": "https://www.latimes.com/california/story/2026-05-11/hantavirus-fears-heighten-with-4-californians-exposed-to-disease",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-12T18:38:26.000Z"
+			"publishedAt": "2026-05-11T23:00:48.000Z"
 		},
 		{
 			"headline": "Universal Voting-By-Mail Increases Voter Turnout for Both Major Parties",
@@ -26,28 +32,16 @@
 			"publishedAt": "2026-05-11T21:11:43.551Z"
 		},
 		{
-			"headline": "Oil rig off the SoCal coast catches fire; 'no immediate threat' to environment, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-11/oil-platform-fire-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-11T18:43:51.000Z"
-		},
-		{
 			"headline": "Most of the U.S. West Will Face Above-Normal Wildfire Risk This Summer",
 			"url": "https://eos.org/articles/most-of-the-u-s-west-will-face-above-normal-wildfire-risk-this-summer",
 			"source": "Eos",
 			"publishedAt": "2026-05-11T13:16:40.000Z"
 		},
 		{
-			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
-			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-08T15:40:45.000Z"
-		},
-		{
-			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
-			"url": "https://www.latimes.com/california/story/2026-05-08/california-weather-heat-wave-100-degrees",
+			"headline": "Oil rig off the SoCal coast catches fire; 'no immediate threat' to environment, officials say",
+			"url": "https://www.latimes.com/california/story/2026-05-11/oil-platform-fire-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T10:00:00.000Z"
+			"publishedAt": "2026-05-11T18:43:51.000Z"
 		},
 		{
 			"headline": "After exile, California tribes could help oversee ancestral redwoods again",
@@ -62,22 +56,34 @@
 			"publishedAt": "2026-05-10T17:55:00.000Z"
 		},
 		{
-			"headline": "Hantavirus fears heighten with 4 Californians exposed to the disease. Is the alarm warranted?",
-			"url": "https://www.latimes.com/california/story/2026-05-11/hantavirus-fears-heighten-with-4-californians-exposed-to-disease",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-11T23:00:48.000Z"
-		},
-		{
 			"headline": "Californian exposed to hantavirus aboard cruise ship resides in Bay Area, officials say",
 			"url": "https://www.latimes.com/california/story/2026-05-10/californian-exposed-to-hantavirus-lives-in-bay-area-officials-say",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-10T20:56:12.000Z"
 		},
 		{
-			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
-			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
+			"headline": "'We're dry:' The new U.S. Wildland Fire Service prepares for extreme fire season",
+			"url": "https://www.npr.org/2026/05/09/nx-s1-5804693/prevention-wildfires-firefighters-vegetation-wildland-fire-service",
+			"source": "NPR Science",
+			"publishedAt": "2026-05-09T19:03:44.000Z"
+		},
+		{
+			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
+			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-08T15:40:45.000Z"
+		},
+		{
+			"headline": "Heat is set to blast much of California, topping 100 degrees in some areas",
+			"url": "https://www.latimes.com/california/story/2026-05-08/california-weather-heat-wave-100-degrees",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T00:36:03.000Z"
+			"publishedAt": "2026-05-08T10:00:00.000Z"
+		},
+		{
+			"headline": "L.A.'s long-awaited subway under Wilshire Boulevard opens, linking Beverly Hills to downtown",
+			"url": "https://www.latimes.com/california/story/2026-05-08/l-a-s-long-awaited-subway-under-wilshire-boulevard-opens-linking-beverly-hills-to-downtown",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T18:02:22.000Z"
 		},
 		{
 			"headline": "Solving the Mystery of Point Reyes' Purple Waves",
@@ -86,22 +92,22 @@
 			"publishedAt": "2026-05-07T23:17:39.000Z"
 		},
 		{
-			"headline": "Physicians, politicians, activists call for emergency declaration on the Tijuana River",
-			"url": "https://www.latimes.com/science/story/2026-05-07/tijuana-river-is-emergency-coalition-says-proposes-package-to-clean-it-up",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-07T21:57:31.000Z"
-		},
-		{
 			"headline": "Ganymede Might Still Be Forming Its Metal Core Today",
 			"url": "https://www.caltech.edu/about/news/ganymede-might-still-be-forming-its-metal-core-today",
 			"source": "Caltech",
 			"publishedAt": "2026-05-07T15:14:00.000Z"
 		},
 		{
-			"headline": "Bay Nature's 2026 Summer Guide",
-			"url": "https://baynature.org/2026/05/08/explore/summer-guide-2026/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-09T01:20:46.000Z"
+			"headline": "Physicians, politicians, activists call for emergency declaration on the Tijuana River",
+			"url": "https://www.latimes.com/science/story/2026-05-07/tijuana-river-is-emergency-coalition-says-proposes-package-to-clean-it-up",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-07T21:57:31.000Z"
+		},
+		{
+			"headline": "Newsom pledges to move forward with Delta water tunnel in California",
+			"url": "https://www.latimes.com/california/story/2026-05-07/newsom-vows-to-move-forward-with-delta-water-tunnel-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T00:36:03.000Z"
 		},
 		{
 			"headline": "After years of disaster-level landslides, Rancho Palos Verdes will finally get some federal aid. Is it enough?",
@@ -116,16 +122,10 @@
 			"publishedAt": "2026-05-07T20:10:31.000Z"
 		},
 		{
-			"headline": "L.A.'s long-awaited subway under Wilshire Boulevard opens, linking Beverly Hills to downtown",
-			"url": "https://www.latimes.com/california/story/2026-05-08/l-a-s-long-awaited-subway-under-wilshire-boulevard-opens-linking-beverly-hills-to-downtown",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T18:02:22.000Z"
-		},
-		{
-			"headline": "Amazon halts high-speed e-bike sales in California after fatal crashes",
-			"url": "https://www.latimes.com/california/story/2026-05-10/amazon-removes-high-speed-e-bikes-following-fatal-collisions",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-10T23:21:26.000Z"
+			"headline": "Bay Nature's 2026 Summer Guide",
+			"url": "https://baynature.org/2026/05/08/explore/summer-guide-2026/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-09T01:20:46.000Z"
 		}
 	]
 }
