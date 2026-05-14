@@ -1,23 +1,29 @@
 {
-	"lastUpdated": "2026-05-14T10:03:23.205Z",
+	"lastUpdated": "2026-05-14T13:21:38.733Z",
 	"items": [
 		{
-			"headline": "Heavier storms and longer dry spells are drying California and the West",
-			"url": "https://www.latimes.com/environment/story/2026-05-13/rainfall-study",
+			"headline": "200,000 Californians help the grid out in tough times and get paid for it. Now that's up in the air",
+			"url": "https://www.latimes.com/environment/story/2026-05-14/200-000-californians-help-grid-out-in-tough-times-get-paid-for-it-now-thats-up-in-air",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-13T14:59:24.000Z"
+			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
 		{
-			"headline": "Low Snow in Eurasia Linked to Wildfires in California",
-			"url": "https://eos.org/articles/low-snow-in-eurasia-linked-to-wildfires-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-05-13T13:17:19.000Z"
+			"headline": "Another Californian was exposed to hantavirus in deadly cruise ship outbreak, officials announce",
+			"url": "https://www.latimes.com/california/story/2026-05-14/fifth-californian-was-exposed-to-hantavirus-on-cruise-ship-officials-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
 		{
 			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
 			"url": "https://www.caltech.edu/about/news/caltech-affiliated-students-awarded-2026-hertz-fellowships",
 			"source": "Caltech",
 			"publishedAt": "2026-05-13T22:03:52.994Z"
+		},
+		{
+			"headline": "Five takeaways from UC Berkeley's new survey on psychedelics in society",
+			"url": "https://psychedelics.berkeley.edu/five-big-takeaways-2025-uc-berkeley-psychedelics-survey/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-13T21:22:51.000Z"
 		},
 		{
 			"headline": "Two UC Berkeley scholars elected to the American Philosophical Society",
@@ -32,16 +38,28 @@
 			"publishedAt": "2026-05-13T15:00:00.000Z"
 		},
 		{
+			"headline": "Heavier storms and longer dry spells are drying California and the West",
+			"url": "https://www.latimes.com/environment/story/2026-05-13/rainfall-study",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-13T14:59:24.000Z"
+		},
+		{
+			"headline": "Low Snow in Eurasia Linked to Wildfires in California",
+			"url": "https://eos.org/articles/low-snow-in-eurasia-linked-to-wildfires-in-california",
+			"source": "Eos",
+			"publishedAt": "2026-05-13T13:17:19.000Z"
+		},
+		{
+			"headline": "Photos: Orphaned Monrovia bear cubs on path back to wild after state euthanized their mom",
+			"url": "https://www.latimes.com/california/story/2026-05-13/monrovia-bear-cubs-on-path-back-to-wild-mother-blondie-euthanized",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-13T12:00:00.000Z"
+		},
+		{
 			"headline": "A Greener Route to Making Epoxides",
 			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
 			"source": "Caltech",
 			"publishedAt": "2026-05-12T21:56:00.000Z"
-		},
-		{
-			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
-			"url": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-12T10:00:00.000Z"
 		},
 		{
 			"headline": "L.A. quietly fires its first chief heat officer",
@@ -50,10 +68,22 @@
 			"publishedAt": "2026-05-12T18:38:26.000Z"
 		},
 		{
-			"headline": "Hantavirus fears heighten with 4 Californians exposed to the disease. Is the alarm warranted?",
-			"url": "https://www.latimes.com/california/story/2026-05-11/hantavirus-fears-heighten-with-4-californians-exposed-to-disease",
+			"headline": "Being on stage terrified her. So she majored in theater.",
+			"url": "https://news.berkeley.edu/2026/05/12/graduating-student-profile-kelly-mou/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-12T18:03:32.000Z"
+		},
+		{
+			"headline": "'A system that called itself justice' took his future. UC Berkeley helped him take it back.",
+			"url": "https://news.berkeley.edu/2026/05/12/a-system-that-called-itself-justice-took-his-future-uc-berkeley-helped-him-take-it-back/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-12T16:58:06.000Z"
+		},
+		{
+			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
+			"url": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-11T23:00:48.000Z"
+			"publishedAt": "2026-05-12T10:00:00.000Z"
 		},
 		{
 			"headline": "Universal Voting-By-Mail Increases Voter Turnout for Both Major Parties",
@@ -68,6 +98,30 @@
 			"publishedAt": "2026-05-11T18:43:51.000Z"
 		},
 		{
+			"headline": "2026 University Medal finalists: Eyes on the stars, feet on the ground",
+			"url": "https://news.berkeley.edu/2026/05/11/2026-university-medal-finalists-eyes-on-the-stars-feet-on-the-ground/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-11T16:31:36.000Z"
+		},
+		{
+			"headline": "Most of the U.S. West Will Face Above-Normal Wildfire Risk This Summer",
+			"url": "https://eos.org/articles/most-of-the-u-s-west-will-face-above-normal-wildfire-risk-this-summer",
+			"source": "Eos",
+			"publishedAt": "2026-05-11T13:16:40.000Z"
+		},
+		{
+			"headline": "Amazon halts high-speed e-bike sales in California after fatal crashes",
+			"url": "https://www.latimes.com/california/story/2026-05-10/amazon-removes-high-speed-e-bikes-following-fatal-collisions",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-10T23:21:26.000Z"
+		},
+		{
+			"headline": "Californian exposed to hantavirus aboard cruise ship resides in Bay Area, officials say",
+			"url": "https://www.latimes.com/california/story/2026-05-10/californian-exposed-to-hantavirus-lives-in-bay-area-officials-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-10T20:56:12.000Z"
+		},
+		{
 			"headline": "Earthquake swarm shakes Imperial County with 4.7 magnitude quake reported",
 			"url": "https://www.latimes.com/california/story/2026-05-10/earthquake-swarm-shakes-imperial-county-magnitude-4-7-quake-reported",
 			"source": "Los Angeles Times",
@@ -80,22 +134,22 @@
 			"publishedAt": "2026-05-10T10:00:00.000Z"
 		},
 		{
-			"headline": "Bay Nature's 2026 Summer Guide",
-			"url": "https://baynature.org/2026/05/08/explore/summer-guide-2026/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-09T01:20:46.000Z"
+			"headline": "'We're dry:' The new U.S. Wildland Fire Service prepares for extreme fire season",
+			"url": "https://www.npr.org/2026/05/09/nx-s1-5804693/prevention-wildfires-firefighters-vegetation-wildland-fire-service",
+			"source": "NPR Science",
+			"publishedAt": "2026-05-09T19:03:44.000Z"
 		},
 		{
-			"headline": "California hospitals will soon provide free diapers to newborns thanks to new state program",
-			"url": "https://www.latimes.com/california/story/2026-05-08/gov-gavin-newsom-announces-new-diaper-program-for-newborns",
+			"headline": "Financial strain puts SoCal humane rescue sanctuaries on the brink, animals at risk",
+			"url": "https://www.latimes.com/california/story/2026-05-09/lack-of-funding-leads-to-severe-neglect-at-socal-animal-rescues",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T20:43:49.000Z"
+			"publishedAt": "2026-05-09T10:00:00.000Z"
 		},
 		{
-			"headline": "L.A.'s long-awaited subway under Wilshire Boulevard opens, linking Beverly Hills to downtown",
-			"url": "https://www.latimes.com/california/story/2026-05-08/l-a-s-long-awaited-subway-under-wilshire-boulevard-opens-linking-beverly-hills-to-downtown",
+			"headline": "California abortion pill suppliers ready with workaround in case of Supreme Court ban",
+			"url": "https://www.latimes.com/california/story/2026-05-09/california-abortion-pill-suppliers-supreme-court",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-08T18:02:22.000Z"
+			"publishedAt": "2026-05-09T10:00:00.000Z"
 		}
 	]
 }
