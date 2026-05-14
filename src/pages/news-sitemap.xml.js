@@ -30,7 +30,12 @@ export async function GET(context) {
 		.map((post) => {
 			const loc = new URL(`/blog/${post.id}/`, siteUrl).toString();
 			const pubDate = post.data.pubDate.toISOString();
-			const image = heroUrl(post);
+			const imageRaw = heroUrl(post);
+			const image = imageRaw
+				? imageRaw.startsWith('http')
+					? imageRaw
+					: new URL(imageRaw, siteUrl).toString()
+				: null;
 			const imageTag = image
 				? `
     <image:image>
