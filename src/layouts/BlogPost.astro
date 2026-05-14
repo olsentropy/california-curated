@@ -34,6 +34,38 @@ const related =
 		? await getRelatedPosts(currentId, categories ?? [], 4)
 		: [];
 
+// JSON-LD structured data for this article (NewsArticle schema).
+// Helps Google show rich results with image, date, and author.
+const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
+const jsonLd = {
+	'@context': 'https://schema.org',
+	'@type': 'NewsArticle',
+	headline: title,
+	description: description,
+	url: canonicalURL,
+	datePublished: pubDate.toISOString(),
+	dateModified: (updatedDate ?? pubDate).toISOString(),
+	author: {
+		'@type': 'Person',
+		name: author ?? SITE_AUTHOR,
+		url: `https://californiacurated.com/author/${SITE_AUTHOR_SLUG}/`,
+	},
+	publisher: {
+		'@type': 'Organization',
+		name: 'California Curated',
+		url: 'https://californiacurated.com',
+		logo: {
+			'@type': 'ImageObject',
+			url: 'https://californiacurated.com/icon-512.png',
+		},
+	},
+	mainEntityOfPage: {
+		'@type': 'WebPage',
+		'@id': canonicalURL,
+	},
+	...(hero ? { image: { '@type': 'ImageObject', url: hero } } : {}),
+};
+
 // Link the author byline to their archive page when the name matches.
 const authorHref = author === SITE_AUTHOR ? `/author/${SITE_AUTHOR_SLUG}/` : undefined;
 ---
@@ -46,6 +78,7 @@ const authorHref = author === SITE_AUTHOR ? `/author/${SITE_AUTHOR_SLUG}/` : und
 		<meta property="og:type" content="article" />
 		<meta property="article:published_time" content={pubDate.toISOString()} />
 		{updatedDate && <meta property="article:modified_time" content={updatedDate.toISOString()} />}
+		<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 	</head>
 	<body>
 		<Header />

@@ -66,6 +66,24 @@ const twCreator = twHandle(SITE_TWITTER_CREATOR);
 {twSite && <meta name="twitter:site" content={twSite} />}
 {twCreator && <meta name="twitter:creator" content={twCreator} />}
 
+<!-- WebSite structured data — enables Google Sitelinks search box and
+     establishes the site entity for Knowledge Graph purposes. -->
+<script type="application/ld+json" set:html={JSON.stringify({
+	'@context': 'https://schema.org',
+	'@type': 'WebSite',
+	name: SITE_TITLE,
+	url: 'https://californiacurated.com',
+	description: 'Independent journalism on California\'s natural world: marine biology, geology, wildlife, and the science of the Golden State.',
+	potentialAction: {
+		'@type': 'SearchAction',
+		target: {
+			'@type': 'EntryPoint',
+			urlTemplate: 'https://californiacurated.com/search?q={search_term_string}',
+		},
+		'query-input': 'required name=search_term_string',
+	},
+})} />
+
 <!-- Google AdSense loader. Manual placement only — Auto Ads must remain
      OFF in the AdSense dashboard to keep the layout predictable. Specific
      ad slots are placed via <AdSlot /> components in index.astro and
