@@ -1,0 +1,738 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>California Curated — Homepage Mockup (with News Section)</title>
+<style>
+:root {
+	--cc-orange: #F57F20;
+	--cc-orange-dark: #C8580A;
+	--cc-blue: #1AA4D6;
+	--cc-blue-dark: #0F7FA6;
+	--cc-ink: #1B1F23;
+	--cc-ink-soft: #3B4248;
+	--cc-muted: #6B7480;
+	--cc-line: #E5E7EB;
+	--cc-line-soft: #F1F2F4;
+	--cc-bg: #FFFFFF;
+	--cc-bg-alt: #FAFAFA;
+	--cc-max: 1200px;
+	--cc-radius: 4px;
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+	margin: 0;
+	padding: 0;
+	background: var(--cc-bg);
+	color: var(--cc-ink);
+	font-family: "Source Sans 3", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+	font-size: 18px;
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--cc-blue-dark); text-decoration: none; }
+a:hover { color: var(--cc-orange); }
+
+h1, h2, h3, h4 {
+	font-family: Georgia, "Times New Roman", serif;
+	color: var(--cc-ink);
+	line-height: 1.2;
+	margin: 0 0 0.5em;
+	font-weight: 700;
+	letter-spacing: -0.01em;
+}
+
+.container { max-width: var(--cc-max); margin: 0 auto; padding: 0 1.25rem; }
+
+/* MOCKUP BANNER */
+.mockup-banner {
+	background: #FFF3E0;
+	color: #6B4A1A;
+	border-bottom: 1px solid #F0D9B0;
+	padding: 0.5rem 1.25rem;
+	font-size: 0.85rem;
+	text-align: center;
+	font-weight: 500;
+}
+.mockup-banner strong { color: #8C5A18; }
+
+/* HEADER */
+.cc-header {
+	border-bottom: 1px solid var(--cc-line);
+}
+.cc-header .container-utility-row {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 0.5rem 1.25rem;
+	font-size: 0.85rem;
+	color: var(--cc-muted);
+}
+.cc-utility-actions { display: flex; align-items: center; gap: 0.75rem; }
+.cc-utility-actions a { color: var(--cc-muted); }
+.cc-utility-actions a:hover { color: var(--cc-orange); }
+.btn-primary {
+	display: inline-block;
+	background: var(--cc-blue);
+	color: #fff !important;
+	padding: 0.4em 1em;
+	font-weight: 600;
+	font-size: 0.85rem;
+	border-radius: var(--cc-radius);
+	border: 2px solid var(--cc-blue);
+}
+.btn-primary:hover { background: var(--cc-blue-dark); border-color: var(--cc-blue-dark); color: #fff !important; }
+.cc-icon-btn { color: var(--cc-muted); display: inline-flex; }
+
+.cc-brand {
+	text-align: center;
+	padding: 1.25rem 1.25rem 0.5rem;
+}
+.cc-logo {
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-weight: 800;
+	letter-spacing: 0.2em;
+	font-size: 2rem;
+	display: inline-flex;
+	gap: 0.6em;
+}
+.cc-logo-orange { color: var(--cc-orange); }
+.cc-logo-blue { color: var(--cc-blue); letter-spacing: 0.5em; }
+.cc-tagline {
+	color: var(--cc-muted);
+	font-style: italic;
+	margin: 0.25rem 0 0;
+}
+.cc-nav {
+	border-top: 1px solid var(--cc-line);
+	margin-top: 1rem;
+}
+.cc-nav-list {
+	display: flex;
+	justify-content: center;
+	gap: 2.25rem;
+	padding: 1rem 0;
+	margin: 0;
+	list-style: none;
+	font-size: 0.85rem;
+	letter-spacing: 0.06em;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.cc-nav-list a { color: var(--cc-ink-soft); }
+.cc-nav-list a:hover { color: var(--cc-orange); }
+.cc-nav-list a.active {
+	color: var(--cc-blue);
+	border-bottom: 2px solid var(--cc-blue);
+	padding-bottom: 0.5rem;
+}
+
+/* HERO ROW */
+.hero-row {
+	display: grid;
+	grid-template-columns: 220px 1fr 280px;
+	gap: 2rem;
+	padding: 2rem 1.25rem;
+	max-width: var(--cc-max);
+	margin: 0 auto;
+}
+.hero-secondary { display: flex; flex-direction: column; gap: 1.5rem; }
+.byline-card a { color: var(--cc-ink); display: block; }
+.byline-thumb {
+	width: 100%;
+	aspect-ratio: 4/3;
+	background: linear-gradient(135deg, #c8d4dd 0%, #8fa5b3 100%);
+	border-radius: var(--cc-radius);
+	margin-bottom: 0.5rem;
+}
+.byline-card h3 {
+	font-size: 1.1rem;
+	margin: 0;
+	line-height: 1.3;
+	font-weight: 700;
+}
+
+.hero-main { text-align: center; display: block; color: var(--cc-ink); }
+.hero-main h1 {
+	font-size: 2rem;
+	max-width: 600px;
+	margin: 0 auto 1.5rem;
+}
+.hero-main-img {
+	width: 100%;
+	aspect-ratio: 16/9;
+	background: linear-gradient(135deg, #2dd4bf 0%, #14b8a6 50%, #0d9488 100%);
+	border-radius: var(--cc-radius);
+}
+
+.hero-rail .rail-title {
+	font-size: 1.25rem;
+	font-family: Georgia, serif;
+	margin-bottom: 0.75rem;
+}
+.rail-item { padding: 0.5rem 0; border-bottom: 1px solid var(--cc-line-soft); }
+.rail-item:last-child { border-bottom: none; }
+.rail-item a { color: var(--cc-ink); }
+.rail-item h4 {
+	font-size: 1rem;
+	margin: 0 0 0.25rem;
+	line-height: 1.3;
+}
+.rail-item .meta {
+	font-size: 0.8rem;
+	color: var(--cc-muted);
+	margin: 0;
+}
+
+/* DONATE CTA */
+.donate-cta {
+	text-align: center;
+	padding: 0 1.25rem 2rem;
+	max-width: var(--cc-max);
+	margin: 0 auto;
+}
+
+/* NEWS SECTION (NEW) */
+.news-rail-section {
+	background: var(--cc-bg-alt);
+	border-top: 1px solid var(--cc-line);
+	border-bottom: 1px solid var(--cc-line);
+	padding: 2.5rem 1.25rem;
+	margin-bottom: 2.5rem;
+}
+.news-rail-inner { max-width: var(--cc-max); margin: 0 auto; }
+.news-rail-header {
+	display: flex;
+	align-items: baseline;
+	justify-content: space-between;
+	gap: 1rem;
+	margin-bottom: 1.5rem;
+	padding-bottom: 1rem;
+	border-bottom: 2px solid var(--cc-ink);
+}
+.news-rail-header .label-kicker {
+	font-size: 0.75rem;
+	letter-spacing: 0.12em;
+	text-transform: uppercase;
+	color: var(--cc-muted);
+	margin: 0;
+}
+.news-rail-header h2 {
+	font-size: 1.6rem;
+	margin: 0.25rem 0 0;
+}
+.news-rail-header .updated {
+	font-size: 0.75rem;
+	letter-spacing: 0.06em;
+	text-transform: uppercase;
+	color: var(--cc-muted);
+}
+.news-rail-grid {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: 0 2.5rem;
+}
+.news-rail-grid ul {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+.news-item {
+	padding: 0.85rem 0;
+	border-top: 1px solid var(--cc-line);
+}
+.news-item:first-child { border-top: none; }
+.news-item a {
+	display: block;
+	color: var(--cc-ink);
+}
+.news-item a:hover h4 { color: var(--cc-orange); }
+.news-item h4 {
+	font-family: Georgia, serif;
+	font-size: 1.05rem;
+	line-height: 1.35;
+	margin: 0 0 0.35rem;
+	font-weight: 600;
+	letter-spacing: -0.005em;
+	color: var(--cc-ink);
+}
+.news-item .source-line {
+	font-size: 0.75rem;
+	letter-spacing: 0.08em;
+	text-transform: uppercase;
+	color: var(--cc-muted);
+	margin: 0;
+}
+.news-item .source-line .sep {
+	color: #c0c4cb;
+	margin: 0 0.4em;
+}
+.news-rail-footer {
+	margin-top: 1.5rem;
+	padding-top: 1.25rem;
+	border-top: 1px solid var(--cc-line);
+	text-align: center;
+}
+.news-rail-footer a {
+	font-weight: 600;
+	font-size: 0.95rem;
+	color: var(--cc-blue-dark);
+	display: inline-flex;
+	align-items: center;
+	gap: 0.35em;
+}
+.news-rail-footer a:hover { color: var(--cc-orange); }
+
+/* FEATURES BAND */
+.features-band {
+	background: #fff;
+	border-top: 1px solid var(--cc-line);
+	border-bottom: 1px solid var(--cc-line);
+	padding: 1.25rem 1.25rem 0.5rem;
+	max-width: var(--cc-max);
+	margin: 0 auto 1.5rem;
+	position: relative;
+}
+.features-band-inner { position: relative; padding-bottom: 1rem; }
+.features-band-inner::after {
+	content: "";
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	width: 60px;
+	height: 4px;
+	background: linear-gradient(90deg, var(--cc-blue) 0 50%, transparent 50% 100%);
+}
+.features-title {
+	font-size: 1.6rem;
+	margin: 0;
+	letter-spacing: -0.01em;
+}
+
+.features-grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 1.5rem;
+	max-width: var(--cc-max);
+	margin: 0 auto 3rem;
+	padding: 0 1.25rem;
+}
+.feature-card a { color: var(--cc-ink); display: block; }
+.feature-card .thumb {
+	width: 100%;
+	aspect-ratio: 4/3;
+	background: linear-gradient(135deg, #94a3b8 0%, #64748b 100%);
+	border-radius: var(--cc-radius);
+	margin-bottom: 0.75rem;
+	display: block;
+}
+.feature-card h3 {
+	font-size: 1.15rem;
+	line-height: 1.3;
+	margin: 0 0 0.4rem;
+}
+.feature-card .meta {
+	font-size: 0.8rem;
+	color: var(--cc-muted);
+	margin: 0;
+}
+
+/* SECTION RAILS */
+.section-rail {
+	max-width: var(--cc-max);
+	margin: 0 auto 2.5rem;
+	padding: 0 1.25rem;
+}
+.section-rail-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	border-bottom: 2px solid var(--cc-ink);
+	padding-bottom: 0.5rem;
+	margin-bottom: 1.25rem;
+}
+.section-rail-header h2 { font-size: 1.4rem; margin: 0; }
+.section-rail-header a {
+	font-size: 0.85rem;
+	font-weight: 600;
+	color: var(--cc-blue-dark);
+	text-transform: uppercase;
+	letter-spacing: 0.05em;
+}
+.rail-grid {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	gap: 1.25rem;
+}
+.rail-card a { color: var(--cc-ink); display: block; }
+.rail-card .thumb {
+	width: 100%;
+	aspect-ratio: 4/3;
+	background: linear-gradient(135deg, #b6cdb1 0%, #6b8e62 100%);
+	border-radius: var(--cc-radius);
+	margin-bottom: 0.5rem;
+}
+.rail-card h4 {
+	font-size: 0.95rem;
+	line-height: 1.3;
+	margin: 0 0 0.25rem;
+	font-weight: 700;
+}
+.rail-card .meta {
+	font-size: 0.75rem;
+	color: var(--cc-muted);
+	margin: 0;
+}
+
+/* Different gradient hints per section to suggest variety */
+#sec-animals .rail-card:nth-child(1) .thumb { background: linear-gradient(135deg, #c4a484 0%, #8b6f47 100%); }
+#sec-animals .rail-card:nth-child(2) .thumb { background: linear-gradient(135deg, #94a3b8 0%, #475569 100%); }
+#sec-animals .rail-card:nth-child(3) .thumb { background: linear-gradient(135deg, #d4a574 0%, #a17f4f 100%); }
+#sec-animals .rail-card:nth-child(4) .thumb { background: linear-gradient(135deg, #b8c9b8 0%, #6b8870 100%); }
+
+#sec-oceans .rail-card:nth-child(1) .thumb { background: linear-gradient(135deg, #5cabe2 0%, #1f6092 100%); }
+#sec-oceans .rail-card:nth-child(2) .thumb { background: linear-gradient(135deg, #2dd4bf 0%, #0d9488 100%); }
+#sec-oceans .rail-card:nth-child(3) .thumb { background: linear-gradient(135deg, #7dd3fc 0%, #0369a1 100%); }
+#sec-oceans .rail-card:nth-child(4) .thumb { background: linear-gradient(135deg, #a7d8e8 0%, #4a7c95 100%); }
+
+#sec-geology .rail-card:nth-child(1) .thumb { background: linear-gradient(135deg, #d2a679 0%, #8b6914 100%); }
+#sec-geology .rail-card:nth-child(2) .thumb { background: linear-gradient(135deg, #c97b63 0%, #7a3e2a 100%); }
+#sec-geology .rail-card:nth-child(3) .thumb { background: linear-gradient(135deg, #b8a08a 0%, #6b5b4a 100%); }
+#sec-geology .rail-card:nth-child(4) .thumb { background: linear-gradient(135deg, #d4b896 0%, #8a7355 100%); }
+
+/* FOOTER */
+.cc-footer {
+	margin-top: 4rem;
+	background: #1B1F23;
+	color: #C9CDD3;
+	padding: 0;
+}
+.cc-footer a { color: #C9CDD3; }
+.cc-footer a:hover { color: var(--cc-orange); }
+.cc-footer-grid {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 2.5rem;
+	padding: 3rem 1.25rem 2rem;
+	max-width: var(--cc-max);
+	margin: 0 auto;
+}
+.cc-footer h4 {
+	color: #fff;
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-size: 1rem;
+	letter-spacing: 0.08em;
+	margin-bottom: 1rem;
+	text-transform: uppercase;
+}
+.cc-footer ul { list-style: none; padding: 0; margin: 0; }
+.cc-footer ul li { margin: 0.4rem 0; }
+.cc-footer-bar {
+	border-top: 1px solid #2A2F35;
+	padding: 1.25rem;
+	font-size: 0.85rem;
+	color: #6B7480;
+	text-align: center;
+}
+
+/* Responsive */
+@media (max-width: 980px) {
+	.hero-row { grid-template-columns: 1fr; }
+	.features-grid { grid-template-columns: repeat(2, 1fr); }
+	.rail-grid { grid-template-columns: repeat(2, 1fr); }
+	.news-rail-grid { grid-template-columns: 1fr; gap: 0; }
+	.cc-footer-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 600px) {
+	.cc-nav-list { gap: 1rem; flex-wrap: wrap; }
+	.features-grid { grid-template-columns: 1fr; }
+	.rail-grid { grid-template-columns: 1fr 1fr; }
+	.cc-logo { font-size: 1.4rem; }
+	.hero-main h1 { font-size: 1.5rem; }
+}
+</style>
+</head>
+<body>
+
+<!-- MOCKUP NOTICE -->
+<div class="mockup-banner">
+	<strong>MOCKUP — NOT LIVE.</strong> This is a static preview for evaluating the new "California in the news" section. Real homepage content is replaced with placeholder text and gradient images.
+</div>
+
+<!-- HEADER -->
+<header class="cc-header">
+	<div class="container-utility-row">
+		<div></div>
+		<div class="cc-utility-actions">
+			<a class="cc-icon-btn" href="#" aria-label="Search">
+				<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.35-4.35"/></svg>
+			</a>
+			<a class="btn-primary" href="#">Donate</a>
+			<a href="#">Contact</a>
+		</div>
+	</div>
+	<div class="cc-brand">
+		<div class="cc-logo">
+			<span class="cc-logo-orange">CALIFORNIA</span><span class="cc-logo-blue">CURATED</span>
+		</div>
+		<p class="cc-tagline">The natural world of California, explained.</p>
+	</div>
+	<nav class="cc-nav">
+		<ul class="cc-nav-list">
+			<li><a href="#" class="active">Home</a></li>
+			<li><a href="#">Animals</a></li>
+			<li><a href="#">Geology</a></li>
+			<li><a href="#">Oceans</a></li>
+			<li><a href="#">Climate</a></li>
+			<li><a href="#">Plants</a></li>
+			<li><a href="#">Space</a></li>
+			<li><a href="#">Science History</a></li>
+		</ul>
+	</nav>
+</header>
+
+<!-- HERO ROW -->
+<section class="hero-row">
+	<div class="hero-secondary">
+		<article class="byline-card">
+			<a href="#">
+				<div class="byline-thumb"></div>
+				<h3>That Time We Tried to Live Under the Sea Off California</h3>
+			</a>
+		</article>
+		<article class="byline-card">
+			<a href="#">
+				<div class="byline-thumb" style="background: linear-gradient(135deg, #4a7a5e 0%, #1f4733 100%);"></div>
+				<h3>Why Southern California Is the Stingray Capital of the World</h3>
+			</a>
+		</article>
+	</div>
+
+	<a class="hero-main" href="#">
+		<h1>It's Going to Be a Sharky Summer. Here's Why That's Okay.</h1>
+		<div class="hero-main-img"></div>
+	</a>
+
+	<aside class="hero-rail">
+		<h3 class="rail-title">Previous Posts</h3>
+		<article class="rail-item"><a href="#"><h4>That Time We Tried to Live Under the Sea Off California</h4><p class="meta">Apr 24, 2026</p></a></article>
+		<article class="rail-item"><a href="#"><h4>Why Southern California Is the Stingray Capital of the World</h4><p class="meta">Apr 13, 2026</p></a></article>
+		<article class="rail-item"><a href="#"><h4>How the Jones Act Strangles California Innovation and Keeps I-5 Packed with Trucks</h4><p class="meta">Apr 1, 2026</p></a></article>
+		<article class="rail-item"><a href="#"><h4>The Man Who Saved the Owens Pupfish</h4><p class="meta">Mar 16, 2026</p></a></article>
+		<article class="rail-item"><a href="#"><h4>MBARI and the Machines That Let Us See the Deep</h4><p class="meta">Mar 6, 2026</p></a></article>
+	</aside>
+</section>
+
+<!-- DONATE CTA -->
+<div class="donate-cta">
+	<a href="#" class="btn-primary" style="font-size: 0.95rem; padding: 0.6em 1.5em;">Support California Curated With A Small Donation</a>
+</div>
+
+<!-- ============================================== -->
+<!-- NEW: CALIFORNIA IN THE NEWS RAIL                 -->
+<!-- ============================================== -->
+<section class="news-rail-section">
+	<div class="news-rail-inner">
+		<div class="news-rail-header">
+			<div>
+				<p class="label-kicker">On our radar</p>
+				<h2>California in the news</h2>
+			</div>
+			<div class="updated">Updated 4h ago</div>
+		</div>
+		<div class="news-rail-grid">
+			<ul>
+				<li class="news-item">
+					<a href="#">
+						<h4>California's giant kelp forests show signs of recovery after years of marine heat waves</h4>
+						<p class="source-line">KQED Science <span class="sep">·</span> 6h ago</p>
+					</a>
+				</li>
+				<li class="news-item">
+					<a href="#">
+						<h4>Scientists document first known great white shark born off the Monterey coast</h4>
+						<p class="source-line">Los Angeles Times <span class="sep">·</span> 9h ago</p>
+					</a>
+				</li>
+				<li class="news-item">
+					<a href="#">
+						<h4>Lake Tahoe water clarity hits a 30-year low, UC Davis researchers find</h4>
+						<p class="source-line">SF Chronicle <span class="sep">·</span> 12h ago</p>
+					</a>
+				</li>
+				<li class="news-item">
+					<a href="#">
+						<h4>NASA JPL's Europa Clipper detects possible water plumes ahead of Jupiter approach</h4>
+						<p class="source-line">JPL News <span class="sep">·</span> 1d ago</p>
+					</a>
+				</li>
+			</ul>
+			<ul>
+				<li class="news-item">
+					<a href="#">
+						<h4>Sea otters are quietly reshaping the Bay Area's eelgrass ecosystem, study finds</h4>
+						<p class="source-line">Bay Nature <span class="sep">·</span> 1d ago</p>
+					</a>
+				</li>
+				<li class="news-item">
+					<a href="#">
+						<h4>Mojave Desert cougars adapt to highway corridors, new collar data shows</h4>
+						<p class="source-line">KCET <span class="sep">·</span> 2d ago</p>
+					</a>
+				</li>
+				<li class="news-item">
+					<a href="#">
+						<h4>Yosemite's giant sequoias growing faster than scientists expected, decades of measurements suggest</h4>
+						<p class="source-line">Mongabay <span class="sep">·</span> 2d ago</p>
+					</a>
+				</li>
+				<li class="news-item">
+					<a href="#">
+						<h4>California condor population hits a 30-year high in Los Padres National Forest</h4>
+						<p class="source-line">USFWS Press Release <span class="sep">·</span> 3d ago</p>
+					</a>
+				</li>
+			</ul>
+		</div>
+		<div class="news-rail-footer">
+			<a href="#">See the full California news roundup &rarr;</a>
+		</div>
+	</div>
+</section>
+
+<!-- POPULAR FEATURES -->
+<section class="features-band">
+	<div class="features-band-inner">
+		<h2 class="features-title">Popular Features</h2>
+	</div>
+</section>
+
+<section class="features-grid">
+	<article class="feature-card">
+		<a href="#">
+			<div class="thumb" style="background: linear-gradient(135deg, #2dd4bf 0%, #14b8a6 100%);"></div>
+			<h3>A Deep Dive Into Monterey Canyon, California's Great Abyss</h3>
+			<p class="meta">May 4, 2026</p>
+		</a>
+	</article>
+	<article class="feature-card">
+		<a href="#">
+			<div class="thumb" style="background: linear-gradient(135deg, #f59e0b 0%, #b45309 100%);"></div>
+			<h3>Autumn's Alchemy: Unveiling the Science Behind California's High Sierra Fall Foliage</h3>
+			<p class="meta">May 4, 2026</p>
+		</a>
+	</article>
+	<article class="feature-card">
+		<a href="#">
+			<div class="thumb" style="background: linear-gradient(135deg, #475569 0%, #1e293b 100%);"></div>
+			<h3>Berkeley's Cosmic Breakthrough and the Alvarez Discovery That Rewrote Earth's History</h3>
+			<p class="meta">May 4, 2026</p>
+		</a>
+	</article>
+	<article class="feature-card">
+		<a href="#">
+			<div class="thumb" style="background: linear-gradient(135deg, #84cc16 0%, #4d7c0f 100%);"></div>
+			<h3>A Tiny California Seaweed Could Make a Big Dent in Livestock Methane</h3>
+			<p class="meta">May 4, 2026</p>
+		</a>
+	</article>
+	<article class="feature-card">
+		<a href="#">
+			<div class="thumb" style="background: linear-gradient(135deg, #6366f1 0%, #312e81 100%);"></div>
+			<h3>California's Eye on the Cosmos: The SLAC-Built Camera That Will Time-Lapse the Universe</h3>
+			<p class="meta">May 4, 2026</p>
+		</a>
+	</article>
+	<article class="feature-card">
+		<a href="#">
+			<div class="thumb" style="background: linear-gradient(135deg, #b91c1c 0%, #7f1d1d 100%);"></div>
+			<h3>California's Strangest Catastrophe</h3>
+			<p class="meta">May 4, 2026</p>
+		</a>
+	</article>
+</section>
+
+<!-- SECTION RAIL: ANIMALS -->
+<section id="sec-animals" class="section-rail">
+	<div class="section-rail-header">
+		<h2>Animals</h2>
+		<a href="#">All Animals &rarr;</a>
+	</div>
+	<div class="rail-grid">
+		<article class="rail-card"><a href="#"><div class="thumb"></div><h4>Ghost of the West: The California Grizzly's Tragic Story</h4><p class="meta">May 4, 2026</p></a></article>
+		<article class="rail-card"><a href="#"><div class="thumb"></div><h4>The Enigmatic Island Fox: A Tale of Survival and Conservation</h4><p class="meta">May 4, 2026</p></a></article>
+		<article class="rail-card"><a href="#"><div class="thumb"></div><h4>California's Common Birds: The House Finch</h4><p class="meta">May 4, 2026</p></a></article>
+		<article class="rail-card"><a href="#"><div class="thumb"></div><h4>The Western Fence Lizard: Scaly Sunbathing Acrobats</h4><p class="meta">May 4, 2026</p></a></article>
+	</div>
+</section>
+
+<!-- SECTION RAIL: OCEANS -->
+<section id="sec-oceans" class="section-rail">
+	<div class="section-rail-header">
+		<h2>Oceans</h2>
+		<a href="#">All Oceans &rarr;</a>
+	</div>
+	<div class="rail-grid">
+		<article class="rail-card"><a href="#"><div class="thumb"></div><h4>California Is a Dolphin Paradise</h4><p class="meta">May 4, 2026</p></a></article>
+		<article class="rail-card"><a href="#"><div class="thumb"></div><h4>California's Daily Tidal Wave of Life</h4><p class="meta">May 4, 2026</p></a></article>
+		<article class="rail-card"><a href="#"><div class="thumb"></div><h4>The Discovery of the Ocean's False Bottom Off California</h4><p class="meta">May 4, 2026</p></a></article>
+		<article class="rail-card"><a href="#"><div class="thumb"></div><h4>Bring Human Exploration Back to California's Deep Ocean</h4><p class="meta">May 4, 2026</p></a></article>
+	</div>
+</section>
+
+<!-- SECTION RAIL: GEOLOGY -->
+<section id="sec-geology" class="section-rail">
+	<div class="section-rail-header">
+		<h2>Geology</h2>
+		<a href="#">All Geology &rarr;</a>
+	</div>
+	<div class="rail-grid">
+		<article class="rail-card"><a href="#"><div class="thumb"></div><h4>The Volcanic History of Owens Valley and the Long Valley Caldera</h4><p class="meta">May 4, 2026</p></a></article>
+		<article class="rail-card"><a href="#"><div class="thumb"></div><h4>The Rich Historical and Geological Past of the Alabama Hills</h4><p class="meta">May 4, 2026</p></a></article>
+		<article class="rail-card"><a href="#"><div class="thumb"></div><h4>Baja California and the Sea of Cortez: Birthed by Tectonic Forces</h4><p class="meta">May 4, 2026</p></a></article>
+		<article class="rail-card"><a href="#"><div class="thumb"></div><h4>The Story of Southern California Sand: From Mountains to Surf</h4><p class="meta">May 4, 2026</p></a></article>
+	</div>
+</section>
+
+<!-- FOOTER -->
+<footer class="cc-footer">
+	<div class="cc-footer-grid">
+		<div>
+			<h4>California Curated</h4>
+			<p>California, explained — science, geology, marine life, climate and the people who shape the Golden State.</p>
+			<p><a href="#" class="btn-primary">Support our work</a></p>
+		</div>
+		<div>
+			<h4>Sections</h4>
+			<ul>
+				<li><a href="#">Animals</a></li>
+				<li><a href="#">Geology</a></li>
+				<li><a href="#">Oceans</a></li>
+				<li><a href="#">Climate</a></li>
+				<li><a href="#">Plants</a></li>
+				<li><a href="#">Space</a></li>
+				<li><a href="#">Science History</a></li>
+			</ul>
+		</div>
+		<div>
+			<h4>About</h4>
+			<ul>
+				<li><a href="#">About</a></li>
+				<li><a href="#">Contact</a></li>
+				<li><a href="#">Subscribe</a></li>
+				<li><a href="#">RSS feed</a></li>
+				<li><a href="#">Privacy</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="cc-footer-bar">
+		&copy; 2026 Erik Olsen · California Curated · All rights reserved.
+	</div>
+</footer>
+
+</body>
+</html>
