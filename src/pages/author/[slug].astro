@@ -37,6 +37,24 @@ const description = `Articles by ${author.name} for California Curated: reportin
 <html lang="en">
 	<head>
 		<BaseHead title={author.name} description={description} image={author.photo} />
+		<script type="application/ld+json" set:html={JSON.stringify({
+			'@context': 'https://schema.org',
+			'@type': 'Person',
+			name: author.name,
+			url: `https://californiacurated.com/author/${author.slug}/`,
+			image: `https://californiacurated.com${author.photo}`,
+			jobTitle: 'Journalist',
+			description: author.bio,
+			worksFor: {
+				'@type': 'Organization',
+				name: 'California Curated',
+				url: 'https://californiacurated.com',
+			},
+			sameAs: [
+				'https://substack.com/@californiacurated',
+				'https://twitter.com/ScienceWeekly',
+			],
+		})} />
 	</head>
 	<body>
 		<Header />

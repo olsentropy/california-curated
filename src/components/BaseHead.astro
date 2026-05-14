@@ -66,23 +66,52 @@ const twCreator = twHandle(SITE_TWITTER_CREATOR);
 {twSite && <meta name="twitter:site" content={twSite} />}
 {twCreator && <meta name="twitter:creator" content={twCreator} />}
 
-<!-- WebSite structured data — enables Google Sitelinks search box and
-     establishes the site entity for Knowledge Graph purposes. -->
-<script type="application/ld+json" set:html={JSON.stringify({
-	'@context': 'https://schema.org',
-	'@type': 'WebSite',
-	name: SITE_TITLE,
-	url: 'https://californiacurated.com',
-	description: 'Independent journalism on California\'s natural world: marine biology, geology, wildlife, and the science of the Golden State.',
-	potentialAction: {
-		'@type': 'SearchAction',
-		target: {
-			'@type': 'EntryPoint',
-			urlTemplate: 'https://californiacurated.com/search?q={search_term_string}',
+<!-- Structured data: WebSite + NewsMediaOrganization entities.
+     WebSite enables the Google Sitelinks search box.
+     NewsMediaOrganization signals to Google News that this is a legitimate
+     news publisher with editorial standards. -->
+<script type="application/ld+json" set:html={JSON.stringify([
+	{
+		'@context': 'https://schema.org',
+		'@type': 'WebSite',
+		name: SITE_TITLE,
+		url: 'https://californiacurated.com',
+		description: 'Independent journalism on California\'s natural world: marine biology, geology, wildlife, and the science of the Golden State.',
+		potentialAction: {
+			'@type': 'SearchAction',
+			target: {
+				'@type': 'EntryPoint',
+				urlTemplate: 'https://californiacurated.com/search?q={search_term_string}',
+			},
+			'query-input': 'required name=search_term_string',
 		},
-		'query-input': 'required name=search_term_string',
 	},
-})} />
+	{
+		'@context': 'https://schema.org',
+		'@type': 'NewsMediaOrganization',
+		name: 'California Curated',
+		url: 'https://californiacurated.com',
+		logo: {
+			'@type': 'ImageObject',
+			url: 'https://californiacurated.com/icon-512.png',
+			width: 512,
+			height: 512,
+		},
+		foundingDate: '2019',
+		description: 'Independent journalism on California\'s natural world: marine biology, geology, wildlife, kelp forests, the San Andreas Fault, the Sierra Nevada, the Mojave Desert, condors, redwoods, drought, fire ecology, and the science of the Golden State.',
+		sameAs: [
+			'https://twitter.com/ScienceWeekly',
+			'https://substack.com/@californiacurated',
+			'https://ko-fi.com/californiacurated',
+		],
+		contactPoint: {
+			'@type': 'ContactPoint',
+			contactType: 'editorial',
+			url: 'https://californiacurated.com/contact',
+		},
+		publishingPrinciples: 'https://californiacurated.com/about',
+	},
+])} />
 
 <!-- Google AdSense loader. Manual placement only — Auto Ads must remain
      OFF in the AdSense dashboard to keep the layout predictable. Specific

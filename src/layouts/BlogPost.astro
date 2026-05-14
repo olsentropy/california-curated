@@ -34,6 +34,17 @@ const related =
 		? await getRelatedPosts(currentId, categories ?? [], 4)
 		: [];
 
+// BreadcrumbList schema — helps Google understand site hierarchy.
+const breadcrumbLd = {
+	'@context': 'https://schema.org',
+	'@type': 'BreadcrumbList',
+	itemListElement: [
+		{ '@type': 'ListItem', position: 1, name: 'Home', item: 'https://californiacurated.com/' },
+		{ '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://californiacurated.com/blog/' },
+		{ '@type': 'ListItem', position: 3, name: title, item: new URL(Astro.url.pathname, Astro.site).toString() },
+	],
+};
+
 // JSON-LD structured data for this article (NewsArticle schema).
 // Helps Google show rich results with image, date, and author.
 const canonicalURL = new URL(Astro.url.pathname, Astro.site).toString();
@@ -79,6 +90,7 @@ const authorHref = author === SITE_AUTHOR ? `/author/${SITE_AUTHOR_SLUG}/` : und
 		<meta property="article:published_time" content={pubDate.toISOString()} />
 		{updatedDate && <meta property="article:modified_time" content={updatedDate.toISOString()} />}
 		<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
+		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
 	</head>
 	<body>
 		<Header />
