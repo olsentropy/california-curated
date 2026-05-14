@@ -20,11 +20,46 @@ export const SITE_TWITTER_CREATOR = 'ScienceWeekly';
 // Magazine sections (used in nav and homepage rails). Order matters — this is
 // what shows up on the top nav. Map each to one or more imported categories.
 export const SECTIONS = [
-	{ slug: 'animals', label: 'Animals', categories: ['animals', 'birds'] },
-	{ slug: 'geology-earthquakes', label: 'Geology', categories: ['geology-and-earthquakes'] },
-	{ slug: 'ocean-science', label: 'Oceans', categories: ['marine-science'] },
-	{ slug: 'climate-change', label: 'Climate', categories: ['climate-change'] },
-	{ slug: 'plants', label: 'Plants', categories: ['horticulture'] },
-	{ slug: 'space', label: 'Space', categories: ['space'] },
-	{ slug: 'science-history', label: 'Science History', categories: ['history-of-science'] },
+	{
+		slug: 'animals',
+		label: 'Animals',
+		categories: ['animals', 'birds'],
+		description: 'California wildlife stories: mountain lions, condors, dolphins, sea otters, elephant seals, migratory birds, and the extraordinary diversity of animal life across the Golden State.',
+	},
+	{
+		slug: 'geology-earthquakes',
+		label: 'Geology',
+		categories: ['geology-and-earthquakes'],
+		description: 'The deep geology of California: the San Andreas Fault, plate tectonics, earthquakes, the Sierra Nevada, volcanic activity, and the ancient forces that shaped the landscape of the Golden State.',
+	},
+	{
+		slug: 'ocean-science',
+		label: 'Oceans',
+		categories: ['marine-science'],
+		description: 'California\'s ocean world: kelp forests, the California Current, Monterey Canyon, deep-sea creatures, marine mammals, whale migration, and the oceanography of the Pacific Coast.',
+	},
+	{
+		slug: 'climate-change',
+		label: 'Climate',
+		categories: ['climate-change'],
+		description: 'Climate change and California: drought, wildfire ecology, snowpack, sea level rise, desalination, and the science behind the environmental challenges facing the Golden State.',
+	},
+	{
+		slug: 'plants',
+		label: 'Plants',
+		categories: ['horticulture'],
+		description: 'California\'s remarkable plant life: giant sequoias, ancient bristlecone pines, Joshua trees, native oaks, kelp, wildflowers, and the botanical wonders of one of the world\'s most biodiverse regions.',
+	},
+	{
+		slug: 'space',
+		label: 'Space',
+		categories: ['space'],
+		description: 'Space science from California: JPL, Caltech, SLAC, NASA missions, telescopes, asteroid exploration, and the Golden State\'s outsized role in humanity\'s exploration of the cosmos.',
+	},
+	{
+		slug: 'science-history',
+		label: 'Science History',
+		categories: ['history-of-science'],
+		description: 'The history of science in California: Caltech, UC Berkeley, Scripps, the Manhattan Project, plate tectonics, the discovery of the Richter scale, and the people who transformed our understanding of the world.',
+	},
 ] as const;

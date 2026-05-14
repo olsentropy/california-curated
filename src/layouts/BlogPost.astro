@@ -91,6 +91,7 @@ const authorHref = author === SITE_AUTHOR ? `/author/${SITE_AUTHOR_SLUG}/` : und
 		{updatedDate && <meta property="article:modified_time" content={updatedDate.toISOString()} />}
 		<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
 		<script type="application/ld+json" set:html={JSON.stringify(breadcrumbLd)} />
+		{hero && <link rel="preload" as="image" href={hero} />}
 	</head>
 	<body>
 		<Header />
