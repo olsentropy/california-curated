@@ -1,6 +1,6 @@
 ---
 title: "Black Gold Beach or How Oil Transformed Long Beach and Built the Southern California Economy"
-description: "Southern California is best known for its sun-soaked…"
+description: "How early oil discoveries turned Long Beach into one of Southern California's wealthiest cities — and permanently shaped the region's economy and coastline."
 pubDate: 2024-05-01
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/04/oil-fields-1.png"
 wpId: 3090

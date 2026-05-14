@@ -1,6 +1,6 @@
 ---
 title: "The Enduring Legacy of Hydraulic Mining in California"
-description: "While the gold rush was an incredible boon for California, hydraulic mining’s environmental toll—eroded hillsides and choked rivers—remains a stark reminder of the cost of progress. Support…"
+description: "California's Gold Rush-era hydraulic mining reshaped entire mountains and choked rivers with debris. Its environmental legacy is still visible in the Sierra Nevada foothills today."
 pubDate: 2023-06-07
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/06/grex-hydraulicmining.jpg"
 wpId: 2041

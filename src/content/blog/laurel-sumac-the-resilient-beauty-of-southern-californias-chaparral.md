@@ -1,6 +1,6 @@
 ---
 title: "Laurel Sumac, the Resilient Beauty of Southern California’s Chaparral"
-description: "Here’s another article exploring some of California’s native plants. With a remarkable…"
+description: "Laurel sumac is one of Southern California's most resilient native shrubs — a chaparral cornerstone that shelters wildlife, survives fire, and thrives where other plants struggle."
 pubDate: 2024-12-23
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/12/laurel-sumac-1.jpg"
 wpId: 3521

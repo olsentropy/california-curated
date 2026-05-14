@@ -1,6 +1,6 @@
 ---
 title: "California’s Precarious Future and the Promise—and Limits—of Desalination"
-description: "Visibly low water conditions at Shasta Lake in Shasta County, on October 13, 2022. Andrew Innerarity / California Department of Water Resources. Water, water, every where, nor any drop to…"
+description: "As drought becomes California's new normal, desalination offers a tantalizing solution — but the technology comes with serious costs and limits that could reshape the state's water future."
 pubDate: 2025-08-20
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/12/2022_10_13_ai_0051_shasta_lake_levels.jpg"
 wpId: 6361

@@ -1,6 +1,6 @@
 ---
 title: "Clair Patterson: The little-known California scientist who may have saved millions of lives."
-description: "At Caltech, Clair Patterson’s relentless determination to understand the health impacts of atmospheric lead changed the world for the better."
+description: "The Caltech geologist who proved leaded gasoline was poisoning all of humanity — and then spent decades fighting the oil industry to get it removed from the air we breathe."
 pubDate: 2021-11-08
 heroImage: "https://californiacurated.com/wp-content/uploads/2021/08/d3fe6-10.41-77.jpg"
 wpId: 940

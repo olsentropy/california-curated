@@ -1,6 +1,6 @@
 ---
 title: "Ancient Bristlecone Pines by Drone"
-description: "Last week we had the opportunity to head up Highway 395 into Big Pine where we made a left up to the Ancient Bristlecone Pine Forest . Because of the coronavirus, the place was empty. Not a soul to…"
+description: "The Ancient Bristlecone Pine Forest in California's White Mountains is home to the oldest living trees on Earth — some over 5,000 years old. Here's what a drone reveals from above."
 pubDate: 2020-06-11
 heroImage: "https://californiacurated.com/wp-content/uploads/2021/08/8b020-bristlecone.png"
 wpId: 1437

@@ -1,6 +1,6 @@
 ---
 title: "California is a dolphin paradise"
-description: "A Pacific White-Sided Dolphin swims alongside a boat off Newport Beach, California For those who are fortunate enough to live near the coast of California, Dolphin sightings are a frequent delight.…"
+description: "More than a dozen dolphin species swim California's waters, making the state one of the best places on Earth to spot wild dolphins. Here's what draws them to our coast."
 pubDate: 2023-02-13
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/02/img_3298.jpg"
 wpId: 1791

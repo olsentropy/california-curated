@@ -1,6 +1,6 @@
 ---
 title: "Tejon Pass is a Journey Through Time, Terrain, and Tectonics"
-description: "There’s a drive that I’ve done many times where I tend to look around…"
+description: "Tejon Pass — the dramatic gateway between the LA Basin and the Central Valley — is where the San Andreas Fault, ancient sea floors, and millions of years of California geology converge."
 pubDate: 2023-08-04
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/grapevine-and-i5.jpg"
 wpId: 2367

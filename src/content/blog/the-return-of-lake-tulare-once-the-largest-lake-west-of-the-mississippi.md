@@ -1,6 +1,6 @@
 ---
 title: "The return of Lake Tulare - once the largest lake West of the Mississippi"
-description: "The massive atmospheric snowstorms that pummeled California this year have been a boon to ski slopes throughout the Sierra Nevada mountains. But the rains have had an unusual result: The torrents of…"
+description: "Lake Tulare was once the largest freshwater lake west of the Mississippi — until it was drained for farmland. Here's the remarkable story of its brief and surprising return."
 pubDate: 2023-04-18
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/04/tulare.jpeg"
 wpId: 1933

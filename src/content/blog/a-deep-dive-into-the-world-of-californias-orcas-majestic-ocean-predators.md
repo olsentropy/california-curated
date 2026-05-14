@@ -1,6 +1,6 @@
 ---
 title: "A Deep Dive into the World of California’s Orcas: Majestic Ocean Predators"
-description: "The marine ecosystem of California is both vibrant and diverse, boasting an array of majestic creatures, from the smallest microorganisms to the most massive marine mammals. One of the ocean’s most…"
+description: "Orcas visit California waters more than most people realize. Here's what science knows about the hunting strategies, social bonds, and movements of California's killer whales."
 pubDate: 2023-06-16
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/06/whale-m.jpg"
 wpId: 2101

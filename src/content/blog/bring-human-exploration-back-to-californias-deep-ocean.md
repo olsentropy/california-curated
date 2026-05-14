@@ -1,6 +1,6 @@
 ---
 title: "Bring Human Exploration Back to California’s Deep Ocean"
-description: "It’s time for California to put…"
+description: "California's deep ocean remains one of the least explored places on Earth. Here's why it's time to send humans back down — and what we stand to discover."
 pubDate: 2025-08-15
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/08/submersible-1.jpg"
 wpId: 6314

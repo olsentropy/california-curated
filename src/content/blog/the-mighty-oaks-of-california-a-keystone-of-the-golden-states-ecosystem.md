@@ -1,6 +1,6 @@
 ---
 title: "The Mighty Oaks of California Are a Keystone of the Golden State’s Ecosystem"
-description: "Support California Curated by buying us a coffee? Oak trees hold a profound presence in the landscape of California, constituting a living link between the state’s rich biodiversity and cultural…"
+description: "California's native oak trees support more wildlife than almost any other plant in the state. Here's why oaks are the unsung keystones of the Golden State's ecosystem."
 pubDate: 2024-08-22
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/08/oak-tree-1.jpg"
 wpId: 2029
