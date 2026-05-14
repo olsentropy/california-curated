@@ -52,5 +52,6 @@ jobs:
           else
             git add src/data/news.json
             git commit -m "News: refresh headlines [skip ci]"
+            git pull --rebase origin main
             git push
           fi
