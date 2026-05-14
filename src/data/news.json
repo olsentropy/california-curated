@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-05-13T21:13:45.197Z",
+	"lastUpdated": "2026-05-14T01:50:00.047Z",
 	"items": [
+		{
+			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
+			"url": "https://www.caltech.edu/about/news/caltech-affiliated-students-awarded-2026-hertz-fellowships",
+			"source": "Caltech",
+			"publishedAt": "2026-05-13T22:03:52.994Z"
+		},
+		{
+			"headline": "Five takeaways from UC Berkeley's new survey on psychedelics in society",
+			"url": "https://psychedelics.berkeley.edu/five-big-takeaways-2025-uc-berkeley-psychedelics-survey/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-13T21:22:51.000Z"
+		},
 		{
 			"headline": "Heavier storms and longer dry spells are drying California and the West",
 			"url": "https://www.latimes.com/environment/story/2026-05-13/rainfall-study",
@@ -20,6 +32,30 @@
 			"publishedAt": "2026-05-13T12:00:00.000Z"
 		},
 		{
+			"headline": "New Gateway building creates dedicated campus hub for AI, computing",
+			"url": "https://news.berkeley.edu/2026/05/13/new-gateway-building-creates-dedicated-campus-hub-for-ai-computing/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-13T15:00:00.000Z"
+		},
+		{
+			"headline": "Two UC Berkeley scholars elected to the American Philosophical Society",
+			"url": "https://news.berkeley.edu/2026/05/13/two-uc-berkeley-scholars-elected-to-the-american-philosophical-society/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-13T17:20:41.000Z"
+		},
+		{
+			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
+			"url": "https://www.latimes.com/california/story/2026-05-13/newsom-to-propose-fund-to-help-california-wildfire-victims-rebuild",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-13T18:00:00.000Z"
+		},
+		{
+			"headline": "L.A. quietly fires its first chief heat officer",
+			"url": "https://www.latimes.com/environment/story/2026-05-12/la-parts-ways-with-its-first-chief-heat-officer",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-12T18:38:26.000Z"
+		},
+		{
 			"headline": "A Greener Route to Making Epoxides",
 			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
 			"source": "Caltech",
@@ -32,10 +68,10 @@
 			"publishedAt": "2026-05-12T10:00:00.000Z"
 		},
 		{
-			"headline": "Most of the U.S. West Will Face Above-Normal Wildfire Risk This Summer",
-			"url": "https://eos.org/articles/most-of-the-u-s-west-will-face-above-normal-wildfire-risk-this-summer",
-			"source": "Eos",
-			"publishedAt": "2026-05-11T13:16:40.000Z"
+			"headline": "Universal Voting-By-Mail Increases Voter Turnout for Both Major Parties",
+			"url": "https://www.caltech.edu/about/news/universal-voting-by-mail-increases-voter-turnout-for-both-major-parties",
+			"source": "Caltech",
+			"publishedAt": "2026-05-11T21:11:43.551Z"
 		},
 		{
 			"headline": "Oil rig off the SoCal coast catches fire; 'no immediate threat' to environment, officials say",
@@ -44,10 +80,22 @@
 			"publishedAt": "2026-05-11T18:43:51.000Z"
 		},
 		{
-			"headline": "Earthquake swarm shakes Imperial County with 4.7 magnitude quake reported",
-			"url": "https://www.latimes.com/california/story/2026-05-10/earthquake-swarm-shakes-imperial-county-magnitude-4-7-quake-reported",
+			"headline": "Hantavirus fears heighten with 4 Californians exposed to the disease. Is the alarm warranted?",
+			"url": "https://www.latimes.com/california/story/2026-05-11/hantavirus-fears-heighten-with-4-californians-exposed-to-disease",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-10T17:55:00.000Z"
+			"publishedAt": "2026-05-11T23:00:48.000Z"
+		},
+		{
+			"headline": "Most of the U.S. West Will Face Above-Normal Wildfire Risk This Summer",
+			"url": "https://eos.org/articles/most-of-the-u-s-west-will-face-above-normal-wildfire-risk-this-summer",
+			"source": "Eos",
+			"publishedAt": "2026-05-11T13:16:40.000Z"
+		},
+		{
+			"headline": "2026 University Medal finalists: Eyes on the stars, feet on the ground",
+			"url": "https://news.berkeley.edu/2026/05/11/2026-university-medal-finalists-eyes-on-the-stars-feet-on-the-ground/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-11T16:31:36.000Z"
 		},
 		{
 			"headline": "After exile, California tribes could help oversee ancestral redwoods again",
@@ -56,16 +104,10 @@
 			"publishedAt": "2026-05-10T10:00:00.000Z"
 		},
 		{
-			"headline": "'We're dry:' The new U.S. Wildland Fire Service prepares for extreme fire season",
-			"url": "https://www.npr.org/2026/05/09/nx-s1-5804693/prevention-wildfires-firefighters-vegetation-wildland-fire-service",
-			"source": "NPR Science",
-			"publishedAt": "2026-05-09T19:03:44.000Z"
-		},
-		{
-			"headline": "Hantavirus fears heighten with 4 Californians exposed to the disease. Is the alarm warranted?",
-			"url": "https://www.latimes.com/california/story/2026-05-11/hantavirus-fears-heighten-with-4-californians-exposed-to-disease",
+			"headline": "Earthquake swarm shakes Imperial County with 4.7 magnitude quake reported",
+			"url": "https://www.latimes.com/california/story/2026-05-10/earthquake-swarm-shakes-imperial-county-magnitude-4-7-quake-reported",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-11T23:00:48.000Z"
+			"publishedAt": "2026-05-10T17:55:00.000Z"
 		},
 		{
 			"headline": "Californian exposed to hantavirus aboard cruise ship resides in Bay Area, officials say",
@@ -74,22 +116,34 @@
 			"publishedAt": "2026-05-10T20:56:12.000Z"
 		},
 		{
+			"headline": "Amazon halts high-speed e-bike sales in California after fatal crashes",
+			"url": "https://www.latimes.com/california/story/2026-05-10/amazon-removes-high-speed-e-bikes-following-fatal-collisions",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-10T23:21:26.000Z"
+		},
+		{
+			"headline": "'We're dry:' The new U.S. Wildland Fire Service prepares for extreme fire season",
+			"url": "https://www.npr.org/2026/05/09/nx-s1-5804693/prevention-wildfires-firefighters-vegetation-wildland-fire-service",
+			"source": "NPR Science",
+			"publishedAt": "2026-05-09T19:03:44.000Z"
+		},
+		{
 			"headline": "Scientists split gentoo penguins into four species, one totally new to science. Three of them are already threatened.",
 			"url": "https://news.berkeley.edu/2026/05/08/scientists-split-gentoo-penguins-into-four-species-one-totally-new-to-science-three-of-them-are-already-threatened/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-08T15:40:45.000Z"
 		},
 		{
+			"headline": "L.A.'s long-awaited subway under Wilshire Boulevard opens, linking Beverly Hills to downtown",
+			"url": "https://www.latimes.com/california/story/2026-05-08/l-a-s-long-awaited-subway-under-wilshire-boulevard-opens-linking-beverly-hills-to-downtown",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-08T18:02:22.000Z"
+		},
+		{
 			"headline": "Bay Nature's 2026 Summer Guide",
 			"url": "https://baynature.org/2026/05/08/explore/summer-guide-2026/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-09T01:20:46.000Z"
-		},
-		{
-			"headline": "Universal Voting-By-Mail Increases Voter Turnout for Both Major Parties",
-			"url": "https://www.caltech.edu/about/news/universal-voting-by-mail-increases-voter-turnout-for-both-major-parties",
-			"source": "Caltech",
-			"publishedAt": "2026-05-11T21:11:43.551Z"
 		}
 	]
 }
