@@ -1,6 +1,6 @@
 ---
 title: "Western Fence Lizard: California’s Blue Belly Is Evolving in Cities"
-description: "California’s western fence lizard, the iconic blue belly, is evolving to thrive in cities — a backyard reptile quietly rewriting urban biology."
+description: "Meet California’s western fence lizard — the blue-bellied reptile found on fences, rocks, and trails across the state. Here’s the science behind this ubiquitous backyard lizard."
 pubDate: 2024-10-08
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/04/western-fence-lizard-in-california.jpg"
 wpId: 1927

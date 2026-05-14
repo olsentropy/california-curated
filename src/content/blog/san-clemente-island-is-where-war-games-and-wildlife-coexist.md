@@ -1,6 +1,6 @@
 ---
 title: "San Clemente Island is Where War Games and Wildlife Coexist"
-description: "San Clemente Island looks like a long volcanic ridge from offshore, but it has been one of the most important and least visible military landscapes in California for almost a century."
+description: "San Clemente Island is a remote, Navy-controlled island off Southern California where live-fire military training zones share rugged terrain with rare birds, endemic foxes, and ancient Tongva sites."
 pubDate: 2025-11-14
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/11/loggerhead-shrike.jpg"
 wpId: 6715

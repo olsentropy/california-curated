@@ -1,6 +1,6 @@
 ---
 title: "The Pacific Coast Highway (PCH): Icon of American Scenic Roadways"
-description: "The Pacific Coast Highway took decades to complete fully, with different sections being opened to the public at various times."
+description: "The Pacific Coast Highway — California's iconic Highway 1 — winds 655 miles along one of the most dramatic coastlines on Earth. Here's its history, geology, and what makes it legendary."
 pubDate: 2024-05-21
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/05/pch.jpg"
 wpId: 3157
