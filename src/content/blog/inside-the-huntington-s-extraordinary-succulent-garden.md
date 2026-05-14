@@ -11,7 +11,7 @@ categories:
 tags:
   - succulents, desert plants, Huntington Desert Garden, The Huntington, San Marino, California plants, cactus, cacti, succulent biology, plant adaptation, drought tolerant plants, CAM photosynthesis, botanical gardens, rare plants, endangered succulents, plant poaching, desert ecology, xerophytes, agave, aloe, euphorbia, botanical conservation, California gardens, desert garden
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 Fifteen years ago, if you had asked me about the plants in my yard, I probably could have named one or two. But as I’ve grown older, with a family and a home of my own, I’ve started paying more attention to the living things around me. Over that time, I’ve developed a particular fascination with succulents. The sheer diversity of their forms, colors, patterns and textures blows me away. I’ve long thought James Cameron could create an incredible alien world simply by studying succulent plants.
@@ -36,7 +36,7 @@ The Desert Garden spans over 10 acres, and is one of the oldest and largest coll
 
 [![](/wp-content/uploads/cms/huntington-succulent-4.jpg)](https://substackcdn.com/image/fetch/$s_!wDGp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa9161d84-79b5-45f4-aacd-539ba29e37b5_2000x1125.jpeg)
 
-_Succulent plants (Sedum rubrotinctum) at_ [_The Huntington Library, Art Museum and Botanical Gardens_](https://huntington.org/) _(Photo: Erik Olsen)_
+_Succulent plants (Sedum rubrotinctum) at__ [_The Huntington Library, Art Museum and Botanical Gardens_](https://huntington.org/) (Photo: Erik Olsen)_
 
 Succulents are not a single plant family, but a form of adaptation. “Basically it’s water-storing tissue and the ability to survive prolonged periods of drought,” says Trager. For example, many species also use a specialized form of photosynthesis known as [CAM metabolism](https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism), opening their pores at night instead of during the heat of the day to conserve water.
 
@@ -50,7 +50,7 @@ The Huntington is one of the institutions on the front lines of this battle agai
 
 [![](/wp-content/uploads/cms/huntington-succulent-2-1.jpg)](https://substackcdn.com/image/fetch/$s_!FTyq!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcde315a1-f26f-46dd-b36a-3ed9c82c28b3_2000x1125.jpeg)
 
-_Aloe bussei in the Desert Garden at the_ [_The Huntington Library, Art Museum and Botanical Gardens_](https://huntington.org/) _(Photo: Erik Olsen)_
+_Aloe bussei in the Desert Garden at the__ [_The Huntington Library, Art Museum and Botanical Gardens_](https://huntington.org/) (Photo: Erik Olsen)_
 
 Trager reported that the garden recently suffered a significant theft involving a species of succulent called [_echeveria_](https://en.wikipedia.org/wiki/Echeveria) , a large genus of flowering plants from the Crassulaceae family, native to the semi-desert regions of Central America, Mexico, and northwestern South America. The Huntington had three documented specimens, each with known provenance, making them especially valuable for scientific research. Two of the three specimens were stolen.
 
@@ -60,7 +60,7 @@ Part of the institution’s response has been to make rare succulents more avail
 
 [![](/wp-content/uploads/cms/huntington-succulent-3.jpg)](https://substackcdn.com/image/fetch/$s_!rg7c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F30fef21c-86c3-47bd-9633-a0b26cbc4696_2000x1125.jpeg)
 
-_I love the various arrangements of succulents in the Desert Garden at_ [_The Huntington Library, Art Museum and Botanical Gardens_](https://huntington.org/) _(Photo: Erik Olsen)_
+_I love the various arrangements of succulents in the Desert Garden at__ [_The Huntington Library, Art Museum and Botanical Gardens_](https://huntington.org/) (Photo: Erik Olsen)_
 
 As one of the country’s leading institutions dedicated to the cultivation and conservation of succulents, The Huntington and Trager feel a responsibility not only to protect these plants, but also to help ensure their survival through education, research, and propagation.
 
@@ -70,7 +70,7 @@ As one of the country’s leading institutions dedicated to the cultivation and 
 
 [![](/wp-content/uploads/cms/huntington%20plant%20sale.webp)](https://substackcdn.com/image/fetch/$s_!WY9t!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc75a754b-dac1-4d4e-93e4-571530fc9a21_900x675.jpeg)
 
-_Succulent plants available to buy at the annual_ [_Cactus and Succulent Show and Sale_](https://huntington.org/event/cactus-and-succulent-show-and-sale)_. (Photo by Sandy Masuo. | © The Huntington Library, Art Museum, and Botanical Gardens.)_
+_Succulent plants available to buy at the annual__ [_Cactus and Succulent Show and Sale_](https://huntington.org/event/cactus-and-succulent-show-and-sale). (Photo by Sandy Masuo. | © The Huntington Library, Art Museum, and Botanical Gardens.)_
 
 Trager points out that since the program began at the Huntington, the garden has distributed over 1,480 species and cultivars, totaling approximately 74,000 plants. Given that many of these plants are endangered, the program functions as a kind of Noah’s Ark, protecting these rare species and helping to ensure their survival for the future.
 
