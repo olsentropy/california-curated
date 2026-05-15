@@ -65,12 +65,6 @@ const sectionRails = SECTIONS.map((s) => {
 				</aside>
 			</section>
 
-			<!-- ====== CALIFORNIA IN THE NEWS ====== -->
-			<NewsRail />
-
-			<!-- ====== AD: HOMEPAGE BANNER ====== -->
-			<AdSlot slot="9618208010" label="homepage-banner" />
-
 			<!-- ====== POPULAR FEATURES ====== -->
 			<section class="features-band">
 				<div class="container features-band-inner">
@@ -91,6 +85,12 @@ const sectionRails = SECTIONS.map((s) => {
 					</article>
 				))}
 			</section>
+
+			<!-- ====== AD: HOMEPAGE BANNER ====== -->
+			<AdSlot slot="9618208010" label="homepage-banner" />
+
+			<!-- ====== CALIFORNIA IN THE NEWS ====== -->
+			<NewsRail />
 
 			<!-- ====== SECTION RAILS ====== -->
 			{sectionRails.map(({ section, posts }) => (
