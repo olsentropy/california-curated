@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-15T06:49:14.767Z",
+	"lastUpdated": "2026-05-15T10:10:48.549Z",
 	"items": [
 		{
 			"headline": "MBARI Postdoctoral Fellow Olívia Soares Pereira named a National Geographic Explorer",
@@ -56,16 +56,16 @@
 			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
 		{
-			"headline": "Five takeaways from UC Berkeley's new survey on psychedelics in society",
-			"url": "https://psychedelics.berkeley.edu/five-big-takeaways-2025-uc-berkeley-psychedelics-survey/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-13T21:22:51.000Z"
-		},
-		{
 			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
 			"url": "https://www.caltech.edu/about/news/caltech-affiliated-students-awarded-2026-hertz-fellowships",
 			"source": "Caltech",
 			"publishedAt": "2026-05-13T22:03:52.994Z"
+		},
+		{
+			"headline": "Five takeaways from UC Berkeley's new survey on psychedelics in society",
+			"url": "https://psychedelics.berkeley.edu/five-big-takeaways-2025-uc-berkeley-psychedelics-survey/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-13T21:22:51.000Z"
 		},
 		{
 			"headline": "Low Snow in Eurasia Linked to Wildfires in California",
@@ -74,28 +74,22 @@
 			"publishedAt": "2026-05-13T13:17:19.000Z"
 		},
 		{
-			"headline": "Heavier storms and longer dry spells are drying California and the West",
-			"url": "https://www.latimes.com/environment/story/2026-05-13/rainfall-study",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-13T14:59:24.000Z"
-		},
-		{
 			"headline": "New Gateway building creates dedicated campus hub for AI, computing",
 			"url": "https://news.berkeley.edu/2026/05/13/new-gateway-building-creates-dedicated-campus-hub-for-ai-computing/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-13T15:00:00.000Z"
 		},
 		{
-			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
-			"url": "https://www.latimes.com/california/story/2026-05-13/newsom-to-propose-fund-to-help-california-wildfire-victims-rebuild",
+			"headline": "Heavier storms and longer dry spells are drying California and the West",
+			"url": "https://www.latimes.com/environment/story/2026-05-13/rainfall-study",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-13T18:00:00.000Z"
+			"publishedAt": "2026-05-13T14:59:24.000Z"
 		},
 		{
-			"headline": "A Greener Route to Making Epoxides",
-			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
-			"source": "Caltech",
-			"publishedAt": "2026-05-12T21:56:00.000Z"
+			"headline": "Photos: Orphaned Monrovia bear cubs on path back to wild after state euthanized their mom",
+			"url": "https://www.latimes.com/california/story/2026-05-13/monrovia-bear-cubs-on-path-back-to-wild-mother-blondie-euthanized",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-13T12:00:00.000Z"
 		},
 		{
 			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
@@ -104,16 +98,10 @@
 			"publishedAt": "2026-05-12T10:00:00.000Z"
 		},
 		{
-			"headline": "Universal Voting-By-Mail Increases Voter Turnout for Both Major Parties",
-			"url": "https://www.caltech.edu/about/news/universal-voting-by-mail-increases-voter-turnout-for-both-major-parties",
+			"headline": "A Greener Route to Making Epoxides",
+			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
 			"source": "Caltech",
-			"publishedAt": "2026-05-11T21:11:43.551Z"
-		},
-		{
-			"headline": "Oil rig off the SoCal coast catches fire; 'no immediate threat' to environment, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-11/oil-platform-fire-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-11T18:43:51.000Z"
+			"publishedAt": "2026-05-12T21:56:00.000Z"
 		},
 		{
 			"headline": "Most of the U.S. West Will Face Above-Normal Wildfire Risk This Summer",
@@ -122,10 +110,34 @@
 			"publishedAt": "2026-05-11T13:16:40.000Z"
 		},
 		{
+			"headline": "Oil rig off the SoCal coast catches fire; 'no immediate threat' to environment, officials say",
+			"url": "https://www.latimes.com/california/story/2026-05-11/oil-platform-fire-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-11T18:43:51.000Z"
+		},
+		{
 			"headline": "Hantavirus fears heighten with 4 Californians exposed to the disease. Is the alarm warranted?",
 			"url": "https://www.latimes.com/california/story/2026-05-11/hantavirus-fears-heighten-with-4-californians-exposed-to-disease",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-11T23:00:48.000Z"
+		},
+		{
+			"headline": "Universal Voting-By-Mail Increases Voter Turnout for Both Major Parties",
+			"url": "https://www.caltech.edu/about/news/universal-voting-by-mail-increases-voter-turnout-for-both-major-parties",
+			"source": "Caltech",
+			"publishedAt": "2026-05-11T21:11:43.551Z"
+		},
+		{
+			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
+			"url": "https://www.latimes.com/california/story/2026-05-13/newsom-to-propose-fund-to-help-california-wildfire-victims-rebuild",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-13T18:00:00.000Z"
+		},
+		{
+			"headline": "Tesla rollover crash sparked Chino Hills fire that forced people from their homes, officials say",
+			"url": "https://www.latimes.com/california/story/2026-05-13/grand-fire-chino-hills-evacuations",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-14T04:11:35.000Z"
 		}
 	]
 }
