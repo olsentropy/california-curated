@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-15T01:47:40.264Z",
+	"lastUpdated": "2026-05-15T06:49:14.767Z",
 	"items": [
 		{
 			"headline": "MBARI Postdoctoral Fellow Olívia Soares Pereira named a National Geographic Explorer",
@@ -12,6 +12,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-14/ten-times-worse-than-benzene-california-updates-its-science-on-two-air-contaminants",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-14T20:00:55.000Z"
+		},
+		{
+			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
+			"url": "https://baynature.org/2026/05/14/conservation/biodiversity/meet-a-newly-named-nudibranch-with-a-unique-approach-to-sex/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-14T17:56:29.000Z"
 		},
 		{
 			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
@@ -32,10 +38,10 @@
 			"publishedAt": "2026-05-14T15:00:00.379Z"
 		},
 		{
-			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
-			"url": "https://baynature.org/2026/05/14/conservation/biodiversity/meet-a-newly-named-nudibranch-with-a-unique-approach-to-sex/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-14T17:56:29.000Z"
+			"headline": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse?",
+			"url": "https://www.latimes.com/california/story/2026-05-14/hantavirus-strikes-cruise-ship-perfect-storm-or-warning-sign",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
 		{
 			"headline": "200,000 Californians create as much power as a nuclear plant to help the grid. Now that's up in the air",
@@ -46,12 +52,6 @@
 		{
 			"headline": "Another Californian was exposed to hantavirus in deadly cruise ship outbreak, officials announce",
 			"url": "https://www.latimes.com/california/story/2026-05-14/fifth-californian-was-exposed-to-hantavirus-on-cruise-ship-officials-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T10:00:00.000Z"
-		},
-		{
-			"headline": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse?",
-			"url": "https://www.latimes.com/california/story/2026-05-14/hantavirus-strikes-cruise-ship-perfect-storm-or-warning-sign",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
@@ -92,6 +92,12 @@
 			"publishedAt": "2026-05-13T18:00:00.000Z"
 		},
 		{
+			"headline": "A Greener Route to Making Epoxides",
+			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
+			"source": "Caltech",
+			"publishedAt": "2026-05-12T21:56:00.000Z"
+		},
+		{
 			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
 			"url": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
 			"source": "Los Angeles Times",
@@ -104,16 +110,22 @@
 			"publishedAt": "2026-05-11T21:11:43.551Z"
 		},
 		{
+			"headline": "Oil rig off the SoCal coast catches fire; 'no immediate threat' to environment, officials say",
+			"url": "https://www.latimes.com/california/story/2026-05-11/oil-platform-fire-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-11T18:43:51.000Z"
+		},
+		{
 			"headline": "Most of the U.S. West Will Face Above-Normal Wildfire Risk This Summer",
 			"url": "https://eos.org/articles/most-of-the-u-s-west-will-face-above-normal-wildfire-risk-this-summer",
 			"source": "Eos",
 			"publishedAt": "2026-05-11T13:16:40.000Z"
 		},
 		{
-			"headline": "A Greener Route to Making Epoxides",
-			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
-			"source": "Caltech",
-			"publishedAt": "2026-05-12T21:56:00.000Z"
+			"headline": "Hantavirus fears heighten with 4 Californians exposed to the disease. Is the alarm warranted?",
+			"url": "https://www.latimes.com/california/story/2026-05-11/hantavirus-fears-heighten-with-4-californians-exposed-to-disease",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-11T23:00:48.000Z"
 		}
 	]
 }
