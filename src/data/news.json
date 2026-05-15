@@ -1,17 +1,23 @@
 {
-	"lastUpdated": "2026-05-15T17:18:25.875Z",
+	"lastUpdated": "2026-05-15T20:46:32.792Z",
 	"items": [
+		{
+			"headline": "Light pollution reshapes predator-prey dynamics at California's urban edge, study finds",
+			"url": "https://news.mongabay.com/2026/05/light-pollution-reshapes-predator-prey-dynamics-at-californias-urban-edge-study-finds/",
+			"source": "Mongabay",
+			"publishedAt": "2026-05-15T19:28:09.000Z"
+		},
+		{
+			"headline": "Three poisoned by mushrooms foraged in California wine country amid 'unprecedented' outbreak",
+			"url": "https://www.latimes.com/california/story/2026-05-15/three-poisoned-by-mushrooms-foraged-in-california-wine-country",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-15T19:26:15.000Z"
+		},
 		{
 			"headline": "Southern California wind forecast: High surf and fire risk this weekend",
 			"url": "https://www.latimes.com/california/story/2026-05-15/windy-la-region-forecast-increases-high-surf-fire-risks-this-weekend",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-15T16:34:28.000Z"
-		},
-		{
-			"headline": "Trump administration readying a plan to impose Colorado River water cuts on Western states",
-			"url": "https://www.latimes.com/environment/story/2026-05-15/colorado-river-trump-administration",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
 			"headline": "After public outcry, Orange County halts herbicide spraying in creeks",
@@ -26,16 +32,22 @@
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
-			"headline": "Two chemicals in everyday California air may pose 'unacceptable' cancer risk, findings suggest",
-			"url": "https://www.latimes.com/environment/story/2026-05-14/ten-times-worse-than-benzene-california-updates-its-science-on-two-air-contaminants",
+			"headline": "Trump administration readying a plan to impose Colorado River water cuts on Western states",
+			"url": "https://www.latimes.com/environment/story/2026-05-15/colorado-river-trump-administration",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T20:00:55.000Z"
+			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
 			"headline": "MBARI Postdoctoral Fellow Olívia Soares Pereira named a National Geographic Explorer",
 			"url": "https://www.mbari.org/news/mbari-postdoctoral-fellow-olivia-soares-pereira-named-a-national-geographic-explorer/",
 			"source": "MBARI",
 			"publishedAt": "2026-05-14T21:40:21.000Z"
+		},
+		{
+			"headline": "Two chemicals in everyday California air may pose 'unacceptable' cancer risk, findings suggest",
+			"url": "https://www.latimes.com/environment/story/2026-05-14/ten-times-worse-than-benzene-california-updates-its-science-on-two-air-contaminants",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-14T20:00:55.000Z"
 		},
 		{
 			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
@@ -86,16 +98,16 @@
 			"publishedAt": "2026-05-13T13:17:19.000Z"
 		},
 		{
+			"headline": "Photos: Orphaned Monrovia bear cubs on path back to wild after state euthanized their mom",
+			"url": "https://www.latimes.com/california/story/2026-05-13/monrovia-bear-cubs-on-path-back-to-wild-mother-blondie-euthanized",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-13T12:00:00.000Z"
+		},
+		{
 			"headline": "Heavier storms and longer dry spells are drying California and the West",
 			"url": "https://www.latimes.com/environment/story/2026-05-13/rainfall-study",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-13T14:59:24.000Z"
-		},
-		{
-			"headline": "New Gateway building creates dedicated campus hub for AI, computing",
-			"url": "https://news.berkeley.edu/2026/05/13/new-gateway-building-creates-dedicated-campus-hub-for-ai-computing/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-13T15:00:00.000Z"
 		},
 		{
 			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
@@ -110,18 +122,6 @@
 			"publishedAt": "2026-05-13T21:22:51.000Z"
 		},
 		{
-			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
-			"url": "https://www.latimes.com/california/story/2026-05-13/newsom-to-propose-fund-to-help-california-wildfire-victims-rebuild",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-13T18:00:00.000Z"
-		},
-		{
-			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
-			"url": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-12T10:00:00.000Z"
-		},
-		{
 			"headline": "A Greener Route to Making Epoxides",
 			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
 			"source": "Caltech",
@@ -134,16 +134,16 @@
 			"publishedAt": "2026-05-12T18:38:26.000Z"
 		},
 		{
+			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
+			"url": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-12T10:00:00.000Z"
+		},
+		{
 			"headline": "Hantavirus fears heighten with 4 Californians exposed to the disease. Is the alarm warranted?",
 			"url": "https://www.latimes.com/california/story/2026-05-11/hantavirus-fears-heighten-with-4-californians-exposed-to-disease",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-11T23:00:48.000Z"
-		},
-		{
-			"headline": "Universal Voting-By-Mail Increases Voter Turnout for Both Major Parties",
-			"url": "https://www.caltech.edu/about/news/universal-voting-by-mail-increases-voter-turnout-for-both-major-parties",
-			"source": "Caltech",
-			"publishedAt": "2026-05-11T21:11:43.551Z"
 		}
 	]
 }
