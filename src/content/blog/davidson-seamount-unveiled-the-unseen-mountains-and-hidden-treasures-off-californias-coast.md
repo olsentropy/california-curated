@@ -13,7 +13,7 @@ author: "Erik Olsen"
 **California’s coast is home to dozens of seamounts, each harboring diverse ecosystems and geological mysteries waiting to be explored.**
 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 If you've ever looked out at the vastness of the ocean, you might think it's a uniformly barren and flat landscape below the tranquil or tempestuous waves. But you'd be mistaken. Imagine for a moment a hidden world of underwater mountains, volcanoes that never broke the water's surface, all lying in the mysterious depths of the ocean. These enigmatic formations are known as [seamounts](<https://oceanexplorer.noaa.gov/facts/seamounts.html>), and off the coast of California, they constitute an environment as fascinating as it is vital. 
 

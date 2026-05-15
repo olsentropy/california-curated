@@ -13,7 +13,7 @@ author: "Erik Olsen"
 ### Part of an [ongoing series](<https://californiacurated.com/2020/01/17/the-majesty-and-mystery-of-californias-bristlecone-pine/>) about California's unique and remarkable trees.
 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 California is a state of superlatives. The [oldest living thing](<https://californiacurated.com/2020/01/17/the-majesty-and-mystery-of-californias-bristlecone-pine/>) lives here. The [largest animal](<https://www.youtube.com/watch?v=bhVfHXAjjnw>) in the history of the world swims off our shores. The hottest temperature ever recorded (134°F / 57°C) baked visitors at [Death Valley's Furnace Creek](<https://en.wikipedia.org/wiki/Highest_temperature_recorded_on_Earth>) back in 1913 (and it has been [nearly as hot](<https://yaleclimateconnections.org/2021/07/death-valley-california-breaks-the-all-time-world-heat-record-for-the-second-year-in-a-row/>) recently) California also boasts the[ highest point](<https://www.nps.gov/seki/planyourvisit/whitney.htm>) in the contiguous United States and arguably [the tallest waterfall](<https://geology.com/records/highest-waterfall.shtml>) in the country.
 
@@ -106,7 +106,7 @@ The [Archangel Ancient Tree Archive](<https://www.ancienttreearchive.org/>), an 
 
 Preserving and protecting what's left of these amazing organisms should be a priority in California. These trees are not only part of the state's rich natural legacy, but they offer ample opportunities for tourism and strengthening the economies of the regions where they grow. It's hard to visit [Redwood National and State Parks](<https://www.nps.gov/redw/index.htm>) or [Sequoia & Kings Canyon National Parks](<https://www.nps.gov/seki/index.htm>) and to come away with anything but awe at these magnificent organisms. California is special, and we are blessed to have these trees and the places where they grow in our state. 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 **Other resources:**
 

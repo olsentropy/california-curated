@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 _**Update (February 2025):** The Ivanpah Solar Electric Generating System, once a milestone in renewable energy, [now faces possible closure](<https://apnews.com/article/california-solar-energy-ivanpah-birds-tortoises-mojave-6d91c36a1ff608861d5620e715e1141c>). Pacific Gas & Electric has agreed to terminate its contracts, citing the higher cost of Ivanpah’s solar-thermal technology compared to photovoltaics. If approved, two of the plant’s three units could shut down by 2026. Southern California Edison is also considering a contract buyout, adding to uncertainty. Environmental concerns, including bird and tortoise deaths from intense solar radiation, have further complicated Ivanpah’s legacy, reflecting the challenges of large-scale clean energy projects._
 
@@ -93,6 +93,6 @@ Beyond its role in renewable energy, Ivanpah has also found itself at the inters
 
 The next time you're driving to Vegas and spot the three massive, sun-like objects glowing in the desert, give a thought to the immense power—and challenges—of harnessing the sun’s energy in such a dramatic way.
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [by Erik Olsen](<https://erikolsen.com/>)

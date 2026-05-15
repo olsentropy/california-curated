@@ -13,7 +13,7 @@ author: "Erik Olsen"
 ## **Luther Burbank created some of the world's most commercially successful fruits and vegetables, all from his Santa Rosa, California farm.**
 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 _Editor's note: This article is part of an ongoing series about lesser-known Californians who have made a significant impact on the state. California Characters seeks to bring their stories to light, highlighting voices and achievements that history has often overlooked. Through this series, we aim to celebrate the individuals who have shaped California in ways both big and small, ensuring their contributions are recognized and remembered._
 
@@ -54,4 +54,4 @@ Unfortunately, Luther Burbank had a dark side, especially by modern mores. He be
 
 Luther Burbank died after a heart attack and gastrointestinal illness in 1926. His name is known in certain regions of California, in and around Santa Rosa, although if you asked the average person who he was, few would be able to say. The [Luther Burbank Home and Gardens](<https://en.wikipedia.org/wiki/Luther_Burbank_Home_and_Gardens>), in downtown Santa Rosa, are designated as a [National Historic Landmark](<https://en.wikipedia.org/wiki/National_Historic_Landmark>). 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

@@ -14,7 +14,7 @@ author: "Erik Olsen"
 
 Here, the Owens River flows through it, winding south through Owens Valley. ([Erik Olsen](<https://erikolsen.com/>))
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Driving up [Highway 395](<https://en.wikipedia.org/wiki/U.S._Route_395>) toward Mammoth Lakes is one of the most breathtaking road trips in California. The highway winds through the rugged Eastern Sierra, offering stunning views of snow-capped peaks, alpine meadows, and vast chaparral plains. But beneath this dramatic landscape lurks a hidden danger—an ancient volcanic giant that still stirs beneath the surface.
 
@@ -62,4 +62,4 @@ Of course, there remain certain dangers to all this volcanic activity. On April 
 
 Standing at the center of the Long Valley Caldera, surrounded by the remnants of a prehistoric supereruption, offers a profound sense of scale and wonder. The vastness of the caldera, framed by the Sierra Nevada and dotted with geothermal vents, creates a landscape that feels alive yet ancient. It's amazing place to be, both during the day and at night when the stars spread out across the gaping Sierra sky. The ground beneath your feet, shaped by cataclysmic forces, whispers of Earth's power and the quiet persistence of geological time. Yet beneath the surface, the processes that shaped it continue to evolve, as magma slowly shifts and geothermal systems release heat from the planet’s interior. As research continues and technology advances, the Long Valley Caldera will undoubtedly yield further insights into the intricate workings of our planet’s volcanic systems.
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

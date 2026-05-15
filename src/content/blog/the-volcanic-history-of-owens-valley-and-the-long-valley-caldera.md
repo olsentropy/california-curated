@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Driving up [Highway 395](<https://en.wikipedia.org/wiki/U.S._Route_395>) toward Mammoth Lakes is one of the most breathtaking road trips in California. The highway winds through the rugged Eastern Sierra, offering jaw-dropping views of snow-crusted peaks, alpine meadows, and mottled green chaparral plains. But beneath the dramatic landscape lies a hidden danger, an ancient volcanic giant boils beneath the surface.
 
@@ -57,4 +57,4 @@ Of course, Mammoth Mountain does has its geologic dangers—like I said, it’s 
 
 Standing in the middle of the Long Valley Caldera, it’s hard to grasp the scale of what happened here. It’s an extraordinary place to spend time, especially at night, when the Sierra sky is speckled with stars and the valley becomes silent, except for the whisper of the occasional wind gust. The ground beneath your feet is the result of an astonishing geologic event a long time ago, but it’s still active. There are few places quite like it in California. And for a state filled with volcanoes, that’s saying something.
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

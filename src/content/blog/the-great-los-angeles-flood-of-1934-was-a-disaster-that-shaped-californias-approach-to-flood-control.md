@@ -12,7 +12,7 @@ author: "Erik Olsen"
 
 New Year's Eve floodwaters. (LA Times)
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 In early 1934, Southern California experienced one of the most tragic and devastating natural disasters in its history as a populated region: the [Los Angeles flood of 1934](<https://en.wikipedia.org/wiki/Crescenta_Valley_flood_\(1933_and_1934\)#:~:text=More%20than%20400%20homes%20were,of%20mud%2C%20boulders%20and%20debris.>). This flood, largely forgotten today outside of the areas directly affected, struck La Crescenta, Montrose, and other foothill communities with devastating force, reshaping not just the landscape but the way California approached flood management and disaster preparedness. It was one of the deadliest floods in Los Angeles history.
 
@@ -48,4 +48,4 @@ Today, with climate change bringing more extreme weather, Los Angeles is once ag
 
 The 1934 flood serves as a sobering reminder of the dangers posed by sudden, intense rainfall in fire-prone mountainous regions. As California experiences more intense wildfire seasons, the cycle of fire followed by flood continues to be a significant threat. The legacy of the Los Angeles flood of 1934 underscores the delicate balance required in managing natural landscapes and urban expansion and remains a critical part of understanding how communities can—and must—adapt to an unpredictable climate future.
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

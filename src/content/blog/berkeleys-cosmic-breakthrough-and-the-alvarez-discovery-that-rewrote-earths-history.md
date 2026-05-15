@@ -67,6 +67,6 @@ All said, today the [Alvarez hypothesis](<https://en.wikipedia.org/wiki/Alvarez_
 
 Walter and Luis Alvarez’s discovery was a testament to the power of interdisciplinary science and the willingness to follow unconventional ideas. Their pursuit of an extraterrestrial explanation for a terrestrial mystery reshaped paleontology, geology, and astrophysics. What began with a father and son pondering an ancient Italian rock layer ended in a revelation that forever changed how we understand the history of life—and its vulnerability to forces from beyond our world.
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)

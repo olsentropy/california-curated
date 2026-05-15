@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 In the expansive and diverse landscape of California, [many iconic animals](<https://californiacurated.com/category/animals/>) are an integral part of the state's reputation for natural beauty and untamed wilderness. Yet, one particular creature looms larger in the Californian narrative than many others – a species that has been extinct for nearly a century, but lives on as a powerful symbol: the [California Grizzly Bear](<https://en.wikipedia.org/wiki/California_grizzly_bear>) (_Ursus arctos californicus_).
 
@@ -65,4 +65,4 @@ The following year, in 2015, the Center for Biological Diversity initiated a pet
 
 The debate over reintroducing grizzly bears to California continues, balancing ecological restoration goals with concerns about human safety and land use. While the state retains areas that could potentially support grizzlies, the complexities of modern coexistence present significant challenges to reintroduction efforts.
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

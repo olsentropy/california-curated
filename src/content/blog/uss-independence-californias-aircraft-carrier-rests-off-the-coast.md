@@ -13,7 +13,7 @@ author: "Erik Olsen"
 ## **From Battlefront to Atomic Legacy: The Journey of the USS Independence to Its Final Resting Place off Northern California**
 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 The waters off California’s coast are scattered with relics of wartime history, each telling its own story of conflict and survival. Among these wrecks is the USS _Independence_ , a WWII aircraft carrier whose journey took it from the heights of naval warfare to the depths of nuclear experimentation. Today, it lies as an underwater monument to both wartime heroics and the nascent atomic age.
 
@@ -56,4 +56,4 @@ Ultimately, the USS _Independence_ is more than just a sunken warship—it is a 
 
 [![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

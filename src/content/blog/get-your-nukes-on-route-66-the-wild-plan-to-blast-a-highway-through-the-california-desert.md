@@ -13,7 +13,7 @@ author: "Erik Olsen"
 _...and they shall beat their swords into plowshares, and their spears into pruning hooks: nation shall not lift up sword against nation, neither shall they learn war any more. Micah 4:3_
 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 In the early 1960s, the U.S. government seriously considered using nuclear bombs to solve a civil engineering challenge: building a highway bypass through the rugged terrain of California’s [Mojave Desert](<https://californiacurated.com/tag/mojave-desert/>). Dubbed [Project Carryall](<https://en.wikipedia.org/wiki/Project_Carryall>), the plan would have involved detonating a series of nuclear devices to blast a path for a stretch of highway and railroad intended to reroute Route 66 and ease congestion. The idea sounds absurd today, but at the time, the U.S. was actively exploring ways to use nuclear energy for peaceful purposes.
 

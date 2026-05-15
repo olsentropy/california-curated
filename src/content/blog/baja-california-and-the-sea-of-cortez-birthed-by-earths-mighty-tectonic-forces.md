@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Geological forces are always at work, reshaping the planet, just usually on a timescale too slow for us to notice. But over the long haul, they can completely transform places we think of as fixed and familiar, like Southern California and northern Mexico. I’ve been down to Baja a bunch of times, including a few unforgettable multi-day kayak trips in the [Sea of Cortez](<https://ecomigrations.com/ultimate-guides-to-la-paz-baja-mexico/oceanography-of-the-sea-of-cortez-and-la-paz/>). Paddling past sheer cliffs and sleeping on empty beaches under the stars, it’s easy to feel like the landscape has been frozen in time. But that sense of permanence? It’s an illusion.
 
@@ -53,4 +53,4 @@ As the North American and Pacific Plates continue their slow-motion dance, the a
 
 The Sea of Cortez stands at a crossroads, shaped by both human impact and tectonic drift. Baja California is slowly pulling away from mainland Mexico, a process that could one day create a vast inland sea and dramatically reshape the region. While no one alive today will witness the full transformation, its ultimate impacts could be extreme—redrawing coastlines, shifting ecosystems, and isolating parts of southern California and Mexico in ways we can scarcely imagine.
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

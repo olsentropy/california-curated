@@ -13,7 +13,7 @@ author: "Erik Olsen"
 ### California's citrus industry confronted a deadly challenge, leading to a groundbreaking innovation in pest control.
 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 In the sun-drenched orchards of late 19th-century California, a crisis was unfolding that threatened to decimate the state's burgeoning citrus industry. The culprit was a small sap-sucking insect native to Australia called the [cottony cushion scale](<https://en.wikipedia.org/wiki/Icerya_purchasi>) (_Icerya purchasi_). First identified in New Zealand in 1878, this pest had made its way to California by the early 1880s, wreaking havoc on citrus groves. The pest is believed to have arrived in the United States through the global trade of plants, a common vector for invasive species during the 19th century. As horticulture expanded globally, ornamental plants and crops were frequently shipped between countries without the quarantine measures we have today. Once established in the mild climate of California, the cottony cushion scale found ideal conditions to thrive, spreading rapidly and wreaking havoc on the citrus industry.
 
@@ -59,4 +59,4 @@ Visit the [**California Curated store on Etsy**](<https://www.etsy.com/shop/Cali
 
 The story of the Vedalia beetle and the cottony cushion scale highlights human ingenuity and the effectiveness of nature's own checks and balances. It stands as an early example of integrated pest management, a method that continues to grow and adapt to meet modern agricultural challenges. This successful intervention underscores the importance of sustainable practices in protecting both our food systems and the environment.
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

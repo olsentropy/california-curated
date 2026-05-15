@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 California is a land of endless natural wonder. From towering redwoods to sun-soaked deserts, the state offers an extraordinary tapestry of ecosystems teeming with life. Every day, we coexist with a fascinating array of plants and animals, many of which we might pass by without a second thought. But these creatures and plants play vital roles in the environment and tell remarkable stories of survival, adaptation, and beauty. Let’s pause for a moment to look closer at a few of them, starting with the elusive and captivating bush toyon—a plant that’s as iconic as it is intriguing.  
   
@@ -39,4 +39,4 @@ The toyon's hard, dense wood was used to make various tools, such as digging sti
 
 Toyon is such a common plant in California that its presence on the landscape can sometimes be easily ignored, and yet it is a remarkable plant that has played a significant role in California's natural and cultural history. With its vibrant red berries, adaptability to various environmental conditions, and extensive traditional uses, it is a plant of remarkable beauty and utility. Today, the plant remains an important resource for wildlife, and its traditional uses continue to be recognized and celebrated by both indigenous people and modern Californians alike. 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

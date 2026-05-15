@@ -13,7 +13,7 @@ author: "Erik Olsen"
 ## The Vital Role of Upwelling in California’s Rich Ocean Life
 
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Few marine processes have been as impactful on the abundance of sea life off the coast of California as upwelling. It may not be a term you've heard before, but the natural oceanic process of upwelling is one of the most important engines driving climate, biological diversity, and the ocean's food web. It's time to pay attention. 
 
@@ -72,4 +72,4 @@ Upwelling is a critical oceanic process that helps maintain the stable and immen
 
 Understanding these shifts is imperative for devising strategies to mitigate adverse effects on marine life and commercial fisheries. Therefore, sustained research efforts must continue to dissect this complex (and incredibly important) oceanic process and its increasingly uncertain future.
 
-[Click to buy us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
