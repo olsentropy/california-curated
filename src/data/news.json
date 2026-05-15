@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-05-15T10:10:48.549Z",
+	"lastUpdated": "2026-05-15T13:20:47.897Z",
 	"items": [
+		{
+			"headline": "Trump administration readying a plan to impose Colorado River water cuts on Western states",
+			"url": "https://www.latimes.com/environment/story/2026-05-15/colorado-river-trump-administration",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-15T10:00:00.000Z"
+		},
+		{
+			"headline": "After public outcry, Orange County halts herbicide spraying in creeks",
+			"url": "https://www.latimes.com/environment/story/2026-05-15/orange-county-stops-spraying-herbicides-creeks",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-15T10:00:00.000Z"
+		},
+		{
+			"headline": "L.A.'s ultra-urban rivers wash tons of trash out to sea. There's a plan to change that before the Olympics",
+			"url": "https://www.latimes.com/environment/story/2026-05-15/l-a-san-gabriel-rivers-to-get-trash-interceptors-to-protect-ocean",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-15T10:00:00.000Z"
+		},
 		{
 			"headline": "MBARI Postdoctoral Fellow Olívia Soares Pereira named a National Geographic Explorer",
 			"url": "https://www.mbari.org/news/mbari-postdoctoral-fellow-olivia-soares-pereira-named-a-national-geographic-explorer/",
@@ -68,12 +86,6 @@
 			"publishedAt": "2026-05-13T21:22:51.000Z"
 		},
 		{
-			"headline": "Low Snow in Eurasia Linked to Wildfires in California",
-			"url": "https://eos.org/articles/low-snow-in-eurasia-linked-to-wildfires-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-05-13T13:17:19.000Z"
-		},
-		{
 			"headline": "New Gateway building creates dedicated campus hub for AI, computing",
 			"url": "https://news.berkeley.edu/2026/05/13/new-gateway-building-creates-dedicated-campus-hub-for-ai-computing/",
 			"source": "UC Berkeley News",
@@ -86,16 +98,22 @@
 			"publishedAt": "2026-05-13T14:59:24.000Z"
 		},
 		{
+			"headline": "Low Snow in Eurasia Linked to Wildfires in California",
+			"url": "https://eos.org/articles/low-snow-in-eurasia-linked-to-wildfires-in-california",
+			"source": "Eos",
+			"publishedAt": "2026-05-13T13:17:19.000Z"
+		},
+		{
 			"headline": "Photos: Orphaned Monrovia bear cubs on path back to wild after state euthanized their mom",
 			"url": "https://www.latimes.com/california/story/2026-05-13/monrovia-bear-cubs-on-path-back-to-wild-mother-blondie-euthanized",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-13T12:00:00.000Z"
 		},
 		{
-			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
-			"url": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
+			"headline": "L.A. quietly fires its first chief heat officer",
+			"url": "https://www.latimes.com/environment/story/2026-05-12/la-parts-ways-with-its-first-chief-heat-officer",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-12T10:00:00.000Z"
+			"publishedAt": "2026-05-12T18:38:26.000Z"
 		},
 		{
 			"headline": "A Greener Route to Making Epoxides",
@@ -104,10 +122,16 @@
 			"publishedAt": "2026-05-12T21:56:00.000Z"
 		},
 		{
-			"headline": "Most of the U.S. West Will Face Above-Normal Wildfire Risk This Summer",
-			"url": "https://eos.org/articles/most-of-the-u-s-west-will-face-above-normal-wildfire-risk-this-summer",
-			"source": "Eos",
-			"publishedAt": "2026-05-11T13:16:40.000Z"
+			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
+			"url": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-12T10:00:00.000Z"
+		},
+		{
+			"headline": "Universal Voting-By-Mail Increases Voter Turnout for Both Major Parties",
+			"url": "https://www.caltech.edu/about/news/universal-voting-by-mail-increases-voter-turnout-for-both-major-parties",
+			"source": "Caltech",
+			"publishedAt": "2026-05-11T21:11:43.551Z"
 		},
 		{
 			"headline": "Oil rig off the SoCal coast catches fire; 'no immediate threat' to environment, officials say",
@@ -120,24 +144,6 @@
 			"url": "https://www.latimes.com/california/story/2026-05-11/hantavirus-fears-heighten-with-4-californians-exposed-to-disease",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-11T23:00:48.000Z"
-		},
-		{
-			"headline": "Universal Voting-By-Mail Increases Voter Turnout for Both Major Parties",
-			"url": "https://www.caltech.edu/about/news/universal-voting-by-mail-increases-voter-turnout-for-both-major-parties",
-			"source": "Caltech",
-			"publishedAt": "2026-05-11T21:11:43.551Z"
-		},
-		{
-			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
-			"url": "https://www.latimes.com/california/story/2026-05-13/newsom-to-propose-fund-to-help-california-wildfire-victims-rebuild",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-13T18:00:00.000Z"
-		},
-		{
-			"headline": "Tesla rollover crash sparked Chino Hills fire that forced people from their homes, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-13/grand-fire-chino-hills-evacuations",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T04:11:35.000Z"
 		}
 	]
 }
