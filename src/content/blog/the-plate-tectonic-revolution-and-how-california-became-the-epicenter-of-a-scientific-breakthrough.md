@@ -13,7 +13,7 @@ author: "Erik Olsen"
 ### __How the 1969 Penrose Conference on plate tectonics at Asilomar in California transformed our understanding of Earth's dynamic processes.__
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Before the late 1960s, understanding Earth's shifting surface, particularly in a geologically active region like California, was a major scientific challenge. For most of human history, the causes of earthquakes remained an enigma—mysterious and terrifying, often attributed to supernatural forces. In Japan, for example, earthquakes were traditionally believed to be caused by [Namazu](<https://www.science.smith.edu/climatelit/namazu/#:~:text=Namazu%20\(%E9%AF%B0\)%2C%20or%20%C5%8Cnamazu,tsunamis%20by%20thrashing%20his%20tail.>), a giant catfish said to live beneath the earth and whose thrashing would shake the land. Many societies believed earthquakes were divine punishments or omens, while others considered them an essential part of creation, events necessary to form a world habitable by us humans.
 
@@ -63,4 +63,4 @@ The [dramatic offsets](<https://earthquake.usgs.gov/education/kap/carrizo.php>) 
 
 The insights gained from the plate tectonic revolution, sparked in part by that pivotal conference in Pacific Grove, continue to inform our understanding of California’s geological hazards and history. The work of scientists like Eldridge Moores and the subsequent advancements in the field have provided a robust framework for interpreting the state’s complex and ever-evolving landscape. The 1969 Penrose Conference marked not just a shift in scientific thinking but a fundamental unlocking of some of the Earth’s deep secrets, with California the place, once again, at the center of scientific advance.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

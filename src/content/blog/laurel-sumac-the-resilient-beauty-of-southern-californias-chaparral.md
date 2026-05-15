@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 _Here's another article exploring some of California's native plants. With a remarkable abundance of flora, California is home to over 6,500 species that play a vital role in shaping its diverse and iconic landscapes._
 
@@ -48,6 +48,6 @@ Beyond its medicinal uses, the sturdy wood of laurel sumac was utilized in const
 
 Laurel sumac is just one of the many incredible native plant species that contribute to California's rich biodiversity. Its abundance in some of the southern mountain ranges makes it a quintessential part of the landscape and an essential topic when exploring native flora. Stay tuned as we continue to highlight more species that make California such a unique and extraordinary place.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)

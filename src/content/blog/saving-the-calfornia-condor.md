@@ -10,6 +10,8 @@ tags: []
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 **The birth of the 1000th chick as part of an extensive breeding and reintroduction program gives hope to many other species in peril.**
 
 

@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 I have a deep passion for octopuses. I have made [several short documentaries](<https://youtu.be/zoSsCNULS0Q>) about [them](<https://youtu.be/l7g_rEqedPs>) and even traveled twice to Indonesia with one of the world’s [leading octopus scientists](<https://www.mbl.edu/research/faculty-directory/Roger%20Hanlon>) to film them in their natural habitat. My home office is packed with octopus imagery and iconography, and years ago I made a personal vow never to eat octopus. Squid and other mollusks still get a pass in my book. If you want to debate the ethics of this, fine.
 
@@ -65,4 +65,4 @@ If you’d like a good book on the subject, I’d recommend [Other Minds: The Oc
 
 All of this is to say that we are blessed here in California to have such an amazing species in our local waters. The California two-spot octopus is more than an interesting coastal species; it is a window into how minds can form in ways we never imagined. Its genome offers clues to the very nature of intelligence, demonstrating that cognition can arise from wholly different evolutionary routes. In that sense, studying this unassuming little animal on our shoreline may be the closest we come to understanding an alien mind without ever leaving Earth.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

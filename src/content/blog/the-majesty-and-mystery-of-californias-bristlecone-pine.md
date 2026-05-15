@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Lying east of the Owens Valley and the jagged crags of the Sierra Nevadas, the [White Mountains](<https://en.wikipedia.org/wiki/White_Mountains_\(California\)>) rise high above the valley floor, reaching over 14,000 feet, nearly as high as their far better-known relatives, the Sierra Nevadas. Highway 168 runs perpendicular to Highway 395 out of Big Pine and leads up into the mountains to perhaps the most sacred place in California. 
 
@@ -70,4 +70,4 @@ So, if you are ever headed up Highway 395 into the Sierras, it is well worth the
 
 **Note: there is[a wonderful video produced by Patagonia](<https://youtu.be/YCEaYInJbos>) on the bristlecones and some of the scientists who study them. It’s well worth watching. **
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

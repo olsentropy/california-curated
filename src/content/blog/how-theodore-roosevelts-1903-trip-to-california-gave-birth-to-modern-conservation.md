@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Theodore Roosevelt is our hero. 
 
@@ -44,4 +44,4 @@ That first night, President Roosevelt dismissed his aides and the press, which w
 
 Arguably, no other President has had such a singular impact on protecting American lands, and it's fair to say, we think, that his visit to California had a lot to do with it. 
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

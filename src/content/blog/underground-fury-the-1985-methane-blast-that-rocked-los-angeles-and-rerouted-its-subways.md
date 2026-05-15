@@ -10,6 +10,8 @@ tags: ["california", "climate-change", "environment", "explosion", "geology", "m
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 Photo by Dean Musgrove, courtesy of the Herald-Examiner Collection - Los Angeles Public Library.
 
 In the heart of Los Angeles, on a seemingly ordinary spring day in 1985, a sudden explosion tore through the [Ross Dress for Less](<https://web.stanford.edu/~meehan/class/ce2942001/rosspaper.htm>) store at the corner of 3rd Street and Fairfax Avenue. This wasn't an industrial accident nor was it an act of malice—it was a force of nature that had been lurking unseen beneath the city's streets: methane gas.
@@ -49,4 +51,4 @@ Today, as the Los Angeles Metro continues to expand, the lessons learned from th
 
 ![](https://californiacurated.com/wp-content/uploads/2024/09/beach-coffee-1.png?w=500)
 
-**Hey there! If you enjoy California Curated, consider [donating the price of a coffee](<https://ko-fi.com/californiacurated>) to support its creation!**
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

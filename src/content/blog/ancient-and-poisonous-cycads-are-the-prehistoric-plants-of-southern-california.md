@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 If there’s one thing our increasingly digital world has pushed me toward, it’s a desire to reconnect with the natural one. At a moment when AI, deepfakes, and synthetic media blur the line between real and artificial, I find myself drawn more strongly to things that are undeniably, stubbornly real. So I spend a lot of time turning away from screens and paying closer attention to the world around me, searching for things in nature that are touchable, tangible, and timeless. 
 
@@ -73,4 +73,4 @@ Descanso Gardens’ story, meanwhile, is more personal and more recent. In 2014,
 
 Cycads are not all rare. You may even notice certain common specimens growing in people’s yards around California. But precisely because they are so ancient and so different from most plants we’re used to, I’d urge you to see them in person at places like Descanso Gardens and The Huntington. Touch the leaves. Study the symmetry. Marvel at the massive cones. (Just don't put anything in your mouth.) Take a moment to consider just how unusual these plants are. And if you feel the need to pull out your phone to learn more, go ahead, but then put it away and spend a little time with the plants themselves.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

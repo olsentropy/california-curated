@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Towering over Los Angeles like quiet guardians, the San Gabriel Mountains stretch across the northern edge of the city, keeping watch over the busy sprawl below. More than just a dramatic barrier, these mountains are packed with stories of [shifting earth](<https://californiacurated.com/2023/07/20/mountains-to-shoreline-the-geologic-journey-of-southern-californias-beaches/>), ancient rock, wild weather, and the people who’ve passed through them for thousands of years. They are also [a primary source](<https://californiacurated.com/2023/07/20/mountains-to-shoreline-the-geologic-journey-of-southern-californias-beaches/>) of Southern California beaches. They're not just a backdrop; they’re a vital part of the region’s identity, full of science, history, and amazing nature.
 
@@ -97,4 +97,4 @@ Protection of this vital ecosystem came in the form of the [San Gabriel Mountain
 
 The San Gabriels aren’t just a backdrop. They’re still rising, still shifting, shaping the region’s history and the ecosystems on their slopes. As Los Angeles spreads outward, the deeper forces of California are still very much at work.
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

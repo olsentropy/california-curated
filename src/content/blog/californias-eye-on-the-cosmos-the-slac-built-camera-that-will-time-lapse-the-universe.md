@@ -10,6 +10,8 @@ tags: ["astronomy", "california", "cerro-pachon", "chile", "hubble", "hubble-dee
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 **Images from the most powerful astronomical discovery machine ever created, and built in California**
 
 (Credit: NSF–DOE Vera C. Rubin Observatory)

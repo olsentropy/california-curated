@@ -12,7 +12,7 @@ author: "Erik Olsen"
 
 Monterey Canyon stretches nearly 95 miles out to sea, plunging over 11,800 feet into the depths—one of the largest submarine canyons on the Pacific Coast, hidden beneath the waves. (Courtesy: Monterey Bay Aquarium Research Institute MBARI)
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Standing in [Moss Landing](<https://en.wikipedia.org/wiki/Moss_Landing,_California>), a small coastal town known for its fishing fleet, busy harbor, and the twin smokestacks of its power plant, it’s hard to imagine that just offshore lies one of the most dramatic geological features on the West Coast, hidden beneath the water. I’ve been to the town many times (Phil’s Fish Market & Eatery is no longer there, unfortunately, but The Power Plant Coffee is nice), and I always enjoy how quiet and old-fashioned it feels, like a glimpse of California from 30 years ago. Most people passing through probably have no idea that beyond the harbor, the seafloor suddenly drops away into a vast underwater canyon.
 
@@ -58,4 +58,4 @@ Monterey Canyon draws scientists from around the world. Its deep, steep walls an
 
 As scientists push deeper into Monterey Canyon, right off our own coast, each expedition reveals something new. Strange animals, shifting sediments, and clues about how this hidden world works. But the more we learn, the more questions emerge about how life survives in the deep and how human activity may be changing it. With every dive, the canyon reminds us how much of the ocean remains unexplored.
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

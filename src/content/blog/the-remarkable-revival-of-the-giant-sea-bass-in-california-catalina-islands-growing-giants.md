@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 If you’ve ever dived off Casino Point in Catalina, it’s possible you have encountered one of the most magnificent fish ever to ply the cold waters of California. The [Giant Sea Bass](<https://www.montereybayaquarium.org/animals/animals-a-to-z/giant-sea-bass#:~:text=A%201994%20ban%20on%20gill,as%20a%20critically%20endangered%20species.>), also known as _Stereolepis gigas_ , has long been a majestic part of California's coastal ecosystems. [This behemoth](<https://www.montereybayaquarium.org/animals/animals-a-to-z/giant-sea-bass>) of a fish can grow up to nearly 7 and a half feet long, weighing a whopping 560 pounds, and can live to the age of 75. These gigantic, slow-moving sea creatures were once a common sight in the coastal waters of Southern California, particularly around [Catalina Island](<https://cimi.org/blog/the-giant-sea-bass/>). However, overfishing in the 20th century dramatically reduced their populations to critically low levels. Now, thanks to conservation efforts, these gentle giants are making a triumphant, albeit precarious, return. This is their story of recovery and resilience.
 
@@ -54,6 +54,6 @@ The return of the Giant Sea Bass is a beacon of hope, reminding us of the resili
 
 Although the story is far from over and recovery is incomplete, the story of the Giant Sea Bass stands as a testament to the impact of conservation, of thinking hard and acting on the protection of species and fragile environments. Continued research, monitoring, and community engagement will be essential to ensure the long-term survival of the giant sea bass. Their resurgence offers a valuable opportunity to learn from our past mistakes and work together to ensure a brighter future for these gentle giants and the marine ecosystems they call home.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)

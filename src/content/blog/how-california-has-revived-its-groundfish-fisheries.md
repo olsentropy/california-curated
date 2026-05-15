@@ -13,7 +13,7 @@ author: "Erik Olsen"
 **How Smart Policy and Collaboration Brought Groundfish Back From the Brink**
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Recently, I wrote [a more personal essay](<https://californiacurated.substack.com/p/what-david-attenborough-reminded>) than I usually would, one in which I reflected on the state of overfishing globally and the broader exploitation of our oceans.I hoped to draw attention to the new [National Geographic documentary _Oceans_](<https://www.youtube.com/watch?v=v5J7aP2FYH4>), featuring David Attenborough, which paints a broad and dire picture of the heath of the oceans and global fisheries...and it didn't even cover [deep sea mining](<https://www.smithsonianmag.com/science-nature/as-interest-in-deep-sea-mining-grows-scientists-raise-alarms-about-the-possible-ecological-consequences-180987009/>) which is a whole other megillah. 
 
@@ -72,4 +72,4 @@ So, looking back (and forward): policies over the past two decades, from trawl�
 
 This kind of drastic change takes time. And courage. And persistence. The long arc of recovery shows how science‑based regulation can bring back health to ocean ecosystems, and opportunity to coastal communities. Much of this work happens out of sight, in deep water and policy meetings alike, but its impact reaches every one of us: on our plates, in our economies, and in the resilience of the planet we all share.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

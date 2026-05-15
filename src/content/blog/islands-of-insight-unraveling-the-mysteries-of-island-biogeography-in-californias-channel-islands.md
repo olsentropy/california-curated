@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 I recently took two scuba diving trips out to the [Channel Islands](<https://www.nps.gov/chis/>) to investigate and help remove ghost lobster traps: abandoned or lost gear that poses a serious threat to marine life. While out there, I also had a chance to explore the marine protected areas surrounding [Anacapa](<https://www.nps.gov/chis/planyourvisit/anacapa.htm>) and [Santa Cruz](<https://www.nps.gov/chis/planyourvisit/santa-cruz-island.htm>) Islands, getting a firsthand look at how these underwater reserves are helping to restore ocean health and marine life (another story on that coming). Diving in the Channel Islands is a great way for certified divers to experience the incredible biodiversity of California’s coastal waters, even if the water is cold as hell.
 
@@ -68,4 +68,4 @@ The [Channel Islands Marine Protected Areas (MPAs)](<https://www.nps.gov/chis/le
 
 What makes all of this possible is the remarkable decision to keep these islands protected and undeveloped. Unlike much of the California coast, the Channel Islands were set aside, managed by the National Park Service and NOAA as both a national park and a marine sanctuary. These protections have preserved not just the landscapes, but the evolutionary stories still unfolding in real time. It’s a rare and precious thing to have a living laboratory of biodiversity right in our backyard, and a powerful reminder of why preserving wild places matters.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

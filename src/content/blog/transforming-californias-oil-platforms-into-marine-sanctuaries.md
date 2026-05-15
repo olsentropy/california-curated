@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 If I told you that some of the richest, densest communities of marine life anywhere in the world thrive off California, you might not be surprised. We all know California has a vibrant marine ecosystem offshore. But if I told you that much of that life clings to the submerged steel legs of offshore oil rigs, you might pause, blink, and say: really? 
 
@@ -75,4 +75,4 @@ Globally, the concept of Rigs-to-Reefs has seen success, particularly in the Gul
 
 What happens to California’s oil platforms will reveal how the state chooses to balance economic legacy with ecological responsibility. Few would argue that oil companies deserve further rewards after decades of drilling and profits, yet the decision ahead is not so simple, it is about what becomes of the ecosystems that have grown around their steel foundations. There should be a way to move forward responsibly, one that removes the risk and legacy of drilling while preserving the thriving marine life that has made these structures their home.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

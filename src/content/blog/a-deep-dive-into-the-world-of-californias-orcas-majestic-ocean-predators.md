@@ -10,6 +10,8 @@ tags: ["california", "cetaceans", "environment", "whales"]
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 The marine ecosystem of California is both vibrant and diverse, boasting an array of majestic creatures, from the smallest microorganisms to the most massive marine mammals. One of the ocean's most iconic inhabitants, the orca or killer whale (Orcinus orca), has attracted a significant amount of fascination and intrigue due to its striking appearance, formidable hunting abilities, complex social structure, and enduring presence in human culture.
 
 In May, an uncommonly large grouping of orcas for Northern California — around 20 to 24 animals — [was spotted by a whale-watching tour](<https://ktla.com/news/california-wire/unusually-large-group-of-killer-whales-seen-off-california-coas/#:~:text=Killer%20whales%20are%20more%20commonly,of%20Monterey%20Bay%20Whale%20Watch.>) off the coast of San Francisco, likely gathered together to celebrate a successful hunt for sea lions or seals.

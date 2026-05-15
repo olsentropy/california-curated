@@ -13,7 +13,7 @@ author: "Erik Olsen"
 **__Eadweard Muybridge’s ‘Animal Locomotion’ was the first scientific study to use photography. Now, more than 130 years later, Muybridge’s work is seen as both an innovation in photography and the science of movement.__**
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 I love digging into California’s technological past. Long before Silicon Valley became the engine we think of today, the state was already a proving ground for industrial innovation. [Oil](<https://californiacurated.substack.com/p/when-southern-california-was-the>), agriculture, mining, and, perhaps not surprisingly, but significantly for us here, cinema. But I’m not talking about the 1930s or 1950s, not even the 20th century. The technological roots of the movie industry in California go back much further, to a dusty track in Palo Alto.
 
@@ -63,4 +63,4 @@ Hollywood would later perfect illusion, narrative, glamour, let alone bring digi
 
 There is a plaque that marks the site of Muybridge’s experiments. It’s California Historical Landmark No. 834, located at Stanford University on Campus Drive West, near the golf driving range. You might walk past it without knowing. But you could argue that this is one of those nondescript places where movie-making began. And of course, it happened here in California.  
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

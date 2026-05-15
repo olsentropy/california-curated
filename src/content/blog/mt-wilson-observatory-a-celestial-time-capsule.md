@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Perched atop a lofty peak in the San Gabriel Mountains of California sits a historic treasure, one of the great astronomical tools of the 20th century: the [Mt. Wilson Observatory](<http://Mount Wilson Observatory | Mount Wilson Observatory | https://www.mtwilson.edu>). For more than 100 years, it has been a centerpiece for major astronomical discoveries, playing a pivotal role in our understanding of the universe. The observatory, with its rich history shaped by devoted scientists, advanced technology, and revolutionary discoveries, stands as a testament to humanity's relentless pursuit of knowledge.
 
@@ -43,22 +43,4 @@ Over the years, Mt. Wilson has housed a suite of powerful telescopes:
 
   * **[The Hooker Telescope](<https://www.mtwilson.edu/100-telescope-observing/>)** : At 100-inches, it was the world's largest when it was installed in 1917. It's the very instrument Hubble used for his revolutionary work.
   * **[The Snow Solar Telescope](<https://www.mtwilson.edu/vt-snow-solar-telescope/>)** : The observatory's inaugural instrument remains crucial for solar studies.
-  * **[The CHARA Array](<https://en.wikipedia.org/wiki/CHARA_array>)** : The Center for High Angular Resolution Astronomy array is an impressive configuration of six telescopes that function as an interferometer. It allows for sharper images of stars than even the Hubble Space Telescope. The CHARA Array has a spatial resolution equivalent to a single telescope 331 meters (over 1000 ft) in diameter. Light from each of the six telescopes is transported through fiber optics to a special beam-combining room. 
-
-
-
-Not only has Mt. Wilson been instrumental in observing distant stars, but it also has a unique device: the Snow Horizontal Solar Telescope. This apparatus, combined with the spectrograph, was used to study the sun's magnetic fields. It has since been fundamental in understanding solar cycles and the impact of solar phenomena on Earth's climate.
-
-![](https://californiacurated.com/wp-content/uploads/2023/08/mt-wilson-telescope.png?w=1024)Mt. Wilson Observatory
-
-In 2020, [the Bobcat Fire](<https://en.wikipedia.org/wiki/Bobcat_Fire>), the second largest fire on record in Los Angeles County to date, burned over 115,000 acres and was active for more than three months. Annually, the team at Mount Wilson Observatory takes measures against potential forest fires, removing fire-hazardous invasive plants and ensuring their extensive water tanks are full for the fire suppression system. Just a few months prior to the blaze, they had fitted new high-capacity hydrants. These proactive steps played a pivotal role in safeguarding the Observatory when the Bobcat Fire flames approached within a mere 20 feet of its perimeter. A dozen fire squads, each consisting of 40 to 50 firefighters from various units, tirelessly worked day and night to protect this cherished landmark.
-
-![](https://californiacurated.com/wp-content/uploads/2023/08/mt-wilson-fire.png?w=1024)Scene at Mt. Wilson after the 2020 Bobcat Fire (Erik Olsen)
-
-Visitors to the Mt. Wilson Observatory have a rare chance to not only tour the grounds but also look through the same telescopes that revolutionized astronomy. Public "[Telescope Nights](<https://www.mtwilson.edu/public-ticket-nights/>)" offer the exciting opportunity to observe the night sky through the famous 60-inch or 100-inch telescopes, the latter being the largest in the world open to the public. These sessions allow people to view celestial objects like planets, star clusters, and nebulae in stunning detail. Reservations are necessary for these events, as spots fill up quickly due to high demand. Additionally, private group sessions and special events can be arranged, providing an unforgettable, up-close experience with the universe. Guided tours are also available for those who want to dive into the observatory's rich history, tracing the steps of astronomers who made some of the greatest discoveries of the 20th century.
-
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
-
-[![](https://californiacurated.com/wp-content/uploads/2024/09/beach-coffee-1.png?w=500)](<https://ko-fi.com/californiacurated>)
-
-**Hey there! If you enjoy California Curated, consider [donating the price of a coffee](<https://ko-fi.com/californiacurated>) to support its creation!**
+  * **[The CHARA Array](<https://en.wikipedia.org/wiki/CHARA_array>)<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>Hey there! If you enjoy California Curated, consider <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div> to support its creation!**

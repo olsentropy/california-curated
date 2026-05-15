@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 You've surely seen those dramatic museum displays: fearsome T-Rex skulls, triceratops horns, [towering brachiosaur skeletons](<https://en.wikipedia.org/wiki/Brachiosaurus>) – tangible reminders of a world with giant animals that roamed our planet millions of years ago. Some states are rich in the fossils of ancient dinosaurs. Montana, Wyoming, Utah all have rich fossil records. But not California. Very few dinosaur fossils have ever been found in the Golden State.
 
@@ -77,4 +77,4 @@ While California’s record of dinosaur fossils is relatively sparse, its mammal
 
 While it might be tempting to feel a little disappointed that California doesn't have an abundance of dinosaur fossils, that's simply the way the landscape evolved. But there’s still plenty to celebrate. California’s unique geologic past has produced a vibrant fossil record of other ancient life — from towering prehistoric sequoias to tiny, long-lost plankton. Every fossil, big or small, offers a glimpse into the rich, complicated, and ever-changing story of this remarkable place we call California.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

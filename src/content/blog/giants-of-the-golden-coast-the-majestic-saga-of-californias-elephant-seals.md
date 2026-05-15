@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Buy us a cup of coffee? Lots of work goes into California Curated. We'd appreciate it! ](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Once teetering on the brink of extinction, the California elephant seal has made an astounding recovery thanks to stringent conservation efforts. But as you'll read below, their recovery comes with an asterisk. These remarkable creatures, once hunted for their blubber, now thrive along California’s iconic coastline. With their distinctive trunk-like snouts and massive size (They really are huge. I've visited [the beach near San Simeon](<https://visitsansimeonca.com/what-to-do/elephant-seals-san-simeon/>) several times to photograph them), elephant seals are an incredible sight.
 

@@ -11,21 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-**Not So Big: How We Overstate the Length of the Blue Whale, Earth’s Largest Creature**
-
-One of the most extraordinary privileges of living in California, especially near the coast, is witnessing the annual arrival of blue whales. I’ve been at sea on several occasions when these giants surfaced nearby, and to see one in person, or even [through my drone RC](<https://www.instagram.com/p/C8x0z4IyATq/>), is astonishing and unforgettable. I once had the rare and mind-blowing opportunity to swim with and film blue whales off the southern tip of Sri Lanka for a story [I wrote](<https://www.nytimes.com/2012/07/03/science/traffic-in-sri-lankas-waters-threatens-blue-whales.html>) and [produced](<https://www.nytimes.com/video/science/100000001641208/in-the-land-of-blue-whales.html>), an experience that will forever be seared into memory.
-
-For decades, the blue whale has been celebrated as the largest creature ever to exist (Bigger than dinosaurs! True.), with many popular accounts claiming that these animals can reach lengths of 100 feet or more. Yet in all the videos, photographs, and encounters I’ve seen, not a single whale has come close to that. Still, article after article and documentary after documentary continues to repeat the claim that blue whales “reach 100 feet or more.” Nearly every whale-watching company in California repeats the claim, echoed endlessly across Instagram and TikTok.
-
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
-
-But is it true? Most blue whales I’ve seen off the coast of California are half that size or maybe 2/3. It felt misleading to say so otherwise. And so I did a lot of digging: reading, reaching out to experts, poring over historical records, and the fact is that no single blue whale has ever been scientifically measured at 100 feet. Close, as you will soon read, but not 100 feet or more. Especially not off the coast of California.
-
-This discrepancy not only distorts our understanding of these magnificent creatures, but also highlights the broader issue of how media can shape and sometimes mislead public perception of scientific facts.
-
-![](https://californiacurated.com/wp-content/uploads/2021/08/ed7b9-blue_whale_tail.jpg)Blue whale tail fluke in Sri Lanka. (Photo: Erik Olsen)
-
-**In other words: the perception that blue whales commonly reach lengths of 100 feet or more likely stems from a combination of historical anecdotes, estimation errors, and a tendency to highlight extreme examples.**
+**Not So Big: How We Overstate the Length of the Blue Whale, Earth’s Largest Creature<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>In other words: the perception that blue whales commonly reach lengths of 100 feet or more likely stems from a combination of historical anecdotes, estimation errors, and a tendency to highlight extreme examples.**
 
 All that said, the blue whale (_Balaenoptera musculus_) is a truly magnificent creature. Hunted nearly to extinction in the 17th to 19th centuries, the blue whale has staged a hopeful recovery in the last five decades, since commercial whaling [was outlawed](<https://en.wikipedia.org/wiki/Whaling>) by the international community in 1966 (although some Soviet whale hunting continued into the early 1970s). And California, in particular, has been blessed with the annual appearance of the largest population of blue whales in the world, called the [Eastern North Pacific population](<https://media.fisheries.noaa.gov/dam-migration/2019_sars_bluewhale_enp.pdf>), consisting of some 2,000 animals. That population makes an annual migration from the warm waters of Baja California to Alaska and back every year. This is the group [I’ve seen off Newport Beach](<https://www.instagram.com/p/C8x0z4IyATq/>).
 
@@ -77,4 +63,4 @@ So, why does nearly every citation online and elsewhere regularly cite the 100-f
 
 All said, blue whales remain incredible and incredibly large animals, and deserve our appreciation and protection. Their impressive rebound over the last half-century is to be widely celebrated, but let’s not, in the spirit of scientific inquiry, overstate their magnificence. They are magnificent enough.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

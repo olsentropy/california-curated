@@ -13,6 +13,8 @@ wpId: 813
 wpSlug: white-shark-sightings-are-up-but-dont-panic
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 ![](https://californiacurated.com/wp-content/uploads/2021/08/c3ea4-screen-shot-2019-08-22-at-6.22.53-pm.png)CSULB Shark Lab 
 
 They're baaaack! 

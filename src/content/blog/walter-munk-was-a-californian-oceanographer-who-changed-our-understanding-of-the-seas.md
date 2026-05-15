@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Walter Munk, often referred to as the “Einstein of the Oceans,” was one of the most influential oceanographers of the 20th century. Over a career that spanned more than 70 years, Munk fundamentally altered how we think about the oceans, contributing to our understanding of everything from wave prediction during World War II to deep-sea drilling in California. His work at the [Scripps Institution of Oceanography](<https://scripps.ucsd.edu/>) in La Jolla, California, was groundbreaking and continues to influence scientific thinking to this day.
 
@@ -62,4 +62,4 @@ Munk [passed away in 2019](<https://scripps.ucsd.edu/news/obituary-notice-walter
 
 [![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

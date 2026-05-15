@@ -14,7 +14,7 @@ The Unlikely Intersection of Military Training and Coastal Preservation
 
 March 29, 2022. (U.S. Marine Corps photo by Lance Cpl. Nataly Espitia)
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Driving along the [Pacific Coast Highway](<https://californiacurated.com/2024/05/21/the-pacific-coast-highway-pch-icon-of-american-scenic-roadways/>), much of the Southern California coastline is a continuous stretch of development—expensive homes, commercial malls, and highways and railways built right up against the ocean. Then, unexpectedly, you reach [Marine Corps Base Camp Pendleton](<https://www.pendleton.marines.mil/>), a vast, largely undeveloped expanse that starkly contrasts with the urban sprawl. This uninterrupted stretch of coastline offers a rare glimpse into what the region once looked like, a reminder of California’s natural beauty before widespread development. 
 
@@ -68,4 +68,4 @@ Camp Pendleton’s example demonstrates that large-scale conservation can happen
 
 Of course, Camp Pendleton isn’t the only place where government protection for reasons other than conservation has preserved a remarkably untouched stretch of California’s coastline. [Vandenberg Space Force Base](<https://www.vandenberg.spaceforce.mil/>), further north, restricts public access due to its role in military space launches, but in doing so, it has safeguarded miles of rugged shoreline and sensitive habitats. Similarly, [Point Reyes National Seashore](<https://www.nps.gov/pore/>), though managed primarily for recreation and historical preservation, remains a rare example of undeveloped coastal wilderness in the Bay Area. Off the coast, some of the Channel Islands, particularly those further out but within [Channel Islands National Park](<https://en.wikipedia.org/wiki/Channel_Islands_National_Park>), have remained largely untouched due to federal protection, while others have suffered from past military activity and invasive species. Like Camp Pendleton, these areas demonstrate how federal oversight, whether for military, scientific, or historical purposes, has unintentionally maintained some of California’s last truly wild coastal spaces.
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

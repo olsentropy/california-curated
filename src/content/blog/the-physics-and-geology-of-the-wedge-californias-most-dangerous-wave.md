@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Having spent much of my youth in Newport Beach, my life was shaped by the ocean. I spent countless days in the surf, bodyboarding, bodysurfing, or playing volleyball on the sand with friends. When a southern storm rolled through, we’d rush to [Big Corona](<https://visitnewportbeach.com/beaches-and-parks/corona-del-mar-state-beach/>) and throw ourselves into the heavy swells, often getting slammed hard and learning deep respect for the ocean, a respect that I still harbor today. Sometimes the waves were so large they were genuinely terrifying, the kind of surf that would have made my mother gasp, had this not been an era when parents rarely knew what their kids were doing from dawn to dusk. That freedom, especially in Southern California, made the ocean feel like both a playground and a proving ground.
 
@@ -53,4 +53,4 @@ Of course, with all that danger comes spectacle, and when the Wedge is firing, i
 
 I still get to the Wedge on occasion to watch the carnage. And while in my younger years, I might have ventured out to catch a wave or two if the conditions were relatively mellow, today, I prefer the view from shore, leaving the powerful surf to the younger bodysurfers hungry for a rush.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

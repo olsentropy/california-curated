@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 In the summer of 1942, aboard the [USS _Jasper_](<https://en.wikipedia.org/wiki/USS_Jasper>), a team of scientists embarked on a mission off the coast of San Diego, California, a hub for U.S. Navy operations and other military activities vital for the Pacific Theater of World War II. Their goal was to test a new technology called "[long-range active sonar](<https://en.wikipedia.org/wiki/Sonar>)," developed to detect enemy submarines—specifically Japanese submarines and German U-boats—during World War II. Long-range active sonar is a technology that sends sound waves through the ocean to map and visualize the seafloor across great distances, revealing details of underwater topography and structures that would otherwise remain hidden beneath the waves.
 
@@ -72,4 +72,4 @@ Together, these efforts are gradually revealing the twilight zone's secrets, emp
 
 The USS _Jasper_ 's encounter with the false bottom off California's coast stands as a pivotal moment in oceanographic history. It not only unveiled the hidden complexities of the ocean's twilight zone but also bridged the gap between military technology and marine science, leading to a deeper appreciation of the intricate and interconnected nature of Earth's marine environments.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

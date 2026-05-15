@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 When people think of [Santa Monica](<https://www.santamonica.com/>), images of sun-soaked beaches, the iconic pier, and leisurely strolls along the [Pacific Coast Highway ](<https://californiacurated.com/2024/05/21/the-pacific-coast-highway-pch-icon-of-american-scenic-roadways/>)often come to mind. It's a city synonymous with surf, sand, and a laid-back California lifestyle. Yet, bunkered within this seaside haven is an institution far removed from the carefree spirit of the shore: [RAND Corporation](<https://www.rand.org/>), one of the world’s most influential think tanks, with deep ties to the [Department of Defense](<https://www.defense.gov/>). While tourists flock to the hot sands and the 3rd Street Promenade, behind the walls of RAND's headquarters, some of the nation's brightest minds have quietly shaped U.S. policy and technology for decades.
 
@@ -86,4 +86,4 @@ Despite concerns about its influence, the RAND Corporation has remained a signif
 
 So the next time you take a trip to the beach, take a moment to consider that just a short distance from the waves, some of the nation’s most critical and controversial policy decisions are being shaped at RAND’s headquarters in Santa Monica.
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

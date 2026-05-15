@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 The creosote bush, a seemingly unassuming plant that dots the arid expanses of North American deserts, holds secrets to aging that would make Silicon Valley longevity bros green with envy. In the Mojave Desert, one creosote plant known as "King Clone" is estimated to be over 12,000 years old, making it one of the oldest living clonal organisms on Earth. This astonishing fact was highlighted in the [BBC series _The Green Planet_](<https://www.bbcearth.com/shows/the-green-planet>), where [Sir David Attenborough](<https://en.wikipedia.org/wiki/David_Attenborough>) brought the extraordinary resilience and survival strategies of desert flora to a broad public audience. The series as a whole is excellent, but the episode on desert plants, _Desert Worlds_ , was especially fascinating and enlightening—particularly for a dedicated succulent fan like me. Watching it inspired me to research and write this article.
 
@@ -58,4 +58,4 @@ Creosote has played a starring role in the cultural mythology of the American So
 
 One aim of this publication is to illuminate the mystery and wonder of the world around us. For those of us who call California home, as I have for most of my life (including being born here), we are constantly surrounded by a powerful, awe-inspiring nature—one that is both captivating and exhilarating. Yet, truly grasping the uniqueness of this place often requires more than a passing glance. Even a plant as seemingly ordinary as the creosote bush holds something extraordinary, a blend of magic and science waiting to be recognized. My hope is that on your next drive through the desert, you see that stark landscape with fresh eyes, with a little more respect, a little more wonder, and a deeper sense of admiration.
 
-[A lot of work goes into this publication. Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

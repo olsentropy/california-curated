@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 When we step outside and see wildlife, we often think of it as unchanging. A bird on a branch, a crab in a tide pool, a lizard skittering across a sidewalk. It feels timeless. But in truth, these animals are evolving, slowly and steadily, right in front of us. As climates become more unpredictable, habitats shift, food sources change, and nature adapts. This is especially true in our cities. Built over just the past few centuries, these sprawling human environments are reshaping the natural world and pushing wildlife to adjust in new and often surprising ways.
 
@@ -73,4 +73,4 @@ The dark-eyed junco’s ability to adapt to city life is both encouraging and a 
 
 For those of us who live in cities, the juncos flitting through parks, pecking in our yards, and hopping across college campuses offer a chance to see evolution happening right in front of us. Nature isn’t some distant thing beyond the city limits. It’s here, threaded into the daily patterns of urban life.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

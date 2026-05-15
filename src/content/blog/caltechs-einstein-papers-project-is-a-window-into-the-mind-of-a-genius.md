@@ -10,6 +10,8 @@ tags: ["albert-einstein", "california", "california-institute-of-technology", "c
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 
 We wrote [a piece a while back](<https://californiacurated.com/2023/08/04/einstein-in-pasadena-three-winters-in-paradise/>) about the three winters Albert Einstein spent in Pasadena, a little-known chapter in the life of a man who changed how we understand the universe. It was our way of showing how Einstein, often seen as a figure of European academia and global science, formed a real affection for California and for Pasadena in particular. It’s easy to picture him walking the streets here, lost in thought or sharing a laugh with [Charlie Chaplin](<https://www.mentalfloss.com/article/516452/when-albert-einstein-met-charlie-chaplin>). The idea of those two geniuses, one transforming physics and the other revolutionizing comedy, striking up a friendship is something worth imagining.
 

@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Despite its vast expanse (over 163,000 square miles) California offers surprisingly few places where one can truly gaze upon the night sky in all its glory. Urban light pollution has dimmed the stars across much of the state, making it a rare treat to see more than a handful of celestial points on a clear night. In California’s largest metropolitan areas, like Los Angeles and the Bay Area, the glow from light pollution is so intense that the Milky Way is almost entirely washed out, leaving just the brightest planets and stars visible.
 
@@ -80,4 +80,4 @@ And that’s what makes light pollution so sad and tragic. While we gain comfort
 
 It’s true that the profound experience of stargazing fosters a deeper connection to the natural world and our place within it, reminding us of the wonder and mystery that lie beyond our planet. These are important things to remember. We owe it to ourselves to occasionally step away from the glow of our homes and cities and stand beneath a truly dark sky, where the universe stretches out above in a breathtaking display. In moments of reflection, we appreciate the invaluable gift of darkness, which not only preserves the nocturnal environment but also fuels our curiosity and sense of wonder—just as it has for our ancestors for thousands of years. By celebrating and protecting these dark parks, we ensure that future generations can continue to gaze up in awe, finding inspiration in the endless expanse of the cosmos.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

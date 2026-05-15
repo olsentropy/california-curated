@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 _“Personally, I really think it’s one of the best birding spots in the world,” Ryan Terrill, science director at the[ Klamath Bird Observatory](<https://klamathbird.org/about-kbo/staff/ryan-terrill-phd/>)._
 
@@ -86,4 +86,4 @@ The research conducted at Bear Divide by the Moore lab transcends academic inter
 
 "What's magical about Bear Divide is that it's the first real place to see small, migrating birds at eye level in daylight hours," says McCormack. "I don't want to oversell it: it's still a lot of small birds zinging by in a wide open place and it takes a while to get good at identifying them. But by seeing them out there, struggling against the wind and the cold, but still making progress, it gives you a real sense of how amazing their journeys are--and how we shouldn't make them harder if there's anything we can do about it."
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

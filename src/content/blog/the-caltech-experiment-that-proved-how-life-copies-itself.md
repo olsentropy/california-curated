@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 I love reading [_New York Times_ obituaries](<https://www.nytimes.com/section/obituaries>), not because of any morbid fascination with death, but because they offer a window into extraordinary lives that might otherwise go unnoticed. These tributes often highlight people whose work had real impact, even if their names were never widely known. Unlike the celebrity coverage that fills so much of the media, these obituaries can be quietly riveting, full of depth, insight, and genuine accomplishment.
 
@@ -55,6 +55,6 @@ The [Meselson-Stahl experiment](<https://en.wikipedia.org/wiki/Meselson%E2%80%93
 
 In a time when science often feels far too complex, messy, or inaccessible, the Meselson-Stahl experiment is a reminder that some of the most important discoveries are also the simplest. Think [Occam's Razor](<https://en.wikipedia.org/wiki/Occam%27s_razor>). Two young scientists, some nitrogen, a centrifuge, a clever idea, and a result that changed biology forever.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![California Curated Etsy](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)

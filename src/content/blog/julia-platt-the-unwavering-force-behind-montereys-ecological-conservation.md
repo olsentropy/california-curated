@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 In the 18th century, when Spanish and French explorers ventured along the northern California coast they encountered Monterey Bay and marveled at the astonishing ecological abundance of this 25-mile wide bite mark in the land. The shores buzzed with the lively interactions of sea birds, sea otters played amidst the luxuriant kelp beds, and the waters teemed with many species of whale. 
 
@@ -65,4 +65,4 @@ Thanks to Platt's efforts, the region saw a revival in its marine biodiversity. 
 
 Julia Platt was more than just Pacific Grove's mayor; she was its guardian. Through her vision and determination, she transformed Monterey into a beacon of marine conservation. Even after her tenure as mayor, Platt’s legacy lived on. Her initiatives paved the way for future conservation efforts, including the establishment of the iconic Monterey Bay Aquarium.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

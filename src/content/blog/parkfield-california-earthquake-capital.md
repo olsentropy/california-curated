@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 When Big Joe Turner sang “Shake, Rattle and Roll,” he probably wasn’t thinking about a dusty little town in Central California, but in Parkfield, it’s practically the town motto.
 
@@ -51,4 +51,4 @@ Additionally, the [Berkeley Seismological Laboratory](<https://seismo.berkeley.e
 
 Parkfield remains critical to better understanding seismic dangers in California. The fault zone is poorly understood at depth and so far, the predictability of earthquakes in the near term is pretty limited. But devices like these could help improve prediction, especially if there is a large quake. But that's the rub, really. We need to experience a large earthquake to get the best data to know how to predict later ones. So it is in California.  
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

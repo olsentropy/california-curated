@@ -13,7 +13,7 @@ author: "Erik Olsen"
 
 California's diverse landscapes, rich history, and abundant natural phenomena have inspired many scientific-themed popular books, ranging from John Steinbeck's "[The Log from the Sea of Cortez](<https://amzn.to/3oWSr2A>)," with its focus on marine biology, to Mary Austin's "[The Land of Little Rain](<https://amzn.to/3oYZEzi>)," a lyrical examination of California's desert environment, not to mention the late [Marc Reisner’s Cadillac Desert](<https://www.amazon.com/Cadillac-Desert-American-Disappearing-Revised/dp/0140178244>), an epic history of California’s contentious relationship with water. (I’ve read it twice.)
 
-[Buy us coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 But when it comes to exploring the state's geology - its mountains, coastlines, and, most notably, its fault lines - few books can match the prowess and eloquence of John McPhee's "[Assembling California](<https://amzn.to/3Nq9yDo>)". Part of his Pulitzer-winning series, "[Annals of the Former World](<https://amzn.to/42DhIMW>)," the book offers a comprehensive and accessible tour through the geological history of California, crafting a fascinating narrative that is as engaging as it is informative. 
 
@@ -69,6 +69,6 @@ Not exactly good news, but it's always better to know what's happening and to ha
 
 ![](https://californiacurated.com/wp-content/uploads/2023/09/cup-of-coffee-promotion.jpg?w=1024)
 
-[Buy us a cup of coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 **Lots of work goes into writing California Curated. We'd appreciate it!**

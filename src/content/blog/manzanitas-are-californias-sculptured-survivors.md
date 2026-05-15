@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 As an avid hiker in Southern California, I’ve become a deep admirer of the chaparral that carpets so many of the hills and mountains in the region. When I was younger, I didn’t think much of these plants. They seemed dry, brittle, and uninviting, and they’d often leave nasty red scrapes on your legs if you ever ventured off-trail.
 
@@ -47,6 +47,6 @@ The plants still have mysteries that are being uncovered. For example, a[ new sp
 
 For hikers, photographers, and anyone with an eye for the unusual, manzanita is a cool plant to stumble upon. I will often stop and admire a particularly striking plant. I love when its smooth bark peels back in delicate curls, looking like sunburned skin or shavings of polished cinnamon. It’s hard to walk past a manzanita without reaching out to touch that smooth, cool bark. That irresistible texture may not serve any evolutionary purpose for the plant, but it’s one more reason to wander into California’s fragrant chaparral, where more species of manzanita grow than anywhere else on Earth.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![California Curated Etsy](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)

@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Ask anyone what the California state rock is, and I doubt whether many people would answer correctly. Is it granite, the magnificent slabby stone that creates the sheer face of [Half Dome ](<https://www.myyosemitepark.com/things-to-do/natural-wonders/yosemite-half-dome/>)and El Capitan in Yosemite? Is it [obsidian](<https://www.atlasobscura.com/places/obsidian-dome>), the glinty black stone so favored by some Native American tribes that they [would walk hundreds of miles](<https://www.nytimes.com/2023/03/20/science/yellowstone-indigenous-people-obsidian.html>) to collect it and bring home to make tools and weapons? 
 
@@ -51,4 +51,4 @@ Serpentine also played a role in trade among tribes. Crafted serpentine objects,
 
 Serpentine is not just a beautiful rock; it is a symbol of [California's rich geological](<https://californiacurated.com/2023/08/31/the-majestic-san-gabriel-mountains-a-deep-dive-into-their-formation-history-and-biodiversity/>) and cultural heritage. By understanding the origins and significance of Serpentine, we can appreciate the complex processes that have shaped our planet and the remarkable diversity of its natural resources. Furthermore, the presence of Serpentine in California is an excellent example of the interconnectedness of geology, ecology, and human history, as the unique habitats it creates support rare plant species and have inspired the artistic endeavors of numerous cultures throughout time.
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

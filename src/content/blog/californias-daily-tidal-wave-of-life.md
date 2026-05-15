@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 If you’ve been reading this newsletter for a while, you already know I’m obsessed [with submarines](<https://californiacurated.substack.com/p/bring-human-exploration-back-to-californias>) and undersea life. I believe we’re at the beginning of a new era of ocean discovery, driven by small personal submersibles, remotely operated vehicles (ROVS), and autonomous explorers (AUVs) that can roam the deep on their own. Add AI into the mix, and our ability to see, map, and understand the ocean is about to expand dramatically. 
 
@@ -43,4 +43,4 @@ Other cutting-edge technology is being brought to bear as well to help us better
 
 All of this plays out each day and night off our coast, a vast symphony of animal movement and deadly combat that, until recently, was not only poorly understood but largely invisible to science. And it’s all happening right off our shores
 
-[Thanks for reading Was it worth a buck or two? If so, click here.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

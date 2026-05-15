@@ -16,7 +16,7 @@ Water, water, every where, nor any drop to drink. 
 
 _\-- Samuel Taylor Coleridge's poem The Rime of the Ancient Mariner.  _
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [Desalination](<https://www.usgs.gov/special-topics/water-science-school/science/desalination>), the process of turning seawater into potable water, is gaining traction as a viable solution to California's perennial drought issues. The Golden State, with its sprawling 850-mile coastline and notorious aridity, is primed for desalination to play a pivotal role in its water management strategies.
 
@@ -67,4 +67,4 @@ As California looks to the future, the role of desalination is poised to expand.
 
 The implications for drought-prone regions extend beyond just survival; they encompass the sustainability of ecosystems, economies, and communities. While desalination is not a panacea for all of California's water woes, it represents a critical piece of the puzzle in the quest for water security in an era of uncertainty. As the technology advances, it may well become a cornerstone of how humanity adapts to a changing climate, making what was once undrinkable, a wellspring of life.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

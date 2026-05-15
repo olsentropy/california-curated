@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Southern California’s sandy beaches are more than just popular spots for surfing and sunbathing—they’re the product of a dramatic geologic story that’s been unfolding for millions of years. With their sweeping ocean views and turquoise waters, these iconic coastlines attract millions every year. But few people stop to think about how these beaches actually came to be.
 
@@ -77,4 +77,4 @@ Rosanna Xia's book, [California Against the Sea: Visions for Our Vanishing Coast
 
 Understanding the geological history of Southern California's beaches not only adds depth to our appreciation of these natural wonders but also highlights the need for careful stewardship. By minimizing our environmental impact, reducing development and mitigating the effects of climate change, we can ensure that these incredible landscapes continue to evolve and endure for generations to come.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

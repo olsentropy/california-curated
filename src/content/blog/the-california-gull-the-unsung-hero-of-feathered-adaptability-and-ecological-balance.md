@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Imagine a bird that's not only a reliable fixture on both coastal and inland landscapes, but also a winged hero with a knack for saving ecosystems and crops alike. Meet the California gull, a seemingly unassuming creature that's the avian equivalent of a Toyota Camry: dependable, middle-of-the-road, and surprisingly full of stories. Far from just another seabird scrounging for scraps, this versatile gull is a fascinating study in adaptability, ecological impact, and even historical significance. 
 
@@ -33,7 +33,7 @@ Yet for a bird that's so unassuming, the California gull enjoys a surprising lev
 
 ![](https://californiacurated.com/wp-content/uploads/2023/10/seagull-monument.jpeg?w=596)Sea Gull Monument in Salt Lake City (Wikipedia)
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Moreover, the California gull has been an ecological hero in other ways. At [Mono Lake](<http://www.parks.ca.gov/monolake/>) in the Eastern Sierras of California, the gull has had a significant impact on bringing the lake back to life. (The lake is also known for its [microbial aliens](<https://californiacurated.com/2023/02/24/the-aliens-of-mono-lake/>).) In the early part of the 20th century, Los Angeles' voracious appetite for water led to shady deals by William Mulholland to secure access to Owens Lake. Declining water levels at Mono Lake threatened the gull population that nested there. But a decisive legal victory by the [Save the Mono Lake Committee](<https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwizvqbVh-KBAxWLHq0GHQl4DKoYABAAGgJwdg&gclid=CjwKCAjw4P6oBhBsEiwAKYVkqzs9MTYlmC7CH7S-9l2tqCgcOHGJ-KcZ_zJ_iRV7cVCErSC2pQUZwBoCgaQQAvD_BwE&ohost=www.google.com&cid=CAESVuD2B-PFSJRRoEUv-Wl4ASRSWixJZcK9bwnSTpLuGRA-KSFK10Z7sXhsIdxcFNMbvPeiSIWl4g0cvuO0f8Gl2KewrAIs__ZUD2n78DVv9yuUcr_oTG0w&sig=AOD64_3yeFKBmi7hMno1gTDIttymuraOEA&q&adurl&ved=2ahUKEwiStp_Vh-KBAxVYHEQIHfr_DfYQ0Qx6BAgJEAE>) has ensured the lake is now maintained at healthier water levels, benefiting not just gulls but the entire ecosystem.
 
@@ -43,4 +43,4 @@ However, it's not all sunny skies for this winged wonder. In the salt pans of So
 
 ![](https://californiacurated.com/wp-content/uploads/2024/09/beach-coffee-1.png?w=500)
 
-**Hey there! If you enjoy California Curated, consider [donating the price of a coffee](<https://ko-fi.com/californiacurated>) to support its creation!**
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

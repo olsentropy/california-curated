@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Remember that scene in Raiders of the Lost Ark when Indiana Jones peers into the Well of Souls and sees the floor writhing with snakes? Well, there’s a stretch of coastline in Southern California that’s kind of like that, but the creatures moving there aren’t snakes. They’re stingrays.
 
@@ -95,6 +95,6 @@ Still, Lowe says he has respect for the animals and hopes people don’t see the
 
 Next time you step into the water at a Southern California beach, enjoy it. Just don’t forget the shuffle.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![](https://californiacurated.com/wp-content/uploads/2026/04/california-quail-1024x683.webp)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)Shop our [California wildlife store](<https://www.etsy.com/shop/CaliforniaCuratedUS>). Dozens of great gifts featuring California fish and birds.

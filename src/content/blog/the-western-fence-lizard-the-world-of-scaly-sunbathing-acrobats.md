@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 When you think of Southern California, bustling cities and sprawling suburbs likely come to mind. But amidst the concrete, glass, and steel, there’s a hidden world of wildlife quietly adapting to the rapid changes humans bring. Among the surprising survivors in this urban wilderness are creatures like the western fence lizard, seamlessly blending into the landscape. Yet, these lizards aren't just surviving—they're evolving right before our eyes, a living example of how urban ecology drives real-time adaptation and recent evolution.
 
@@ -51,4 +51,4 @@ Moreover, their physical traits are also shifting in response to city life. [A r
 
 These changes are a testament to the flexibility of natural selection, as the urban landscape becomes a new selective pressure driving small but significant shifts in the species. It’s a remarkable example of how wildlife can adapt to human environments, and in a relatively short period of time, offering a window into how evolution can occur almost quickly even in the most unexpected places.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

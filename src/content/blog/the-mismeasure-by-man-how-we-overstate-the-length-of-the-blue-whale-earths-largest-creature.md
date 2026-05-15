@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 For decades, the majestic blue whale has been celebrated as the largest animal ever to have existed, with popular claims frequently stating that these marine giants can reach lengths of 100 feet or more. However, no single blue whale has _ever_ been scientifically measured at 100 feet. Mainstream media, in its quest for sensational stories, has perpetuated this myth, overshadowing scientific data that places the average size much lower. This discrepancy not only distorts our understanding of these magnificent creatures but also highlights the broader issue of how media can shape and sometimes mislead public perception of scientific facts. 
 
@@ -84,7 +84,7 @@ So, why does nearly every citation online and elsewhere regularly cite the 100-f
 
 All said, blue whales remain incredible and incredibly large animals, and deserve our appreciation and protection. Their impressive rebound over the last half-century is to be widely celebrated, but let’s not, in the spirit of scientific inquiry, overstate their magnificence. They are magnificent enough.  
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 * * *
 

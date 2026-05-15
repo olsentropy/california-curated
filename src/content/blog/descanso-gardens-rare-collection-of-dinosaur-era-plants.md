@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Imagine a world lost in deep time. The atmosphere held less oxygen than at any point since the Cambrian explosion, and the land was dominated by iconic dinosaurs like Allosaurus, Brachiosaurus, [Archaeopteryx](<https://en.wikipedia.org/wiki/Archaeopteryx>), and Stegosaurus. It was an era poised for a new type of plant life that would come to define the landscape—cycads. While Jurassic forests are often depicted as dense with ferns, with their coiled fronds and lush foliage, these plants were not the sole stars of the ancient botanical world.
 
@@ -57,4 +57,4 @@ At Descanso Gardens, the cycads have been planted according to the geographic re
 
 If you'd like to learn more about Descanso Gardens, it's collections and how it came into being check out [**this episode**](<https://www.linktv.org/shows/lost-la/episodes/descanso-gardens>) of Lost LA. And if you're interested in seeing the cycad collection at Descanso Gardens for yourself, try visiting during the late afternoon, when the golden hour light heightens the beauty and mystery of these cool plants. 
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 California has long been a hub for berry innovation, boasting a rich history of developing countless berry cultivars. While it’s tough to pin down an exact number, the state’s contributions span a wide range of fruits, from strawberries to blackberries to [loganberries](<https://en.wikipedia.org/wiki/Loganberry>), raspberries, and even blueberries.
 
@@ -44,8 +44,8 @@ But back to Boysenberries. Let's finish this one up, shall we?
 Biologically, the boysenberry is a testament to the wonders of plant [hybridization](<https://en.wikipedia.org/wiki/Hybrid_\(biology\)>), showcasing the ability to combine distinct plant species to produce something entirely new. And tasty. The boysenberry isn’t just a product of careful crossbreeding, it’s a classic California story of perseverance, partnership, and a dose of luck. Sunshine helps too. It’s about how a nearly forgotten berry was saved from obscurity by two determined farmers and went on to become a symbol of California itself, thanks in part to the magic of an amusement park.  
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
-[![](https://californiacurated.com/wp-content/uploads/2024/09/beach-coffee-1.png?w=500)](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
-**Hey there! If you enjoy California Curated, consider [donating the price of a coffee](<https://ko-fi.com/californiacurated>) to support its creation!**
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

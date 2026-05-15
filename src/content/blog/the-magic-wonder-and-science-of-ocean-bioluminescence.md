@@ -13,7 +13,7 @@ author: "Erik Olsen"
 **How and why so many of earth's creatures make their own light.**
 
 
-[Buy us a cup of coffee? Lots of work goes into California Curated. We'd appreciate it! ](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Last month, [a video went viral](<https://www.instagram.com/reel/C1m4vvgpFbo/?utm_source=ig_embed&ig_rid=1f752268-d6df-42a7-bccf-b51716d973b9>) showing a small pod of dolphins swimming at night off the coast of Newport Beach. [Seeing dolphins](<https://www.instagram.com/p/BrwJWQABuFV/>) off Southern California is not particularly unusual, but this was a very special moment. In the video, the dolphins appear to be swimming through liquid light, their torpedo-shaped bodies generating an ethereal blue glow like a scene straight out of [Avatar](<https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.theartistation.com%2F2017%2F06%2Flook-inside-bioluminescent-avatar-theme-park%2F&psig=AOvVaw1Pfq3HB5V6yuD1lku1B6_2&ust=1588890218202000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCODfub-joOkCFQAAAAAdAAAAABAI>). The phenomenon that causes the blue glow has been known for centuries, but that in no way detracts from its wonder and beauty. The phenomenon is called [bioluminescence](<https://oceanservice.noaa.gov/facts/biolum.html>), and it is one of nature's most magical and interesting phenomena. 
 

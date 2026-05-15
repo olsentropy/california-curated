@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Amid the barren, high-altitude desert of California's [White Mountains](<https://en.wikipedia.org/wiki/White_Mountains_\(California\)>), the Bristlecone Pines stand as enduring sentinels, their gnarled forms chronicling millennia of survival in one of the planet's most unforgiving landscapes. For thousands of years, these ancient organisms have endured drought, freezing temperatures, and brutal winds. Each twisted trunk and weathered branch tells a story of resilience. Yet in a bitter twist, one of the oldest among them, a tree known as [Prometheus](<https://www.nps.gov/grba/learn/historyculture/the-prometheus-story.htm>) that once grew in the nearby [Great Basin National Park](<https://en.wikipedia.org/wiki/Great_Basin_National_Park>), met its end not from the slow violence of nature but from a single human decision. And it wasn’t the result of malice or careless destruction, like the foolish [vandals who felled the U2 Joshua Tree](<https://www.dailymail.co.uk/news/article-2971368/U2-fan-pilgrimaged-band-s-Joshua-Tree-outraged-finding-CHOPPED-California-desert.html>). It was a mistake, made in the name of science.
 
@@ -54,4 +54,4 @@ The cutting of Prometheus was a mistake, an irreversible loss. But its story bec
 
 Today, a cross-section of Prometheus is on display at the [Great Basin National Park](<https://www.nps.gov/grba/index.htm>) visitor center in Nevada, as well as the U.S. Forest Service's [Institute of Forest Genetics ](<https://research.fs.usda.gov/psw/labs/locations/placerville>)in Placerville, California. The tree’s thousands of growth rings are a reminder of its incredible longevity and a sobering memory of the tree that had survived for millennia. The region’s diverse landscapes are home to an incredible abundance of life, from ancient trees to unique coastal ecosystems. Protecting and understanding these natural treasures ensures they remain for future generations to study, appreciate, and enjoy.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

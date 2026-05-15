@@ -13,7 +13,7 @@ author: "Erik Olsen"
 
 ## At Caltech, Clair Patterson's relentless determination to understand the health impacts of atmospheric lead changed the world for the better. 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 It started by asking one of the biggest questions of them all: _how old is the earth?_
 
@@ -114,7 +114,7 @@ Clair Patterson is a name that few people know today, yet his work not only chan
 
 Clair Patterson is one of the most unsung of the great 20th-century scientists, and his name deserves to be better known. 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 * * *
 

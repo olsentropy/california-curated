@@ -12,7 +12,7 @@ author: "Erik Olsen"
 
 [(The Caltech Archives](<https://digital.archives.caltech.edu/islandora/object/image%3A1780>))
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 _"Here in Pasadena, it is like Paradise. Always sunshine and clear air, gardens with palms and pepper trees and friendly people who smile at one and ask for autographs." - Albert Einstein (U.S. Travel Diary, 1930-31, p. 28)_
 
@@ -69,4 +69,4 @@ Today, a large collection of Einstein's papers are part of the [Einstein Papers 
 
 During his third and final visit to Caltech in 1933, Hitler rose to power as Chancellor of Germany. Realizing that, as a Jew, he could not safely return home, Einstein lingered in Pasadena a little longer before traveling on to Belgium and eventually Princeton, where he received tenure. He never returned to Germany, or to Pasadena. Yet he often spoke fondly of the California sunshine, which he missed, and in its own way, the sunshine seemed to miss him too.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

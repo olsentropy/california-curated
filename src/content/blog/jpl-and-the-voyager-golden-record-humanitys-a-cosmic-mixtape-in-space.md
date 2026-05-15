@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 The Jet Propulsion Laboratory (JPL) in La Canada Flintridge, California is well-known for building and sending spacecraft far into the cosmos to help us better understand the universe. But the agency was also extensively involved in one of the most ambitious and symbolic projects in the history of space exploration, one that in many ways was more art than science: the [Voyager Golden Record](<https://voyager.jpl.nasa.gov/golden-record/>).
 
@@ -71,4 +71,4 @@ Sounds of Human Origin: Beyond natural and environmental sounds, the record also
 
 The idea behind the Voyager Golden Record is not just to communicate where and who we are but also to share a message of hope and peace with any possible recipient, even if that recipient is far in the future. The chances of the Voyager spacecraft actually being found by extraterrestrial life are slim, but the Golden Record serves as a profound gesture of goodwill and a testament to the human spirit's longing to reach out and explore the universe.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

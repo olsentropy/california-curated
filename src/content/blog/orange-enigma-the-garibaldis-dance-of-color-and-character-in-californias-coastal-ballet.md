@@ -10,6 +10,8 @@ tags: ["california", "environment", "fish", "garibaldi", "ocean", "pacific-ocean
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 
 Underwater photos of California’s coast featured in books and magazines almost always showcase a certain fish: the garibaldi. Within the underwater kaleidoscope of California's coastal waters, the Garibaldi fish stands out with its fiery orange hue. The garibaldi, a member of the damselfish family, is [the California State marine fish](<https://www.nps.gov/chis/learn/nature/garibaldi.htm#:~:text=The%20garibaldi%2C%20a%20member%20of,Baja%20coastline%20waters%20of%20Mexico.>), and its possession is illegal.
 
@@ -57,4 +59,4 @@ In the world of marine biology, where hidden wonders often lie beneath the waves
 
 ![](https://californiacurated.com/wp-content/uploads/2024/09/beach-coffee-1.png?w=500)
 
-**Hey there! If you enjoy California Curated, consider [donating the price of a coffee](<https://ko-fi.com/californiacurated>) to support its creation!**
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

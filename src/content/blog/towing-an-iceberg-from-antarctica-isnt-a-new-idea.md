@@ -10,6 +10,8 @@ tags: []
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 ### It was proposed 70 years ago by a maverick California scientist at Scripps. 
 
 Sign up for the [**California Science Weekly newsletter**](<https://mailchi.mp/532b7112b1a4/californiascienceweekly>). Fresh California science every Friday!

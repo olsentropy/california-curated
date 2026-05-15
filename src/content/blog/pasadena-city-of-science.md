@@ -13,7 +13,7 @@ author: "Erik Olsen"
 **How Pasadena Became a Hub of Scientific Endeavor**
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Yeah, yeah, you know the Rose Bowl.
 
@@ -57,4 +57,4 @@ Pasadena’s prowess in scientific innovation is further amplified by the presen
 
 Pasadena's status as a city of science is not just rooted in its institutions but also in its history and the ongoing contributions of its residents and thinkers. The city continues to be a fertile ground for scientific discovery and technological innovation, reflecting a deep-seated culture that celebrates curiosity and the pursuit of knowledge. This environment not only attracts some of the brightest minds from around the globe but also supports them in pushing the boundaries of what is possible, making Pasadena a true city of science.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

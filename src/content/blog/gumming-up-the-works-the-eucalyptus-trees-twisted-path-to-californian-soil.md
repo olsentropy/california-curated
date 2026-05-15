@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 The California landscape is dotted with numerous plant species, [many of them native](<https://en.wikipedia.org/wiki/List_of_California_native_plants>), but few have a story as rich and multi-faceted as the eucalyptus tree. Native to Australia, this tree has made California its home over the past century and a half, creating a blend of wonder, economic expectation, and ecological concerns.
 
@@ -91,4 +91,4 @@ The final verdict on the fate of eucalyptus in Southern California has yet to be
 
 The eucalyptus tree's journey in California is a tale of expectations, surprises, and evolving perspectives. Whether viewed as an ornamental marvel or an ecological concern, the eucalyptus remains an integral part of California's diverse tapestry.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

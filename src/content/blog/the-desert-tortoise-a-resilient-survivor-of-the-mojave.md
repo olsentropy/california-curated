@@ -10,6 +10,8 @@ tags: ["animals", "california", "climate-change", "desert", "environment", "tort
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 
 The Mojave Desert, a harsh yet strikingly beautiful landscape that extends across four western U.S. states, is home to an equally fascinating and resilient creature: the desert tortoise (_Gopherus agassizii_). This fascinating reptile has evolved to survive in one of the world's most inhospitable environments, but today, it faces numerous threats that are jeopardizing its existence. 
 

@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 It is no coincidence that ["Eureka" is the state motto of California](<https://capitolmuseum.ca.gov/state-symbols/motto-eureka/#:~:text=The%20State%20Motto%20that%20appears,287%2D212%20B.C.E.\)>). From its founding, the state has been a hub of groundbreaking discoveries, from [the Gold Rush](<https://californiacurated.com/2023/06/07/the-unearthed-truth-hydraulic-minings-lingering-legacy-in-california/>) to advancements in space exploration, the rise of Silicon Valley and the development of modern computing, the [development of seismic science](<https://oralhistories.library.caltech.edu/17/>), and the confirmation of the [accelerating expansion of the universe](<https://californiacurated.com/2023/08/10/mt-wilson-observatory-a-celestial-time-capsule/>). But one discovery made at the [University of California, Berkeley](<https://californiacurated.com/2023/06/27/j-robert-oppenheimer-the-berkeley-era-and-the-birth-of-the-manhattan-project/>), changed the way we see the world—or at least how it was almost destroyed, along with a huge part of life on the planet. 
 

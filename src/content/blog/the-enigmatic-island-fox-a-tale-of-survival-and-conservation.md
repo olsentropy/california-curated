@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 In the rugged, isolated beauty of California's Channel Islands, a small, curious creature scampers through the chapparal, playing a crucial role in the archipelago's ecosystem. It’s the Island Fox _(Urocyon littoralis)_ , a species that encapsulates both the vulnerability and resilience of island ecosystems.
 
@@ -37,6 +37,6 @@ A concerted effort by conservationists, including the [National Park Service](<h
 
 The Island Fox's journey from the brink of extinction to a conservation success story is a testament to the power of dedicated conservation efforts. It also highlights the importance of maintaining ecological balance in sensitive environments like the Channel Islands.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)

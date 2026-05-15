@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Few organisms in the history of science have been as important to our understanding of life as the humble fruit fly. The genus _[Drosophila melanogaster](<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5831767/>)_  holds a particularly esteemed spot among the dozens of model organisms that provide insight into life’s inner workings. For more than 100 years, this tiny, but formidable creature has allowed scientists to unwind the infinitesimal mechanisms that make every living creature on the planet what it is. 
 
@@ -67,4 +67,4 @@ As science advances, Caltech's Fly Lab's remind us of the power of curiosity, pe
 
 In essence, the fruit fly remains a key to unlocking the wonders and intricacies of life, and in the Fly Labs at Caltech, that spirit of discovery thrives, ensuring that the legacy of Morgan, Lewis, Benzer, and their successors will continue to inspire generations of scientists to come.
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

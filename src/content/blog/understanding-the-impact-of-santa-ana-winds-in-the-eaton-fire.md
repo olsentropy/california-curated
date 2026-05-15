@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 The recent fires that swept through sections of Los Angeles will be remembered as some of the most destructive natural disasters in the city’s history—a history already marked by earthquakes, floods, and the potential for tsunamis. Yet, even a week later, confusion persists about what happened. Predictably, the finger-pointing has begun, with political opportunism often overshadowing rational analysis. This is, unfortunately, emblematic of our current climate, where facts are sometimes twisted to suit individual agendas. What we need now is a sound, scientific examination of the factors that led to this catastrophe—not just to better prepare for future disasters, but to deepen our understanding of the natural forces that shape our world.
 

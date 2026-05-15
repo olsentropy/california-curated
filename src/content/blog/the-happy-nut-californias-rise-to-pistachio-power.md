@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just buck or two. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 I just got back from a filming assignment in California’s Central Valley. That drive up I-5 and Highway 99 is always a strange kind of pleasure. After climbing over the Grapevine, the landscape suddenly flattens and opens into a vast plain where farmland and dry earth stretch endlessly in every direction. A pumpjack. A dairy farm. Bakersfield. There’s a mysterious, almost bleak beauty to it. Then come the long stretches where the view shifts from dust to trees: pistachio trees. Especially through the San Joaquin Valley, miles of low, gray-green orchards extend to the horizon. At various points, I busted out a drone and took a look, and as far as I could see, it was pistachio trees. A colorful cluster of pistachios hung from a branch and I picked on and peeled off the fruity outer layer. There was that familiar nut with the curved cracked opening. The smiling nut.
 
@@ -53,6 +53,6 @@ Another strange quirk of pistachios is that they are green and, if you look clos
 
 As I walked among the pistachio trees recently, I marveled at how alone I was on one of the dirt roads off Highway 99. Not a soul in sight, only the hum of irrigation pumps and the rattle of dry leaves in the breeze. I like to write about the things we all see and experience in California but rarely stop to look at closely. Pistachios are one of those things. If you’ve ever driven through the San Joaquin Valley, you’ve seen how the landscape stretches for miles in orderly rows of pistachio trees. It’s easy to forget, amid the fame of Silicon Valley and Hollywood, that so much of California’s wealth still comes from the land itself, from agriculture and other extractive industries. The pistachio boom is a story of astonishing scale, but it’s also riven with the contradictions and complexities of modern California itself, where innovation and exploitation often grow from the same soil.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![](https://californiacurated.com/wp-content/uploads/2025/11/mockup-of-an-11-oz-coffee-mug-placed-on-a-wooden-table-43523-r-el2.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)Get California wildlife gifts at [our Etsy store](<https://www.etsy.com/shop/CaliforniaCuratedUS>). It helps support us!

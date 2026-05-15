@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 You can keep your Oscars, Emmys, Grammys, and Tonys. Take your Pulitzers, Bookers, and Peabodys, too. Even the Pritzker and the Fields Medal don’t quite measure up. For me, nothing competes with the Nobel Prize as a symbol that someone has truly changed the world.
 
@@ -66,4 +66,4 @@ I think the secret is cultural. Over the years, I’ve lived on the East coast f
 
 When next year’s round of early morning calls comes from Stockholm, it is a good bet that someone in California will pick up. Maybe a physicist in Pasadena, a chemist in Berkeley, or a physician in La Jolla. Maybe they’ll pick up the phone in bed, maybe a text from a spouse while camping, or on a morning jog. That’s when a Swedish-accented voice tells them that the world has just caught up to what they’ve been quietly building for years.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

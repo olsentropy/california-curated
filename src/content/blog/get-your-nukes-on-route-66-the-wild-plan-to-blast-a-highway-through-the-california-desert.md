@@ -62,4 +62,4 @@ While it never came to fruition, Project Carryall remains a striking example of 
 
 Today, the Carryall project is memorialized by a roadside marker in [Ludlow](<https://en.wikipedia.org/wiki/Ludlow,_California>), the nearest town to the west of the site.
 
-[Do you like California Curated? Click to buy us a coffee. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

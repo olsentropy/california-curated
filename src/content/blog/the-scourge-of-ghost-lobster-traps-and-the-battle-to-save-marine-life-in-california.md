@@ -10,6 +10,8 @@ tags: ["anacapa", "anacapa-island", "animals", "beach", "california", "channel-i
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 
 Lobster is delicious. Let’s just get that out of the way. Yes, I’m sure there are some who either don’t enjoy the taste of this prolific crustacean, or who are allergic, but for my part, lobster (with a small vial of melted butter) is ambrosia from the sea.
 

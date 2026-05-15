@@ -10,24 +10,7 @@ tags: ["asilmar", "dna", "paul-berg"]
 author: "Erik Olsen"
 ---
 
-**How a gathering of the world's top genetic scientists helped create a roadmap for responsible biology.**
-
-
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
-
-In 1975, amidst the California coastal dunes of Asilomar near Monterey, a groundbreaking conference was held that would influence the direction of biotechnology and the course of scientific research for decades to come. This was the [Asilomar Conference on Recombinant DNA](<https://en.wikipedia.org/wiki/Asilomar_Conference_on_Recombinant_DNA>), an assembly marked by both controversy and consensus. Its aim was not just to debate the scientific merits of a new and potentially groundbreaking technology but also to discuss its potential impacts on society and the environment. (Berg and others had met as Asilomar before in 1973, but that initial meeting resulted in little more than a realization there would have to be more discussion).
-
-![](https://californiacurated.com/wp-content/uploads/2023/06/olsentropy_recombinant_dna_c472f491-5828-4d7c-9093-6136a80c7959.png?w=1024)DNA
-
-Among the seventy-five participants from sixteen countries were [Paul Berg](<https://www.nobelprize.org/prizes/chemistry/1980/berg/facts/>), a Nobel laureate, [Maxine Singer](<https://sciencehistory.org/education/scientific-biographies/maxine-singer/>), a prominent molecular biologist, and many others, each bringing their own perspective and expertise to the table. They recognized the vast potential that recombinant DNA (rDNA) technology, the process of combining DNA from different species, had to offer but were equally cognizant of the potential risks involved.
-
-Berg was awarded the Nobel Prize in Chemistry for his work on nucleic acids, with a focus on [recombinant DNA](<https://www.genome.gov/genetics-glossary/Recombinant-DNA-Technology>). Berg had first-hand experience with the transformative potential and risks of the technology. His ground-breaking experiments with recombinant DNA in 1972 and subsequent calls for a moratorium on such work had spurred the idea of the conference.
-
-Maxine Singer, another significant contributor, was known for her advocacy for scientific responsibility and ethical considerations. She played a crucial role in drafting the initial letter to the journal "Science" advocating for a voluntary halt on certain types of rDNA research until its potential risks could be better understood. In 2002, _[Discover](<https://en.wikipedia.org/wiki/Discover_\(magazine\)>)_  magazine recognized her as one of the 50 most important women in science. 
-
-![](https://californiacurated.com/wp-content/uploads/2023/07/poster_mockup_mountains-sun-1-copy.jpg?w=1024)
-
-**[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
+**How a gathering of the world's top genetic scientists helped create a roadmap for responsible biology.<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
 **Purchase stunning art prints of iconic California scenes.**   
 **[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
@@ -68,4 +51,4 @@ Today, the spirit of Asilomar lives on in the field of [synthetic biology](<http
 
 The Asilomar Conference was a milestone in scientific history, a demonstration that scientists are not merely the creators of knowledge but also its stewards. It showed that with open dialogue, proactive self-regulation, and a deep sense of responsibility, we can both harness the promise of scientific breakthroughs and mitigate their potential risks.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

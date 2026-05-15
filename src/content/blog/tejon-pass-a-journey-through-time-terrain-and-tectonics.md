@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 There's a drive that I've done many times where I tend to look around and wonder about the place. It's while I'm on I-5 headed north, a while after passing Santa Clarita, Magic Mountain (I always strain to see if there are people on the roller coasters), and the [CalArts](<https://calarts.edu/>) up on the hill (where so many [Pixar legends](<https://signalscv.com/2016/09/the-mystery-behind-pixars-hidden-a113/>) once trained). 
 
@@ -70,4 +70,4 @@ Soon, however, you leave Tejon Pass behind and continue north on I-5, dropping i
 
 Tejon Pass is one of those places most people barrel through without a second thought. It's just a steep stretch of I-5 between Los Angeles and the Central Valley, a name on a weather report when the Grapevine closes in winter. But if you take a moment to look beyond the guardrails and gas stations, you’ll find a landscape layered with deep history and surprising complexity. Knowing what lies beneath the pavement won’t make the climb any less steep—but it might make the ride a little more meaningful.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

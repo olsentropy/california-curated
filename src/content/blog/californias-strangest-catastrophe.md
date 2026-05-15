@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 In California’s southeastern desert, the [Salton Sea](<https://en.wikipedia.org/wiki/Salton_Sea>) stretches across a wide, shimmering basin, a lake where there shouldn’t be one. At about 340 square miles, it’s the state’s largest lake. But it wasn’t created by natural forces. It was the result of a major engineering failure. I’ve long been fascinated with the place: its contradictions, its strangeness, its collision of nature and human ambition. It reflects so many of California’s tensions: water and drought, industry and wilderness, beauty and decay. And it was only relatively recently that I came to understand not just how the Salton Sea came to exist, but how remarkable the region’s geological past really is, and how it could play a major role in the country’s sustainable energy future.
 
@@ -60,4 +60,4 @@ Companies like [Controlled Thermal Resources](<https://www.cthermal.com/>) (CTR)
 
 Such projects could also potentially provide significant economic investment in the region and help power California's green energy ambitions. So for a place that looks kind of wrecked and desolate, there actually a lot going on. We promise to keep an eye on what happens. Stay tuned. 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

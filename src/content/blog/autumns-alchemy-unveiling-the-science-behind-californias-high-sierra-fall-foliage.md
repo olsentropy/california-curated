@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Ah, the changing of the leaves—a hallmark of autumn that heralds the end of long summer days and the arrival of crisp, cool weather. The spectacle is especially captivating in the high Sierra region of California, where deciduous trees put on a breathtaking show every year. This year's show began in early October with an explosion of gold, persimmon, and vibrant orange blanketing the granite crags of the Eastern Sierra. 
 
@@ -52,4 +52,4 @@ While the fall colors in California's Eastern Sierra are an annual marvel, they'
 
 The transformation of leaves in the high Sierra is far more than a seasonal aesthetic; it's a vivid illustration of how meticulously nature has calibrated life to adapt and thrive. As the leaves cycle through shades of green, orange, red, and finally brown, they tell a tale of survival and renewal, a complex story scripted in their very cells. This fall spectacle is a fleeting moment of brilliance, orchestrated by an array of biological, chemical, and physical processes, each contributing to the grand narrative of life on Earth. In essence, each leaf is a microcosm of resilience and change, characteristics not just of a California autumn, but of life itself.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 _“Man is a geologic agent,” the late California geologist Eldridge Moores._
 
@@ -81,4 +81,4 @@ In [Assembling California](<https://amzn.to/43YbTOq>), McPhee remarked that "geo
 
 Manmade creations like roadcuts greatly assist geologists in their work. In essence, roadcuts are not just incidental byproducts of infrastructure development; they are key to understanding California's complex geological evolution. They tell stories of ancient environments, tectonic upheavals, and the slow but inexorable forces that continue to mold the landscape. For geologists in California, the roadcut is a portal into the deep past, offering a tangible connection to the processes that have made the state what it is today.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

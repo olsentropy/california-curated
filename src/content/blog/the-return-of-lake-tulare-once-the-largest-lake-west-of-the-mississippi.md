@@ -10,6 +10,8 @@ tags: []
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 
 The massive atmospheric snowstorms that pummeled California this year have been a boon to ski slopes throughout the Sierra Nevada mountains. But the rains have had an unusual result: The torrents of rain have drowned thousands of acres of farmland in California’s Central Valley and resuscitated a lake that vanished decades ago. Standing in an area that was dry as a bone just a year ago, right now, as far as the eye can see, water stretches to the horizon. It has covered roads, and crop fields, and submerged homes and buildings.
 

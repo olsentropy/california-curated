@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 If you’ve recently encountered this Website, welcome. I hope you find something here that feeds your interests and gives you a reason to look a little more closely at the world around you. And if you’ve been here for a while, I’m genuinely grateful you’ve stuck around. What a few years ago as a passion project has slowly turned into something closer to an obsession. It felt like a good moment to pause and explain what this is really about. If I had to choose one or two words, it would be curiosity…and ignorance.
 
@@ -67,4 +67,4 @@ Every story begins with something small, a sighting, a conversation, an otherwis
 
 That is what California Curated is about. Paying attention. Following the questions. And sharing what we find.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

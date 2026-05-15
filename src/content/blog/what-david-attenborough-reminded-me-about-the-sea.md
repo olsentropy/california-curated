@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 I’m going to keep this week’s article shorter than usual. I want to talk about the ocean. I know I do this a lot; many articles on California Curated are ocean-related ([please explore](<https://www.google.com/search?q=site%3A+californiacurated.com+%22ocean%22&oq=site%3A+californiacurated.com+%22ocean%22&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg60gEIOTgzMWowajSoAgCwAgE&sourceid=chrome&ie=UTF-8>), I think you'll enjoy them). But that’s because I honestly believe it’s the most important feature on the planet. Protecting the ocean is the most important thing we can do. Let me explain.
 
@@ -57,4 +57,4 @@ So I’ll step off the soapbox now and let you enjoy your day. But before you cl
 
 Watch the documentary. Let it educate and inspire you. It might fill you with dread too. But in the end, its message is hopeful. And that message lands right here off the coast of California, the greatest state in the country. Or at least, that’s the opinion of one well-traveled guy with a newsletter about the state he loves.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

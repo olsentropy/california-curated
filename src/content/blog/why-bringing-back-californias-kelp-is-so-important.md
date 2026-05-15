@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Two centuries ago, the waters off the California coast were home to a vibrant ecosystem of plants and animals. Vast forests of kelp provided habitat for thousands of species of fish and invertebrates. Some of these kelp forests were so dense that light hardly penetrated to the seafloor. But now, along much of the coastline, the kelp is all but gone. 
 
@@ -56,4 +56,4 @@ Other strategies are outlined in the [Sonoma-Mendocino Bull Kelp Recovery Plan]
 This may all be too little too late. We believe state, local and federal agencies should redouble their efforts now to mitigate the loss of kelp in California waters. The implications for further, perhaps total, loss of California's once-flourishing kelp forests are just too dire and action is required now. As the authors of the report write “it may take decades before the complex biological communities, associates, and the ecosystem services provided by [macroalgal](<http://www.gbrmpa.gov.au/__data/assets/pdf_file/0019/3970/SORR_Macroalgae.pdf>) [seaweed] forests rebound.”   
 
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

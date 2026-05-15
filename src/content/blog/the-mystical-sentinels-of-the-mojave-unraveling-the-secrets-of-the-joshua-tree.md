@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Standing tall against the backdrop of the sun-scorched [Mojave Desert](<https://www.nps.gov/moja/>), the Joshua Tree (Yucca brevifolia) is an emblematic figure of resilience and beauty. With its twisted, bristled limbs reaching towards the sky, this iconic species is not just a tree but a symbol of the untamed wilderness that is California's desert landscape. 
 
@@ -51,4 +51,4 @@ Although California came out of drought in 2023, there is no guarantee that dry,
 
 The Joshua Tree's importance to California's landscape is indelible. It's not only an ecological mainstay but also a cultural and historical icon, inspiring artists, musicians, and nature lovers alike. The trees' spiky profiles are a testament to the unrivaled beauty of the American West.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Southern California is best known for its sun-soaked beaches and Hollywood glamour, but it also has a wilder, largely forgotten past: it was once an oil kingdom. It’s a story even many Californians don’t know, a tale of spectacular gushers, fortunes won and lost, and larger-than-life characters straight out of a movie. Without oil, Los Angeles, and much of Southern California, would be very different places today.
 
@@ -74,4 +74,4 @@ Over time, oil production in Southern California has waxed and waned. The easily
 
 The story of oil in Southern California, particularly the Long Beach fields, is a saga of geologic luck, ambition, ingenuity, and, at times, dangerous greed. It's a chapter in the state's history that's as rich and complex as the oil that still lies beneath its surface, and yet it remains largely unknown to many people who think of Southern California as a paradise of sand and rolling waves.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

@@ -13,7 +13,7 @@ author: "Erik Olsen"
 **In the 1960s, as America raced to the Moon, the Navy sent aquanauts to the ocean floor off La Jolla in an ambitious experiment called SEALAB II.**
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Lately, with [Artemis II](<https://en.wikipedia.org/wiki/Artemis_II>) swinging around the far side of the Moon and sending back stunning footage of an earthrise, space is kind of exciting again. Seeing Earth from that perspective reminds us what big, ambitious projects can do...recent [NASA defunding](<https://www.latimes.com/politics/story/2026-04-19/renewed-threat-to-jpl-as-trump-administration-tries-again-to-cut-nasa>) notwithstanding (what a disaster).
 
@@ -113,6 +113,6 @@ There are several encouraging signs that the idea may not be entirely gone. Proj
 
 This project is new to me. I only discovered it while reporting out this article. DEEP is a British company, but they’ve been building out facilities in both the U.K. and the U.S., [including a pilot deployment](<https://www.deep.com/article/vanguards-deployment-location-in-the-florida-keys>) at [Tennessee Reef in the Florida Keys National Marine Sanctuary](<https://www.deep.com/article/florida-keys-selected-for-vanguard-subsea-habitat-deployment>). This is supposed to happen as early as the end of May 2026. So, wow, yeah. Pretty neat.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![](https://californiacurated.com/wp-content/uploads/2025/08/california-quail-mockup-4.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)[Please check out our California wildlife shop for great gifts!](<https://www.etsy.com/shop/CaliforniaCuratedUS>)

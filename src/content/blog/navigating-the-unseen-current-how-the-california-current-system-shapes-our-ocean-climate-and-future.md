@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 The stretch of water hugging the western shores of North America is a biological powerhouse, teeming with life and considered one of the most fertile marine environments on the planet. The California Current, originating from the colder regions up near British Columbia, sweeps its way down toward Baja California, extending laterally several hundred miles offshore into deep oceanic waters off the continental shelf. The current brings with it not just frigid waters but also a richness of life. As if choreographed, winds usually gust from the land towards the ocean, nudging surface waters away from the coastline. This displacement makes room for deeper, nutrient-packed waters to ascend, in a phenomenon aptly termed upwelling. [Coastal upwelling](<https://www.fisheries.noaa.gov/west-coast/science-data/oceanography-northern-california-current-study-area#:~:text=The%20California%20Current%20system%20is,waters%20off%20the%20continental%20shelf.>) is the dominant physical forcing affecting production in the California Current System.
 
@@ -52,4 +52,4 @@ So why is all of this important? Well, the California Current is a vital cog in 
 
 But as we confront a changing climate, the CCS is a poignant reminder that even the most stable and established natural systems are not immune to disruption. Therefore, understanding it is not just an academic exercise, but a necessary step in safeguarding the fragile balance of life along the western edge of North America.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

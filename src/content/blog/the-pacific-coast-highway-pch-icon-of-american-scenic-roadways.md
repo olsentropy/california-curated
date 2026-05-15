@@ -10,6 +10,8 @@ tags: ["california", "climate-change", "environment", "geology", "pacific-ocean"
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 
 The Pacific Coast Highway (PCH), also known as [California State Route 1](<https://en.wikipedia.org/wiki/California_State_Route_1>), is one of the most iconic roads in the United States, renowned for its breathtaking views of the Pacific Ocean and rugged coastline. This scenic highway stretches over 650 miles from Dana Point in Orange County in Southern California to Mendocino County in Northern California, offering travelers unparalleled vistas and a quintessential [Californian road trip experience](<https://www.visitcalifornia.com/experience/highway-ones-most-scenic-stops/>). While some suggest that PCH runs from Mexico to Canada, that is mistaken. U.S. Route 101 continues north from California, running along the coast through Oregon and Washington, up to the Olympic Peninsula. That said, it is still the longest state route in California and the second-longest in the US after [Montana Highway 200](<https://en.wikipedia.org/wiki/Montana_Highway_200>). The story of its construction is as dramatic and intricate as the landscape it traverses.
 
@@ -71,4 +73,4 @@ Still, it remains a pretty excellent place to take a drive. As [the Boss](<https
 
 ![](https://californiacurated.com/wp-content/uploads/2024/09/beach-coffee-1.png?w=500)
 
-**Hey there! If you enjoy California Curated, consider [donating the price of a coffee](<https://ko-fi.com/californiacurated>) to support its creation!**
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

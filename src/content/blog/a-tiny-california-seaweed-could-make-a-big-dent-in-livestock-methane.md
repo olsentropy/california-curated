@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click here to support us! We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Inside a long, brightly lit basement lab at the [Scripps Institution of Oceanography at UC San Diego](<https://scripps.ucsd.edu/>), a large aquarium filled with live corals sits against the wall, the vibrant shapes and colors of the coral standing out against the otherwise plain white surroundings. Nearby, in a side alcove, dozens of glass flasks bubble with aerated water, each holding tiny crimson clusters of seaweed swirling in suspension, resembling miniature lava lamps. These fragile red fragments, born in California and raised under tightly controlled conditions, are part of a global effort to harness seaweed to fight climate change. 
 
@@ -55,4 +55,4 @@ To overcome these obstacles, collaborations are underway. UC San Diego and UC Da
 
 At a time when university-based science faces immense pressures, the Smith Lab at Scripps provides a glimpse of research that is making a real impact. The coral tanks against the wall belong to another project at the lab, and we have another story coming soon about the research that readers will find very interesting, but the bubbling flasks in the alcove reveal how breakthroughs often start with small details. In this case, the discovery that a chemical in a widely available seaweed could have such a dramatic, and apparently harmless, effect on the methane that animals make in their guts. These modest but powerful steps are shaping solutions to global challenges, and California, with its wealth of scientific talent and institutions, remains at the forefront. It is one of many other stories we want to share, from inside the labs to the wide open spaces of the state’s natural landscapes. 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

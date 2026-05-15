@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 I recently revisited a book I enjoyed: [The Blue Machine](<https://amzn.to/4pzsSyz>) by physicist, oceanographer, and writer [Helen Czerski](<https://www.helenczerski.net/>). It is a beautifully clear exploration of the deep mechanics of the ocean and why those processes are so essential to keeping our planet cool, biodiverse, and stable.
 
@@ -65,4 +65,4 @@ Upwelling is one of those critical oceanic processes that helps maintain our sta
 
 Of course, I do not mean for this piece to be yet another downer about climate change. California’s coastal ecosystem is, in many ways, healthier today than it has been in decades, thanks to policies and practices put in place once we began to understand what was truly at stake. Whenever I get offshore and experience the ocean firsthand, I feel deeply grateful for what we have now, even as I remain aware that it is something we could still damage if we’re stupid and careless…which is not out of the question. The encouraging part is that Californians have shown, again and again, a real capacity to rally when it matters. For now, then, it is worth appreciating what we have and getting out there to experience it whenever you get the chance.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

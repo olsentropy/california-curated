@@ -10,6 +10,8 @@ tags: ["bekins-building", "concrete", "earthquakes", "san-francisco"]
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 
 When the [1906 earthquake](<https://earthquake.usgs.gov/earthquakes/events/1906calif/18april/>) struck San Francisco, most of the buildings at the time in the city were made of wood (like [redwood](<https://californiacurated.com/2020/03/04/why-are-californias-redwoods-and-sequoias-so-big/>) harvested from the once vast stands of coastal redwood that grew in Northern California). This did not bode well for San Franciscans because immediately after the earthquake, a series of fires spread quickly over the city, largely razing to the ground almost every wooden structure that withstood the tremblor. 
 

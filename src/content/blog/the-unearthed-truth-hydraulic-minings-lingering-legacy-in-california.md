@@ -10,24 +10,7 @@ tags: ["california", "environment", "gold-rush", "hydraulic-miing"]
 author: "Erik Olsen"
 ---
 
-**While the gold rush was an incredible boon for California, hydraulic mining’s environmental toll—eroded hillsides and choked rivers—remains a stark reminder of the cost of progress.**
-
-
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
-
-_“Earth provides enough to satisfy every man’s needs, but not every man’s greed.”_ — Mahatma Gandhi
-
-_“Greed is a bottomless pit which exhausts the person in an endless effort to satisfy the need without ever reaching satisfaction.”_ — Erich Fromm
-
-It was the tail end of the 19th century, a time of gunslingers and gold-diggers, of pioneers venturing forth into the vast expanse of the American West. The year was 1853, and the place was California. From the bustling seaports of San Francisco to the rugged mining towns dotting the Sierra Nevada foothills, the Golden State was witnessing an unprecedented phenomenon. This was the era of the California Gold Rush, a frenzy of ambition, adventure, and avarice that transformed the state and the nation.
-
-![](https://californiacurated.com/wp-content/uploads/2023/06/gold-rush-gold-rush-upscale-4x.jpeg?w=1024)
-
-The Gold Rush began in 1848 when gold nuggets were discovered at [Sutter's Mill](<http://sfmuseum.org/hist6/grush.html>) in Coloma, near Sacramento. Soon after, miners from around the world rushed to California, lured by the promise of riches. But as the easily accessible placer deposits in river beds were quickly exhausted, the miners were forced to develop new, more efficient methods of extraction to mine the deeper and harder-to-reach gold seams. Thus, hydraulic mining - a form of mining that utilized high-pressure water jets to wash away soil and rock, revealing the precious metal underneath - was born.
-
-![](https://californiacurated.com/wp-content/uploads/2023/07/poster_mockup_mountains-sun-1-copy.jpg?w=1024)
-
-**[CALIFORNIA CURATED ART ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
+**While the gold rush was an incredible boon for California, hydraulic mining’s environmental toll—eroded hillsides and choked rivers—remains a stark reminder of the cost of progress.<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>[CALIFORNIA CURATED ART ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
 **Purchase stunning art prints of iconic California scenes.**   
 **[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
@@ -85,4 +68,4 @@ Throughout history, humanity has often pursued wealth at the expense of the natu
 
 More information: [KQED Documentary](<https://www.youtube.com/watch?v=PV547grgDL4>)
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

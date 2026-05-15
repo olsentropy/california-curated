@@ -10,6 +10,8 @@ tags: ["coronavirus", "covid-19", "sars", "sars-cov-2"]
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 Pandemic as art.
 
 You've seen it. Probably a thousand or more times by now. It's the image of a greyish sphere, hanging in space, barbed with blood-red spikes. It looks like an undersea Navy mine... or perhaps a dog's chew toy. The Covid-19 coronavirus illustration is one of the best known and most viewed scientific illustrations in history. Released in early February by the [Centers for Disease Control and Prevention](<https://www.cdc.gov/>), the image has been seen on news sites, in magazines, even on SNL. 

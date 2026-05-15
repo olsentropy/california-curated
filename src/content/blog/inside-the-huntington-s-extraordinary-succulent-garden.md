@@ -14,6 +14,8 @@ author: Erik Olsen
 draft: false
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 Fifteen years ago, if you had asked me about the plants in my yard, I probably could have named one or two. But as I’ve grown older, with a family and a home of my own, I’ve started paying more attention to the living things around me. Over that time, I’ve developed a particular fascination with succulents. The sheer diversity of their forms, colors, patterns and textures blows me away. I’ve long thought James Cameron could create an incredible alien world simply by studying succulent plants.
 
 What fascinates me most is how these plants survive. Succulents have evolved remarkable strategies to endure punishing heat and prolonged drought. Some store water in leaves, others in swollen stems or roots. Many open their pores only at night, conserving moisture during the hottest hours of the day. The more I learned about them, the more I wanted to know.

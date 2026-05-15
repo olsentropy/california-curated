@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 In the vast expanses of California's Colorado Desert, less than four hours from Los Angeles, a series of ancient and enigmatic figures etched into the earth—the Blythe Intaglios—have long puzzled anthropologists and captivated the imagination of those who visit them or view them from the sky. They were brought to modern attention somewhat by chance. In 1932, [George Palmer](<https://www.thearchaeologist.org/blog/geoglyphs-called-blythe-intaglios-in-californias-desert>), a pilot flying over the Mojave Desert between Las Vegas, Nevada and Blythe, glimpsed these enigmatic formations, sparking curiosity and awe. 
 
@@ -46,4 +46,4 @@ Despite their historical and cultural significance, the Blythe Intaglios have no
 
 The Blythe Intaglios are more than just ancient art; they are a wonderful example of the rich and diverse cultural heritage of the indigenous peoples of the Southwest. These geoglyphs offer a window into a past that likely predates European influence, a past that is integral to understanding the complex tapestry of American history. Places like the Blythe Intaglios are in constant threat of disappearing forever, but they're important because they connect us with the human past and remind us of the power of human expression over time and the mysteries beneath our feet.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

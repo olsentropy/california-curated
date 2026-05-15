@@ -14,7 +14,7 @@ Andrew Innerarity / California Department of Water Resources.
 
 **Water, water, every where, nor any drop to drink.  ** _\-- Samuel Taylor Coleridge's poem The Rime of the Ancient Mariner.  _
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 The ocean covers about 70 percent of Earth’s surface and holds 96 percent of its water. But because it’s saturated with salt, it isn’t drinkable. Sailors have known this for centuries, and that’s a profound challenge for California, with more than 800 miles of coastline and a history of drought that has persisted for over two decades despite occasional relief from heavy rains.
 
@@ -74,7 +74,7 @@ The longer-term vision is [“water farms”](<https://www.oceanwellwater.com/>)
 
 Big picture, desalination works best as a specialty tool—it’s not the answer everywhere, but it can be a game-changer in the right spots. Think coastal towns with little groundwater, islands or peninsulas with fragile aquifers, or inland areas that get hit with salty water now and then. California’s rules now push projects toward gentler ocean intakes and better brine disposal, but the real strategy is a mix: conservation, stormwater capture, groundwater banking, recycled water, and just the right amount of desal. Those huge atmospheric river storms are not predictable. Who knows if we'll get another next year or the year after that? The next drought will come, and the communities that invested in a full toolkit will be the ones that hold up the best. 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 \------
 

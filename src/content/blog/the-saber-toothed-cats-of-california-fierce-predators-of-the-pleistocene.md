@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Buy us coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Around 15,000 to 20,000 years ago, the landscape near present-day Los Angeles was a diverse mix of environments shaped by the end of [the Ice Age](<https://en.wikipedia.org/wiki/Ice_age>). Cooler and wetter than today, it was dominated by savannah-like grasslands, wetlands, and patches of dense forests filled with towering oaks and pines. Prehistoric rivers and lakes dotted the landscape, nourishing a rich ecosystem teeming with life. Massive herbivores like mammoths, [giant ground sloths](<https://tarpits.org/experience-tar-pits/giants-ice-age>), bison, and ancient camels roamed these plains, foraging on abundant grasses and shrubs.
 

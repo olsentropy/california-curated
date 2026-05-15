@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Oak trees hold a profound presence in the landscape of California, constituting a living link between the state's rich biodiversity and cultural history. [Approximately 20 species](<https://oaks.cnr.berkeley.edu/oak-tree-species-id-ecology/>) of oak trees have been recorded in California, each playing a vital role in the ecosystem and making these trees an essential part of the state's natural landscape.
 
@@ -59,4 +59,4 @@ Research also plays a vital role in oak conservation. Scientists are continually
 
 By fostering a deeper connection between the people of California and their native oaks, these initiatives cultivate a broader culture of conservation that can help ensure the survival of these majestic trees for generations to come. The collective aim of these diverse conservation strategies is not merely the survival, but the flourishing of California's oaks, securing their rightful place in the state's rich and dynamic ecosystems.
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

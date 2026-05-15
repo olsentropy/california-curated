@@ -10,6 +10,8 @@ tags: ["bristlecones", "california", "trees"]
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 Last week we had the opportunity to head up Highway 395 into Big Pine where we made a left up to the [Ancient Bristlecone Pine Forest](<https://www.fs.usda.gov/detail/inyo/specialplaces/?cid=stelprdb5129900>). Because of the coronavirus, the place was empty. Not a soul to be seen anywhere. 
 
 **[We did a feature on bristlecones](<https://californiacurated.com/2020/01/17/the-majesty-and-mystery-of-californias-bristlecone-pine/>)** a few months ago in which we marveled at the majesty and seeming immortality of these incredible organisms, probably the longest living things on the planet. We brought along a drone to get some shots of these trees, whose gnarled, swirling branches are like something out of a fantasy novel. Take a minute (literally a minute) to enjoy. 

@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Basking under the sun, barking from buoys, and sometimes tormenting boat owners, the California sea lion (_Zalophus californianus_) is a familiar, playful marine mammal common up and down the coast. Known for their intelligence, dog-like demeanor, and underwater agility, they are a symbol of the Golden State's rich coastal biodiversity. Despite occasional years of periodic starvation and decline, the California sea lion has [made a remarkable recovery](<https://sfstandard.com/2024/05/01/san-francisco-sea-lions-set-seven-year-population-record/>) over the last two decades and is now one the most common marine mammals seen along the California coast. It's hard to go out in one of California's many harbors and not see at least one prowling about, often poking their heads above water to take a loud breath.
 
@@ -43,4 +43,4 @@ While California sea lions have made a remarkable recovery, ongoing conservation
 
 There’s something quietly remarkable about living alongside California sea lions. They slip through the surf with ease, haul out on docks and rocks, and bring a sense of life and motion to the coastline. Like puppies of the sea, they’re curious, playful, and deeply social. But they’re also resilient animals that have weathered challenges and bounced back. Not that threats still don't exist. But their presence is a reminder of the ocean’s complexity and beauty, and of how lucky we are in California to share our shores with them.
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

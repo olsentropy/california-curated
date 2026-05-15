@@ -27,7 +27,7 @@ wpSlug: the-man-who-saved-a-species
 
 **How biologist Phil Pister helped rescue a species that had nearly disappeared**
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 This is a happy story, but first we need to get through the downer stuff:
 
@@ -107,6 +107,6 @@ Pister managed to get the fish into cool, moving water where they could breathe 
 
 Today the Owens pupfish hangs on in a small constellation of protected springs and marshes in the Owens Valley. The largest populations in Fish Slough [may number in the thousands](<https://ecosphere-documents-production-public.s3.amazonaws.com/sams/public_docs/species_nonpublish/1338.pdf>), but altogether the species occupies only a few acres of habitat. In 2021, biologists even created a new refuge population to give the fish another chance.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![](https://californiacurated.com/wp-content/uploads/2026/04/california-quail-1024x683.webp)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)Shop our [California wildlife store](<https://www.etsy.com/shop/CaliforniaCuratedUS>). Dozens of great gifts featuring California fish and birds.

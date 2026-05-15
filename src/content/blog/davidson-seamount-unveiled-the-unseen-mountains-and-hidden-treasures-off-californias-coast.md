@@ -69,7 +69,7 @@ Octopus Garden between research expeditions. (Photo: MBARI)
 
 We can wax poetic about the mysteries of seamounts, but understanding them better is crucial for the preservation of marine ecosystems and for equipping ourselves with the knowledge to tackle environmental challenges. So, the next time you look out over the ocean, consider the hidden worlds lying beneath those waves—each a bustling metropolis of life and a potential goldmine of scientific discovery.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 More information: 
 

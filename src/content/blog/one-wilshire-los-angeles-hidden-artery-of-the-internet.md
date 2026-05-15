@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 I often discover these stories not from full articles, books, or podcasts, but from a single paragraph, or even a sentence, in them that makes me pause and think, _I want to know more._ That’s exactly how this week’s story about [One Wilshire](<https://onewilshire.com/>) in downtown Los Angeles began. I was listening to a wonderful podcast called [Stepchange](<https://www.stepchange.show/p/data-centers-the-hidden-backbone>), which mentioned One Wilshire in passing during a larger discussion about data centers (it was excellent, I swear). That brief moment sent me down a rabbit hole, uncovering a remarkable chapter in the history of the internet, one that unfolded not in Silicon Valley, like you’d think, but right here in Los Angeles.
 
@@ -47,4 +47,4 @@ Today, One Wilshire remains a 664,000-square-foot communications hub, the core e
 
 So, yeah, the internet, and all the information you doom scroll and the Netflix videos you binge, are not only in reality “a series of tubes,” as [Senator Stevens once put it](<https://en.wikipedia.org/wiki/Series_of_tubes>). It’s physical. It’s real infrastructure, built of concrete, cables, and air-conditioned rooms full of servers. And one of the most important pieces of it all sits on a busy, traffic-clogged street in downtown Los Angeles.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

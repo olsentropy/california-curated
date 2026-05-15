@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 The drive from Los Angeles north along Highway 395 towards Mammoth Lakes is one of the great road trips in all of California. The drive offers breathtaking views of the Sierra Nevada mountain range, the (much older) [White Mountains](<https://en.wikipedia.org/wiki/White_Mountains_\(California\)>), the vibrantly picturesque [Owens Valley](<https://californiacurated.com/2023/01/20/the-volcanic-history-of-owens-valley-and-the-long-valley-caldera/>), and the [Mojave Desert](<https://en.wikipedia.org/wiki/Mojave_Desert>) (which, let's face it, is kinda boring, especially if you've done the drive as many times as I have). The highway winds its way through a diverse range of geological and historical features, making it an ideal destination for road trippers, history buffs, and outdoor enthusiasts alike.
 
@@ -83,4 +83,4 @@ In addition to their geological and historical importance, the Alabama Hills are
 
 The Alabama Hills are a must-see destination for anyone interested in geology, history, or outdoor activities in California.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

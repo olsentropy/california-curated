@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 You can scroll endlessly through TikTok and Instagram for quick bursts of California’s beauty, but to truly sink into a subject, and to savor the craft of a great writer, you need a book. I’m an avid reader, and over the past decade I’ve dedicated a large section of my bookshelf to books about California: its wild side, its nature, and its scientific wonders. 
 
@@ -21,21 +21,7 @@ There are surely many other books that could be included in this top ten list, b
 
 ![](https://californiacurated.com/wp-content/uploads/2025/11/california-against-the-sea.jpg?w=533)
 
-[**California Against the Sea: Visions for Our Vanishing Coastline**](<https://amzn.to/3Lil9Wy>)**by Rosanna Xia**
-
-I first discovered Rosanna Xia’s work through [her stunning exposé](<https://www.latimes.com/projects/la-coast-ddt-dumping-ground/>) on the thousands of DDT barrels found dumped on the seafloor near Catalina Island. It remains one of the most shocking, and yet not technically illegal, environmental scandals in California’s history.
-
-Her recent book, [California Against the Sea: Visions for Our Vanishing Coastline](<https://amzn.to/3Lil9Wy>), is a beautifully written and deeply reported look at how California’s coastal communities are confronting the realities of climate change and rising seas. Xia travels the length of the state, from Imperial Beach to Pacifica, weaving together science, policy, and personal stories to show how erosion, flooding, and climate change are already reshaping lives. What makes the book stand out is its relative balance; it’s not a screed, nor naïvely hopeful. It nicely captures the tension between human settlement -- our love and need to be near the ocean -- and the coast’s natural (and unnatural, depending on how you look at it) cycles of change.
-
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
-
-Xia is at her best when exploring adaptation and equity. She reminds us that even if emissions stopped today, the ocean will keep rising, and that not all communities have equal means to respond. The stories of engineers, Indigenous leaders, and ordinary residents highlight how resilience and adaptation must be rooted in local realities. I was especially drawn to Xia’s account of the [California Coastal Commission](<https://californiacurated.com/2025/04/01/the-fight-for-californias-coastline-and-the-future-of-the-coastal-commission/>), a wildly controversial agency that wields immense power over the future of the shoreline. Yet it was the commission and its early champions, such as [Peter Douglas](<https://californiacurated.com/2025/04/01/the-fight-for-californias-coastline-and-the-future-of-the-coastal-commission/>), who ensured that California’s coast remained open and accessible to all, a decision I consider one of the greatest legislative achievements in modern conservation history.
-
-Thoughtful, accessible, and rooted in the coast we all care about, [California Against the Sea](<https://amzn.to/3Lil9Wy>) challenges us to ask a pressing question: how can we live wisely, and with perspective, at the edge of a changing world?
-
-![](https://californiacurated.com/wp-content/uploads/2025/11/high-sierra-ksr.jpg?w=678)
-
-[**The High Sierra: A Love Story**](<https://amzn.to/46x2uNQ>)**by Kim Stanley Robinson**
+[**California Against the Sea: Visions for Our Vanishing Coastline**](<https://amzn.to/3Lil9Wy>)**by Rosanna Xia<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>The High Sierra: A Love Story**](<https://amzn.to/46x2uNQ>)**by Kim Stanley Robinson**
 
 Kim Stanley Robinson’s [**The High Sierra: A Love Story**](<https://amzn.to/46x2uNQ>) is an expansive, heartfelt tribute to California’s most iconic mountain range. Because of the Sierra’s vast internal basins, which are missing from many of the world’s other great mountain ranges, Robinson argues they are among the best mountains on Earth. His point is hard to refute. He makes a convincing case that the Sierra Nevada may be the greatest range in the world, formed from the planet’s largest [single block of exposed granite](<https://californiacurated.com/2024/10/10/rock-stars-unearthing-the-secrets-of-the-sierra-nevada-batholith/>) and lifted over millions of years into its dramatic present shape.
 
@@ -107,4 +93,4 @@ California is the most botanically diverse state in the U.S. (by a long shot), h
 
 In telling the story of these four trees (remember, both the eucalyptus and the palm were largely brought here from other places), Farmer avoids easy sentimentality or harsh judgment, instead exploring how the creation of a “paradise” in California came with ecological costs and profoundly shaped the state’s identity. While the book concentrates on those four tree categories, its detailed research and insight make it a compelling read for anyone interested in the state’s environment, history, and the ways people shape and are shaped by land.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

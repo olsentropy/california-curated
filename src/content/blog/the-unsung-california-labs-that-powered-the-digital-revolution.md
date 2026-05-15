@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 When I started this Website, my hope was to share California’s astonishing range of landscapes, laboratories, and ideas. This state is overflowing with scientific discovery and natural marvels, and I want readers to understand, and enjoy, how unusually fertile this state is for discovery. If you’re not curious about the world, then this Website is definitely not for you. If you are, then I hope you get something out of it when you step outside and look around. 
 
@@ -55,4 +55,4 @@ However, if you look closely at the architecture of those monster machines, you 
 
 We often celebrate garages, founders, and the venture playbook. Those are real parts of the California story. This is a different part, just as important. The laboratories in Livermore, Berkeley, and Sandia are public assets. They exist because voters and policymakers chose to fund places where hard problems can be worked on for as long as it takes. The payoff can feel distant at first, then suddenly it is in your pocket. Like EUV. Years of quiet experiments on lasers, mirrors, and materials became the hidden machinery of the digital age.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

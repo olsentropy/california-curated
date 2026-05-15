@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 It’s not every day that you can drive down the highway and personally witness one of the great tectonic collisions in Earth’s history. But, if you happen to be motoring along Highway 14, the [Antelope Valley Freeway](<https://socalregion.com/highways/la_highways/sr-14/>), towards Palmdale near Santa Clarita, there they are:  great slabs of rock stretching skyward at steep angles out of the dirt and scrub brush, creating dramatic formations that seem otherworldly. 
 
@@ -45,22 +45,4 @@ The rocks consist mainly of sandstone that accumulated over millions of years fr
 **[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
 **Purchase stunning art prints of iconic California scenes.**   
-**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
-
-Over time, two continental plates - the North American and the Pacific plates - crashed into one another, consuming another plate called the [Farallon Plate](<https://en.wikipedia.org/wiki/Farallon_plate>), which has since disappeared. The process led to an uplifting of the giant slabs that now rise above the otherwise flat terrain. The same process also created California's best-known fault: the San Andreas, which lies only miles away and slices the state California, finally heading into the Pacific Ocean near San Francisco.
-
-The region is a hotbed of geological activity. Two major quakes have taken place in the last 50 years: the [Sylmar earthquake](<https://www.dailynews.com/2016/02/08/sylmar-san-fernando-earthquake-45-years-ago-tuesday-64-killed/>) of 1971, which killed 64 people, and the 6.7 magnitude 1994 [Northridge earthquake](<https://en.wikipedia.org/wiki/1994_Northridge_earthquake>), which killed 57 people and injured another 8,700. Most scientists believe we are due for another big earthquake in the relative near future (geologically-speaking). 
-
-![](https://californiacurated.com/wp-content/uploads/2021/08/124f7-vasquez-rocks-drone3.jpg?w=1024)Credit: Erik Olsen
-
-The rocks at Vaquez point at angles between 45-52 degrees, looking at times like huge ships under sail. In fact, formations of this type are known as “hogs back ridges” since they also resemble an arching backbone. Scientists believe they vary in age from 10 to 40 million years old. 
-
-Geologists estimate that the rocks sink deep into the earth, perhaps as far as 4 miles. What we see is very much the tip of the iceberg. 
-
-For hundreds of millions of years, most of California was found beneath the sea. [Very few dinosaur bones](<https://californiacurated.com/2023/07/08/chasing-shadows-why-are-dinosaur-fossils-so-scarce-in-california/>) have ever been found in California. One exception is the hadrosaur (which also happens to be the state dinosaur). Hadrosaurs were large herbivorous dinosaurs that lived near the end of the Cretaceous. However, marine fossils are plentiful in the region.
-
-There are plenty of wonderful hikes around Vasquez rocks, but seeing them up close is easy, with parking directly beneath some of the most impressive formations. They are very simple to reach from LA, located just off Highway 14. So the next time you happen to be out there, take a moment to gaze and ponder the strange, lovely rocks that have played such a big role in California’s deep geological and cinematographic history.
-
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
-
-**[Erik Olsen](<https://erikolsen.com/>)**
+**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>[Erik Olsen](<https://erikolsen.com/>)**

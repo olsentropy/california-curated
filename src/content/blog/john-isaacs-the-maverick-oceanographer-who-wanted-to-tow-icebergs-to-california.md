@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 California’s water crises have always inspired bold solutions, but few ideas rival the sheer audacity of [John Isaacs'](<https://en.wikipedia.org/wiki/John_Dove_Isaacs>) proposal to tow a giant Antarctic iceberg to San Diego. A brilliant and unconventional researcher at the [Scripps Institution of Oceanography](<https://scripps.ucsd.edu/>), Isaacs made waves in 1949 with his imaginative, though controversial, plans to quench California's chronic droughts by harnessing the frozen reservoirs of the polar regions.
 
@@ -52,4 +52,4 @@ John Isaacs’ career [extended far beyond icebergs](<https://library.ucsd.edu/s
 
 Isaacs’ iceberg proposal remains a testament to his fearless creativity and his deep commitment to solving humanity’s greatest challenges. While the world never saw an iceberg floating past Los Angeles, Isaacs’ bold thinking continues to inspire researchers grappling with the complex interplay of science, technology, and the environment.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

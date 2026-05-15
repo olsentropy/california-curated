@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 It’s time for California to put people back in the deep. A human-occupied submersible belongs in California waters, and we’ve waited long enough.
 
@@ -103,4 +103,4 @@ Skeptics will say that robots already do the job. They do a lot of it. They do n
 
 Start with a compact, 1,000-meter-class HOV that can work daily in most of California’s shelf and slope habitats. Pair it with our ROVs for tandem missions and cinematography of the sub and its occupants in action. Commit a share of dives to student and educator participation, recorded and repackaged for museums and broadcast. Reserve another share for rapid-response science at seeps, landslides, unusual biological events, or contamination crises like the DDT dumpsite. Build a donor program around named expeditions to Davidson Seamount, Catalina’s coral gardens, and the Channel Islands. Then, if the community wants to go deeper, plan toward a second vehicle or an upgrade path. The science is waiting. The coast is ready. And the case is clear. California should restore its human-occupied submersible fleet.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

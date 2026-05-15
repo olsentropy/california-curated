@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Mount Whitney, the highest mountain in the contiguous United States, is one of the great peaks in California. A wildly popular destination for hikers, climbers, and backpackers, Whitney is located in [Inyo National Forest](<https://www.fs.usda.gov/inyo>) and [Sequoia National Park](<https://www.nps.gov/seki/>), California. 
 
@@ -39,4 +39,4 @@ In 1875, Whitney was elected to the National Academy of Sciences, and in 1880, h
 
 Whitney's legacy lives on through the [California Geological Survey](<https://www.conservation.ca.gov/cgs>), which he founded and served as its first director. The survey played an important role in the development of California, providing valuable information about the state's natural resources and geology. It continues to operate today, providing information and expertise to policymakers, scientists, and the public.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

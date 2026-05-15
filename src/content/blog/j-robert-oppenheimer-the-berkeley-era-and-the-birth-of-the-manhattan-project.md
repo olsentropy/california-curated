@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Buy us coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 With the release of the movie Oppenheimer, it's worth taking a look at the role that California played in one of the most important technological developments of the 20th century: the making of the atomic bomb. [The Manhattan Project](<https://en.wikipedia.org/wiki/Manhattan_Project>), the prodigious scientific endeavor that produced the world's first nuclear weapons, cast a long, dark shadow over the mid-20th century. But amid the mushroom clouds, there lies a tale of innovation and scientific genius that originated from an unlikely source—the [University of California, Berkeley](<https://news.berkeley.edu/2023/08/16/berkeley-talks-oppenheimers-berkeley-years/>).
 
@@ -68,4 +68,4 @@ While these figures were all played prominent roles in the development of the at
 
 Despite decades passing and the veils of secrecy lifting, the legacy endures. The Los Alamos lab continues to operate under the University of California's management, preserving Berkeley's indelible imprint on the atomic age. It's a testament to the institution's groundbreaking contributions and a tribute to the remarkable scientists who once walked its hallowed halls.
 
-[Buy us coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

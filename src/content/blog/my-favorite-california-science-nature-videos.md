@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Today’s newsletter is a little different. Instead of one big story focused on a single topic, I put together a short list of some of my favorite California science and nature videos. I keep a long, slightly chaotic bookmark folder of things I come across online and save for later, often pulling ideas from it when I am stuck or just need a spark.
 
@@ -99,7 +99,7 @@ While not California-focused, I consider this one of the best documentaries I wa
 
 "Listers" takes you inside the quirky, obsessive, and high-energy world of competitive birdwatching. The guys behind it are hilarious: two stoner wannabe birders who cross the country to win the [American Birding Association Big Year](<https://www.aba.org/aba-area-big-year-rules/>), chasing rare sightings, blowing their savings, and slowly realizing that the real prize isn’t the trophy but the strange subculture, friendships, and birds they fall in love with along the way. It’s a great watch because it explores the "why" behind the hobby: why people spend thousands of hours and miles to check a specific bird off a list. And unlike many of the other videos I've mentioned here, production values are not high. The pair shot most of the film using a comsumer-grade camcorder, but that rawness lends the film a personal, low-tech quality that actually works really well. 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 * * *
 

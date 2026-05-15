@@ -14,6 +14,8 @@ author: Erik Olsen
 draft: false
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 At the [California State University Long Beach Shark Lab](https://www.csulb.edu/shark-lab), which is landlocked though just a short drive from the beach, the vibe is part messy garage, part frontier science. A kiddie-pool-sized tank circles with small sharks and stingrays. Along the walls, rows of dried jaws hang open, rows of razor-sharp teeth, straight out of _Jaws_. On a nearby table, syringe-sized tagging devices sit ready, wired and waiting.
 
 This is one of the country’s leading centers for studying [elasmobranchs](https://en.wikipedia.org/wiki/Elasmobranchii), the ancient group of cartilaginous fish that includes sharks, rays, skates, and chimaeras. And its director, [Chris Lowe](https://www.csulb.edu/media/page/chris-lowe), has spent decades trying to answer a deceptively simple question: what are these animals actually doing just off California’s beaches, and what does that mean for the millions of people who share the water with them?

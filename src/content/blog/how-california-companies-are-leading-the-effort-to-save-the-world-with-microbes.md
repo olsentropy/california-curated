@@ -10,6 +10,8 @@ tags: []
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 ### Synbio startups like NovoNutrients are developing novel products to help feed the world and stop climate change. 
 
 ![](https://californiacurated.com/wp-content/uploads/2019/05/fishforms_school_brockeninaglory1200x900.jpg)Wikipedia - CC BY-SA 3.0

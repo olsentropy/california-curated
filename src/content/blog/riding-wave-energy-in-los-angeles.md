@@ -13,7 +13,7 @@ author: "Erik Olsen"
 **Turning the steady motion of the Pacific into clean electricity, Eco Wave Power’s pilot at the Port of Los Angeles tests whether wave energy can become a real piece of California’s renewable future.**
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Earlier this week at the Port of Los Angeles, I stood with my colleague [Tod Mesirow](<https://www.imdb.com/name/nm0581890/>) as a blue ribbon was cut and seven steel floaters dipped into the tide at [AltaSea Marine Center](<https://altasea.org/>) in San Pedro. It was a milestone moment: the first onshore wave-energy project in the United States.
 
@@ -51,4 +51,4 @@ But honesty requires saying wave power will not, on its own, solve the climate c
 
 Watching the floaters rise and fall yesterday, we could sense the tension between ambition and reality. This pilot is small, but it demonstrates a willingness to try something new, to take the step from research tank to open water. Braverman called it “opening the door to a new era of clean energy.” That door may open slowly, and perhaps only partway, but the act of trying matters. The ocean is vast and restless, and if we can learn to work with it, wave energy could one day be one of the many forces nudging us toward a sustainable future.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

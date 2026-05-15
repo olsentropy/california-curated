@@ -13,7 +13,7 @@ author: "Erik Olsen"
 **How tectonics, sediment, and water created one of the most productive landscapes on Earth.**
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 I love California’s bizarre, complicated geology. For many years, I had a wonderful raised-relief map of the state on my wall made by [Hubbard Scientific](<https://amzn.to/4qxo3Wv>) (it hangs on my son’s bedroom wall today). On the map, color and molded plastic contours reveal the state’s diverse and often startling geological formations. I loved staring at it, touching it, imagining how those landscapes came to be over geologic time.
 
@@ -55,4 +55,4 @@ Alas, this productivity is not without geological limits, and we’ve done a pre
 
 But when you talk geology, you talk deep time. You talk about eons and erosion, mountain ranges that rise and are slowly worn down, sometimes leaving behind something as breathtaking as the granite domes of Yosemite.Against that scale, the Central Valley can seem almost plain, but as I hope I’ve made the case here, when you look a little closer at even the most mundane things, you realize there is magnificence there, and few places on this planet are as magnificent as the state of California.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

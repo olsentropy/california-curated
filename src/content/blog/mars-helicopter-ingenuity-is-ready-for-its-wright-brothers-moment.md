@@ -10,6 +10,8 @@ tags: ["jpl", "jupiter", "mars", "nasa"]
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 https://videopress.com/v/h7bCU1qy?preloadContent=metadata 
 
 If all goes well, in late July, NASA will do something it's never done before. The agency will launch a new mission to Mars with the aim of [landing a small helicopter](<https://mars.nasa.gov/resources/24933/nasas-ingenuity-mars-helicopter/>) on the surface that will perform several test missions to see if we can fly on the surface of the Red Planet. 

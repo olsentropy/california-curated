@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 _Acknowledgment: Many of my stories begin with something I come across while reading. Often, it is a larger story in a book or article, but a smaller detail inside it is what really captures my attention. That was the case here. This piece was inspired by Ed Conway’s_[ _Material World: The Six Raw Materials That Shape Modern Civilization_](<https://amzn.to/4rYDfgx>) _, a fascinating exploration of the raw materials that underpin modern life and the industries built around them._
 
@@ -88,4 +88,4 @@ The reality, as with most large mining operations, lies somewhere in between: th
 
 The U.S. Borax mine in Boron is one of those little-known places where California’s industrial story sits in plain view, even if few people ever see it. I like visiting places like this. They show how California’s landscapes are not only beautiful settings for reflection and recreation, but also part of the long story of human progress, where extracting materials from the earth often leads to the innovations that shape our daily lives.rid deserts to unearth one of the most versatile and indispensable materials known to modern industry.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

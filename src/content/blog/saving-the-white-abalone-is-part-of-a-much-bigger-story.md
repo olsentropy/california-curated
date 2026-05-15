@@ -15,7 +15,7 @@ author: "Erik Olsen"
 
 If you grew up in Southern California in the 1970s, there were a few things that defined California: surfing, skateboarding, the Eagles (preferably on the radio while driving down [the Pacific Coast Highway](<https://en.wikipedia.org/wiki/California_State_Route_1>)) and abalone. 
 
-[Support California Curated by buying us a coffee?](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 The abalone was an icon of beach culture, celebrated in poetry and song, a wondrous gift from Mother Nature. Almost every house near the coast had upturned abalone shells on the coffee table or as decorative items in a garden, their opalescent mother-of-pearl interior shells glistening jewel-like beneath the warm California sun. They hung near front doors or in backyards by the half dozen from string or fishing line, acting as wind chimes when the cool breezes blew in from the Pacific. Our air, our light is different than other places.
 
@@ -72,4 +72,4 @@ There are still many challenges ahead. [Recent kelp die-offs](<https://www.scien
 
 There is no time for rest. If anything now is the time to redouble our efforts to make our oceans cleaner, to help species recover and to restore the lost balance so that future generations can experience the incredible beauty and bounty of the sea. 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

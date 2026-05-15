@@ -15,7 +15,7 @@ A century-old law, the Jones Act, is keeping coastal shipping off the map—whil
 
 _This article is adapted from[my Substack](<https://substack.com/@californiacurated>), which offers weekly articles on California. You can [get 50% off a subscription with this link](<https://californiacurated.substack.com/subscribe?coupon=d510b870>). It helps fund the work we do here at California Curated. These articles take a ton of work, and if you enjoy the publication, we’d be grateful to have your support._
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 * * *
 
@@ -93,7 +93,7 @@ So, a century-old law, passed in a very different era, continues to shape how go
 
 The question is whether the policy will ever catch up.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![](https://californiacurated.com/wp-content/uploads/2025/11/mockup-of-an-11-oz-coffee-mug-placed-on-a-wooden-table-43523-r-el2.jpg)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)  
 Shop our [California wildlife store](<https://www.etsy.com/shop/CaliforniaCuratedUS>). Dozens of great gifts featuring California fish and birds.

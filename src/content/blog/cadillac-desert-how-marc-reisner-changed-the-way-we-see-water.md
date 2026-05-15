@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Marc Reisner’s _[Cadillac Desert: The American West and Its Disappearing Water](<https://amzn.to/4eLXhnb>)_ remains a towering achievement in environmental journalism, decades after its publication in 1986. Chronicling the history, politics, and ecological consequences of water management in the American West, __[Cadillac Desert](<https://amzn.to/4eLXhnb>)__ is not just an exposé of the past—it’s a cautionary tale that resonates today. With precision and passion, Reisner unraveled the intricacies of an arid region’s improbable transformation into one of the world’s most agriculturally productive and densely populated areas. His work has had a profound and lasting impact on how we understand water politics and environmental sustainability in California and beyond.
 
@@ -54,4 +54,4 @@ Tragically, Reisner [passed away in 2000 at the age of 51](<https://www.nytimes.
 
 Marc Reisner’s _Cadillac Desert_ is not just a history of water in the West; it is a call to rethink our relationship with one of the planet’s most precious resources. At once an epic tale and an urgent warning, it stands as a monumental testament to the price we pay for bending nature to our will.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

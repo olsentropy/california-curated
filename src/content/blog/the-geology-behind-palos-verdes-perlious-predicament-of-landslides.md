@@ -13,7 +13,7 @@ author: "Erik Olsen"
 
 For decades, geologists and engineers [have been aware](<https://www.rpvca.gov/FAQ.aspx?QID=346>) that the Portuguese Bend region of Palos Verdes is prone to landslides. Early maps and aerial surveys from the 1930s show continuous movement from the upper hills towards the high cliffs and bluffs that reach the Pacific Ocean.
 
-[Buy us coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Over the years, with a few exceptions, the ground movement was relatively slow, averaging about a foot per year. However, after the intense rains of the past year or two, the land is now shifting much more rapidly—up to 9 to 12 inches _per week_ —plunging neighborhoods and communities built on this unstable terrain into panic and disarray. This accelerated movement has caused irreparable damage to some homes and [led California to declare a state of emergency](<https://www.cbsnews.com/losangeles/news/governor-gavin-newsom-declares-state-of-emergency-for-rancho-palos-verdes-landslide/>).
 
@@ -75,4 +75,4 @@ The picture that emerges from these studies is one of a region where natural geo
 
 Efforts to mitigate the risk are ongoing. Local governments and geologists are working to develop more effective monitoring systems and better land-use planning guidelines to manage development in these sensitive areas. Understanding the complex geology and hydrology of Palos Verdes is critical to preventing future disasters and protecting the communities that call this beautiful but unstable coastline home.
 
-[Buy us coffee? We'd appreciate it! Lots of work goes into creating California Curated.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

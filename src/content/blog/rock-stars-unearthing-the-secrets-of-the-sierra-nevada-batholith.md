@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [Ansel Adams](<https://en.wikipedia.org/wiki/Ansel_Adams>), with his iconic black-and-white photographs of Yosemite and the Sierra Nevada, likely never realized that his lens was capturing not just breathtaking landscapes but one of geology’s most fascinating phenomena—the [Sierra Batholith](<https://en.wikipedia.org/wiki/Sierra_Nevada_Batholith>), a colossal formation of granite that lies at the heart of the mountains he immortalized. The Sierra Batholith is a massive granite body that reveals the tale of ancient volcanic activity in California, showcasing nature and time as master artists, and the slow tectonic forces that have shaped the Earth’s crust over millions of years.
 

@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just buck or two. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 A few months ago, I took a fishing trip out to the western side of San Clemente Island. I woke at two in the morning to the rattle of the anchor chain dropping and stepped out onto the deck, expecting darkness all around us. Instead the night was alive with a strange glow. Dozens of squid boats floated offshore, their powerful lights illuminating the water with a bluish, Avatar-like brightness. The lights draw squid toward the surface before the crews scoop them up in nets. 
 
@@ -67,6 +67,6 @@ Today, San Clemente Island remains one of the most unusual places in California.
 
 California has become a national leader in restoring damaged ecosystems. And while the state has lost much of its original wildness over the centuries, it also offers some of the most compelling examples of species and habitats recovered from the brink. San Clemente Island is more ecologically stable today than at any point in the past century, and it continues to serve as one of the Navy’s most valuable training grounds. 
 
-[Would you support us? Just buck or two. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![](https://californiacurated.com/wp-content/uploads/2025/11/mockup-of-an-11-oz-coffee-mug-placed-on-a-wooden-table-43523-r-el2.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)Get California wildlife gifts at [our Etsy store](<https://www.etsy.com/shop/CaliforniaCuratedUS>). It helps support us!

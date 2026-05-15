@@ -10,6 +10,8 @@ tags: []
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 
 _You’ve probably seen the videos. A fish with a transparent head, its organs floating inside like tennis balls. Squid drifting through the darkness with enormous, googly eyes and arms trailing behind them like ribbons. These strange animals are just a glimpse of what scientists are beginning to learn about the deep ocean off California. Much of that discovery is happening at one of the most remarkable ocean research institutions in the world, the Monterey Bay Aquarium Research Institute._
 

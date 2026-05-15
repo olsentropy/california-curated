@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Lots of work goes into writing California Curated. Buy us a cup of coffee? We'd appreciate it! ](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 California's [Monterey Formation](<https://en.wikipedia.org/wiki/Monterey_Formation>) is one of the most fascinating geological formations in the United States. Stretching along the California coast from San Francisco to Los Angeles, this formation is notable for its incredible diversity of siliceous rocks—rocks rich in silica, such as shale, chert, diatomite, and porcelanite. While these rocks are interesting to geologists, the Monterey Formation is also significant for its potential to explain the origins of petroleum deposits that have fueled California’s economy for over a century. NASA's Jet Propulsion Laboratory once called it "[California’s primary petroleum source rock](<https://jpt.spe.org/mighty-monterey-californias-primary-petroleum-source-rock>)."
 
@@ -48,7 +48,7 @@ Beyond its geological and economic importance, the Monterey Formation is a treas
 
 However, the Monterey Formation is not just a source of knowledge and resources; it also presents challenges, particularly in terms of potential environmental harm and geohazards like landslides. The soft, diatomaceous earth layers within the formation are prone to landslides, especially when water-saturated or fractured by tectonic action. This makes some coastal areas of California, where the Monterey Formation is exposed, particularly vulnerable to slope instability, posing risks for construction and development. Many recent news stories have documented the increasing rate at which the California coast is tumbling into the sea. An excellent recent book on the subject is Rosanna Xia's [California Against the Sea: Visions for Our Vanishing Coastline](<https://www.amazon.com/California-Against-Sea-Vanishing-Coastline-ebook/dp/B0BW17YCH5>). 
 
-[Lots of work goes into writing California Curated. Buy us a cup of coffee? We'd appreciate it! ](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 California's geology is a remarkable mosaic that tells a story of immense geological diversity and dynamic processes. Among its many treasures, the Monterey Formation stands out as a geological marvel—its intricate layers, rich fossil beds, and significant economic potential continue to captivate scientists and researchers from around the world. This unique formation is more than just rock; it is a time capsule that preserves millions of years of Earth's history, from ancient marine ecosystems to dramatic shifts in climate and tectonic activity. As geologists, paleontologists, and environmental scientists delve deeper into its mysteries, the Monterey Formation reveals invaluable clues about the past while shaping our understanding of California's ever-evolving landscape. It serves as a profound reminder of the powerful forces that have sculpted one of the most geologically varied regions on the planet and continues to inspire exploration and discovery in the fields of Earth science.
 

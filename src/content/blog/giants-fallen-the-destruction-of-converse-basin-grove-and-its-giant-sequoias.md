@@ -10,29 +10,7 @@ tags: ["california", "climate-change", "environment", "national-park-service", "
 author: "Erik Olsen"
 ---
 
-**The true tragic story of one of the worst environmental crimes in California history.**
-
-
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
-
-_“A story of greed and mass destruction of a mighty forest.”_
-
-California has faced its share of environmental calamities. We’ve experienced wildfires that have denuded the landscape, destroying valuable forests and homes, and taking human lives. Oil spills have soiled coastlines and killed wildlife. But of all the great environmental crimes the state has faced, perhaps few rank as high as the destruction of [Converse Basin Grove](<https://www.fs.usda.gov/recarea/sequoia/recreation/recarea/?recid=79927>) in the late 1800s. And yet very few people have ever heard of it.  
-
-Located in the southern part of the Sierra Nevada Mountains east of Fresno, just outside [Kings Canyon National Park](<https://www.nps.gov/seki/>), Converse Basin Grove spans over 6,000 acres and 700 feet of elevation. The basin was once home to the densest and most majestic expanse of [Giant Sequoia](<https://californiacurated.com/2021/03/04/why-are-californias-redwoods-and-sequoias-so-big/>) (_Sequoiadendron giganteum_) on the planet. This remarkable concentration of trees was largely due to the basin’s unique combination of geological and climatic conditions. 
-
-[![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
-
-The grove's deep, well-draining granitic soils provided a stable foundation for sequoia growth, allowing their extensive root systems to spread and access water efficiently. Additionally, the region’s position in the Sierra Nevada ensured a steady supply of moisture from winter snowfall, which melted slowly into the summer, maintaining the soil's hydration even during dry months. Sequoias also depend on periodic low-intensity wildfires, which clear competing vegetation, release seeds from their cones, and create the mineral-rich soil conditions necessary for seedlings to establish. This natural fire cycle once maintained the grove’s density, fostering the exceptional concentration of ancient trees that once dominated area.
-
-![](https://californiacurated.com/wp-content/uploads/2024/04/converse-basin.jpg?w=1024)Loggers and a team of horses pose on a fallen sequoia 26 feet in diameter. Converse Grove, California 1917. (Wikipedia)
-
-Between 1892–1918, the [Sanger Lumber Company](<https://en.wikipedia.org/wiki/Hume-Bennett_Lumber_Company>) logged the grove using ruinous clearcutting practices, and cut down 8,000 giant sequoias, some of them over 2000 years old, in a decade-long event that has been described as "the greatest orgy of destructive lumbering in the history of the [world](<https://www.inventionandtech.com/content/log-flume-1>)." Only 60-100 large specimens survived.   
-
-
-![](https://californiacurated.com/wp-content/uploads/2024/04/mockup-room-bristlecone.jpg?w=1024)
-
-**[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
+**The true tragic story of one of the worst environmental crimes in California history.<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
 **Purchase stunning art prints of iconic California scenes.**   
 **[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
@@ -101,6 +79,6 @@ The [2020 Castle Fire](<https://www.sfchronicle.com/california-wildfires/article
 
 Today, the area, with its fields of blackened stumps encircled by new growth, stands as a testament to both the destructive power of industrial logging and the fragility and resilience of nature.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)

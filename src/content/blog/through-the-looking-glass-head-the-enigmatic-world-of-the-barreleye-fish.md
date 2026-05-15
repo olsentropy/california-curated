@@ -12,7 +12,7 @@ author: "Erik Olsen"
 
 (Courtesy: Monterey Bay Aquarium Research Institute MBARI)
 
-[Click to buy us a coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Off the coast of Monterey, California, [researchers captured rare footage](<https://www.youtube.com/watch?v=Akv36y8WLYA>) of one of the deep sea’s strangest residents: the Barreleye fish. With a see-through head and upward-facing, tube-shaped eyes, it looks like something dreamt up for a sci-fi film. Officially called _Macropinna microstoma_ , this bizarre little fish is a real reminder of how much mystery still lies beneath the surface of the ocean and how otherworldly life can get down there.
 
@@ -51,4 +51,4 @@ Despite its enigmatic nature, we know relatively little about its breeding habit
 
 While the Barreleye fish might look like a figment of a wild imagination, it's very much a real creature, adeptly adapted to its harsh surroundings. It represents the myriad ways life can evolve to meet the unique challenges of extreme environments. As we continue to explore the depths of our oceans, who knows what other fantastical creatures we might find? That said, the Barreleye fish remains one of the most compelling arguments for the strange and wondrous biodiversity hidden in the ocean's twilight zone, a testament to the endless creativity of evolution.
 
-[Please consider buying us a cup of coffee? We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

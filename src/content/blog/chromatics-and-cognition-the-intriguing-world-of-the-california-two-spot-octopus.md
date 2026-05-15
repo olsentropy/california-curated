@@ -13,7 +13,7 @@ author: "Erik Olsen"
 ## A Model Organism Advancing Research in Genomics and Behavioral Science
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 _(This post has been updated with new research on octopus neurology.)_
 
@@ -65,4 +65,4 @@ Their genome is large and contains [a greater number of genes](<https://octopus.
 
 For the California science enthusiast, the two-spot octopus represents not just a local marine inhabitant but also a subject of profound scientific intrigue. The more we delve into their world, the more we uncover about the possibilities of life's evolutionary paths. Their genomic complexity challenges our understanding of intelligence and consciousness, making them not just a marvel of the deep but a mirror reflecting the enigma of life itself.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

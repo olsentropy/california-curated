@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Southern California’s beaches are a miracle. More than just landscapes, they’re cultural treasures. In movies, ads, and music, the coastline often feels like its own character. To many of us who live here, the coastline is not just a place to swim or sunbathe but a symbol of freedom, fun, and the state’s enduring connection to the Pacific Ocean. 
 
@@ -51,4 +51,4 @@ Offshore sediment cores show that microplastic deposition [has doubled every 15 
 
 But look, the chance to walk or run on the beach is one of the real gifts of living in California. The sand that sticks to your towel, finds its way into your shoes, or gets stuck into your hair has traveled a long, remarkable journey to reach the shore. It’s true that some of it now includes plastic, which is unfortunate, but that doesn’t diminish the joy of being at the beach. In a world where so much feels fast, fleeting, and digital, there’s something really cool and satisfying about putting your toes in the sand, a remarkable substance that is totally crucial to modern civilization, yet which is also timeless and ancient and part of the natural world around us.
 
-[Would you support us? Just a few bucks. We'd appreciate it!](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

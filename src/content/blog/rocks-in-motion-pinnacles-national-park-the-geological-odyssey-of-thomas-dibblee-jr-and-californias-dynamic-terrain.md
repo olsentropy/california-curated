@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 _“Altogether, this one man mapped almost one-fourth of California, or about 100,000 square kilometers, 40,000 square miles, more land than any human has ever mapped or ever will map.” California geologist and author Donald Prothero on_[ _Thomas Dibblee Jr._](<https://en.wikipedia.org/wiki/Thomas_Dibblee>)
 
@@ -74,4 +74,4 @@ His maps are celebrated for their accuracy and detail, serving as critical tools
 
 [Thomas Dibblee Jr. died in 2004](<https://www.latimes.com/archives/la-xpm-2004-nov-21-me-passings21.2-story.html>) at his Santa Barbara home at the age of 93. His contributions to the field of geology are not just confined to his maps and scientific discoveries. He was also a mentor and inspiration to many aspiring geologists, sharing his knowledge and passion for the Earth's history through lectures, field trips, and personal guidance. His dedication to his work and his ability to convey complex geological concepts in an accessible manner made him a respected figure among his peers and students alike. [He’s still considered a legend among geologists.](<https://youtu.be/EtToUgufboU>) Through his dedication and pioneering work, Dibblee has left an indelible mark on the field of geology, making him a true giant in the scientific exploration of California as well as our planet.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

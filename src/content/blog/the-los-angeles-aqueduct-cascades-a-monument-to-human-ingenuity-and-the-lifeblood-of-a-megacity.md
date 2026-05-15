@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Los Angeles is home to nearly four million people, but this bustling metropolis would not have been possible without a vital resource: water. While the city's origins can be traced back to the humble Los Angeles River, it was the Los Angeles Aqueduct that allowed the city to grow exponentially. This article will delve into the history of the Los Angeles Aqueduct, the monumental cascades that make it an engineering marvel, and the key people involved in its conception and construction.
 
@@ -50,4 +50,4 @@ The practical function of the cascades is to release the water from the aqueduct
 
 The cascades also serve a symbolic purpose, representing the triumphant arrival of water in Los Angeles. They are a monument to the human spirit and the ingenuity required to bring life-sustaining water to a burgeoning city. The aqueduct allowed Los Angeles to become the thriving metropolis it is today, providing a reliable water supply to millions of residents. The cascades have become a popular tourist destination, allowing visitors to witness firsthand the impressive engineering feat that made the growth of Los Angeles possible.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

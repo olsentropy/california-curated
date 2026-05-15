@@ -10,6 +10,8 @@ tags: ["california", "dolphins", "marine-mammals"]
 author: "Erik Olsen"
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 
 A Pacific White-Sided Dolphin swims alongside a boat off Newport Beach, California
 

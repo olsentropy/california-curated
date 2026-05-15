@@ -10,7 +10,7 @@ tags: ["california", "california-institute-of-technology", "caltech", "earthquak
 author: "Erik Olsen"
 ---
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 
 We all know California is known for earthquakes. AND most people probably know there's a reason for that: California lies along the [Pacific Ring of Fire](<https://en.wikipedia.org/wiki/Ring_of_Fire>), and it also sits at the boundary between the Pacific and North American tectonic plates, creating the San Andreas Fault and making it especially prone to seismic shaking. Even if you've lived here for just a short while, the chances are you've felt a tremble or two. 
@@ -75,4 +75,4 @@ According to experts involved with the system, ShakeAlert is designed to send al
 
 If there is ever a “Big One,” and scientists say it’s a matter of time, we can only hope we’ll get even a small amount of early notice. 
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

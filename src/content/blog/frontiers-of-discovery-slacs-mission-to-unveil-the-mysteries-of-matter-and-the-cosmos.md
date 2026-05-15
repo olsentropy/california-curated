@@ -12,7 +12,7 @@ author: "Erik Olsen"
 
 _(Peter Ginter/SLAC National Accelerator Laboratory)_
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 The [SLAC National Accelerator Laboratory](<https://www6.slac.stanford.edu/>) in Menlo Park, California, is a testament to human curiosity and the pursuit of the unknown. Since its inception in 1962, originally as the Stanford Linear Accelerator Center (as it was previously known), it has been on the forefront of scientific discovery in numerous scientific disciplines. It is truly one of the nation’s great scientific institutions, being at the forefront of numerous major discoveries that have deeply impacted - and will impact - the world. 
 
@@ -66,4 +66,4 @@ Other recent updates from SLAC include a new system for[ turning seawater into h
 
 The SLAC National Accelerator Laboratory's legacy is rich with scientific triumphs, and its future beckons with the promise of unraveling more of the universe's deepest secrets. Whether through peering into the atomic structure or probing the vast cosmos, SLAC remains a beacon of discovery and innovation.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

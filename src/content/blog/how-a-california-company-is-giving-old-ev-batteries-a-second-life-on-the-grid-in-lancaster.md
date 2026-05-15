@@ -11,7 +11,7 @@ author: "Erik Olsen"
 ---
 
 
-[Consider supporting California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 As the world pivots toward renewable energy sources, the challenge of energy storage looms ever larger. The sun doesn’t always shine, and the wind doesn’t always blow — but the demand for electricity never stops. Currently, natural gas and coal are the primary ways we generate electricity. These are dirty, pollution-causing industries that will need to be phased out if we are to tackle the problems associated with climate change. Many different solutions to this problem are currently being investigated across the country and the world. 
 
@@ -60,6 +60,6 @@ Freeman Hall and Mike Stern’s innovative approach at B2U addresses the pressin
 
 As California works toward ambitious renewable energy goals and the world increasingly embraces electric vehicles, companies like B2U could play a crucial role in shaping a cleaner, more sustainable future.
 
-[Support California Curated with a small donation.](<https://ko-fi.com/californiacurated>)
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 [![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
