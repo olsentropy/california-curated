@@ -1,17 +1,17 @@
 {
-	"lastUpdated": "2026-05-14T21:01:39.719Z",
+	"lastUpdated": "2026-05-15T01:47:40.264Z",
 	"items": [
 		{
-			"headline": "Ten times worse than benzene — California updates its science on two air contaminants",
+			"headline": "MBARI Postdoctoral Fellow Olívia Soares Pereira named a National Geographic Explorer",
+			"url": "https://www.mbari.org/news/mbari-postdoctoral-fellow-olivia-soares-pereira-named-a-national-geographic-explorer/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-14T21:40:21.000Z"
+		},
+		{
+			"headline": "Ten times worse than benzene — California updates its science on two chemicals in everyday air",
 			"url": "https://www.latimes.com/environment/story/2026-05-14/ten-times-worse-than-benzene-california-updates-its-science-on-two-air-contaminants",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-14T20:00:55.000Z"
-		},
-		{
-			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
-			"url": "https://baynature.org/2026/05/14/conservation/biodiversity/meet-a-newly-named-nudibranch-with-a-unique-approach-to-sex/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-14T17:56:29.000Z"
 		},
 		{
 			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
@@ -32,6 +32,12 @@
 			"publishedAt": "2026-05-14T15:00:00.379Z"
 		},
 		{
+			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
+			"url": "https://baynature.org/2026/05/14/conservation/biodiversity/meet-a-newly-named-nudibranch-with-a-unique-approach-to-sex/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-14T17:56:29.000Z"
+		},
+		{
 			"headline": "200,000 Californians create as much power as a nuclear plant to help the grid. Now that's up in the air",
 			"url": "https://www.latimes.com/environment/story/2026-05-14/200-000-californians-help-grid-out-in-tough-times-get-paid-for-it-now-thats-up-in-air",
 			"source": "Los Angeles Times",
@@ -44,16 +50,10 @@
 			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
 		{
-			"headline": "Crews make progress on Grand fire in Chino Hills; evacuations lifted",
-			"url": "https://www.latimes.com/california/story/2026-05-13/grand-fire-chino-hills-evacuations",
+			"headline": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse?",
+			"url": "https://www.latimes.com/california/story/2026-05-14/hantavirus-strikes-cruise-ship-perfect-storm-or-warning-sign",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T04:11:35.000Z"
-		},
-		{
-			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
-			"url": "https://www.caltech.edu/about/news/caltech-affiliated-students-awarded-2026-hertz-fellowships",
-			"source": "Caltech",
-			"publishedAt": "2026-05-13T22:03:52.994Z"
+			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
 		{
 			"headline": "Five takeaways from UC Berkeley's new survey on psychedelics in society",
@@ -62,16 +62,16 @@
 			"publishedAt": "2026-05-13T21:22:51.000Z"
 		},
 		{
+			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
+			"url": "https://www.caltech.edu/about/news/caltech-affiliated-students-awarded-2026-hertz-fellowships",
+			"source": "Caltech",
+			"publishedAt": "2026-05-13T22:03:52.994Z"
+		},
+		{
 			"headline": "Low Snow in Eurasia Linked to Wildfires in California",
 			"url": "https://eos.org/articles/low-snow-in-eurasia-linked-to-wildfires-in-california",
 			"source": "Eos",
 			"publishedAt": "2026-05-13T13:17:19.000Z"
-		},
-		{
-			"headline": "New Gateway building creates dedicated campus hub for AI, computing",
-			"url": "https://news.berkeley.edu/2026/05/13/new-gateway-building-creates-dedicated-campus-hub-for-ai-computing/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-13T15:00:00.000Z"
 		},
 		{
 			"headline": "Heavier storms and longer dry spells are drying California and the West",
@@ -80,10 +80,10 @@
 			"publishedAt": "2026-05-13T14:59:24.000Z"
 		},
 		{
-			"headline": "Photos: Orphaned Monrovia bear cubs on path back to wild after state euthanized their mom",
-			"url": "https://www.latimes.com/california/story/2026-05-13/monrovia-bear-cubs-on-path-back-to-wild-mother-blondie-euthanized",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-13T12:00:00.000Z"
+			"headline": "New Gateway building creates dedicated campus hub for AI, computing",
+			"url": "https://news.berkeley.edu/2026/05/13/new-gateway-building-creates-dedicated-campus-hub-for-ai-computing/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-13T15:00:00.000Z"
 		},
 		{
 			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
@@ -92,28 +92,10 @@
 			"publishedAt": "2026-05-13T18:00:00.000Z"
 		},
 		{
-			"headline": "Two UC Berkeley scholars elected to the American Philosophical Society",
-			"url": "https://news.berkeley.edu/2026/05/13/two-uc-berkeley-scholars-elected-to-the-american-philosophical-society/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-13T17:20:41.000Z"
-		},
-		{
-			"headline": "A Greener Route to Making Epoxides",
-			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
-			"source": "Caltech",
-			"publishedAt": "2026-05-12T21:56:00.000Z"
-		},
-		{
 			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
 			"url": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-12T10:00:00.000Z"
-		},
-		{
-			"headline": "Most of the U.S. West Will Face Above-Normal Wildfire Risk This Summer",
-			"url": "https://eos.org/articles/most-of-the-u-s-west-will-face-above-normal-wildfire-risk-this-summer",
-			"source": "Eos",
-			"publishedAt": "2026-05-11T13:16:40.000Z"
 		},
 		{
 			"headline": "Universal Voting-By-Mail Increases Voter Turnout for Both Major Parties",
@@ -122,28 +104,16 @@
 			"publishedAt": "2026-05-11T21:11:43.551Z"
 		},
 		{
-			"headline": "Oil rig off the SoCal coast catches fire; 'no immediate threat' to environment, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-11/oil-platform-fire-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-11T18:43:51.000Z"
+			"headline": "Most of the U.S. West Will Face Above-Normal Wildfire Risk This Summer",
+			"url": "https://eos.org/articles/most-of-the-u-s-west-will-face-above-normal-wildfire-risk-this-summer",
+			"source": "Eos",
+			"publishedAt": "2026-05-11T13:16:40.000Z"
 		},
 		{
-			"headline": "Earthquake swarm shakes Imperial County with 4.7 magnitude quake reported",
-			"url": "https://www.latimes.com/california/story/2026-05-10/earthquake-swarm-shakes-imperial-county-magnitude-4-7-quake-reported",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-10T17:55:00.000Z"
-		},
-		{
-			"headline": "Californian exposed to hantavirus aboard cruise ship resides in Bay Area, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-10/californian-exposed-to-hantavirus-lives-in-bay-area-officials-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-10T20:56:12.000Z"
-		},
-		{
-			"headline": "After exile, California tribes could help oversee ancestral redwoods again",
-			"url": "https://www.latimes.com/environment/story/2026-05-10/california-bill-shifts-away-from-logging-toward-tribal-co-management",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-10T10:00:00.000Z"
+			"headline": "A Greener Route to Making Epoxides",
+			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
+			"source": "Caltech",
+			"publishedAt": "2026-05-12T21:56:00.000Z"
 		}
 	]
 }
