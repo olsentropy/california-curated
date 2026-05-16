@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-05-16T09:17:49.294Z",
+	"lastUpdated": "2026-05-16T12:50:21.561Z",
 	"items": [
+		{
+			"headline": "The gray wolf's improbable California comeback continues as population hits modern record number",
+			"url": "https://www.latimes.com/california/story/2026-05-16/gray-wolfs-improbable-california-comeback-continues",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-16T11:00:00.000Z"
+		},
 		{
 			"headline": "Light pollution reshapes predator-prey dynamics at California's urban edge, study finds",
 			"url": "https://news.mongabay.com/2026/05/light-pollution-reshapes-predator-prey-dynamics-at-californias-urban-edge-study-finds/",
@@ -50,28 +56,16 @@
 			"publishedAt": "2026-05-14T20:00:55.000Z"
 		},
 		{
-			"headline": "String Theory Emerges from \"Almost Nothing\"",
-			"url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
-			"source": "Caltech",
-			"publishedAt": "2026-05-14T15:00:01.320Z"
-		},
-		{
-			"headline": "Space Weather and Sun Science: A Conversation with Christina Cohen",
-			"url": "https://www.caltech.edu/about/news/space-weather-and-sun-science-a-conversation-with-christina-cohen",
-			"source": "Caltech",
-			"publishedAt": "2026-05-14T15:00:00.379Z"
+			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
+			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-14T16:25:33.000Z"
 		},
 		{
 			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
 			"url": "https://baynature.org/2026/05/14/conservation/biodiversity/meet-a-newly-named-nudibranch-with-a-unique-approach-to-sex/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-14T17:56:29.000Z"
-		},
-		{
-			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
-			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T16:25:33.000Z"
 		},
 		{
 			"headline": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse?",
@@ -92,10 +86,16 @@
 			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
 		{
-			"headline": "Low Snow in Eurasia Linked to Wildfires in California",
-			"url": "https://eos.org/articles/low-snow-in-eurasia-linked-to-wildfires-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-05-13T13:17:19.000Z"
+			"headline": "String Theory Emerges from \"Almost Nothing\"",
+			"url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
+			"source": "Caltech",
+			"publishedAt": "2026-05-14T15:00:01.320Z"
+		},
+		{
+			"headline": "Space Weather and Sun Science: A Conversation with Christina Cohen",
+			"url": "https://www.caltech.edu/about/news/space-weather-and-sun-science-a-conversation-with-christina-cohen",
+			"source": "Caltech",
+			"publishedAt": "2026-05-14T15:00:00.379Z"
 		},
 		{
 			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
@@ -110,34 +110,34 @@
 			"publishedAt": "2026-05-13T21:22:51.000Z"
 		},
 		{
+			"headline": "Low Snow in Eurasia Linked to Wildfires in California",
+			"url": "https://eos.org/articles/low-snow-in-eurasia-linked-to-wildfires-in-california",
+			"source": "Eos",
+			"publishedAt": "2026-05-13T13:17:19.000Z"
+		},
+		{
+			"headline": "Photos: Orphaned Monrovia bear cubs on path back to wild after state euthanized their mom",
+			"url": "https://www.latimes.com/california/story/2026-05-13/monrovia-bear-cubs-on-path-back-to-wild-mother-blondie-euthanized",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-13T12:00:00.000Z"
+		},
+		{
 			"headline": "Heavier storms and longer dry spells are drying California and the West",
 			"url": "https://www.latimes.com/environment/story/2026-05-13/rainfall-study",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-13T14:59:24.000Z"
 		},
 		{
-			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
-			"url": "https://www.latimes.com/california/story/2026-05-13/newsom-to-propose-fund-to-help-california-wildfire-victims-rebuild",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-13T18:00:00.000Z"
-		},
-		{
-			"headline": "Two UC Berkeley scholars elected to the American Philosophical Society",
-			"url": "https://news.berkeley.edu/2026/05/13/two-uc-berkeley-scholars-elected-to-the-american-philosophical-society/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-13T17:20:41.000Z"
-		},
-		{
-			"headline": "New Gateway building creates dedicated campus hub for AI, computing",
-			"url": "https://news.berkeley.edu/2026/05/13/new-gateway-building-creates-dedicated-campus-hub-for-ai-computing/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-13T15:00:00.000Z"
-		},
-		{
 			"headline": "A Greener Route to Making Epoxides",
 			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
 			"source": "Caltech",
 			"publishedAt": "2026-05-12T21:56:00.000Z"
+		},
+		{
+			"headline": "L.A. quietly fires its first chief heat officer",
+			"url": "https://www.latimes.com/environment/story/2026-05-12/la-parts-ways-with-its-first-chief-heat-officer",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-12T18:38:26.000Z"
 		},
 		{
 			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
