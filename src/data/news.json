@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-16T12:50:21.561Z",
+	"lastUpdated": "2026-05-16T16:41:31.502Z",
 	"items": [
 		{
 			"headline": "The gray wolf's improbable California comeback continues as population hits modern record number",
@@ -26,14 +26,14 @@
 			"publishedAt": "2026-05-15T16:34:28.000Z"
 		},
 		{
-			"headline": "After public outcry, Orange County halts herbicide spraying in creeks",
-			"url": "https://www.latimes.com/environment/story/2026-05-15/orange-county-stops-spraying-herbicides-creeks",
+			"headline": "L.A.'s ultra-urban rivers wash tons of trash out to sea. There's a plan to change that before the Olympics",
+			"url": "https://www.latimes.com/environment/story/2026-05-15/l-a-san-gabriel-rivers-to-get-trash-interceptors-to-protect-ocean",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
-			"headline": "L.A.'s ultra-urban rivers wash tons of trash out to sea. There's a plan to change that before the Olympics",
-			"url": "https://www.latimes.com/environment/story/2026-05-15/l-a-san-gabriel-rivers-to-get-trash-interceptors-to-protect-ocean",
+			"headline": "After public outcry, Orange County halts herbicide spraying in creeks",
+			"url": "https://www.latimes.com/environment/story/2026-05-15/orange-county-stops-spraying-herbicides-creeks",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
@@ -56,16 +56,28 @@
 			"publishedAt": "2026-05-14T20:00:55.000Z"
 		},
 		{
-			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
-			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T16:25:33.000Z"
+			"headline": "String Theory Emerges from \"Almost Nothing\"",
+			"url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
+			"source": "Caltech",
+			"publishedAt": "2026-05-14T15:00:01.320Z"
+		},
+		{
+			"headline": "Space Weather and Sun Science: A Conversation with Christina Cohen",
+			"url": "https://www.caltech.edu/about/news/space-weather-and-sun-science-a-conversation-with-christina-cohen",
+			"source": "Caltech",
+			"publishedAt": "2026-05-14T15:00:00.379Z"
 		},
 		{
 			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
 			"url": "https://baynature.org/2026/05/14/conservation/biodiversity/meet-a-newly-named-nudibranch-with-a-unique-approach-to-sex/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-14T17:56:29.000Z"
+		},
+		{
+			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
+			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-14T16:25:33.000Z"
 		},
 		{
 			"headline": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse?",
@@ -86,16 +98,10 @@
 			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
 		{
-			"headline": "String Theory Emerges from \"Almost Nothing\"",
-			"url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
-			"source": "Caltech",
-			"publishedAt": "2026-05-14T15:00:01.320Z"
-		},
-		{
-			"headline": "Space Weather and Sun Science: A Conversation with Christina Cohen",
-			"url": "https://www.caltech.edu/about/news/space-weather-and-sun-science-a-conversation-with-christina-cohen",
-			"source": "Caltech",
-			"publishedAt": "2026-05-14T15:00:00.379Z"
+			"headline": "Low Snow in Eurasia Linked to Wildfires in California",
+			"url": "https://eos.org/articles/low-snow-in-eurasia-linked-to-wildfires-in-california",
+			"source": "Eos",
+			"publishedAt": "2026-05-13T13:17:19.000Z"
 		},
 		{
 			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
@@ -110,22 +116,16 @@
 			"publishedAt": "2026-05-13T21:22:51.000Z"
 		},
 		{
-			"headline": "Low Snow in Eurasia Linked to Wildfires in California",
-			"url": "https://eos.org/articles/low-snow-in-eurasia-linked-to-wildfires-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-05-13T13:17:19.000Z"
+			"headline": "Heavier storms and longer dry spells are drying California and the West",
+			"url": "https://www.latimes.com/environment/story/2026-05-13/rainfall-study",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-13T14:59:24.000Z"
 		},
 		{
 			"headline": "Photos: Orphaned Monrovia bear cubs on path back to wild after state euthanized their mom",
 			"url": "https://www.latimes.com/california/story/2026-05-13/monrovia-bear-cubs-on-path-back-to-wild-mother-blondie-euthanized",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-13T12:00:00.000Z"
-		},
-		{
-			"headline": "Heavier storms and longer dry spells are drying California and the West",
-			"url": "https://www.latimes.com/environment/story/2026-05-13/rainfall-study",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-13T14:59:24.000Z"
 		},
 		{
 			"headline": "A Greener Route to Making Epoxides",
