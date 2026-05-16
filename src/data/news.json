@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-16T06:14:10.614Z",
+	"lastUpdated": "2026-05-16T09:17:49.294Z",
 	"items": [
 		{
 			"headline": "Light pollution reshapes predator-prey dynamics at California's urban edge, study finds",
@@ -20,12 +20,6 @@
 			"publishedAt": "2026-05-15T16:34:28.000Z"
 		},
 		{
-			"headline": "Trump administration readying a plan to impose Colorado River water cuts on western states",
-			"url": "https://www.latimes.com/environment/story/2026-05-15/colorado-river-trump-administration",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-15T10:00:00.000Z"
-		},
-		{
 			"headline": "After public outcry, Orange County halts herbicide spraying in creeks",
 			"url": "https://www.latimes.com/environment/story/2026-05-15/orange-county-stops-spraying-herbicides-creeks",
 			"source": "Los Angeles Times",
@@ -38,16 +32,34 @@
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
-			"headline": "Two chemicals in everyday California air may pose 'unacceptable' cancer risk, findings suggest",
-			"url": "https://www.latimes.com/environment/story/2026-05-14/ten-times-worse-than-benzene-california-updates-its-science-on-two-air-contaminants",
+			"headline": "Trump administration readying a plan to impose Colorado River water cuts on western states",
+			"url": "https://www.latimes.com/environment/story/2026-05-15/colorado-river-trump-administration",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T20:00:55.000Z"
+			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
 			"headline": "MBARI Postdoctoral Fellow Olívia Soares Pereira named a National Geographic Explorer",
 			"url": "https://www.mbari.org/news/mbari-postdoctoral-fellow-olivia-soares-pereira-named-a-national-geographic-explorer/",
 			"source": "MBARI",
 			"publishedAt": "2026-05-14T21:40:21.000Z"
+		},
+		{
+			"headline": "Two chemicals in everyday California air may pose 'unacceptable' cancer risk, findings suggest",
+			"url": "https://www.latimes.com/environment/story/2026-05-14/ten-times-worse-than-benzene-california-updates-its-science-on-two-air-contaminants",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-14T20:00:55.000Z"
+		},
+		{
+			"headline": "String Theory Emerges from \"Almost Nothing\"",
+			"url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
+			"source": "Caltech",
+			"publishedAt": "2026-05-14T15:00:01.320Z"
+		},
+		{
+			"headline": "Space Weather and Sun Science: A Conversation with Christina Cohen",
+			"url": "https://www.caltech.edu/about/news/space-weather-and-sun-science-a-conversation-with-christina-cohen",
+			"source": "Caltech",
+			"publishedAt": "2026-05-14T15:00:00.379Z"
 		},
 		{
 			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
@@ -86,16 +98,28 @@
 			"publishedAt": "2026-05-13T13:17:19.000Z"
 		},
 		{
+			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
+			"url": "https://www.caltech.edu/about/news/caltech-affiliated-students-awarded-2026-hertz-fellowships",
+			"source": "Caltech",
+			"publishedAt": "2026-05-13T22:03:52.994Z"
+		},
+		{
+			"headline": "Five takeaways from UC Berkeley's new survey on psychedelics in society",
+			"url": "https://psychedelics.berkeley.edu/five-big-takeaways-2025-uc-berkeley-psychedelics-survey/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-13T21:22:51.000Z"
+		},
+		{
 			"headline": "Heavier storms and longer dry spells are drying California and the West",
 			"url": "https://www.latimes.com/environment/story/2026-05-13/rainfall-study",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-13T14:59:24.000Z"
 		},
 		{
-			"headline": "Tesla rollover crash sparked Chino Hills fire that forced people from their homes, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-13/grand-fire-chino-hills-evacuations",
+			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
+			"url": "https://www.latimes.com/california/story/2026-05-13/newsom-to-propose-fund-to-help-california-wildfire-victims-rebuild",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T04:11:35.000Z"
+			"publishedAt": "2026-05-13T18:00:00.000Z"
 		},
 		{
 			"headline": "Two UC Berkeley scholars elected to the American Philosophical Society",
@@ -110,46 +134,16 @@
 			"publishedAt": "2026-05-13T15:00:00.000Z"
 		},
 		{
-			"headline": "Five takeaways from UC Berkeley's new survey on psychedelics in society",
-			"url": "https://psychedelics.berkeley.edu/five-big-takeaways-2025-uc-berkeley-psychedelics-survey/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-13T21:22:51.000Z"
-		},
-		{
-			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
-			"url": "https://www.caltech.edu/about/news/caltech-affiliated-students-awarded-2026-hertz-fellowships",
-			"source": "Caltech",
-			"publishedAt": "2026-05-13T22:03:52.994Z"
-		},
-		{
-			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
-			"url": "https://www.latimes.com/california/story/2026-05-13/newsom-to-propose-fund-to-help-california-wildfire-victims-rebuild",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-13T18:00:00.000Z"
-		},
-		{
-			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
-			"url": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-12T10:00:00.000Z"
-		},
-		{
 			"headline": "A Greener Route to Making Epoxides",
 			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
 			"source": "Caltech",
 			"publishedAt": "2026-05-12T21:56:00.000Z"
 		},
 		{
-			"headline": "L.A. quietly fires its first chief heat officer",
-			"url": "https://www.latimes.com/environment/story/2026-05-12/la-parts-ways-with-its-first-chief-heat-officer",
+			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
+			"url": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-12T18:38:26.000Z"
-		},
-		{
-			"headline": "Jonas Peters Elected to the American Philosophical Society",
-			"url": "https://www.caltech.edu/about/news/jonas-peters-elected-to-the-american-philosophical-society",
-			"source": "Caltech",
-			"publishedAt": "2026-05-15T20:52:51.306Z"
+			"publishedAt": "2026-05-12T10:00:00.000Z"
 		}
 	]
 }
