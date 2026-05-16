@@ -1,0 +1,255 @@
+{
+  "_comment": "California Curated Trivia question pool. Hand-written seed batch — once this lives, a weekly GitHub Action will draft new questions from articles via Claude Haiku and stage them in /drafts/ for review. Each question is referenced by id in localStorage so we can avoid recycling questions a player has already seen.",
+  "questions": [
+    {
+      "id": "q-0001",
+      "question": "California's grizzly bear, still pictured on the state flag, went extinct in the wild around what year?",
+      "choices": ["1880", "1900", "1924", "1950"],
+      "correct": 2,
+      "explanation": "The last confirmed California grizzly was shot in 1922, and the species was declared extinct by 1924. It now exists only on the flag.",
+      "category": "animals",
+      "difficulty": "medium",
+      "source": { "title": "Ghost of the West", "slug": "ghost-of-the-west-the-tragic-story-of-the-california-grizzly-bears-journey-from-wilderness-to-state-flag" }
+    },
+    {
+      "id": "q-0002",
+      "question": "The bastnaesite ore at California's Mountain Pass mine contains rare earth elements at roughly what concentration?",
+      "choices": ["1 to 2 percent", "3 to 4 percent", "7 to 8 percent", "15 to 20 percent"],
+      "correct": 2,
+      "explanation": "Mountain Pass ore averages 7 to 8 percent rare earths, among the richest concentrations anywhere on Earth.",
+      "category": "geology",
+      "difficulty": "hard",
+      "source": { "title": "The Mountain Pass Mine in California", "slug": "the-mountain-pass-mine-in-california-may-be-the-u-s-rare-earths-game-changer" }
+    },
+    {
+      "id": "q-0003",
+      "question": "The oldest known non-clonal living organisms on Earth are bristlecone pines in California's White Mountains. How old is the oldest?",
+      "choices": ["About 2,500 years", "About 3,500 years", "About 5,000 years", "About 7,500 years"],
+      "correct": 2,
+      "explanation": "Methuselah, in the Ancient Bristlecone Pine Forest, is roughly 4,800 years old. A still-older bristlecone has been measured at over 5,000 years.",
+      "category": "plants",
+      "difficulty": "medium",
+      "source": { "title": "The Majesty and Mystery of California's Bristlecone Pine", "slug": "the-majesty-and-mystery-of-californias-bristlecone-pine" }
+    },
+    {
+      "id": "q-0004",
+      "question": "When the California condor recovery program began in the 1980s, how many condors remained in the wild?",
+      "choices": ["22", "50", "100", "200"],
+      "correct": 0,
+      "explanation": "Just 22 condors remained when biologists captured them all for a captive breeding program. The 1,000th chick hatched in 2019.",
+      "category": "animals",
+      "difficulty": "medium",
+      "source": { "title": "Saving the California Condor", "slug": "saving-the-calfornia-condor" }
+    },
+    {
+      "id": "q-0005",
+      "question": "California's state marine fish is the:",
+      "choices": ["Pacific halibut", "Garibaldi", "Yellowtail", "Striped bass"],
+      "correct": 1,
+      "explanation": "The bright-orange Garibaldi, a damselfish that lives among California's kelp forests, became the official state marine fish in 1995.",
+      "category": "animals",
+      "difficulty": "easy",
+      "source": { "title": "The Garibaldi's Dance of Color", "slug": "orange-enigma-the-garibaldis-dance-of-color-and-character-in-californias-coastal-ballet" }
+    },
+    {
+      "id": "q-0006",
+      "question": "Lake Tulare, once the largest freshwater lake west of the Mississippi, was drained primarily for what purpose?",
+      "choices": ["City development", "Agriculture", "Flood control", "Highway construction"],
+      "correct": 1,
+      "explanation": "Tulare Lake was systematically diverted and drained beginning in the late 1800s to convert its bed into farmland for cotton, alfalfa, and tomatoes.",
+      "category": "geology",
+      "difficulty": "medium",
+      "source": { "title": "The Return of Lake Tulare", "slug": "the-return-of-lake-tulare-once-the-largest-lake-west-of-the-mississippi" }
+    },
+    {
+      "id": "q-0007",
+      "question": "Monterey Canyon, off California's central coast, is comparable in scale to which famous landmark?",
+      "choices": ["The Mariana Trench", "The Grand Canyon", "Olympus Mons", "The Great Barrier Reef"],
+      "correct": 1,
+      "explanation": "Monterey Canyon is roughly 95 miles long and a mile deep at its deepest point, comparable to the Grand Canyon in size and steepness.",
+      "category": "oceans",
+      "difficulty": "easy",
+      "source": { "title": "A Deep Dive into Monterey Canyon", "slug": "a-deep-dive-into-monterey-canyon-californias-great-abyss" }
+    },
+    {
+      "id": "q-0008",
+      "question": "California's tallest peak, Mount Whitney, rises to what elevation?",
+      "choices": ["12,495 ft", "13,494 ft", "14,505 ft", "15,505 ft"],
+      "correct": 2,
+      "explanation": "Mount Whitney's summit is officially 14,505 feet, making it the highest peak in the contiguous United States.",
+      "category": "geology",
+      "difficulty": "easy",
+      "source": null
+    },
+    {
+      "id": "q-0009",
+      "question": "Badwater Basin in California's Death Valley is the lowest point in North America. How far below sea level?",
+      "choices": ["100 ft", "200 ft", "282 ft", "400 ft"],
+      "correct": 2,
+      "explanation": "Badwater Basin sits 282 feet (86 meters) below sea level. Mount Whitney, the highest point in the lower 48, is only 85 miles away.",
+      "category": "geology",
+      "difficulty": "easy",
+      "source": null
+    },
+    {
+      "id": "q-0010",
+      "question": "Joshua trees, found across California's Mojave Desert, are actually giant members of which plant family?",
+      "choices": ["Cactus", "Agave (yucca)", "Palm", "Conifer"],
+      "correct": 1,
+      "explanation": "Joshua trees (Yucca brevifolia) are not trees at all but giant yuccas in the agave family — closer to asparagus than to oak.",
+      "category": "plants",
+      "difficulty": "medium",
+      "source": { "title": "The Mystical Sentinels of the Mojave", "slug": "the-mystical-sentinels-of-the-mojave-unraveling-the-secrets-of-the-joshua-tree" }
+    },
+    {
+      "id": "q-0011",
+      "question": "California sea otters are essential to kelp forests because they prey primarily on:",
+      "choices": ["Sardines", "Sea urchins", "Crabs", "Squid"],
+      "correct": 1,
+      "explanation": "Otters eat sea urchins, which graze on kelp. Without otters, urchin populations explode and clear-cut entire kelp forests in what's called an 'urchin barren.'",
+      "category": "oceans",
+      "difficulty": "medium",
+      "source": { "title": "Why Bringing Back California's Kelp Is So Important", "slug": "why-bringing-back-californias-kelp-is-so-important" }
+    },
+    {
+      "id": "q-0012",
+      "question": "The Long Valley Caldera near Mammoth Lakes is a:",
+      "choices": ["Glacial valley", "Supervolcano", "Tectonic rift", "Meteorite crater"],
+      "correct": 1,
+      "explanation": "Long Valley Caldera formed in a colossal eruption 760,000 years ago. It's one of the largest supervolcanic calderas in the world and remains geologically active.",
+      "category": "geology",
+      "difficulty": "medium",
+      "source": { "title": "Long Valley Caldera", "slug": "long-valley-caldera-discover-the-science-and-beauty-of-californias-ancient-supervolcano" }
+    },
+    {
+      "id": "q-0013",
+      "question": "J. Robert Oppenheimer launched his academic career at which California institution before leading the Manhattan Project?",
+      "choices": ["Stanford", "UC Berkeley", "Caltech", "UCLA"],
+      "correct": 1,
+      "explanation": "Oppenheimer joined UC Berkeley in 1929 and built a world-leading theoretical physics group there before being recruited to Los Alamos.",
+      "category": "history",
+      "difficulty": "medium",
+      "source": { "title": "Oppenheimer: The Berkeley Era", "slug": "j-robert-oppenheimer-the-berkeley-era-and-the-birth-of-the-manhattan-project" }
+    },
+    {
+      "id": "q-0014",
+      "question": "The 'Alvarez hypothesis' — that an asteroid impact killed the dinosaurs — was proposed by UC Berkeley researchers in what year?",
+      "choices": ["1965", "1980", "1995", "2005"],
+      "correct": 1,
+      "explanation": "Luis Alvarez and his son Walter published their iridium-layer evidence in Science in 1980. The Chicxulub crater confirmed the theory a decade later.",
+      "category": "history",
+      "difficulty": "hard",
+      "source": { "title": "Berkeley's Cosmic Breakthrough", "slug": "berkeleys-cosmic-breakthrough-and-the-alvarez-discovery-that-rewrote-earths-history" }
+    },
+    {
+      "id": "q-0015",
+      "question": "Albert Einstein spent three winters during the early 1930s as a visiting researcher at which California institution?",
+      "choices": ["UC Berkeley", "Stanford", "Caltech", "USC"],
+      "correct": 2,
+      "explanation": "Einstein wintered at Caltech in Pasadena from 1931 to 1933, where he worked alongside Edwin Hubble and confronted the new evidence of an expanding universe.",
+      "category": "history",
+      "difficulty": "medium",
+      "source": { "title": "Einstein in Pasadena: Three Winters in Paradise", "slug": "einstein-in-pasadena-three-winters-in-paradise" }
+    },
+    {
+      "id": "q-0016",
+      "question": "California's state fossil is the:",
+      "choices": ["Trilobite", "Tyrannosaurus rex", "Saber-toothed cat (Smilodon fatalis)", "Ammonite"],
+      "correct": 2,
+      "explanation": "Smilodon fatalis, the saber-toothed cat, became the official state fossil in 1973, in part because thousands of specimens have been recovered from the La Brea Tar Pits.",
+      "category": "animals",
+      "difficulty": "easy",
+      "source": null
+    },
+    {
+      "id": "q-0017",
+      "question": "The Channel Islands' island fox is unusual primarily because it is:",
+      "choices": ["A strong swimmer", "The smallest fox in North America", "Nocturnal", "Venomous"],
+      "correct": 1,
+      "explanation": "Island foxes are roughly the size of a house cat — the smallest fox species in North America. They evolved in isolation on the Channel Islands for ~10,000 years.",
+      "category": "animals",
+      "difficulty": "medium",
+      "source": { "title": "The Enigmatic Island Fox", "slug": "the-enigmatic-island-fox-a-tale-of-survival-and-conservation" }
+    },
+    {
+      "id": "q-0018",
+      "question": "Hydraulic mining during the Gold Rush was banned in 1884 primarily because:",
+      "choices": ["The gold ran out", "It caused catastrophic flooding and farmland destruction", "Workers refused to do the dangerous work", "The federal government seized the land"],
+      "correct": 1,
+      "explanation": "The 1884 Sawyer Decision halted hydraulic mining after sediment-choked rivers triggered devastating floods in Sacramento Valley farmland. It's considered America's first major environmental ruling.",
+      "category": "history",
+      "difficulty": "hard",
+      "source": { "title": "Hydraulic Mining's Lingering Legacy", "slug": "the-unearthed-truth-hydraulic-minings-lingering-legacy-in-california" }
+    },
+    {
+      "id": "q-0019",
+      "question": "California produces approximately what share of the world's almonds?",
+      "choices": ["25 percent", "50 percent", "80 percent", "Nearly all of them"],
+      "correct": 2,
+      "explanation": "California grows roughly 80 percent of the world's almonds, almost all of them in the Central Valley.",
+      "category": "plants",
+      "difficulty": "easy",
+      "source": null
+    },
+    {
+      "id": "q-0020",
+      "question": "Caltech's NASA-affiliated facility in Pasadena, which built and operates the Mars rovers, is known as:",
+      "choices": ["SLAC", "JPL", "Ames Research Center", "Goldstone"],
+      "correct": 1,
+      "explanation": "The Jet Propulsion Laboratory (JPL) is managed by Caltech for NASA. JPL has led every U.S. Mars rover mission, from Sojourner in 1997 through Perseverance.",
+      "category": "history",
+      "difficulty": "easy",
+      "source": null
+    },
+    {
+      "id": "q-0021",
+      "question": "A single modern wind turbine can require up to how many pounds of rare-earth metals?",
+      "choices": ["50 pounds", "150 pounds", "500 pounds", "1,000 pounds"],
+      "correct": 2,
+      "explanation": "The high-strength permanent magnets in a single turbine can use up to 500 pounds of neodymium and dysprosium — a major reason California's Mountain Pass mine is strategically important.",
+      "category": "geology",
+      "difficulty": "hard",
+      "source": { "title": "The Mountain Pass Mine in California", "slug": "the-mountain-pass-mine-in-california-may-be-the-u-s-rare-earths-game-changer" }
+    },
+    {
+      "id": "q-0022",
+      "question": "The California Current, which runs along the coast, is:",
+      "choices": ["Warm and flows south", "Cold and flows south", "Warm and flows north", "Cold and flows north"],
+      "correct": 1,
+      "explanation": "The California Current is a cold, south-flowing current that drives the upwelling responsible for California's rich coastal fisheries and famously chilly summer ocean.",
+      "category": "oceans",
+      "difficulty": "medium",
+      "source": null
+    },
+    {
+      "id": "q-0023",
+      "question": "The Pentagon recently became the largest single shareholder in California rare-earth miner MP Materials, with an equity stake of roughly:",
+      "choices": ["5 percent", "10 percent", "15 percent", "25 percent"],
+      "correct": 2,
+      "explanation": "In July 2025 the U.S. Department of Defense invested $400 million in MP Materials in exchange for convertible preferred stock and warrants, making it the company's largest shareholder at about 15 percent.",
+      "category": "geology",
+      "difficulty": "hard",
+      "source": { "title": "The Mountain Pass Mine in California", "slug": "the-mountain-pass-mine-in-california-may-be-the-u-s-rare-earths-game-changer" }
+    },
+    {
+      "id": "q-0024",
+      "question": "The 1872 Lone Pine earthquake in California's Owens Valley is estimated to have been:",
+      "choices": ["Magnitude 6.4", "Magnitude 7.0", "Magnitude 7.9", "Magnitude 8.5"],
+      "correct": 2,
+      "explanation": "The Lone Pine quake was approximately magnitude 7.9, killing 27 people and offsetting the Sierra Nevada by as much as 20 feet vertically.",
+      "category": "geology",
+      "difficulty": "hard",
+      "source": null
+    },
+    {
+      "id": "q-0025",
+      "question": "Coast redwoods, the tallest trees on Earth, can grow taller than:",
+      "choices": ["200 feet", "250 feet", "300 feet", "380 feet"],
+      "correct": 3,
+      "explanation": "Hyperion, in Redwood National Park, has been measured at over 380 feet — taller than the Statue of Liberty including its pedestal.",
+      "category": "plants",
+      "difficulty": "medium",
+      "source": null
+    }
+  ]
+}
