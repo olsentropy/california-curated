@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-17T16:42:25.313Z",
+	"lastUpdated": "2026-05-17T20:37:54.764Z",
 	"items": [
 		{
 			"headline": "Should a high-voltage power line run through California's largest state park? Critics are furious",
@@ -32,8 +32,8 @@
 			"publishedAt": "2026-05-15T19:26:15.000Z"
 		},
 		{
-			"headline": "L.A.'s ultra-urban rivers wash tons of trash out to sea. There's a plan to change that before the Olympics",
-			"url": "https://www.latimes.com/environment/story/2026-05-15/l-a-san-gabriel-rivers-to-get-trash-interceptors-to-protect-ocean",
+			"headline": "After public outcry, Orange County halts herbicide spraying in creeks",
+			"url": "https://www.latimes.com/environment/story/2026-05-15/orange-county-stops-spraying-herbicides-creeks",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
@@ -44,16 +44,10 @@
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
-			"headline": "After public outcry, Orange County halts herbicide spraying in creeks",
-			"url": "https://www.latimes.com/environment/story/2026-05-15/orange-county-stops-spraying-herbicides-creeks",
+			"headline": "L.A.'s ultra-urban rivers wash tons of trash out to sea. There's a plan to change that before the Olympics",
+			"url": "https://www.latimes.com/environment/story/2026-05-15/l-a-san-gabriel-rivers-to-get-trash-interceptors-to-protect-ocean",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-15T10:00:00.000Z"
-		},
-		{
-			"headline": "Winds to whip Southern California, boosting risk of fires and dangerous seas",
-			"url": "https://www.latimes.com/california/story/2026-05-15/windy-la-region-forecast-increases-high-surf-fire-risks-this-weekend",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-15T16:34:28.000Z"
 		},
 		{
 			"headline": "MBARI Postdoctoral Fellow Olívia Soares Pereira named a National Geographic Explorer",
@@ -62,10 +56,16 @@
 			"publishedAt": "2026-05-14T21:40:21.000Z"
 		},
 		{
-			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
-			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
+			"headline": "Two chemicals in everyday California air may pose 'unacceptable' cancer risk, findings suggest",
+			"url": "https://www.latimes.com/environment/story/2026-05-14/ten-times-worse-than-benzene-california-updates-its-science-on-two-air-contaminants",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T16:25:33.000Z"
+			"publishedAt": "2026-05-14T20:00:55.000Z"
+		},
+		{
+			"headline": "Homeless people need more than shelter to achieve well-being, study finds",
+			"url": "https://possibilitylab.berkeley.edu/the-uc-berkeley-possibility-lab-releases-new-report-on-wellbeing-indicators-for-people-with-lived-experience-of-homelessness-in-the-bay-area/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-14T18:29:49.000Z"
 		},
 		{
 			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
@@ -74,10 +74,22 @@
 			"publishedAt": "2026-05-14T17:56:29.000Z"
 		},
 		{
-			"headline": "Two chemicals in everyday California air may pose 'unacceptable' cancer risk, findings suggest",
-			"url": "https://www.latimes.com/environment/story/2026-05-14/ten-times-worse-than-benzene-california-updates-its-science-on-two-air-contaminants",
+			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
+			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T20:00:55.000Z"
+			"publishedAt": "2026-05-14T16:25:33.000Z"
+		},
+		{
+			"headline": "String Theory Emerges from \"Almost Nothing\"",
+			"url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
+			"source": "Caltech",
+			"publishedAt": "2026-05-14T15:00:01.320Z"
+		},
+		{
+			"headline": "Space Weather and Sun Science: A Conversation with Christina Cohen",
+			"url": "https://www.caltech.edu/about/news/space-weather-and-sun-science-a-conversation-with-christina-cohen",
+			"source": "Caltech",
+			"publishedAt": "2026-05-14T15:00:00.379Z"
 		},
 		{
 			"headline": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse?",
@@ -104,46 +116,40 @@
 			"publishedAt": "2026-05-13T13:17:19.000Z"
 		},
 		{
+			"headline": "Have We Been Focusing on the Wrong Ocean Pollutants? This Study Maps What We've Been Missing",
+			"url": "https://eos.org/articles/have-we-been-focusing-on-the-wrong-ocean-pollutants-this-study-maps-what-weve-been-missing",
+			"source": "Eos",
+			"publishedAt": "2026-05-13T13:16:47.000Z"
+		},
+		{
+			"headline": "Photos: Orphaned Monrovia bear cubs on path back to wild after state euthanized their mom",
+			"url": "https://www.latimes.com/california/story/2026-05-13/monrovia-bear-cubs-on-path-back-to-wild-mother-blondie-euthanized",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-13T12:00:00.000Z"
+		},
+		{
 			"headline": "Heavier storms and longer dry spells are drying California and the West",
 			"url": "https://www.latimes.com/environment/story/2026-05-13/rainfall-study",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-13T14:59:24.000Z"
 		},
 		{
-			"headline": "Tesla rollover crash sparked Chino Hills fire that forced people from their homes, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-13/grand-fire-chino-hills-evacuations",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T04:11:35.000Z"
+			"headline": "Two UC Berkeley scholars elected to the American Philosophical Society",
+			"url": "https://news.berkeley.edu/2026/05/13/two-uc-berkeley-scholars-elected-to-the-american-philosophical-society/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-13T17:20:41.000Z"
 		},
 		{
-			"headline": "String Theory Emerges from \"Almost Nothing\"",
-			"url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
-			"source": "Caltech",
-			"publishedAt": "2026-05-14T15:00:01.320Z"
-		},
-		{
-			"headline": "Space Weather and Sun Science: A Conversation with Christina Cohen",
-			"url": "https://www.caltech.edu/about/news/space-weather-and-sun-science-a-conversation-with-christina-cohen",
-			"source": "Caltech",
-			"publishedAt": "2026-05-14T15:00:00.379Z"
-		},
-		{
-			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
-			"url": "https://www.caltech.edu/about/news/caltech-affiliated-students-awarded-2026-hertz-fellowships",
-			"source": "Caltech",
-			"publishedAt": "2026-05-13T22:03:52.994Z"
+			"headline": "New Gateway building creates dedicated campus hub for AI, computing",
+			"url": "https://news.berkeley.edu/2026/05/13/new-gateway-building-creates-dedicated-campus-hub-for-ai-computing/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-13T15:00:00.000Z"
 		},
 		{
 			"headline": "A Greener Route to Making Epoxides",
 			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
 			"source": "Caltech",
 			"publishedAt": "2026-05-12T21:56:00.000Z"
-		},
-		{
-			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
-			"url": "https://www.latimes.com/california/story/2026-05-13/newsom-to-propose-fund-to-help-california-wildfire-victims-rebuild",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-13T18:00:00.000Z"
 		}
 	]
 }
