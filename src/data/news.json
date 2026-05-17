@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-05-16T20:35:44.795Z",
+	"lastUpdated": "2026-05-17T01:44:59.081Z",
 	"items": [
+		{
+			"headline": "The world's largest wildlife crossing and five others are coming to Southern California",
+			"url": "https://www.latimes.com/california/story/2026-05-16/six-wildlife-crossings-are-coming-to-southern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-17T00:40:23.000Z"
+		},
 		{
 			"headline": "The gray wolf's improbable California comeback continues as population hits modern record number",
 			"url": "https://www.latimes.com/california/story/2026-05-16/gray-wolfs-improbable-california-comeback-continues",
@@ -18,12 +24,6 @@
 			"url": "https://www.latimes.com/california/story/2026-05-15/three-poisoned-by-mushrooms-foraged-in-california-wine-country",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-15T19:26:15.000Z"
-		},
-		{
-			"headline": "Winds to whip Southern California, boosting risk of fires and dangerous seas",
-			"url": "https://www.latimes.com/california/story/2026-05-15/windy-la-region-forecast-increases-high-surf-fire-risks-this-weekend",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-15T16:34:28.000Z"
 		},
 		{
 			"headline": "L.A.'s ultra-urban rivers wash tons of trash out to sea. There's a plan to change that before the Olympics",
@@ -56,16 +56,16 @@
 			"publishedAt": "2026-05-14T20:00:55.000Z"
 		},
 		{
-			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
-			"url": "https://baynature.org/2026/05/14/conservation/biodiversity/meet-a-newly-named-nudibranch-with-a-unique-approach-to-sex/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-14T17:56:29.000Z"
-		},
-		{
 			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
 			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-14T16:25:33.000Z"
+		},
+		{
+			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
+			"url": "https://baynature.org/2026/05/14/conservation/biodiversity/meet-a-newly-named-nudibranch-with-a-unique-approach-to-sex/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-14T17:56:29.000Z"
 		},
 		{
 			"headline": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse?",
@@ -104,16 +104,52 @@
 			"publishedAt": "2026-05-13T14:59:24.000Z"
 		},
 		{
-			"headline": "Tesla rollover crash sparked Chino Hills fire that forced people from their homes, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-13/grand-fire-chino-hills-evacuations",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T04:11:35.000Z"
+			"headline": "Two UC Berkeley scholars elected to the American Philosophical Society",
+			"url": "https://news.berkeley.edu/2026/05/13/two-uc-berkeley-scholars-elected-to-the-american-philosophical-society/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-13T17:20:41.000Z"
 		},
 		{
-			"headline": "Footage shows Central Valley dairy workers kicking young calves, pulling them with pliers",
-			"url": "https://www.latimes.com/environment/story/2026-05-12/footage-shows-central-valley-dairy-workers-kicking-young-calves-pulling-them-with-pliers",
+			"headline": "New Gateway building creates dedicated campus hub for AI, computing",
+			"url": "https://news.berkeley.edu/2026/05/13/new-gateway-building-creates-dedicated-campus-hub-for-ai-computing/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-13T15:00:00.000Z"
+		},
+		{
+			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
+			"url": "https://www.caltech.edu/about/news/caltech-affiliated-students-awarded-2026-hertz-fellowships",
+			"source": "Caltech",
+			"publishedAt": "2026-05-13T22:03:52.994Z"
+		},
+		{
+			"headline": "A Greener Route to Making Epoxides",
+			"url": "https://www.caltech.edu/about/news/a-greener-route-to-making-epoxides",
+			"source": "Caltech",
+			"publishedAt": "2026-05-12T21:56:00.000Z"
+		},
+		{
+			"headline": "L.A. quietly fires its first chief heat officer",
+			"url": "https://www.latimes.com/environment/story/2026-05-12/la-parts-ways-with-its-first-chief-heat-officer",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-12T10:00:00.000Z"
+			"publishedAt": "2026-05-12T18:38:26.000Z"
+		},
+		{
+			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
+			"url": "https://www.latimes.com/california/story/2026-05-13/newsom-to-propose-fund-to-help-california-wildfire-victims-rebuild",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-13T18:00:00.000Z"
+		},
+		{
+			"headline": "Winds to whip Southern California, boosting risk of fires and dangerous seas",
+			"url": "https://www.latimes.com/california/story/2026-05-15/windy-la-region-forecast-increases-high-surf-fire-risks-this-weekend",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-15T16:34:28.000Z"
+		},
+		{
+			"headline": "Five takeaways from UC Berkeley's new survey on psychedelics in society",
+			"url": "https://psychedelics.berkeley.edu/five-big-takeaways-2025-uc-berkeley-psychedelics-survey/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-13T21:22:51.000Z"
 		}
 	]
 }
