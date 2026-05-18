@@ -311,7 +311,9 @@ const TOTAL_QUESTIONS = questions.length;
 
 						const letter = document.createElement('span');
 						letter.className = 'choice-letter';
-						letter.textContent = String.fromCharCode(65 + i); // A, B, C, D
+						// Two non-breaking spaces after the ")" so the gap survives
+						// whitespace collapse and we don't depend on flex `gap` alone.
+						letter.textContent = String.fromCharCode(65 + i) + ')  ';
 
 						const text = document.createElement('span');
 						text.className = 'choice-text';
@@ -567,14 +569,14 @@ const TOTAL_QUESTIONS = questions.length;
 	.choices { display: flex; flex-direction: column; gap: 0.75rem; }
 	.choice-btn {
 		display: flex;
-		align-items: center;
-		gap: 0.85rem;
+		align-items: baseline;
+		gap: 0;
 		width: 100%;
 		text-align: left;
 		background: #fff;
 		border: 2px solid var(--cc-line);
 		border-radius: 10px;
-		padding: 0.9rem 1.1rem;
+		padding: 0.95rem 1.15rem;
 		font-family: inherit;
 		font-size: 1rem;
 		color: var(--cc-ink);
@@ -585,29 +587,25 @@ const TOTAL_QUESTIONS = questions.length;
 	.choice-btn:active:not(:disabled) { transform: scale(0.99); }
 	.choice-btn:focus-visible { outline: 2px solid var(--cc-blue); outline-offset: 2px; }
 	.choice-letter {
-		display: inline-flex;
-		align-items: center;
-		justify-content: center;
-		width: 1.85em;
-		height: 1.85em;
-		min-width: 1.85em;
-		border-radius: 50%;
-		background: var(--cc-line-soft);
-		color: var(--cc-ink-soft);
+		display: inline-block;
+		min-width: 1.25em;
+		font-family: Georgia, "Times New Roman", serif;
 		font-weight: 700;
-		font-size: 0.85rem;
+		font-size: 1.05rem;
+		color: var(--cc-muted);
+		letter-spacing: 0.02em;
 	}
 	.choice-text { flex: 1; line-height: 1.35; }
 	.choice-btn.correct {
 		border-color: #2E9F4E;
 		background: rgba(46, 159, 78, 0.08);
 	}
-	.choice-btn.correct .choice-letter { background: #2E9F4E; color: #fff; }
+	.choice-btn.correct .choice-letter { color: #2E9F4E; }
 	.choice-btn.incorrect {
 		border-color: #D24A3A;
 		background: rgba(210, 74, 58, 0.08);
 	}
-	.choice-btn.incorrect .choice-letter { background: #D24A3A; color: #fff; }
+	.choice-btn.incorrect .choice-letter { color: #D24A3A; }
 	.choice-btn.dimmed { opacity: 0.5; }
 	.choice-btn:disabled { cursor: default; }
 
