@@ -1,17 +1,17 @@
 {
-	"lastUpdated": "2026-05-18T17:50:22.984Z",
+	"lastUpdated": "2026-05-18T20:59:25.492Z",
 	"items": [
+		{
+			"headline": "For the first time in a century, a gray wolf entered Sequoia National Park. She's traveled hundreds of miles to get there",
+			"url": "https://www.latimes.com/environment/story/2026-05-18/wolf-enters-sequoia-national-park-for-first-time-in-century-bey03f",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T19:40:49.000Z"
+		},
 		{
 			"headline": "As ocean temperatures spike, more dead sea birds are washing up on California shores",
 			"url": "https://www.latimes.com/environment/story/2026-05-18/ocean-temperatures-increasing-dead-sea-birds-california-shores",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-18T16:00:35.000Z"
-		},
-		{
-			"headline": "Caltech Announces Eight Recipients of the 2026 National Brown Investigator Award",
-			"url": "https://www.caltech.edu/about/news/caltech-announces-eight-recipients-of-the-2026-national-brown-investigator-award",
-			"source": "Caltech",
-			"publishedAt": "2026-05-18T17:18:18.253Z"
 		},
 		{
 			"headline": "MBARI DNA technology supports marine biodiversity surveys in Brazil",
@@ -32,6 +32,12 @@
 			"publishedAt": "2026-05-17T10:00:00.000Z"
 		},
 		{
+			"headline": "The gray wolf's improbable California comeback continues as population hits modern record number",
+			"url": "https://www.latimes.com/california/story/2026-05-16/gray-wolfs-improbable-california-comeback-continues",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-16T11:00:00.000Z"
+		},
+		{
 			"headline": "Light pollution reshapes predator-prey dynamics at California's urban edge, study finds",
 			"url": "https://news.mongabay.com/2026/05/light-pollution-reshapes-predator-prey-dynamics-at-californias-urban-edge-study-finds/",
 			"source": "Mongabay",
@@ -44,32 +50,8 @@
 			"publishedAt": "2026-05-15T19:26:15.000Z"
 		},
 		{
-			"headline": "The gray wolf's improbable California comeback continues as population hits modern record number",
-			"url": "https://www.latimes.com/california/story/2026-05-16/gray-wolfs-improbable-california-comeback-continues",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-16T11:00:00.000Z"
-		},
-		{
-			"headline": "The world's largest wildlife crossing and six others are coming to Southern California",
-			"url": "https://www.latimes.com/california/story/2026-05-16/six-wildlife-crossings-are-coming-to-southern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-17T00:40:23.000Z"
-		},
-		{
-			"headline": "California man facing federal charges in international turtle trafficking plot",
-			"url": "https://www.latimes.com/california/story/2026-05-16/feds-charge-daly-city-man-exotic-turtle-trafficking",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-16T18:01:29.000Z"
-		},
-		{
 			"headline": "L.A.'s ultra-urban rivers wash tons of trash out to sea. There's a plan to change that before the Olympics",
 			"url": "https://www.latimes.com/environment/story/2026-05-15/l-a-san-gabriel-rivers-to-get-trash-interceptors-to-protect-ocean",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-15T10:00:00.000Z"
-		},
-		{
-			"headline": "After public outcry, Orange County halts herbicide spraying in creeks",
-			"url": "https://www.latimes.com/environment/story/2026-05-15/orange-county-stops-spraying-herbicides-creeks",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
@@ -80,16 +62,10 @@
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
-			"headline": "As crowds build at Yosemite, visitors worry the high season will be a disaster",
-			"url": "https://www.latimes.com/california/story/2026-05-18/crowds-yosemite-visitors-worry-high-season-will-be-disaster",
+			"headline": "After public outcry, Orange County halts herbicide spraying in creeks",
+			"url": "https://www.latimes.com/environment/story/2026-05-15/orange-county-stops-spraying-herbicides-creeks",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T10:00:00.000Z"
-		},
-		{
-			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
-			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T16:25:33.000Z"
+			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
 			"headline": "Two chemicals in everyday California air may pose 'unacceptable' cancer risk, findings suggest",
@@ -104,16 +80,28 @@
 			"publishedAt": "2026-05-14T17:56:29.000Z"
 		},
 		{
+			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
+			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-14T16:25:33.000Z"
+		},
+		{
 			"headline": "MBARI Postdoctoral Fellow Olívia Soares Pereira named a National Geographic Explorer",
 			"url": "https://www.mbari.org/news/mbari-postdoctoral-fellow-olivia-soares-pereira-named-a-national-geographic-explorer/",
 			"source": "MBARI",
 			"publishedAt": "2026-05-14T21:40:21.000Z"
 		},
 		{
-			"headline": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse?",
-			"url": "https://www.latimes.com/california/story/2026-05-14/hantavirus-strikes-cruise-ship-perfect-storm-or-warning-sign",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T10:00:00.000Z"
+			"headline": "String Theory Emerges from \"Almost Nothing\"",
+			"url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
+			"source": "Caltech",
+			"publishedAt": "2026-05-14T15:00:01.320Z"
+		},
+		{
+			"headline": "Space Weather and Sun Science: A Conversation with Christina Cohen",
+			"url": "https://www.caltech.edu/about/news/space-weather-and-sun-science-a-conversation-with-christina-cohen",
+			"source": "Caltech",
+			"publishedAt": "2026-05-14T15:00:00.379Z"
 		},
 		{
 			"headline": "200,000 Californians create as much power as a nuclear plant to help the grid. Now that's up in the air",
@@ -122,16 +110,16 @@
 			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
 		{
-			"headline": "Another Californian was exposed to hantavirus in deadly cruise ship outbreak, officials announce",
-			"url": "https://www.latimes.com/california/story/2026-05-14/fifth-californian-was-exposed-to-hantavirus-on-cruise-ship-officials-say",
+			"headline": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse?",
+			"url": "https://www.latimes.com/california/story/2026-05-14/hantavirus-strikes-cruise-ship-perfect-storm-or-warning-sign",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
 		{
-			"headline": "Tesla rollover crash sparked Chino Hills fire that forced people from their homes, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-13/grand-fire-chino-hills-evacuations",
+			"headline": "Another Californian was exposed to hantavirus in deadly cruise ship outbreak, officials announce",
+			"url": "https://www.latimes.com/california/story/2026-05-14/fifth-californian-was-exposed-to-hantavirus-on-cruise-ship-officials-say",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T04:11:35.000Z"
+			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
 		{
 			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
@@ -146,10 +134,22 @@
 			"publishedAt": "2026-05-13T21:22:51.000Z"
 		},
 		{
-			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
-			"url": "https://www.latimes.com/california/story/2026-05-13/newsom-to-propose-fund-to-help-california-wildfire-victims-rebuild",
+			"headline": "For Black Americans, wealth offers scant protection from pregnancy risks, scholar finds",
+			"url": "https://news.berkeley.edu/2026/05/18/for-black-americans-wealth-offers-scant-protection-from-pregnancy-risks-scholar-finds/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-18T17:49:53.000Z"
+		},
+		{
+			"headline": "At UC Berkeley's 2026 commencement, grads reflected on an education defined by connection",
+			"url": "https://news.berkeley.edu/2026/05/16/at-uc-berkeleys-2026-commencement-grads-reflected-on-an-education-defined-by-connection/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-17T03:12:51.000Z"
+		},
+		{
+			"headline": "The world's largest wildlife crossing and six others are coming to Southern California",
+			"url": "https://www.latimes.com/california/story/2026-05-16/six-wildlife-crossings-are-coming-to-southern-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-13T18:00:00.000Z"
+			"publishedAt": "2026-05-17T00:40:23.000Z"
 		}
 	]
 }
