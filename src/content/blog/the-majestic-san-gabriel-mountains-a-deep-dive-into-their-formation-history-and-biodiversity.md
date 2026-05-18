@@ -94,6 +94,6 @@ California condors once soared here in significant numbers; the San Gabriels wer
 
 The [San Gabriel Mountains National Monument](<https://www.fs.usda.gov/visit/san-gabriel-mountains-national-monument>) designation in 2014, expanded significantly in 2024, put real protection around this ecosystem. The goal is to make sure future generations have the same mountains to look up at.
 
-The San Gabriels aren't just a backdrop. They're still rising, still shifting, still shaping the region's weather and the ecosystems on their slopes. As Los Angeles spreads outward, the deeper forces of California are still very much at work.
+Next time you're stuck on the 210, look north. Those mountains are still moving. Not fast, but faster than you'd think.
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
