@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-05-18T14:48:13.897Z",
+	"lastUpdated": "2026-05-18T17:50:22.984Z",
 	"items": [
+		{
+			"headline": "As ocean temperatures spike, more dead sea birds are washing up on California shores",
+			"url": "https://www.latimes.com/environment/story/2026-05-18/ocean-temperatures-increasing-dead-sea-birds-california-shores",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T16:00:35.000Z"
+		},
+		{
+			"headline": "Caltech Announces Eight Recipients of the 2026 National Brown Investigator Award",
+			"url": "https://www.caltech.edu/about/news/caltech-announces-eight-recipients-of-the-2026-national-brown-investigator-award",
+			"source": "Caltech",
+			"publishedAt": "2026-05-18T17:18:18.253Z"
+		},
+		{
+			"headline": "MBARI DNA technology supports marine biodiversity surveys in Brazil",
+			"url": "https://www.mbari.org/news/mbari-dna-technology-supports-marine-biodiversity-surveys-in-brazil/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-18T16:11:28.000Z"
+		},
 		{
 			"headline": "Santa Rosa Island fire burns more than 10,000 acres, threatening rare plants and animals",
 			"url": "https://www.latimes.com/california/story/2026-05-17/santa-rosa-island-fire-burns-more-than-10-000-acres-threatening-rare-plants-animals",
@@ -8,34 +26,10 @@
 			"publishedAt": "2026-05-18T04:51:03.000Z"
 		},
 		{
-			"headline": "As crowds build at Yosemite, visitors worry the high season will be a disaster",
-			"url": "https://www.latimes.com/california/story/2026-05-18/crowds-yosemite-visitors-worry-high-season-will-be-disaster",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T10:00:00.000Z"
-		},
-		{
 			"headline": "Should a high-voltage power line run through California's largest state park? Critics are furious",
 			"url": "https://www.latimes.com/environment/story/2026-05-17/in-california-desert-planned-high-voltage-power-line-sparks-outrage",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-17T10:00:00.000Z"
-		},
-		{
-			"headline": "The world's largest wildlife crossing and six others are coming to Southern California",
-			"url": "https://www.latimes.com/california/story/2026-05-16/six-wildlife-crossings-are-coming-to-southern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-17T00:40:23.000Z"
-		},
-		{
-			"headline": "California man facing federal charges in international turtle trafficking plot",
-			"url": "https://www.latimes.com/california/story/2026-05-16/feds-charge-daly-city-man-exotic-turtle-trafficking",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-16T18:01:29.000Z"
-		},
-		{
-			"headline": "The gray wolf's improbable California comeback continues as population hits modern record number",
-			"url": "https://www.latimes.com/california/story/2026-05-16/gray-wolfs-improbable-california-comeback-continues",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-16T11:00:00.000Z"
 		},
 		{
 			"headline": "Light pollution reshapes predator-prey dynamics at California's urban edge, study finds",
@@ -48,6 +42,24 @@
 			"url": "https://www.latimes.com/california/story/2026-05-15/three-poisoned-by-mushrooms-foraged-in-california-wine-country",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-15T19:26:15.000Z"
+		},
+		{
+			"headline": "The gray wolf's improbable California comeback continues as population hits modern record number",
+			"url": "https://www.latimes.com/california/story/2026-05-16/gray-wolfs-improbable-california-comeback-continues",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-16T11:00:00.000Z"
+		},
+		{
+			"headline": "The world's largest wildlife crossing and six others are coming to Southern California",
+			"url": "https://www.latimes.com/california/story/2026-05-16/six-wildlife-crossings-are-coming-to-southern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-17T00:40:23.000Z"
+		},
+		{
+			"headline": "California man facing federal charges in international turtle trafficking plot",
+			"url": "https://www.latimes.com/california/story/2026-05-16/feds-charge-daly-city-man-exotic-turtle-trafficking",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-16T18:01:29.000Z"
 		},
 		{
 			"headline": "L.A.'s ultra-urban rivers wash tons of trash out to sea. There's a plan to change that before the Olympics",
@@ -68,10 +80,16 @@
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
-			"headline": "MBARI Postdoctoral Fellow Olívia Soares Pereira named a National Geographic Explorer",
-			"url": "https://www.mbari.org/news/mbari-postdoctoral-fellow-olivia-soares-pereira-named-a-national-geographic-explorer/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-14T21:40:21.000Z"
+			"headline": "As crowds build at Yosemite, visitors worry the high season will be a disaster",
+			"url": "https://www.latimes.com/california/story/2026-05-18/crowds-yosemite-visitors-worry-high-season-will-be-disaster",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T10:00:00.000Z"
+		},
+		{
+			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
+			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-14T16:25:33.000Z"
 		},
 		{
 			"headline": "Two chemicals in everyday California air may pose 'unacceptable' cancer risk, findings suggest",
@@ -86,22 +104,10 @@
 			"publishedAt": "2026-05-14T17:56:29.000Z"
 		},
 		{
-			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
-			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T16:25:33.000Z"
-		},
-		{
-			"headline": "String Theory Emerges from \"Almost Nothing\"",
-			"url": "https://www.caltech.edu/about/news/string-theory-emerges-from-almost-nothing",
-			"source": "Caltech",
-			"publishedAt": "2026-05-14T15:00:01.320Z"
-		},
-		{
-			"headline": "Space Weather and Sun Science: A Conversation with Christina Cohen",
-			"url": "https://www.caltech.edu/about/news/space-weather-and-sun-science-a-conversation-with-christina-cohen",
-			"source": "Caltech",
-			"publishedAt": "2026-05-14T15:00:00.379Z"
+			"headline": "MBARI Postdoctoral Fellow Olívia Soares Pereira named a National Geographic Explorer",
+			"url": "https://www.mbari.org/news/mbari-postdoctoral-fellow-olivia-soares-pereira-named-a-national-geographic-explorer/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-14T21:40:21.000Z"
 		},
 		{
 			"headline": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse?",
@@ -122,6 +128,12 @@
 			"publishedAt": "2026-05-14T10:00:00.000Z"
 		},
 		{
+			"headline": "Tesla rollover crash sparked Chino Hills fire that forced people from their homes, officials say",
+			"url": "https://www.latimes.com/california/story/2026-05-13/grand-fire-chino-hills-evacuations",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-14T04:11:35.000Z"
+		},
+		{
 			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
 			"url": "https://www.caltech.edu/about/news/caltech-affiliated-students-awarded-2026-hertz-fellowships",
 			"source": "Caltech",
@@ -134,22 +146,10 @@
 			"publishedAt": "2026-05-13T21:22:51.000Z"
 		},
 		{
-			"headline": "Two UC Berkeley scholars elected to the American Philosophical Society",
-			"url": "https://news.berkeley.edu/2026/05/13/two-uc-berkeley-scholars-elected-to-the-american-philosophical-society/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-13T17:20:41.000Z"
-		},
-		{
-			"headline": "New Gateway building creates dedicated campus hub for AI, computing",
-			"url": "https://news.berkeley.edu/2026/05/13/new-gateway-building-creates-dedicated-campus-hub-for-ai-computing/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-13T15:00:00.000Z"
-		},
-		{
-			"headline": "Heavier storms and longer dry spells are drying California and the West",
-			"url": "https://www.latimes.com/environment/story/2026-05-13/rainfall-study",
+			"headline": "Newsom to propose fund to help California wildfire victims rebuild",
+			"url": "https://www.latimes.com/california/story/2026-05-13/newsom-to-propose-fund-to-help-california-wildfire-victims-rebuild",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-13T14:59:24.000Z"
+			"publishedAt": "2026-05-13T18:00:00.000Z"
 		}
 	]
 }
