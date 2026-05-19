@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-05-19T07:34:28.935Z",
+	"lastUpdated": "2026-05-19T10:51:48.104Z",
 	"items": [
+		{
+			"headline": "For the first time, a warm winter just wiped out SoCal's little-known cherry harvest",
+			"url": "https://www.latimes.com/environment/story/2026-05-19/cherry-season-record-warmth",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-19T10:00:00.000Z"
+		},
 		{
 			"headline": "Largest fire ever recorded on Santa Rosa Island endangers 'gem of California coast'",
 			"url": "https://www.latimes.com/california/story/2026-05-18/largest-fire-ever-recorded-burns-santa-rosa-island-endangering-gem-of-california-coast",
@@ -14,16 +20,22 @@
 			"publishedAt": "2026-05-18T19:40:49.000Z"
 		},
 		{
+			"headline": "MBARI DNA technology supports marine biodiversity surveys in Brazil",
+			"url": "https://www.mbari.org/news/mbari-dna-technology-supports-marine-biodiversity-surveys-in-brazil/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-18T16:11:28.000Z"
+		},
+		{
 			"headline": "As ocean temperatures spike, more dead sea birds are washing up on California shores",
 			"url": "https://www.latimes.com/environment/story/2026-05-18/ocean-temperatures-increasing-dead-sea-birds-california-shores",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-18T16:00:35.000Z"
 		},
 		{
-			"headline": "MBARI DNA technology supports marine biodiversity surveys in Brazil",
-			"url": "https://www.mbari.org/news/mbari-dna-technology-supports-marine-biodiversity-surveys-in-brazil/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-18T16:11:28.000Z"
+			"headline": "For Black Americans, wealth offers scant protection from pregnancy risks, scholar finds",
+			"url": "https://news.berkeley.edu/2026/05/18/for-black-americans-wealth-offers-scant-protection-from-pregnancy-risks-scholar-finds/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-18T17:49:53.000Z"
 		},
 		{
 			"headline": "Caltech Announces Eight Recipients of the 2026 National Brown Investigator Award",
@@ -68,14 +80,14 @@
 			"publishedAt": "2026-05-15T19:26:15.000Z"
 		},
 		{
-			"headline": "After public outcry, Orange County halts herbicide spraying in creeks",
-			"url": "https://www.latimes.com/environment/story/2026-05-15/orange-county-stops-spraying-herbicides-creeks",
+			"headline": "Trump administration readying a plan to impose Colorado River water cuts on western states",
+			"url": "https://www.latimes.com/environment/story/2026-05-15/colorado-river-trump-administration",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
-			"headline": "Trump administration readying a plan to impose Colorado River water cuts on western states",
-			"url": "https://www.latimes.com/environment/story/2026-05-15/colorado-river-trump-administration",
+			"headline": "After public outcry, Orange County halts herbicide spraying in creeks",
+			"url": "https://www.latimes.com/environment/story/2026-05-15/orange-county-stops-spraying-herbicides-creeks",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
@@ -92,16 +104,22 @@
 			"publishedAt": "2026-05-14T21:40:21.000Z"
 		},
 		{
-			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
-			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T16:25:33.000Z"
-		},
-		{
 			"headline": "Two chemicals in everyday California air may pose 'unacceptable' cancer risk, findings suggest",
 			"url": "https://www.latimes.com/environment/story/2026-05-14/ten-times-worse-than-benzene-california-updates-its-science-on-two-air-contaminants",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-14T20:00:55.000Z"
+		},
+		{
+			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
+			"url": "https://baynature.org/2026/05/14/conservation/biodiversity/meet-a-newly-named-nudibranch-with-a-unique-approach-to-sex/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-14T17:56:29.000Z"
+		},
+		{
+			"headline": "This coming El Niño could be a monster. Will it bring epic rain to California this winter?",
+			"url": "https://www.latimes.com/california/story/2026-05-14/el-nino-could-be-monster-what-would-it-mean-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-14T16:25:33.000Z"
 		},
 		{
 			"headline": "String Theory Emerges from \"Almost Nothing\"",
@@ -114,12 +132,6 @@
 			"url": "https://www.caltech.edu/about/news/space-weather-and-sun-science-a-conversation-with-christina-cohen",
 			"source": "Caltech",
 			"publishedAt": "2026-05-14T15:00:00.379Z"
-		},
-		{
-			"headline": "Meet a Newly Named Nudibranch With a Unique Approach to Sex",
-			"url": "https://baynature.org/2026/05/14/conservation/biodiversity/meet-a-newly-named-nudibranch-with-a-unique-approach-to-sex/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-14T17:56:29.000Z"
 		},
 		{
 			"headline": "Hantavirus strikes a cruise ship, Californians at risk: Is this the start of something much worse?",
@@ -138,18 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-05-14/fifth-californian-was-exposed-to-hantavirus-on-cruise-ship-officials-say",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-14T10:00:00.000Z"
-		},
-		{
-			"headline": "Two Caltech-Affiliated Students Named 2026 Hertz Fellows",
-			"url": "https://www.caltech.edu/about/news/caltech-affiliated-students-awarded-2026-hertz-fellowships",
-			"source": "Caltech",
-			"publishedAt": "2026-05-13T22:03:52.994Z"
-		},
-		{
-			"headline": "Five takeaways from UC Berkeley's new survey on psychedelics in society",
-			"url": "https://psychedelics.berkeley.edu/five-big-takeaways-2025-uc-berkeley-psychedelics-survey/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-13T21:22:51.000Z"
 		}
 	]
 }
