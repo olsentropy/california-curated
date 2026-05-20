@@ -26,7 +26,7 @@ Of course, once science got involved, the estimated age changed dramatically, bu
 But in 1907, scientists developed the technique of [radiometric dating](<https://www.pbs.org/wgbh/evolution/library/03/3/l_033_01.html>), allowing scientists to compare the amount of uranium in rock with the amount of lead, the radioactive decay byproduct of uranium. If there was more lead in a rock, then there was less uranium, and thus the rock was determined to be older. Using this technique in 1913, British geologist [Arthur Holmes](<https://en.wikipedia.org/wiki/Arthur_Holmes>) put the Earth’s age at about 1.6 billion years, and in 1947, he pushed the age to about 3.4 billion years. Not bad. That was the (mostly) accepted figure when geochemist [Clair Patterson](<https://en.wikipedia.org/wiki/Clair_Cameron_Patterson>) arrived at the [California Institute of Technology](<https://www.caltech.edu/>) in Pasadena from the University of Chicago in 1952. (Radiometric dating remains today the predominant way geologists measure the age of rocks.) 
 
 
-***Canyon Diablo** [meteorite](<https://en.wikipedia.org/wiki/Meteorite>). (Photo: Geoffrey Notkin)*
+![A fragment of the Canyon Diablo meteorite, used by Clair Patterson to calculate the age of Earth](https://californiacurated.com/wp-content/uploads/2026/05/canyon-diablo-meteorite.jpg)A fragment of the Canyon Diablo meteorite, which Patterson used to calculate the age of Earth. (Photo: Geoffrey Notkin)
 
 By employing a much more precise methodology, and using samples from the [Canyon Diablo meteorite](<https://en.wikipedia.org/wiki/Canyon_Diablo_\(meteorite\)>), Patterson was able to place the creation of the solar system, and its planetary bodies such as the earth, at around _4.6 billion years_. (It is assumed that the meteorite formed at the same time as the rest of the solar system, including Earth). Subsequent studies have confirmed this number and it remains the [accepted age of our planet](<https://www.lindahall.org/clair-patterson/>). 
 
@@ -62,7 +62,7 @@ He decided to look in places far from industrial centers, ice caves in Greenland
 In his Greenland work, Patterson's data showed a “200- or 300-fold increase” in lead from the 1700s to the present day; and, most astonishing, the largest concentrations occurred only _in the last three decades_. Were we, like the Romans, perhaps on the brink of an environmental calamity that could hasten the end of our civilization? Not if Patterson could help it. 
 
 
-*California Institute of Technology. Credit: Erik Olsen*
+![The Beckman Institute at the California Institute of Technology in Pasadena](https://californiacurated.com/wp-content/uploads/2026/05/caltech-beckman-institute.jpg)The Beckman Institute at Caltech in Pasadena, where Patterson did his lead research. (Photo: Erik Olsen)
 
 That may be far too grandiose and speculative, but there was no doubting that there was so much more lead in the modern world, and it seemed to have appeared only recently. But why? And how? 
 
