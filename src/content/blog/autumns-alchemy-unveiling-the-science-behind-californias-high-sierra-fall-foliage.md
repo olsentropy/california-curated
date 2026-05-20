@@ -43,12 +43,12 @@ It's all a spectacular display, but it doesn't last forever; in fact, the most v
 
 While the fall colors in California's Eastern Sierra are an annual marvel, they're not immune to the sweeping hand of climate change. Rising temperatures and shifting precipitation patterns have started to tinker with the timing and intensity of the autumnal display. For instance, warmer conditions could delay the onset of the color changes and potentially shorten the duration of peak colors, while altered moisture levels might impact the vibrancy of hues. Even subtle shifts in climate can affect the complex chemistry of leaf coloration. As much as the changing leaves are a symbol of nature's constancy, they also serve as a barometer for the environmental changes unfolding on a global scale.
 
-![](https://californiacurated.com/wp-content/uploads/2024/04/mockup-room-bristlecone.jpg?w=1024)
+![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)
 
 **[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
-**Purchase stunning art prints of iconic California scenes.**   
-**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
+**Celebrate California's wild creatures with our species-series mugs and prints.**  
+**[Shop the store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
 The transformation of leaves in the high Sierra is far more than a seasonal aesthetic; it's a vivid illustration of how meticulously nature has calibrated life to adapt and thrive. As the leaves cycle through shades of green, orange, red, and finally brown, they tell a tale of survival and renewal, a complex story scripted in their very cells. This fall spectacle is a fleeting moment of brilliance, orchestrated by an array of biological, chemical, and physical processes, each contributing to the grand narrative of life on Earth. In essence, each leaf is a microcosm of resilience and change, characteristics not just of a California autumn, but of life itself.
 

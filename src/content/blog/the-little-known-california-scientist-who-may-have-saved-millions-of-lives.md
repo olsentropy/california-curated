@@ -68,12 +68,12 @@ That may be far too grandiose and speculative, but there was no doubting that th
 
 In a Eureka moment, Patterson realized that the time frame of atmospheric lead's rise he was seeing in his samples seemed to correlate perfectly with the advent of the automobile, and, more specifically, with the advent of leaded gasoline. 
 
-![](https://californiacurated.com/wp-content/uploads/2024/04/mockup-room-bristlecone.jpg?w=1024)
+![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)
 
 **[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
-**Purchase stunning art prints of iconic California scenes.**   
-**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
+**Celebrate California's wild creatures with our species-series mugs and prints.**  
+**[Shop the store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
 Leaded gas became a thing in the 1920s. Previously, car engines were plagued by a loud knocking sound made when pockets of air and fuel prematurely exploded inside an internal combustion engine. The effect also dramatically reduced the engine's efficiency. Automobile companies, seeking to get rid of the noise, discovered that by adding _tetraethyl lead_ to gasoline, they could stop the knocking sound, and so-called Ethyl gasoline was born. "Fill her up with Ethyl," people used to say when pulling up to the pump. 
 

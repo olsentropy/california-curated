@@ -48,12 +48,12 @@ During their first California stay, the Einsteins attended Charlie Chaplin's fil
 
 In Palm Springs, Einstein relaxed at the winter estate of renowned New York attorney and human rights advocate [Samuel Untermeyer](<https://en.wikipedia.org/wiki/Samuel_Untermyer>). He also embarked on a unique adventure to the date ranch of [King Gillette](<https://en.wikipedia.org/wiki/King_C._Gillette>), the razor blade tycoon, where he left with a crate of dates and an intriguing observation. He noted that female date trees thrived with nurturing care, while male trees fared better in tough condition: “I discovered that date trees, the female, or negative, flourished under coddling and care, but in adverse conditions the male, or positive trees, succeeded best,” he said in a 1933 interview.
 
-[![](https://californiacurated.com/wp-content/uploads/2024/04/mockup-room-bristlecone.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
+![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)
 
 **[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
-**Purchase stunning coffee mugs and art prints of California icons.**   
-**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
+**Celebrate California's wild creatures with our species-series mugs and prints.**  
+**[Shop the store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
 Not exactly relativity, but a curiosity-driven insight reflecting his ceaseless fascination with the world. 
 

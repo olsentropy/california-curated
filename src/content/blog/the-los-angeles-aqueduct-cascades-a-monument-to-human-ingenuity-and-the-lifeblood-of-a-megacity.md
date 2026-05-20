@@ -23,12 +23,12 @@ Engineer and visionary [William Mulholland](<https://en.wikipedia.org/wiki/Willi
 
 Construction of the Los Angeles Aqueduct began in 1908 and was completed in November 5, 1913, a remarkable achievement for its time. The aqueduct spans 233 miles, making it one of the largest engineering projects in the United States. It was an impressive display of human ingenuity and perseverance, as it required the construction of 142 tunnels, numerous reservoirs, and the iconic cascades. 
 
-![](https://californiacurated.com/wp-content/uploads/2024/04/mockup-room-bristlecone.jpg?w=1024)
+![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)
 
 **[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
-**Purchase stunning art prints of iconic California scenes.**   
-**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
+**Celebrate California's wild creatures with our species-series mugs and prints.**  
+**[Shop the store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
 The Cascades rely on gravity to create a stunning visual display while serving a functional purpose. As the water flows over the series of terraced steps, its velocity increases, allowing it to mix with air and become oxygenated. This natural aeration process helps to maintain water quality and reduce the presence of unwanted gases, such as hydrogen sulfide, which can cause a foul odor.
 

@@ -31,12 +31,12 @@ _Tremors_ (1990) – The Hills’ remote, desolate look is a perfect setting for
 
 _Star Trek V: The Final Frontier_ (1989) – Alabama Hills doubles as alien terrain in this installment of the sci-fi series.
 
-![](https://californiacurated.com/wp-content/uploads/2024/04/mockup-room-bristlecone.jpg?w=1024)
+![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)
 
 **[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
-**Purchase stunning art prints of iconic California scenes.**   
-**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
+**Celebrate California's wild creatures with our species-series mugs and prints.**  
+**[Shop the store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
 Other earlier films include:
 

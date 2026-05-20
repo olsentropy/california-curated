@@ -54,12 +54,12 @@ While there is still widespread belief among geologists that most of California'
 
 "Much to our surprise," expressed [Scott Ashford](<https://engineering.oregonstate.edu/people/scott-ashford>), formerly a professor of engineering at UCSD, and now at Oregon State, who employed [a mobile laser imaging system](<https://www.nbcnews.com/id/wbna9679339>) to examine coastal formations for one of the studies. "It's revealing that our comprehension of the beach system isn't as thorough as we've presumed."
 
-![](https://californiacurated.com/wp-content/uploads/2024/04/mockup-room-bristlecone.jpg?w=1024)
+![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)
 
 **[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
-**Purchase stunning art prints of iconic California scenes.**   
-**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
+**Celebrate California's wild creatures with our species-series mugs and prints.**  
+**[Shop the store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
 His research analyzed six years' worth of imaging data from the 50-mile (80-kilometer) coastline stretching from Dana Point to La Jolla. Previously, geologists had conjectured that up to 90% of the beach sand in this sector originated from deposits transported by coastal rivers, but Ashford's research indicated that the sea cliff erosion accounts for some 67% of Southern California's beach sand. However, since Ashford's study was focused on such a small area of the coast, many geologists are wary of embracing his conclusions. 
 

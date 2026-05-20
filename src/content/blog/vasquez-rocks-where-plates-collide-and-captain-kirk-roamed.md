@@ -40,9 +40,13 @@ Most people are aware of the rocks’ fame in cinema, but its geological history
 
 The rocks consist mainly of sandstone that accumulated over millions of years from the erosion of the nearby [San Gabriel Mountains](<https://californiacurated.com/2023/08/31/the-majestic-san-gabriel-mountains-a-deep-dive-into-their-formation-history-and-biodiversity/>). Rain, landslides, wind, flooding, and earthquakes, all played a role, depositing vast amounts of sand and gravel in the region.
 
-![](https://californiacurated.com/wp-content/uploads/2024/04/mockup-room-bristlecone.jpg?w=1024)
+![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)
 
 **[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
 
-**Purchase stunning art prints of iconic California scenes.**   
-**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>[Erik Olsen](<https://erikolsen.com/>)**
+**Celebrate California's wild creatures with our species-series mugs and prints.**  
+**[Shop the store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
+
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
+_By [Erik Olsen](<https://erikolsen.com/>)_
