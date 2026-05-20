@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-20T18:08:04.127Z",
+	"lastUpdated": "2026-05-20T21:27:59.597Z",
 	"items": [
 		{
 			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
@@ -8,7 +8,13 @@
 			"publishedAt": "2026-05-20T10:00:00.000Z"
 		},
 		{
-			"headline": "Santa Monica Pier area among the dirtiest beaches for 10th year in a row in Beach Report Card",
+			"headline": "Containment grows on Sandy fire, others across Southern California",
+			"url": "https://www.latimes.com/california/story/2026-05-20/socal-fire-containment-acres",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-20T18:03:33.000Z"
+		},
+		{
+			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
 			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-20T17:00:00.000Z"
@@ -44,12 +50,6 @@
 			"publishedAt": "2026-05-19T10:00:00.000Z"
 		},
 		{
-			"headline": "Caltech Names and Celebrates Its 2026 Distinguished Alumni Award Recipients",
-			"url": "https://www.caltech.edu/about/news/caltech-names-and-celebrates-its-2026-distinguished-alumni-award-recipients",
-			"source": "Caltech",
-			"publishedAt": "2026-05-19T15:47:28.785Z"
-		},
-		{
 			"headline": "Largest fire ever recorded on Santa Rosa Island endangers 'gem of California coast'",
 			"url": "https://www.latimes.com/california/story/2026-05-18/largest-fire-ever-recorded-burns-santa-rosa-island-endangering-gem-of-california-coast",
 			"source": "Los Angeles Times",
@@ -74,34 +74,10 @@
 			"publishedAt": "2026-05-18T16:00:35.000Z"
 		},
 		{
-			"headline": "Caltech Announces Eight Recipients of the 2026 National Brown Investigator Award",
-			"url": "https://www.caltech.edu/about/news/caltech-announces-eight-recipients-of-the-2026-national-brown-investigator-award",
-			"source": "Caltech",
-			"publishedAt": "2026-05-18T17:18:00.000Z"
-		},
-		{
-			"headline": "19 Legionella bacteria infections linked to Kaiser Bay Area hospital",
-			"url": "https://www.latimes.com/california/story/2026-05-18/19-cases-of-legionella-infection-linked-to-kaiser-bay-area-hospital",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T10:00:00.000Z"
-		},
-		{
-			"headline": "3 countries. 16 stadiums. 104 matches. 2026 World Cup set to become 'most polluting' games ever",
-			"url": "https://www.latimes.com/environment/story/2026-05-18/most-polluting-world-cup-ever-la",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T10:00:00.000Z"
-		},
-		{
 			"headline": "As crowds build at Yosemite, visitors worry the high season will be a disaster",
 			"url": "https://www.latimes.com/california/story/2026-05-18/crowds-yosemite-visitors-worry-high-season-will-be-disaster",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-18T10:00:00.000Z"
-		},
-		{
-			"headline": "Should a high-voltage power line run through California's largest state park? Critics are furious",
-			"url": "https://www.latimes.com/environment/story/2026-05-17/in-california-desert-planned-high-voltage-power-line-sparks-outrage",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-17T10:00:00.000Z"
 		},
 		{
 			"headline": "Santa Rosa Island fire burns more than 10,000 acres, threatening rare plants and animals",
@@ -110,16 +86,22 @@
 			"publishedAt": "2026-05-18T04:51:03.000Z"
 		},
 		{
-			"headline": "California man facing federal charges in international turtle trafficking plot",
-			"url": "https://www.latimes.com/california/story/2026-05-16/feds-charge-daly-city-man-exotic-turtle-trafficking",
+			"headline": "Should a high-voltage power line run through California's largest state park? Critics are furious",
+			"url": "https://www.latimes.com/environment/story/2026-05-17/in-california-desert-planned-high-voltage-power-line-sparks-outrage",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-16T18:01:29.000Z"
+			"publishedAt": "2026-05-17T10:00:00.000Z"
 		},
 		{
 			"headline": "The world's largest wildlife crossing and six others are coming to Southern California",
 			"url": "https://www.latimes.com/california/story/2026-05-16/six-wildlife-crossings-are-coming-to-southern-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-17T00:40:23.000Z"
+		},
+		{
+			"headline": "California man facing federal charges in international turtle trafficking plot",
+			"url": "https://www.latimes.com/california/story/2026-05-16/feds-charge-daly-city-man-exotic-turtle-trafficking",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-16T18:01:29.000Z"
 		},
 		{
 			"headline": "The gray wolf's improbable California comeback continues as population hits modern record number",
@@ -134,10 +116,10 @@
 			"publishedAt": "2026-05-15T19:26:15.000Z"
 		},
 		{
-			"headline": "After public outcry, Orange County halts herbicide spraying in creeks",
-			"url": "https://www.latimes.com/environment/story/2026-05-15/orange-county-stops-spraying-herbicides-creeks",
+			"headline": "Winds to whip Southern California, boosting risk of fires and dangerous seas",
+			"url": "https://www.latimes.com/california/story/2026-05-15/windy-la-region-forecast-increases-high-surf-fire-risks-this-weekend",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-15T10:00:00.000Z"
+			"publishedAt": "2026-05-15T16:34:28.000Z"
 		},
 		{
 			"headline": "Trump administration readying a plan to impose Colorado River water cuts on western states",
@@ -146,10 +128,10 @@
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
-			"headline": "L.A.'s ultra-urban rivers wash tons of trash out to sea. There's a plan to change that before the Olympics",
-			"url": "https://www.latimes.com/environment/story/2026-05-15/l-a-san-gabriel-rivers-to-get-trash-interceptors-to-protect-ocean",
+			"headline": "Volvo to pay $197 million after hidden pollution device found in California truck engines",
+			"url": "https://www.latimes.com/environment/story/2026-05-19/volvo-to-pay-197-million-after-hidden-pollution-device-found-in-california-truck-engines",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-15T10:00:00.000Z"
+			"publishedAt": "2026-05-19T19:26:23.000Z"
 		}
 	]
 }
