@@ -1,17 +1,17 @@
 {
-	"lastUpdated": "2026-05-20T07:33:36.867Z",
+	"lastUpdated": "2026-05-20T10:39:38.518Z",
 	"items": [
+		{
+			"headline": "Santa Rosa Island fire burns through rare Torrey pine grove. But there's hope for the endangered tree",
+			"url": "https://www.latimes.com/california/story/2026-05-20/santa-rosa-island-fire-burns-through-rare-torrey-pine-grove",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-20T10:00:00.000Z"
+		},
 		{
 			"headline": "Bay Area on Track to Meet Ambitious 50×50 Conservation Goal",
 			"url": "https://baynature.org/2026/05/19/conservation/bay-area-on-track-to-meet-ambitious-50x50-conservation-goal/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-19T21:22:09.000Z"
-		},
-		{
-			"headline": "Volvo to pay $197 million after hidden pollution device found in California truck engines",
-			"url": "https://www.latimes.com/environment/story/2026-05-19/volvo-to-pay-197-million-after-hidden-pollution-device-found-in-california-truck-engines",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-19T19:26:23.000Z"
 		},
 		{
 			"headline": "Astrophysicist Alex Filippenko awarded Gruber Cosmology Prize for work on supernovae",
@@ -32,16 +32,16 @@
 			"publishedAt": "2026-05-19T10:00:00.000Z"
 		},
 		{
-			"headline": "MBARI DNA technology supports marine biodiversity surveys in Brazil",
-			"url": "https://www.mbari.org/news/mbari-dna-technology-supports-marine-biodiversity-surveys-in-brazil/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-18T16:11:28.000Z"
+			"headline": "Caltech Names and Celebrates Its 2026 Distinguished Alumni Award Recipients",
+			"url": "https://www.caltech.edu/about/news/caltech-names-and-celebrates-its-2026-distinguished-alumni-award-recipients",
+			"source": "Caltech",
+			"publishedAt": "2026-05-19T15:47:28.785Z"
 		},
 		{
-			"headline": "As ocean temperatures spike, more dead sea birds are washing up on California shores",
-			"url": "https://www.latimes.com/environment/story/2026-05-18/ocean-temperatures-increasing-dead-sea-birds-california-shores",
+			"headline": "Volvo to pay $197 million after hidden pollution device found in California truck engines",
+			"url": "https://www.latimes.com/environment/story/2026-05-19/volvo-to-pay-197-million-after-hidden-pollution-device-found-in-california-truck-engines",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T16:00:35.000Z"
+			"publishedAt": "2026-05-19T19:26:23.000Z"
 		},
 		{
 			"headline": "Largest fire ever recorded on Santa Rosa Island endangers 'gem of California coast'",
@@ -56,10 +56,70 @@
 			"publishedAt": "2026-05-18T19:40:49.000Z"
 		},
 		{
-			"headline": "Light pollution reshapes predator-prey dynamics at California's urban edge, study finds",
-			"url": "https://news.mongabay.com/2026/05/light-pollution-reshapes-predator-prey-dynamics-at-californias-urban-edge-study-finds/",
-			"source": "Mongabay",
-			"publishedAt": "2026-05-15T19:28:09.000Z"
+			"headline": "MBARI DNA technology supports marine biodiversity surveys in Brazil",
+			"url": "https://www.mbari.org/news/mbari-dna-technology-supports-marine-biodiversity-surveys-in-brazil/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-18T16:11:28.000Z"
+		},
+		{
+			"headline": "As ocean temperatures spike, more dead sea birds are washing up on California shores",
+			"url": "https://www.latimes.com/environment/story/2026-05-18/ocean-temperatures-increasing-dead-sea-birds-california-shores",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T16:00:35.000Z"
+		},
+		{
+			"headline": "Caltech Announces Eight Recipients of the 2026 National Brown Investigator Award",
+			"url": "https://www.caltech.edu/about/news/caltech-announces-eight-recipients-of-the-2026-national-brown-investigator-award",
+			"source": "Caltech",
+			"publishedAt": "2026-05-18T17:18:00.000Z"
+		},
+		{
+			"headline": "19 Legionella bacteria infections linked to Kaiser Bay Area hospital",
+			"url": "https://www.latimes.com/california/story/2026-05-18/19-cases-of-legionella-infection-linked-to-kaiser-bay-area-hospital",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T10:00:00.000Z"
+		},
+		{
+			"headline": "As crowds build at Yosemite, visitors worry the high season will be a disaster",
+			"url": "https://www.latimes.com/california/story/2026-05-18/crowds-yosemite-visitors-worry-high-season-will-be-disaster",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T10:00:00.000Z"
+		},
+		{
+			"headline": "Santa Rosa Island fire burns more than 10,000 acres, threatening rare plants and animals",
+			"url": "https://www.latimes.com/california/story/2026-05-17/santa-rosa-island-fire-burns-more-than-10-000-acres-threatening-rare-plants-animals",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T04:51:03.000Z"
+		},
+		{
+			"headline": "Should a high-voltage power line run through California's largest state park? Critics are furious",
+			"url": "https://www.latimes.com/environment/story/2026-05-17/in-california-desert-planned-high-voltage-power-line-sparks-outrage",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-17T10:00:00.000Z"
+		},
+		{
+			"headline": "California man facing federal charges in international turtle trafficking plot",
+			"url": "https://www.latimes.com/california/story/2026-05-16/feds-charge-daly-city-man-exotic-turtle-trafficking",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-16T18:01:29.000Z"
+		},
+		{
+			"headline": "The gray wolf's improbable California comeback continues as population hits modern record number",
+			"url": "https://www.latimes.com/california/story/2026-05-16/gray-wolfs-improbable-california-comeback-continues",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-16T11:00:00.000Z"
+		},
+		{
+			"headline": "At UC Berkeley's 2026 commencement, grads reflected on an education defined by connection",
+			"url": "https://news.berkeley.edu/2026/05/16/at-uc-berkeleys-2026-commencement-grads-reflected-on-an-education-defined-by-connection/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-17T03:12:51.000Z"
+		},
+		{
+			"headline": "The world's largest wildlife crossing and six others are coming to Southern California",
+			"url": "https://www.latimes.com/california/story/2026-05-16/six-wildlife-crossings-are-coming-to-southern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-17T00:40:23.000Z"
 		},
 		{
 			"headline": "Three poisoned by mushrooms foraged in California wine country amid 'unprecedented' outbreak",
@@ -86,52 +146,10 @@
 			"publishedAt": "2026-05-15T10:00:00.000Z"
 		},
 		{
-			"headline": "Should a high-voltage power line run through California's largest state park? Critics are furious",
-			"url": "https://www.latimes.com/environment/story/2026-05-17/in-california-desert-planned-high-voltage-power-line-sparks-outrage",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-17T10:00:00.000Z"
-		},
-		{
-			"headline": "The gray wolf's improbable California comeback continues as population hits modern record number",
-			"url": "https://www.latimes.com/california/story/2026-05-16/gray-wolfs-improbable-california-comeback-continues",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-16T11:00:00.000Z"
-		},
-		{
-			"headline": "California man facing federal charges in international turtle trafficking plot",
-			"url": "https://www.latimes.com/california/story/2026-05-16/feds-charge-daly-city-man-exotic-turtle-trafficking",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-16T18:01:29.000Z"
-		},
-		{
-			"headline": "The world's largest wildlife crossing and six others are coming to Southern California",
-			"url": "https://www.latimes.com/california/story/2026-05-16/six-wildlife-crossings-are-coming-to-southern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-17T00:40:23.000Z"
-		},
-		{
-			"headline": "As crowds build at Yosemite, visitors worry the high season will be a disaster",
-			"url": "https://www.latimes.com/california/story/2026-05-18/crowds-yosemite-visitors-worry-high-season-will-be-disaster",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T10:00:00.000Z"
-		},
-		{
-			"headline": "Santa Rosa Island fire burns more than 10,000 acres, threatening rare plants and animals",
-			"url": "https://www.latimes.com/california/story/2026-05-17/santa-rosa-island-fire-burns-more-than-10-000-acres-threatening-rare-plants-animals",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T04:51:03.000Z"
-		},
-		{
-			"headline": "Two chemicals in everyday California air may pose 'unacceptable' cancer risk, findings suggest",
-			"url": "https://www.latimes.com/environment/story/2026-05-14/ten-times-worse-than-benzene-california-updates-its-science-on-two-air-contaminants",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-14T20:00:55.000Z"
-		},
-		{
-			"headline": "MBARI Postdoctoral Fellow Olívia Soares Pereira named a National Geographic Explorer",
-			"url": "https://www.mbari.org/news/mbari-postdoctoral-fellow-olivia-soares-pereira-named-a-national-geographic-explorer/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-14T21:40:21.000Z"
+			"headline": "Jonas Peters Elected to the American Philosophical Society",
+			"url": "https://www.caltech.edu/about/news/jonas-peters-elected-to-the-american-philosophical-society",
+			"source": "Caltech",
+			"publishedAt": "2026-05-15T20:52:51.306Z"
 		}
 	]
 }
