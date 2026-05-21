@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-05-21T14:32:09.734Z",
+	"lastUpdated": "2026-05-21T17:48:57.915Z",
 	"items": [
+		{
+			"headline": "MBARI researchers share latest seafloor science and technology at GeoHab 2026 conference",
+			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-seafloor-science-and-technology-at-geohab-2026-conference/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-21T16:00:38.000Z"
+		},
 		{
 			"headline": "Recycled Rocks Reveal Subduction Zone Dynamics Off Baja California",
 			"url": "https://eos.org/editor-highlights/recycled-rocks-reveal-subduction-zone-dynamics-off-baja-california",
@@ -12,6 +18,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-21/california-water-salmon-trump-dam-plan",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-21T10:00:00.000Z"
+		},
+		{
+			"headline": "Multiple wildfires trigger unhealthy air quality alert in Southern California",
+			"url": "https://www.latimes.com/california/story/2026-05-21/socal-wildfire-smoke-advisory",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T15:45:23.000Z"
 		},
 		{
 			"headline": "The Origins of Nereid, Neptune's Most Eccentric Moon",
@@ -26,18 +38,6 @@
 			"publishedAt": "2026-05-20T22:28:02.000Z"
 		},
 		{
-			"headline": "Containment grows on Sandy fire, other SoCal blazes. But shifting winds pose challenge",
-			"url": "https://www.latimes.com/california/story/2026-05-20/socal-fire-containment-acres",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T18:03:33.000Z"
-		},
-		{
-			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
-			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T17:00:00.000Z"
-		},
-		{
 			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
 			"url": "https://www.latimes.com/california/story/2026-05-20/santa-rosa-island-fire-burns-through-rare-torrey-pine-grove",
 			"source": "Los Angeles Times",
@@ -48,6 +48,12 @@
 			"url": "https://www.latimes.com/science/story/2026-05-20/how-california-native-became-nasa-asset",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-20T10:00:00.000Z"
+		},
+		{
+			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
+			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-20T17:00:00.000Z"
 		},
 		{
 			"headline": "Bay Area on Track to Meet Ambitious 50×50 Conservation Goal",
@@ -98,10 +104,10 @@
 			"publishedAt": "2026-05-18T16:00:35.000Z"
 		},
 		{
-			"headline": "19 Legionella bacteria infections linked to Kaiser Bay Area hospital",
-			"url": "https://www.latimes.com/california/story/2026-05-18/19-cases-of-legionella-infection-linked-to-kaiser-bay-area-hospital",
+			"headline": "Should a high-voltage power line run through California's largest state park? Critics are furious",
+			"url": "https://www.latimes.com/environment/story/2026-05-17/in-california-desert-planned-high-voltage-power-line-sparks-outrage",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T10:00:00.000Z"
+			"publishedAt": "2026-05-17T10:00:00.000Z"
 		},
 		{
 			"headline": "As crowds build at Yosemite, visitors worry the high season will be a disaster",
@@ -116,22 +122,34 @@
 			"publishedAt": "2026-05-18T04:51:03.000Z"
 		},
 		{
-			"headline": "Should a high-voltage power line run through California's largest state park? Critics are furious",
-			"url": "https://www.latimes.com/environment/story/2026-05-17/in-california-desert-planned-high-voltage-power-line-sparks-outrage",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-17T10:00:00.000Z"
-		},
-		{
 			"headline": "At UC Berkeley's 2026 commencement, grads reflected on an education defined by connection",
 			"url": "https://news.berkeley.edu/2026/05/16/at-uc-berkeleys-2026-commencement-grads-reflected-on-an-education-defined-by-connection/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-17T03:12:51.000Z"
 		},
 		{
-			"headline": "The world's largest wildlife crossing and five others are coming to Southern California",
-			"url": "https://www.latimes.com/california/story/2026-05-16/six-wildlife-crossings-are-coming-to-southern-california",
+			"headline": "Caltech Announces Eight Recipients of the 2026 National Brown Investigator Award",
+			"url": "https://www.caltech.edu/about/news/caltech-announces-eight-recipients-of-the-2026-national-brown-investigator-award",
+			"source": "Caltech",
+			"publishedAt": "2026-05-18T17:18:00.000Z"
+		},
+		{
+			"headline": "Caltech Names and Celebrates Its 2026 Distinguished Alumni Award Recipients",
+			"url": "https://www.caltech.edu/about/news/caltech-names-and-celebrates-its-2026-distinguished-alumni-award-recipients",
+			"source": "Caltech",
+			"publishedAt": "2026-05-19T15:47:28.785Z"
+		},
+		{
+			"headline": "Containment grows on Sandy fire, other SoCal blazes. But shifting winds pose challenge",
+			"url": "https://www.latimes.com/california/story/2026-05-20/socal-fire-containment-acres",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-17T00:40:23.000Z"
+			"publishedAt": "2026-05-20T18:03:33.000Z"
+		},
+		{
+			"headline": "Volvo to pay $197 million after hidden pollution device found in California truck engines",
+			"url": "https://www.latimes.com/environment/story/2026-05-19/volvo-to-pay-197-million-after-hidden-pollution-device-found-in-california-truck-engines",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-19T19:26:23.000Z"
 		}
 	]
 }
