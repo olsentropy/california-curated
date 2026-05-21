@@ -32,8 +32,6 @@ wpId: 2379
 wpSlug: einstein-in-pasadena-three-winters-in-paradise
 ---
 
-[(The Caltech Archives](<https://digital.archives.caltech.edu/islandora/object/image%3A1780>))
-
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 _"Here in Pasadena, it is like Paradise. Always sunshine and clear air, gardens with palms and pepper trees and friendly people who smile at one and ask for autographs." - Albert Einstein (U.S. Travel Diary, 1930-31, p. 28)_
