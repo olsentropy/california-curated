@@ -52,17 +52,17 @@ During his first winter of residence in 1931, Einstein lived in a bungalow at [7
 
 Yet, the [FBI was keeping](<https://www.nytimes.com/2002/05/07/science/new-details-emerge-einstein-files-fbi-tracked-his-phone-calls-his-trash.html>) a watchful eye on Einstein as well. He was one of just four German intellectuals, including Wilhelm Foerster, Georg Nicolai, and Otto Buek, to sign a pacifist manifesto opposing Germany’s entry into World War I. Later, Einstein aligned himself with [Labor Zionism](<https://en.wikipedia.org/wiki/Political_views_of_Albert_Einstein>), a movement that supported Jewish cultural and educational development in Palestine, but he opposed the formation of a conventional Jewish state, instead calling for a peaceful, binational arrangement between Jews and Arabs.
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/atheneum.jpeg?w=870)In front of the Athenaeum Faculty Club, Caltech, 1932. 
-_(Courtesy of the Caltech Archives._)
+![](https://californiacurated.com/wp-content/uploads/2023/08/atheneum.jpeg?w=870)_In front of the Athenaeum Faculty Club, Caltech, 1932._ 
+_(Courtesy of the Caltech Archives.)_
 
 After his _annus mirabilis_ in 1905, Einstein's influence grew rapidly. In 1919, his theory of relativity was [confirmed during a solar eclipse](<https://www.space.com/einstein-relativity-1919-solar-eclipse-100-years-ago.html>) by the English astronomer Sir Arthur Eddington. The announcement to the Royal Society made Einstein an overnight sensation among the general public, and in 1922, he was awarded the [1921 Nobel Prize in Physics](<https://www.nobelprize.org/prizes/physics/1921/summary/>). While teaching at the University of Berlin in 1930, [Arthur H. Fleming](<https://collections.archives.caltech.edu/agents/people/128>), a lumber magnate and president of Caltech's board, successfully persuaded him to visit the university during the winter. The visit was intended to remain a secret, but Einstein's own travel arrangements inadvertently made it public knowledge.
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/einstein-at-pcc.jpeg?w=870)Einstein speaking at the dedication of the Pasadena Junior College (now PCC) astronomy building, February 1931. 
+![](https://californiacurated.com/wp-content/uploads/2023/08/einstein-at-pcc.jpeg?w=870)_Einstein speaking at the dedication of the Pasadena Junior College (now PCC) astronomy building, February 1931._ 
 (_Courtesy of the Caltech Archives)_
 
 After arriving in San Diego on New Year's Eve 1930, following a month-long journey on the passenger ship Belgenland, Einstein was swarmed by reporters and photographers. He and his second wife, Elsa, were greeted with cheers and Christmas carols. Fleming then drove them to Pasadena, where they settled into the bungalow on S Oakland Ave.
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/albert-einstein-violin.png?w=1000)Albert Einstein and his violin (Caltech Archives)
+![](https://californiacurated.com/wp-content/uploads/2023/08/albert-einstein-violin.png?w=1000)_Albert Einstein and his violin (Caltech Archives)_
 
 During their first California stay, the Einsteins attended Charlie Chaplin's film premiere and were guests at his Beverly Hills home. "Here in Pasadena, it is like Paradise," Einstein wrote in a letter. He also visited the [Mt. Wilson Observatory](<https://californiacurated.com/2023/08/10/mt-wilson-observatory-a-celestial-time-capsule/>) high in the [San Gabriel Mountains](<https://californiacurated.com/2023/08/31/the-majestic-san-gabriel-mountains-a-deep-dive-into-their-formation-history-and-biodiversity/>). Einstein's intellectual curiosity extended far beyond his scientific endeavors, leading him to explore the [Huntington Library](<https://huntington.org/verso/einsteins-still-making-waves>) in San Marino, delighting in its rich collections. At the Montecito home of fellow scientist [Ludwig Kast](<https://oac.cdlib.org/institutions/UC+Santa+Barbara::Special+Research+Collections&limit=marc;descriptions=show>), he found comfort in being treated more as a tourist than a celebrity, relishing a brief respite from the spotlight.
 
@@ -76,11 +76,11 @@ Not exactly relativity, but a curiosity-driven insight reflecting his ceaseless 
 
 During his three winters in Pasadena, Einstein's presence was a source of intrigue and inspiration. Students at Caltech were treated to the sight of the disheveled-haired genius pedaling around campus on a bicycle, launching paper airplanes from balconies, and even engaging in a heated debate with the stern Caltech president and Nobel laureate, [Robert A. Millikan](<https://www.nobelprize.org/prizes/physics/1923/millikan/facts/>), on the steps of Throop Hall. Precisely what they debated remains a mystery. (Maybe something about the dates?)
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/einstein-caltech.jpeg?w=870)Einstein with Robert A. Millikan, a prominent physicist who served as the first president of Caltech from 1921 to 1945 and won the Nobel Prize in Physics in 1923. (_Courtesy of the Caltech Archives._)
+![](https://californiacurated.com/wp-content/uploads/2023/08/einstein-caltech.jpeg?w=870)_Einstein with Robert A. Millikan, a prominent physicist who served as the first president of Caltech from 1921 to 1945 and won the Nobel Prize in Physics in 1923. (Courtesy of the Caltech Archives.)_
 
 During his final winter in California, a near-accident led the couple to move into Caltech's Athenaeum. His suite, No. 20, was marked with a distinctive mahogany door, a personal touch from his sponsor, Fleming. In 1933, as Nazi power intensified in Germany, Einstein began searching for a safe place to continue his work. Although Caltech made an offer, it was [Princeton University](<https://princetonhistory.org/research/historic-princeton/albert-einstein/>)'s proposal that ultimately won him over. Einstein relocated to Princeton that same year, where he played a significant role in the development of the Institute for Advanced Study and remained there until his [death in 1955](<https://www.life.com/history/the-day-albert-einstein-died-a-photographers-story/>).
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/einstein-door-1.jpg?w=1024)Suite No. 20, Einstein's mahogany door at the Caltech Athenaeum
+![](https://californiacurated.com/wp-content/uploads/2023/08/einstein-door-1.jpg?w=1024)_Suite No. 20, Einstein's mahogany door at the Caltech Athenaeum_
 
 Today, a large collection of Einstein's papers are part of the [Einstein Papers Project](<https://www.einstein.caltech.edu/>) at Caltech. And Einstein's suite at [Caltech's Athenaeum](<https://www.athenaeumcaltech.com/>), still displaying the mahogany door, serves as a physical reminder of his visits. 
 
