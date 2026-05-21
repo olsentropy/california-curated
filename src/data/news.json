@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-05-21T07:39:22.677Z",
+	"lastUpdated": "2026-05-21T10:56:14.969Z",
 	"items": [
+		{
+			"headline": "Salmon are at risk with federal plans to give farmers more water from Shasta Lake, critics warn",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/california-water-salmon-trump-dam-plan",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T10:00:00.000Z"
+		},
 		{
 			"headline": "The Origins of Nereid, Neptune's Most Eccentric Moon",
 			"url": "https://www.caltech.edu/about/news/the-origins-of-nereid-neptunes-most-eccentric-moon",
@@ -26,14 +32,14 @@
 			"publishedAt": "2026-05-20T17:00:00.000Z"
 		},
 		{
-			"headline": "How a SoCal native became one of NASA's most valuable assets",
-			"url": "https://www.latimes.com/science/story/2026-05-20/how-california-native-became-nasa-asset",
+			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
+			"url": "https://www.latimes.com/california/story/2026-05-20/santa-rosa-island-fire-burns-through-rare-torrey-pine-grove",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-20T10:00:00.000Z"
 		},
 		{
-			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
-			"url": "https://www.latimes.com/california/story/2026-05-20/santa-rosa-island-fire-burns-through-rare-torrey-pine-grove",
+			"headline": "How a SoCal native became one of NASA's most valuable assets",
+			"url": "https://www.latimes.com/science/story/2026-05-20/how-california-native-became-nasa-asset",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-20T10:00:00.000Z"
 		},
@@ -62,6 +68,12 @@
 			"publishedAt": "2026-05-19T10:00:00.000Z"
 		},
 		{
+			"headline": "Volvo to pay $197 million after hidden pollution device found in California truck engines",
+			"url": "https://www.latimes.com/environment/story/2026-05-19/volvo-to-pay-197-million-after-hidden-pollution-device-found-in-california-truck-engines",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-19T19:26:23.000Z"
+		},
+		{
 			"headline": "MBARI DNA technology supports marine biodiversity surveys in Brazil",
 			"url": "https://www.mbari.org/news/mbari-dna-technology-supports-marine-biodiversity-surveys-in-brazil/",
 			"source": "MBARI",
@@ -72,6 +84,24 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-18/ocean-temperatures-increasing-dead-sea-birds-california-shores",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-18T16:00:35.000Z"
+		},
+		{
+			"headline": "3 countries. 16 stadiums. 104 matches. 2026 World Cup set to become 'most polluting' games ever",
+			"url": "https://www.latimes.com/environment/story/2026-05-18/most-polluting-world-cup-ever-la",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T10:00:00.000Z"
+		},
+		{
+			"headline": "19 Legionella bacteria infections linked to Kaiser Bay Area hospital",
+			"url": "https://www.latimes.com/california/story/2026-05-18/19-cases-of-legionella-infection-linked-to-kaiser-bay-area-hospital",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T10:00:00.000Z"
+		},
+		{
+			"headline": "As crowds build at Yosemite, visitors worry the high season will be a disaster",
+			"url": "https://www.latimes.com/california/story/2026-05-18/crowds-yosemite-visitors-worry-high-season-will-be-disaster",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T10:00:00.000Z"
 		},
 		{
 			"headline": "Largest fire ever recorded on Santa Rosa Island endangers 'gem of California coast'",
@@ -86,10 +116,10 @@
 			"publishedAt": "2026-05-18T19:40:49.000Z"
 		},
 		{
-			"headline": "As crowds build at Yosemite, visitors worry the high season will be a disaster",
-			"url": "https://www.latimes.com/california/story/2026-05-18/crowds-yosemite-visitors-worry-high-season-will-be-disaster",
+			"headline": "Santa Rosa Island fire burns more than 10,000 acres, threatening rare plants and animals",
+			"url": "https://www.latimes.com/california/story/2026-05-17/santa-rosa-island-fire-burns-more-than-10-000-acres-threatening-rare-plants-animals",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T10:00:00.000Z"
+			"publishedAt": "2026-05-18T04:51:03.000Z"
 		},
 		{
 			"headline": "Should a high-voltage power line run through California's largest state park? Critics are furious",
@@ -98,28 +128,22 @@
 			"publishedAt": "2026-05-17T10:00:00.000Z"
 		},
 		{
-			"headline": "Santa Rosa Island fire burns more than 10,000 acres, threatening rare plants and animals",
-			"url": "https://www.latimes.com/california/story/2026-05-17/santa-rosa-island-fire-burns-more-than-10-000-acres-threatening-rare-plants-animals",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T04:51:03.000Z"
-		},
-		{
 			"headline": "The world's largest wildlife crossing and five others are coming to Southern California",
 			"url": "https://www.latimes.com/california/story/2026-05-16/six-wildlife-crossings-are-coming-to-southern-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-17T00:40:23.000Z"
 		},
 		{
-			"headline": "The gray wolf's improbable California comeback continues as population hits modern record number",
-			"url": "https://www.latimes.com/california/story/2026-05-16/gray-wolfs-improbable-california-comeback-continues",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-16T11:00:00.000Z"
-		},
-		{
 			"headline": "California man facing federal charges in international turtle trafficking plot",
 			"url": "https://www.latimes.com/california/story/2026-05-16/feds-charge-daly-city-man-exotic-turtle-trafficking",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-16T18:01:29.000Z"
+		},
+		{
+			"headline": "At UC Berkeley's 2026 commencement, grads reflected on an education defined by connection",
+			"url": "https://news.berkeley.edu/2026/05/16/at-uc-berkeleys-2026-commencement-grads-reflected-on-an-education-defined-by-connection/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-17T03:12:51.000Z"
 		}
 	]
 }
