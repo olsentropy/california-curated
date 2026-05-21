@@ -1,13 +1,34 @@
 ---
-title: "Einstein in Pasadena: Three Wonderful Winters in Paradise"
-description: "But of all the places he visited, one city stood out in particular. Pasadena, with its warm weather, lively culture, and, most importantly, its reputation as a scientific hub, had a deep personal appeal to Einstein. ​He visited Pasadena during the winters of 1931, 1932, and 1933, each time staying for approximately two to three months."
+title: 'Einstein in Pasadena: Three Wonderful Winters in Paradise'
+description: But of all the places he visited, one city stood out in particular. Pasadena, with its warm weather, lively culture, and, most importantly, its reputation as a scientific hub, had a deep personal appeal to Einstein. ​He visited Pasadena during the winters of 1931, 1932, and 1933, each time staying for approximately two to three months.
 pubDate: 2023-08-04
-heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/einstein-bicycle.jpeg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2023/08/einstein-bicycle.jpeg
+categories:
+  - cities
+  - history-of-science
+  - people
+  - physics
+  - places
+  - private-science
+tags:
+  - 1930s
+  - albert-einstein
+  - california
+  - caltech
+  - einstein
+  - exile
+  - germany
+  - history
+  - los-angeles
+  - pasadena
+  - physics
+  - princeton
+  - science
+  - winter
+author: Erik Olsen
 wpId: 2379
-wpSlug: "einstein-in-pasadena-three-winters-in-paradise"
-categories: ["cities", "history-of-science", "people", "physics", "places", "private-science"]
-tags: ["1930s", "albert-einstein", "california", "caltech", "einstein", "exile", "germany", "history", "los-angeles", "pasadena", "physics", "princeton", "science", "winter"]
-author: "Erik Olsen"
+wpSlug: einstein-in-pasadena-three-winters-in-paradise
 ---
 
 [(The Caltech Archives](<https://digital.archives.caltech.edu/islandora/object/image%3A1780>))
@@ -16,7 +37,7 @@ author: "Erik Olsen"
 
 _"Here in Pasadena, it is like Paradise. Always sunshine and clear air, gardens with palms and pepper trees and friendly people who smile at one and ask for autographs." - Albert Einstein (U.S. Travel Diary, 1930-31, p. 28)_
 
-Albert Einstein is often associated with [Princeton](<https://www.princeton.edu/news/2016/01/07/einsteins-legacy>), where he spent his later years as a towering intellectual figure, and with Switzerland, where he worked as a young patent clerk in Bern. It was in that spartan, dimly lit office, far from the great universities of the time, that Einstein quietly transformed the world. In 1905, his _[annus mirabilis](<https://en.wikipedia.org/wiki/Annus_mirabilis_papers>)_ or "miracle year," he published a series of four groundbreaking papers that upended physics and reshaped humanity’s understanding of space, time, and matter. With his insights into the [photoelectric effect](<https://en.wikipedia.org/wiki/Photoelectric_effect>), [Brownian motion](<https://en.wikipedia.org/wiki/Brownian_motion>), [special relativity](<https://en.wikipedia.org/wiki/Special_relativity>), and the [equivalence of mass and energy](<https://plato.stanford.edu/entries/equivME/>) (remember E=mc2?), he not only laid the foundation for quantum mechanics and modern physics but also set in motion technological revolutions that continue to shape the future. Pretty good for a guy who was just 26.
+Albert Einstein is often associated with [Princeton](<https://www.princeton.edu/news/2016/01/07/einsteins-legacy>), where he spent his later years as a towering intellectual figure, and with Switzerland, where he worked as a young patent clerk in Bern. It was in that spartan, dimly lit office, far from the great universities of the time, that Einstein quietly transformed the world. In 1905, his [_annus mirabilis_](<https://en.wikipedia.org/wiki/Annus_mirabilis_papers>) or "miracle year," he published a series of four groundbreaking papers that upended physics and reshaped humanity’s understanding of space, time, and matter. With his insights into the [photoelectric effect](<https://en.wikipedia.org/wiki/Photoelectric_effect>), [Brownian motion](<https://en.wikipedia.org/wiki/Brownian_motion>), [special relativity](<https://en.wikipedia.org/wiki/Special_relativity>), and the [equivalence of mass and energy](<https://plato.stanford.edu/entries/equivME/>) (remember E=mc2?), he not only laid the foundation for quantum mechanics and modern physics but also set in motion technological revolutions that continue to shape the future. Pretty good for a guy who was just 26.
 
 Albert Einstein spent his later years as a world-famous scientist traveling the globe and drawing crowds wherever he went. His letters and travel diaries show how much he loved exploring new places, whether it was the mountains of Switzerland, [the temples of Japan](<https://www.smithsonianmag.com/history/albert-einstein-visited-japan-180968737/>), or the intellectual circles of his native Germany. In 1922, while on his way to accept the Nobel Prize, he and his wife, Elsa, arrived in Japan [for a six-week tour](<https://www.smithsonianmag.com/history/albert-einstein-visited-japan-180968737/>), visiting Tokyo, Kyoto, and Osaka.
 
@@ -32,12 +53,12 @@ During his first winter of residence in 1931, Einstein lived in a bungalow at [7
 
 Yet, the [FBI was keeping](<https://www.nytimes.com/2002/05/07/science/new-details-emerge-einstein-files-fbi-tracked-his-phone-calls-his-trash.html>) a watchful eye on Einstein as well. He was one of just four German intellectuals, including Wilhelm Foerster, Georg Nicolai, and Otto Buek, to sign a pacifist manifesto opposing Germany’s entry into World War I. Later, Einstein aligned himself with [Labor Zionism](<https://en.wikipedia.org/wiki/Political_views_of_Albert_Einstein>), a movement that supported Jewish cultural and educational development in Palestine, but he opposed the formation of a conventional Jewish state, instead calling for a peaceful, binational arrangement between Jews and Arabs.
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/atheneum.jpeg?w=870)In front of the Athenaeum Faculty Club, Caltech, 1932.   
+![](https://californiacurated.com/wp-content/uploads/2023/08/atheneum.jpeg?w=870)In front of the Athenaeum Faculty Club, Caltech, 1932. 
 _(Courtesy of the Caltech Archives._)
 
 After his _annus mirabilis_ in 1905, Einstein's influence grew rapidly. In 1919, his theory of relativity was [confirmed during a solar eclipse](<https://www.space.com/einstein-relativity-1919-solar-eclipse-100-years-ago.html>) by the English astronomer Sir Arthur Eddington. The announcement to the Royal Society made Einstein an overnight sensation among the general public, and in 1922, he was awarded the [1921 Nobel Prize in Physics](<https://www.nobelprize.org/prizes/physics/1921/summary/>). While teaching at the University of Berlin in 1930, [Arthur H. Fleming](<https://collections.archives.caltech.edu/agents/people/128>), a lumber magnate and president of Caltech's board, successfully persuaded him to visit the university during the winter. The visit was intended to remain a secret, but Einstein's own travel arrangements inadvertently made it public knowledge.
 
-![](https://californiacurated.com/wp-content/uploads/2023/08/einstein-at-pcc.jpeg?w=870)Einstein speaking at the dedication of the Pasadena Junior College (now PCC) astronomy building, February 1931.   
+![](https://californiacurated.com/wp-content/uploads/2023/08/einstein-at-pcc.jpeg?w=870)Einstein speaking at the dedication of the Pasadena Junior College (now PCC) astronomy building, February 1931. 
 (_Courtesy of the Caltech Archives)_
 
 After arriving in San Diego on New Year's Eve 1930, following a month-long journey on the passenger ship Belgenland, Einstein was swarmed by reporters and photographers. He and his second wife, Elsa, were greeted with cheers and Christmas carols. Fleming then drove them to Pasadena, where they settled into the bungalow on S Oakland Ave.
@@ -48,12 +69,9 @@ During their first California stay, the Einsteins attended Charlie Chaplin's fil
 
 In Palm Springs, Einstein relaxed at the winter estate of renowned New York attorney and human rights advocate [Samuel Untermeyer](<https://en.wikipedia.org/wiki/Samuel_Untermyer>). He also embarked on a unique adventure to the date ranch of [King Gillette](<https://en.wikipedia.org/wiki/King_C._Gillette>), the razor blade tycoon, where he left with a crate of dates and an intriguing observation. He noted that female date trees thrived with nurturing care, while male trees fared better in tough condition: “I discovered that date trees, the female, or negative, flourished under coddling and care, but in adverse conditions the male, or positive trees, succeeded best,” he said in a 1933 interview.
 
-![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)
+[![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
-**[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
-
-**Celebrate California's wild creatures with our species-series mugs and prints.**  
-**[Shop the store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
+[**CALIFORNIA CURATED ON ETSY**](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **- GREAT CALIFORNIA WILDLIFE GIFTS**
 
 Not exactly relativity, but a curiosity-driven insight reflecting his ceaseless fascination with the world. 
 
