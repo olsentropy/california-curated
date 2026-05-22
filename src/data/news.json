@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-22T14:06:56.450Z",
+	"lastUpdated": "2026-05-22T17:30:57.437Z",
 	"items": [
 		{
 			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
@@ -26,10 +26,10 @@
 			"publishedAt": "2026-05-21T16:00:38.000Z"
 		},
 		{
-			"headline": "Sandy fire burns near former nuclear test site, triggering air monitoring efforts",
-			"url": "https://www.latimes.com/california/story/2026-05-21/sandy-fire-burns-near-former-nuclear-test-site-officials-monitor-air",
+			"headline": "Salmon are at risk with federal plans to give farmers more water from Shasta Lake, critics warn",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/california-water-salmon-trump-dam-plan",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T01:30:10.000Z"
+			"publishedAt": "2026-05-21T10:00:00.000Z"
 		},
 		{
 			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
@@ -44,10 +44,28 @@
 			"publishedAt": "2026-05-21T15:45:23.000Z"
 		},
 		{
-			"headline": "Salmon are at risk with federal plans to give farmers more water from Shasta Lake, critics warn",
-			"url": "https://www.latimes.com/environment/story/2026-05-21/california-water-salmon-trump-dam-plan",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T10:00:00.000Z"
+			"headline": "The largest study of AI use by undergrads is in, revealing disparities in access — and in cheating",
+			"url": "https://news.berkeley.edu/2026/05/21/the-largest-study-of-ai-use-by-undergrads-is-in-revealing-disparities-in-access-and-in-cheating/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-21T18:00:00.000Z"
+		},
+		{
+			"headline": "Astrophysicist Alex Filippenko awarded Gruber Cosmology Prize for work on supernovae",
+			"url": "https://news.berkeley.edu/2026/05/19/astrophysicist-alex-filippenko-awarded-gruber-cosmology-prize-for-work-on-supernovae/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-19T14:00:00.000Z"
+		},
+		{
+			"headline": "For Black Americans, wealth offers scant protection from pregnancy risks, scholar finds",
+			"url": "https://news.berkeley.edu/2026/05/18/for-black-americans-wealth-offers-scant-protection-from-pregnancy-risks-scholar-finds/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-18T17:49:53.000Z"
+		},
+		{
+			"headline": "Violence against women remains high — particularly for marginalized groups",
+			"url": "https://news.berkeley.edu/2026/05/19/violence-against-women-remains-high-particularly-for-marginalized-groups/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-19T16:28:57.000Z"
 		},
 		{
 			"headline": "Bay Area on Track to Meet Ambitious 50×50 Conservation Goal",
@@ -56,10 +74,10 @@
 			"publishedAt": "2026-05-19T21:22:09.000Z"
 		},
 		{
-			"headline": "Astrophysicist Alex Filippenko awarded Gruber Cosmology Prize for work on supernovae",
-			"url": "https://news.berkeley.edu/2026/05/19/astrophysicist-alex-filippenko-awarded-gruber-cosmology-prize-for-work-on-supernovae/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-19T14:00:00.000Z"
+			"headline": "A gray wolf has entered Sequoia National Park for the first time in a century",
+			"url": "https://www.latimes.com/environment/story/2026-05-18/wolf-enters-sequoia-national-park-for-first-time-in-century-bey03f",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T19:40:49.000Z"
 		},
 		{
 			"headline": "California's Joshua trees are disappearing. There's hope these fungi can help them",
@@ -74,22 +92,16 @@
 			"publishedAt": "2026-05-19T10:00:00.000Z"
 		},
 		{
-			"headline": "MBARI DNA technology supports marine biodiversity surveys in Brazil",
-			"url": "https://www.mbari.org/news/mbari-dna-technology-supports-marine-biodiversity-surveys-in-brazil/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-18T16:11:28.000Z"
-		},
-		{
 			"headline": "As ocean temperatures spike, more dead sea birds are washing up on California shores",
 			"url": "https://www.latimes.com/environment/story/2026-05-18/ocean-temperatures-increasing-dead-sea-birds-california-shores",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-18T16:00:35.000Z"
 		},
 		{
-			"headline": "A gray wolf has entered Sequoia National Park for the first time in a century",
-			"url": "https://www.latimes.com/environment/story/2026-05-18/wolf-enters-sequoia-national-park-for-first-time-in-century-bey03f",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T19:40:49.000Z"
+			"headline": "MBARI DNA technology supports marine biodiversity surveys in Brazil",
+			"url": "https://www.mbari.org/news/mbari-dna-technology-supports-marine-biodiversity-surveys-in-brazil/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-18T16:11:28.000Z"
 		},
 		{
 			"headline": "Largest fire ever recorded on Santa Rosa Island endangers 'gem of California coast'",
@@ -104,22 +116,22 @@
 			"publishedAt": "2026-05-20T10:00:00.000Z"
 		},
 		{
-			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
-			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
+			"headline": "Fires ring Southern California and it's only May. What's going on?",
+			"url": "https://www.latimes.com/california/story/2026-05-20/california-early-fire-season-climate-change",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T17:00:00.000Z"
+			"publishedAt": "2026-05-20T22:28:02.000Z"
+		},
+		{
+			"headline": "Sandy fire spreads, prompting evacuation warnings in L.A. County",
+			"url": "https://www.latimes.com/california/story/2026-05-18/simi-valley-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T18:13:00.000Z"
 		},
 		{
 			"headline": "Containment grows on Sandy fire, other SoCal blazes. But shifting winds pose challenge",
 			"url": "https://www.latimes.com/california/story/2026-05-20/socal-fire-containment-acres",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-20T18:03:33.000Z"
-		},
-		{
-			"headline": "Fires ring Southern California and it's only May. What's going on?",
-			"url": "https://www.latimes.com/california/story/2026-05-20/california-early-fire-season-climate-change",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T22:28:02.000Z"
 		},
 		{
 			"headline": "Crews continue aggressive fight against Sandy fire, other SoCal blazes",
@@ -134,22 +146,10 @@
 			"publishedAt": "2026-05-19T16:40:06.000Z"
 		},
 		{
-			"headline": "Volvo to pay $197 million after hidden pollution device found in California truck engines",
-			"url": "https://www.latimes.com/environment/story/2026-05-19/volvo-to-pay-197-million-after-hidden-pollution-device-found-in-california-truck-engines",
+			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
+			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-19T19:26:23.000Z"
-		},
-		{
-			"headline": "Bain fire injures 4 in Riverside County; civilian drones interfere with firefighting aircraft",
-			"url": "https://www.latimes.com/california/story/2026-05-19/5-injuries-reported-as-bain-verona-fires-burn-in-riverside-county",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T00:53:46.000Z"
-		},
-		{
-			"headline": "The Origins of Nereid, Neptune's Most Eccentric Moon",
-			"url": "https://www.caltech.edu/about/news/the-origins-of-nereid-neptunes-most-eccentric-moon",
-			"source": "Caltech",
-			"publishedAt": "2026-05-20T23:51:34.621Z"
+			"publishedAt": "2026-05-20T17:00:00.000Z"
 		}
 	]
 }
