@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-05-22T01:53:48.318Z",
+	"lastUpdated": "2026-05-22T10:39:43.267Z",
 	"items": [
+		{
+			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
+			"url": "https://www.latimes.com/california/story/2026-05-21/ai-gray-whale-ship-strikes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T21:03:26.000Z"
+		},
+		{
+			"headline": "Hi-res microscopes give biologists petabytes of data. Scientists are creating an AI assistant to make sense of it.",
+			"url": "https://news.berkeley.edu/2026/05/22/hi-res-microscopes-give-biologists-petabytes-of-data-scientists-are-creating-an-ai-assistant-to-make-sense-of-it/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-22T09:00:00.000Z"
+		},
 		{
 			"headline": "Sandy fire burns near former nuclear test site, triggering air monitoring efforts",
 			"url": "https://www.latimes.com/california/story/2026-05-21/sandy-fire-burns-near-former-nuclear-test-site-officials-monitor-air",
@@ -8,10 +20,10 @@
 			"publishedAt": "2026-05-22T01:30:10.000Z"
 		},
 		{
-			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
-			"url": "https://www.latimes.com/california/story/2026-05-21/ai-gray-whale-ship-strikes",
+			"headline": "Residents evacuated as toxic chemical spews from tank at Garden Grove aerospace company",
+			"url": "https://www.latimes.com/california/story/2026-05-21/residents-evacuated-toxic-leak-garden-grove-aerospace-company",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T21:03:26.000Z"
+			"publishedAt": "2026-05-22T01:58:47.000Z"
 		},
 		{
 			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
@@ -50,6 +62,18 @@
 			"publishedAt": "2026-05-20T22:28:02.000Z"
 		},
 		{
+			"headline": "Containment grows on Sandy fire, other SoCal blazes. But shifting winds pose challenge",
+			"url": "https://www.latimes.com/california/story/2026-05-20/socal-fire-containment-acres",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-20T18:03:33.000Z"
+		},
+		{
+			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
+			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-20T17:00:00.000Z"
+		},
+		{
 			"headline": "How a SoCal native became one of NASA's most valuable assets",
 			"url": "https://www.latimes.com/science/story/2026-05-20/how-california-native-became-nasa-asset",
 			"source": "Los Angeles Times",
@@ -62,16 +86,16 @@
 			"publishedAt": "2026-05-20T10:00:00.000Z"
 		},
 		{
-			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
-			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T17:00:00.000Z"
+			"headline": "Bay Area on Track to Meet Ambitious 50×50 Conservation Goal",
+			"url": "https://baynature.org/2026/05/19/conservation/bay-area-on-track-to-meet-ambitious-50x50-conservation-goal/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-19T21:22:09.000Z"
 		},
 		{
-			"headline": "Containment grows on Sandy fire, other SoCal blazes. But shifting winds pose challenge",
-			"url": "https://www.latimes.com/california/story/2026-05-20/socal-fire-containment-acres",
+			"headline": "Volvo to pay $197 million after hidden pollution device found in California truck engines",
+			"url": "https://www.latimes.com/environment/story/2026-05-19/volvo-to-pay-197-million-after-hidden-pollution-device-found-in-california-truck-engines",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T18:03:33.000Z"
+			"publishedAt": "2026-05-19T19:26:23.000Z"
 		},
 		{
 			"headline": "Astrophysicist Alex Filippenko awarded Gruber Cosmology Prize for work on supernovae",
@@ -92,28 +116,10 @@
 			"publishedAt": "2026-05-19T10:00:00.000Z"
 		},
 		{
-			"headline": "Crews continue aggressive fight against Sandy fire, other SoCal blazes",
-			"url": "https://www.latimes.com/california/story/2026-05-19/sandy-fire-evacuations",
+			"headline": "Largest fire ever recorded on Santa Rosa Island endangers 'gem of California coast'",
+			"url": "https://www.latimes.com/california/story/2026-05-18/largest-fire-ever-recorded-burns-santa-rosa-island-endangering-gem-of-california-coast",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-19T14:14:32.000Z"
-		},
-		{
-			"headline": "Bay Area on Track to Meet Ambitious 50×50 Conservation Goal",
-			"url": "https://baynature.org/2026/05/19/conservation/bay-area-on-track-to-meet-ambitious-50x50-conservation-goal/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-19T21:22:09.000Z"
-		},
-		{
-			"headline": "MBARI DNA technology supports marine biodiversity surveys in Brazil",
-			"url": "https://www.mbari.org/news/mbari-dna-technology-supports-marine-biodiversity-surveys-in-brazil/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-18T16:11:28.000Z"
-		},
-		{
-			"headline": "As ocean temperatures spike, more dead sea birds are washing up on California shores",
-			"url": "https://www.latimes.com/environment/story/2026-05-18/ocean-temperatures-increasing-dead-sea-birds-california-shores",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T16:00:35.000Z"
+			"publishedAt": "2026-05-18T22:22:57.000Z"
 		},
 		{
 			"headline": "A gray wolf has entered Sequoia National Park for the first time in a century",
@@ -122,22 +128,28 @@
 			"publishedAt": "2026-05-18T19:40:49.000Z"
 		},
 		{
-			"headline": "As crowds build at Yosemite, visitors worry the high season will be a disaster",
-			"url": "https://www.latimes.com/california/story/2026-05-18/crowds-yosemite-visitors-worry-high-season-will-be-disaster",
+			"headline": "As ocean temperatures spike, more dead sea birds are washing up on California shores",
+			"url": "https://www.latimes.com/environment/story/2026-05-18/ocean-temperatures-increasing-dead-sea-birds-california-shores",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-18T16:00:35.000Z"
+		},
+		{
+			"headline": "MBARI DNA technology supports marine biodiversity surveys in Brazil",
+			"url": "https://www.mbari.org/news/mbari-dna-technology-supports-marine-biodiversity-surveys-in-brazil/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-18T16:11:28.000Z"
+		},
+		{
+			"headline": "19 Legionella bacteria infections linked to Kaiser Bay Area hospital",
+			"url": "https://www.latimes.com/california/story/2026-05-18/19-cases-of-legionella-infection-linked-to-kaiser-bay-area-hospital",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-18T10:00:00.000Z"
 		},
 		{
-			"headline": "Largest fire ever recorded on Santa Rosa Island endangers 'gem of California coast'",
-			"url": "https://www.latimes.com/california/story/2026-05-18/largest-fire-ever-recorded-burns-santa-rosa-island-endangering-gem-of-california-coast",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T22:22:57.000Z"
-		},
-		{
-			"headline": "Santa Rosa Island fire burns more than 10,000 acres, threatening rare plants and animals",
-			"url": "https://www.latimes.com/california/story/2026-05-17/santa-rosa-island-fire-burns-more-than-10-000-acres-threatening-rare-plants-animals",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T04:51:03.000Z"
+			"headline": "The largest study of AI use by undergrads is in, revealing disparities in access — and in cheating",
+			"url": "https://news.berkeley.edu/2026/05/21/the-largest-study-of-ai-use-by-undergrads-is-in-revealing-disparities-in-access-and-in-cheating/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-21T18:00:00.000Z"
 		}
 	]
 }
