@@ -74,7 +74,7 @@ That may be far too grandiose and speculative, but there was no doubting that th
 
 In a Eureka moment, Patterson realized that the time frame of atmospheric lead's rise he was seeing in his samples seemed to correlate perfectly with the advent of the automobile, and, more specifically, with the advent of leaded gasoline. 
 
-[![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)](https://www.etsy.com/shop/CaliforniaCuratedUS)[**CALIFORNIA CURATED ON ETSY**](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
+[![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)](https://www.etsy.com/shop/CaliforniaCuratedUS)[**CALIFORNIA CURATED ON ETSY**](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **- get beautiful California wildlife gifts**
 
 Leaded gas became a thing in the 1920s. Previously, car engines were plagued by a loud knocking sound made when pockets of air and fuel prematurely exploded inside an internal combustion engine. The effect also dramatically reduced the engine's efficiency. Automobile companies, seeking to get rid of the noise, discovered that by adding _tetraethyl lead_ to gasoline, they could stop the knocking sound, and so-called Ethyl gasoline was born. "Fill her up with Ethyl," people used to say when pulling up to the pump. 
 
@@ -88,13 +88,11 @@ But there signs even then that something was wrong with lead.
 
 [A New York Times story](<https://www.nytimes.com/1924/10/27/archives/odd-gas-kills-one-makes-four-insane-stricken-at-work-in-standards.html>) going back to 1924 documented how one man was killed and another driven insane by inhaling gases released in the production of the tetraethyl lead at the Bayway plant of the Standard Oil Company at Elizabeth, N.J. Many more cases of lead poisoning were documented in ensuing years, with studies showing that it not only leads to physical illness but also to serious mental problems and lower IQs. No one, however, was drawing the connection between all the lead being pumped into the air by automobiles and the potential health impacts. Patterson saw the connection. 
 
-_Ford Model T. Credit: Harry Shipler_
-
 When Patterson published his findings in 1963, he was met with both applause and derision. The billion-dollar oil and gas industry fought his ideas vigorously, trying to impugn his methods and his character. They even tried to pay him off to study something else. But it soon became apparent that Patterson was right. Patterson and other health officials realized that If nothing was done, the result could be a global health crisis that could end up causing millions of human deaths. Perhaps the decline of civilization itself. 
 
 Patterson was called before Congress to testify on his findings, and while his arguments made little traction, they caught the attention of the nascent environmental movement in America, which had largely come into being as a result of Rachel Carson's explosive 1962 book [_Silent Spring_](<https://en.wikipedia.org/wiki/Silent_Spring>) , which documented the decline in bird and other wildlife as a result of the spraying of DDT for mosquito control. People were now alert to poisons in the environment, and they'd come to realize that some of the industrial giants that were the foundation of our economy were also having serious impacts on the planet's health. 
 
-![](https://californiacurated.com/wp-content/uploads/2021/11/downtown-la.jpg?w=1024)Downtown Los Angeles today. (Erik Olsen)
+![](https://californiacurated.com/wp-content/uploads/2021/11/downtown-la.jpg?w=1024)_Downtown Los Angeles today. (Erik Olsen)_
 
 Patterson was unrelenting in making his case, but he still faced serious opposition from the Ethyl companies and from Detroit. The government took half-hearted measures to address the problem. The EPA suggested reducing lead in gasoline step by step, to 60 to 65 percent by 1977. This enraged industry, but also Patterson, who felt that wasn't nearly enough. Industry sued and the case to the courts. Meanwhile, Patterson continued his research, collecting samples around Yosemite, which showed definitely that the large rise in atmospheric lead was new and it was coming from the cities (in this case, nearby San Francisco and Los Angeles). He analyzed human remains from Egyptian mummies and Peruvian graves and found they contained far less lead than modern bones, _nearly 600 times_ less. 
 
