@@ -1,15 +1,31 @@
 ---
-title: "Berkeley’s Cosmic Breakthrough and the Alvarez Discovery That Rewrote Earth’s History"
-description: "The Alvarez’ work led to one of the most significant scientific breakthroughs of the 20th century: the discovery that a massive meteorite impact was responsible for the extinction of the dinosaurs and much of life on Earth."
+title: Berkeley’s Cosmic Breakthrough and the Alvarez Discovery That Rewrote Earth’s History
+description: 'The Alvarez’ work led to one of the most significant scientific breakthroughs of the 20th century: the discovery that a massive meteorite impact was responsible for the extinction of the dinosaurs and much of life on Earth.'
 pubDate: 2025-03-04
-heroImage: "https://californiacurated.com/wp-content/uploads/2025/03/chicxulub-meteor.jpg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2025/03/chicxulub-meteor.jpg
+categories:
+  - animals
+  - biology
+  - geology-and-earthquakes
+  - history-of-science
+  - physics
+  - places
+  - space
+tags:
+  - asteroid
+  - california
+  - chicxulub-crater
+  - cretaceous-paleogene-k-pg-boundary
+  - environment
+  - geology
+  - pacific-ocean
+  - tanis
+  - uc-berkeley
+author: Erik Olsen
 wpId: 5328
-wpSlug: "berkeleys-cosmic-breakthrough-and-the-alvarez-discovery-that-rewrote-earths-history"
-categories: ["animals", "biology", "geology-and-earthquakes", "history-of-science", "physics", "places", "space"]
-tags: ["asteroid", "california", "chicxulub-crater", "cretaceous-paleogene-k-pg-boundary", "environment", "geology", "pacific-ocean", "tanis", "uc-berkeley"]
-author: "Erik Olsen"
+wpSlug: berkeleys-cosmic-breakthrough-and-the-alvarez-discovery-that-rewrote-earths-history
 ---
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
@@ -25,7 +41,7 @@ Alvarez determined that this layer corresponded precisely to the [Cretaceous-Pal
 
 ![](https://californiacurated.com/wp-content/uploads/2025/03/stevns-klint-unesco-2.jpg?w=1024)Layers of sediment at Stevns Klint, Denmark, showcasing the distinct K–Pg boundary. The dark clay layer, rich in iridium, marks the asteroid impact that led to the mass extinction of the dinosaurs 66 million years ago. (UNESCO)
 
-Mass extinctions stand out so distinctly in the fossil record that the very structure of geological time is based on them. In 1841, [geologist John Phillips](<https://en.wikipedia.org/wiki/John_Phillips_\(geologist\)>) divided life’s history [into three chapters](<https://www.nps.gov/articles/series.htm?id=AEE6BF21-A803-4EDF-3ED76CFD25820BC5>): the Paleozoic, or “ancient life”; the Mesozoic, or “middle life”; and the Cenozoic, or “new life.” These divisions were based on abrupt breaks in the fossil record, the most striking of which were the end-[Permian extinction](<https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event>) and the end-Cretaceous extinction, noted here. The fossils from these three eras were so different that Phillips originally believed they reflected separate acts of creation. [Charles Lyell](<https://en.wikipedia.org/wiki/Charles_Lyell>), one of the founders of modern geology, observed a “chasm” in the fossil record at the end of the Cretaceous period, where species such as belemnites, [ammonites](<https://en.wikipedia.org/wiki/Ammonoidea>), and rudist bivalves vanished entirely. However, Lyell and later Charles Darwin dismissed these apparent sudden extinctions as mere gaps in the fossil record, preferring the idea of slow, gradual change (known as [gradualism, versus catastrophism](<https://www.encyclopedia.com/science/science-magazines/earth-science-gradualism-and-catastrophism>)). Darwin famously compared the fossil record to a book where only scattered pages and fragments of lines had been preserved, making abrupt transitions appear more dramatic than they were.
+Mass extinctions stand out so distinctly in the fossil record that the very structure of geological time is based on them. In 1841, [geologist John Phillips](<https://en.wikipedia.org/wiki/John_Phillips_(geologist)>) divided life’s history [into three chapters](<https://www.nps.gov/articles/series.htm?id=AEE6BF21-A803-4EDF-3ED76CFD25820BC5>): the Paleozoic, or “ancient life”; the Mesozoic, or “middle life”; and the Cenozoic, or “new life.” These divisions were based on abrupt breaks in the fossil record, the most striking of which were the end-[Permian extinction](<https://en.wikipedia.org/wiki/Permian%E2%80%93Triassic_extinction_event>) and the end-Cretaceous extinction, noted here. The fossils from these three eras were so different that Phillips originally believed they reflected separate acts of creation. [Charles Lyell](<https://en.wikipedia.org/wiki/Charles_Lyell>), one of the founders of modern geology, observed a “chasm” in the fossil record at the end of the Cretaceous period, where species such as belemnites, [ammonites](<https://en.wikipedia.org/wiki/Ammonoidea>), and rudist bivalves vanished entirely. However, Lyell and later Charles Darwin dismissed these apparent sudden extinctions as mere gaps in the fossil record, preferring the idea of slow, gradual change (known as [gradualism, versus catastrophism](<https://www.encyclopedia.com/science/science-magazines/earth-science-gradualism-and-catastrophism>)). Darwin famously compared the fossil record to a book where only scattered pages and fragments of lines had been preserved, making abrupt transitions appear more dramatic than they were.
 
 Luis Alvarez was a physicist whose career had spanned a remarkable range of disciplines, from particle physics to aviation radar to Cold War forensics. He had a history of bold ideas, from using [muon detectors to search for hidden chambers in pyramids](<https://spectrum.ieee.org/muon-imaging-finds-hidden-chamber-in-great-pyramid-of-giza#:~:text=In%20the%20late%201960s%2C%20a,rock%20surrounding%20previously%20known%20rooms.>) to testing ballistic theories in the Kennedy assassination with watermelons. When Walter shared his perplexing stratigraphic findings, Luis proposed a novel method to measure how long the clay layer had taken to form: by analyzing its iridium content.
 
@@ -41,7 +57,7 @@ Nine months after submitting their samples, Walter received a call. Asaro had fo
 
 The Alvarezes batted around theories. But all the ones they could think of either didn’t fit the available data or were ruled out by further tests. Then, finally, after almost a year’s worth of dead ends, they arrived at the impact hypothesis. On an otherwise ordinary day sixty-six million years ago, [an asteroid six miles wide collided with the Earth](<https://www.facebook.com/NOAA/videos/the-6-miles-wide-asteroid-that-hit-earth-66-million-years-ago-widely-accepted-to/594910159143960/>). Exploding on contact, it released energy on the order of a hundred million megatons of TNT, or more than a million of the most powerful H-bombs ever tested. Debris, including iridium from the pulverized asteroid, spread around the globe. Day turned to night, and temperatures plunged. A mass extinction ensued. Even groups that survived, like mammals and lizards, suffered dramatic die-offs in the aftermath. Who perished, and who survived, set the stage for the next 66 million years—including our own origin 300,000 years ago.
 
-The Alvarezes wrote up the results from Gubbio and Stevns Klint and sent them, along with their proposed explanation, to _Science_. “I can remember working very hard to make that paper just as solid as it could possibly be,” Walter later recalled. Their paper, _[Extraterrestrial Cause for the Cretaceous-Tertiary Extinction](<https://www.science.org/doi/10.1126/science.208.4448.1095>)_ , was published in June 1980. It generated enormous excitement, much of it beyond the bounds of paleontology, but it was also ridiculed by some who considered the idea far-fetched, if not ridiculous. Journals in disciplines ranging from clinical psychology to herpetology reported on the Alvarezes’ findings, and soon the idea of an end-Cretaceous asteroid was picked up by magazines like _Time_ and _Newsweek_. In an essay in The New York Review of Books, the late American paleontologist [Stephen Jay Gould](<https://en.wikipedia.org/wiki/Stephen_Jay_Gould>) quipped that linking dinosaurs—long an object of fascination—to a major cosmic event was “like a scheme a clever publisher might devise to ensure high readership.”
+The Alvarezes wrote up the results from Gubbio and Stevns Klint and sent them, along with their proposed explanation, to _Science_. “I can remember working very hard to make that paper just as solid as it could possibly be,” Walter later recalled. Their paper, [_Extraterrestrial Cause for the Cretaceous-Tertiary Extinction_](<https://www.science.org/doi/10.1126/science.208.4448.1095>) , was published in June 1980. It generated enormous excitement, much of it beyond the bounds of paleontology, but it was also ridiculed by some who considered the idea far-fetched, if not ridiculous. Journals in disciplines ranging from clinical psychology to herpetology reported on the Alvarezes’ findings, and soon the idea of an end-Cretaceous asteroid was picked up by magazines like _Time_ and _Newsweek_. In an essay in The New York Review of Books, the late American paleontologist [Stephen Jay Gould](<https://en.wikipedia.org/wiki/Stephen_Jay_Gould>) quipped that linking dinosaurs—long an object of fascination—to a major cosmic event was “like a scheme a clever publisher might devise to ensure high readership.”
 
 ![](https://californiacurated.com/wp-content/uploads/2025/03/extraterrestrial-cause-for-the-cretaceous-tertiary-extinction.png?w=1024)
 
@@ -53,15 +69,15 @@ Skepticism was immediate and intense. Paleontologists, geologists, and physicist
 
 In the early 1990s, conclusive evidence finally emerged. The Chicxulub crater, measuring roughly 180 kilometers across and buried under about half a mile of sediment in Mexico’s Yucatán Peninsula, was identified as the likely impact site. Although it was first detected by [Mexico’s state-run oil company (PEMEX) ](<http://www.pemex.com/en/Paginas/default.aspx>)in the 1950s during geophysical surveys, core samples taken decades later clinched the identification of Chicxulub as the long-sought impact site linked to the mass extinction that ended the Cretaceous era.
 
-One of the more intriguing (if not astounding) recent discoveries tied to the [end-Cretaceous impact is a site called Tanis](<https://en.wikipedia.org/wiki/Tanis_\(fossil_site\)>), located in North Dakota’s Hell Creek Formation. Discovered in 2019 by a team led by Robert DePalma and spotlighted in [a New Yorker article](<https://www.newyorker.com/magazine/2019/04/08/the-day-the-dinosaurs-died>), Tanis preserves a remarkable snapshot of what appears to be the immediate aftermath of the asteroid strike.
+One of the more intriguing (if not astounding) recent discoveries tied to the [end-Cretaceous impact is a site called Tanis](<https://en.wikipedia.org/wiki/Tanis_(fossil_site)>), located in North Dakota’s Hell Creek Formation. Discovered in 2019 by a team led by Robert DePalma and spotlighted in [a New Yorker article](<https://www.newyorker.com/magazine/2019/04/08/the-day-the-dinosaurs-died>), Tanis preserves a remarkable snapshot of what appears to be the immediate aftermath of the asteroid strike.
 
-![](https://californiacurated.com/wp-content/uploads/2025/03/tsnis-fossils.jpg?w=1024)Tanis fossils (Image credit: Courtesy of Robert DePalma)
+![](https://californiacurated.com/wp-content/uploads/2025/03/tsnis-fossils.jpg?w=1024)_Tanis fossils (Image credit: Courtesy of Robert DePalma)_
 
 The sedimentary layers at Tanis indicate large waves—often called “[seiche waves](<https://oceanservice.noaa.gov/facts/seiche.html>)”—that may have surged inland in the immediate aftermath of the impact. They also contain countless tiny glass spherules that rained down after the explosion. Known as [microtektites](<https://www.britannica.com/science/microtektite>), these blobs form when molten rock is hurled into the atmosphere by an asteroid collision and solidifies as it falls back to Earth. The site appears to hold them by the millions. In some cases, fish fossils have been found with these glass droplets lodged in their gills—a striking testament to how suddenly life was disrupted.
 
 Although still under investigation, Tanis has drawn attention for its exceptional level of detail, potentially capturing events that took place within mere hours of the impact. The precise interpretation of this site continues to spark controversy among researchers. There is also controversy about the broader cause of the mass extinction itself: the main competing hypothesis is that the [colossal “Deccan” volcanic eruptions](<https://www.sci.news/paleontology/deccan-traps-volcanism-end-cretaceous-extinction-12487.html#:~:text=The%20Deccan%20Traps%20had%20been,of%20sulfur%20into%20the%20atmosphere.>), in what would become India, spewed enough sulfur and carbon dioxide into the atmosphere to cause a dramatic climatic shift. However, the wave-like deposits, along with the abundant glass spherules, suggest a rapid and violent disturbance consistent with a massive asteroid strike. Researchers hope to learn more about the precise sequence of disasters that followed—tidal waves, intense firestorms, and global darkness—further fleshing out the story of how the world changed so drastically, so quickly.
 
-![](https://californiacurated.com/wp-content/uploads/2025/03/spherules.jpg?w=1024)Glass spherules from cosmic impacts—microtektites from Tanis, tiny relics of Earth's violent encounters with space. (Image credit: Courtesy of Robert DePalma) 
+![](https://californiacurated.com/wp-content/uploads/2025/03/spherules.jpg?w=1024)_Glass spherules from cosmic impacts—microtektites from Tanis, tiny relics of Earth's violent encounters with space. (Image credit: Courtesy of Robert DePalma)_ 
 
 All said, today the [Alvarez hypothesis](<https://en.wikipedia.org/wiki/Alvarez_hypothesis#:~:text=The%20Alvarez%20hypothesis%20posits%20that,large%20asteroid%20on%20the%20Earth.>) is widely accepted as the leading explanation for the K-Pg mass extinction. Their contributions at UC Berkeley—widely recognized as one of the world’s preeminent public institutions—not only reshaped our understanding of Earth’s history but also changed how we perceive planetary hazards. The realization that cosmic collisions have shaped life’s trajectory has led to renewed interest in asteroid detection and planetary defense.
 
