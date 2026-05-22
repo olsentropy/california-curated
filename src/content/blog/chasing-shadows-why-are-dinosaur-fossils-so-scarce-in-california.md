@@ -1,15 +1,23 @@
 ---
-title: "Why Are Dinosaur Fossils So Scarce in California?"
-description: "Hadrosaur on ancient California landscape. Hadrosaurs like this AI generated one are among the very few dinosaurs whose fossils have ever been found in California. Support California Curated with a…"
+title: Why Are Dinosaur Fossils So Scarce in California?
+description: Hadrosaur on ancient California landscape. Hadrosaurs like this AI generated one are among the very few dinosaurs whose fossils have ever been found in California. Support California Curated with a…
 pubDate: 2023-07-08
-heroImage: "https://californiacurated.com/wp-content/uploads/2023/07/hadrosaur.jpg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2023/07/hadrosaur.jpg
+categories:
+  - animals
+  - geology-and-earthquakes
+  - history-of-science
+  - marine-science
+  - places
+tags:
+  - california
+  - geology
+  - hadrosaur
+author: Erik Olsen
 wpId: 2273
-wpSlug: "chasing-shadows-why-are-dinosaur-fossils-so-scarce-in-california"
-categories: ["animals", "geology-and-earthquakes", "history-of-science", "marine-science", "places"]
-tags: ["california", "geology", "hadrosaur"]
-author: "Erik Olsen"
+wpSlug: chasing-shadows-why-are-dinosaur-fossils-so-scarce-in-california
 ---
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
@@ -19,7 +27,7 @@ But why? We've got Hollywood, Silicon Valley, [lots of oil](<https://californiac
 
 To understand this prehistoric puzzle, we have to venture back into the geologic past, and also consider some unique aspects of California's geographical and geologic evolution. 
 
-Dinosaurs were mostly present during the [Mesozoic Era](<https://www.usgs.gov/youth-and-education-in-science/mesozoic#:~:text=Mesozoic%20\(252%2D66%20million%20years,may%20be%20familiar%20to%20you.>), from about 252 million to 66 million years ago. The Mesozoic is divided into three periods: the Triassic, Jurassic, and Cretaceous. The dinosaurs reign likely ended with [a massive meteorite impact](<https://en.wikipedia.org/wiki/Chicxulub_crater>) that caused a mass extinction, wiping out the dinosaurs and up to 80% of life on Earth. 
+Dinosaurs were mostly present during the [Mesozoic Era](<https://www.usgs.gov/youth-and-education-in-science/mesozoic#:\~:text=Mesozoic%20(252%2D66%20million%20years,may%20be%20familiar%20to%20you.>), from about 252 million to 66 million years ago. The Mesozoic is divided into three periods: the Triassic, Jurassic, and Cretaceous. The dinosaurs reign likely ended with [a massive meteorite impact](<https://en.wikipedia.org/wiki/Chicxulub_crater>) that caused a mass extinction, wiping out the dinosaurs and up to 80% of life on Earth. 
 
 (There's a [cool California story](<https://californiacurated.com/2025/03/04/berkeleys-cosmic-breakthrough-and-the-alvarez-discovery-that-rewrote-earths-history/>) related to this discovery.)
 
@@ -45,12 +53,9 @@ That said, there have been several discoveries of particular animals in Californ
 
 While much of California was underwater during the Late Cretaceous, it was home to [mosasaurs](<https://ucmp.berkeley.edu/2009/07/meet-a-mosasaur/>), large carnivorous marine reptiles that lived in oceans all over the world. These fearsome predators had long, streamlined bodies with powerful fins and jaws lined with sharp teeth. They hunted fish, ammonites, and possibly even other mosasaurs. Some species grew as big as modern whales and ruled the seas at the very end of the dinosaur age. [Mosasaurs](<https://ucmp.berkeley.edu/2009/07/meet-a-mosasaur/>) shared the world with creatures like Triceratops and Tyrannosaurus, but they vanished along with the dinosaurs during the mass extinction at the close of the Cretaceous. Today, paleontologists recognize mosasaur fossils by distinctive features on their skeletons, including unique muscle attachment scars and specialized bone knobs.
 
-![](https://californiacurated.com/wp-content/uploads/2024/06/poster_mockup_mountains-sun-1.jpg?w=1024)
+[![](https://californiacurated.com/wp-content/uploads/2024/06/poster_mockup_mountains-sun-1.jpg?w=1024)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
-**[CALIFORNIA CURATED ART ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
-
-**Purchase stunning art prints of iconic California scenes.**   
-**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
+[**CALIFORNIA CURATED ART ON ETSY**](<https://www.etsy.com/shop/CaliforniaCuratedUS>) - amazing California wildlife gifts
 
 Back to hadrosaurs, however. There is the duck-billed plant-eater [Augustynolophus](<https://en.wikipedia.org/wiki/Augustynolophus>), a member of the hadrosaur family, which recently was named the [official state dinosaur of California](<https://capitolmuseum.ca.gov/state-symbols/dinosaur-augustynolophus-morrisi/#:~:text=State%20Dinosaur&text=A%20member%20of%20the%20hadrosaur,William%20J.>). All known specimens of _Augustynolophus_  have been found only in California, in particular the [Moreno Formation](<https://en.wikipedia.org/wiki/Moreno_Formation>) in the San Joaquin Valley. Only two specimens have ever been found. The first fossil was uncovered in [Fresno County](<https://www.fresnobee.com/news/local/article154984279.html>) in 1939. The second was discovered nearby in 1941 in San Benito County, according to the [Natural History Museum of Los Angeles County website](<https://nhm.org/site/explore-exhibits/permanent-exhibits/state-dino>). Named after [paleontologist William J. Morris](<https://biostor.org/?q=William+J+Morris>) and NHMLA patron [Gretchen Augustyn](<https://capitolmuseum.ca.gov/state-symbols/dinosaur-augustynolophus-morrisi/>), _Augustynolophus_ remains one of few dinosaurs that have been discovered in the state.
 
@@ -66,7 +71,7 @@ In recent years, paleontologists have begun to find more dinosaur fossils in Cal
 
 In 2022, [a remarkable fossil discovery](<https://www.latimes.com/california/story/2024-09-13/a-huge-deposit-of-marine-fossils-found-under-san-pedro-high-school>) was made during a construction project at [San Pedro High School](<https://www.latimes.com/california/story/2024-09-13/a-huge-deposit-of-marine-fossils-found-under-san-pedro-high-school>) in Los Angeles. The excavation revealed a massive trove of marine fossils from the Miocene Epoch, dating back around 5 to 23 million years (so, not technically dinosaur fossils). Among the finds were the remains of ancient whales, sharks, fish, and mollusks, offering a rare glimpse into Southern California’s prehistoric past when the region was submerged under a warm, shallow sea. This discovery provided paleontologists with valuable insights into the marine ecosystems that once thrived in the area.
 
-![](https://californiacurated.com/wp-content/uploads/2023/07/image.png?w=1024)Among the fossils found under San Pedro High School are juvenile megalodon teeth, right, the great white shark’s ancestor; those from mako sharks, center; and from smaller sharks.  
+![](https://californiacurated.com/wp-content/uploads/2023/07/image.png?w=1024)Among the fossils found under San Pedro High School are juvenile megalodon teeth, right, the great white shark’s ancestor; those from mako sharks, center; and from smaller sharks.
  (Wayne Bischoff / Envicom Corp.)
 
 In addition to the marine fossils, a few terrestrial remains were also uncovered, hinting at a nearby coastline that once supported a variety of land animals. The discovery of such well-preserved fossils captured the attention of scientists and the local community alike, briefly turning the San Pedro High School campus into an [unexpected center of scientific excitement](<https://laist.com/news/education/san-pedro-high-school-fossils-discovered-los-angeles-unified-lausd>). For students and residents, the find offered a cool reminder of the ancient worlds buried just beneath their everyday lives.
