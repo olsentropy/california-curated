@@ -216,6 +216,91 @@ h4 { font-size: 1.15rem; }
 	.kofi-button { font-size: 0.95rem; padding: 0.7em 1.25em; }
 }
 
+/* ---------- Instagram follow CTA (editorial line) ----------
+   End-of-article invitation to follow on Instagram. Deliberately
+   not a button — italic serif text framed by a small rule-flanked
+   eyebrow, with the handle styled in Instagram magenta. Reads as
+   a magazine sign-off, not a CTA pill (so it doesn't compete
+   visually with the Ko-fi donate button). Markup:
+
+   <div class="ig-cta">
+     <div class="ig-cta-eyebrow">
+       <span class="ig-cta-rule"></span>
+       <span class="ig-cta-label">FOLLOW US</span>
+       <span class="ig-cta-rule"></span>
+     </div>
+     <p class="ig-cta-text">
+       More California science, photography and wild places on
+       <a class="ig-cta-link" href="…" target="_blank" rel="noopener noreferrer me">
+         Instagram <svg>…</svg> @californiacuratedus
+       </a>
+     </p>
+   </div>
+*/
+.ig-cta {
+	text-align: center;
+	margin: 2.5rem auto;
+	max-width: 560px;
+}
+.ig-cta-eyebrow {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	gap: 14px;
+	margin-bottom: 8px;
+}
+.ig-cta-rule {
+	flex: 1;
+	max-width: 100px;
+	height: 1px;
+	background: #B4B2A9;
+}
+.ig-cta-label {
+	font-family: "Helvetica Neue", Arial, sans-serif;
+	font-weight: 600;
+	font-size: 0.72rem;
+	letter-spacing: 0.18em;
+	color: var(--cc-muted);
+}
+.ig-cta-text {
+	margin: 0;
+	font-family: Georgia, "Times New Roman", serif;
+	font-style: italic;
+	font-size: 1.15rem;
+	line-height: 1.5;
+	color: var(--cc-ink);
+}
+.ig-cta-link {
+	font-style: normal;
+	font-weight: 600;
+	color: #DD2A7B !important;
+	text-decoration: none !important;
+	border-bottom: 1px solid #DD2A7B;
+	white-space: nowrap;
+	padding-bottom: 1px;
+	transition: color 0.15s ease, border-color 0.15s ease;
+}
+.ig-cta-link:hover,
+.ig-cta-link:focus-visible {
+	color: #8134AF !important;
+	border-bottom-color: #8134AF;
+}
+.ig-cta-link:focus-visible {
+	outline: 2px solid var(--cc-blue);
+	outline-offset: 3px;
+	border-radius: 2px;
+}
+.ig-cta-link svg {
+	width: 0.95em;
+	height: 0.95em;
+	vertical-align: -0.13em;
+	margin: 0 0.05em;
+}
+@media (max-width: 480px) {
+	.ig-cta-text { font-size: 1.05rem; }
+	.ig-cta-rule { max-width: 60px; }
+}
+
 /* ---------- Accessibility helper ---------- */
 .sr-only {
 	position: absolute;
