@@ -6,7 +6,8 @@ updatedDate: ''
 heroImage: https://californiacurated.com/wp-content/uploads/2023/10/mbari.png
 categories:
   - geology-and-earthquakes
-tags: []
+tags:
+  - '#MBARI #DeepSea #OceanExploration #MontereyBay #MarineBiology #ROV #DeepOcean #CaliforniaScience #MontereyCanyon #OceanDiscovery'
 author: Erik Olsen
 wpId: 7067
 wpSlug: mbari-and-the-machines-that-let-us-see-the-deep
@@ -14,9 +15,9 @@ wpSlug: mbari-and-the-machines-that-let-us-see-the-deep
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
-_You’ve probably seen the videos. A fish with a transparent head, its organs floating inside like tennis balls. Squid drifting through the darkness with enormous, googly eyes and arms trailing behind them like ribbons. These strange animals are just a glimpse of what scientists are beginning to learn about the deep ocean off California. Much of that discovery is happening at one of the most remarkable ocean research institutions in the world, the Monterey Bay Aquarium Research Institute._
+You’ve probably seen the videos. A fish with a transparent head, its organs floating inside like tennis balls. Squid drifting through the darkness with enormous, googly eyes and arms trailing behind them like ribbons. These strange animals are just a glimpse of what scientists are beginning to learn about the deep ocean off California. Much of that discovery is happening at one of the most remarkable ocean research institutions in the world, the Monterey Bay Aquarium Research Institute.
 
-The California coastline is about 840 miles long, pretty huge. That means lots of ocean at our doorstep. Most of us know the beaches, the cliffs, the kelp forests close to shore, the places where water crashes on the sand. But once you head offshore, knowledge thins out fast. Just a mile from the coast, we know so little. 
+The California coastline is about 840 miles long. Pretty huge. That means lots of ocean at our doorstep. Most of us know the beaches, the cliffs, the kelp forests close to shore, the places where water crashes on the sand. But once you head offshore, knowledge thins out fast. Just a mile from the coast, we know so little. 
 
 California’s state waters extend three nautical miles from the coast, after which federal waters take over, and the United States’ exclusive economic zone (EEZ) stretches all the way out to 200 nautical miles. That is an enormous expanse of ocean, larger than the land area of the state itself. 
 
@@ -53,6 +54,7 @@ I won’t get into the weeds here, but one thing that makes MBARI unusual is how
 Because of all this, they have to some extent escaped some of the harsh funding pressures under the Trump Administration that have negatively impacted other oceanographic institutions in the US, particularly at agencies like [NOAA](<https://oceanservice.noaa.gov/welcome.html>) and the National Science Foundation. Many university labs and federal programs faced delays, uncertainty, or serious reductions. MBARI, while not totally immune to these disruptions, was able to weather our current period better than most. 
 
 ![](https://californiacurated.com/wp-content/uploads/2026/03/vampire-squid-vampyroteuthis_infernalis_t0650_01_logo.jpg?w=1024)
+
 A vampire squid (_Vampyroteuthis infernalis_) observed by MBARI's remotely operated vehicle (ROV) _Tiburon_ in the outer Monterey Canyon at a depth of approximately 770 meters. (Credit: © 2004 MBARI)
 
 Perhaps the most important thing about MBARI is its geography. The institute was intentionally located in [Moss Landing](<https://en.wikipedia.org/wiki/Moss_Landing,_California>), right where [Monterey Canyon](<https://californiacurated.substack.com/p/a-deep-dive-into-monterey-canyon>), one of the largest submarine canyons in the world ([here’s a vid I did for SciAm](<https://www.youtube.com/watch?v=jgfkdJAFUms>)), slices deeply into the continental shelf and comes ashore. Within a few miles of the harbor, the seafloor drops to depths of more than two miles, creating an incredible natural laboratory. By placing MBARI at the canyon’s edge, deep-sea exploration became routine rather than occasional, with one of the earth’s most interesting and poorly understood features right on their doorstep.
