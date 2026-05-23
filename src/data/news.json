@@ -1,47 +1,11 @@
 {
-	"lastUpdated": "2026-05-23T16:44:52.763Z",
+	"lastUpdated": "2026-05-23T20:38:02.417Z",
 	"items": [
-		{
-			"headline": "Some experts say they've never seen bees swarm so early -- and that's concerning",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/some-experts-say-theyve-never-seen-bees-swarm-so-early-thats-concerning",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Why is Orange County chemical tank crisis so hard to fix?",
-			"url": "https://www.latimes.com/california/story/2026-05-23/why-is-orange-county-chemical-tank-crisis-so-hard-to-fix",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "A night of fear, confusion as thousands flee their homes in O.C. amid chemical crisis",
-			"url": "https://www.latimes.com/california/story/2026-05-22/night-of-fear-confusion-as-thousands-flee-their-homes-in-o-c-amid-chemical-crisis",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T05:05:47.000Z"
-		},
-		{
-			"headline": "Officials say a chemical explosion in Orange County could be catastrophic. Here's why.",
-			"url": "https://www.latimes.com/california/story/2026-05-22/why-garden-grove-chemical-explosion-could-be-so-catastrophic",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T23:55:41.000Z"
-		},
 		{
 			"headline": "Caltech could lose control of JPL for the first time",
 			"url": "https://www.latimes.com/science/story/2026-05-22/caltech-could-lose-control-of-jpl-for-first-time-in-decades",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-22T23:53:46.000Z"
-		},
-		{
-			"headline": "Garden Grove chemical leak: Evacuations, closures, shelters",
-			"url": "https://www.latimes.com/california/story/2026-05-22/orange-county-chemical-leak-evacuations-closures-shelters",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T21:50:51.000Z"
 		},
 		{
 			"headline": "Tuning Into Quantum Sounds",
@@ -62,12 +26,6 @@
 			"publishedAt": "2026-05-22T18:08:56.000Z"
 		},
 		{
-			"headline": "Sandy fire crew salvages family wedding ring amid Simi Valley ashes",
-			"url": "https://www.latimes.com/california/story/2026-05-22/sandy-fire-crew-salvages-family-wedding-ring-amid-simi-valley-ashes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T18:00:38.000Z"
-		},
-		{
 			"headline": "Crude oil spills onto Cesar Chavez Avenue in East L.A. after pipeline rupture",
 			"url": "https://www.latimes.com/california/story/2026-05-22/east-la-oil-spill",
 			"source": "Los Angeles Times",
@@ -78,18 +36,6 @@
 			"url": "https://news.berkeley.edu/2026/05/22/hi-res-microscopes-give-biologists-petabytes-of-data-scientists-are-creating-an-ai-assistant-to-make-sense-of-it/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-22T09:00:00.000Z"
-		},
-		{
-			"headline": "Thousands evacuated around leaking Orange County chemical tank: 'It fails, or it blows up'",
-			"url": "https://www.latimes.com/california/story/2026-05-21/residents-evacuated-toxic-leak-garden-grove-aerospace-company",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T01:58:47.000Z"
-		},
-		{
-			"headline": "Sandy fire burns near former nuclear test site, triggering air monitoring efforts",
-			"url": "https://www.latimes.com/california/story/2026-05-21/sandy-fire-burns-near-former-nuclear-test-site-officials-monitor-air",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T01:30:10.000Z"
 		},
 		{
 			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
@@ -114,12 +60,6 @@
 			"url": "https://news.berkeley.edu/2026/05/21/the-largest-study-of-ai-use-by-undergrads-is-in-revealing-disparities-in-access-and-in-cheating/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-21T18:00:00.000Z"
-		},
-		{
-			"headline": "Older AC and fridge chemicals amp up climate change. Trump just rolled back limits on them",
-			"url": "https://www.latimes.com/environment/story/2026-05-21/older-ac-fridge-chemicals-amp-up-climate-change-trump-just-rolled-back-limits-on-them",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T17:35:49.000Z"
 		},
 		{
 			"headline": "MBARI researchers share latest seafloor science and technology at GeoHab 2026 conference",
@@ -150,6 +90,66 @@
 			"url": "https://www.caltech.edu/about/news/the-origins-of-nereid-neptunes-most-eccentric-moon",
 			"source": "Caltech",
 			"publishedAt": "2026-05-20T23:51:00.000Z"
+		},
+		{
+			"headline": "Fires ring Southern California and it's only May. What's going on?",
+			"url": "https://www.latimes.com/california/story/2026-05-20/california-early-fire-season-climate-change",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-20T22:28:02.000Z"
+		},
+		{
+			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
+			"url": "https://www.latimes.com/california/story/2026-05-20/santa-rosa-island-fire-burns-through-rare-torrey-pine-grove",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-20T10:00:00.000Z"
+		},
+		{
+			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
+			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-20T17:00:00.000Z"
+		},
+		{
+			"headline": "How a SoCal native became one of NASA's most valuable assets",
+			"url": "https://www.latimes.com/science/story/2026-05-20/how-california-native-became-nasa-asset",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-20T10:00:00.000Z"
+		},
+		{
+			"headline": "Containment grows on Sandy fire, other SoCal blazes. But shifting winds pose challenge",
+			"url": "https://www.latimes.com/california/story/2026-05-20/socal-fire-containment-acres",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-20T18:03:33.000Z"
+		},
+		{
+			"headline": "Bay Area on Track to Meet Ambitious 50×50 Conservation Goal",
+			"url": "https://baynature.org/2026/05/19/conservation/bay-area-on-track-to-meet-ambitious-50x50-conservation-goal/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-19T21:22:09.000Z"
+		},
+		{
+			"headline": "Volvo to pay $197 million after hidden pollution device found in California truck engines",
+			"url": "https://www.latimes.com/environment/story/2026-05-19/volvo-to-pay-197-million-after-hidden-pollution-device-found-in-california-truck-engines",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-19T19:26:23.000Z"
+		},
+		{
+			"headline": "Astrophysicist Alex Filippenko awarded Gruber Cosmology Prize for work on supernovae",
+			"url": "https://news.berkeley.edu/2026/05/19/astrophysicist-alex-filippenko-awarded-gruber-cosmology-prize-for-work-on-supernovae/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-19T14:00:00.000Z"
+		},
+		{
+			"headline": "California's Joshua trees are disappearing. There's hope these fungi can help them",
+			"url": "https://www.latimes.com/california/story/2026-05-19/joshua-tree-disappearing-project-wants-to-save-it",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-19T12:00:00.000Z"
+		},
+		{
+			"headline": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities",
+			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-23T10:00:00.000Z"
 		}
 	]
 }
