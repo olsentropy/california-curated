@@ -1,15 +1,24 @@
 ---
-title: "Creosote Bushes Are the Mojave Desert’s Time Travelers&nbsp;"
-description: "In the Mojave Desert, one creosote plant known as “King Clone” is estimated to be over 12,000 years old, making it one of the oldest living clonal organisms on Earth."
+title: Creosote Bushes Are the Mojave Desert’s Time Travelers&nbsp;
+description: In the Mojave Desert, one creosote plant known as “King Clone” is estimated to be over 12,000 years old, making it one of the oldest living clonal organisms on Earth.
 pubDate: 2025-02-24
-heroImage: "https://californiacurated.com/wp-content/uploads/2025/02/green-planet-creosote.jpg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2025/02/green-planet-creosote.jpg
+categories:
+  - biology
+  - horticulture
+  - places
+tags:
+  - california
+  - creosote
+  - desert
+  - desert-plants
+  - environment
+  - mojave-desert
+author: Erik Olsen
 wpId: 5005
-wpSlug: "creosote-bushes-are-the-mojave-deserts-time-travelers"
-categories: ["biology", "horticulture", "places"]
-tags: ["california", "creosote", "desert", "desert-plants", "environment", "mojave-desert"]
-author: "Erik Olsen"
+wpSlug: creosote-bushes-are-the-mojave-deserts-time-travelers
 ---
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
@@ -20,37 +29,34 @@ While many of the other filming locations were far-flung landscapes like the Suc
 ![](https://californiacurated.com/wp-content/uploads/2025/02/king-clone-creosote.jpg?w=1024)King Clone, the 11,700-year-old [creosote bush](<https://en.wikipedia.org/wiki/Larrea_tridentata>) ring in the [Mojave Desert](<https://en.wikipedia.org/wiki/Mojave_Desert>) (Wikipedia)
 
 [Creosote bushes](<https://en.wikipedia.org/wiki/Larrea_tridentata>), or _Larrea tridentata_ , are native to the deserts of the southwestern United States and northern Mexico. Though often associated with arid landscapes, they are also a defining species of desert chaparral. Much of Southern California’s landscape is dominated by chaparral, a diverse and resilient plant community adapted to dry summers, periodic wildfires, and nutrient-poor soils. This ecosystem, characterized by drought-resistant shrubs like manzanita, chamise, and scrub oak, extends from coastal foothills to inland mountains, shaping the region’s ecology and fire cycles.  
-  
+
 [Creosote bushes](<https://en.wikipedia.org/wiki/Larrea_tridentata>) thrive in some of the harshest environments on the planet, enduring scorching temperatures, relentless sunlight, and prolonged droughts. Few other plants are so hardy. The secret to their survival lies in their evolutionary adaptations, honed over millennia to combat the unforgiving desert landscape. 
 
-![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)
+[![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
-**[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
-
-**Purchase stunning art prints of iconic California scenes.**   
-**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
+[**CALIFORNIA CURATED ON ETSY**](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
 As climate change intensifies heatwaves and disrupts rainfall patterns, even these desert survivors are showing signs of stress. Rising temperatures accelerate evapotranspiration, pushing groundwater further out of reach, while prolonged droughts hinder seedling establishment, threatening the species' long-term viability. Scientists are studying how creosote's resilience is being tested, and whether its decline could signal deeper ecological shifts in desert ecosystems already on the edge of survival. A 2021 [University of California, Irvine study](<https://news.uci.edu/2021/06/21/climate-change-is-driving-plant-die-offs-in-southern-california-uci-study-finds>) observed a 35% decrease in vegetation cover, including creosote bushes, in Southern California deserts between 1984 and 2017, attributing this decline to rising temperatures and increased aridity.
 
-![](https://californiacurated.com/wp-content/uploads/2025/02/creosote-flowers.jpg?w=1024)Golden bursts of resilience—creosote in bloom, thriving in the heart of the desert. (Erik Olsen)
+![](https://californiacurated.com/wp-content/uploads/2025/02/creosote-flowers.jpg?w=1024)_Golden bursts of resilience—creosote in bloom, thriving in the heart of the desert. (Erik Olsen)_
 
 Despite its usual appearance as a dry, uninviting shrub, the creosote bush surprises with delicate bursts of yellow when it blooms. After rainfall, its tough, resinous branches come alive with small, waxy flowers, adding a rare vibrancy to the desert. Unlike many plants that follow a strict seasonal cycle, creosote can bloom multiple times a year whenever moisture allows, a testament to its adaptability.
 
 As mentioned, one of the most fascinating aspects of the creosote bush is its strategy of slow growth. This deliberate pace is not a sign of fragility but an ingenious response to scarcity. By growing slowly, creosote bushes conserve precious resources like water and nutrients, ensuring their survival even in the driest years. Few plants are quite so good at this feat. Their [roots extend deep into the ground](<https://www.desertmuseum.org/kids/facts/?animal=Creosote%20Bush#:~:text=Creosote's%20roots%20spread%20deep%20into,creosote's%20roots%20to%20slurp%20up!>), tapping into hidden water reserves, while their leaves are coated in a waxy layer to minimize water loss through evaporation. This slow-and-steady approach has allowed them to outlast countless environmental changes and competitors. As a result of this unique adaptation, the creosote largely dominates much of the desert landscape, particularly in the Mojave. If you've ever driven along [Highway 395](<https://en.wikipedia.org/wiki/U.S._Route_395>) through the desert, creosote bushes often dot the landscape for as far as the eye can see.
 
-![](https://californiacurated.com/wp-content/uploads/2025/02/creosote-olsen.jpg?w=1024)Creosote in the Mojave desert (Photo: Erik Olsen)
+![](https://californiacurated.com/wp-content/uploads/2025/02/creosote-olsen.jpg?w=1024)_Creosote in the Mojave desert (Photo: Erik Olsen)_
 
-The creosote bush’s longevity also owes much to its clonal growth pattern, where new stems sprout from the same root system, allowing the plant to persist for thousands of years. King Clone, for instance, is not a single plant but a massive clonal colony that spans over 11 meters in diameter. Each stem may live for decades before dying off, but new stems sprout from the same root system, creating a continuous cycle of renewal. This clonal reproduction ensures genetic stability and resilience, enabling the plant to survive for thousands of years. While King Clone represents one of the oldest clonal organisms, it is important to distinguish this from the [bristlecone pine](<https://californiacurated.com/2021/01/17/the-majesty-and-mystery-of-californias-bristlecone-pine/>) ([see our story](<https://californiacurated.com/2021/01/17/the-majesty-and-mystery-of-californias-bristlecone-pine/>)), which holds the title for the oldest singular organism. Unlike the creosote bush, which survives through clonal reproduction by sprouting new stems from a shared root system, the bristlecone pine—like the renowned "[Methuselah](<https://en.wikipedia.org/wiki/Methuselah_\(pine_tree\)>)"—is a single tree that has endured for nearly 5,000 years as an individual entity. (Ponder that for a moment).
+The creosote bush’s longevity also owes much to its clonal growth pattern, where new stems sprout from the same root system, allowing the plant to persist for thousands of years. King Clone, for instance, is not a single plant but a massive clonal colony that spans over 11 meters in diameter. Each stem may live for decades before dying off, but new stems sprout from the same root system, creating a continuous cycle of renewal. This clonal reproduction ensures genetic stability and resilience, enabling the plant to survive for thousands of years. While King Clone represents one of the oldest clonal organisms, it is important to distinguish this from the [bristlecone pine](<https://californiacurated.com/2021/01/17/the-majesty-and-mystery-of-californias-bristlecone-pine/>) ([see our story](<https://californiacurated.com/2021/01/17/the-majesty-and-mystery-of-californias-bristlecone-pine/>)), which holds the title for the oldest singular organism. Unlike the creosote bush, which survives through clonal reproduction by sprouting new stems from a shared root system, the bristlecone pine—like the renowned "[Methuselah](<https://en.wikipedia.org/wiki/Methuselah_(pine_tree)>)"—is a single tree that has endured for nearly 5,000 years as an individual entity. (Ponder that for a moment).
 
 Beyond its impressive age and survival strategies, the creosote bush plays a vital ecological role. It provides shelter and sustenance for desert wildlife, including insects, rodents, and birds. Its resinous leaves emit a distinctive odor after rain—a smell that is deeply evocative of the desert and beloved by many who live near these arid regions. Indigenous peoples have long used the plant for medicinal purposes, creating teas and poultices from its leaves to treat ailments such as colds, wounds, and infections.
 
-![](https://californiacurated.com/wp-content/uploads/2025/02/chaparral-california.jpg?w=1024)A vast expanse of chaparral stretches endlessly across the eastern Sierra, its rugged shrubs and hardy vegetation thriving in the dry, windswept landscape. (Erik Olsen)
+![](https://californiacurated.com/wp-content/uploads/2025/02/chaparral-california.jpg?w=1024)_A vast expanse of chaparral stretches endlessly across the eastern Sierra, its rugged shrubs and hardy vegetation thriving in the dry, windswept landscape. (Erik Olsen)_
 
 Recent scientific studies have uncovered more about the creosote bush's unique chemistry. The plant produces a range of compounds to deter herbivores and pathogens, many of which have potential applications in medicine and agriculture. These secondary metabolites are a testament to the plant’s evolutionary ingenuity, further demonstrating how it has carved out a niche in an inhospitable environment. Researchers at the [Skaggs School of Pharmacy and Pharmaceutical Sciences](<https://pharmacy.ucsd.edu/>) at the University of California San Diego and the University of Colorado Anschutz Medical Campus [have discovered ](<https://today.ucsd.edu/story/compounds_in_desert_creosote_bush_could_treat_giardia_and_brain_eating_amoe#:~:text=Researchers%20at%20Skaggs%20School%20of,deadly%20parasitic%20infections%2C%20scientists%20said.>)that compounds from the creosote bush possess strong anti-parasitic properties. These compounds effectively target the protozoa responsible for giardia infections and an amoeba that causes a potentially deadly form of encephalitis. Similarly, The creosote bush contains the antioxidant [nordihydroguaiaretic acid (NDGA)](<https://en.wikipedia.org/wiki/Nordihydroguaiaretic_acid>), which has been [extensively studied](<https://journaljalsi.com/index.php/JALSI/article/view/505>) for its potential anti-carcinogenic, bactericidal, and preservative properties.
 
-![](https://californiacurated.com/wp-content/uploads/2025/02/creosote-closeup.jpg?w=1024)Creosote in the Mojave Desert (Photo: Erik Olsen)
+![](https://californiacurated.com/wp-content/uploads/2025/02/creosote-closeup.jpg?w=1024)_Creosote in the Mojave Desert (Photo: Erik Olsen)_
 
-Creosote has played a starring role in the cultural mythology of the American Southwest, serving as a symbol of endurance, isolation, and the stark beauty of the desert. In [Edward Abbey’s _Desert Solitaire_](<https://amzn.to/3CMwxpX>), the tough shrub embodies the rugged resilience of the land, surviving in the harshest conditions with roots that tap deep into the earth. Similarly, in _[Blood Meridian](<https://amzn.to/415WzfV>)_ , Cormac McCarthy’s sun-scorched landscapes are often sprawling with creosote, reinforcing the novel’s themes of violence and survival. The plant also makes its way into music, as seen in Tom Russell’s song _Creosote_ , where it becomes a poetic stand-in for the rough, untamed spirit of the Southwest. Even in visual media like _Breaking Bad_ , the ever-present creosote in the barren New Mexico desert could be interpreted as a symbol of the transformation of Walter White, mirroring the show’s themes of survival at any cost. Across literature, music, and film, creosote remains an enduring emblem of the Southwest, its gnarled branches and pungent scent evoking both the loneliness and allure of the desert frontier.
+Creosote has played a starring role in the cultural mythology of the American Southwest, serving as a symbol of endurance, isolation, and the stark beauty of the desert. In [Edward Abbey’s _Desert Solitaire_](<https://amzn.to/3CMwxpX>), the tough shrub embodies the rugged resilience of the land, surviving in the harshest conditions with roots that tap deep into the earth. Similarly, in [_Blood Meridian_](<https://amzn.to/415WzfV>) , Cormac McCarthy’s sun-scorched landscapes are often sprawling with creosote, reinforcing the novel’s themes of violence and survival. The plant also makes its way into music, as seen in Tom Russell’s song _Creosote_ , where it becomes a poetic stand-in for the rough, untamed spirit of the Southwest. Even in visual media like _Breaking Bad_ , the ever-present creosote in the barren New Mexico desert could be interpreted as a symbol of the transformation of Walter White, mirroring the show’s themes of survival at any cost. Across literature, music, and film, creosote remains an enduring emblem of the Southwest, its gnarled branches and pungent scent evoking both the loneliness and allure of the desert frontier.
 
 > By the time the animals were secured and they had thrown themselves on the ground under the creosote bushes with their weapons readied the riders were beginning to appear far out on the lake bed, a thin frieze of mounted archers that trembled and veered in the rising heat.
 > 
