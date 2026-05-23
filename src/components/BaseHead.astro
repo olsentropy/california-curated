@@ -1,6 +1,6 @@
 ---
 import '../styles/global.css';
-import { SITE_TITLE, SITE_TWITTER, SITE_TWITTER_CREATOR } from '../consts';
+import { SITE_TITLE, SITE_TWITTER, SITE_TWITTER_CREATOR, SITE_FACEBOOK, SITE_INSTAGRAM, SITE_TIKTOK } from '../consts';
 
 interface Props {
 	title: string;
@@ -106,7 +106,10 @@ const twCreator = twHandle(SITE_TWITTER_CREATOR);
 			'https://twitter.com/ScienceWeekly',
 			'https://substack.com/@californiacurated',
 			'https://ko-fi.com/californiacurated',
-		],
+			SITE_FACEBOOK,
+			SITE_INSTAGRAM,
+			SITE_TIKTOK,
+		].filter(Boolean),
 		contactPoint: {
 			'@type': 'ContactPoint',
 			contactType: 'editorial',

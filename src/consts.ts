@@ -17,6 +17,12 @@ export const SITE_AUTHOR_SLUG = 'erik-olsen';
 export const SITE_TWITTER = 'ScienceWeekly';
 export const SITE_TWITTER_CREATOR = 'ScienceWeekly';
 
+// Full URLs for social profiles. Set to empty string to hide the icon in
+// the header utility bar and omit from the JSON-LD sameAs array.
+export const SITE_FACEBOOK = 'https://www.facebook.com/californiacurious';
+export const SITE_INSTAGRAM = 'https://www.instagram.com/californiacuratedus/';
+export const SITE_TIKTOK = 'https://www.tiktok.com/@californiacurated';
+
 // Magazine sections (used in nav and homepage rails). Order matters — this is
 // what shows up on the top nav. Map each to one or more imported categories.
 export const SECTIONS = [
