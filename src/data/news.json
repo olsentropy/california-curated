@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-05-22T21:02:22.109Z",
+	"lastUpdated": "2026-05-23T01:46:50.603Z",
 	"items": [
+		{
+			"headline": "Caltech could lose control of JPL for first time in decades",
+			"url": "https://www.latimes.com/science/story/2026-05-22/caltech-could-lose-control-of-jpl-for-first-time-in-decades",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-22T23:53:46.000Z"
+		},
+		{
+			"headline": "Tuning Into Quantum Sounds",
+			"url": "https://www.caltech.edu/about/news/tuning-into-quantum-sounds",
+			"source": "Caltech",
+			"publishedAt": "2026-05-22T21:48:00.000Z"
+		},
 		{
 			"headline": "California gets $27.5 million to find and replace toxic lead pipes that deliver water to homes",
 			"url": "https://www.latimes.com/california/story/2026-05-22/california-gets-27-5-million-to-find-replace-lead-pipes",
@@ -26,7 +38,7 @@
 			"publishedAt": "2026-05-22T09:00:00.000Z"
 		},
 		{
-			"headline": "Thousands evacuated around leaking Orange County chemical tank: 'It fails, or it blows up.'",
+			"headline": "Thousands evacuated around leaking Orange County chemical tank: 'It fails, or it blows up'",
 			"url": "https://www.latimes.com/california/story/2026-05-21/residents-evacuated-toxic-leak-garden-grove-aerospace-company",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-22T01:58:47.000Z"
@@ -44,10 +56,22 @@
 			"publishedAt": "2026-05-21T21:03:26.000Z"
 		},
 		{
+			"headline": "Exploring Education During Times of Economic Crisis",
+			"url": "https://www.caltech.edu/about/news/exploring-education-during-times-of-economic-crisis",
+			"source": "Caltech",
+			"publishedAt": "2026-05-21T20:55:05.387Z"
+		},
+		{
 			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
 			"url": "https://www.latimes.com/environment/story/2026-05-21/feds-declare-eaton-fire-cleanup-success-testing-shows-otherwise",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-21T18:03:58.000Z"
+		},
+		{
+			"headline": "The largest study of AI use by undergrads is in, revealing disparities in access — and in cheating",
+			"url": "https://news.berkeley.edu/2026/05/21/the-largest-study-of-ai-use-by-undergrads-is-in-revealing-disparities-in-access-and-in-cheating/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-21T18:00:00.000Z"
 		},
 		{
 			"headline": "MBARI researchers share latest seafloor science and technology at GeoHab 2026 conference",
@@ -74,36 +98,6 @@
 			"publishedAt": "2026-05-21T10:00:00.000Z"
 		},
 		{
-			"headline": "How a SoCal native became one of NASA's most valuable assets",
-			"url": "https://www.latimes.com/science/story/2026-05-20/how-california-native-became-nasa-asset",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T10:00:00.000Z"
-		},
-		{
-			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
-			"url": "https://www.latimes.com/california/story/2026-05-20/santa-rosa-island-fire-burns-through-rare-torrey-pine-grove",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T10:00:00.000Z"
-		},
-		{
-			"headline": "Fires ring Southern California and it's only May. What's going on?",
-			"url": "https://www.latimes.com/california/story/2026-05-20/california-early-fire-season-climate-change",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T22:28:02.000Z"
-		},
-		{
-			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
-			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T17:00:00.000Z"
-		},
-		{
-			"headline": "Containment grows on Sandy fire, other SoCal blazes. But shifting winds pose challenge",
-			"url": "https://www.latimes.com/california/story/2026-05-20/socal-fire-containment-acres",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T18:03:33.000Z"
-		},
-		{
 			"headline": "Bay Area on Track to Meet Ambitious 50×50 Conservation Goal",
 			"url": "https://baynature.org/2026/05/19/conservation/bay-area-on-track-to-meet-ambitious-50x50-conservation-goal/",
 			"source": "Bay Nature",
@@ -114,6 +108,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-19/volvo-to-pay-197-million-after-hidden-pollution-device-found-in-california-truck-engines",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-19T19:26:23.000Z"
+		},
+		{
+			"headline": "Astrophysicist Alex Filippenko awarded Gruber Cosmology Prize for work on supernovae",
+			"url": "https://news.berkeley.edu/2026/05/19/astrophysicist-alex-filippenko-awarded-gruber-cosmology-prize-for-work-on-supernovae/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-19T14:00:00.000Z"
 		},
 		{
 			"headline": "California's Joshua trees are disappearing. There's hope these fungi can help them",
@@ -128,28 +128,28 @@
 			"publishedAt": "2026-05-19T10:00:00.000Z"
 		},
 		{
-			"headline": "Astrophysicist Alex Filippenko awarded Gruber Cosmology Prize for work on supernovae",
-			"url": "https://news.berkeley.edu/2026/05/19/astrophysicist-alex-filippenko-awarded-gruber-cosmology-prize-for-work-on-supernovae/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-19T14:00:00.000Z"
+			"headline": "The Origins of Nereid, Neptune's Most Eccentric Moon",
+			"url": "https://www.caltech.edu/about/news/the-origins-of-nereid-neptunes-most-eccentric-moon",
+			"source": "Caltech",
+			"publishedAt": "2026-05-20T23:51:00.000Z"
 		},
 		{
-			"headline": "A gray wolf has entered Sequoia National Park for the first time in a century",
-			"url": "https://www.latimes.com/environment/story/2026-05-18/wolf-enters-sequoia-national-park-for-first-time-in-century-bey03f",
+			"headline": "Fires ring Southern California and it's only May. What's going on?",
+			"url": "https://www.latimes.com/california/story/2026-05-20/california-early-fire-season-climate-change",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T19:40:49.000Z"
+			"publishedAt": "2026-05-20T22:28:02.000Z"
 		},
 		{
-			"headline": "Sandy fire spreads, prompting evacuation warnings in L.A. County",
-			"url": "https://www.latimes.com/california/story/2026-05-18/simi-valley-fire",
+			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
+			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T18:13:00.000Z"
+			"publishedAt": "2026-05-20T17:00:00.000Z"
 		},
 		{
-			"headline": "Largest fire ever recorded on Santa Rosa Island endangers 'gem of California coast'",
-			"url": "https://www.latimes.com/california/story/2026-05-18/largest-fire-ever-recorded-burns-santa-rosa-island-endangering-gem-of-california-coast",
+			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
+			"url": "https://www.latimes.com/california/story/2026-05-20/santa-rosa-island-fire-burns-through-rare-torrey-pine-grove",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-18T22:22:57.000Z"
+			"publishedAt": "2026-05-20T10:00:00.000Z"
 		}
 	]
 }
