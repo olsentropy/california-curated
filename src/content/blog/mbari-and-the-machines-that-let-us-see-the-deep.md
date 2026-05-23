@@ -21,9 +21,9 @@ The California coastline is about 840 miles long. Pretty huge. That means lots o
 
 California’s state waters extend three nautical miles from the coast, after which federal waters take over, and the United States’ exclusive economic zone (EEZ) stretches all the way out to 200 nautical miles. That is an enormous expanse of ocean, larger than the land area of the state itself. 
 
-And here’s the thing: Much of it remains barely explored, especially at depth, where light disappears, pressure is crushing, and the ocean floor drops into canyons almost as deep as the Grand Canyon. Just to put things into perspective: the maximum depth for a scuba diver is about 60-100 feet. The average depth of the ocean _is around_[_12,000 feet_](<https://oceanservice.noaa.gov/facts/oceandepth.html>). 
+And here’s the thing: Much of it remains barely explored, especially at depth, where light disappears, pressure is crushing, and the ocean floor drops into canyons almost as deep as the Grand Canyon. Just to put things into perspective: the maximum depth for a scuba diver is about 60-100 feet. The average depth of the ocean _is around_ [_12,000 feet_](<https://oceanservice.noaa.gov/facts/oceandepth.html>). 
 
-![](https://californiacurated.com/wp-content/uploads/2025/02/canyon99_high.jpg?w=1024)Simulated image of Monterey Submarine Canyon, based on detailed bathymetric data, combined with satellite imagery of the Central California coast. (Credit: © 1999 MBARI, satellite image provided by Space Imaging)
+![](https://californiacurated.com/wp-content/uploads/2025/02/canyon99_high.jpg?w=1024)_Simulated image of Monterey Submarine Canyon, based on detailed bathymetric data, combined with satellite imagery of the Central California coast. (Credit: © 1999 MBARI, satellite image provided by Space Imaging)_
 
 California, then, not surprisingly, is home to some of the world’s most important ocean science institutions. [Scripps Institution of Oceanography](<https://scripps.ucsd.edu/>) in San Diego has shaped modern oceanography for more than a century, from plate tectonics to climate science. We’ve done [several stories on Scripps](<https://californiacurated.substack.com/p/walter-munk-was-a-californian-oceanographer>) and some of the key figures there. Stanford’s [Hopkins Marine Station](<https://hopkinsmarinestation.stanford.edu/>) has been a center of marine biology since the nineteenth century. There are others too, from [university labs](<https://marinescience.ucdavis.edu/bml/about>) to federal research centers, each with its own focus and institutional agenda.
 
@@ -31,7 +31,7 @@ But one organization stands apart, not because it replaces these institutions, b
 
 I’ve been to the Monterey Bay Aquarium Research Institute many times to film stories both about and for them, and it always blows me away. It’s less like a stodgy research campus and more like a playground for ocean exploration. There’s a massive testing tank where engineers trial the robots and instruments destined for the deep, and sprawling, well-equipped labs that could be featured in science fiction films. 
 
-![](https://californiacurated.com/wp-content/uploads/2023/10/barrel-eye.jpeg?w=1024)A barreleye fish (Macropinna microstoma) observed by MBARI's remotely operated vehicle (ROV) Ventana in Monterey Bay at a depth of approximately 740 meters. (Credit: © 2004 MBARI)
+![](https://californiacurated.com/wp-content/uploads/2023/10/barrel-eye.jpeg?w=1024)_A barreleye fish (Macropinna microstoma) observed by MBARI's remotely operated vehicle (ROV) Ventana in Monterey Bay at a depth of approximately 740 meters. (Credit: © 2004 MBARI)_
 
 The people are exceptionally smart, deeply focused, and totally serious about the work. MBARI is one of the few places on the California coast where you can actually see the future of ocean exploration being built.
 
@@ -43,11 +43,11 @@ So, MBARI
 
 Interestingly, MBARI is not affiliated with a California university. That independence frees it from the layers of academic bureaucracy that often shape university-based research. MBARI can move faster, take longer-term bets, and organize its work around problems and tools rather than semesters, committees, or funding cycles. Also, MBARI is intentionally engineering-driven. It brings engineers and scientists together to build tools that work in the ocean, solving practical problems and opening up parts of the deep sea that were previously out of reach, including the places abundant with [bizarre life](<https://californiacurated.com/2023/10/05/through-the-looking-glass-head-the-enigmatic-world-of-the-barreleye-fish/>).
 
-![](https://californiacurated.com/wp-content/uploads/2026/03/anglerfish-melanocetus_johnsonii_d0695_06_logo.jpg?w=1024)A black seadevil anglerfish (Melanocetus johnsonii) observed by MBARI's remotely operated vehicle (ROV) Doc Ricketts in Monterey Canyon at a depth of approximately 570 meters. (Credit: © 2014 MBARI)
+![](https://californiacurated.com/wp-content/uploads/2026/03/anglerfish-melanocetus_johnsonii_d0695_06_logo.jpg?w=1024)_A black seadevil anglerfish (Melanocetus johnsonii) observed by MBARI's remotely operated vehicle (ROV) Doc Ricketts in Monterey Canyon at a depth of approximately 570 meters. (Credit: © 2014 MBARI)_
 
 MBARI was founded in 1987 by [David Packard](<https://en.wikipedia.org/wiki/David_Packard>), the cofounder of Hewlett-Packard, and from the start it was designed to solve a problem Packard thought was holding ocean science back. Too often, scientists depended on tools they didn’t control, ships they couldn’t easily schedule, and technologies that required specific expertise. MBARI brought scientists, engineers, and marine operations together inside a single institution, with a mandate not just to do science, but to _invent the tools_ needed to do better science. Packard himself was a gruff, no-nonsense engineer who had a deep passion for the ocean, and he formed MBARI with clear goals in mind, focused on designing and building machines to do ocean work. Why? Because the ocean is a remarkably difficult place to get things done. 
 
-![](https://californiacurated.com/wp-content/uploads/2026/03/mbari-tank.jpg?w=1024)Testing tank at MBARI. Engineers and scientists trial new underwater robots and instruments before sending them thousands of meters into the ocean. The massive facility holds hundreds of thousands of gallons of seawater and serves as a proving ground for many of MBARI’s most important technologies. (Photo: Erik Olsen)
+![](https://californiacurated.com/wp-content/uploads/2026/03/mbari-tank.jpg?w=1024)_Testing tank at MBARI. Engineers and scientists trial new underwater robots and instruments before sending them thousands of meters into the ocean. The massive facility holds hundreds of thousands of gallons of seawater and serves as a proving ground for many of MBARI’s most important technologies. (Photo: Erik Olsen)_
 
 I won’t get into the weeds here, but one thing that makes MBARI unusual is how it’s funded. MBARI is largely supported by the [David and Lucile Packard Foundation](<https://www.packard.org/>). Most oceanographic institutions depend heavily on competitive federal grants to keep their core programs operational. MBARI still receives those grants, but its base budget comes from philanthropy. That difference means MBARI can think in decades instead of grant cycles. The institute can develop [long-term observing programs](<https://www.mbari.org/project/station-m-long-term-time-series/>) and keep improving as technology advances. 
 
@@ -55,7 +55,7 @@ Because of all this, they have to some extent escaped some of the harsh funding 
 
 ![](https://californiacurated.com/wp-content/uploads/2026/03/vampire-squid-vampyroteuthis_infernalis_t0650_01_logo.jpg?w=1024)
 
-A vampire squid (_Vampyroteuthis infernalis_) observed by MBARI's remotely operated vehicle (ROV) _Tiburon_ in the outer Monterey Canyon at a depth of approximately 770 meters. (Credit: © 2004 MBARI)
+_A vampire squid (Vampyroteuthis infernalis) observed by MBARI's remotely operated vehicle (ROV) Tiburon in the outer Monterey Canyon at a depth of approximately 770 meters. (Credit: © 2004 MBARI)_
 
 Perhaps the most important thing about MBARI is its geography. The institute was intentionally located in [Moss Landing](<https://en.wikipedia.org/wiki/Moss_Landing,_California>), right where [Monterey Canyon](<https://californiacurated.substack.com/p/a-deep-dive-into-monterey-canyon>), one of the largest submarine canyons in the world ([here’s a vid I did for SciAm](<https://www.youtube.com/watch?v=jgfkdJAFUms>)), slices deeply into the continental shelf and comes ashore. Within a few miles of the harbor, the seafloor drops to depths of more than two miles, creating an incredible natural laboratory. By placing MBARI at the canyon’s edge, deep-sea exploration became routine rather than occasional, with one of the earth’s most interesting and poorly understood features right on their doorstep.
 
@@ -69,7 +69,7 @@ MESOBOT can quietly hover in the water column during the nightly movement known 
 
 "Not only will we be able to address the questions that we have imagined beforehand," said Robison. "But once we realize what this vehicle will do for us, there will be all sorts of new questions, new discoveries that sort of fall in your lap, in addition to what you set out to do in the first place."
 
-![](https://californiacurated.com/wp-content/uploads/2026/03/station-m.jpg?w=1024)Screenshot from an MBARI video about Station M, a long-term ocean laboratory located 4,000 meters deep off the coast of Santa Barbara, where scientists have been collecting continuous data on deep-sea carbon cycling for more than three decades. (MBARI YouTube)
+![](https://californiacurated.com/wp-content/uploads/2026/03/station-m.jpg?w=1024)_Screenshot from an MBARI video about Station M, a long-term ocean laboratory located 4,000 meters deep off the coast of Santa Barbara, where scientists have been collecting continuous data on deep-sea carbon cycling for more than three decades. (MBARI YouTube)_
 
 MBARI’s greatness stems from the complicated tools it has built. Its remotely operated vehicles, including the deep-diving [Doc Ricketts](<https://www.mbari.org/technology/rov-doc-ricketts/>) (Steinbeck’s scientific muse), have transformed how scientists observe and sample sealife thousands of meters below the surface. These are workhorse platforms capable of precise, repeatable science, from collecting fragile jellyfish to mapping hydrothermal vents. 
 
@@ -77,7 +77,7 @@ MBARI has also been a pioneer in autonomous underwater vehicles, including the [
 
 Also important are MBARI’s observing systems. The institute operates [cabled seafloor observatories](<https://www.mbari.org/technology/monterey-accelerated-research-system-mars/mars-site-description>) like the MARS that monitor the deep sea in real time. There’s also [Station M](<https://www.mbari.org/technology/station-m/>), MBARI’s long-term deep-sea laboratory off the coast of Santa Barbara. It operates at a depth of 4000m (around 13,000 feet) where decades of continuous measurements and observations track carbon sequestration in the deep ocean. 
 
-![](https://californiacurated.com/wp-content/uploads/2026/03/woolly-siphonophore-apolemia_lanosa_t1112_01_logo.jpg?w=1024)A woolly siphonophore (Apolemia lanosa) observed by MBARI's remotely operated vehicle (ROV) Tiburon in the outer Monterey Canyon at a depth of 1,200 meters. (Credit: © 2007 MBARI)
+![](https://californiacurated.com/wp-content/uploads/2026/03/woolly-siphonophore-apolemia_lanosa_t1112_01_logo.jpg?w=1024)_A woolly siphonophore (Apolemia lanosa) observed by MBARI's remotely operated vehicle (ROV) Tiburon in the outer Monterey Canyon at a depth of 1,200 meters. (Credit: © 2007 MBARI)_
 
 And there are many more projects at MBARI that help us better understand what’s going on in the ocean at a time when it’s critical to know how the ocean and the climate interact. Covering them all would take tens of thousands of words. One great source for what MBARI does is it’s [exceptional annual report](<https://annualreport.mbari.org/2024/>), which is filled with easy to digest facts, figures, articles as well as stunning images that give an update on the institution’s work. 
 
