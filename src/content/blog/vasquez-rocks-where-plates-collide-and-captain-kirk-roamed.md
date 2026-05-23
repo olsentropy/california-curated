@@ -1,15 +1,22 @@
 ---
-title: "Vasquez Rocks: Where Plates Collide and Captain Kirk Roamed"
-description: "This is Vasquez Rocks, one of California’s most interesting and dramatic geologic formations."
+title: 'Vasquez Rocks: Where Plates Collide and Captain Kirk Roamed'
+description: This is Vasquez Rocks, one of California’s most interesting and dramatic geologic formations.
 pubDate: 2020-01-30
-heroImage: "https://californiacurated.com/wp-content/uploads/2020/01/vasquez-rocks.jpg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2020/01/vasquez-rocks.jpg
+categories:
+  - geology-and-earthquakes
+  - places
+tags:
+  - california
+  - earthquakes
+  - geology
+  - san-andreas-fault
+  - vasquez-rocks
+author: Erik Olsen
 wpId: 1175
-wpSlug: "vasquez-rocks-where-plates-collide-and-captain-kirk-roamed"
-categories: ["geology-and-earthquakes", "places"]
-tags: ["california", "earthquakes", "geology", "san-andreas-fault", "vasquez-rocks"]
-author: "Erik Olsen"
+wpSlug: vasquez-rocks-where-plates-collide-and-captain-kirk-roamed
 ---
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
@@ -21,18 +28,17 @@ In a way, the rocks _are_ otherworldly. Widely used as a setting for Westerns an
 
 Vasquez Rocks’ tallest peak juts 150 feet above the canyon floor, offering spectacular views to those courageous (or foolhardy) enough to scramble up it’s steep and treacherous face. (I’ve done it. Many times) The fact is, though, that the rock above ground is like an iceberg. The rock below extends an extra 22,000 feet into the earth.
 
-![](https://californiacurated.com/wp-content/uploads/2021/08/d46bf-vasquez-rocks-drone2.jpg?w=1024)Credit: Erik Olsen
+![](https://californiacurated.com/wp-content/uploads/2021/08/d46bf-vasquez-rocks-drone2.jpg?w=1024)_Vasquez Rocks (Photo: Erik Olsen)_
 
 Over the last half-century, Vasquez Rocks have been a stage for episodes of the TV series “[Star Trek: The Next Generation](<https://www.imdb.com/title/tt0092455/>),” “Star Trek: Voyager” and “Star Trek: Enterprise” as well as the films, including “Star Trek VI: The Undiscovered Country” and J.J. Abrams’ 2009 “Star Trek” reboot. They served as part of the planet Vulcan landscape, home to Spock. Abrams said that the site was chosen in homage to the site’s use in the original, including the classic episode of the original Star Trek series “Arena” which pit Kirk against an ambling, hissing, intelligent lizard creature on a foreign world. 
 
-![](https://californiacurated.com/wp-content/uploads/2024/09/dc1e65b9-47ec-4af9-95d0-7c140642b026-694-0000098e36bbd54a_file.jpg?w=1024)The original Star Trek TV series made use of Vasquez Rocks as an other worldly setting. ￼
+![](https://californiacurated.com/wp-content/uploads/2024/09/dc1e65b9-47ec-4af9-95d0-7c140642b026-694-0000098e36bbd54a_file.jpg?w=1024)_The original Star Trek TV series made use of Vasquez Rocks as an other worldly setting._ ￼
 
 There’s a reason that Vasquez Rocks is so often chosen as a set. The site lies at the edge of what’s known as the [Thirty Mile Zone](<https://en.wikipedia.org/wiki/Studio_zone>), a region around Los Angeles and Hollywood where those in the Screen Actors Guild and technical crew can report for work without paying higher premiums which dramatically increase the costs of production.
 
 Named for [Tiburcio Vásquez](<https://en.wikipedia.org/wiki/Tiburcio_V%C3%A1squez>), a notorious California Bandit who used the formation to elude officials in 1873-1874, the rocks have made it a favorite filming location going back to the Saturday-morning westerns of the 1920s and ’30s like “The Texas Ranger” in 1931 and “The Girl and the Bandit” in 1939. Other, non-Star Trek productions include the 1994 film version of “The Flintstones” and “The Big Bang Theory.” 
 
-
-*[Tiburcio Vásquez](<https://en.wikipedia.org/wiki/Tiburcio_V%C3%A1squez>)*
+[_Tiburcio Vásquez_](<https://en.wikipedia.org/wiki/Tiburcio_V%C3%A1squez>)
 
 Most people are aware of the rocks’ fame in cinema, but its geological history is in many ways even more interesting. Vasquez Rocks sit astride or are near several other faults. The Elkhorn Fault, an offshoot of the San Andreas Fault, runs right through the [Vasquez Rocks Natural Area Park](<https://parks.lacounty.gov/vasquez-rocks-natural-area-and-nature-center/>), administered by LA County. Other faults, such as the Pelona, Vasquez Canyon, Soledad, and San Gabriel Faults, all lie near to the formation, making it a boon for geologists hoping to better understand California’s geological and seismographic history. 
 
@@ -40,13 +46,8 @@ Most people are aware of the rocks’ fame in cinema, but its geological history
 
 The rocks consist mainly of sandstone that accumulated over millions of years from the erosion of the nearby [San Gabriel Mountains](<https://californiacurated.com/2023/08/31/the-majestic-san-gabriel-mountains-a-deep-dive-into-their-formation-history-and-biodiversity/>). Rain, landslides, wind, flooding, and earthquakes, all played a role, depositing vast amounts of sand and gravel in the region.
 
-![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)
+[![Mola mola mug from California Curated's species series](https://californiacurated.com/wp-content/uploads/2026/05/etsy-mola-mola-mug.jpg?w=1024)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
-**[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
-
-**Celebrate California's wild creatures with our species-series mugs and prints.**  
-**[Shop the store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
+[**CALIFORNIA CURATED ON ETSY**](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
-
-_By [Erik Olsen](<https://erikolsen.com/>)_
