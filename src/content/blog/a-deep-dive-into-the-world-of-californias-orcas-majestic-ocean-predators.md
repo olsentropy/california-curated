@@ -1,13 +1,22 @@
 ---
-title: "A Deep Dive into the World of California’s Orcas: Majestic Ocean Predators"
-description: "Orcas visit California waters more than most people realize. Here's what science knows about the hunting strategies, social bonds, and movements of California's killer whales."
+title: 'A Deep Dive into the World of California’s Orcas: Majestic Ocean Predators'
+description: Orcas visit California waters more than most people realize. Here's what science knows about the hunting strategies, social bonds, and movements of California's killer whales.
 pubDate: 2023-06-16
-heroImage: "https://californiacurated.com/wp-content/uploads/2023/06/whale-m.jpg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2023/06/whale-m.jpg
+categories:
+  - animals
+  - marine-science
+  - places
+tags:
+  - california
+  - cetaceans
+  - environment
+  - whales
+author: Erik Olsen
+draft: true
 wpId: 2101
-wpSlug: "a-deep-dive-into-the-world-of-californias-orcas-majestic-ocean-predators"
-categories: ["animals", "marine-science", "places"]
-tags: ["california", "cetaceans", "environment", "whales"]
-author: "Erik Olsen"
+wpSlug: a-deep-dive-into-the-world-of-californias-orcas-majestic-ocean-predators
 ---
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
@@ -44,7 +53,7 @@ In orca societies, females generally choose the mates. Gestation lasts for about
 
 Killer whales are found in oceans worldwide, from the frigid Arctic and Antarctic regions to tropical seas. In California, they are most frequently sighted in Monterey Bay, the Gulf of the Farallones, and along the northern coast near the Oregon border. They migrate following their prey, and their appearance in California waters often aligns with the migration of gray whales, a favorite prey species.
 
-Orcas have been popular in human culture, depicted in indigenous art, folklore, and mythology. Their image was catapulted into the modern mainstream by the 1993 film "[Free Willy](<https://en.wikipedia.org/wiki/Free_Willy>)." Yet, their captive display in marine parks like SeaWorld has sparked controversy and fueled a significant shift in public perception towards marine mammal captivity. The [2013 documentary "Blackfish](<https://en.wikipedia.org/wiki/Blackfish_\(film\)>)" shed light on the stressors faced by these magnificent creatures in captivity, leading to policy changes and declining popularity of such exhibits.
+Orcas have been popular in human culture, depicted in indigenous art, folklore, and mythology. Their image was catapulted into the modern mainstream by the 1993 film "[Free Willy](<https://en.wikipedia.org/wiki/Free_Willy>)." Yet, their captive display in marine parks like SeaWorld has sparked controversy and fueled a significant shift in public perception towards marine mammal captivity. The [2013 documentary "Blackfish](<https://en.wikipedia.org/wiki/Blackfish_(film)>)" shed light on the stressors faced by these magnificent creatures in captivity, leading to policy changes and declining popularity of such exhibits.
 
 Orcas are not typically dangerous to humans in the wild, and there are very few documented cases of wild orcas attacking people. However, tragic incidents involving captive orcas and their trainers have occurred, which some attribute to the psychological stress of captivity.
 
