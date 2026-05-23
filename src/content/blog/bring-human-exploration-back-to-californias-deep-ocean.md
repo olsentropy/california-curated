@@ -1,15 +1,36 @@
 ---
-title: "Bring Human Exploration Back to California’s Deep Ocean"
-description: "California's deep ocean remains one of the least explored places on Earth. Here's why it's time to send humans back down — and what we stand to discover."
+title: Bring Human Exploration Back to California’s Deep Ocean
+description: California's deep ocean remains one of the least explored places on Earth. Here's why it's time to send humans back down into the sea. And what we stand to discover.
 pubDate: 2025-08-15
-heroImage: "https://californiacurated.com/wp-content/uploads/2025/08/submersible-1.jpg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2025/08/submersible-1.jpg
+categories:
+  - animals
+  - biology
+  - climate-change
+  - geology-and-earthquakes
+  - marine-science
+  - places
+tags:
+  - animals
+  - california
+  - catalina-island
+  - climate-change
+  - environment
+  - geology
+  - hov
+  - mbari
+  - ocean-exploration
+  - pacific-ocean
+  - rov
+  - science
+  - submarines
+  - submersibles
+  - triton-submarines
+author: Erik Olsen
 wpId: 6314
-wpSlug: "bring-human-exploration-back-to-californias-deep-ocean"
-categories: ["animals", "biology", "climate-change", "geology-and-earthquakes", "marine-science", "places"]
-tags: ["animals", "california", "catalina-island", "climate-change", "environment", "geology", "hov", "mbari", "ocean-exploration", "pacific-ocean", "rov", "science", "submarines", "submersibles", "triton-submarines"]
-author: "Erik Olsen"
+wpSlug: bring-human-exploration-back-to-californias-deep-ocean
 ---
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
@@ -63,14 +84,14 @@ Human eyes and brains pick up weak bioluminescence out of the corner of vision, 
 
 California is exactly where that presence would pay off. Think about [Davidson Seamount](<https://californiacurated.com/2023/09/05/davidson-seamount-unveiled-the-unseen-mountains-and-hidden-treasures-off-californias-coast/>), an underwater mountain larger than many national parks, added to the [Monterey Bay National Marine Sanctuary](<https://montereybay.noaa.gov/>) because of its ancient coral gardens and extraordinary biodiversity. We know this place mostly through ROVs, and we should keep using them, but a California HOV could carry sanctuary scientists, MBARI biologists, and students from [Hopkins Marine Station](<https://hopkinsmarinestation.stanford.edu/>) or Scripps into those coral forests to make fine-scale observations, sample with delicacy, and come home with stories that move the public. Put a student in that viewport and you create a career. Put a donor there and you create a program.
 
-![](https://californiacurated.com/wp-content/uploads/2023/09/rov-seamount.jpeg?w=1024)_A time-lapse camera designed by MBARI engineers allowed researchers to observe activity at the_  
+![](https://californiacurated.com/wp-content/uploads/2023/09/rov-seamount.jpeg?w=1024)_A time-lapse camera designed by MBARI engineers allowed researchers to observe activity at the_
  _Octopus Garden between research expeditions. (Photo: MBARI)_
 
 [Cold seeps](<https://oceanexplorer.noaa.gov/explorations/23seascapes/features/cold-seeps/cold-seeps.html>) and [methane ecology](<https://www.forbes.com/sites/we-dont-have-time/2025/08/14/hidden-methane-cycle-found-in-the-deep-sea/>) are another natural fit. Off Southern California and along the borderlands there are active methane seep fields with complex microbial and animal communities. Recent work near seeps has even turned up [newly described sea spiders](<https://www.cnn.com/2025/06/17/science/spiders-deep-sea-methane-new-species>) associated with methane-oxidizing bacteria, a striking reminder that the deep Pacific still surprises us. An HOV complements ROV sampling by letting observers linger, follow odor plumes by sight and instrument, and make rapid, in-situ decisions about fragile communities that are easy to miss on video. That kind of fine-grained exploration connects directly to California’s climate priorities, since methane processes in the ocean intersect with carbon budgets.
 
 There are practical use cases all over the coast. A California HOV could support geohazard work on active faults and slope failures that threaten seafloor cables and coastal infrastructure. It could conduct pre- and post-event surveys at oil-and-gas seep sites in the Santa Barbara Channel to ground-truth airborne methane measurements. It could document deep-water MPA effectiveness where visual census by divers is impossible. It could make repeated visits to [whale falls](<https://californiacurated.com/2024/07/17/whale-falls-a-deep-sea-spectacle-off-the-california-coast/>), oxygen minimum zone interfaces, or sponge grounds to study change across seasons.
 
-![](https://californiacurated.com/wp-content/uploads/2025/08/rov-image.webp?w=1024)An autonomous underwater craft used to map DDT barrels on the seafloor off California.   
+![](https://californiacurated.com/wp-content/uploads/2025/08/rov-image.webp?w=1024)An autonomous underwater craft used to map DDT barrels on the seafloor off California.
 (Photo: Scripps Institution of Oceanography at U.C. San Diego)
 
 It could also play a crucial role in high-profile discoveries like the recent ROV surveys that revealed [thousands of corroding barrels](<https://www.latimes.com/environment/story/2021-04-26/ddt-waste-barrels-off-la-coast-shock-california-scientists>) linked to [mid-20th-century DDT dumping ](<https://en.wikipedia.org/wiki/Toxic_ocean_dumps_off_Southern_California>)off Southern California. Those missions produced stark imagery of the problem, but a human-occupied dive would have allowed scientists to make on-the-spot decisions about barrel sampling, trace-chemical measurements, and sediment core collection, as well as to inspect surrounding habitats for contamination impacts in real time. The immediacy of human observation could help shape quicker, more targeted responses to environmental threats of this scale.
