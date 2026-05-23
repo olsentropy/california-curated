@@ -1,15 +1,27 @@
 ---
-title: "Ghost of the West: The Tragic Story of the California Grizzly Bear’s Journey from Wilderness to State Flag"
-description: "In the expansive and diverse landscape of California, many iconic animals are an integral part of the state’s reputation for natural beauty and untamed wilderness. Yet, one particular creature looms larger in the Californian narrative than many others – a species that has been extinct for nearly a century, but lives on as a powerful symbol: the California Grizzly Bear (Ursus arctos californicus)."
+title: 'Ghost of the West: The Tragic Story of the California Grizzly Bear’s Journey from Wilderness to State Flag'
+description: 'In the expansive and diverse landscape of California, many iconic animals are an integral part of the state’s reputation for natural beauty and untamed wilderness. Yet, one particular creature looms larger in the Californian narrative than many others – a species that has been extinct for nearly a century, but lives on as a powerful symbol: the California Grizzly Bear (Ursus arctos californicus).'
 pubDate: 2023-06-20
-heroImage: "https://californiacurated.com/wp-content/uploads/2023/06/olsentropy_wide_shot_of_the_california_grizzly_bear_in_the_fore_90a1c808-26bd-4612-a44f-1370e2928b5e.png"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2023/06/olsentropy_wide_shot_of_the_california_grizzly_bear_in_the_fore_90a1c808-26bd-4612-a44f-1370e2928b5e.png
+categories:
+  - animals
+  - biology
+  - history-of-science
+tags:
+  - animals
+  - bear
+  - california
+  - center-for-biological-diversity
+  - environment
+  - grizzly-bear
+  - national-park-service
+  - state-flag
+author: Erik Olsen
+draft: true
 wpId: 2121
-wpSlug: "ghost-of-the-west-the-tragic-story-of-the-california-grizzly-bears-journey-from-wilderness-to-state-flag"
-categories: ["animals", "biology", "history-of-science"]
-tags: ["animals", "bear", "california", "center-for-biological-diversity", "environment", "grizzly-bear", "national-park-service", "state-flag"]
-author: "Erik Olsen"
+wpSlug: ghost-of-the-west-the-tragic-story-of-the-california-grizzly-bears-journey-from-wilderness-to-state-flag
 ---
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
@@ -17,21 +29,21 @@ In the expansive and diverse landscape of California, [many iconic animals](<htt
 
 The California Grizzly Bear, a subspecies of the [Grizzly Bear](<https://en.wikipedia.org/wiki/Grizzly_bear>), was a formidable presence in the wild terrains of California. This remarkable beast could grow up to 8 feet tall when standing on its hind legs, and adult males often weighed in excess of 2000 pounds. They sported a lustrous fur coat that varied in color from blond to dark brown, making them a striking, and sometimes terrifying, sight in the California wilderness. 
 
-![](https://californiacurated.com/wp-content/uploads/2023/06/monarch-grizzly.jpeg?w=1024)The famous California Grizzly "Monarch" was housed in an enclosure at Golden Gate Park around 1910.   
+![](https://californiacurated.com/wp-content/uploads/2023/06/monarch-grizzly.jpeg?w=1024)The famous California Grizzly "Monarch" was housed in an enclosure at Golden Gate Park around 1910.
 It passed away the following year. (California State Archives)
 
 The name "Grizzly" could have meant "grizzled," a term referring to the animal's golden and grey tips of hair. Or quite possibly it meant "fear-inspiring" (as a phonetic spelling of "grisly"). The naturalist [George Ord](<https://en.wikipedia.org/wiki/George_Ord>) formally classified it in 1815 as _Ursus horribilis_  ("terrifying bear").
 
 This giant was an omnivore with a varied diet that changed with the seasons. The bear's dietary staples included seeds, berries, roots, fish, and small mammals. But the California Grizzly was also known to take down larger prey, such as deer and elk, when the opportunity presented itself. The first recorded encounters with California grizzly bears are found in diaries kept by several members of the 1769 [Portola expedition](<https://en.wikipedia.org/wiki/Portola_expedition>), the first European land exploration of the southern stretch of the West Coast. Several place names that include the Spanish word for bear (_oso_) trace their origins back to that first overland expedition. For example, the city of [Los Osos](<https://en.wikipedia.org/wiki/Los_Osos,_California#Origin_of_name>). 
 
-Prior to [Spanish settlement in the second half of the 1700s](<https://en.wikipedia.org/wiki/History_of_California_before_1900#Spanish_colonization_and_governance_\(1697%E2%80%931821\)>), it is estimated that 10,000 grizzly bears inhabited what is today considered modern-day California.
+Prior to [Spanish settlement in the second half of the 1700s](<https://en.wikipedia.org/wiki/History_of_California_before_1900#Spanish_colonization_and_governance_(1697%E2%80%931821)>), it is estimated that 10,000 grizzly bears inhabited what is today considered modern-day California.
 
 ![](https://californiacurated.com/wp-content/uploads/2024/05/poster_in_boho_room_mockup_1-beach.jpg?w=1024)
 
-**[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
+[**CALIFORNIA CURATED ON ETSY**](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
-**Purchase stunning art prints of iconic California scenes.**   
-**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
+**Purchase stunning art prints of iconic California scenes.**
+\*\*[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) \*\*
 
 Stories about the California Grizzly Bear echo throughout the annals of California's history and literature. In his book "[The Mountains of California](<https://amzn.to/3XeqrUV>)," renowned naturalist [John Muir](<https://californiacurated.com/2020/08/30/how-theodore-roosevelts-1903-trip-to-california-gave-birth-to-modern-conservation/>) recounted his encounters with these awe-inspiring creatures, stating, "When I discovered him, he was standing in a narrow strip of meadow, and I was concealed behind a tree on the side of it."
 
