@@ -23,6 +23,8 @@ wpId: 3060
 wpSlug: giants-fallen-the-destruction-of-converse-basin-grove-and-its-giant-sequoias
 ---
 
+<div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
+
 Currently, the most expansive remaining sequoia domain is the [Giant Forest in Sequoia National Park](<https://www.nps.gov/tripideas/experience-the-giant-forest.htm>), which has an estimated 8,400 giant sequoia trees that are more than one foot in diameter at their bases. The park is home to the world’s biggest tree, the [General Sherman](<https://www.nps.gov/seki/learn/nature/sherman.htm>). 
 
 ([See our feature on the biology behind the immense size of redwoods and sequoias here.](<https://californiacurated.com/2021/03/04/why-are-californias-redwoods-and-sequoias-so-big/>))
