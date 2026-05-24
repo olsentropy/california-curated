@@ -1,11 +1,23 @@
 {
-	"lastUpdated": "2026-05-24T12:52:40.949Z",
+	"lastUpdated": "2026-05-24T16:46:45.474Z",
 	"items": [
 		{
 			"headline": "Defying Trump, California continues to bet big on offshore wind",
 			"url": "https://www.latimes.com/environment/story/2026-05-24/defying-trump-california-continues-to-bet-big-on-offshore-wind",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-24T10:00:00.000Z"
+		},
+		{
+			"headline": "Some experts say they've never seen bees swarm so early — and that's concerning",
+			"url": "https://www.latimes.com/environment/story/2026-05-23/some-experts-say-theyve-never-seen-bees-swarm-so-early-thats-concerning",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-23T10:00:00.000Z"
+		},
+		{
+			"headline": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities",
+			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-23T10:00:00.000Z"
 		},
 		{
 			"headline": "Caltech could lose control of JPL for the first time",
@@ -32,10 +44,10 @@
 			"publishedAt": "2026-05-22T18:08:56.000Z"
 		},
 		{
-			"headline": "Sandy fire burns near former nuclear test site, triggering air monitoring efforts",
-			"url": "https://www.latimes.com/california/story/2026-05-21/sandy-fire-burns-near-former-nuclear-test-site-officials-monitor-air",
+			"headline": "Crude oil spills onto Cesar Chavez Avenue in East L.A. after pipeline rupture",
+			"url": "https://www.latimes.com/california/story/2026-05-22/east-la-oil-spill",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T01:30:10.000Z"
+			"publishedAt": "2026-05-22T15:30:22.000Z"
 		},
 		{
 			"headline": "Hi-res microscopes give biologists petabytes of data. Scientists are creating an AI assistant to make sense of it.",
@@ -44,16 +56,10 @@
 			"publishedAt": "2026-05-22T09:00:00.000Z"
 		},
 		{
-			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
-			"url": "https://www.latimes.com/california/story/2026-05-21/ai-gray-whale-ship-strikes",
+			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/feds-declare-eaton-fire-cleanup-success-testing-shows-otherwise",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T21:03:26.000Z"
-		},
-		{
-			"headline": "Exploring Education During Times of Economic Crisis",
-			"url": "https://www.caltech.edu/about/news/exploring-education-during-times-of-economic-crisis",
-			"source": "Caltech",
-			"publishedAt": "2026-05-21T20:55:05.387Z"
+			"publishedAt": "2026-05-21T18:03:58.000Z"
 		},
 		{
 			"headline": "The largest study of AI use by undergrads is in, revealing disparities in access — and in cheating",
@@ -86,30 +92,6 @@
 			"publishedAt": "2026-05-21T10:00:00.000Z"
 		},
 		{
-			"headline": "Some experts say they've never seen bees swarm so early — and that's concerning",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/some-experts-say-theyve-never-seen-bees-swarm-so-early-thats-concerning",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Why is Orange County chemical tank crisis so hard to fix?",
-			"url": "https://www.latimes.com/california/story/2026-05-23/why-is-orange-county-chemical-tank-crisis-so-hard-to-fix",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
-			"url": "https://www.latimes.com/california/story/2026-05-20/santa-rosa-island-fire-burns-through-rare-torrey-pine-grove",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T10:00:00.000Z"
-		},
-		{
 			"headline": "The Origins of Nereid, Neptune's Most Eccentric Moon",
 			"url": "https://www.caltech.edu/about/news/the-origins-of-nereid-neptunes-most-eccentric-moon",
 			"source": "Caltech",
@@ -122,10 +104,10 @@
 			"publishedAt": "2026-05-20T22:28:02.000Z"
 		},
 		{
-			"headline": "Containment grows on Sandy fire, other SoCal blazes. But shifting winds pose challenge",
-			"url": "https://www.latimes.com/california/story/2026-05-20/socal-fire-containment-acres",
+			"headline": "Mayoral candidate Raman unveils rebuilding plan for Pacific Palisades",
+			"url": "https://www.latimes.com/environment/story/2026-05-20/mayoral-candidate-raman-unveils-rebuilding-plan-for-pacific-palisades",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T18:03:33.000Z"
+			"publishedAt": "2026-05-20T20:30:03.000Z"
 		},
 		{
 			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
@@ -140,10 +122,22 @@
 			"publishedAt": "2026-05-20T10:00:00.000Z"
 		},
 		{
+			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
+			"url": "https://www.latimes.com/california/story/2026-05-20/santa-rosa-island-fire-burns-through-rare-torrey-pine-grove",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-20T10:00:00.000Z"
+		},
+		{
 			"headline": "Bay Area on Track to Meet Ambitious 50×50 Conservation Goal",
 			"url": "https://baynature.org/2026/05/19/conservation/bay-area-on-track-to-meet-ambitious-50x50-conservation-goal/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-19T21:22:09.000Z"
+		},
+		{
+			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
+			"url": "https://www.latimes.com/california/story/2026-05-21/ai-gray-whale-ship-strikes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T21:03:26.000Z"
 		},
 		{
 			"headline": "Volvo to pay $197 million after hidden pollution device found in California truck engines",
