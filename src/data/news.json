@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-25T17:26:55.161Z",
+	"lastUpdated": "2026-05-25T20:56:47.073Z",
 	"items": [
 		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
@@ -44,10 +44,10 @@
 			"publishedAt": "2026-05-22T09:00:00.000Z"
 		},
 		{
-			"headline": "The largest study of AI use by undergrads is in, revealing disparities in access — and in cheating",
-			"url": "https://news.berkeley.edu/2026/05/21/the-largest-study-of-ai-use-by-undergrads-is-in-revealing-disparities-in-access-and-in-cheating/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-21T18:00:00.000Z"
+			"headline": "Crude oil spills onto Cesar Chavez Avenue in East L.A. after pipeline rupture",
+			"url": "https://www.latimes.com/california/story/2026-05-22/east-la-oil-spill",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-22T15:30:22.000Z"
 		},
 		{
 			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
@@ -62,22 +62,46 @@
 			"publishedAt": "2026-05-21T20:55:05.387Z"
 		},
 		{
+			"headline": "The largest study of AI use by undergrads is in, revealing disparities in access — and in cheating",
+			"url": "https://news.berkeley.edu/2026/05/21/the-largest-study-of-ai-use-by-undergrads-is-in-revealing-disparities-in-access-and-in-cheating/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-21T18:00:00.000Z"
+		},
+		{
+			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/feds-declare-eaton-fire-cleanup-success-testing-shows-otherwise",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T18:03:58.000Z"
+		},
+		{
+			"headline": "Older AC and fridge chemicals amp up climate change. Trump just rolled back limits on them",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/older-ac-fridge-chemicals-amp-up-climate-change-trump-just-rolled-back-limits-on-them",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T17:35:49.000Z"
+		},
+		{
 			"headline": "MBARI researchers share latest seafloor science and technology at GeoHab 2026 conference",
 			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-seafloor-science-and-technology-at-geohab-2026-conference/",
 			"source": "MBARI",
 			"publishedAt": "2026-05-21T16:00:38.000Z"
 		},
 		{
-			"headline": "Salmon are at risk with federal plans to give farmers more water from Shasta Lake, critics warn",
-			"url": "https://www.latimes.com/environment/story/2026-05-21/california-water-salmon-trump-dam-plan",
+			"headline": "Multiple wildfires trigger unhealthful air quality alert in Southern California",
+			"url": "https://www.latimes.com/california/story/2026-05-21/socal-wildfire-smoke-advisory",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T10:00:00.000Z"
+			"publishedAt": "2026-05-21T15:45:23.000Z"
 		},
 		{
 			"headline": "Recycled Rocks Reveal Subduction Zone Dynamics Off Baja California",
 			"url": "https://eos.org/editor-highlights/recycled-rocks-reveal-subduction-zone-dynamics-off-baja-california",
 			"source": "Eos",
 			"publishedAt": "2026-05-21T13:53:16.000Z"
+		},
+		{
+			"headline": "Salmon are at risk with federal plans to give farmers more water from Shasta Lake, critics warn",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/california-water-salmon-trump-dam-plan",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T10:00:00.000Z"
 		},
 		{
 			"headline": "The Origins of Nereid, Neptune's Most Eccentric Moon",
@@ -126,30 +150,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
-			"url": "https://www.latimes.com/environment/story/2026-05-21/feds-declare-eaton-fire-cleanup-success-testing-shows-otherwise",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T18:03:58.000Z"
-		},
-		{
-			"headline": "Older AC and fridge chemicals amp up climate change. Trump just rolled back limits on them",
-			"url": "https://www.latimes.com/environment/story/2026-05-21/older-ac-fridge-chemicals-amp-up-climate-change-trump-just-rolled-back-limits-on-them",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T17:35:49.000Z"
-		},
-		{
-			"headline": "Multiple wildfires trigger unhealthful air quality alert in Southern California",
-			"url": "https://www.latimes.com/california/story/2026-05-21/socal-wildfire-smoke-advisory",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T15:45:23.000Z"
-		},
-		{
-			"headline": "Containment grows on Sandy fire, other SoCal blazes. But shifting winds pose challenge",
-			"url": "https://www.latimes.com/california/story/2026-05-20/socal-fire-containment-acres",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T18:03:33.000Z"
 		}
 	]
 }
