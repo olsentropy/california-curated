@@ -1,17 +1,23 @@
 {
-	"lastUpdated": "2026-05-26T18:14:52.369Z",
+	"lastUpdated": "2026-05-26T21:24:23.685Z",
 	"items": [
 		{
-			"headline": "'May Gray has leveled up': Southern California can expect a cloudy, drizzly week",
-			"url": "https://www.latimes.com/california/story/2026-05-26/may-gray-week-in-socal",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-26T17:31:35.000Z"
+			"headline": "Single Tissue Snapshot Reveals Biological Processes Unfolding Over Time",
+			"url": "https://www.caltech.edu/about/news/single-tissue-snapshot-reveals-biological-processes-unfolding-over-time",
+			"source": "Caltech",
+			"publishedAt": "2026-05-26T20:46:16.826Z"
 		},
 		{
 			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
 			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
 			"source": "MBARI",
 			"publishedAt": "2026-05-26T16:00:22.000Z"
+		},
+		{
+			"headline": "'May Gray has leveled up': Southern California can expect a cloudy, drizzly week",
+			"url": "https://www.latimes.com/california/story/2026-05-26/may-gray-week-in-socal",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-26T17:31:35.000Z"
 		},
 		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
@@ -24,24 +30,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-24/defying-trump-california-continues-to-bet-big-on-offshore-wind",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-24T10:00:00.000Z"
-		},
-		{
-			"headline": "Oil-covered birds rescued after pipeline rupture sends crude into L.A. River",
-			"url": "https://www.latimes.com/california/story/2026-05-24/oil-covered-birds-rescued-pipeline-rupture-la-river",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-25T01:43:42.000Z"
-		},
-		{
-			"headline": "Some experts say they've never seen bees swarm so early — and that's concerning",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/some-experts-say-theyve-never-seen-bees-swarm-so-early-thats-concerning",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
 		},
 		{
 			"headline": "Caltech could lose control of JPL for the first time",
@@ -62,7 +50,7 @@
 			"publishedAt": "2026-05-22T19:31:26.000Z"
 		},
 		{
-			"headline": "No parking at Big Sur bridge? County mulls restrictions at famous California Highway 1 stop",
+			"headline": "No parking at Big Sur bridge? County considers restrictions at famous California Highway 1 stop",
 			"url": "https://www.latimes.com/california/story/2026-05-22/officials-plan-parking-restrictions-around-big-surs-bixby-bridge",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-22T18:08:56.000Z"
@@ -90,12 +78,6 @@
 			"url": "https://www.latimes.com/california/story/2026-05-21/ai-gray-whale-ship-strikes",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-21T21:03:26.000Z"
-		},
-		{
-			"headline": "Exploring Education During Times of Economic Crisis",
-			"url": "https://www.caltech.edu/about/news/exploring-education-during-times-of-economic-crisis",
-			"source": "Caltech",
-			"publishedAt": "2026-05-21T20:55:05.387Z"
 		},
 		{
 			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
@@ -146,10 +128,16 @@
 			"publishedAt": "2026-05-20T22:28:02.000Z"
 		},
 		{
-			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
-			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T17:00:00.000Z"
+			"headline": "How worried should you be about Ebola?",
+			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-26T18:38:05.000Z"
+		},
+		{
+			"headline": "Exploring Education During Times of Economic Crisis",
+			"url": "https://www.caltech.edu/about/news/exploring-education-during-times-of-economic-crisis",
+			"source": "Caltech",
+			"publishedAt": "2026-05-21T20:55:05.387Z"
 		}
 	]
 }
