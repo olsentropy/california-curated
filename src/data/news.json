@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-25T20:56:47.073Z",
+	"lastUpdated": "2026-05-26T01:49:52.986Z",
 	"items": [
 		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
@@ -44,12 +44,6 @@
 			"publishedAt": "2026-05-22T09:00:00.000Z"
 		},
 		{
-			"headline": "Crude oil spills onto Cesar Chavez Avenue in East L.A. after pipeline rupture",
-			"url": "https://www.latimes.com/california/story/2026-05-22/east-la-oil-spill",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T15:30:22.000Z"
-		},
-		{
 			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
 			"url": "https://www.latimes.com/california/story/2026-05-21/ai-gray-whale-ship-strikes",
 			"source": "Los Angeles Times",
@@ -68,28 +62,10 @@
 			"publishedAt": "2026-05-21T18:00:00.000Z"
 		},
 		{
-			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
-			"url": "https://www.latimes.com/environment/story/2026-05-21/feds-declare-eaton-fire-cleanup-success-testing-shows-otherwise",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T18:03:58.000Z"
-		},
-		{
-			"headline": "Older AC and fridge chemicals amp up climate change. Trump just rolled back limits on them",
-			"url": "https://www.latimes.com/environment/story/2026-05-21/older-ac-fridge-chemicals-amp-up-climate-change-trump-just-rolled-back-limits-on-them",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T17:35:49.000Z"
-		},
-		{
 			"headline": "MBARI researchers share latest seafloor science and technology at GeoHab 2026 conference",
 			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-seafloor-science-and-technology-at-geohab-2026-conference/",
 			"source": "MBARI",
 			"publishedAt": "2026-05-21T16:00:38.000Z"
-		},
-		{
-			"headline": "Multiple wildfires trigger unhealthful air quality alert in Southern California",
-			"url": "https://www.latimes.com/california/story/2026-05-21/socal-wildfire-smoke-advisory",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T15:45:23.000Z"
 		},
 		{
 			"headline": "Recycled Rocks Reveal Subduction Zone Dynamics Off Baja California",
@@ -116,26 +92,20 @@
 			"publishedAt": "2026-05-20T22:28:02.000Z"
 		},
 		{
-			"headline": "Mayoral candidate Raman unveils rebuilding plan for Pacific Palisades",
-			"url": "https://www.latimes.com/environment/story/2026-05-20/mayoral-candidate-raman-unveils-rebuilding-plan-for-pacific-palisades",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T20:30:03.000Z"
-		},
-		{
 			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
 			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-20T17:00:00.000Z"
 		},
 		{
-			"headline": "How a SoCal native became one of NASA's most valuable assets",
-			"url": "https://www.latimes.com/science/story/2026-05-20/how-california-native-became-nasa-asset",
+			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
+			"url": "https://www.latimes.com/california/story/2026-05-20/santa-rosa-island-fire-burns-through-rare-torrey-pine-grove",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-20T10:00:00.000Z"
 		},
 		{
-			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
-			"url": "https://www.latimes.com/california/story/2026-05-20/santa-rosa-island-fire-burns-through-rare-torrey-pine-grove",
+			"headline": "How a SoCal native became one of NASA's most valuable assets",
+			"url": "https://www.latimes.com/science/story/2026-05-20/how-california-native-became-nasa-asset",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-20T10:00:00.000Z"
 		},
@@ -150,6 +120,36 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-23T10:00:00.000Z"
+		},
+		{
+			"headline": "Crude oil spills onto Cesar Chavez Avenue in East L.A. after pipeline rupture",
+			"url": "https://www.latimes.com/california/story/2026-05-22/east-la-oil-spill",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-22T15:30:22.000Z"
+		},
+		{
+			"headline": "Oil-covered birds rescued after pipeline rupture sends crude into L.A. River",
+			"url": "https://www.latimes.com/california/story/2026-05-24/oil-covered-birds-rescued-pipeline-rupture-la-river",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-25T01:43:42.000Z"
+		},
+		{
+			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/feds-declare-eaton-fire-cleanup-success-testing-shows-otherwise",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T18:03:58.000Z"
+		},
+		{
+			"headline": "Multiple wildfires trigger unhealthful air quality alert in Southern California",
+			"url": "https://www.latimes.com/california/story/2026-05-21/socal-wildfire-smoke-advisory",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T15:45:23.000Z"
+		},
+		{
+			"headline": "Sandy fire burns near former nuclear test site, triggering air monitoring efforts",
+			"url": "https://www.latimes.com/california/story/2026-05-21/sandy-fire-burns-near-former-nuclear-test-site-officials-monitor-air",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-22T01:30:10.000Z"
 		}
 	]
 }
