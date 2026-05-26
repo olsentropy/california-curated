@@ -41,7 +41,7 @@ By 1900, nearly all of California's tall trees had been purchased by private lan
 
 [![](https://californiacurated.com/wp-content/uploads/2021/03/screenshot-2025-05-19-at-5.28.53e280afpm.png?w=1003)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
-[**_CALIFORNIA CURATED ON ETSY_**](<https://www.etsy.com/shop/CaliforniaCuratedUS>) _- Purchase original California wildlife swag on_[ _the California Curated Etsy store._](<https://www.etsy.com/shop/CaliforniaCuratedUS>) 
+[**_CALIFORNIA CURATED ON ETSY_**](<https://www.etsy.com/shop/CaliforniaCuratedUS>) _- Purchase original California wildlife gifts on_[ _the California Curated Etsy store._](<https://www.etsy.com/shop/CaliforniaCuratedUS>) 
 
 Between 1892–1918, the [Sanger Lumber Company](<https://en.wikipedia.org/wiki/Hume-Bennett_Lumber_Company>) logged the Converse Basin Grove, one of the largest stands of sequoia in the world, using ruinous clearcutting practices. They cut down 8,000 giant sequoias, some of them over 2000 years old, in a decade-long event that has been described as “the greatest orgy of destructive lumbering in the history of the world.” Only 60-100 large specimens in the grove survived. [We wrote about that awful event here](<https://californiacurated.com/2024/04/25/giants-fallen-the-destruction-of-converse-basin-grove-and-its-giant-sequoias/>).
 
