@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-26T01:49:52.986Z",
+	"lastUpdated": "2026-05-26T07:34:10.769Z",
 	"items": [
 		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
@@ -12,6 +12,18 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-24/defying-trump-california-continues-to-bet-big-on-offshore-wind",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-24T10:00:00.000Z"
+		},
+		{
+			"headline": "Some experts say they've never seen bees swarm so early — and that's concerning",
+			"url": "https://www.latimes.com/environment/story/2026-05-23/some-experts-say-theyve-never-seen-bees-swarm-so-early-thats-concerning",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-23T10:00:00.000Z"
+		},
+		{
+			"headline": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities",
+			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-23T10:00:00.000Z"
 		},
 		{
 			"headline": "Caltech could lose control of JPL for the first time",
@@ -38,6 +50,12 @@
 			"publishedAt": "2026-05-22T18:08:56.000Z"
 		},
 		{
+			"headline": "Crude oil spills onto Cesar Chavez Avenue in East L.A. after pipeline rupture",
+			"url": "https://www.latimes.com/california/story/2026-05-22/east-la-oil-spill",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-22T15:30:22.000Z"
+		},
+		{
 			"headline": "Hi-res microscopes give biologists petabytes of data. Scientists are creating an AI assistant to make sense of it.",
 			"url": "https://news.berkeley.edu/2026/05/22/hi-res-microscopes-give-biologists-petabytes-of-data-scientists-are-creating-an-ai-assistant-to-make-sense-of-it/",
 			"source": "UC Berkeley News",
@@ -56,16 +74,16 @@
 			"publishedAt": "2026-05-21T20:55:05.387Z"
 		},
 		{
-			"headline": "The largest study of AI use by undergrads is in, revealing disparities in access — and in cheating",
-			"url": "https://news.berkeley.edu/2026/05/21/the-largest-study-of-ai-use-by-undergrads-is-in-revealing-disparities-in-access-and-in-cheating/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-21T18:00:00.000Z"
-		},
-		{
 			"headline": "MBARI researchers share latest seafloor science and technology at GeoHab 2026 conference",
 			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-seafloor-science-and-technology-at-geohab-2026-conference/",
 			"source": "MBARI",
 			"publishedAt": "2026-05-21T16:00:38.000Z"
+		},
+		{
+			"headline": "Multiple wildfires trigger unhealthful air quality alert in Southern California",
+			"url": "https://www.latimes.com/california/story/2026-05-21/socal-wildfire-smoke-advisory",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T15:45:23.000Z"
 		},
 		{
 			"headline": "Recycled Rocks Reveal Subduction Zone Dynamics Off Baja California",
@@ -80,6 +98,24 @@
 			"publishedAt": "2026-05-21T10:00:00.000Z"
 		},
 		{
+			"headline": "The largest study of AI use by undergrads is in, revealing disparities in access — and in cheating",
+			"url": "https://news.berkeley.edu/2026/05/21/the-largest-study-of-ai-use-by-undergrads-is-in-revealing-disparities-in-access-and-in-cheating/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-21T18:00:00.000Z"
+		},
+		{
+			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/feds-declare-eaton-fire-cleanup-success-testing-shows-otherwise",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T18:03:58.000Z"
+		},
+		{
+			"headline": "Older AC and fridge chemicals amp up climate change. Trump just rolled back limits on them",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/older-ac-fridge-chemicals-amp-up-climate-change-trump-just-rolled-back-limits-on-them",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T17:35:49.000Z"
+		},
+		{
 			"headline": "The Origins of Nereid, Neptune's Most Eccentric Moon",
 			"url": "https://www.caltech.edu/about/news/the-origins-of-nereid-neptunes-most-eccentric-moon",
 			"source": "Caltech",
@@ -92,16 +128,16 @@
 			"publishedAt": "2026-05-20T22:28:02.000Z"
 		},
 		{
-			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
-			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T17:00:00.000Z"
-		},
-		{
 			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
 			"url": "https://www.latimes.com/california/story/2026-05-20/santa-rosa-island-fire-burns-through-rare-torrey-pine-grove",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-20T10:00:00.000Z"
+		},
+		{
+			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
+			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-20T17:00:00.000Z"
 		},
 		{
 			"headline": "How a SoCal native became one of NASA's most valuable assets",
@@ -110,46 +146,10 @@
 			"publishedAt": "2026-05-20T10:00:00.000Z"
 		},
 		{
-			"headline": "Some experts say they've never seen bees swarm so early — and that's concerning",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/some-experts-say-theyve-never-seen-bees-swarm-so-early-thats-concerning",
+			"headline": "Containment grows on Sandy fire, other SoCal blazes. But shifting winds pose challenge",
+			"url": "https://www.latimes.com/california/story/2026-05-20/socal-fire-containment-acres",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Crude oil spills onto Cesar Chavez Avenue in East L.A. after pipeline rupture",
-			"url": "https://www.latimes.com/california/story/2026-05-22/east-la-oil-spill",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T15:30:22.000Z"
-		},
-		{
-			"headline": "Oil-covered birds rescued after pipeline rupture sends crude into L.A. River",
-			"url": "https://www.latimes.com/california/story/2026-05-24/oil-covered-birds-rescued-pipeline-rupture-la-river",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-25T01:43:42.000Z"
-		},
-		{
-			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
-			"url": "https://www.latimes.com/environment/story/2026-05-21/feds-declare-eaton-fire-cleanup-success-testing-shows-otherwise",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T18:03:58.000Z"
-		},
-		{
-			"headline": "Multiple wildfires trigger unhealthful air quality alert in Southern California",
-			"url": "https://www.latimes.com/california/story/2026-05-21/socal-wildfire-smoke-advisory",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T15:45:23.000Z"
-		},
-		{
-			"headline": "Sandy fire burns near former nuclear test site, triggering air monitoring efforts",
-			"url": "https://www.latimes.com/california/story/2026-05-21/sandy-fire-burns-near-former-nuclear-test-site-officials-monitor-air",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T01:30:10.000Z"
+			"publishedAt": "2026-05-20T18:03:33.000Z"
 		}
 	]
 }
