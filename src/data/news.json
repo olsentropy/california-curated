@@ -1,30 +1,6 @@
 {
-	"lastUpdated": "2026-05-26T07:34:10.769Z",
+	"lastUpdated": "2026-05-26T14:29:18.253Z",
 	"items": [
-		{
-			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
-			"url": "https://www.latimes.com/environment/story/2026-05-25/california-more-local-water",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-25T10:00:00.000Z"
-		},
-		{
-			"headline": "Defying Trump, California continues to bet big on offshore wind",
-			"url": "https://www.latimes.com/environment/story/2026-05-24/defying-trump-california-continues-to-bet-big-on-offshore-wind",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-24T10:00:00.000Z"
-		},
-		{
-			"headline": "Some experts say they've never seen bees swarm so early — and that's concerning",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/some-experts-say-theyve-never-seen-bees-swarm-so-early-thats-concerning",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
 		{
 			"headline": "Caltech could lose control of JPL for the first time",
 			"url": "https://www.latimes.com/science/story/2026-05-22/caltech-could-lose-control-of-jpl-for-first-time-in-decades",
@@ -38,40 +14,16 @@
 			"publishedAt": "2026-05-22T21:48:00.000Z"
 		},
 		{
-			"headline": "California gets $27.5 million to find and replace toxic lead pipes that deliver water to homes",
-			"url": "https://www.latimes.com/california/story/2026-05-22/california-gets-27-5-million-to-find-replace-lead-pipes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T19:31:26.000Z"
-		},
-		{
-			"headline": "No parking at Big Sur bridge? County mulls restrictions at famous California Highway 1 stop",
-			"url": "https://www.latimes.com/california/story/2026-05-22/officials-plan-parking-restrictions-around-big-surs-bixby-bridge",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T18:08:56.000Z"
-		},
-		{
-			"headline": "Crude oil spills onto Cesar Chavez Avenue in East L.A. after pipeline rupture",
-			"url": "https://www.latimes.com/california/story/2026-05-22/east-la-oil-spill",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T15:30:22.000Z"
-		},
-		{
 			"headline": "Hi-res microscopes give biologists petabytes of data. Scientists are creating an AI assistant to make sense of it.",
 			"url": "https://news.berkeley.edu/2026/05/22/hi-res-microscopes-give-biologists-petabytes-of-data-scientists-are-creating-an-ai-assistant-to-make-sense-of-it/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-22T09:00:00.000Z"
 		},
 		{
-			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
-			"url": "https://www.latimes.com/california/story/2026-05-21/ai-gray-whale-ship-strikes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T21:03:26.000Z"
-		},
-		{
-			"headline": "Exploring Education During Times of Economic Crisis",
-			"url": "https://www.caltech.edu/about/news/exploring-education-during-times-of-economic-crisis",
-			"source": "Caltech",
-			"publishedAt": "2026-05-21T20:55:05.387Z"
+			"headline": "The largest study of AI use by undergrads is in, revealing disparities in access — and in cheating",
+			"url": "https://news.berkeley.edu/2026/05/21/the-largest-study-of-ai-use-by-undergrads-is-in-revealing-disparities-in-access-and-in-cheating/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-21T18:00:00.000Z"
 		},
 		{
 			"headline": "MBARI researchers share latest seafloor science and technology at GeoHab 2026 conference",
@@ -80,28 +32,34 @@
 			"publishedAt": "2026-05-21T16:00:38.000Z"
 		},
 		{
-			"headline": "Multiple wildfires trigger unhealthful air quality alert in Southern California",
-			"url": "https://www.latimes.com/california/story/2026-05-21/socal-wildfire-smoke-advisory",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T15:45:23.000Z"
-		},
-		{
 			"headline": "Recycled Rocks Reveal Subduction Zone Dynamics Off Baja California",
 			"url": "https://eos.org/editor-highlights/recycled-rocks-reveal-subduction-zone-dynamics-off-baja-california",
 			"source": "Eos",
 			"publishedAt": "2026-05-21T13:53:16.000Z"
 		},
 		{
-			"headline": "Salmon are at risk with federal plans to give farmers more water from Shasta Lake, critics warn",
-			"url": "https://www.latimes.com/environment/story/2026-05-21/california-water-salmon-trump-dam-plan",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T10:00:00.000Z"
+			"headline": "The Origins of Nereid, Neptune's Most Eccentric Moon",
+			"url": "https://www.caltech.edu/about/news/the-origins-of-nereid-neptunes-most-eccentric-moon",
+			"source": "Caltech",
+			"publishedAt": "2026-05-20T23:51:00.000Z"
 		},
 		{
-			"headline": "The largest study of AI use by undergrads is in, revealing disparities in access — and in cheating",
-			"url": "https://news.berkeley.edu/2026/05/21/the-largest-study-of-ai-use-by-undergrads-is-in-revealing-disparities-in-access-and-in-cheating/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-21T18:00:00.000Z"
+			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
+			"url": "https://www.latimes.com/environment/story/2026-05-25/california-more-local-water",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-25T10:00:00.000Z"
+		},
+		{
+			"headline": "Defying Trump, California continues to bet big on offshore wind",
+			"url": "https://www.latimes.com/environment/story/2026-05-24/defying-trump-california-continues-to-bet-big-on-offshore-wind",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-24T10:00:00.000Z"
+		},
+		{
+			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
+			"url": "https://www.latimes.com/california/story/2026-05-21/ai-gray-whale-ship-strikes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T21:03:26.000Z"
 		},
 		{
 			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
@@ -116,16 +74,34 @@
 			"publishedAt": "2026-05-21T17:35:49.000Z"
 		},
 		{
-			"headline": "The Origins of Nereid, Neptune's Most Eccentric Moon",
-			"url": "https://www.caltech.edu/about/news/the-origins-of-nereid-neptunes-most-eccentric-moon",
-			"source": "Caltech",
-			"publishedAt": "2026-05-20T23:51:00.000Z"
+			"headline": "Salmon are at risk with federal plans to give farmers more water from Shasta Lake, critics warn",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/california-water-salmon-trump-dam-plan",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T10:00:00.000Z"
 		},
 		{
-			"headline": "Fires ring Southern California and it's only May. What's going on?",
-			"url": "https://www.latimes.com/california/story/2026-05-20/california-early-fire-season-climate-change",
+			"headline": "California gets $27.5 million to find and replace toxic lead pipes that deliver water to homes",
+			"url": "https://www.latimes.com/california/story/2026-05-22/california-gets-27-5-million-to-find-replace-lead-pipes",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T22:28:02.000Z"
+			"publishedAt": "2026-05-22T19:31:26.000Z"
+		},
+		{
+			"headline": "No parking at Big Sur bridge? County mulls restrictions at famous California Highway 1 stop",
+			"url": "https://www.latimes.com/california/story/2026-05-22/officials-plan-parking-restrictions-around-big-surs-bixby-bridge",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-22T18:08:56.000Z"
+		},
+		{
+			"headline": "Some experts say they've never seen bees swarm so early — and that's concerning",
+			"url": "https://www.latimes.com/environment/story/2026-05-23/some-experts-say-theyve-never-seen-bees-swarm-so-early-thats-concerning",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-23T10:00:00.000Z"
+		},
+		{
+			"headline": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities",
+			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-23T10:00:00.000Z"
 		},
 		{
 			"headline": "Fire tearing through Santa Rosa Island reaches critically endangered trees",
@@ -134,22 +110,16 @@
 			"publishedAt": "2026-05-20T10:00:00.000Z"
 		},
 		{
-			"headline": "Santa Monica Pier area among the dirtiest beaches again in new Beach Report Card",
-			"url": "https://www.latimes.com/california/story/2026-05-20/santa-monica-pier-dirtiest-beaches-10th-year-beach-report-card",
+			"headline": "Fires ring Southern California and it's only May. What's going on?",
+			"url": "https://www.latimes.com/california/story/2026-05-20/california-early-fire-season-climate-change",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T17:00:00.000Z"
+			"publishedAt": "2026-05-20T22:28:02.000Z"
 		},
 		{
 			"headline": "How a SoCal native became one of NASA's most valuable assets",
 			"url": "https://www.latimes.com/science/story/2026-05-20/how-california-native-became-nasa-asset",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-20T10:00:00.000Z"
-		},
-		{
-			"headline": "Containment grows on Sandy fire, other SoCal blazes. But shifting winds pose challenge",
-			"url": "https://www.latimes.com/california/story/2026-05-20/socal-fire-containment-acres",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-20T18:03:33.000Z"
 		}
 	]
 }
