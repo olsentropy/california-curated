@@ -1,23 +1,11 @@
 {
-	"lastUpdated": "2026-05-27T01:57:41.369Z",
+	"lastUpdated": "2026-05-27T07:53:57.427Z",
 	"items": [
 		{
-			"headline": "Orange County leaders say previously evacuated area is safe. Experts say risks linger",
-			"url": "https://www.latimes.com/environment/story/2026-05-26/orange-county-leaders-say-previously-evacuated-area-is-safe-experts-say-risks-still-linger",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-26T23:02:42.000Z"
-		},
-		{
-			"headline": "Could Avocados Be A Transformational Fruit for the Bay Region?",
-			"url": "https://baynature.org/2026/05/26/conservation/biodiversity/could-avocados-be-a-transformational-fruit-for-the-bay-region/",
+			"headline": "Black Birders Week Takes Flight in the East Bay",
+			"url": "https://baynature.org/2026/05/27/science-nature/wildlife/black-birders-week-takes-flight-in-the-east-bay/",
 			"source": "Bay Nature",
-			"publishedAt": "2026-05-26T21:47:13.000Z"
-		},
-		{
-			"headline": "Cooling system at chemical tanks likely failed, forcing mass O.C. evacuations, fire officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-26/chemical-tank-cooling-system-likely-failed",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-26T21:03:37.000Z"
+			"publishedAt": "2026-05-27T07:39:44.000Z"
 		},
 		{
 			"headline": "Single Tissue Snapshot Reveals Biological Processes Unfolding Over Time",
@@ -26,16 +14,22 @@
 			"publishedAt": "2026-05-26T20:46:16.826Z"
 		},
 		{
+			"headline": "Could Avocados Be A Transformational Fruit for the Bay Region?",
+			"url": "https://baynature.org/2026/05/26/conservation/biodiversity/could-avocados-be-a-transformational-fruit-for-the-bay-region/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-26T21:47:13.000Z"
+		},
+		{
+			"headline": "How worried should you be about Ebola?",
+			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-26T18:38:05.000Z"
+		},
+		{
 			"headline": "'May Gray has leveled up': Southern California can expect a cloudy, drizzly week",
 			"url": "https://www.latimes.com/california/story/2026-05-26/may-gray-week-in-socal",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-26T17:31:35.000Z"
-		},
-		{
-			"headline": "Photos: Garden Grove chemical crisis highlights the danger of living near industrial companies",
-			"url": "https://www.latimes.com/california/story/2026-05-26/photos-of-garden-grove-chemical-crisis",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-26T16:57:58.000Z"
 		},
 		{
 			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
@@ -44,58 +38,16 @@
 			"publishedAt": "2026-05-26T16:00:22.000Z"
 		},
 		{
-			"headline": "Most O.C. residents forced by chemical crisis to evacuate can return home, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-26/o-c-communities-hit-by-chemical-crisis-are-safe-for-return-officials-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-26T11:16:01.000Z"
-		},
-		{
-			"headline": "Recycled Rocks Reveal Subduction Zone Dynamics Off Baja California",
-			"url": "https://eos.org/editor-highlights/recycled-rocks-reveal-subduction-zone-dynamics-off-baja-california",
-			"source": "Eos",
-			"publishedAt": "2026-05-21T13:53:16.000Z"
-		},
-		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
 			"url": "https://www.latimes.com/environment/story/2026-05-25/california-more-local-water",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-25T10:00:00.000Z"
 		},
 		{
-			"headline": "Threat of massive explosion in Garden Grove 'eliminated' but danger remains, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-25/threat-of-massive-explosion-eliminated-but-danger-remains",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-25T23:55:45.000Z"
-		},
-		{
 			"headline": "Oil-covered birds rescued after pipeline rupture sends crude into L.A. River",
 			"url": "https://www.latimes.com/california/story/2026-05-24/oil-covered-birds-rescued-pipeline-rupture-la-river",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-25T01:43:42.000Z"
-		},
-		{
-			"headline": "The next few hours critical in battle to prevent O.C. chemical explosion",
-			"url": "https://www.latimes.com/california/story/2026-05-24/failing-orange-county-chemical-tank-rises-to-100-degrees-maximum-temperature-on-gauge",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-25T03:40:49.000Z"
-		},
-		{
-			"headline": "Crews knock down South Gate fire at tire recycling center that prompted shelter-in-place order",
-			"url": "https://www.latimes.com/california/story/2026-05-24/raging-south-gate-industrial-fire-prompts-shelter-in-place-order",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-24T23:49:09.000Z"
-		},
-		{
-			"headline": "Potential crack found on Garden Grove chemical tank, reducing explosion risk",
-			"url": "https://www.latimes.com/california/story/2026-05-24/garden-grove-chemical-tank-crack-reduces-explosion-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-24T22:56:21.000Z"
-		},
-		{
-			"headline": "California chemical tank has cracked, causing state of emergency, thousands to evacuate",
-			"url": "https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate",
-			"source": "NPR Science",
-			"publishedAt": "2026-05-24T22:14:42.000Z"
 		},
 		{
 			"headline": "Defying Trump, California continues to bet big on offshore wind",
@@ -116,40 +68,88 @@
 			"publishedAt": "2026-05-23T10:00:00.000Z"
 		},
 		{
-			"headline": "Why is Orange County chemical tank crisis so hard to fix?",
-			"url": "https://www.latimes.com/california/story/2026-05-23/why-is-orange-county-chemical-tank-crisis-so-hard-to-fix",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Garden Grove's chemical crisis: Thousands flee as conditions worsen at damaged tank",
-			"url": "https://www.latimes.com/california/story/2026-05-23/garden-grove-chemical-crisis-newsom-declares-emergency-as-thousands-flee",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T23:20:19.000Z"
-		},
-		{
-			"headline": "Thousands flee their homes in O.C., unsure when they can return",
-			"url": "https://www.latimes.com/california/story/2026-05-23/thousands-flee-their-homes-in-o-c-unsure-when-they-can-return",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T23:14:39.000Z"
-		},
-		{
-			"headline": "A night of fear, confusion as thousands flee their homes in O.C. amid chemical crisis",
-			"url": "https://www.latimes.com/california/story/2026-05-22/night-of-fear-confusion-as-thousands-flee-their-homes-in-o-c-amid-chemical-crisis",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T05:05:47.000Z"
-		},
-		{
-			"headline": "Officials say a chemical explosion in Orange County could be catastrophic. Here's why.",
-			"url": "https://www.latimes.com/california/story/2026-05-22/why-garden-grove-chemical-explosion-could-be-so-catastrophic",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T23:55:41.000Z"
-		},
-		{
 			"headline": "Caltech could lose control of JPL for the first time",
 			"url": "https://www.latimes.com/science/story/2026-05-22/caltech-could-lose-control-of-jpl-for-first-time-in-decades",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-22T23:53:46.000Z"
+		},
+		{
+			"headline": "Tuning Into Quantum Sounds",
+			"url": "https://www.caltech.edu/about/news/tuning-into-quantum-sounds",
+			"source": "Caltech",
+			"publishedAt": "2026-05-22T21:48:00.000Z"
+		},
+		{
+			"headline": "California gets $27.5 million to find and replace toxic lead pipes that deliver water to homes",
+			"url": "https://www.latimes.com/california/story/2026-05-22/california-gets-27-5-million-to-find-replace-lead-pipes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-22T19:31:26.000Z"
+		},
+		{
+			"headline": "No parking at Big Sur bridge? County considers restrictions at famous California Highway 1 stop",
+			"url": "https://www.latimes.com/california/story/2026-05-22/officials-plan-parking-restrictions-around-big-surs-bixby-bridge",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-22T18:08:56.000Z"
+		},
+		{
+			"headline": "Sandy fire burns near former nuclear test site, triggering air monitoring efforts",
+			"url": "https://www.latimes.com/california/story/2026-05-21/sandy-fire-burns-near-former-nuclear-test-site-officials-monitor-air",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-22T01:30:10.000Z"
+		},
+		{
+			"headline": "Crude oil spills onto Cesar Chavez Avenue in East L.A. after pipeline rupture",
+			"url": "https://www.latimes.com/california/story/2026-05-22/east-la-oil-spill",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-22T15:30:22.000Z"
+		},
+		{
+			"headline": "Recycled Rocks Reveal Subduction Zone Dynamics Off Baja California",
+			"url": "https://eos.org/editor-highlights/recycled-rocks-reveal-subduction-zone-dynamics-off-baja-california",
+			"source": "Eos",
+			"publishedAt": "2026-05-21T13:53:16.000Z"
+		},
+		{
+			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
+			"url": "https://www.latimes.com/california/story/2026-05-21/ai-gray-whale-ship-strikes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T21:03:26.000Z"
+		},
+		{
+			"headline": "Hi-res microscopes give biologists petabytes of data. Scientists are creating an AI assistant to make sense of it.",
+			"url": "https://news.berkeley.edu/2026/05/22/hi-res-microscopes-give-biologists-petabytes-of-data-scientists-are-creating-an-ai-assistant-to-make-sense-of-it/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-22T09:00:00.000Z"
+		},
+		{
+			"headline": "MBARI researchers share latest seafloor science and technology at GeoHab 2026 conference",
+			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-seafloor-science-and-technology-at-geohab-2026-conference/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-21T16:00:38.000Z"
+		},
+		{
+			"headline": "Multiple wildfires trigger unhealthful air quality alert in Southern California",
+			"url": "https://www.latimes.com/california/story/2026-05-21/socal-wildfire-smoke-advisory",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T15:45:23.000Z"
+		},
+		{
+			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/feds-declare-eaton-fire-cleanup-success-testing-shows-otherwise",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T18:03:58.000Z"
+		},
+		{
+			"headline": "Salmon are at risk with federal plans to give farmers more water from Shasta Lake, critics warn",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/california-water-salmon-trump-dam-plan",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T10:00:00.000Z"
+		},
+		{
+			"headline": "Older AC and fridge chemicals amp up climate change. Trump just rolled back limits on them",
+			"url": "https://www.latimes.com/environment/story/2026-05-21/older-ac-fridge-chemicals-amp-up-climate-change-trump-just-rolled-back-limits-on-them",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-21T17:35:49.000Z"
 		}
 	]
 }
