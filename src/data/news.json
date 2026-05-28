@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-28T07:45:48.445Z",
+	"lastUpdated": "2026-05-28T11:26:39.958Z",
 	"items": [
 		{
 			"headline": "Late-season snow helps Mammoth Mountain extend skiing season",
@@ -14,10 +14,40 @@
 			"publishedAt": "2026-05-27T18:30:38.000Z"
 		},
 		{
+			"headline": "Toddler and father stranded in snow during bike ride in Lake Tahoe high country",
+			"url": "https://www.latimes.com/california/story/2026-05-27/toddler-father-stranded-in-snow-during-bike-ride-in-lake-tahoe-high-country",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T18:08:27.000Z"
+		},
+		{
+			"headline": "Garden Grove crisis exposes Southern California's hidden industrial risks",
+			"url": "https://www.latimes.com/environment/story/2026-05-27/garden-grove-crises-exposes-southern-californias-hidden-industrial-risks",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T18:07:51.000Z"
+		},
+		{
 			"headline": "Point Reyes Is 'Reimagining' Its Trails, and Wants Your Input",
 			"url": "https://baynature.org/2026/05/27/explore/trails/point-reyes-is-reimagining-its-trails-and-wants-your-input/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-27T16:37:00.000Z"
+		},
+		{
+			"headline": "Arellano: O.C.'s most overlooked city weathers chemical crisis",
+			"url": "https://www.latimes.com/california/story/2026-05-28/stanton-chemical-crisis-gkn-aerospace",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-28T10:00:00.000Z"
+		},
+		{
+			"headline": "O.C. chemical crisis prompts safety-record review, Newsom says",
+			"url": "https://www.latimes.com/california/story/2026-05-27/o-c-chemical-crisis-prompts-safety-record-review-newsom-says",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-28T02:28:22.000Z"
+		},
+		{
+			"headline": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM applicants",
+			"url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T22:31:16.000Z"
 		},
 		{
 			"headline": "Black Birders Week Takes Flight in the Bay Area",
@@ -32,22 +62,22 @@
 			"publishedAt": "2026-05-27T03:08:28.000Z"
 		},
 		{
-			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
-			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-26T16:00:22.000Z"
-		},
-		{
 			"headline": "Orange County leaders say previously evacuated area is safe. Experts say risks linger",
 			"url": "https://www.latimes.com/environment/story/2026-05-26/orange-county-leaders-say-previously-evacuated-area-is-safe-experts-say-risks-still-linger",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-26T23:02:42.000Z"
 		},
 		{
-			"headline": "Garden Grove crisis exposes Southern California's hidden industrial risks",
-			"url": "https://www.latimes.com/environment/story/2026-05-27/garden-grove-crises-exposes-southern-californias-hidden-industrial-risks",
+			"headline": "The Indigenous Exhibit That Trump Failed To Stop",
+			"url": "https://baynature.org/2026/05/26/latest-stories/the-indigenous-exhibit-that-trump-failed-to-stop/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-26T21:33:21.000Z"
+		},
+		{
+			"headline": "Cooling system at chemical tanks likely failed, forcing mass O.C. evacuations, fire officials say",
+			"url": "https://www.latimes.com/california/story/2026-05-26/chemical-tank-cooling-system-likely-failed",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T18:07:51.000Z"
+			"publishedAt": "2026-05-26T21:03:37.000Z"
 		},
 		{
 			"headline": "Most O.C. residents forced by chemical crisis to evacuate can return home, officials say",
@@ -60,6 +90,18 @@
 			"url": "https://www.latimes.com/california/story/2026-05-26/may-gray-week-in-socal",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-26T17:31:35.000Z"
+		},
+		{
+			"headline": "Photos: Garden Grove chemical crisis highlights the danger of living near industrial companies",
+			"url": "https://www.latimes.com/california/story/2026-05-26/photos-of-garden-grove-chemical-crisis",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-26T16:57:58.000Z"
+		},
+		{
+			"headline": "How worried should you be about Ebola?",
+			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-26T18:38:05.000Z"
 		},
 		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
@@ -78,6 +120,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-24/defying-trump-california-continues-to-bet-big-on-offshore-wind",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-24T10:00:00.000Z"
+		},
+		{
+			"headline": "California chemical tank has cracked, causing state of emergency, thousands to evacuate",
+			"url": "https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate",
+			"source": "NPR Science",
+			"publishedAt": "2026-05-24T22:14:42.000Z"
 		},
 		{
 			"headline": "Caltech could lose control of JPL for the first time",
@@ -102,54 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-05-21/sandy-fire-burns-near-former-nuclear-test-site-officials-monitor-air",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-22T01:30:10.000Z"
-		},
-		{
-			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
-			"url": "https://www.latimes.com/california/story/2026-05-21/ai-gray-whale-ship-strikes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T21:03:26.000Z"
-		},
-		{
-			"headline": "Hi-res microscopes give biologists petabytes of data. Scientists are creating an AI assistant to make sense of it.",
-			"url": "https://news.berkeley.edu/2026/05/22/hi-res-microscopes-give-biologists-petabytes-of-data-scientists-are-creating-an-ai-assistant-to-make-sense-of-it/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-22T09:00:00.000Z"
-		},
-		{
-			"headline": "Feds declare Eaton fire was a cleanup success. Their testing shows otherwise",
-			"url": "https://www.latimes.com/environment/story/2026-05-21/feds-declare-eaton-fire-cleanup-success-testing-shows-otherwise",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T18:03:58.000Z"
-		},
-		{
-			"headline": "The largest study of AI use by undergrads is in, revealing disparities in access — and in cheating",
-			"url": "https://news.berkeley.edu/2026/05/21/the-largest-study-of-ai-use-by-undergrads-is-in-revealing-disparities-in-access-and-in-cheating/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-21T18:00:00.000Z"
-		},
-		{
-			"headline": "MBARI researchers share latest seafloor science and technology at GeoHab 2026 conference",
-			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-seafloor-science-and-technology-at-geohab-2026-conference/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-21T16:00:38.000Z"
-		},
-		{
-			"headline": "Older AC and fridge chemicals amp up climate change. Trump just rolled back limits on them",
-			"url": "https://www.latimes.com/environment/story/2026-05-21/older-ac-fridge-chemicals-amp-up-climate-change-trump-just-rolled-back-limits-on-them",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T17:35:49.000Z"
-		},
-		{
-			"headline": "How worried should you be about Ebola?",
-			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-26T18:38:05.000Z"
-		},
-		{
-			"headline": "Some experts say they've never seen bees swarm so early — and that's concerning",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/some-experts-say-theyve-never-seen-bees-swarm-so-early-thats-concerning",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
 		}
 	]
 }
