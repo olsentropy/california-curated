@@ -13,7 +13,7 @@ categories:
 tags:
   - '#GreenSeaTurtles, #SanGabrielRiver, #LongBeach, #CaliforniaWildlife, #SeaTurtles, #LosCerritosWetlands, #UrbanWildlife, #OceanConservation, #SouthernCalifornia, #CaliforniaCurated'
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 It’s one of the strangest and coolest wildlife stories in Southern California: green sea turtles are living and thriving at the mouth of the San Gabriel River. A big, urban, ugly concrete river in the middle of LA. Well, or Orange County. Or both, since the river is the boundary between the two counties.
