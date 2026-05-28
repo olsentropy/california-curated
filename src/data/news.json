@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-05-27T21:31:20.410Z",
+	"lastUpdated": "2026-05-28T01:29:44.919Z",
 	"items": [
+		{
+			"headline": "Late-season snow helps Mammoth Mountain extend skiing season",
+			"url": "https://www.latimes.com/california/story/2026-05-27/late-season-snow-helps-mammoth-mountain-extend-skiing-season",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T23:03:56.000Z"
+		},
 		{
 			"headline": "Three UC Berkeley faculty members elected to UK's Royal Society",
 			"url": "https://news.berkeley.edu/2026/05/27/three-uc-berkeley-faculty-members-elected-to-uks-royal-society/",
@@ -12,6 +18,12 @@
 			"url": "https://baynature.org/2026/05/27/explore/trails/point-reyes-is-reimagining-its-trails-and-wants-your-input/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-27T16:37:00.000Z"
+		},
+		{
+			"headline": "Garden Grove crisis exposes Southern California's hidden industrial risks",
+			"url": "https://www.latimes.com/environment/story/2026-05-27/garden-grove-crises-exposes-southern-californias-hidden-industrial-risks",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T18:07:51.000Z"
 		},
 		{
 			"headline": "Black Birders Week Takes Flight in the Bay Area",
@@ -26,12 +38,6 @@
 			"publishedAt": "2026-05-26T20:46:16.826Z"
 		},
 		{
-			"headline": "How worried should you be about Ebola?",
-			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-26T18:38:05.000Z"
-		},
-		{
 			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
 			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
 			"source": "MBARI",
@@ -44,22 +50,40 @@
 			"publishedAt": "2026-05-25T10:00:00.000Z"
 		},
 		{
-			"headline": "Defying Trump, California continues to bet big on offshore wind",
-			"url": "https://www.latimes.com/environment/story/2026-05-24/defying-trump-california-continues-to-bet-big-on-offshore-wind",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-24T10:00:00.000Z"
-		},
-		{
-			"headline": "Oil-covered birds rescued after pipeline rupture sends crude into L.A. River",
-			"url": "https://www.latimes.com/california/story/2026-05-24/oil-covered-birds-rescued-pipeline-rupture-la-river",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-25T01:43:42.000Z"
+			"headline": "How worried should you be about Ebola?",
+			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-26T18:38:05.000Z"
 		},
 		{
 			"headline": "California chemical tank has cracked, causing state of emergency, thousands to evacuate",
 			"url": "https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate",
 			"source": "NPR Science",
 			"publishedAt": "2026-05-24T22:14:42.000Z"
+		},
+		{
+			"headline": "Defying Trump, California continues to bet big on offshore wind",
+			"url": "https://www.latimes.com/environment/story/2026-05-24/defying-trump-california-continues-to-bet-big-on-offshore-wind",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-24T10:00:00.000Z"
+		},
+		{
+			"headline": "Some experts say they've never seen bees swarm so early — and that's concerning",
+			"url": "https://www.latimes.com/environment/story/2026-05-23/some-experts-say-theyve-never-seen-bees-swarm-so-early-thats-concerning",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-23T10:00:00.000Z"
+		},
+		{
+			"headline": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities",
+			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-23T10:00:00.000Z"
+		},
+		{
+			"headline": "Why is Orange County chemical tank crisis so hard to fix?",
+			"url": "https://www.latimes.com/california/story/2026-05-23/why-is-orange-county-chemical-tank-crisis-so-hard-to-fix",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-23T10:00:00.000Z"
 		},
 		{
 			"headline": "Caltech could lose control of JPL for the first time",
@@ -86,16 +110,10 @@
 			"publishedAt": "2026-05-22T18:08:56.000Z"
 		},
 		{
-			"headline": "Sandy fire burns near former nuclear test site, triggering air monitoring efforts",
-			"url": "https://www.latimes.com/california/story/2026-05-21/sandy-fire-burns-near-former-nuclear-test-site-officials-monitor-air",
+			"headline": "Crude oil spills onto Cesar Chavez Avenue in East L.A. after pipeline rupture",
+			"url": "https://www.latimes.com/california/story/2026-05-22/east-la-oil-spill",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T01:30:10.000Z"
-		},
-		{
-			"headline": "Hi-res microscopes give biologists petabytes of data. Scientists are creating an AI assistant to make sense of it.",
-			"url": "https://news.berkeley.edu/2026/05/22/hi-res-microscopes-give-biologists-petabytes-of-data-scientists-are-creating-an-ai-assistant-to-make-sense-of-it/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-22T09:00:00.000Z"
+			"publishedAt": "2026-05-22T15:30:22.000Z"
 		},
 		{
 			"headline": "Scientists bet on AI to save gray whales from ship strikes off California coast",
@@ -132,24 +150,6 @@
 			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-seafloor-science-and-technology-at-geohab-2026-conference/",
 			"source": "MBARI",
 			"publishedAt": "2026-05-21T16:00:38.000Z"
-		},
-		{
-			"headline": "Multiple wildfires trigger unhealthful air quality alert in Southern California",
-			"url": "https://www.latimes.com/california/story/2026-05-21/socal-wildfire-smoke-advisory",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-21T15:45:23.000Z"
-		},
-		{
-			"headline": "Recycled Rocks Reveal Subduction Zone Dynamics Off Baja California",
-			"url": "https://eos.org/editor-highlights/recycled-rocks-reveal-subduction-zone-dynamics-off-baja-california",
-			"source": "Eos",
-			"publishedAt": "2026-05-21T13:53:16.000Z"
-		},
-		{
-			"headline": "Some experts say they've never seen bees swarm so early — and that's concerning",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/some-experts-say-theyve-never-seen-bees-swarm-so-early-thats-concerning",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
 		}
 	]
 }
