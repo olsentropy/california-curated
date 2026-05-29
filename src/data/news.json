@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-29T11:00:50.037Z",
+	"lastUpdated": "2026-05-29T14:31:12.921Z",
 	"items": [
 		{
 			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
@@ -20,6 +20,18 @@
 			"publishedAt": "2026-05-28T20:43:41.000Z"
 		},
 		{
+			"headline": "Murder suspect got into fight with his mom before killing Caltech astrophysicist, officials say",
+			"url": "https://www.latimes.com/california/story/2026-05-28/murder-suspect-fought-with-mom-before-killing-caltech-astrophysicist-officials-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-28T20:19:40.000Z"
+		},
+		{
+			"headline": "Homeless encampment sweeps spiked in Oakland after Supreme Court decision",
+			"url": "https://news.berkeley.edu/2026/05/28/homeless-encampment-sweeps-spiked-in-oakland-after-supreme-court-decision/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-28T20:15:40.000Z"
+		},
+		{
 			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
 			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
 			"source": "Los Angeles Times",
@@ -32,12 +44,6 @@
 			"publishedAt": "2026-05-27T18:30:38.000Z"
 		},
 		{
-			"headline": "Point Reyes Is 'Reimagining' Its Trails, and Wants Your Input",
-			"url": "https://baynature.org/2026/05/27/explore/trails/point-reyes-is-reimagining-its-trails-and-wants-your-input/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-27T16:37:00.000Z"
-		},
-		{
 			"headline": "Toddler and father stranded in snow during bike ride in Lake Tahoe high country",
 			"url": "https://www.latimes.com/california/story/2026-05-27/toddler-father-stranded-in-snow-during-bike-ride-in-lake-tahoe-high-country",
 			"source": "Los Angeles Times",
@@ -48,6 +54,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-27/garden-grove-crises-exposes-southern-californias-hidden-industrial-risks",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-27T18:07:51.000Z"
+		},
+		{
+			"headline": "Point Reyes Is 'Reimagining' Its Trails, and Wants Your Input",
+			"url": "https://baynature.org/2026/05/27/explore/trails/point-reyes-is-reimagining-its-trails-and-wants-your-input/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-27T16:37:00.000Z"
 		},
 		{
 			"headline": "Industry knew about chemical 'runaway' dangers for years. Then came near-catastrophe in O.C.",
@@ -68,22 +80,34 @@
 			"publishedAt": "2026-05-26T20:46:16.826Z"
 		},
 		{
-			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
-			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-26T16:00:22.000Z"
-		},
-		{
 			"headline": "How worried should you be about Ebola?",
 			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-26T18:38:05.000Z"
 		},
 		{
+			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
+			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-26T16:00:22.000Z"
+		},
+		{
+			"headline": "The Indigenous Exhibit That Trump Failed To Stop",
+			"url": "https://baynature.org/2026/05/26/latest-stories/the-indigenous-exhibit-that-trump-failed-to-stop/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-26T21:33:21.000Z"
+		},
+		{
 			"headline": "'May Gray has leveled up': Southern California can expect a cloudy, drizzly week",
 			"url": "https://www.latimes.com/california/story/2026-05-26/may-gray-week-in-socal",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-26T17:31:35.000Z"
+		},
+		{
+			"headline": "Most O.C. residents forced by chemical crisis to evacuate can return home, officials say",
+			"url": "https://www.latimes.com/california/story/2026-05-26/o-c-communities-hit-by-chemical-crisis-are-safe-for-return-officials-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-26T11:16:01.000Z"
 		},
 		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
@@ -116,28 +140,16 @@
 			"publishedAt": "2026-05-23T10:00:00.000Z"
 		},
 		{
-			"headline": "Inspired by Jane Goodall, students build nurseries to reforest L.A.'s fire-scorched communities",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/students-build-nurseries-to-reforest-burnt-l-a-inspired-by-jane-goodall",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Why is Orange County chemical tank crisis so hard to fix?",
-			"url": "https://www.latimes.com/california/story/2026-05-23/why-is-orange-county-chemical-tank-crisis-so-hard-to-fix",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
-		},
-		{
 			"headline": "Late-season snow helps Mammoth Mountain extend skiing season",
 			"url": "https://www.latimes.com/california/story/2026-05-27/late-season-snow-helps-mammoth-mountain-extend-skiing-season",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-27T23:03:56.000Z"
 		},
 		{
-			"headline": "The Indigenous Exhibit That Trump Failed To Stop",
-			"url": "https://baynature.org/2026/05/26/latest-stories/the-indigenous-exhibit-that-trump-failed-to-stop/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-26T21:33:21.000Z"
+			"headline": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM applicants",
+			"url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T22:31:16.000Z"
 		}
 	]
 }
