@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-29T07:43:25.894Z",
+	"lastUpdated": "2026-05-29T11:00:50.037Z",
 	"items": [
 		{
 			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
@@ -20,6 +20,12 @@
 			"publishedAt": "2026-05-28T20:43:41.000Z"
 		},
 		{
+			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
+			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-29T00:08:45.000Z"
+		},
+		{
 			"headline": "Three UC Berkeley faculty members elected to UK's Royal Society",
 			"url": "https://news.berkeley.edu/2026/05/27/three-uc-berkeley-faculty-members-elected-to-uks-royal-society/",
 			"source": "UC Berkeley News",
@@ -32,16 +38,28 @@
 			"publishedAt": "2026-05-27T16:37:00.000Z"
 		},
 		{
+			"headline": "Toddler and father stranded in snow during bike ride in Lake Tahoe high country",
+			"url": "https://www.latimes.com/california/story/2026-05-27/toddler-father-stranded-in-snow-during-bike-ride-in-lake-tahoe-high-country",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T18:08:27.000Z"
+		},
+		{
+			"headline": "Garden Grove crisis exposes Southern California's hidden industrial risks",
+			"url": "https://www.latimes.com/environment/story/2026-05-27/garden-grove-crises-exposes-southern-californias-hidden-industrial-risks",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T18:07:51.000Z"
+		},
+		{
+			"headline": "Industry knew about chemical 'runaway' dangers for years. Then came near-catastrophe in O.C.",
+			"url": "https://www.latimes.com/california/story/2026-05-27/industry-was-warned-for-years-about-chemical-runaway-dangers-then-came-near-catastrophe-in-o-c",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T10:00:00.000Z"
+		},
+		{
 			"headline": "Black Birders Week Takes Flight in the Bay Area",
 			"url": "https://baynature.org/2026/05/27/science-nature/wildlife/black-birders-week-takes-flight-in-the-east-bay/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-27T07:39:44.000Z"
-		},
-		{
-			"headline": "How worried should you be about Ebola?",
-			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-26T18:38:05.000Z"
 		},
 		{
 			"headline": "Single Tissue Snapshot Reveals Biological Processes Unfolding Over Time",
@@ -56,10 +74,34 @@
 			"publishedAt": "2026-05-26T16:00:22.000Z"
 		},
 		{
+			"headline": "How worried should you be about Ebola?",
+			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-26T18:38:05.000Z"
+		},
+		{
+			"headline": "'May Gray has leveled up': Southern California can expect a cloudy, drizzly week",
+			"url": "https://www.latimes.com/california/story/2026-05-26/may-gray-week-in-socal",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-26T17:31:35.000Z"
+		},
+		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
 			"url": "https://www.latimes.com/environment/story/2026-05-25/california-more-local-water",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-25T10:00:00.000Z"
+		},
+		{
+			"headline": "Oil-covered birds rescued after pipeline rupture sends crude into L.A. River",
+			"url": "https://www.latimes.com/california/story/2026-05-24/oil-covered-birds-rescued-pipeline-rupture-la-river",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-25T01:43:42.000Z"
+		},
+		{
+			"headline": "California chemical tank has cracked, causing state of emergency, thousands to evacuate",
+			"url": "https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate",
+			"source": "NPR Science",
+			"publishedAt": "2026-05-24T22:14:42.000Z"
 		},
 		{
 			"headline": "Defying Trump, California continues to bet big on offshore wind",
@@ -80,34 +122,16 @@
 			"publishedAt": "2026-05-23T10:00:00.000Z"
 		},
 		{
-			"headline": "Caltech could lose control of JPL for the first time",
-			"url": "https://www.latimes.com/science/story/2026-05-22/caltech-could-lose-control-of-jpl-for-first-time-in-decades",
+			"headline": "Why is Orange County chemical tank crisis so hard to fix?",
+			"url": "https://www.latimes.com/california/story/2026-05-23/why-is-orange-county-chemical-tank-crisis-so-hard-to-fix",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T23:53:46.000Z"
-		},
-		{
-			"headline": "Tuning Into Quantum Sounds",
-			"url": "https://www.caltech.edu/about/news/tuning-into-quantum-sounds",
-			"source": "Caltech",
-			"publishedAt": "2026-05-22T21:48:00.000Z"
-		},
-		{
-			"headline": "California gets $27.5 million to find and replace toxic lead pipes that deliver water to homes",
-			"url": "https://www.latimes.com/california/story/2026-05-22/california-gets-27-5-million-to-find-replace-lead-pipes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T19:31:26.000Z"
+			"publishedAt": "2026-05-23T10:00:00.000Z"
 		},
 		{
 			"headline": "Late-season snow helps Mammoth Mountain extend skiing season",
 			"url": "https://www.latimes.com/california/story/2026-05-27/late-season-snow-helps-mammoth-mountain-extend-skiing-season",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-27T23:03:56.000Z"
-		},
-		{
-			"headline": "Toddler and father stranded in snow during bike ride in Lake Tahoe high country",
-			"url": "https://www.latimes.com/california/story/2026-05-27/toddler-father-stranded-in-snow-during-bike-ride-in-lake-tahoe-high-country",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T18:08:27.000Z"
 		},
 		{
 			"headline": "The Indigenous Exhibit That Trump Failed To Stop",
