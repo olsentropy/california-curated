@@ -1,11 +1,23 @@
 {
-	"lastUpdated": "2026-05-28T21:48:08.257Z",
+	"lastUpdated": "2026-05-29T01:50:54.123Z",
 	"items": [
+		{
+			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
+			"url": "https://www.mbari.org/news/mbari-and-monterey-bay-aquarium-complete-expedition-to-guide-seamount/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-28T23:35:58.000Z"
+		},
 		{
 			"headline": "Chan and Elowitz Named to Great Britain's Royal Society",
 			"url": "https://www.caltech.edu/about/news/chan-and-elowitz-named-to-great-britains-royal-society",
 			"source": "Caltech",
 			"publishedAt": "2026-05-28T21:19:24.202Z"
+		},
+		{
+			"headline": "How do Californians tolerate extreme inequality?",
+			"url": "https://news.berkeley.edu/2026/05/28/how-do-californians-tolerate-extreme-inequality/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-28T20:43:41.000Z"
 		},
 		{
 			"headline": "Three UC Berkeley faculty members elected to UK's Royal Society",
@@ -32,28 +44,22 @@
 			"publishedAt": "2026-05-26T18:38:05.000Z"
 		},
 		{
-			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
-			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-26T16:00:22.000Z"
-		},
-		{
 			"headline": "Single Tissue Snapshot Reveals Biological Processes Unfolding Over Time",
 			"url": "https://www.caltech.edu/about/news/single-tissue-snapshot-reveals-biological-processes-unfolding-over-time",
 			"source": "Caltech",
 			"publishedAt": "2026-05-26T20:46:16.826Z"
 		},
 		{
+			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
+			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-26T16:00:22.000Z"
+		},
+		{
 			"headline": "The Indigenous Exhibit That Trump Failed To Stop",
 			"url": "https://baynature.org/2026/05/26/latest-stories/the-indigenous-exhibit-that-trump-failed-to-stop/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-26T21:33:21.000Z"
-		},
-		{
-			"headline": "Late-season snow helps Mammoth Mountain extend skiing season",
-			"url": "https://www.latimes.com/california/story/2026-05-27/late-season-snow-helps-mammoth-mountain-extend-skiing-season",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T23:03:56.000Z"
 		},
 		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
@@ -80,42 +86,6 @@
 			"publishedAt": "2026-05-23T10:00:00.000Z"
 		},
 		{
-			"headline": "Garden Grove's chemical crisis: Thousands flee as conditions worsen at damaged tank",
-			"url": "https://www.latimes.com/california/story/2026-05-23/garden-grove-chemical-crisis-newsom-declares-emergency-as-thousands-flee",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T23:20:19.000Z"
-		},
-		{
-			"headline": "California chemical tank has cracked, causing state of emergency, thousands to evacuate",
-			"url": "https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate",
-			"source": "NPR Science",
-			"publishedAt": "2026-05-24T22:14:42.000Z"
-		},
-		{
-			"headline": "Oil-covered birds rescued after pipeline rupture sends crude into L.A. River",
-			"url": "https://www.latimes.com/california/story/2026-05-24/oil-covered-birds-rescued-pipeline-rupture-la-river",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-25T01:43:42.000Z"
-		},
-		{
-			"headline": "Crude oil spills onto Cesar Chavez Avenue in East L.A. after pipeline rupture",
-			"url": "https://www.latimes.com/california/story/2026-05-22/east-la-oil-spill",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T15:30:22.000Z"
-		},
-		{
-			"headline": "California gets $27.5 million to find and replace toxic lead pipes that deliver water to homes",
-			"url": "https://www.latimes.com/california/story/2026-05-22/california-gets-27-5-million-to-find-replace-lead-pipes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T19:31:26.000Z"
-		},
-		{
-			"headline": "No parking at Big Sur bridge? County considers restrictions at famous California Highway 1 stop",
-			"url": "https://www.latimes.com/california/story/2026-05-22/officials-plan-parking-restrictions-around-big-surs-bixby-bridge",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T18:08:56.000Z"
-		},
-		{
 			"headline": "Caltech could lose control of JPL for the first time",
 			"url": "https://www.latimes.com/science/story/2026-05-22/caltech-could-lose-control-of-jpl-for-first-time-in-decades",
 			"source": "Los Angeles Times",
@@ -128,22 +98,16 @@
 			"publishedAt": "2026-05-22T21:48:00.000Z"
 		},
 		{
-			"headline": "Toddler and father stranded in snow during bike ride in Lake Tahoe high country",
-			"url": "https://www.latimes.com/california/story/2026-05-27/toddler-father-stranded-in-snow-during-bike-ride-in-lake-tahoe-high-country",
+			"headline": "California gets $27.5 million to find and replace toxic lead pipes that deliver water to homes",
+			"url": "https://www.latimes.com/california/story/2026-05-22/california-gets-27-5-million-to-find-replace-lead-pipes",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T18:08:27.000Z"
+			"publishedAt": "2026-05-22T19:31:26.000Z"
 		},
 		{
-			"headline": "Garden Grove crisis exposes Southern California's hidden industrial risks",
-			"url": "https://www.latimes.com/environment/story/2026-05-27/garden-grove-crises-exposes-southern-californias-hidden-industrial-risks",
+			"headline": "No parking at Big Sur bridge? County considers restrictions at famous California Highway 1 stop",
+			"url": "https://www.latimes.com/california/story/2026-05-22/officials-plan-parking-restrictions-around-big-surs-bixby-bridge",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T18:07:51.000Z"
-		},
-		{
-			"headline": "O.C. chemical crisis prompts safety-record review, Newsom says",
-			"url": "https://www.latimes.com/california/story/2026-05-27/o-c-chemical-crisis-prompts-safety-record-review-newsom-says",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-28T02:28:22.000Z"
+			"publishedAt": "2026-05-22T18:08:56.000Z"
 		}
 	]
 }
