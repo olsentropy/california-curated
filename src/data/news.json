@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-29T01:50:54.123Z",
+	"lastUpdated": "2026-05-29T07:43:25.894Z",
 	"items": [
 		{
 			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
@@ -56,12 +56,6 @@
 			"publishedAt": "2026-05-26T16:00:22.000Z"
 		},
 		{
-			"headline": "The Indigenous Exhibit That Trump Failed To Stop",
-			"url": "https://baynature.org/2026/05/26/latest-stories/the-indigenous-exhibit-that-trump-failed-to-stop/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-26T21:33:21.000Z"
-		},
-		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
 			"url": "https://www.latimes.com/environment/story/2026-05-25/california-more-local-water",
 			"source": "Los Angeles Times",
@@ -104,10 +98,22 @@
 			"publishedAt": "2026-05-22T19:31:26.000Z"
 		},
 		{
-			"headline": "No parking at Big Sur bridge? County considers restrictions at famous California Highway 1 stop",
-			"url": "https://www.latimes.com/california/story/2026-05-22/officials-plan-parking-restrictions-around-big-surs-bixby-bridge",
+			"headline": "Late-season snow helps Mammoth Mountain extend skiing season",
+			"url": "https://www.latimes.com/california/story/2026-05-27/late-season-snow-helps-mammoth-mountain-extend-skiing-season",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-22T18:08:56.000Z"
+			"publishedAt": "2026-05-27T23:03:56.000Z"
+		},
+		{
+			"headline": "Toddler and father stranded in snow during bike ride in Lake Tahoe high country",
+			"url": "https://www.latimes.com/california/story/2026-05-27/toddler-father-stranded-in-snow-during-bike-ride-in-lake-tahoe-high-country",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T18:08:27.000Z"
+		},
+		{
+			"headline": "The Indigenous Exhibit That Trump Failed To Stop",
+			"url": "https://baynature.org/2026/05/26/latest-stories/the-indigenous-exhibit-that-trump-failed-to-stop/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-26T21:33:21.000Z"
 		}
 	]
 }
