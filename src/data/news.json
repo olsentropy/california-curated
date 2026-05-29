@@ -1,17 +1,11 @@
 {
-	"lastUpdated": "2026-05-29T14:31:12.921Z",
+	"lastUpdated": "2026-05-29T18:25:10.933Z",
 	"items": [
 		{
 			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
 			"url": "https://www.mbari.org/news/mbari-and-monterey-bay-aquarium-complete-expedition-to-guide-seamount/",
 			"source": "MBARI",
 			"publishedAt": "2026-05-28T23:35:58.000Z"
-		},
-		{
-			"headline": "Chan and Elowitz Named to Great Britain's Royal Society",
-			"url": "https://www.caltech.edu/about/news/chan-and-elowitz-named-to-great-britains-royal-society",
-			"source": "Caltech",
-			"publishedAt": "2026-05-28T21:19:24.202Z"
 		},
 		{
 			"headline": "How do Californians tolerate extreme inequality?",
@@ -26,16 +20,10 @@
 			"publishedAt": "2026-05-28T20:19:40.000Z"
 		},
 		{
-			"headline": "Homeless encampment sweeps spiked in Oakland after Supreme Court decision",
-			"url": "https://news.berkeley.edu/2026/05/28/homeless-encampment-sweeps-spiked-in-oakland-after-supreme-court-decision/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-28T20:15:40.000Z"
-		},
-		{
-			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
-			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-29T00:08:45.000Z"
+			"headline": "Chan and Elowitz Named to Great Britain's Royal Society",
+			"url": "https://www.caltech.edu/about/news/chan-and-elowitz-named-to-great-britains-royal-society",
+			"source": "Caltech",
+			"publishedAt": "2026-05-28T21:19:24.202Z"
 		},
 		{
 			"headline": "Three UC Berkeley faculty members elected to UK's Royal Society",
@@ -62,16 +50,10 @@
 			"publishedAt": "2026-05-27T16:37:00.000Z"
 		},
 		{
-			"headline": "Industry knew about chemical 'runaway' dangers for years. Then came near-catastrophe in O.C.",
-			"url": "https://www.latimes.com/california/story/2026-05-27/industry-was-warned-for-years-about-chemical-runaway-dangers-then-came-near-catastrophe-in-o-c",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T10:00:00.000Z"
-		},
-		{
-			"headline": "Black Birders Week Takes Flight in the Bay Area",
-			"url": "https://baynature.org/2026/05/27/science-nature/wildlife/black-birders-week-takes-flight-in-the-east-bay/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-27T07:39:44.000Z"
+			"headline": "How worried should you be about Ebola?",
+			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-26T18:38:05.000Z"
 		},
 		{
 			"headline": "Single Tissue Snapshot Reveals Biological Processes Unfolding Over Time",
@@ -80,10 +62,10 @@
 			"publishedAt": "2026-05-26T20:46:16.826Z"
 		},
 		{
-			"headline": "How worried should you be about Ebola?",
-			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-26T18:38:05.000Z"
+			"headline": "Tracking Lucero: Scientists follow a rare Eastern Pacific leatherback sea turtle",
+			"url": "https://news.mongabay.com/short-article/2026/05/tracking-lucero-scientists-follow-a-rare-eastern-pacific-leatherback-sea-turtle/",
+			"source": "Mongabay",
+			"publishedAt": "2026-05-26T20:33:53.000Z"
 		},
 		{
 			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
@@ -98,16 +80,10 @@
 			"publishedAt": "2026-05-26T21:33:21.000Z"
 		},
 		{
-			"headline": "'May Gray has leveled up': Southern California can expect a cloudy, drizzly week",
-			"url": "https://www.latimes.com/california/story/2026-05-26/may-gray-week-in-socal",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-26T17:31:35.000Z"
-		},
-		{
-			"headline": "Most O.C. residents forced by chemical crisis to evacuate can return home, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-26/o-c-communities-hit-by-chemical-crisis-are-safe-for-return-officials-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-26T11:16:01.000Z"
+			"headline": "Black Birders Week Takes Flight in the Bay Area",
+			"url": "https://baynature.org/2026/05/27/science-nature/wildlife/black-birders-week-takes-flight-in-the-east-bay/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-27T07:39:44.000Z"
 		},
 		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
@@ -122,22 +98,10 @@
 			"publishedAt": "2026-05-25T01:43:42.000Z"
 		},
 		{
-			"headline": "California chemical tank has cracked, causing state of emergency, thousands to evacuate",
-			"url": "https://www.npr.org/2026/05/24/nx-s1-5833165/california-chemical-tank-malfunction-leak-explode-emergency-evacuate",
-			"source": "NPR Science",
-			"publishedAt": "2026-05-24T22:14:42.000Z"
-		},
-		{
 			"headline": "Defying Trump, California continues to bet big on offshore wind",
 			"url": "https://www.latimes.com/environment/story/2026-05-24/defying-trump-california-continues-to-bet-big-on-offshore-wind",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-24T10:00:00.000Z"
-		},
-		{
-			"headline": "Some experts say they've never seen bees swarm so early — and that's concerning",
-			"url": "https://www.latimes.com/environment/story/2026-05-23/some-experts-say-theyve-never-seen-bees-swarm-so-early-thats-concerning",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-23T10:00:00.000Z"
 		},
 		{
 			"headline": "Late-season snow helps Mammoth Mountain extend skiing season",
@@ -146,10 +110,10 @@
 			"publishedAt": "2026-05-27T23:03:56.000Z"
 		},
 		{
-			"headline": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM applicants",
-			"url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
+			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
+			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T22:31:16.000Z"
+			"publishedAt": "2026-05-29T00:08:45.000Z"
 		}
 	]
 }
