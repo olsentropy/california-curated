@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-05-30T01:47:17.190Z",
+	"lastUpdated": "2026-05-30T06:38:51.557Z",
 	"items": [
+		{
+			"headline": "Fire-prone California could lose hundreds of millions of dollars for wildfire prevention",
+			"url": "https://www.latimes.com/environment/story/2026-05-29/california-wildfire-prevention-funding-at-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-30T04:01:20.000Z"
+		},
 		{
 			"headline": "After heated debate, California updates key climate limit. Critics say it's a retreat",
 			"url": "https://www.latimes.com/environment/story/2026-05-29/california-will-continue-its-key-climate-program-but-critics-say-its-being-weakened",
@@ -8,13 +14,7 @@
 			"publishedAt": "2026-05-30T00:43:04.000Z"
 		},
 		{
-			"headline": "Fire displaces 100 people at apartment complex near UC Riverside",
-			"url": "https://www.latimes.com/california/story/2026-05-29/fire-near-uc-riverside-displaces-100-people-at-apartment-complex",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-29T21:05:54.000Z"
-		},
-		{
-			"headline": "Mountain lion sighting reported in Santa Monica; residents told to stay indoors",
+			"headline": "Wildlife officials tranquilize mountain lion spotted in Santa Monica yard",
 			"url": "https://www.latimes.com/california/story/2026-05-29/mountain-lion-sighting-santa-monica",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-29T20:10:57.000Z"
@@ -24,6 +24,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-29/oxnard-man-smuggled-1-700-reptiles-gets-5-years",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-29T20:08:24.000Z"
+		},
+		{
+			"headline": "New 911 records deepen questions about why west Altadena was left vulnerable",
+			"url": "https://www.latimes.com/california/story/2026-05-29/more-missed-opportunities-to-evacuate-west-altadena-during-eaton-fire-new-911-records-from-sheriff",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-29T15:32:51.000Z"
 		},
 		{
 			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
@@ -50,10 +56,16 @@
 			"publishedAt": "2026-05-28T20:15:40.000Z"
 		},
 		{
-			"headline": "Chan and Elowitz Named to Great Britain's Royal Society",
-			"url": "https://www.caltech.edu/about/news/chan-and-elowitz-named-to-great-britains-royal-society",
-			"source": "Caltech",
-			"publishedAt": "2026-05-28T21:19:24.202Z"
+			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
+			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-29T00:08:45.000Z"
+		},
+		{
+			"headline": "'We need answers.' Politicians demand accountability from GKN Aerospace after hazmat crisis",
+			"url": "https://www.latimes.com/california/story/2026-05-28/politicians-demand-accountability-from-gkn-aerospace-after-hazmat-crisis",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-28T13:00:00.000Z"
 		},
 		{
 			"headline": "Three UC Berkeley faculty members elected to UK's Royal Society",
@@ -92,12 +104,6 @@
 			"publishedAt": "2026-05-27T07:39:44.000Z"
 		},
 		{
-			"headline": "How worried should you be about Ebola?",
-			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-26T18:38:05.000Z"
-		},
-		{
 			"headline": "Single Tissue Snapshot Reveals Biological Processes Unfolding Over Time",
 			"url": "https://www.caltech.edu/about/news/single-tissue-snapshot-reveals-biological-processes-unfolding-over-time",
 			"source": "Caltech",
@@ -128,12 +134,6 @@
 			"publishedAt": "2026-05-25T01:43:42.000Z"
 		},
 		{
-			"headline": "Potential crack found on Garden Grove chemical tank, reducing explosion risk",
-			"url": "https://www.latimes.com/california/story/2026-05-24/garden-grove-chemical-tank-crack-reduces-explosion-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-24T22:56:21.000Z"
-		},
-		{
 			"headline": "Defying Trump, California continues to bet big on offshore wind",
 			"url": "https://www.latimes.com/environment/story/2026-05-24/defying-trump-california-continues-to-bet-big-on-offshore-wind",
 			"source": "Los Angeles Times",
@@ -146,10 +146,10 @@
 			"publishedAt": "2026-05-27T23:03:56.000Z"
 		},
 		{
-			"headline": "'May Gray has leveled up': Southern California can expect a cloudy, drizzly week",
-			"url": "https://www.latimes.com/california/story/2026-05-26/may-gray-week-in-socal",
+			"headline": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM applicants",
+			"url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-26T17:31:35.000Z"
+			"publishedAt": "2026-05-27T22:31:16.000Z"
 		}
 	]
 }
