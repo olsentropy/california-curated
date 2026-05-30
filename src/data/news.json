@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-05-30T09:47:37.627Z",
+	"lastUpdated": "2026-05-30T12:55:29.134Z",
 	"items": [
+		{
+			"headline": "As poisonings soar to record, health officials urge Californians not to pick or eat wild mushrooms",
+			"url": "https://www.latimes.com/california/story/2026-05-30/as-poisonings-soar-californians-urged-not-to-pick-eat-wild-mushrooms",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-30T11:00:00.000Z"
+		},
 		{
 			"headline": "Fire-prone California could lose hundreds of millions of dollars for wildfire prevention",
 			"url": "https://www.latimes.com/environment/story/2026-05-29/california-wildfire-prevention-funding-at-risk",
@@ -24,18 +30,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-29/oxnard-man-smuggled-1-700-reptiles-gets-5-years",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-29T20:08:24.000Z"
-		},
-		{
-			"headline": "New 911 records deepen questions about why west Altadena was left vulnerable",
-			"url": "https://www.latimes.com/california/story/2026-05-29/more-missed-opportunities-to-evacuate-west-altadena-during-eaton-fire-new-911-records-from-sheriff",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-29T15:32:51.000Z"
-		},
-		{
-			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
-			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-29T00:08:45.000Z"
 		},
 		{
 			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
@@ -62,28 +56,34 @@
 			"publishedAt": "2026-05-28T20:15:40.000Z"
 		},
 		{
+			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
+			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-29T00:08:45.000Z"
+		},
+		{
 			"headline": "'We need answers.' Politicians demand accountability from GKN Aerospace after hazmat crisis",
 			"url": "https://www.latimes.com/california/story/2026-05-28/politicians-demand-accountability-from-gkn-aerospace-after-hazmat-crisis",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-28T13:00:00.000Z"
 		},
 		{
-			"headline": "O.C. chemical crisis prompts safety-record review, Newsom says",
-			"url": "https://www.latimes.com/california/story/2026-05-27/o-c-chemical-crisis-prompts-safety-record-review-newsom-says",
+			"headline": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM applicants",
+			"url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-28T02:28:22.000Z"
-		},
-		{
-			"headline": "Late-season snow helps Mammoth Mountain extend skiing season",
-			"url": "https://www.latimes.com/california/story/2026-05-27/late-season-snow-helps-mammoth-mountain-extend-skiing-season",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T23:03:56.000Z"
+			"publishedAt": "2026-05-27T22:31:16.000Z"
 		},
 		{
 			"headline": "Three UC Berkeley faculty members elected to UK's Royal Society",
 			"url": "https://news.berkeley.edu/2026/05/27/three-uc-berkeley-faculty-members-elected-to-uks-royal-society/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-27T18:30:38.000Z"
+		},
+		{
+			"headline": "Point Reyes Is 'Reimagining' Its Trails, and Wants Your Input",
+			"url": "https://baynature.org/2026/05/27/explore/trails/point-reyes-is-reimagining-its-trails-and-wants-your-input/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-27T16:37:00.000Z"
 		},
 		{
 			"headline": "Toddler and father stranded in snow during bike ride in Lake Tahoe high country",
@@ -96,12 +96,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-05-27/garden-grove-crises-exposes-southern-californias-hidden-industrial-risks",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-27T18:07:51.000Z"
-		},
-		{
-			"headline": "Point Reyes Is 'Reimagining' Its Trails, and Wants Your Input",
-			"url": "https://baynature.org/2026/05/27/explore/trails/point-reyes-is-reimagining-its-trails-and-wants-your-input/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-27T16:37:00.000Z"
 		},
 		{
 			"headline": "Industry knew about chemical 'runaway' dangers for years. Then came near-catastrophe in O.C.",
@@ -122,22 +116,10 @@
 			"publishedAt": "2026-05-26T20:46:16.826Z"
 		},
 		{
-			"headline": "How worried should you be about Ebola?",
-			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-26T18:38:05.000Z"
-		},
-		{
 			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
 			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
 			"source": "MBARI",
 			"publishedAt": "2026-05-26T16:00:22.000Z"
-		},
-		{
-			"headline": "Most O.C. residents forced by chemical crisis to evacuate can return home, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-26/o-c-communities-hit-by-chemical-crisis-are-safe-for-return-officials-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-26T11:16:01.000Z"
 		},
 		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
