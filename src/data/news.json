@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-30T06:38:51.557Z",
+	"lastUpdated": "2026-05-30T09:47:37.627Z",
 	"items": [
 		{
 			"headline": "Fire-prone California could lose hundreds of millions of dollars for wildfire prevention",
@@ -32,6 +32,12 @@
 			"publishedAt": "2026-05-29T15:32:51.000Z"
 		},
 		{
+			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
+			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-29T00:08:45.000Z"
+		},
+		{
 			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
 			"url": "https://www.mbari.org/news/mbari-and-monterey-bay-aquarium-complete-expedition-to-guide-seamount/",
 			"source": "MBARI",
@@ -56,16 +62,22 @@
 			"publishedAt": "2026-05-28T20:15:40.000Z"
 		},
 		{
-			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
-			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-29T00:08:45.000Z"
-		},
-		{
 			"headline": "'We need answers.' Politicians demand accountability from GKN Aerospace after hazmat crisis",
 			"url": "https://www.latimes.com/california/story/2026-05-28/politicians-demand-accountability-from-gkn-aerospace-after-hazmat-crisis",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-28T13:00:00.000Z"
+		},
+		{
+			"headline": "O.C. chemical crisis prompts safety-record review, Newsom says",
+			"url": "https://www.latimes.com/california/story/2026-05-27/o-c-chemical-crisis-prompts-safety-record-review-newsom-says",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-28T02:28:22.000Z"
+		},
+		{
+			"headline": "Late-season snow helps Mammoth Mountain extend skiing season",
+			"url": "https://www.latimes.com/california/story/2026-05-27/late-season-snow-helps-mammoth-mountain-extend-skiing-season",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T23:03:56.000Z"
 		},
 		{
 			"headline": "Three UC Berkeley faculty members elected to UK's Royal Society",
@@ -110,6 +122,12 @@
 			"publishedAt": "2026-05-26T20:46:16.826Z"
 		},
 		{
+			"headline": "How worried should you be about Ebola?",
+			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-26T18:38:05.000Z"
+		},
+		{
 			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
 			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
 			"source": "MBARI",
@@ -132,24 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-05-24/oil-covered-birds-rescued-pipeline-rupture-la-river",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-25T01:43:42.000Z"
-		},
-		{
-			"headline": "Defying Trump, California continues to bet big on offshore wind",
-			"url": "https://www.latimes.com/environment/story/2026-05-24/defying-trump-california-continues-to-bet-big-on-offshore-wind",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-24T10:00:00.000Z"
-		},
-		{
-			"headline": "Late-season snow helps Mammoth Mountain extend skiing season",
-			"url": "https://www.latimes.com/california/story/2026-05-27/late-season-snow-helps-mammoth-mountain-extend-skiing-season",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T23:03:56.000Z"
-		},
-		{
-			"headline": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM applicants",
-			"url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T22:31:16.000Z"
 		}
 	]
 }
