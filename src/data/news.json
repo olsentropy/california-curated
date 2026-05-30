@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-30T12:55:29.134Z",
+	"lastUpdated": "2026-05-30T16:49:07.374Z",
 	"items": [
 		{
 			"headline": "As poisonings soar to record, health officials urge Californians not to pick or eat wild mushrooms",
@@ -20,12 +20,6 @@
 			"publishedAt": "2026-05-30T00:43:04.000Z"
 		},
 		{
-			"headline": "Wildlife officials tranquilize mountain lion spotted in Santa Monica yard",
-			"url": "https://www.latimes.com/california/story/2026-05-29/mountain-lion-sighting-santa-monica",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-29T20:10:57.000Z"
-		},
-		{
 			"headline": "Baby crocodile smuggler from Oxnard headed to federal prison",
 			"url": "https://www.latimes.com/environment/story/2026-05-29/oxnard-man-smuggled-1-700-reptiles-gets-5-years",
 			"source": "Los Angeles Times",
@@ -38,16 +32,16 @@
 			"publishedAt": "2026-05-28T23:35:58.000Z"
 		},
 		{
-			"headline": "How do Californians tolerate extreme inequality?",
-			"url": "https://news.berkeley.edu/2026/05/28/how-do-californians-tolerate-extreme-inequality/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-28T20:43:41.000Z"
-		},
-		{
 			"headline": "Murder suspect got into fight with his mom before killing Caltech astrophysicist, officials say",
 			"url": "https://www.latimes.com/california/story/2026-05-28/murder-suspect-fought-with-mom-before-killing-caltech-astrophysicist-officials-say",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-28T20:19:40.000Z"
+		},
+		{
+			"headline": "How do Californians tolerate extreme inequality?",
+			"url": "https://news.berkeley.edu/2026/05/28/how-do-californians-tolerate-extreme-inequality/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-28T20:43:41.000Z"
 		},
 		{
 			"headline": "Homeless encampment sweeps spiked in Oakland after Supreme Court decision",
@@ -56,34 +50,22 @@
 			"publishedAt": "2026-05-28T20:15:40.000Z"
 		},
 		{
-			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
-			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-29T00:08:45.000Z"
-		},
-		{
 			"headline": "'We need answers.' Politicians demand accountability from GKN Aerospace after hazmat crisis",
 			"url": "https://www.latimes.com/california/story/2026-05-28/politicians-demand-accountability-from-gkn-aerospace-after-hazmat-crisis",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-28T13:00:00.000Z"
 		},
 		{
-			"headline": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM applicants",
-			"url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T22:31:16.000Z"
+			"headline": "Point Reyes Is 'Reimagining' Its Trails, and Wants Your Input",
+			"url": "https://baynature.org/2026/05/27/explore/trails/point-reyes-is-reimagining-its-trails-and-wants-your-input/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-27T16:37:00.000Z"
 		},
 		{
 			"headline": "Three UC Berkeley faculty members elected to UK's Royal Society",
 			"url": "https://news.berkeley.edu/2026/05/27/three-uc-berkeley-faculty-members-elected-to-uks-royal-society/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-27T18:30:38.000Z"
-		},
-		{
-			"headline": "Point Reyes Is 'Reimagining' Its Trails, and Wants Your Input",
-			"url": "https://baynature.org/2026/05/27/explore/trails/point-reyes-is-reimagining-its-trails-and-wants-your-input/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-27T16:37:00.000Z"
 		},
 		{
 			"headline": "Toddler and father stranded in snow during bike ride in Lake Tahoe high country",
@@ -98,16 +80,22 @@
 			"publishedAt": "2026-05-27T18:07:51.000Z"
 		},
 		{
-			"headline": "Industry knew about chemical 'runaway' dangers for years. Then came near-catastrophe in O.C.",
-			"url": "https://www.latimes.com/california/story/2026-05-27/industry-was-warned-for-years-about-chemical-runaway-dangers-then-came-near-catastrophe-in-o-c",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T10:00:00.000Z"
-		},
-		{
 			"headline": "Black Birders Week Takes Flight in the Bay Area",
 			"url": "https://baynature.org/2026/05/27/science-nature/wildlife/black-birders-week-takes-flight-in-the-east-bay/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-27T07:39:44.000Z"
+		},
+		{
+			"headline": "All evacuation orders lifted in O.C. chemical crisis. Threat is over, officials say",
+			"url": "https://www.latimes.com/california/story/2026-05-26/all-evacuation-orders-lifted-orange-county-chemical-crisis-garden-grove",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T03:08:28.000Z"
+		},
+		{
+			"headline": "Orange County leaders say previously evacuated area is safe. Experts say risks linger",
+			"url": "https://www.latimes.com/environment/story/2026-05-26/orange-county-leaders-say-previously-evacuated-area-is-safe-experts-say-risks-still-linger",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-26T23:02:42.000Z"
 		},
 		{
 			"headline": "Single Tissue Snapshot Reveals Biological Processes Unfolding Over Time",
@@ -116,16 +104,34 @@
 			"publishedAt": "2026-05-26T20:46:16.826Z"
 		},
 		{
+			"headline": "How worried should you be about Ebola?",
+			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-26T18:38:05.000Z"
+		},
+		{
 			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
 			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
 			"source": "MBARI",
 			"publishedAt": "2026-05-26T16:00:22.000Z"
 		},
 		{
+			"headline": "Most O.C. residents forced by chemical crisis to evacuate can return home, officials say",
+			"url": "https://www.latimes.com/california/story/2026-05-26/o-c-communities-hit-by-chemical-crisis-are-safe-for-return-officials-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-26T11:16:01.000Z"
+		},
+		{
 			"headline": "Southern California could get 85% of its water locally and avoid Delta tunnel, groups say",
 			"url": "https://www.latimes.com/environment/story/2026-05-25/california-more-local-water",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-25T10:00:00.000Z"
+		},
+		{
+			"headline": "The next few hours critical in battle to prevent O.C. chemical explosion",
+			"url": "https://www.latimes.com/california/story/2026-05-24/failing-orange-county-chemical-tank-rises-to-100-degrees-maximum-temperature-on-gauge",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-25T03:40:49.000Z"
 		},
 		{
 			"headline": "Oil-covered birds rescued after pipeline rupture sends crude into L.A. River",
