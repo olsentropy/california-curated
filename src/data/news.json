@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-05-31T07:36:59.261Z",
+	"lastUpdated": "2026-05-31T10:04:42.394Z",
 	"items": [
 		{
 			"headline": "Fire-prone California could lose hundreds of millions of dollars for wildfire prevention",
@@ -44,22 +44,28 @@
 			"publishedAt": "2026-05-28T20:19:40.000Z"
 		},
 		{
-			"headline": "Homeless encampment sweeps spiked in Oakland after Supreme Court decision",
-			"url": "https://news.berkeley.edu/2026/05/28/homeless-encampment-sweeps-spiked-in-oakland-after-supreme-court-decision/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-28T20:15:40.000Z"
-		},
-		{
 			"headline": "How do Californians tolerate extreme inequality?",
 			"url": "https://news.berkeley.edu/2026/05/28/how-do-californians-tolerate-extreme-inequality/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-28T20:43:41.000Z"
 		},
 		{
-			"headline": "'We need answers.' Politicians demand accountability from GKN Aerospace after hazmat crisis",
-			"url": "https://www.latimes.com/california/story/2026-05-28/politicians-demand-accountability-from-gkn-aerospace-after-hazmat-crisis",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-28T13:00:00.000Z"
+			"headline": "Homeless encampment sweeps spiked in Oakland after Supreme Court decision",
+			"url": "https://news.berkeley.edu/2026/05/28/homeless-encampment-sweeps-spiked-in-oakland-after-supreme-court-decision/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-05-28T20:15:40.000Z"
+		},
+		{
+			"headline": "Single Tissue Snapshot Reveals Biological Processes Unfolding Over Time",
+			"url": "https://www.caltech.edu/about/news/single-tissue-snapshot-reveals-biological-processes-unfolding-over-time",
+			"source": "Caltech",
+			"publishedAt": "2026-05-26T20:46:16.826Z"
+		},
+		{
+			"headline": "Science-Driven Plays Put Reason and Emotion on Display",
+			"url": "https://www.caltech.edu/about/news/science-driven-plays-put-reason-and-emotion-on-display",
+			"source": "Caltech",
+			"publishedAt": "2026-05-29T15:13:42.701Z"
 		},
 		{
 			"headline": "Chan and Elowitz Named to Great Britain's Royal Society",
@@ -74,22 +80,16 @@
 			"publishedAt": "2026-05-27T18:30:38.000Z"
 		},
 		{
-			"headline": "Garden Grove crisis exposes Southern California's hidden industrial risks",
-			"url": "https://www.latimes.com/environment/story/2026-05-27/garden-grove-crises-exposes-southern-californias-hidden-industrial-risks",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T18:07:51.000Z"
-		},
-		{
 			"headline": "Point Reyes Is 'Reimagining' Its Trails, and Wants Your Input",
 			"url": "https://baynature.org/2026/05/27/explore/trails/point-reyes-is-reimagining-its-trails-and-wants-your-input/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-05-27T16:37:00.000Z"
 		},
 		{
-			"headline": "Black Birders Week Takes Flight in the Bay Area",
-			"url": "https://baynature.org/2026/05/27/science-nature/wildlife/black-birders-week-takes-flight-in-the-east-bay/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-27T07:39:44.000Z"
+			"headline": "Garden Grove crisis exposes Southern California's hidden industrial risks",
+			"url": "https://www.latimes.com/environment/story/2026-05-27/garden-grove-crises-exposes-southern-californias-hidden-industrial-risks",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-27T18:07:51.000Z"
 		},
 		{
 			"headline": "Toddler and father stranded in snow during bike ride in Lake Tahoe high country",
@@ -98,10 +98,16 @@
 			"publishedAt": "2026-05-27T18:08:27.000Z"
 		},
 		{
-			"headline": "Late-season snow helps Mammoth Mountain extend skiing season",
-			"url": "https://www.latimes.com/california/story/2026-05-27/late-season-snow-helps-mammoth-mountain-extend-skiing-season",
+			"headline": "Black Birders Week Takes Flight in the Bay Area",
+			"url": "https://baynature.org/2026/05/27/science-nature/wildlife/black-birders-week-takes-flight-in-the-east-bay/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-27T07:39:44.000Z"
+		},
+		{
+			"headline": "All evacuation orders lifted in O.C. chemical crisis. Threat is over, officials say",
+			"url": "https://www.latimes.com/california/story/2026-05-26/all-evacuation-orders-lifted-orange-county-chemical-crisis-garden-grove",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-27T23:03:56.000Z"
+			"publishedAt": "2026-05-27T03:08:28.000Z"
 		},
 		{
 			"headline": "Orange County leaders say previously evacuated area is safe. Experts say risks linger",
@@ -116,10 +122,10 @@
 			"publishedAt": "2026-05-26T18:38:05.000Z"
 		},
 		{
-			"headline": "Single Tissue Snapshot Reveals Biological Processes Unfolding Over Time",
-			"url": "https://www.caltech.edu/about/news/single-tissue-snapshot-reveals-biological-processes-unfolding-over-time",
-			"source": "Caltech",
-			"publishedAt": "2026-05-26T20:46:16.826Z"
+			"headline": "The Indigenous Exhibit That Trump Failed To Stop",
+			"url": "https://baynature.org/2026/05/26/latest-stories/the-indigenous-exhibit-that-trump-failed-to-stop/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-05-26T21:33:21.000Z"
 		},
 		{
 			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
@@ -128,28 +134,22 @@
 			"publishedAt": "2026-05-26T16:00:22.000Z"
 		},
 		{
-			"headline": "Most O.C. residents forced by chemical crisis to evacuate can return home, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-26/o-c-communities-hit-by-chemical-crisis-are-safe-for-return-officials-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-26T11:16:01.000Z"
-		},
-		{
 			"headline": "Cooling system at chemical tanks likely failed, forcing mass O.C. evacuations, fire officials say",
 			"url": "https://www.latimes.com/california/story/2026-05-26/chemical-tank-cooling-system-likely-failed",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-26T21:03:37.000Z"
 		},
 		{
-			"headline": "'May Gray has leveled up': Southern California can expect a cloudy, drizzly week",
-			"url": "https://www.latimes.com/california/story/2026-05-26/may-gray-week-in-socal",
+			"headline": "Late-season snow helps Mammoth Mountain extend skiing season",
+			"url": "https://www.latimes.com/california/story/2026-05-27/late-season-snow-helps-mammoth-mountain-extend-skiing-season",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-26T17:31:35.000Z"
+			"publishedAt": "2026-05-27T23:03:56.000Z"
 		},
 		{
-			"headline": "Threat of massive explosion in Garden Grove 'eliminated' but danger remains, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-25/threat-of-massive-explosion-eliminated-but-danger-remains",
+			"headline": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM applicants",
+			"url": "https://www.latimes.com/california/story/2026-05-27/uc-math-professors-demand-return-of-sat-for-stem-admissions",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-25T23:55:45.000Z"
+			"publishedAt": "2026-05-27T22:31:16.000Z"
 		}
 	]
 }
