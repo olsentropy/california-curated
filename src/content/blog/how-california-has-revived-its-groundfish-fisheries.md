@@ -1,17 +1,32 @@
 ---
-title: "How California Has Revived Its Groundfish Fisheries"
-description: "How Smart Policy and Collaboration Brought Groundfish Back From the Brink Vermillion Rockfish scientific illustration Recently, I wrote a…"
+title: How California Has Revived Its Groundfish Fisheries
+description: How Smart Policy and Collaboration Brought Groundfish Back From the Brink
 pubDate: 2025-08-05
-heroImage: "https://californiacurated.com/wp-content/uploads/2025/08/rockfish-illustration.jpg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2025/08/rockfish-illustration.jpg
+categories:
+  - animals
+  - biology
+  - climate-change
+  - marine-science
+tags:
+  - animals
+  - california
+  - climate-change
+  - environment
+  - fish
+  - fisheries
+  - magnuson-stevens-fishery-conservation-and-management-act
+  - marine-protected-areas
+  - mpa
+  - overfishing
+  - pacific-ocean
+author: Erik Olsen
 wpId: 6289
-wpSlug: "how-california-has-revived-its-groundfish-fisheries"
-categories: ["animals", "biology", "climate-change", "marine-science"]
-tags: ["animals", "california", "climate-change", "environment", "fish", "fisheries", "magnuson-stevens-fishery-conservation-and-management-act", "marine-protected-areas", "mpa", "overfishing", "pacific-ocean"]
-author: "Erik Olsen"
+wpSlug: how-california-has-revived-its-groundfish-fisheries
 ---
 
 **How Smart Policy and Collaboration Brought Groundfish Back From the Brink**
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
@@ -22,7 +37,6 @@ I’ve been following ocean conservation issues for decades, I've done [numerous
 But not everything is lost.
 
 ![](https://californiacurated.com/wp-content/uploads/2025/08/rockfish.jpg?w=750)Vermilion rockfish. (Photo: Robert Lee/NOAA)  
-
 
 Despite the scale of these problems, there are reasons for hope. Around the world, we are beginning to better manage some of our natural resources. There is growing awareness about how to extract from the planet in ways that do not destroy it. Slowly, we are learning how to sustain a growing, hungry population without collapsing the ecosystems we rely on. At least, that’s the hope. If you look around a bit, there are a few positive signs. I cited [California's Marine Protected Area](<https://wildlife.ca.gov/Conservation/Marine/MPAs>) program, but there are others. 
 
@@ -48,7 +62,7 @@ To halt the decline, Congress and managers took bold, controversial steps. In 20
 
 [![California Curated Etsy](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
-In fact, California law explicitly prohibits bottom trawling in its state waters except under very limited conditions. [Fish and Game Code § 8841](<https://codes.findlaw.com/ca/fish-and-game-code/fgc-sect-8841/>) makes bottom trawling unlawful in state ocean waters unless a state commission determines that it is sustainable and low-impact. According to NOAA, commercial bottom trawling is only permitted within the [California Halibut Trawl Grounds](<https://law.justia.com/codes/california/2007/fgc/8495-8497.html#:~:text=\(a\)%20The%20following%20area%20is,N%20true\)%20from%20Point%20Mugu.>) (CHTG), a small coastal zone from roughly 1 to 3 nautical miles offshore between Point Arguello and Point Mugu. 
+In fact, California law explicitly prohibits bottom trawling in its state waters except under very limited conditions. [Fish and Game Code § 8841](<https://codes.findlaw.com/ca/fish-and-game-code/fgc-sect-8841/>) makes bottom trawling unlawful in state ocean waters unless a state commission determines that it is sustainable and low-impact. According to NOAA, commercial bottom trawling is only permitted within the [California Halibut Trawl Grounds](<https://law.justia.com/codes/california/2007/fgc/8495-8497.html#:\~:text=(a)%20The%20following%20area%20is,N%20true)%20from%20Point%20Mugu.>) (CHTG), a small coastal zone from roughly 1 to 3 nautical miles offshore between Point Arguello and Point Mugu. 
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXc1sgqntCOULVfWWvjgevP_cUnYDKW47-uS3oJrFocD5X6A-Ara3xwA-yo5_R-g8FJD--znVfgQpvV47gypy1qo7RU0ED0us3LV9YeEYpC2WFoijIGYbQwR4NIP4aAkxxCjIsv5?key=-b54gDwlNlgsI832PYLaXw)Santa Cruz Island in California's Channel Islands (Photo: Erik Olsen)
 
