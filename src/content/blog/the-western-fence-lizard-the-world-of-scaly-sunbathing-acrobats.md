@@ -1,19 +1,26 @@
 ---
-title: "Western Fence Lizard: California’s Blue Belly Is Evolving in Cities"
-description: "Meet California’s western fence lizard — the blue-bellied reptile found on fences, rocks, and trails across the state. Here’s the science behind this ubiquitous backyard lizard."
+title: 'Western Fence Lizard: California’s Blue Belly Is Evolving in Cities'
+description: Meet California’s western fence lizard, the blue-bellied reptile found on fences, rocks, and trails across the state. Here’s the science behind this ubiquitous backyard lizard.
 pubDate: 2024-10-08
-heroImage: "https://californiacurated.com/wp-content/uploads/2023/04/western-fence-lizard-in-california.jpg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2023/04/western-fence-lizard-in-california.jpg
+categories:
+  - animals
+  - biology
+  - cities
+tags:
+  - animals
+  - california
+  - lizards
+  - reptiles
+author: Erik Olsen
 wpId: 1927
-wpSlug: "the-western-fence-lizard-the-world-of-scaly-sunbathing-acrobats"
-categories: ["animals", "biology", "cities"]
-tags: ["animals", "california", "lizards", "reptiles"]
-author: "Erik Olsen"
+wpSlug: the-western-fence-lizard-the-world-of-scaly-sunbathing-acrobats
 ---
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
-When you think of Southern California, bustling cities and sprawling suburbs likely come to mind. But amidst the concrete, glass, and steel, there’s a hidden world of wildlife quietly adapting to the rapid changes humans bring. Among the surprising survivors in this urban wilderness are creatures like the western fence lizard, seamlessly blending into the landscape. Yet, these lizards aren't just surviving—they're evolving right before our eyes, a living example of how urban ecology drives real-time adaptation and recent evolution.
+The Los Angeles region is often seen as a triumph of concrete over nature. But look closely and you'll find wildlife everywhere, from coyotes prowling neighborhoods to hawks hunting above freeways. Among the most common residents are western fence lizards. These quick, spiny reptiles sunbathe on rocks and skitter throughout California. New research suggests these lizards are also doing more than living the city life. They are evolving in response to it, providing a fascinating window into how wildlife reacts when humans remake the landscape.
 
 If you live in Southern California, you’ve probably had the experience of walking out your front door and catching just the slightest flicker of movement in your peripheral vision. Your instincts kick in: something skittered, something small. You glance over and, sure enough, it's _Sceloporus occidentalis_ , better known as the western fence lizard. 
 
@@ -25,7 +32,7 @@ It is the males who sport vibrant patches of blue on their bellies and throats, 
 
 ![](https://californiacurated.com/wp-content/uploads/2023/04/fence-lizard.jpg?w=1024)Western Fence Lizard
 
-The Western Fence Lizard has a long and fascinating evolutionary history, stretching back millions of years. They belong to the genus _[Sceloporus](<https://en.wikipedia.org/wiki/Spiny_lizard>)_ , or spiny lizards, which consists of over 90 different species, and their closest relatives include the [Sagebrush Lizard](<https://en.wikipedia.org/wiki/Sagebrush_lizard>) and the [Eastern Fence Lizard](<https://en.wikipedia.org/wiki/Eastern_fence_lizard>), each of which they very closely resemble. These fantastic reptiles evolved to fill a specific ecological niche, with their coloration and agility being key to their survival in the wild. 
+The Western Fence Lizard has a long and fascinating evolutionary history, stretching back millions of years. They belong to the genus [_Sceloporus_](<https://en.wikipedia.org/wiki/Spiny_lizard>) , or spiny lizards, which consists of over 90 different species, and their closest relatives include the [Sagebrush Lizard](<https://en.wikipedia.org/wiki/Sagebrush_lizard>) and the [Eastern Fence Lizard](<https://en.wikipedia.org/wiki/Eastern_fence_lizard>), each of which they very closely resemble. These fantastic reptiles evolved to fill a specific ecological niche, with their coloration and agility being key to their survival in the wild. 
 
 The Western Fence Lizard is a versatile tenant, thriving in a range of habitats, from coastal sage scrub and chaparral to forests and grasslands. You see them everywhere in the [San Gabriel Mountains](<https://californiacurated.com/2023/08/31/the-majestic-san-gabriel-mountains-a-deep-dive-into-their-formation-history-and-biodiversity/>), and throughout Southern California. They’re extremely common in backyards and some of the dryer areas around Los Angeles. These lizards are known for their love of basking in the sun, which they do to thermoregulate. You'll often find them perched on rocks, fence posts, or tree branches, soaking up rays and keeping an eye out for predators and tasty nibbles. Small crickets are one of their favorites, although they will also munch on ants, beetles, spiders, grasshoppers, and flies. In fact, having a few of them in your yard can be a somewhat effective method of pest control.
 
