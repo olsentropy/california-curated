@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-02T19:34:01.121Z",
+	"lastUpdated": "2026-06-02T22:14:42.424Z",
 	"items": [
 		{
 			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
@@ -8,16 +8,10 @@
 			"publishedAt": "2026-06-02T16:47:25.000Z"
 		},
 		{
-			"headline": "How a deep-ocean desalination startup hopes to rewrite California's water future",
-			"url": "https://www.latimes.com/environment/story/2026-06-02/california-desalination-tech-oceanwell-testing",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-02T10:00:00.000Z"
-		},
-		{
-			"headline": "Monterey Park takes landmark vote on banning data centers",
-			"url": "https://www.latimes.com/environment/story/2026-06-02/monterey-park-to-take-landmark-vote-on-banning-data-centers-ban",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-02T10:00:00.000Z"
+			"headline": "Caltech Engineers Without Borders Chapter Implements Revitalized Water Supply System in Ecuadorian Village",
+			"url": "https://www.caltech.edu/about/news/caltech-engineers-without-borders-chapter-implements-revitalized-water-supply-system-in-ecuadorian-village",
+			"source": "Caltech",
+			"publishedAt": "2026-06-02T16:20:00.359Z"
 		},
 		{
 			"headline": "Automating the art of grasping",
@@ -26,10 +20,16 @@
 			"publishedAt": "2026-06-02T15:35:39.000Z"
 		},
 		{
-			"headline": "Hoover Dam, challenged by drought, now wears a U.S. flag the size of a football field",
-			"url": "https://www.latimes.com/travel/story/2026-06-01/hoover-dam-american-flag-250th",
+			"headline": "Monterey Park takes landmark vote on banning data centers",
+			"url": "https://www.latimes.com/environment/story/2026-06-02/monterey-park-to-take-landmark-vote-on-banning-data-centers-ban",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-01T20:09:51.000Z"
+			"publishedAt": "2026-06-02T10:00:00.000Z"
+		},
+		{
+			"headline": "How a deep-ocean desalination startup hopes to rewrite California's water future",
+			"url": "https://www.latimes.com/environment/story/2026-06-02/california-desalination-tech-oceanwell-testing",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T10:00:00.000Z"
 		},
 		{
 			"headline": "MBARI President and CEO Antje Boetius awarded Germany's Knight Commander's Cross of the Order of Merit",
@@ -41,7 +41,7 @@
 			"headline": "Caltech Researchers Propose a New Origin Story for Multicellular Life",
 			"url": "https://www.caltech.edu/about/news/caltech-researchers-propose-a-new-origin-story-for-multicellular-life",
 			"source": "Caltech",
-			"publishedAt": "2026-06-01T22:32:34.894Z"
+			"publishedAt": "2026-06-01T22:32:00.000Z"
 		},
 		{
 			"headline": "Nicholas de Monchaux appointed dean of the College of Environmental Design",
@@ -62,6 +62,18 @@
 			"publishedAt": "2026-06-01T13:00:13.000Z"
 		},
 		{
+			"headline": "Hoover Dam, challenged by drought, now wears a U.S. flag the size of a football field",
+			"url": "https://www.latimes.com/travel/story/2026-06-01/hoover-dam-american-flag-250th",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-01T20:09:51.000Z"
+		},
+		{
+			"headline": "Two bald eagles seen taking it easy in L.A. County park",
+			"url": "https://www.latimes.com/entertainment-arts/business/story/2026-05-31/pair-of-bald-eagles-seen-nesting-in-la-county-park",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-31T16:12:04.000Z"
+		},
+		{
 			"headline": "As poisonings soar to record, health officials urge Californians not to pick or eat wild mushrooms",
 			"url": "https://www.latimes.com/california/story/2026-05-30/as-poisonings-soar-californians-urged-not-to-pick-eat-wild-mushrooms",
 			"source": "Los Angeles Times",
@@ -80,24 +92,6 @@
 			"publishedAt": "2026-05-30T00:43:04.000Z"
 		},
 		{
-			"headline": "Two bald eagles seen taking it easy in L.A. County park",
-			"url": "https://www.latimes.com/entertainment-arts/business/story/2026-05-31/pair-of-bald-eagles-seen-nesting-in-la-county-park",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-31T16:12:04.000Z"
-		},
-		{
-			"headline": "Hundreds join ongoing, expanding search for missing Lake Tahoe hiker",
-			"url": "https://www.latimes.com/california/story/2026-05-31/missing-lake-tahoe-hiker-hundreds-join-search-for-jason-coughran",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-31T19:59:50.000Z"
-		},
-		{
-			"headline": "Wildlife officials tranquilize mountain lion spotted in Santa Monica yard",
-			"url": "https://www.latimes.com/california/story/2026-05-29/mountain-lion-sighting-santa-monica",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-29T20:10:57.000Z"
-		},
-		{
 			"headline": "Baby crocodile smuggler from Oxnard headed to federal prison",
 			"url": "https://www.latimes.com/environment/story/2026-05-29/oxnard-man-smuggled-1-700-reptiles-gets-5-years",
 			"source": "Los Angeles Times",
@@ -110,16 +104,16 @@
 			"publishedAt": "2026-05-29T19:49:57.000Z"
 		},
 		{
+			"headline": "New 911 records deepen questions about why west Altadena was left vulnerable",
+			"url": "https://www.latimes.com/california/story/2026-05-29/more-missed-opportunities-to-evacuate-west-altadena-during-eaton-fire-new-911-records-from-sheriff",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-29T15:32:51.000Z"
+		},
+		{
 			"headline": "Science-Driven Plays Put Reason and Emotion on Display",
 			"url": "https://www.caltech.edu/about/news/science-driven-plays-put-reason-and-emotion-on-display",
 			"source": "Caltech",
 			"publishedAt": "2026-05-29T15:13:00.000Z"
-		},
-		{
-			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
-			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-29T00:08:45.000Z"
 		},
 		{
 			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
@@ -128,10 +122,22 @@
 			"publishedAt": "2026-05-28T23:35:58.000Z"
 		},
 		{
-			"headline": "Chan and Elowitz Named to Great Britain's Royal Society",
-			"url": "https://www.caltech.edu/about/news/chan-and-elowitz-named-to-great-britains-royal-society",
-			"source": "Caltech",
-			"publishedAt": "2026-05-28T21:19:24.202Z"
+			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
+			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-29T00:08:45.000Z"
+		},
+		{
+			"headline": "Wildlife officials tranquilize mountain lion spotted in Santa Monica yard",
+			"url": "https://www.latimes.com/california/story/2026-05-29/mountain-lion-sighting-santa-monica",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-29T20:10:57.000Z"
+		},
+		{
+			"headline": "Hundreds join ongoing, expanding search for missing Lake Tahoe hiker",
+			"url": "https://www.latimes.com/california/story/2026-05-31/missing-lake-tahoe-hiker-hundreds-join-search-for-jason-coughran",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-31T19:59:50.000Z"
 		}
 	]
 }
