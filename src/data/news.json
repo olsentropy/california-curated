@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-06-02T08:17:48.770Z",
+	"lastUpdated": "2026-06-02T15:49:41.785Z",
 	"items": [
+		{
+			"headline": "Automating the art of grasping",
+			"url": "https://engineering.berkeley.edu/news/2026/05/the-art-of-grasping/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-02T15:35:39.000Z"
+		},
+		{
+			"headline": "How a deep-ocean desalination startup hopes to rewrite California's water future",
+			"url": "https://www.latimes.com/environment/story/2026-06-02/california-desalination-tech-oceanwell-testing",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T10:00:00.000Z"
+		},
 		{
 			"headline": "MBARI President and CEO Antje Boetius awarded Germany's Knight Commander's Cross of the Order of Merit",
 			"url": "https://www.mbari.org/news/mbari-president-and-ceo-antje-boetius-awarded-germanys-knight-commanders-cross-of-the-order-of-merit/",
@@ -68,6 +80,18 @@
 			"publishedAt": "2026-05-30T00:43:04.000Z"
 		},
 		{
+			"headline": "Union invokes California's landmark environmental law to challenge Newsom's return-to-office mandate",
+			"url": "https://www.latimes.com/california/story/2026-05-29/union-challenges-return-to-office-with-californias-landmark-environmental-law",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-29T23:29:47.000Z"
+		},
+		{
+			"headline": "Fire displaces 100 people at apartment complex near UC Riverside",
+			"url": "https://www.latimes.com/california/story/2026-05-29/fire-near-uc-riverside-displaces-100-people-at-apartment-complex",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-29T21:05:54.000Z"
+		},
+		{
 			"headline": "Wildlife officials tranquilize mountain lion spotted in Santa Monica yard",
 			"url": "https://www.latimes.com/california/story/2026-05-29/mountain-lion-sighting-santa-monica",
 			"source": "Los Angeles Times",
@@ -92,12 +116,6 @@
 			"publishedAt": "2026-05-29T15:13:00.000Z"
 		},
 		{
-			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
-			"url": "https://www.mbari.org/news/mbari-and-monterey-bay-aquarium-complete-expedition-to-guide-seamount/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-28T23:35:58.000Z"
-		},
-		{
 			"headline": "Chan and Elowitz Named to Great Britain's Royal Society",
 			"url": "https://www.caltech.edu/about/news/chan-and-elowitz-named-to-great-britains-royal-society",
 			"source": "Caltech",
@@ -120,6 +138,12 @@
 			"url": "https://news.berkeley.edu/2026/05/28/homeless-encampment-sweeps-spiked-in-oakland-after-supreme-court-decision/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-05-28T20:15:40.000Z"
+		},
+		{
+			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
+			"url": "https://www.mbari.org/news/mbari-and-monterey-bay-aquarium-complete-expedition-to-guide-seamount/",
+			"source": "MBARI",
+			"publishedAt": "2026-05-28T23:35:58.000Z"
 		},
 		{
 			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
