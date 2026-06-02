@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-06-02T15:49:41.785Z",
+	"lastUpdated": "2026-06-02T19:34:01.121Z",
 	"items": [
+		{
+			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
+			"url": "https://www.latimes.com/science/story/2026-06-02/political-play-or-budget-fix-competition-for-jpls-management-comes-at-fraught-moment",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T16:47:25.000Z"
+		},
+		{
+			"headline": "How a deep-ocean desalination startup hopes to rewrite California's water future",
+			"url": "https://www.latimes.com/environment/story/2026-06-02/california-desalination-tech-oceanwell-testing",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T10:00:00.000Z"
+		},
+		{
+			"headline": "Monterey Park takes landmark vote on banning data centers",
+			"url": "https://www.latimes.com/environment/story/2026-06-02/monterey-park-to-take-landmark-vote-on-banning-data-centers-ban",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T10:00:00.000Z"
+		},
 		{
 			"headline": "Automating the art of grasping",
 			"url": "https://engineering.berkeley.edu/news/2026/05/the-art-of-grasping/",
@@ -8,10 +26,10 @@
 			"publishedAt": "2026-06-02T15:35:39.000Z"
 		},
 		{
-			"headline": "How a deep-ocean desalination startup hopes to rewrite California's water future",
-			"url": "https://www.latimes.com/environment/story/2026-06-02/california-desalination-tech-oceanwell-testing",
+			"headline": "Hoover Dam, challenged by drought, now wears a U.S. flag the size of a football field",
+			"url": "https://www.latimes.com/travel/story/2026-06-01/hoover-dam-american-flag-250th",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-02T10:00:00.000Z"
+			"publishedAt": "2026-06-01T20:09:51.000Z"
 		},
 		{
 			"headline": "MBARI President and CEO Antje Boetius awarded Germany's Knight Commander's Cross of the Order of Merit",
@@ -24,12 +42,6 @@
 			"url": "https://www.caltech.edu/about/news/caltech-researchers-propose-a-new-origin-story-for-multicellular-life",
 			"source": "Caltech",
 			"publishedAt": "2026-06-01T22:32:34.894Z"
-		},
-		{
-			"headline": "Hoover Dam, challenged by drought, now wears a U.S. flag the size of a football field",
-			"url": "https://www.latimes.com/travel/story/2026-06-01/hoover-dam-american-flag-250th",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-01T20:09:51.000Z"
 		},
 		{
 			"headline": "Nicholas de Monchaux appointed dean of the College of Environmental Design",
@@ -50,18 +62,6 @@
 			"publishedAt": "2026-06-01T13:00:13.000Z"
 		},
 		{
-			"headline": "Two bald eagles seen taking it easy in L.A. County park",
-			"url": "https://www.latimes.com/entertainment-arts/business/story/2026-05-31/pair-of-bald-eagles-seen-nesting-in-la-county-park",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-31T16:12:04.000Z"
-		},
-		{
-			"headline": "Hundreds join ongoing, expanding search for missing Lake Tahoe hiker",
-			"url": "https://www.latimes.com/california/story/2026-05-31/missing-lake-tahoe-hiker-hundreds-join-search-for-jason-coughran",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-31T19:59:50.000Z"
-		},
-		{
 			"headline": "As poisonings soar to record, health officials urge Californians not to pick or eat wild mushrooms",
 			"url": "https://www.latimes.com/california/story/2026-05-30/as-poisonings-soar-californians-urged-not-to-pick-eat-wild-mushrooms",
 			"source": "Los Angeles Times",
@@ -80,16 +80,16 @@
 			"publishedAt": "2026-05-30T00:43:04.000Z"
 		},
 		{
-			"headline": "Union invokes California's landmark environmental law to challenge Newsom's return-to-office mandate",
-			"url": "https://www.latimes.com/california/story/2026-05-29/union-challenges-return-to-office-with-californias-landmark-environmental-law",
+			"headline": "Two bald eagles seen taking it easy in L.A. County park",
+			"url": "https://www.latimes.com/entertainment-arts/business/story/2026-05-31/pair-of-bald-eagles-seen-nesting-in-la-county-park",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-29T23:29:47.000Z"
+			"publishedAt": "2026-05-31T16:12:04.000Z"
 		},
 		{
-			"headline": "Fire displaces 100 people at apartment complex near UC Riverside",
-			"url": "https://www.latimes.com/california/story/2026-05-29/fire-near-uc-riverside-displaces-100-people-at-apartment-complex",
+			"headline": "Hundreds join ongoing, expanding search for missing Lake Tahoe hiker",
+			"url": "https://www.latimes.com/california/story/2026-05-31/missing-lake-tahoe-hiker-hundreds-join-search-for-jason-coughran",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-29T21:05:54.000Z"
+			"publishedAt": "2026-05-31T19:59:50.000Z"
 		},
 		{
 			"headline": "Wildlife officials tranquilize mountain lion spotted in Santa Monica yard",
@@ -116,28 +116,10 @@
 			"publishedAt": "2026-05-29T15:13:00.000Z"
 		},
 		{
-			"headline": "Chan and Elowitz Named to Great Britain's Royal Society",
-			"url": "https://www.caltech.edu/about/news/chan-and-elowitz-named-to-great-britains-royal-society",
-			"source": "Caltech",
-			"publishedAt": "2026-05-28T21:19:24.202Z"
-		},
-		{
-			"headline": "How do Californians tolerate extreme inequality?",
-			"url": "https://news.berkeley.edu/2026/05/28/how-do-californians-tolerate-extreme-inequality/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-28T20:43:41.000Z"
-		},
-		{
-			"headline": "Murder suspect got into fight with his mom before killing Caltech astrophysicist, officials say",
-			"url": "https://www.latimes.com/california/story/2026-05-28/murder-suspect-fought-with-mom-before-killing-caltech-astrophysicist-officials-say",
+			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
+			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-28T20:19:40.000Z"
-		},
-		{
-			"headline": "Homeless encampment sweeps spiked in Oakland after Supreme Court decision",
-			"url": "https://news.berkeley.edu/2026/05/28/homeless-encampment-sweeps-spiked-in-oakland-after-supreme-court-decision/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-28T20:15:40.000Z"
+			"publishedAt": "2026-05-29T00:08:45.000Z"
 		},
 		{
 			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
@@ -146,10 +128,10 @@
 			"publishedAt": "2026-05-28T23:35:58.000Z"
 		},
 		{
-			"headline": "Raging fire burned millions of his bees. But what comes next really worries him",
-			"url": "https://www.latimes.com/california/story/2026-05-28/raging-fire-burned-millions-of-his-bees-what-comes-next-worries-him",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-29T00:08:45.000Z"
+			"headline": "Chan and Elowitz Named to Great Britain's Royal Society",
+			"url": "https://www.caltech.edu/about/news/chan-and-elowitz-named-to-great-britains-royal-society",
+			"source": "Caltech",
+			"publishedAt": "2026-05-28T21:19:24.202Z"
 		}
 	]
 }
