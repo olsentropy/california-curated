@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-06-03T16:10:03.936Z",
+	"lastUpdated": "2026-06-03T22:19:35.883Z",
 	"items": [
+		{
+			"headline": "In a first for the country, voters in Monterey Park ban data centers",
+			"url": "https://www.latimes.com/environment/story/2026-06-03/in-first-for-country-voters-in-monterey-park-ban-data-centers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-03T21:25:17.000Z"
+		},
 		{
 			"headline": "MBARI and FathomNet partners release new version of FathomVerse app",
 			"url": "https://www.mbari.org/news/mbari-and-fathomnet-partners-release-new-version-of-fathomverse-app/",
@@ -14,10 +20,40 @@
 			"publishedAt": "2026-06-03T12:00:03.000Z"
 		},
 		{
+			"headline": "Credibility in an Era of Chaos",
+			"url": "https://www.caltech.edu/about/news/credibility-in-an-era-of-chaos",
+			"source": "Caltech",
+			"publishedAt": "2026-06-03T16:14:11.120Z"
+		},
+		{
+			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
+			"url": "https://www.latimes.com/science/story/2026-06-02/political-play-or-budget-fix-competition-for-jpls-management-comes-at-fraught-moment",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T16:47:25.000Z"
+		},
+		{
+			"headline": "Caltech Engineers Without Borders Chapter Implements Revitalized Water Supply System in Ecuadorian Village",
+			"url": "https://www.caltech.edu/about/news/caltech-engineers-without-borders-chapter-implements-revitalized-water-supply-system-in-ecuadorian-village",
+			"source": "Caltech",
+			"publishedAt": "2026-06-02T16:20:00.359Z"
+		},
+		{
 			"headline": "Automating the art of grasping",
 			"url": "https://engineering.berkeley.edu/news/2026/05/the-art-of-grasping/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-02T15:35:39.000Z"
+		},
+		{
+			"headline": "How a deep-ocean desalination startup hopes to rewrite California's water future",
+			"url": "https://www.latimes.com/environment/story/2026-06-02/california-desalination-tech-oceanwell-testing",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T10:00:00.000Z"
+		},
+		{
+			"headline": "Monterey Park takes landmark vote on banning data centers",
+			"url": "https://www.latimes.com/environment/story/2026-06-02/monterey-park-to-take-landmark-vote-on-banning-data-centers-ban",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T10:00:00.000Z"
 		},
 		{
 			"headline": "MBARI President and CEO Antje Boetius awarded Germany's Knight Commander's Cross of the Order of Merit",
@@ -50,82 +86,34 @@
 			"publishedAt": "2026-06-01T13:00:13.000Z"
 		},
 		{
-			"headline": "Science-Driven Plays Put Reason and Emotion on Display",
-			"url": "https://www.caltech.edu/about/news/science-driven-plays-put-reason-and-emotion-on-display",
-			"source": "Caltech",
-			"publishedAt": "2026-05-29T15:13:00.000Z"
+			"headline": "Hoover Dam, challenged by drought, now wears a U.S. flag the size of a football field",
+			"url": "https://www.latimes.com/travel/story/2026-06-01/hoover-dam-american-flag-250th",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-01T20:09:51.000Z"
 		},
 		{
-			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
-			"url": "https://www.mbari.org/news/mbari-and-monterey-bay-aquarium-complete-expedition-to-guide-seamount/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-28T23:35:58.000Z"
+			"headline": "Hundreds join ongoing, expanding search for missing Lake Tahoe hiker",
+			"url": "https://www.latimes.com/california/story/2026-05-31/missing-lake-tahoe-hiker-hundreds-join-search-for-jason-coughran",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-31T19:59:50.000Z"
 		},
 		{
-			"headline": "Chan and Elowitz Named to Great Britain's Royal Society",
-			"url": "https://www.caltech.edu/about/news/chan-and-elowitz-named-to-great-britains-royal-society",
-			"source": "Caltech",
-			"publishedAt": "2026-05-28T21:19:24.202Z"
+			"headline": "Two bald eagles seen taking it easy in L.A. County park",
+			"url": "https://www.latimes.com/entertainment-arts/business/story/2026-05-31/pair-of-bald-eagles-seen-nesting-in-la-county-park",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-31T16:12:04.000Z"
 		},
 		{
-			"headline": "Three UC Berkeley faculty members elected to UK's Royal Society",
-			"url": "https://news.berkeley.edu/2026/05/27/three-uc-berkeley-faculty-members-elected-to-uks-royal-society/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-27T18:30:38.000Z"
+			"headline": "As poisonings soar to record, health officials urge Californians not to pick or eat wild mushrooms",
+			"url": "https://www.latimes.com/california/story/2026-05-30/as-poisonings-soar-californians-urged-not-to-pick-eat-wild-mushrooms",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-30T11:00:00.000Z"
 		},
 		{
-			"headline": "Point Reyes Is 'Reimagining' Its Trails, and Wants Your Input",
-			"url": "https://baynature.org/2026/05/27/explore/trails/point-reyes-is-reimagining-its-trails-and-wants-your-input/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-27T16:37:00.000Z"
-		},
-		{
-			"headline": "Black Birders Week Takes Flight in the Bay Area",
-			"url": "https://baynature.org/2026/05/27/science-nature/wildlife/black-birders-week-takes-flight-in-the-east-bay/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-27T07:39:44.000Z"
-		},
-		{
-			"headline": "Single Tissue Snapshot Reveals Biological Processes Unfolding Over Time",
-			"url": "https://www.caltech.edu/about/news/single-tissue-snapshot-reveals-biological-processes-unfolding-over-time",
-			"source": "Caltech",
-			"publishedAt": "2026-05-26T20:46:16.826Z"
-		},
-		{
-			"headline": "How worried should you be about Ebola?",
-			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-26T18:38:05.000Z"
-		},
-		{
-			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
-			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-26T16:00:22.000Z"
-		},
-		{
-			"headline": "Tuning Into Quantum Sounds",
-			"url": "https://www.caltech.edu/about/news/tuning-into-quantum-sounds",
-			"source": "Caltech",
-			"publishedAt": "2026-05-22T21:48:00.000Z"
-		},
-		{
-			"headline": "Hi-res microscopes give biologists petabytes of data. Scientists are creating an AI assistant to make sense of it.",
-			"url": "https://news.berkeley.edu/2026/05/22/hi-res-microscopes-give-biologists-petabytes-of-data-scientists-are-creating-an-ai-assistant-to-make-sense-of-it/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-22T09:00:00.000Z"
-		},
-		{
-			"headline": "MBARI researchers share latest seafloor science and technology at GeoHab 2026 conference",
-			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-seafloor-science-and-technology-at-geohab-2026-conference/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-21T16:00:38.000Z"
-		},
-		{
-			"headline": "The Origins of Nereid, Neptune's Most Eccentric Moon",
-			"url": "https://www.caltech.edu/about/news/the-origins-of-nereid-neptunes-most-eccentric-moon",
-			"source": "Caltech",
-			"publishedAt": "2026-05-20T23:51:00.000Z"
+			"headline": "California attorney general sues 23andMe for data breach",
+			"url": "https://www.latimes.com/business/story/2026-05-30/california-attorney-general-sues-23andme-for-data-breach",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-30T10:00:00.000Z"
 		}
 	]
 }
