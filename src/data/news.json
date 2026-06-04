@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-06-04T14:24:37.701Z",
+	"lastUpdated": "2026-06-04T18:07:56.715Z",
 	"items": [
+		{
+			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
+			"url": "https://news.mongabay.com/short-article/2026/06/pilot-project-in-san-francisco-bay-aims-to-help-ships-avoid-gray-whales/",
+			"source": "Mongabay",
+			"publishedAt": "2026-06-04T16:44:50.000Z"
+		},
 		{
 			"headline": "How Google's 32-million mosquito project could change California's battle against dengue",
 			"url": "https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue",
@@ -14,16 +20,28 @@
 			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
-			"headline": "In Monterey Park, voters in first for country ban data centers",
-			"url": "https://www.latimes.com/environment/story/2026-06-03/in-first-for-country-voters-in-monterey-park-ban-data-centers",
+			"headline": "With Highway 1 open, Big Sur braces for its busiest summer in years",
+			"url": "https://www.latimes.com/travel/story/2026-06-04/highway-1-big-sur-summer-crowds",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-03T21:25:17.000Z"
+			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
 			"headline": "Endangered sheep dies after getting entangled in razor wire at the border, biologist says",
 			"url": "https://www.latimes.com/environment/story/2026-06-03/dead-endangered-sheep-found-in-razor-wire-installed-at-u-s-mexico-border",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-03T23:43:51.000Z"
+		},
+		{
+			"headline": "In a first for the country, voters in Monterey Park ban data centers",
+			"url": "https://www.latimes.com/environment/story/2026-06-03/in-first-for-country-voters-in-monterey-park-ban-data-centers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-03T21:25:17.000Z"
+		},
+		{
+			"headline": "Credibility in an Era of Chaos",
+			"url": "https://www.caltech.edu/about/news/credibility-in-an-era-of-chaos",
+			"source": "Caltech",
+			"publishedAt": "2026-06-03T16:14:11.120Z"
 		},
 		{
 			"headline": "MBARI and FathomNet partners release new version of FathomVerse app",
@@ -38,10 +56,22 @@
 			"publishedAt": "2026-06-03T12:00:03.000Z"
 		},
 		{
+			"headline": "Gender reveal sparked massive blaze. Now 3 companies will pay for their role in El Dorado fire",
+			"url": "https://www.latimes.com/california/story/2026-06-02/gender-reveal-sparked-el-dorado-fire-companies-to-pay-millions-in-damages",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-03T03:33:26.000Z"
+		},
+		{
 			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
 			"url": "https://www.latimes.com/science/story/2026-06-02/political-play-or-budget-fix-competition-for-jpls-management-comes-at-fraught-moment",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-02T16:47:25.000Z"
+		},
+		{
+			"headline": "Caltech Engineers Without Borders Chapter Implements Revitalized Water Supply System in Ecuadorian Village",
+			"url": "https://www.caltech.edu/about/news/caltech-engineers-without-borders-chapter-implements-revitalized-water-supply-system-in-ecuadorian-village",
+			"source": "Caltech",
+			"publishedAt": "2026-06-02T16:20:00.359Z"
 		},
 		{
 			"headline": "Automating the art of grasping",
@@ -74,6 +104,12 @@
 			"publishedAt": "2026-06-01T22:32:00.000Z"
 		},
 		{
+			"headline": "Hoover Dam, challenged by drought, now wears a U.S. flag the size of a football field",
+			"url": "https://www.latimes.com/travel/story/2026-06-01/hoover-dam-american-flag-250th",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-01T20:09:51.000Z"
+		},
+		{
 			"headline": "Nicholas de Monchaux appointed dean of the College of Environmental Design",
 			"url": "https://ced.berkeley.edu/news/nicholas-de-monchaux-appointed-dean-uc-berkeley-ced",
 			"source": "UC Berkeley News",
@@ -92,16 +128,16 @@
 			"publishedAt": "2026-06-01T13:00:13.000Z"
 		},
 		{
-			"headline": "Hoover Dam, challenged by drought, now wears a U.S. flag the size of a football field",
-			"url": "https://www.latimes.com/travel/story/2026-06-01/hoover-dam-american-flag-250th",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-01T20:09:51.000Z"
+			"headline": "The Strauch Hypercube lets there be light in the Grimes Engineering Center",
+			"url": "https://engineering.berkeley.edu/news/2026/05/let-there-be-light/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-03T19:09:22.000Z"
 		},
 		{
-			"headline": "Hundreds join ongoing, expanding search for missing Lake Tahoe hiker",
-			"url": "https://www.latimes.com/california/story/2026-05-31/missing-lake-tahoe-hiker-hundreds-join-search-for-jason-coughran",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-31T19:59:50.000Z"
+			"headline": "Newly acquired archive offers a peek inside the singular mind of 'a beautiful artist'",
+			"url": "https://www.lib.berkeley.edu/about/news/howard",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-03T19:38:21.000Z"
 		}
 	]
 }
