@@ -1,23 +1,29 @@
 {
-	"lastUpdated": "2026-06-04T08:10:07.536Z",
+	"lastUpdated": "2026-06-04T14:24:37.701Z",
 	"items": [
 		{
-			"headline": "Endangered sheep dies after getting entangled in razor wire at the border, biologist says",
-			"url": "https://www.latimes.com/environment/story/2026-06-03/dead-endangered-sheep-found-in-razor-wire-installed-at-u-s-mexico-border",
+			"headline": "How Google's 32-million mosquito project could change California's battle against dengue",
+			"url": "https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-03T23:43:51.000Z"
+			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
-			"headline": "In a first for the country, voters in Monterey Park ban data centers",
+			"headline": "Emergency room visits during heat waves available to the public in 'near-real time' in L.A. County",
+			"url": "https://www.latimes.com/environment/story/2026-06-04/los-angeles-county-publishes-heat-realted-illness-in-near-real-time",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T10:00:00.000Z"
+		},
+		{
+			"headline": "In Monterey Park, voters in first for country ban data centers",
 			"url": "https://www.latimes.com/environment/story/2026-06-03/in-first-for-country-voters-in-monterey-park-ban-data-centers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-03T21:25:17.000Z"
 		},
 		{
-			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
-			"url": "https://www.latimes.com/science/story/2026-06-02/political-play-or-budget-fix-competition-for-jpls-management-comes-at-fraught-moment",
+			"headline": "Endangered sheep dies after getting entangled in razor wire at the border, biologist says",
+			"url": "https://www.latimes.com/environment/story/2026-06-03/dead-endangered-sheep-found-in-razor-wire-installed-at-u-s-mexico-border",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-02T16:47:25.000Z"
+			"publishedAt": "2026-06-03T23:43:51.000Z"
 		},
 		{
 			"headline": "MBARI and FathomNet partners release new version of FathomVerse app",
@@ -32,10 +38,10 @@
 			"publishedAt": "2026-06-03T12:00:03.000Z"
 		},
 		{
-			"headline": "How a deep-ocean desalination startup hopes to rewrite California's water future",
-			"url": "https://www.latimes.com/environment/story/2026-06-02/california-desalination-tech-oceanwell-testing",
+			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
+			"url": "https://www.latimes.com/science/story/2026-06-02/political-play-or-budget-fix-competition-for-jpls-management-comes-at-fraught-moment",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-02T10:00:00.000Z"
+			"publishedAt": "2026-06-02T16:47:25.000Z"
 		},
 		{
 			"headline": "Automating the art of grasping",
@@ -44,10 +50,16 @@
 			"publishedAt": "2026-06-02T15:35:39.000Z"
 		},
 		{
-			"headline": "Caltech Researchers Propose a New Origin Story for Multicellular Life",
-			"url": "https://www.caltech.edu/about/news/caltech-researchers-propose-a-new-origin-story-for-multicellular-life",
-			"source": "Caltech",
-			"publishedAt": "2026-06-01T22:32:00.000Z"
+			"headline": "How a deep-ocean desalination startup hopes to rewrite California's water future",
+			"url": "https://www.latimes.com/environment/story/2026-06-02/california-desalination-tech-oceanwell-testing",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T10:00:00.000Z"
+		},
+		{
+			"headline": "Monterey Park takes landmark vote on banning data centers",
+			"url": "https://www.latimes.com/environment/story/2026-06-02/monterey-park-to-take-landmark-vote-on-banning-data-centers-ban",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T10:00:00.000Z"
 		},
 		{
 			"headline": "MBARI President and CEO Antje Boetius awarded Germany's Knight Commander's Cross of the Order of Merit",
@@ -56,10 +68,22 @@
 			"publishedAt": "2026-06-02T00:00:34.000Z"
 		},
 		{
+			"headline": "Caltech Researchers Propose a New Origin Story for Multicellular Life",
+			"url": "https://www.caltech.edu/about/news/caltech-researchers-propose-a-new-origin-story-for-multicellular-life",
+			"source": "Caltech",
+			"publishedAt": "2026-06-01T22:32:00.000Z"
+		},
+		{
 			"headline": "Nicholas de Monchaux appointed dean of the College of Environmental Design",
 			"url": "https://ced.berkeley.edu/news/nicholas-de-monchaux-appointed-dean-uc-berkeley-ced",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-01T16:52:25.000Z"
+		},
+		{
+			"headline": "Brian Stoltz Wins 2025 Tolman Award in Chemistry",
+			"url": "https://www.caltech.edu/about/news/brian-stoltz-wins-2025-tolman-award-in-chemistry",
+			"source": "Caltech",
+			"publishedAt": "2026-06-01T16:20:00.000Z"
 		},
 		{
 			"headline": "Could Avocados Be A Transformational Fruit for the Bay Region?",
@@ -68,28 +92,16 @@
 			"publishedAt": "2026-06-01T13:00:13.000Z"
 		},
 		{
+			"headline": "Hoover Dam, challenged by drought, now wears a U.S. flag the size of a football field",
+			"url": "https://www.latimes.com/travel/story/2026-06-01/hoover-dam-american-flag-250th",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-01T20:09:51.000Z"
+		},
+		{
 			"headline": "Hundreds join ongoing, expanding search for missing Lake Tahoe hiker",
 			"url": "https://www.latimes.com/california/story/2026-05-31/missing-lake-tahoe-hiker-hundreds-join-search-for-jason-coughran",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-05-31T19:59:50.000Z"
-		},
-		{
-			"headline": "Two bald eagles seen taking it easy in L.A. County park",
-			"url": "https://www.latimes.com/entertainment-arts/business/story/2026-05-31/pair-of-bald-eagles-seen-nesting-in-la-county-park",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-05-31T16:12:04.000Z"
-		},
-		{
-			"headline": "Gender reveal sparked massive blaze. Now 3 companies will pay for their role in El Dorado fire",
-			"url": "https://www.latimes.com/california/story/2026-06-02/gender-reveal-sparked-el-dorado-fire-companies-to-pay-millions-in-damages",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-03T03:33:26.000Z"
-		},
-		{
-			"headline": "Monterey Park takes landmark vote on banning data centers",
-			"url": "https://www.latimes.com/environment/story/2026-06-02/monterey-park-to-take-landmark-vote-on-banning-data-centers-ban",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-02T10:00:00.000Z"
 		}
 	]
 }
