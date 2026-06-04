@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-06-04T02:13:33.428Z",
+	"lastUpdated": "2026-06-04T08:10:07.536Z",
 	"items": [
+		{
+			"headline": "Endangered sheep dies after getting entangled in razor wire at the border, biologist says",
+			"url": "https://www.latimes.com/environment/story/2026-06-03/dead-endangered-sheep-found-in-razor-wire-installed-at-u-s-mexico-border",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-03T23:43:51.000Z"
+		},
+		{
+			"headline": "In a first for the country, voters in Monterey Park ban data centers",
+			"url": "https://www.latimes.com/environment/story/2026-06-03/in-first-for-country-voters-in-monterey-park-ban-data-centers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-03T21:25:17.000Z"
+		},
+		{
+			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
+			"url": "https://www.latimes.com/science/story/2026-06-02/political-play-or-budget-fix-competition-for-jpls-management-comes-at-fraught-moment",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T16:47:25.000Z"
+		},
 		{
 			"headline": "MBARI and FathomNet partners release new version of FathomVerse app",
 			"url": "https://www.mbari.org/news/mbari-and-fathomnet-partners-release-new-version-of-fathomverse-app/",
@@ -14,10 +32,16 @@
 			"publishedAt": "2026-06-03T12:00:03.000Z"
 		},
 		{
-			"headline": "MBARI President and CEO Antje Boetius awarded Germany's Knight Commander's Cross of the Order of Merit",
-			"url": "https://www.mbari.org/news/mbari-president-and-ceo-antje-boetius-awarded-germanys-knight-commanders-cross-of-the-order-of-merit/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-02T00:00:34.000Z"
+			"headline": "How a deep-ocean desalination startup hopes to rewrite California's water future",
+			"url": "https://www.latimes.com/environment/story/2026-06-02/california-desalination-tech-oceanwell-testing",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T10:00:00.000Z"
+		},
+		{
+			"headline": "Automating the art of grasping",
+			"url": "https://engineering.berkeley.edu/news/2026/05/the-art-of-grasping/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-02T15:35:39.000Z"
 		},
 		{
 			"headline": "Caltech Researchers Propose a New Origin Story for Multicellular Life",
@@ -26,16 +50,16 @@
 			"publishedAt": "2026-06-01T22:32:00.000Z"
 		},
 		{
+			"headline": "MBARI President and CEO Antje Boetius awarded Germany's Knight Commander's Cross of the Order of Merit",
+			"url": "https://www.mbari.org/news/mbari-president-and-ceo-antje-boetius-awarded-germanys-knight-commanders-cross-of-the-order-of-merit/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-02T00:00:34.000Z"
+		},
+		{
 			"headline": "Nicholas de Monchaux appointed dean of the College of Environmental Design",
 			"url": "https://ced.berkeley.edu/news/nicholas-de-monchaux-appointed-dean-uc-berkeley-ced",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-01T16:52:25.000Z"
-		},
-		{
-			"headline": "Brian Stoltz Wins 2025 Tolman Award in Chemistry",
-			"url": "https://www.caltech.edu/about/news/brian-stoltz-wins-2025-tolman-award-in-chemistry",
-			"source": "Caltech",
-			"publishedAt": "2026-06-01T16:20:00.000Z"
 		},
 		{
 			"headline": "Could Avocados Be A Transformational Fruit for the Bay Region?",
@@ -44,70 +68,28 @@
 			"publishedAt": "2026-06-01T13:00:13.000Z"
 		},
 		{
-			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
-			"url": "https://www.mbari.org/news/mbari-and-monterey-bay-aquarium-complete-expedition-to-guide-seamount/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-28T23:35:58.000Z"
+			"headline": "Hundreds join ongoing, expanding search for missing Lake Tahoe hiker",
+			"url": "https://www.latimes.com/california/story/2026-05-31/missing-lake-tahoe-hiker-hundreds-join-search-for-jason-coughran",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-31T19:59:50.000Z"
 		},
 		{
-			"headline": "Chan and Elowitz Named to Great Britain's Royal Society",
-			"url": "https://www.caltech.edu/about/news/chan-and-elowitz-named-to-great-britains-royal-society",
-			"source": "Caltech",
-			"publishedAt": "2026-05-28T21:19:24.202Z"
+			"headline": "Two bald eagles seen taking it easy in L.A. County park",
+			"url": "https://www.latimes.com/entertainment-arts/business/story/2026-05-31/pair-of-bald-eagles-seen-nesting-in-la-county-park",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-05-31T16:12:04.000Z"
 		},
 		{
-			"headline": "How do Californians tolerate extreme inequality?",
-			"url": "https://news.berkeley.edu/2026/05/28/how-do-californians-tolerate-extreme-inequality/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-28T20:43:41.000Z"
+			"headline": "Gender reveal sparked massive blaze. Now 3 companies will pay for their role in El Dorado fire",
+			"url": "https://www.latimes.com/california/story/2026-06-02/gender-reveal-sparked-el-dorado-fire-companies-to-pay-millions-in-damages",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-03T03:33:26.000Z"
 		},
 		{
-			"headline": "Three UC Berkeley faculty members elected to UK's Royal Society",
-			"url": "https://news.berkeley.edu/2026/05/27/three-uc-berkeley-faculty-members-elected-to-uks-royal-society/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-27T18:30:38.000Z"
-		},
-		{
-			"headline": "Point Reyes Is 'Reimagining' Its Trails, and Wants Your Input",
-			"url": "https://baynature.org/2026/05/27/explore/trails/point-reyes-is-reimagining-its-trails-and-wants-your-input/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-27T16:37:00.000Z"
-		},
-		{
-			"headline": "Black Birders Week Takes Flight in the Bay Area",
-			"url": "https://baynature.org/2026/05/27/science-nature/wildlife/black-birders-week-takes-flight-in-the-east-bay/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-27T07:39:44.000Z"
-		},
-		{
-			"headline": "Single Tissue Snapshot Reveals Biological Processes Unfolding Over Time",
-			"url": "https://www.caltech.edu/about/news/single-tissue-snapshot-reveals-biological-processes-unfolding-over-time",
-			"source": "Caltech",
-			"publishedAt": "2026-05-26T20:46:16.826Z"
-		},
-		{
-			"headline": "How worried should you be about Ebola?",
-			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-ebola",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-26T18:38:05.000Z"
-		},
-		{
-			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
-			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-26T16:00:22.000Z"
-		},
-		{
-			"headline": "Tuning Into Quantum Sounds",
-			"url": "https://www.caltech.edu/about/news/tuning-into-quantum-sounds",
-			"source": "Caltech",
-			"publishedAt": "2026-05-22T21:48:00.000Z"
-		},
-		{
-			"headline": "MBARI researchers share latest seafloor science and technology at GeoHab 2026 conference",
-			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-seafloor-science-and-technology-at-geohab-2026-conference/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-21T16:00:38.000Z"
+			"headline": "Monterey Park takes landmark vote on banning data centers",
+			"url": "https://www.latimes.com/environment/story/2026-06-02/monterey-park-to-take-landmark-vote-on-banning-data-centers-ban",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T10:00:00.000Z"
 		}
 	]
 }
