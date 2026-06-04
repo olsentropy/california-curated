@@ -1,17 +1,23 @@
 {
-	"lastUpdated": "2026-06-04T18:07:56.715Z",
+	"lastUpdated": "2026-06-04T21:20:15.167Z",
 	"items": [
+		{
+			"headline": "Mule deer become first animals to use California's first wildlife crossing",
+			"url": "https://www.latimes.com/california/story/2026-06-04/mule-deer-become-first-animals-to-use-californias-first-wildlife-crossing",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T18:29:26.000Z"
+		},
+		{
+			"headline": "The new math of urban wildfires",
+			"url": "https://engineering.berkeley.edu/news/2026/05/from-forest-to-front-door/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-04T18:19:31.000Z"
+		},
 		{
 			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
 			"url": "https://news.mongabay.com/short-article/2026/06/pilot-project-in-san-francisco-bay-aims-to-help-ships-avoid-gray-whales/",
 			"source": "Mongabay",
 			"publishedAt": "2026-06-04T16:44:50.000Z"
-		},
-		{
-			"headline": "How Google's 32-million mosquito project could change California's battle against dengue",
-			"url": "https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
 			"headline": "Emergency room visits during heat waves available to the public in 'near-real time' in L.A. County",
@@ -20,8 +26,8 @@
 			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
-			"headline": "With Highway 1 open, Big Sur braces for its busiest summer in years",
-			"url": "https://www.latimes.com/travel/story/2026-06-04/highway-1-big-sur-summer-crowds",
+			"headline": "How Google's 32-million mosquito project could change California's battle against dengue",
+			"url": "https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
@@ -38,12 +44,6 @@
 			"publishedAt": "2026-06-03T21:25:17.000Z"
 		},
 		{
-			"headline": "Credibility in an Era of Chaos",
-			"url": "https://www.caltech.edu/about/news/credibility-in-an-era-of-chaos",
-			"source": "Caltech",
-			"publishedAt": "2026-06-03T16:14:11.120Z"
-		},
-		{
 			"headline": "MBARI and FathomNet partners release new version of FathomVerse app",
 			"url": "https://www.mbari.org/news/mbari-and-fathomnet-partners-release-new-version-of-fathomverse-app/",
 			"source": "MBARI",
@@ -54,12 +54,6 @@
 			"url": "https://www.mbari.org/news/innovative-mbari-technology-plays-integral-role-in-expedition-to-document-deep-sea-biodiversity/",
 			"source": "MBARI",
 			"publishedAt": "2026-06-03T12:00:03.000Z"
-		},
-		{
-			"headline": "Gender reveal sparked massive blaze. Now 3 companies will pay for their role in El Dorado fire",
-			"url": "https://www.latimes.com/california/story/2026-06-02/gender-reveal-sparked-el-dorado-fire-companies-to-pay-millions-in-damages",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-03T03:33:26.000Z"
 		},
 		{
 			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
@@ -128,16 +122,10 @@
 			"publishedAt": "2026-06-01T13:00:13.000Z"
 		},
 		{
-			"headline": "The Strauch Hypercube lets there be light in the Grimes Engineering Center",
-			"url": "https://engineering.berkeley.edu/news/2026/05/let-there-be-light/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-03T19:09:22.000Z"
-		},
-		{
-			"headline": "Newly acquired archive offers a peek inside the singular mind of 'a beautiful artist'",
-			"url": "https://www.lib.berkeley.edu/about/news/howard",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-03T19:38:21.000Z"
+			"headline": "Credibility in an Era of Chaos",
+			"url": "https://www.caltech.edu/about/news/credibility-in-an-era-of-chaos",
+			"source": "Caltech",
+			"publishedAt": "2026-06-03T16:14:11.120Z"
 		}
 	]
 }
