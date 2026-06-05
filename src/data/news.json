@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-05T11:18:58.847Z",
+	"lastUpdated": "2026-06-05T14:15:16.153Z",
 	"items": [
 		{
 			"headline": "We barely know what's been lost from the fire on Santa Rosa Island",
@@ -14,18 +14,6 @@
 			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
 		{
-			"headline": "Orange County health officials walk back claim that there was 'no leak' in chemical tank crisis",
-			"url": "https://www.latimes.com/california/story/2026-06-04/oc-officials-walk-back-claim-of-no-leak-in-chemical-tank-crisis",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T22:59:17.000Z"
-		},
-		{
-			"headline": "Rail car loaded with lithium-ion batteries bursts into flames in Cajon Pass",
-			"url": "https://www.latimes.com/california/story/2026-06-04/rail-car-loaded-with-lithium-batteries-bursts-into-flames-in-cajon-pass",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T21:24:43.000Z"
-		},
-		{
 			"headline": "Trump announces new coal export terminal in Oakland",
 			"url": "https://www.latimes.com/environment/story/2026-06-04/trump-invokes-emergency-powers-to-invest-700-million-in-coal-including-new-export-terminal-in-california",
 			"source": "Los Angeles Times",
@@ -38,16 +26,16 @@
 			"publishedAt": "2026-06-04T18:29:26.000Z"
 		},
 		{
-			"headline": "Newsom Wants Prop 4 Funds for Golden Gate Fields. Some Local Conservationists Have Other Priorities.",
-			"url": "https://baynature.org/2026/06/04/conservation/parks/newsom-wants-prop-4-funds-for-golden-gate-fields-some-local-conservationists-have-other-priorities/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-06-04T18:26:12.000Z"
-		},
-		{
 			"headline": "The new math of urban wildfires",
 			"url": "https://engineering.berkeley.edu/news/2026/05/from-forest-to-front-door/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-04T18:19:31.000Z"
+		},
+		{
+			"headline": "Newsom Wants Prop 4 Funds for Golden Gate Fields. Some Local Conservationists Have Other Priorities.",
+			"url": "https://baynature.org/2026/06/04/conservation/parks/newsom-wants-prop-4-funds-for-golden-gate-fields-some-local-conservationists-have-other-priorities/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-06-04T18:26:12.000Z"
 		},
 		{
 			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
@@ -64,6 +52,12 @@
 		{
 			"headline": "How Google's 32-million mosquito project could change California's battle against dengue",
 			"url": "https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T10:00:00.000Z"
+		},
+		{
+			"headline": "With Highway 1 open, Big Sur braces for its busiest summer in years",
+			"url": "https://www.latimes.com/travel/story/2026-06-04/highway-1-big-sur-summer-crowds",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
@@ -98,10 +92,10 @@
 			"publishedAt": "2026-06-03T16:14:11.120Z"
 		},
 		{
-			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
-			"url": "https://www.latimes.com/science/story/2026-06-02/political-play-or-budget-fix-competition-for-jpls-management-comes-at-fraught-moment",
+			"headline": "Gender reveal sparked massive blaze. Now 3 companies will pay for their role in El Dorado fire",
+			"url": "https://www.latimes.com/california/story/2026-06-02/gender-reveal-sparked-el-dorado-fire-companies-to-pay-millions-in-damages",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-02T16:47:25.000Z"
+			"publishedAt": "2026-06-03T03:33:26.000Z"
 		},
 		{
 			"headline": "Caltech Engineers Without Borders Chapter Implements Revitalized Water Supply System in Ecuadorian Village",
@@ -114,6 +108,12 @@
 			"url": "https://engineering.berkeley.edu/news/2026/05/the-art-of-grasping/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-02T15:35:39.000Z"
+		},
+		{
+			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
+			"url": "https://www.latimes.com/science/story/2026-06-02/political-play-or-budget-fix-competition-for-jpls-management-comes-at-fraught-moment",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T16:47:25.000Z"
 		},
 		{
 			"headline": "How a deep-ocean desalination startup hopes to rewrite California's water future",
