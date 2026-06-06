@@ -1,17 +1,11 @@
 {
-	"lastUpdated": "2026-06-06T16:55:14.276Z",
+	"lastUpdated": "2026-06-06T20:51:36.609Z",
 	"items": [
 		{
 			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
 			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
 			"source": "NPR Science",
 			"publishedAt": "2026-06-06T11:41:04.000Z"
-		},
-		{
-			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
-			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
 			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
@@ -22,6 +16,12 @@
 		{
 			"headline": "A flesh-eating worm from the 1960s is re-invading the U.S. Are CA cattle at risk?",
 			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
+			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
@@ -56,10 +56,10 @@
 			"publishedAt": "2026-06-05T20:29:24.000Z"
 		},
 		{
-			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
+			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T16:53:36.000Z"
+			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
 		{
 			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
@@ -68,10 +68,10 @@
 			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
 		{
-			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
+			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T10:00:00.000Z"
+			"publishedAt": "2026-06-05T16:53:36.000Z"
 		},
 		{
 			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
@@ -104,14 +104,20 @@
 			"publishedAt": "2026-06-04T18:19:31.000Z"
 		},
 		{
+			"headline": "Emergency room visits during heat waves available to the public in 'near-real time' in L.A. County",
+			"url": "https://www.latimes.com/environment/story/2026-06-04/los-angeles-county-publishes-heat-realted-illness-in-near-real-time",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T10:00:00.000Z"
+		},
+		{
 			"headline": "How Google's 32-million mosquito project could change California's battle against dengue",
 			"url": "https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
-			"headline": "Emergency room visits during heat waves available to the public in 'near-real time' in L.A. County",
-			"url": "https://www.latimes.com/environment/story/2026-06-04/los-angeles-county-publishes-heat-realted-illness-in-near-real-time",
+			"headline": "With Highway 1 open, Big Sur braces for its busiest summer in years",
+			"url": "https://www.latimes.com/travel/story/2026-06-04/highway-1-big-sur-summer-crowds",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
