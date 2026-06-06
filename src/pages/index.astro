@@ -53,6 +53,14 @@ const sectionRails = SECTIONS.map((s) => {
 				)}
 
 				<aside class="hero-rail">
+					<a href="/science-feed/" class="science-promo">
+						<div class="science-promo-inner">
+							<span class="science-promo-label">Live Feed</span>
+							<h3 class="science-promo-title">California Science &amp; Nature News</h3>
+							<p class="science-promo-sub">Stories from 30+ California research labs, universities &amp; science media →</p>
+						</div>
+					</a>
+
 					<h3 class="rail-title">Previous Posts</h3>
 					{previousPosts.map((p) => (
 						<article class="rail-item">
@@ -317,5 +325,45 @@ const sectionRails = SECTIONS.map((s) => {
 	@media (max-width: 600px) {
 		.hero-secondary { flex-direction: column; }
 		.rail-grid { grid-template-columns: 1fr; }
+	}
+
+	/* Science feed promo box */
+	.science-promo {
+		display: block;
+		text-decoration: none;
+		margin-bottom: 1.5rem;
+		border-radius: var(--cc-radius);
+		overflow: hidden;
+		background: linear-gradient(135deg, #0a3d52 0%, #0e6e6e 50%, #1a6e3a 100%);
+		transition: transform .15s, box-shadow .15s;
+	}
+	.science-promo:hover {
+		transform: translateY(-2px);
+		box-shadow: 0 6px 20px rgba(0,0,0,.18);
+	}
+	.science-promo-inner {
+		padding: 1rem 1.1rem;
+	}
+	.science-promo-label {
+		display: inline-block;
+		font-size: .65rem;
+		font-weight: 800;
+		letter-spacing: .1em;
+		text-transform: uppercase;
+		color: rgba(255,255,255,.7);
+		margin-bottom: .35rem;
+	}
+	.science-promo-title {
+		font-size: 1rem;
+		font-weight: 700;
+		color: #fff;
+		line-height: 1.3;
+		margin: 0 0 .4rem;
+	}
+	.science-promo-sub {
+		font-size: .75rem;
+		color: rgba(255,255,255,.75);
+		line-height: 1.45;
+		margin: 0;
 	}
 </style>
