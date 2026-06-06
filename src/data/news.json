@@ -1,8 +1,8 @@
 {
-	"lastUpdated": "2026-06-05T21:14:25.558Z",
+	"lastUpdated": "2026-06-06T01:49:49.928Z",
 	"items": [
 		{
-			"headline": "Pacifica pier cracks; another coastal casualty as seas continue to rise",
+			"headline": "Pacifica pier cracks, another coastal casualty as seas continue to rise",
 			"url": "https://www.latimes.com/environment/story/2026-06-05/pacifica-pier-cracks-another-coastal-casualty-as-seas-continue-to-rise",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-05T20:29:24.000Z"
@@ -24,12 +24,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-05T10:00:00.000Z"
-		},
-		{
-			"headline": "Science of Happiness: Finding common ground in uncomfortable times",
-			"url": "https://greatergood.berkeley.edu/podcasts/series/the_science_of_happiness",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-05T19:14:16.000Z"
 		},
 		{
 			"headline": "Trump announces new coal export terminal in Oakland",
@@ -74,12 +68,6 @@
 			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
-			"headline": "With Highway 1 open, Big Sur braces for its busiest summer in years",
-			"url": "https://www.latimes.com/travel/story/2026-06-04/highway-1-big-sur-summer-crowds",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T10:00:00.000Z"
-		},
-		{
 			"headline": "As feared, endangered sheep dies after getting entangled in razor wire at the border",
 			"url": "https://www.latimes.com/environment/story/2026-06-03/dead-endangered-sheep-found-in-razor-wire-installed-at-u-s-mexico-border",
 			"source": "Los Angeles Times",
@@ -104,16 +92,10 @@
 			"publishedAt": "2026-06-03T12:00:03.000Z"
 		},
 		{
-			"headline": "Credibility in an Era of Chaos",
-			"url": "https://www.caltech.edu/about/news/credibility-in-an-era-of-chaos",
-			"source": "Caltech",
-			"publishedAt": "2026-06-03T16:14:11.120Z"
-		},
-		{
-			"headline": "Caltech Engineers Without Borders Chapter Implements Revitalized Water Supply System in Ecuadorian Village",
-			"url": "https://www.caltech.edu/about/news/caltech-engineers-without-borders-chapter-implements-revitalized-water-supply-system-in-ecuadorian-village",
-			"source": "Caltech",
-			"publishedAt": "2026-06-02T16:20:00.000Z"
+			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
+			"url": "https://www.latimes.com/science/story/2026-06-02/political-play-or-budget-fix-competition-for-jpls-management-comes-at-fraught-moment",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T16:47:25.000Z"
 		},
 		{
 			"headline": "Automating the art of grasping",
@@ -122,34 +104,16 @@
 			"publishedAt": "2026-06-02T15:35:39.000Z"
 		},
 		{
-			"headline": "Monterey Park takes landmark vote on banning data centers",
-			"url": "https://www.latimes.com/environment/story/2026-06-02/monterey-park-to-take-landmark-vote-on-banning-data-centers-ban",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-02T10:00:00.000Z"
-		},
-		{
 			"headline": "How a deep-ocean desalination startup hopes to rewrite California's water future",
 			"url": "https://www.latimes.com/environment/story/2026-06-02/california-desalination-tech-oceanwell-testing",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-02T10:00:00.000Z"
 		},
 		{
-			"headline": "Gender reveal sparked massive blaze. Now 3 companies will pay for their role in El Dorado fire",
-			"url": "https://www.latimes.com/california/story/2026-06-02/gender-reveal-sparked-el-dorado-fire-companies-to-pay-millions-in-damages",
+			"headline": "Monterey Park takes landmark vote on banning data centers",
+			"url": "https://www.latimes.com/environment/story/2026-06-02/monterey-park-to-take-landmark-vote-on-banning-data-centers-ban",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-03T03:33:26.000Z"
-		},
-		{
-			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
-			"url": "https://www.latimes.com/science/story/2026-06-02/political-play-or-budget-fix-competition-for-jpls-management-comes-at-fraught-moment",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-02T16:47:25.000Z"
-		},
-		{
-			"headline": "Contributor: Recent assessment of California's water misallocation is the first step toward justice",
-			"url": "https://www.latimes.com/opinion/story/2026-06-04/recent-assessment-of-californias-water-misallocation-is-first-step-toward-justice",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T10:09:00.000Z"
+			"publishedAt": "2026-06-02T10:00:00.000Z"
 		}
 	]
 }
