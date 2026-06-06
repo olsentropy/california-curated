@@ -1,11 +1,41 @@
 {
-	"lastUpdated": "2026-06-06T06:44:58.166Z",
+	"lastUpdated": "2026-06-06T09:50:57.242Z",
 	"items": [
+		{
+			"headline": "Pacifica pier cracks, another coastal casualty as seas continue to rise",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/pacifica-pier-cracks-another-coastal-casualty-as-seas-continue-to-rise",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T20:29:24.000Z"
+		},
+		{
+			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
+			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T02:10:03.000Z"
+		},
+		{
+			"headline": "Defending democracy is voters' top priority in California governor's race, poll finds",
+			"url": "https://news.berkeley.edu/2026/06/05/defending-democracy-is-voters-top-priority-in-california-governors-race-poll-finds/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-05T21:23:43.000Z"
+		},
+		{
+			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T16:53:36.000Z"
+		},
 		{
 			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
 			"url": "https://news.mongabay.com/short-article/2026/06/pilot-project-in-san-francisco-bay-aims-to-help-ships-avoid-gray-whales/",
 			"source": "Mongabay",
 			"publishedAt": "2026-06-04T16:44:50.000Z"
+		},
+		{
+			"headline": "Mule deer become first animals to use California's first wildlife crossing",
+			"url": "https://www.latimes.com/california/story/2026-06-04/mule-deer-become-first-animals-to-use-californias-first-wildlife-crossing",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T18:29:26.000Z"
 		},
 		{
 			"headline": "The new math of urban wildfires",
@@ -20,6 +50,66 @@
 			"publishedAt": "2026-06-04T18:26:12.000Z"
 		},
 		{
+			"headline": "Trump announces new coal export terminal in Oakland",
+			"url": "https://www.latimes.com/environment/story/2026-06-04/trump-invokes-emergency-powers-to-invest-700-million-in-coal-including-new-export-terminal-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T20:03:58.000Z"
+		},
+		{
+			"headline": "How Google's 32-million mosquito project could change California's battle against dengue",
+			"url": "https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T10:00:00.000Z"
+		},
+		{
+			"headline": "Emergency room visits during heat waves available to the public in 'near-real time' in L.A. County",
+			"url": "https://www.latimes.com/environment/story/2026-06-04/los-angeles-county-publishes-heat-realted-illness-in-near-real-time",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T10:00:00.000Z"
+		},
+		{
+			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T10:00:00.000Z"
+		},
+		{
+			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T10:00:00.000Z"
+		},
+		{
+			"headline": "As feared, endangered sheep dies after getting entangled in razor wire at the border",
+			"url": "https://www.latimes.com/environment/story/2026-06-03/dead-endangered-sheep-found-in-razor-wire-installed-at-u-s-mexico-border",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-03T23:43:51.000Z"
+		},
+		{
+			"headline": "In a first for the country, voters in Monterey Park ban data centers",
+			"url": "https://www.latimes.com/environment/story/2026-06-03/in-first-for-country-voters-in-monterey-park-ban-data-centers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-03T21:25:17.000Z"
+		},
+		{
+			"headline": "Gender reveal sparked massive blaze. Now 3 companies will pay for their role in El Dorado fire",
+			"url": "https://www.latimes.com/california/story/2026-06-02/gender-reveal-sparked-el-dorado-fire-companies-to-pay-millions-in-damages",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-03T03:33:26.000Z"
+		},
+		{
+			"headline": "Competition to run JPL comes at fraught moment of federal budget cuts, project overruns, management missteps",
+			"url": "https://www.latimes.com/science/story/2026-06-02/political-play-or-budget-fix-competition-for-jpls-management-comes-at-fraught-moment",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-02T16:47:25.000Z"
+		},
+		{
+			"headline": "Automating the art of grasping",
+			"url": "https://engineering.berkeley.edu/news/2026/05/the-art-of-grasping/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-02T15:35:39.000Z"
+		},
+		{
 			"headline": "MBARI and FathomNet partners release new version of FathomVerse app",
 			"url": "https://www.mbari.org/news/mbari-and-fathomnet-partners-release-new-version-of-fathomverse-app/",
 			"source": "MBARI",
@@ -32,82 +122,10 @@
 			"publishedAt": "2026-06-03T12:00:03.000Z"
 		},
 		{
-			"headline": "Credibility in an Era of Chaos",
-			"url": "https://www.caltech.edu/about/news/credibility-in-an-era-of-chaos",
+			"headline": "Caltech Engineers Without Borders Chapter Implements Revitalized Water Supply System in Ecuadorian Village",
+			"url": "https://www.caltech.edu/about/news/caltech-engineers-without-borders-chapter-implements-revitalized-water-supply-system-in-ecuadorian-village",
 			"source": "Caltech",
-			"publishedAt": "2026-06-03T16:14:11.120Z"
-		},
-		{
-			"headline": "MBARI President and CEO Antje Boetius awarded Germany's Knight Commander's Cross of the Order of Merit",
-			"url": "https://www.mbari.org/news/mbari-president-and-ceo-antje-boetius-awarded-germanys-knight-commanders-cross-of-the-order-of-merit/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-02T00:00:34.000Z"
-		},
-		{
-			"headline": "Caltech Researchers Propose a New Origin Story for Multicellular Life",
-			"url": "https://www.caltech.edu/about/news/caltech-researchers-propose-a-new-origin-story-for-multicellular-life",
-			"source": "Caltech",
-			"publishedAt": "2026-06-01T22:32:00.000Z"
-		},
-		{
-			"headline": "Nicholas de Monchaux appointed dean of the College of Environmental Design",
-			"url": "https://ced.berkeley.edu/news/nicholas-de-monchaux-appointed-dean-uc-berkeley-ced",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-01T16:52:25.000Z"
-		},
-		{
-			"headline": "Brian Stoltz Wins 2025 Tolman Award in Chemistry",
-			"url": "https://www.caltech.edu/about/news/brian-stoltz-wins-2025-tolman-award-in-chemistry",
-			"source": "Caltech",
-			"publishedAt": "2026-06-01T16:20:00.000Z"
-		},
-		{
-			"headline": "Could Avocados Be A Transformational Fruit for the Bay Region?",
-			"url": "https://baynature.org/2026/06/01/conservation/biodiversity/could-avocados-be-a-transformational-fruit-for-the-bay-region/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-06-01T13:00:13.000Z"
-		},
-		{
-			"headline": "MBARI and Monterey Bay Aquarium complete expedition to Guide Seamount",
-			"url": "https://www.mbari.org/news/mbari-and-monterey-bay-aquarium-complete-expedition-to-guide-seamount/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-28T23:35:58.000Z"
-		},
-		{
-			"headline": "Chan and Elowitz Named to Great Britain's Royal Society",
-			"url": "https://www.caltech.edu/about/news/chan-and-elowitz-named-to-great-britains-royal-society",
-			"source": "Caltech",
-			"publishedAt": "2026-05-28T21:19:24.202Z"
-		},
-		{
-			"headline": "How do Californians tolerate extreme inequality?",
-			"url": "https://news.berkeley.edu/2026/05/28/how-do-californians-tolerate-extreme-inequality/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-05-28T20:43:41.000Z"
-		},
-		{
-			"headline": "Point Reyes Is 'Reimagining' Its Trails, and Wants Your Input",
-			"url": "https://baynature.org/2026/05/27/explore/trails/point-reyes-is-reimagining-its-trails-and-wants-your-input/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-27T16:37:00.000Z"
-		},
-		{
-			"headline": "Black Birders Week Takes Flight in the Bay Area",
-			"url": "https://baynature.org/2026/05/27/science-nature/wildlife/black-birders-week-takes-flight-in-the-east-bay/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-05-27T07:39:44.000Z"
-		},
-		{
-			"headline": "Single Tissue Snapshot Reveals Biological Processes Unfolding Over Time",
-			"url": "https://www.caltech.edu/about/news/single-tissue-snapshot-reveals-biological-processes-unfolding-over-time",
-			"source": "Caltech",
-			"publishedAt": "2026-05-26T20:46:16.826Z"
-		},
-		{
-			"headline": "MBARI researchers share latest AI tools for ocean imagery analysis at Marine Imaging Workshop",
-			"url": "https://www.mbari.org/news/mbari-researchers-share-latest-ai-tools-for-ocean-imagery-analysis-at-marine-imaging-workshop/",
-			"source": "MBARI",
-			"publishedAt": "2026-05-26T16:00:22.000Z"
+			"publishedAt": "2026-06-02T16:20:00.000Z"
 		}
 	]
 }
