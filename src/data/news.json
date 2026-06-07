@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-06T20:51:36.609Z",
+	"lastUpdated": "2026-06-07T02:02:59.065Z",
 	"items": [
 		{
 			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
@@ -8,8 +8,8 @@
 			"publishedAt": "2026-06-06T11:41:04.000Z"
 		},
 		{
-			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
-			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
+			"headline": "One label, many risks: how grouping Asian Americans hides deadly cancer patterns",
+			"url": "https://www.latimes.com/science/story/2026-06-06/uc-irvine-asian-american-high-rates-certain-cancers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
@@ -20,14 +20,20 @@
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
+			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
+			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
 			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
 			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
-			"headline": "One label, many risks: how grouping Asian Americans hides deadly cancer patterns",
-			"url": "https://www.latimes.com/science/story/2026-06-06/uc-irvine-asian-american-high-rates-certain-cancers",
+			"headline": "Do you live near a hazardous industrial site in L.A. County? How to find out",
+			"url": "https://www.latimes.com/california/story/2026-06-06/do-you-live-near-hazardous-industrial-site-in-la-county-how-to-find-out",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
@@ -56,10 +62,10 @@
 			"publishedAt": "2026-06-05T20:29:24.000Z"
 		},
 		{
-			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
+			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T10:00:00.000Z"
+			"publishedAt": "2026-06-05T16:53:36.000Z"
 		},
 		{
 			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
@@ -68,16 +74,10 @@
 			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
 		{
-			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
+			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T16:53:36.000Z"
-		},
-		{
-			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
-			"url": "https://news.mongabay.com/short-article/2026/06/pilot-project-in-san-francisco-bay-aims-to-help-ships-avoid-gray-whales/",
-			"source": "Mongabay",
-			"publishedAt": "2026-06-04T16:44:50.000Z"
+			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
 		{
 			"headline": "Trump announces new coal export terminal in Oakland",
@@ -102,6 +102,12 @@
 			"url": "https://engineering.berkeley.edu/news/2026/05/from-forest-to-front-door/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-04T18:19:31.000Z"
+		},
+		{
+			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
+			"url": "https://news.mongabay.com/short-article/2026/06/pilot-project-in-san-francisco-bay-aims-to-help-ships-avoid-gray-whales/",
+			"source": "Mongabay",
+			"publishedAt": "2026-06-04T16:44:50.000Z"
 		},
 		{
 			"headline": "Emergency room visits during heat waves available to the public in 'near-real time' in L.A. County",
@@ -144,12 +150,6 @@
 			"url": "https://www.mbari.org/news/innovative-mbari-technology-plays-integral-role-in-expedition-to-document-deep-sea-biodiversity/",
 			"source": "MBARI",
 			"publishedAt": "2026-06-03T12:00:03.000Z"
-		},
-		{
-			"headline": "Gender reveal sparked massive blaze. Now 3 companies will pay for their role in El Dorado fire",
-			"url": "https://www.latimes.com/california/story/2026-06-02/gender-reveal-sparked-el-dorado-fire-companies-to-pay-millions-in-damages",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-03T03:33:26.000Z"
 		}
 	]
 }
