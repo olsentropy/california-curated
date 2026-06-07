@@ -1,17 +1,11 @@
 {
-	"lastUpdated": "2026-06-07T17:01:17.880Z",
+	"lastUpdated": "2026-06-07T20:57:12.268Z",
 	"items": [
 		{
 			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
 			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
 			"source": "NPR Science",
 			"publishedAt": "2026-06-06T11:41:04.000Z"
-		},
-		{
-			"headline": "A flesh-eating worm from the 1960s is re-invading the U.S. Are CA cattle at risk?",
-			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
 			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
@@ -28,6 +22,12 @@
 		{
 			"headline": "One label, many risks: how grouping Asian Americans hides deadly cancer patterns",
 			"url": "https://www.latimes.com/science/story/2026-06-06/uc-irvine-asian-american-high-rates-certain-cancers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "A flesh-eating worm from the 1960s is re-invading the U.S. Are CA cattle at risk?",
+			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
@@ -56,6 +56,12 @@
 			"publishedAt": "2026-06-05T20:29:24.000Z"
 		},
 		{
+			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T16:53:36.000Z"
+		},
+		{
 			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
 			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
 			"source": "Los Angeles Times",
@@ -66,12 +72,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-05T10:00:00.000Z"
-		},
-		{
-			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T16:53:36.000Z"
 		},
 		{
 			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
@@ -122,18 +122,6 @@
 			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
-			"headline": "MBARI and FathomNet partners release new version of FathomVerse app",
-			"url": "https://www.mbari.org/news/mbari-and-fathomnet-partners-release-new-version-of-fathomverse-app/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-03T15:00:40.000Z"
-		},
-		{
-			"headline": "Innovative MBARI technology plays integral role in expedition to document deep-sea biodiversity",
-			"url": "https://www.mbari.org/news/innovative-mbari-technology-plays-integral-role-in-expedition-to-document-deep-sea-biodiversity/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-03T12:00:03.000Z"
-		},
-		{
 			"headline": "As feared, endangered sheep dies after getting entangled in razor wire at the border",
 			"url": "https://www.latimes.com/environment/story/2026-06-03/dead-endangered-sheep-found-in-razor-wire-installed-at-u-s-mexico-border",
 			"source": "Los Angeles Times",
@@ -144,6 +132,18 @@
 			"url": "https://www.latimes.com/environment/story/2026-06-03/in-first-for-country-voters-in-monterey-park-ban-data-centers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-03T21:25:17.000Z"
+		},
+		{
+			"headline": "MBARI and FathomNet partners release new version of FathomVerse app",
+			"url": "https://www.mbari.org/news/mbari-and-fathomnet-partners-release-new-version-of-fathomverse-app/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-03T15:00:40.000Z"
+		},
+		{
+			"headline": "Innovative MBARI technology plays integral role in expedition to document deep-sea biodiversity",
+			"url": "https://www.mbari.org/news/innovative-mbari-technology-plays-integral-role-in-expedition-to-document-deep-sea-biodiversity/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-03T12:00:03.000Z"
 		},
 		{
 			"headline": "Credibility in an Era of Chaos",
