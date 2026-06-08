@@ -1,23 +1,11 @@
 {
-	"lastUpdated": "2026-06-08T02:08:05.483Z",
+	"lastUpdated": "2026-06-08T08:42:19.796Z",
 	"items": [
 		{
-			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
-			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
-			"source": "NPR Science",
-			"publishedAt": "2026-06-06T11:41:04.000Z"
-		},
-		{
-			"headline": "One label, many risks: how grouping Asian Americans hides deadly cancer patterns",
-			"url": "https://www.latimes.com/science/story/2026-06-06/uc-irvine-asian-american-high-rates-certain-cancers",
+			"headline": "Authorities draw down massive search for missing Tahoe hiker presumed dead",
+			"url": "https://www.latimes.com/california/story/2026-06-07/missing-lake-tahoe-hiker-jason-coughran-presumed-dead-search",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
-			"headline": "A flesh-eating worm from the 1960s is re-invading the U.S. Are CA cattle at risk?",
-			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
+			"publishedAt": "2026-06-07T22:35:19.000Z"
 		},
 		{
 			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
@@ -32,6 +20,30 @@
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
+			"headline": "One label, many risks: how grouping Asian Americans hides deadly cancer patterns",
+			"url": "https://www.latimes.com/science/story/2026-06-06/uc-irvine-asian-american-high-rates-certain-cancers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "A flesh-eating worm from the 1960s is re-invading the U.S. Are CA cattle at risk?",
+			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
+			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
+			"source": "NPR Science",
+			"publishedAt": "2026-06-06T11:41:04.000Z"
+		},
+		{
+			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
+			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T02:10:03.000Z"
+		},
+		{
 			"headline": "Defending democracy is voters' top priority in California governor's race, poll finds",
 			"url": "https://news.berkeley.edu/2026/06/05/defending-democracy-is-voters-top-priority-in-california-governors-race-poll-finds/",
 			"source": "UC Berkeley News",
@@ -44,14 +56,14 @@
 			"publishedAt": "2026-06-05T20:29:24.000Z"
 		},
 		{
-			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
+			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
 		{
-			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
+			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
@@ -110,6 +122,12 @@
 			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
+			"headline": "Contributor: Recent assessment of California's water misallocation is the first step toward justice",
+			"url": "https://www.latimes.com/opinion/story/2026-06-04/recent-assessment-of-californias-water-misallocation-is-first-step-toward-justice",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T10:09:00.000Z"
+		},
+		{
 			"headline": "As feared, endangered sheep dies after getting entangled in razor wire at the border",
 			"url": "https://www.latimes.com/environment/story/2026-06-03/dead-endangered-sheep-found-in-razor-wire-installed-at-u-s-mexico-border",
 			"source": "Los Angeles Times",
@@ -120,12 +138,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-06-03/in-first-for-country-voters-in-monterey-park-ban-data-centers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-03T21:25:17.000Z"
-		},
-		{
-			"headline": "MBARI and FathomNet partners release new version of FathomVerse app",
-			"url": "https://www.mbari.org/news/mbari-and-fathomnet-partners-release-new-version-of-fathomverse-app/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-03T15:00:40.000Z"
 		},
 		{
 			"headline": "Credibility in an Era of Chaos",
