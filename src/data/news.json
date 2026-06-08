@@ -1,23 +1,11 @@
 {
-	"lastUpdated": "2026-06-07T20:57:12.268Z",
+	"lastUpdated": "2026-06-08T02:08:05.483Z",
 	"items": [
 		{
 			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
 			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
 			"source": "NPR Science",
 			"publishedAt": "2026-06-06T11:41:04.000Z"
-		},
-		{
-			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
-			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
-			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
-			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
 			"headline": "One label, many risks: how grouping Asian Americans hides deadly cancer patterns",
@@ -32,16 +20,16 @@
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
-			"headline": "50 gallons of water spill into storm drain at site of O.C. chemical crisis, testing underway",
-			"url": "https://www.latimes.com/california/story/2026-06-05/water-spills-at-gkn-aerospace-testing-underway-for-toxic-chemical",
+			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
+			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T03:02:04.000Z"
+			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
-			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
-			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
+			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
+			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T02:10:03.000Z"
+			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
 			"headline": "Defending democracy is voters' top priority in California governor's race, poll finds",
@@ -56,10 +44,10 @@
 			"publishedAt": "2026-06-05T20:29:24.000Z"
 		},
 		{
-			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
+			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T16:53:36.000Z"
+			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
 		{
 			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
@@ -68,10 +56,10 @@
 			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
 		{
-			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
+			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T10:00:00.000Z"
+			"publishedAt": "2026-06-05T16:53:36.000Z"
 		},
 		{
 			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
@@ -138,12 +126,6 @@
 			"url": "https://www.mbari.org/news/mbari-and-fathomnet-partners-release-new-version-of-fathomverse-app/",
 			"source": "MBARI",
 			"publishedAt": "2026-06-03T15:00:40.000Z"
-		},
-		{
-			"headline": "Innovative MBARI technology plays integral role in expedition to document deep-sea biodiversity",
-			"url": "https://www.mbari.org/news/innovative-mbari-technology-plays-integral-role-in-expedition-to-document-deep-sea-biodiversity/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-03T12:00:03.000Z"
 		},
 		{
 			"headline": "Credibility in an Era of Chaos",
