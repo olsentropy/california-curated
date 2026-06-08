@@ -1,47 +1,17 @@
 {
-	"lastUpdated": "2026-06-08T08:42:19.796Z",
+	"lastUpdated": "2026-06-08T15:19:58.527Z",
 	"items": [
 		{
-			"headline": "Authorities draw down massive search for missing Tahoe hiker presumed dead",
-			"url": "https://www.latimes.com/california/story/2026-06-07/missing-lake-tahoe-hiker-jason-coughran-presumed-dead-search",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-07T22:35:19.000Z"
+			"headline": "Tripping into old age: Can psychedelics protect the aging brain?",
+			"url": "https://news.berkeley.edu/2026/06/08/tripping-into-old-age-can-psychedelics-protect-the-aging-brain/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-08T15:00:00.000Z"
 		},
 		{
-			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
-			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
-			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
-			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
-			"headline": "One label, many risks: how grouping Asian Americans hides deadly cancer patterns",
-			"url": "https://www.latimes.com/science/story/2026-06-06/uc-irvine-asian-american-high-rates-certain-cancers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
-			"headline": "A flesh-eating worm from the 1960s is re-invading the U.S. Are CA cattle at risk?",
-			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
-			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
-			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
+			"headline": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
+			"url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
 			"source": "NPR Science",
-			"publishedAt": "2026-06-06T11:41:04.000Z"
-		},
-		{
-			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
-			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T02:10:03.000Z"
+			"publishedAt": "2026-06-08T09:00:00.000Z"
 		},
 		{
 			"headline": "Defending democracy is voters' top priority in California governor's race, poll finds",
@@ -56,10 +26,10 @@
 			"publishedAt": "2026-06-05T20:29:24.000Z"
 		},
 		{
-			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
+			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T10:00:00.000Z"
+			"publishedAt": "2026-06-05T16:53:36.000Z"
 		},
 		{
 			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
@@ -68,22 +38,10 @@
 			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
 		{
-			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T16:53:36.000Z"
-		},
-		{
 			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
 			"url": "https://news.mongabay.com/short-article/2026/06/pilot-project-in-san-francisco-bay-aims-to-help-ships-avoid-gray-whales/",
 			"source": "Mongabay",
 			"publishedAt": "2026-06-04T16:44:50.000Z"
-		},
-		{
-			"headline": "Trump announces new coal export terminal in Oakland",
-			"url": "https://www.latimes.com/environment/story/2026-06-04/trump-invokes-emergency-powers-to-invest-700-million-in-coal-including-new-export-terminal-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T20:03:58.000Z"
 		},
 		{
 			"headline": "Mule deer become first animals to use California's first wildlife crossing",
@@ -104,6 +62,12 @@
 			"publishedAt": "2026-06-04T18:19:31.000Z"
 		},
 		{
+			"headline": "Trump announces new coal export terminal in Oakland",
+			"url": "https://www.latimes.com/environment/story/2026-06-04/trump-invokes-emergency-powers-to-invest-700-million-in-coal-including-new-export-terminal-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T20:03:58.000Z"
+		},
+		{
 			"headline": "Emergency room visits during heat waves available to the public in 'near-real time' in L.A. County",
 			"url": "https://www.latimes.com/environment/story/2026-06-04/los-angeles-county-publishes-heat-realted-illness-in-near-real-time",
 			"source": "Los Angeles Times",
@@ -122,10 +86,34 @@
 			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
-			"headline": "Contributor: Recent assessment of California's water misallocation is the first step toward justice",
-			"url": "https://www.latimes.com/opinion/story/2026-06-04/recent-assessment-of-californias-water-misallocation-is-first-step-toward-justice",
+			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
+			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T10:09:00.000Z"
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "A flesh-eating worm from the 1960s is re-invading the U.S. Are CA cattle at risk?",
+			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
+			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "One label, many risks: how grouping Asian Americans hides deadly cancer patterns",
+			"url": "https://www.latimes.com/science/story/2026-06-06/uc-irvine-asian-american-high-rates-certain-cancers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "In Monterey Park, voters ban data centers in first for the country",
+			"url": "https://www.latimes.com/environment/story/2026-06-03/in-first-for-country-voters-in-monterey-park-ban-data-centers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-03T21:25:17.000Z"
 		},
 		{
 			"headline": "As feared, endangered sheep dies after getting entangled in razor wire at the border",
@@ -134,16 +122,22 @@
 			"publishedAt": "2026-06-03T23:43:51.000Z"
 		},
 		{
-			"headline": "In a first for the country, voters in Monterey Park ban data centers",
-			"url": "https://www.latimes.com/environment/story/2026-06-03/in-first-for-country-voters-in-monterey-park-ban-data-centers",
+			"headline": "50 gallons of water spill into storm drain at site of O.C. chemical crisis, testing underway",
+			"url": "https://www.latimes.com/california/story/2026-06-05/water-spills-at-gkn-aerospace-testing-underway-for-toxic-chemical",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-03T21:25:17.000Z"
+			"publishedAt": "2026-06-06T03:02:04.000Z"
 		},
 		{
-			"headline": "Credibility in an Era of Chaos",
-			"url": "https://www.caltech.edu/about/news/credibility-in-an-era-of-chaos",
-			"source": "Caltech",
-			"publishedAt": "2026-06-03T16:14:11.120Z"
+			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
+			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T02:10:03.000Z"
+		},
+		{
+			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T10:00:00.000Z"
 		}
 	]
 }
