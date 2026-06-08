@@ -1,17 +1,17 @@
 {
-	"lastUpdated": "2026-06-08T15:19:58.527Z",
+	"lastUpdated": "2026-06-08T18:16:17.776Z",
 	"items": [
-		{
-			"headline": "Tripping into old age: Can psychedelics protect the aging brain?",
-			"url": "https://news.berkeley.edu/2026/06/08/tripping-into-old-age-can-psychedelics-protect-the-aging-brain/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-08T15:00:00.000Z"
-		},
 		{
 			"headline": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
 			"url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
 			"source": "NPR Science",
 			"publishedAt": "2026-06-08T09:00:00.000Z"
+		},
+		{
+			"headline": "Tripping into old age: Can psychedelics protect the aging brain?",
+			"url": "https://news.berkeley.edu/2026/06/08/tripping-into-old-age-can-psychedelics-protect-the-aging-brain/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-08T15:00:00.000Z"
 		},
 		{
 			"headline": "Defending democracy is voters' top priority in California governor's race, poll finds",
@@ -26,64 +26,22 @@
 			"publishedAt": "2026-06-05T20:29:24.000Z"
 		},
 		{
-			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T16:53:36.000Z"
-		},
-		{
 			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
 			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
 		{
+			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T16:53:36.000Z"
+		},
+		{
 			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
 			"url": "https://news.mongabay.com/short-article/2026/06/pilot-project-in-san-francisco-bay-aims-to-help-ships-avoid-gray-whales/",
 			"source": "Mongabay",
 			"publishedAt": "2026-06-04T16:44:50.000Z"
-		},
-		{
-			"headline": "Mule deer become first animals to use California's first wildlife crossing",
-			"url": "https://www.latimes.com/california/story/2026-06-04/mule-deer-become-first-animals-to-use-californias-first-wildlife-crossing",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T18:29:26.000Z"
-		},
-		{
-			"headline": "Newsom Wants Prop 4 Funds for Golden Gate Fields. Some Local Conservationists Have Other Priorities.",
-			"url": "https://baynature.org/2026/06/04/conservation/parks/newsom-wants-prop-4-funds-for-golden-gate-fields-some-local-conservationists-have-other-priorities/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-06-04T18:26:12.000Z"
-		},
-		{
-			"headline": "The new math of urban wildfires",
-			"url": "https://engineering.berkeley.edu/news/2026/05/from-forest-to-front-door/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-04T18:19:31.000Z"
-		},
-		{
-			"headline": "Trump announces new coal export terminal in Oakland",
-			"url": "https://www.latimes.com/environment/story/2026-06-04/trump-invokes-emergency-powers-to-invest-700-million-in-coal-including-new-export-terminal-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T20:03:58.000Z"
-		},
-		{
-			"headline": "Emergency room visits during heat waves available to the public in 'near-real time' in L.A. County",
-			"url": "https://www.latimes.com/environment/story/2026-06-04/los-angeles-county-publishes-heat-realted-illness-in-near-real-time",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T10:00:00.000Z"
-		},
-		{
-			"headline": "How Google's 32-million mosquito project could change California's battle against dengue",
-			"url": "https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T10:00:00.000Z"
-		},
-		{
-			"headline": "With Highway 1 open, Big Sur braces for its busiest summer in years",
-			"url": "https://www.latimes.com/travel/story/2026-06-04/highway-1-big-sur-summer-crowds",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
 			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
@@ -110,10 +68,58 @@
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
-			"headline": "In Monterey Park, voters ban data centers in first for the country",
-			"url": "https://www.latimes.com/environment/story/2026-06-03/in-first-for-country-voters-in-monterey-park-ban-data-centers",
+			"headline": "Do you live near a hazardous industrial site in L.A. County? How to find out",
+			"url": "https://www.latimes.com/california/story/2026-06-06/do-you-live-near-hazardous-industrial-site-in-l-a-county-how-to-find-out",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-03T21:25:17.000Z"
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "Newsom Wants Prop 4 Funds for Golden Gate Fields. Some Local Conservationists Have Other Priorities.",
+			"url": "https://baynature.org/2026/06/04/conservation/parks/newsom-wants-prop-4-funds-for-golden-gate-fields-some-local-conservationists-have-other-priorities/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-06-04T18:26:12.000Z"
+		},
+		{
+			"headline": "The new math of urban wildfires",
+			"url": "https://engineering.berkeley.edu/news/2026/05/from-forest-to-front-door/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-04T18:19:31.000Z"
+		},
+		{
+			"headline": "Mule deer become first animals to use California's first wildlife crossing",
+			"url": "https://www.latimes.com/california/story/2026-06-04/mule-deer-become-first-animals-to-use-californias-first-wildlife-crossing",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T18:29:26.000Z"
+		},
+		{
+			"headline": "Trump announces new coal export terminal in Oakland",
+			"url": "https://www.latimes.com/environment/story/2026-06-04/trump-invokes-emergency-powers-to-invest-700-million-in-coal-including-new-export-terminal-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T20:03:58.000Z"
+		},
+		{
+			"headline": "How Google's 32-million mosquito project could change California's battle against dengue",
+			"url": "https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T10:00:00.000Z"
+		},
+		{
+			"headline": "With Highway 1 open, Big Sur braces for its busiest summer in years",
+			"url": "https://www.latimes.com/travel/story/2026-06-04/highway-1-big-sur-summer-crowds",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T10:00:00.000Z"
+		},
+		{
+			"headline": "Emergency room visits during heat waves available to the public in 'near-real time' in L.A. County",
+			"url": "https://www.latimes.com/environment/story/2026-06-04/los-angeles-county-publishes-heat-realted-illness-in-near-real-time",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T10:00:00.000Z"
+		},
+		{
+			"headline": "Contributor: Recent assessment of California's water misallocation is the first step toward justice",
+			"url": "https://www.latimes.com/opinion/story/2026-06-04/recent-assessment-of-californias-water-misallocation-is-first-step-toward-justice",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T10:09:00.000Z"
 		},
 		{
 			"headline": "As feared, endangered sheep dies after getting entangled in razor wire at the border",
@@ -122,22 +128,28 @@
 			"publishedAt": "2026-06-03T23:43:51.000Z"
 		},
 		{
-			"headline": "50 gallons of water spill into storm drain at site of O.C. chemical crisis, testing underway",
-			"url": "https://www.latimes.com/california/story/2026-06-05/water-spills-at-gkn-aerospace-testing-underway-for-toxic-chemical",
+			"headline": "In a first for the country, voters in Monterey Park ban data centers",
+			"url": "https://www.latimes.com/environment/story/2026-06-03/in-first-for-country-voters-in-monterey-park-ban-data-centers",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T03:02:04.000Z"
-		},
-		{
-			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
-			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T02:10:03.000Z"
+			"publishedAt": "2026-06-03T21:25:17.000Z"
 		},
 		{
 			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
 			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-05T10:00:00.000Z"
+		},
+		{
+			"headline": "50 gallons of water spill into storm drain at site of O.C. chemical crisis, testing underway",
+			"url": "https://www.latimes.com/california/story/2026-06-05/water-spills-at-gkn-aerospace-testing-underway-for-toxic-chemical",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T03:02:04.000Z"
+		},
+		{
+			"headline": "Orange County health officials walk back claim that there was 'no leak' in chemical tank crisis",
+			"url": "https://www.latimes.com/california/story/2026-06-04/oc-officials-walk-back-claim-of-no-leak-in-chemical-tank-crisis",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T22:59:17.000Z"
 		}
 	]
 }
