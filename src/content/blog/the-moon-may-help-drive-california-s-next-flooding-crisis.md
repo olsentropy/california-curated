@@ -9,7 +9,7 @@ categories:
   - marine-science
   - climate-change
 tags:
-  - moon, lunary cycle, coastal flooding, california, californiacoast, 18.6-year luncar cycle, flooding, coastalflooding
+  - moon, lunary cycle, coastal flooding, california, californiacoast, 18.6-year lunar cycle, flooding, coastalflooding
 author: Erik Olsen
 draft: true
 ---
