@@ -11,7 +11,7 @@ categories:
 tags:
   - moon, lunar cycle, coastal flooding, california, californiacoast, 18.6-year lunar cycle, flooding, coastalflooding
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 For thousands of years, the moon has quietly tugged at California’s coastline.
