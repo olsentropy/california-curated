@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-06-09T14:12:20.814Z",
+	"lastUpdated": "2026-06-09T18:04:14.357Z",
 	"items": [
+		{
+			"headline": "As California warms, cases of dengue fever are expected to grow",
+			"url": "https://news.berkeley.edu/2026/06/09/as-california-warms-cases-of-dengue-fever-are-expected-to-grow/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-09T17:32:33.000Z"
+		},
+		{
+			"headline": "MBARI hosts 2026 Open House on Saturday, July 11",
+			"url": "https://www.mbari.org/news/mbari-hosts-2026-open-house-on-saturday-july-11/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-09T16:00:35.000Z"
+		},
 		{
 			"headline": "Santa Monica Mountains' last steelhead trout survived the Palisades fire — and even had babies",
 			"url": "https://www.latimes.com/environment/story/2026-06-09/feared-dead-santa-monica-mountains-last-steelhead-trout-survive-palisades-fire",
@@ -26,16 +38,10 @@
 			"publishedAt": "2026-06-08T09:00:00.000Z"
 		},
 		{
-			"headline": "Authorities draw down massive search for missing Tahoe hiker presumed dead",
-			"url": "https://www.latimes.com/california/story/2026-06-07/missing-lake-tahoe-hiker-jason-coughran-presumed-dead-search",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-07T22:35:19.000Z"
-		},
-		{
-			"headline": "A flesh-eating worm from the 1960s is re-invading the U.S. Are CA cattle at risk?",
-			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
+			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
+			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
+			"source": "NPR Science",
+			"publishedAt": "2026-06-06T11:41:04.000Z"
 		},
 		{
 			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
@@ -56,10 +62,22 @@
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
-			"headline": "Pacifica pier cracks, another coastal casualty as seas continue to rise",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/pacifica-pier-cracks-another-coastal-casualty-as-seas-continue-to-rise",
+			"headline": "A flesh-eating worm from the 1960s is re-invading the U.S. Are CA cattle at risk?",
+			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T20:29:24.000Z"
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "Do you live near a hazardous industrial site in L.A. County? How to find out",
+			"url": "https://www.latimes.com/california/story/2026-06-06/do-you-live-near-hazardous-industrial-site-in-la-county-how-to-find-out",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
+			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T02:10:03.000Z"
 		},
 		{
 			"headline": "Defending democracy is voters' top priority in California governor's race, poll finds",
@@ -68,8 +86,20 @@
 			"publishedAt": "2026-06-05T21:23:43.000Z"
 		},
 		{
+			"headline": "Pacifica pier cracks, another coastal casualty as seas continue to rise",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/pacifica-pier-cracks-another-coastal-casualty-as-seas-continue-to-rise",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T20:29:24.000Z"
+		},
+		{
 			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
 			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T10:00:00.000Z"
+		},
+		{
+			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
@@ -80,10 +110,10 @@
 			"publishedAt": "2026-06-05T16:53:36.000Z"
 		},
 		{
-			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
+			"headline": "Mule deer become first animals to use California's first wildlife crossing",
+			"url": "https://www.latimes.com/california/story/2026-06-04/mule-deer-become-first-animals-to-use-californias-first-wildlife-crossing",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T10:00:00.000Z"
+			"publishedAt": "2026-06-04T18:29:26.000Z"
 		},
 		{
 			"headline": "Newsom Wants Prop 4 Funds for Golden Gate Fields. Some Local Conservationists Have Other Priorities.",
@@ -104,34 +134,16 @@
 			"publishedAt": "2026-06-04T20:03:58.000Z"
 		},
 		{
-			"headline": "Mule deer become first animals to use California's first wildlife crossing",
-			"url": "https://www.latimes.com/california/story/2026-06-04/mule-deer-become-first-animals-to-use-californias-first-wildlife-crossing",
+			"headline": "Rail car loaded with lithium-ion batteries bursts into flames in Cajon Pass",
+			"url": "https://www.latimes.com/california/story/2026-06-04/rail-car-loaded-with-lithium-batteries-bursts-into-flames-in-cajon-pass",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T18:29:26.000Z"
-		},
-		{
-			"headline": "How Google's 32-million mosquito project could change California's battle against dengue",
-			"url": "https://www.latimes.com/environment/story/2026-06-04/how-googles-32-million-mosquito-project-could-change-californias-battle-against-dengue",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T10:00:00.000Z"
+			"publishedAt": "2026-06-04T21:24:43.000Z"
 		},
 		{
 			"headline": "Emergency room visits during heat waves available to the public in 'near-real time' in L.A. County",
 			"url": "https://www.latimes.com/environment/story/2026-06-04/los-angeles-county-publishes-heat-realted-illness-in-near-real-time",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-04T10:00:00.000Z"
-		},
-		{
-			"headline": "With Highway 1 open, Big Sur braces for its busiest summer in years",
-			"url": "https://www.latimes.com/travel/story/2026-06-04/highway-1-big-sur-summer-crowds",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T10:00:00.000Z"
-		},
-		{
-			"headline": "Contributor: Recent assessment of California's water misallocation is the first step toward justice",
-			"url": "https://www.latimes.com/opinion/story/2026-06-04/recent-assessment-of-californias-water-misallocation-is-first-step-toward-justice",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T10:09:00.000Z"
 		}
 	]
 }
