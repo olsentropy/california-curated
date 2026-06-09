@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-09T01:46:08.246Z",
+	"lastUpdated": "2026-06-09T07:35:18.334Z",
 	"items": [
 		{
 			"headline": "New CRISPR technique selectively shreds cancer cells, providing a new avenue for treating malignancies",
@@ -18,12 +18,6 @@
 			"url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
 			"source": "NPR Science",
 			"publishedAt": "2026-06-08T09:00:00.000Z"
-		},
-		{
-			"headline": "Authorities draw down massive search for missing Tahoe hiker presumed dead",
-			"url": "https://www.latimes.com/california/story/2026-06-07/missing-lake-tahoe-hiker-jason-coughran-presumed-dead-search",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-07T22:35:19.000Z"
 		},
 		{
 			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
@@ -68,12 +62,6 @@
 			"publishedAt": "2026-06-05T20:29:24.000Z"
 		},
 		{
-			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T16:53:36.000Z"
-		},
-		{
 			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
 			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
 			"source": "Los Angeles Times",
@@ -84,6 +72,30 @@
 			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-05T10:00:00.000Z"
+		},
+		{
+			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T16:53:36.000Z"
+		},
+		{
+			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
+			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T02:10:03.000Z"
+		},
+		{
+			"headline": "The new math of urban wildfires",
+			"url": "https://engineering.berkeley.edu/news/2026/05/from-forest-to-front-door/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-04T18:19:31.000Z"
+		},
+		{
+			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
+			"url": "https://news.mongabay.com/short-article/2026/06/pilot-project-in-san-francisco-bay-aims-to-help-ships-avoid-gray-whales/",
+			"source": "Mongabay",
+			"publishedAt": "2026-06-04T16:44:50.000Z"
 		},
 		{
 			"headline": "Trump announces new coal export terminal in Oakland",
@@ -104,16 +116,10 @@
 			"publishedAt": "2026-06-04T18:26:12.000Z"
 		},
 		{
-			"headline": "The new math of urban wildfires",
-			"url": "https://engineering.berkeley.edu/news/2026/05/from-forest-to-front-door/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-04T18:19:31.000Z"
-		},
-		{
-			"headline": "Pilot project in San Francisco Bay aims to help ships avoid gray whales",
-			"url": "https://news.mongabay.com/short-article/2026/06/pilot-project-in-san-francisco-bay-aims-to-help-ships-avoid-gray-whales/",
-			"source": "Mongabay",
-			"publishedAt": "2026-06-04T16:44:50.000Z"
+			"headline": "Emergency room visits during heat waves available to the public in 'near-real time' in L.A. County",
+			"url": "https://www.latimes.com/environment/story/2026-06-04/los-angeles-county-publishes-heat-realted-illness-in-near-real-time",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
 			"headline": "How Google's 32-million mosquito project could change California's battle against dengue",
@@ -128,10 +134,22 @@
 			"publishedAt": "2026-06-04T10:00:00.000Z"
 		},
 		{
-			"headline": "As feared, endangered sheep dies after getting entangled in razor wire at the border",
-			"url": "https://www.latimes.com/environment/story/2026-06-03/dead-endangered-sheep-found-in-razor-wire-installed-at-u-s-mexico-border",
+			"headline": "Authorities draw down massive search for missing Tahoe hiker presumed dead",
+			"url": "https://www.latimes.com/california/story/2026-06-07/missing-lake-tahoe-hiker-jason-coughran-presumed-dead-search",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-03T23:43:51.000Z"
+			"publishedAt": "2026-06-07T22:35:19.000Z"
+		},
+		{
+			"headline": "Grisly affair: SoCal man survives grizzly bear attack in Glacier National Park",
+			"url": "https://www.latimes.com/california/story/2026-06-07/socal-man-survives-grizzly-bear-attack-in-glacier-national-park",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-07T21:48:32.000Z"
+		},
+		{
+			"headline": "50 gallons of water spill into storm drain at site of O.C. chemical crisis, testing underway",
+			"url": "https://www.latimes.com/california/story/2026-06-05/water-spills-at-gkn-aerospace-testing-underway-for-toxic-chemical",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T03:02:04.000Z"
 		}
 	]
 }
