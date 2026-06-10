@@ -1,11 +1,23 @@
 {
-	"lastUpdated": "2026-06-10T18:22:14.757Z",
+	"lastUpdated": "2026-06-10T21:49:08.400Z",
 	"items": [
+		{
+			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
+			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
+			"source": "Caltech",
+			"publishedAt": "2026-06-10T14:41:15.092Z"
+		},
 		{
 			"headline": "As California warms, cases of dengue fever are expected to grow",
 			"url": "https://news.berkeley.edu/2026/06/09/as-california-warms-cases-of-dengue-fever-are-expected-to-grow/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-09T17:32:33.000Z"
+		},
+		{
+			"headline": "MBARI hosts 2026 Open House on Saturday, July 11",
+			"url": "https://www.mbari.org/news/mbari-hosts-2026-open-house-on-saturday-july-11/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-09T16:00:35.000Z"
 		},
 		{
 			"headline": "Santa Monica Mountains' last steelhead trout survived the Palisades fire — and even had babies",
@@ -20,14 +32,14 @@
 			"publishedAt": "2026-06-09T10:00:00.000Z"
 		},
 		{
-			"headline": "A huge fire threatened to burn a pristine California island. Inside the fight to preserve this oasis",
-			"url": "https://www.latimes.com/california/story/2026-06-10/fire-ravaged-pristine-california-island-will-it-recover",
+			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
+			"url": "https://www.latimes.com/environment/story/2026-06-10/california-drinking-water-funding",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-10T10:00:00.000Z"
 		},
 		{
-			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
-			"url": "https://www.latimes.com/environment/story/2026-06-10/california-drinking-water-funding",
+			"headline": "A huge fire threatened to burn a pristine California island. Inside the fight to preserve this oasis",
+			"url": "https://www.latimes.com/california/story/2026-06-10/fire-ravaged-pristine-california-island-will-it-recover",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-10T10:00:00.000Z"
 		},
@@ -36,12 +48,6 @@
 			"url": "https://www.latimes.com/california/story/2026-06-09/couple-their-dogs-attacked-by-bear-in-mammoth-lakes-bear-euthanized",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-09T18:53:55.000Z"
-		},
-		{
-			"headline": "MBARI hosts 2026 Open House on Saturday, July 11",
-			"url": "https://www.mbari.org/news/mbari-hosts-2026-open-house-on-saturday-july-11/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-09T16:00:35.000Z"
 		},
 		{
 			"headline": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
@@ -62,16 +68,10 @@
 			"publishedAt": "2026-06-08T15:00:00.000Z"
 		},
 		{
-			"headline": "One label, many risks: how grouping Asian Americans hides deadly cancer patterns",
-			"url": "https://www.latimes.com/science/story/2026-06-06/uc-irvine-asian-american-high-rates-certain-cancers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
-			"headline": "A flesh-eating worm from the 1960s is re-invading the U.S. Are CA cattle at risk?",
-			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
+			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
+			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
+			"source": "NPR Science",
+			"publishedAt": "2026-06-06T11:41:04.000Z"
 		},
 		{
 			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
@@ -86,10 +86,16 @@
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
-			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
+			"headline": "One label, many risks: how grouping Asian Americans hides deadly cancer patterns",
+			"url": "https://www.latimes.com/science/story/2026-06-06/uc-irvine-asian-american-high-rates-certain-cancers",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T16:53:36.000Z"
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "A flesh-eating worm from the 1960s is re-invading the U.S. Are CA cattle at risk?",
+			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
 			"headline": "Pacifica pier cracks, another coastal casualty as seas continue to rise",
@@ -104,22 +110,16 @@
 			"publishedAt": "2026-06-05T21:23:43.000Z"
 		},
 		{
-			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
-			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
-			"source": "NPR Science",
-			"publishedAt": "2026-06-06T11:41:04.000Z"
+			"headline": "This student is reclaiming his Pomo culture, one recording at a time",
+			"url": "https://news.berkeley.edu/2026/06/10/this-student-is-reclaiming-his-pomo-culture-one-recording-at-a-time/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-10T21:28:06.000Z"
 		},
 		{
-			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
-			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T02:10:03.000Z"
-		},
-		{
-			"headline": "Most dangerous World Cup ever? Climate change poses growing risks for players",
-			"url": "https://www.latimes.com/sports/soccer/story/2026-06-06/fifa-world-cup-climate-change-heat-dangerous-situations",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T11:00:00.000Z"
+			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
+			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-10T18:42:31.000Z"
 		}
 	]
 }
