@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-09T21:26:38.331Z",
+	"lastUpdated": "2026-06-10T01:56:40.160Z",
 	"items": [
 		{
 			"headline": "As California warms, cases of dengue fever are expected to grow",
@@ -14,8 +14,20 @@
 			"publishedAt": "2026-06-09T16:00:35.000Z"
 		},
 		{
+			"headline": "California couple use hatchet, water bottle to fight off bear attack in Mammoth Lakes",
+			"url": "https://www.latimes.com/california/story/2026-06-09/couple-their-dogs-attacked-by-bear-in-mammoth-lakes-bear-euthanized",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-09T18:53:55.000Z"
+		},
+		{
 			"headline": "Santa Monica Mountains' last steelhead trout survived the Palisades fire — and even had babies",
 			"url": "https://www.latimes.com/environment/story/2026-06-09/feared-dead-santa-monica-mountains-last-steelhead-trout-survive-palisades-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-09T10:00:00.000Z"
+		},
+		{
+			"headline": "New evidence confirms Edison's idle line ignited Eaton fire, lawyers say",
+			"url": "https://www.latimes.com/business/story/2026-06-09/evidence-confirms-edisons-idle-line-ignited-eaton-fire-lawyers-say",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-09T10:00:00.000Z"
 		},
@@ -44,14 +56,14 @@
 			"publishedAt": "2026-06-06T11:41:04.000Z"
 		},
 		{
-			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
-			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
+			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
+			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
-			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
-			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
+			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
+			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
@@ -68,6 +80,12 @@
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
+			"headline": "Do you live near a hazardous industrial site in L.A. County? How to find out",
+			"url": "https://www.latimes.com/california/story/2026-06-06/do-you-live-near-hazardous-industrial-site-in-la-county-how-to-find-out",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
 			"headline": "Defending democracy is voters' top priority in California governor's race, poll finds",
 			"url": "https://news.berkeley.edu/2026/06/05/defending-democracy-is-voters-top-priority-in-california-governors-race-poll-finds/",
 			"source": "UC Berkeley News",
@@ -78,12 +96,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-06-05/pacifica-pier-cracks-another-coastal-casualty-as-seas-continue-to-rise",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-05T20:29:24.000Z"
-		},
-		{
-			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T16:53:36.000Z"
 		},
 		{
 			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
@@ -98,28 +110,16 @@
 			"publishedAt": "2026-06-05T10:00:00.000Z"
 		},
 		{
-			"headline": "Trump announces new coal export terminal in Oakland",
-			"url": "https://www.latimes.com/environment/story/2026-06-04/trump-invokes-emergency-powers-to-invest-700-million-in-coal-including-new-export-terminal-in-california",
+			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T20:03:58.000Z"
+			"publishedAt": "2026-06-05T16:53:36.000Z"
 		},
 		{
-			"headline": "Mule deer become first animals to use California's first wildlife crossing",
-			"url": "https://www.latimes.com/california/story/2026-06-04/mule-deer-become-first-animals-to-use-californias-first-wildlife-crossing",
+			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
+			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-04T18:29:26.000Z"
-		},
-		{
-			"headline": "Newsom Wants Prop 4 Funds for Golden Gate Fields. Some Local Conservationists Have Other Priorities.",
-			"url": "https://baynature.org/2026/06/04/conservation/parks/newsom-wants-prop-4-funds-for-golden-gate-fields-some-local-conservationists-have-other-priorities/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-06-04T18:26:12.000Z"
-		},
-		{
-			"headline": "The new math of urban wildfires",
-			"url": "https://engineering.berkeley.edu/news/2026/05/from-forest-to-front-door/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-04T18:19:31.000Z"
+			"publishedAt": "2026-06-06T02:10:03.000Z"
 		}
 	]
 }
