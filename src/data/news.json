@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-10T11:33:03.597Z",
+	"lastUpdated": "2026-06-10T14:43:57.334Z",
 	"items": [
 		{
 			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
@@ -8,7 +8,7 @@
 			"publishedAt": "2026-06-10T10:00:00.000Z"
 		},
 		{
-			"headline": "Wildfire almost destroyed a pristine California island. Inside the fight to save this ecological oasis",
+			"headline": "A huge fire threatened to burn a pristine California island. Inside the fight to preserve this oasis",
 			"url": "https://www.latimes.com/california/story/2026-06-10/fire-ravaged-pristine-california-island-will-it-recover",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-10T10:00:00.000Z"
@@ -44,6 +44,18 @@
 			"publishedAt": "2026-06-09T18:53:55.000Z"
 		},
 		{
+			"headline": "New CRISPR technique selectively shreds cancer cells, providing a new avenue for treating malignancies",
+			"url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-08T19:13:35.000Z"
+		},
+		{
+			"headline": "Tripping into old age: Can psychedelics protect the aging brain?",
+			"url": "https://news.berkeley.edu/2026/06/08/tripping-into-old-age-can-psychedelics-protect-the-aging-brain/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-08T15:00:00.000Z"
+		},
+		{
 			"headline": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
 			"url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
 			"source": "NPR Science",
@@ -56,14 +68,14 @@
 			"publishedAt": "2026-06-06T11:41:04.000Z"
 		},
 		{
-			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
-			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
+			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
+			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
-			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
-			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
+			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
+			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
@@ -78,6 +90,12 @@
 			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-06T10:00:00.000Z"
+		},
+		{
+			"headline": "50 gallons of water spill into storm drain at site of O.C. chemical crisis, testing underway",
+			"url": "https://www.latimes.com/california/story/2026-06-05/water-spills-at-gkn-aerospace-testing-underway-for-toxic-chemical",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T03:02:04.000Z"
 		},
 		{
 			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
@@ -108,24 +126,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-05T10:00:00.000Z"
-		},
-		{
-			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T10:00:00.000Z"
-		},
-		{
-			"headline": "New CRISPR technique selectively shreds cancer cells, providing a new avenue for treating malignancies",
-			"url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-08T19:13:35.000Z"
-		},
-		{
-			"headline": "Tripping into old age: Can psychedelics protect the aging brain?",
-			"url": "https://news.berkeley.edu/2026/06/08/tripping-into-old-age-can-psychedelics-protect-the-aging-brain/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-08T15:00:00.000Z"
 		}
 	]
 }
