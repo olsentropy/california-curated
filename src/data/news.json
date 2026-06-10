@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-06-10T07:58:10.135Z",
+	"lastUpdated": "2026-06-10T11:33:03.597Z",
 	"items": [
+		{
+			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
+			"url": "https://www.latimes.com/environment/story/2026-06-10/california-drinking-water-funding",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T10:00:00.000Z"
+		},
+		{
+			"headline": "Wildfire almost destroyed a pristine California island. Inside the fight to save this ecological oasis",
+			"url": "https://www.latimes.com/california/story/2026-06-10/fire-ravaged-pristine-california-island-will-it-recover",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T10:00:00.000Z"
+		},
 		{
 			"headline": "As California warms, cases of dengue fever are expected to grow",
 			"url": "https://news.berkeley.edu/2026/06/09/as-california-warms-cases-of-dengue-fever-are-expected-to-grow/",
@@ -32,52 +44,22 @@
 			"publishedAt": "2026-06-09T18:53:55.000Z"
 		},
 		{
-			"headline": "New CRISPR technique selectively shreds cancer cells, providing a new avenue for treating malignancies",
-			"url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-08T19:13:35.000Z"
-		},
-		{
 			"headline": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
 			"url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
 			"source": "NPR Science",
 			"publishedAt": "2026-06-08T09:00:00.000Z"
 		},
 		{
-			"headline": "Tripping into old age: Can psychedelics protect the aging brain?",
-			"url": "https://news.berkeley.edu/2026/06/08/tripping-into-old-age-can-psychedelics-protect-the-aging-brain/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-08T15:00:00.000Z"
+			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
+			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
+			"source": "NPR Science",
+			"publishedAt": "2026-06-06T11:41:04.000Z"
 		},
 		{
-			"headline": "Pacifica pier cracks, another coastal casualty as seas continue to rise",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/pacifica-pier-cracks-another-coastal-casualty-as-seas-continue-to-rise",
+			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
+			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T20:29:24.000Z"
-		},
-		{
-			"headline": "Defending democracy is voters' top priority in California governor's race, poll finds",
-			"url": "https://news.berkeley.edu/2026/06/05/defending-democracy-is-voters-top-priority-in-california-governors-race-poll-finds/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-05T21:23:43.000Z"
-		},
-		{
-			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T10:00:00.000Z"
-		},
-		{
-			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T10:00:00.000Z"
-		},
-		{
-			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T16:53:36.000Z"
+			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
 			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
@@ -98,34 +80,52 @@
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
-			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
-			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
 			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
 			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-06T02:10:03.000Z"
 		},
 		{
-			"headline": "Authorities draw down massive search for missing Tahoe hiker presumed dead",
-			"url": "https://www.latimes.com/california/story/2026-06-07/missing-lake-tahoe-hiker-jason-coughran-presumed-dead-search",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-07T22:35:19.000Z"
+			"headline": "Defending democracy is voters' top priority in California governor's race, poll finds",
+			"url": "https://news.berkeley.edu/2026/06/05/defending-democracy-is-voters-top-priority-in-california-governors-race-poll-finds/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-05T21:23:43.000Z"
 		},
 		{
-			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
-			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
-			"source": "NPR Science",
-			"publishedAt": "2026-06-06T11:41:04.000Z"
+			"headline": "Pacifica pier cracks, another coastal casualty as seas continue to rise",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/pacifica-pier-cracks-another-coastal-casualty-as-seas-continue-to-rise",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T20:29:24.000Z"
 		},
 		{
-			"headline": "50 gallons of water spill into storm drain at site of O.C. chemical crisis, testing underway",
-			"url": "https://www.latimes.com/california/story/2026-06-05/water-spills-at-gkn-aerospace-testing-underway-for-toxic-chemical",
+			"headline": "Can California boost wildfire prevention with less cash? A new plan proposes to do just that",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/can-california-boost-wildfire-prevention-with-less-cash",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T03:02:04.000Z"
+			"publishedAt": "2026-06-05T16:53:36.000Z"
+		},
+		{
+			"headline": "A wildfire burned my memories of Santa Rosa Island. Now, we wait to see what's left",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/we-barely-know-whats-been-lost-in-the-santa-rosa-island-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T10:00:00.000Z"
+		},
+		{
+			"headline": "Polluted rain runoff from big box store parking lots could see a crackdown",
+			"url": "https://www.latimes.com/environment/story/2026-06-05/polluted-stormwater",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-05T10:00:00.000Z"
+		},
+		{
+			"headline": "New CRISPR technique selectively shreds cancer cells, providing a new avenue for treating malignancies",
+			"url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-08T19:13:35.000Z"
+		},
+		{
+			"headline": "Tripping into old age: Can psychedelics protect the aging brain?",
+			"url": "https://news.berkeley.edu/2026/06/08/tripping-into-old-age-can-psychedelics-protect-the-aging-brain/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-08T15:00:00.000Z"
 		}
 	]
 }
