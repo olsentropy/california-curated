@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-11T18:39:04.360Z",
+	"lastUpdated": "2026-06-11T21:53:01.482Z",
 	"items": [
 		{
 			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
@@ -12,6 +12,12 @@
 			"url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-11T18:00:00.000Z"
+		},
+		{
+			"headline": "El Niño is here and scientists fear it'll be big, bad and costly with heat, floods, droughts, fires",
+			"url": "https://news.mongabay.com/short-article/2026/06/el-nino-is-here-and-scientists-fear-itll-be-big-bad-and-costly-with-heat-floods-droughts-fires/",
+			"source": "Mongabay",
+			"publishedAt": "2026-06-11T17:10:22.000Z"
 		},
 		{
 			"headline": "El Niño is here, and chances are it'll be a doozy. What that means for California",
@@ -38,6 +44,12 @@
 			"publishedAt": "2026-06-10T22:37:19.000Z"
 		},
 		{
+			"headline": "UC Davis favored less qualified Black, Latino med school applicants, Justice Department claims",
+			"url": "https://www.latimes.com/california/story/2026-06-10/uc-davis-favored-black-latino-medical-school-applicants-doj-claims",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T04:04:42.000Z"
+		},
+		{
 			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
 			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
 			"source": "UC Berkeley News",
@@ -56,16 +68,16 @@
 			"publishedAt": "2026-06-10T10:00:00.000Z"
 		},
 		{
-			"headline": "As Wildfires Increase in the West, So Does Suppression Spending",
-			"url": "https://eos.org/research-spotlights/as-wildfires-increase-in-the-west-so-does-suppression-spending",
-			"source": "Eos",
-			"publishedAt": "2026-06-10T13:18:35.000Z"
-		},
-		{
 			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
 			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
 			"source": "Caltech",
 			"publishedAt": "2026-06-10T14:41:15.092Z"
+		},
+		{
+			"headline": "As Wildfires Increase in the West, So Does Suppression Spending",
+			"url": "https://eos.org/research-spotlights/as-wildfires-increase-in-the-west-so-does-suppression-spending",
+			"source": "Eos",
+			"publishedAt": "2026-06-10T13:18:35.000Z"
 		},
 		{
 			"headline": "As California warms, cases of dengue fever are expected to grow",
@@ -80,6 +92,12 @@
 			"publishedAt": "2026-06-09T16:00:35.000Z"
 		},
 		{
+			"headline": "Archetypes Could Accelerate Agricultural Adaptation to Less Snowpack",
+			"url": "https://eos.org/opinions/archetypes-could-accelerate-agricultural-adaptation-to-less-snowpack",
+			"source": "Eos",
+			"publishedAt": "2026-06-09T13:22:50.000Z"
+		},
+		{
 			"headline": "Santa Monica Mountains' last steelhead trout survived the Palisades fire — and even had babies",
 			"url": "https://www.latimes.com/environment/story/2026-06-09/feared-dead-santa-monica-mountains-last-steelhead-trout-survive-palisades-fire",
 			"source": "Los Angeles Times",
@@ -90,12 +108,6 @@
 			"url": "https://www.latimes.com/business/story/2026-06-09/evidence-confirms-edisons-idle-line-ignited-eaton-fire-lawyers-say",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-09T10:00:00.000Z"
-		},
-		{
-			"headline": "Archetypes Could Accelerate Agricultural Adaptation to Less Snowpack",
-			"url": "https://eos.org/opinions/archetypes-could-accelerate-agricultural-adaptation-to-less-snowpack",
-			"source": "Eos",
-			"publishedAt": "2026-06-09T13:22:50.000Z"
 		},
 		{
 			"headline": "New CRISPR technique selectively shreds cancer cells, providing a new avenue for treating malignancies",
