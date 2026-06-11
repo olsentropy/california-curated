@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-06-11T08:25:42.865Z",
+	"lastUpdated": "2026-06-11T15:25:49.457Z",
 	"items": [
+		{
+			"headline": "Caltech Readies to Build World's Most Sensitive Radio Telescope",
+			"url": "https://www.caltech.edu/about/news/caltech-readies-to-build-worlds-most-sensitive-radio-telescope",
+			"source": "Caltech",
+			"publishedAt": "2026-06-11T15:09:00.000Z"
+		},
 		{
 			"headline": "This creepy insect has been found on grapevines. What it could mean for California's wine industry",
 			"url": "https://www.latimes.com/california/story/2026-06-10/authorities-warn-of-invasive-insect-on-california-grapevines",
@@ -14,12 +20,6 @@
 			"publishedAt": "2026-06-10T14:41:15.092Z"
 		},
 		{
-			"headline": "As Wildfires Increase in the West, So Does Suppression Spending",
-			"url": "https://eos.org/research-spotlights/as-wildfires-increase-in-the-west-so-does-suppression-spending",
-			"source": "Eos",
-			"publishedAt": "2026-06-10T13:18:35.000Z"
-		},
-		{
 			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
 			"url": "https://www.latimes.com/environment/story/2026-06-10/california-drinking-water-funding",
 			"source": "Los Angeles Times",
@@ -30,12 +30,6 @@
 			"url": "https://www.latimes.com/california/story/2026-06-10/fire-ravaged-pristine-california-island-will-it-recover",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-10T10:00:00.000Z"
-		},
-		{
-			"headline": "MBARI hosts 2026 Open House on Saturday, July 11",
-			"url": "https://www.mbari.org/news/mbari-hosts-2026-open-house-on-saturday-july-11/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-09T16:00:35.000Z"
 		},
 		{
 			"headline": "As California warms, cases of dengue fever are expected to grow",
@@ -56,18 +50,6 @@
 			"publishedAt": "2026-06-09T10:00:00.000Z"
 		},
 		{
-			"headline": "California couple use hatchet, water bottle to fight off bear attack in Mammoth Lakes",
-			"url": "https://www.latimes.com/california/story/2026-06-09/couple-their-dogs-attacked-by-bear-in-mammoth-lakes-bear-euthanized",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-09T18:53:55.000Z"
-		},
-		{
-			"headline": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
-			"url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
-			"source": "NPR Science",
-			"publishedAt": "2026-06-08T09:00:00.000Z"
-		},
-		{
 			"headline": "New CRISPR technique selectively shreds cancer cells, providing a new avenue for treating malignancies",
 			"url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
 			"source": "UC Berkeley News",
@@ -78,6 +60,24 @@
 			"url": "https://news.berkeley.edu/2026/06/08/tripping-into-old-age-can-psychedelics-protect-the-aging-brain/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-08T15:00:00.000Z"
+		},
+		{
+			"headline": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
+			"url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
+			"source": "NPR Science",
+			"publishedAt": "2026-06-08T09:00:00.000Z"
+		},
+		{
+			"headline": "Authorities draw down massive search for missing Tahoe hiker presumed dead",
+			"url": "https://www.latimes.com/california/story/2026-06-07/missing-lake-tahoe-hiker-jason-coughran-presumed-dead-search",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-07T22:35:19.000Z"
+		},
+		{
+			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
+			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
+			"source": "NPR Science",
+			"publishedAt": "2026-06-06T11:41:04.000Z"
 		},
 		{
 			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
@@ -102,18 +102,6 @@
 			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
-			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
-			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
-			"source": "NPR Science",
-			"publishedAt": "2026-06-06T11:41:04.000Z"
-		},
-		{
-			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
-			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T02:10:03.000Z"
 		}
 	]
 }
