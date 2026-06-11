@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-06-10T21:49:08.400Z",
+	"lastUpdated": "2026-06-11T02:08:24.665Z",
 	"items": [
+		{
+			"headline": "This creepy insect has been found on grapevines. What it could mean for California's wine industry",
+			"url": "https://www.latimes.com/california/story/2026-06-10/authorities-warn-of-invasive-insect-on-california-grapevines",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T00:28:36.000Z"
+		},
 		{
 			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
 			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
@@ -12,12 +18,6 @@
 			"url": "https://news.berkeley.edu/2026/06/09/as-california-warms-cases-of-dengue-fever-are-expected-to-grow/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-09T17:32:33.000Z"
-		},
-		{
-			"headline": "MBARI hosts 2026 Open House on Saturday, July 11",
-			"url": "https://www.mbari.org/news/mbari-hosts-2026-open-house-on-saturday-july-11/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-09T16:00:35.000Z"
 		},
 		{
 			"headline": "Santa Monica Mountains' last steelhead trout survived the Palisades fire — and even had babies",
@@ -44,16 +44,10 @@
 			"publishedAt": "2026-06-10T10:00:00.000Z"
 		},
 		{
-			"headline": "California couple use hatchet, water bottle to fight off bear attack in Mammoth Lakes",
-			"url": "https://www.latimes.com/california/story/2026-06-09/couple-their-dogs-attacked-by-bear-in-mammoth-lakes-bear-euthanized",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-09T18:53:55.000Z"
-		},
-		{
-			"headline": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
-			"url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
-			"source": "NPR Science",
-			"publishedAt": "2026-06-08T09:00:00.000Z"
+			"headline": "MBARI hosts 2026 Open House on Saturday, July 11",
+			"url": "https://www.mbari.org/news/mbari-hosts-2026-open-house-on-saturday-july-11/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-09T16:00:35.000Z"
 		},
 		{
 			"headline": "New CRISPR technique selectively shreds cancer cells, providing a new avenue for treating malignancies",
@@ -68,22 +62,10 @@
 			"publishedAt": "2026-06-08T15:00:00.000Z"
 		},
 		{
-			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
-			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
+			"headline": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
+			"url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
 			"source": "NPR Science",
-			"publishedAt": "2026-06-06T11:41:04.000Z"
-		},
-		{
-			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
-			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
-			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
-			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
+			"publishedAt": "2026-06-08T09:00:00.000Z"
 		},
 		{
 			"headline": "One label, many risks: how grouping Asian Americans hides deadly cancer patterns",
@@ -98,28 +80,46 @@
 			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
-			"headline": "Pacifica pier cracks, another coastal casualty as seas continue to rise",
-			"url": "https://www.latimes.com/environment/story/2026-06-05/pacifica-pier-cracks-another-coastal-casualty-as-seas-continue-to-rise",
+			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
+			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-05T20:29:24.000Z"
+			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
-			"headline": "Defending democracy is voters' top priority in California governor's race, poll finds",
-			"url": "https://news.berkeley.edu/2026/06/05/defending-democracy-is-voters-top-priority-in-california-governors-race-poll-finds/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-05T21:23:43.000Z"
+			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
+			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T10:00:00.000Z"
 		},
 		{
-			"headline": "This student is reclaiming his Pomo culture, one recording at a time",
-			"url": "https://news.berkeley.edu/2026/06/10/this-student-is-reclaiming-his-pomo-culture-one-recording-at-a-time/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-10T21:28:06.000Z"
+			"headline": "California couple use hatchet, water bottle to fight off bear attack in Mammoth Lakes",
+			"url": "https://www.latimes.com/california/story/2026-06-09/couple-their-dogs-attacked-by-bear-in-mammoth-lakes-bear-euthanized",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-09T18:53:55.000Z"
+		},
+		{
+			"headline": "Mountain lion found lounging in Pasadena captured by wildlife officials",
+			"url": "https://www.latimes.com/california/story/2026-06-05/mountain-lion-found-lounging-in-pasadena-captured-by-wildlife-officials",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T02:10:03.000Z"
+		},
+		{
+			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
+			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
+			"source": "NPR Science",
+			"publishedAt": "2026-06-06T11:41:04.000Z"
 		},
 		{
 			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
 			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-10T18:42:31.000Z"
+		},
+		{
+			"headline": "50 gallons of water spill into storm drain at site of O.C. chemical crisis, testing underway",
+			"url": "https://www.latimes.com/california/story/2026-06-05/water-spills-at-gkn-aerospace-testing-underway-for-toxic-chemical",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-06T03:02:04.000Z"
 		}
 	]
 }
