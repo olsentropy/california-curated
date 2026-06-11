@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-06-11T15:25:49.457Z",
+	"lastUpdated": "2026-06-11T18:39:04.360Z",
 	"items": [
+		{
+			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
+			"url": "https://www.mbari.org/news/three-mbari-postdoctoral-fellows-awarded-inaugural-neptune-fellowships/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-11T18:00:02.000Z"
+		},
+		{
+			"headline": "A breakthrough in electron microscopy delivers sharper images of our body's tiniest proteins",
+			"url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-11T18:00:00.000Z"
+		},
+		{
+			"headline": "El Niño is here, and chances are it'll be a doozy. What that means for California",
+			"url": "https://www.latimes.com/california/story/2026-06-11/el-nino-is-here-it-could-be-strong-what-it-means-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T16:25:46.000Z"
+		},
 		{
 			"headline": "Caltech Readies to Build World's Most Sensitive Radio Telescope",
 			"url": "https://www.caltech.edu/about/news/caltech-readies-to-build-worlds-most-sensitive-radio-telescope",
@@ -14,10 +32,16 @@
 			"publishedAt": "2026-06-11T00:28:36.000Z"
 		},
 		{
-			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
-			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
-			"source": "Caltech",
-			"publishedAt": "2026-06-10T14:41:15.092Z"
+			"headline": "Crews make progress battling fire at Camp Pendleton; evacuations lifted",
+			"url": "https://www.latimes.com/california/story/2026-06-10/november-fire-at-camp-pendleton-prompts-evacuations-near-oceanside",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T22:37:19.000Z"
+		},
+		{
+			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
+			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-10T18:42:31.000Z"
 		},
 		{
 			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
@@ -32,10 +56,28 @@
 			"publishedAt": "2026-06-10T10:00:00.000Z"
 		},
 		{
+			"headline": "As Wildfires Increase in the West, So Does Suppression Spending",
+			"url": "https://eos.org/research-spotlights/as-wildfires-increase-in-the-west-so-does-suppression-spending",
+			"source": "Eos",
+			"publishedAt": "2026-06-10T13:18:35.000Z"
+		},
+		{
+			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
+			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
+			"source": "Caltech",
+			"publishedAt": "2026-06-10T14:41:15.092Z"
+		},
+		{
 			"headline": "As California warms, cases of dengue fever are expected to grow",
 			"url": "https://news.berkeley.edu/2026/06/09/as-california-warms-cases-of-dengue-fever-are-expected-to-grow/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-09T17:32:33.000Z"
+		},
+		{
+			"headline": "MBARI hosts 2026 Open House on Saturday, July 11",
+			"url": "https://www.mbari.org/news/mbari-hosts-2026-open-house-on-saturday-july-11/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-09T16:00:35.000Z"
 		},
 		{
 			"headline": "Santa Monica Mountains' last steelhead trout survived the Palisades fire — and even had babies",
@@ -48,6 +90,12 @@
 			"url": "https://www.latimes.com/business/story/2026-06-09/evidence-confirms-edisons-idle-line-ignited-eaton-fire-lawyers-say",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-09T10:00:00.000Z"
+		},
+		{
+			"headline": "Archetypes Could Accelerate Agricultural Adaptation to Less Snowpack",
+			"url": "https://eos.org/opinions/archetypes-could-accelerate-agricultural-adaptation-to-less-snowpack",
+			"source": "Eos",
+			"publishedAt": "2026-06-09T13:22:50.000Z"
 		},
 		{
 			"headline": "New CRISPR technique selectively shreds cancer cells, providing a new avenue for treating malignancies",
@@ -72,36 +120,6 @@
 			"url": "https://www.latimes.com/california/story/2026-06-07/missing-lake-tahoe-hiker-jason-coughran-presumed-dead-search",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-07T22:35:19.000Z"
-		},
-		{
-			"headline": "Immunologist Nicole Baumgarth explains why ticks are spreading to new regions",
-			"url": "https://www.npr.org/2026/06/06/nx-s1-5845122/immunologist-nicole-baumgarth-explains-why-ticks-are-spreading-to-new-regions",
-			"source": "NPR Science",
-			"publishedAt": "2026-06-06T11:41:04.000Z"
-		},
-		{
-			"headline": "Farewell, my Smilodon: La Brea Tar Pits to close for two years",
-			"url": "https://www.latimes.com/science/story/2026-06-06/farewell-my-smilodon-la-brea-tar-pits-to-close-for-two-years",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
-			"headline": "L.A. region begins the year with the smoggiest first 5 months in a decade",
-			"url": "https://www.latimes.com/environment/story/2026-06-06/la-region-begins-year-with-smoggiest-first-5-months-in-decade",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
-			"headline": "One label, many risks: how grouping Asian Americans hides deadly cancer patterns",
-			"url": "https://www.latimes.com/science/story/2026-06-06/uc-irvine-asian-american-high-rates-certain-cancers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
-		},
-		{
-			"headline": "A flesh-eating worm from the 1960s is re-invading the U.S. Are CA cattle at risk?",
-			"url": "https://www.latimes.com/california/story/2026-06-06/flesh-eating-screwworms-are-re-invading-u-s-are-ca-cattle-at-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-06T10:00:00.000Z"
 		}
 	]
 }
