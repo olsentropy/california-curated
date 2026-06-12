@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-12T17:56:08.740Z",
+	"lastUpdated": "2026-06-12T21:26:24.313Z",
 	"items": [
 		{
 			"headline": "A 'very strong' El Niño is likely. And it could hit California hard",
@@ -38,46 +38,10 @@
 			"publishedAt": "2026-06-11T00:28:36.000Z"
 		},
 		{
-			"headline": "Crews make progress battling fire at Camp Pendleton; evacuations lifted",
-			"url": "https://www.latimes.com/california/story/2026-06-10/november-fire-at-camp-pendleton-prompts-evacuations-near-oceanside",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-10T22:37:19.000Z"
-		},
-		{
-			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
-			"url": "https://www.latimes.com/environment/story/2026-06-10/california-drinking-water-funding",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-10T10:00:00.000Z"
-		},
-		{
-			"headline": "A huge fire threatened to burn a pristine California island. Inside the fight to preserve this oasis",
-			"url": "https://www.latimes.com/california/story/2026-06-10/fire-ravaged-pristine-california-island-will-it-recover",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-10T10:00:00.000Z"
-		},
-		{
-			"headline": "As Wildfires Increase in the West, So Does Suppression Spending",
-			"url": "https://eos.org/research-spotlights/as-wildfires-increase-in-the-west-so-does-suppression-spending",
-			"source": "Eos",
-			"publishedAt": "2026-06-10T13:18:35.000Z"
-		},
-		{
-			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
-			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
-			"source": "Caltech",
-			"publishedAt": "2026-06-10T14:41:00.000Z"
-		},
-		{
 			"headline": "As California warms, cases of dengue fever are expected to grow",
 			"url": "https://news.berkeley.edu/2026/06/09/as-california-warms-cases-of-dengue-fever-are-expected-to-grow/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-09T17:32:33.000Z"
-		},
-		{
-			"headline": "MBARI hosts 2026 Open House on Saturday, July 11",
-			"url": "https://www.mbari.org/news/mbari-hosts-2026-open-house-on-saturday-july-11/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-09T16:00:35.000Z"
 		},
 		{
 			"headline": "Santa Monica Mountains' last steelhead trout survived the Palisades fire — and even had babies",
@@ -86,10 +50,46 @@
 			"publishedAt": "2026-06-09T10:00:00.000Z"
 		},
 		{
-			"headline": "New evidence confirms Edison's idle line ignited Eaton fire, lawyers say",
-			"url": "https://www.latimes.com/business/story/2026-06-09/evidence-confirms-edisons-idle-line-ignited-eaton-fire-lawyers-say",
+			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
+			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
+			"source": "Caltech",
+			"publishedAt": "2026-06-10T14:41:00.000Z"
+		},
+		{
+			"headline": "As Wildfires Increase in the West, So Does Suppression Spending",
+			"url": "https://eos.org/research-spotlights/as-wildfires-increase-in-the-west-so-does-suppression-spending",
+			"source": "Eos",
+			"publishedAt": "2026-06-10T13:18:35.000Z"
+		},
+		{
+			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
+			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-10T18:42:31.000Z"
+		},
+		{
+			"headline": "UC Davis favored less qualified Black, Latino med school applicants, Justice Department claims",
+			"url": "https://www.latimes.com/california/story/2026-06-10/uc-davis-favored-black-latino-medical-school-applicants-doj-claims",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-09T10:00:00.000Z"
+			"publishedAt": "2026-06-11T04:04:42.000Z"
+		},
+		{
+			"headline": "A huge fire threatened to burn a pristine California island. Inside the fight to preserve this oasis",
+			"url": "https://www.latimes.com/california/story/2026-06-10/fire-ravaged-pristine-california-island-will-it-recover",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T10:00:00.000Z"
+		},
+		{
+			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
+			"url": "https://www.latimes.com/environment/story/2026-06-10/california-drinking-water-funding",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T10:00:00.000Z"
+		},
+		{
+			"headline": "In trial opening, feds accuse man of lighting Palisades fire as 'revenge' on the wealthy",
+			"url": "https://www.latimes.com/california/story/2026-06-10/arson-trial-underway-for-man-accused-of-sparking-deadly-palisades-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T18:49:43.000Z"
 		},
 		{
 			"headline": "California couple use hatchet, water bottle to fight off bear attack in Mammoth Lakes",
@@ -98,16 +98,52 @@
 			"publishedAt": "2026-06-09T18:53:55.000Z"
 		},
 		{
-			"headline": "New CRISPR technique selectively shreds cancer cells, providing a new avenue for treating malignancies",
-			"url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-08T19:13:35.000Z"
+			"headline": "MBARI hosts 2026 Open House on Saturday, July 11",
+			"url": "https://www.mbari.org/news/mbari-hosts-2026-open-house-on-saturday-july-11/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-09T16:00:35.000Z"
 		},
 		{
-			"headline": "Tripping into old age: Can psychedelics protect the aging brain?",
-			"url": "https://news.berkeley.edu/2026/06/08/tripping-into-old-age-can-psychedelics-protect-the-aging-brain/",
+			"headline": "Archetypes Could Accelerate Agricultural Adaptation to Less Snowpack",
+			"url": "https://eos.org/opinions/archetypes-could-accelerate-agricultural-adaptation-to-less-snowpack",
+			"source": "Eos",
+			"publishedAt": "2026-06-09T13:22:50.000Z"
+		},
+		{
+			"headline": "New evidence confirms Edison's idle line ignited Eaton fire, lawyers say",
+			"url": "https://www.latimes.com/business/story/2026-06-09/evidence-confirms-edisons-idle-line-ignited-eaton-fire-lawyers-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-09T10:00:00.000Z"
+		},
+		{
+			"headline": "Crews make progress battling fire at Camp Pendleton; evacuations lifted",
+			"url": "https://www.latimes.com/california/story/2026-06-10/november-fire-at-camp-pendleton-prompts-evacuations-near-oceanside",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T22:37:19.000Z"
+		},
+		{
+			"headline": "This student is reclaiming his Pomo culture, one recording at a time",
+			"url": "https://news.berkeley.edu/2026/06/10/this-student-is-reclaiming-his-pomo-culture-one-recording-at-a-time/",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-08T15:00:00.000Z"
+			"publishedAt": "2026-06-10T21:28:06.000Z"
+		},
+		{
+			"headline": "California sues Trump administration over planned ICE facility near Gilroy",
+			"url": "https://www.latimes.com/california/story/2026-06-10/california-sues-trump-administration-over-planned-ice-facility-near-gilroy",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T22:16:32.000Z"
+		},
+		{
+			"headline": "Officials investigating possible hantavirus case in San Quentin prison with inmates, staff monitored for symptoms",
+			"url": "https://www.latimes.com/california/story/2026-06-12/possible-hantavirus-case-san-quentin",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-12T18:30:47.000Z"
+		},
+		{
+			"headline": "Massive California warehouse fire could have ripple effect outside the state, official says",
+			"url": "https://www.latimes.com/california/story/2026-06-11/immense-fire-engulfs-million-square-foot-california-warehouse-smoke-seen-for-miles",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-12T02:48:31.000Z"
 		}
 	]
 }
