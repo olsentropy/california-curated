@@ -1,11 +1,17 @@
 {
-	"lastUpdated": "2026-06-12T14:29:46.072Z",
+	"lastUpdated": "2026-06-12T17:56:08.740Z",
 	"items": [
 		{
-			"headline": "A new $13.5 million gift will help UC Berkeley drive technology from lab to market",
-			"url": "https://inspire.berkeley.edu/o/sonsini/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-11T22:53:37.000Z"
+			"headline": "A 'very strong' El Niño is likely. And it could hit California hard",
+			"url": "https://www.latimes.com/california/story/2026-06-11/el-nino-is-here-it-could-be-strong-what-it-means-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T16:25:46.000Z"
+		},
+		{
+			"headline": "Caltech Readies to Build World's Most Sensitive Radio Telescope",
+			"url": "https://www.caltech.edu/about/news/caltech-readies-to-build-worlds-most-sensitive-radio-telescope",
+			"source": "Caltech",
+			"publishedAt": "2026-06-11T15:09:00.000Z"
 		},
 		{
 			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
@@ -20,10 +26,10 @@
 			"publishedAt": "2026-06-11T18:00:00.000Z"
 		},
 		{
-			"headline": "Caltech Readies to Build World's Most Sensitive Radio Telescope",
-			"url": "https://www.caltech.edu/about/news/caltech-readies-to-build-worlds-most-sensitive-radio-telescope",
-			"source": "Caltech",
-			"publishedAt": "2026-06-11T15:09:00.000Z"
+			"headline": "A new $13.5 million gift will help UC Berkeley drive technology from lab to market",
+			"url": "https://inspire.berkeley.edu/o/sonsini/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-11T22:53:37.000Z"
 		},
 		{
 			"headline": "This creepy insect has been found on grapevines. What it could mean for California's wine industry",
@@ -38,12 +44,6 @@
 			"publishedAt": "2026-06-10T22:37:19.000Z"
 		},
 		{
-			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
-			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-10T18:42:31.000Z"
-		},
-		{
 			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
 			"url": "https://www.latimes.com/environment/story/2026-06-10/california-drinking-water-funding",
 			"source": "Los Angeles Times",
@@ -56,10 +56,16 @@
 			"publishedAt": "2026-06-10T10:00:00.000Z"
 		},
 		{
+			"headline": "As Wildfires Increase in the West, So Does Suppression Spending",
+			"url": "https://eos.org/research-spotlights/as-wildfires-increase-in-the-west-so-does-suppression-spending",
+			"source": "Eos",
+			"publishedAt": "2026-06-10T13:18:35.000Z"
+		},
+		{
 			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
 			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
 			"source": "Caltech",
-			"publishedAt": "2026-06-10T14:41:15.092Z"
+			"publishedAt": "2026-06-10T14:41:00.000Z"
 		},
 		{
 			"headline": "As California warms, cases of dengue fever are expected to grow",
@@ -102,18 +108,6 @@
 			"url": "https://news.berkeley.edu/2026/06/08/tripping-into-old-age-can-psychedelics-protect-the-aging-brain/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-08T15:00:00.000Z"
-		},
-		{
-			"headline": "A 'very strong' El Niño is likely. And it could hit California hard",
-			"url": "https://www.latimes.com/california/story/2026-06-11/el-nino-is-here-it-could-be-strong-what-it-means-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T16:25:46.000Z"
-		},
-		{
-			"headline": "In trial opening, feds accuse man of lighting Palisades fire as 'revenge' on the wealthy",
-			"url": "https://www.latimes.com/california/story/2026-06-10/arson-trial-underway-for-man-accused-of-sparking-deadly-palisades-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-10T18:49:43.000Z"
 		}
 	]
 }
