@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-06-11T21:53:01.482Z",
+	"lastUpdated": "2026-06-12T02:04:15.983Z",
 	"items": [
+		{
+			"headline": "A new $13.5 million gift will help UC Berkeley drive technology from lab to market",
+			"url": "https://inspire.berkeley.edu/o/sonsini/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-11T22:53:37.000Z"
+		},
 		{
 			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
 			"url": "https://www.mbari.org/news/three-mbari-postdoctoral-fellows-awarded-inaugural-neptune-fellowships/",
@@ -14,13 +20,7 @@
 			"publishedAt": "2026-06-11T18:00:00.000Z"
 		},
 		{
-			"headline": "El Niño is here and scientists fear it'll be big, bad and costly with heat, floods, droughts, fires",
-			"url": "https://news.mongabay.com/short-article/2026/06/el-nino-is-here-and-scientists-fear-itll-be-big-bad-and-costly-with-heat-floods-droughts-fires/",
-			"source": "Mongabay",
-			"publishedAt": "2026-06-11T17:10:22.000Z"
-		},
-		{
-			"headline": "El Niño is here, and chances are it'll be a doozy. What that means for California",
+			"headline": "A 'very strong' El Niño is likely. And it could hit California hard",
 			"url": "https://www.latimes.com/california/story/2026-06-11/el-nino-is-here-it-could-be-strong-what-it-means-for-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-11T16:25:46.000Z"
@@ -50,10 +50,16 @@
 			"publishedAt": "2026-06-11T04:04:42.000Z"
 		},
 		{
-			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
-			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-10T18:42:31.000Z"
+			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
+			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
+			"source": "Caltech",
+			"publishedAt": "2026-06-10T14:41:15.092Z"
+		},
+		{
+			"headline": "As Wildfires Increase in the West, So Does Suppression Spending",
+			"url": "https://eos.org/research-spotlights/as-wildfires-increase-in-the-west-so-does-suppression-spending",
+			"source": "Eos",
+			"publishedAt": "2026-06-10T13:18:35.000Z"
 		},
 		{
 			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
@@ -68,16 +74,10 @@
 			"publishedAt": "2026-06-10T10:00:00.000Z"
 		},
 		{
-			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
-			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
-			"source": "Caltech",
-			"publishedAt": "2026-06-10T14:41:15.092Z"
-		},
-		{
-			"headline": "As Wildfires Increase in the West, So Does Suppression Spending",
-			"url": "https://eos.org/research-spotlights/as-wildfires-increase-in-the-west-so-does-suppression-spending",
-			"source": "Eos",
-			"publishedAt": "2026-06-10T13:18:35.000Z"
+			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
+			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-10T18:42:31.000Z"
 		},
 		{
 			"headline": "As California warms, cases of dengue fever are expected to grow",
@@ -90,12 +90,6 @@
 			"url": "https://www.mbari.org/news/mbari-hosts-2026-open-house-on-saturday-july-11/",
 			"source": "MBARI",
 			"publishedAt": "2026-06-09T16:00:35.000Z"
-		},
-		{
-			"headline": "Archetypes Could Accelerate Agricultural Adaptation to Less Snowpack",
-			"url": "https://eos.org/opinions/archetypes-could-accelerate-agricultural-adaptation-to-less-snowpack",
-			"source": "Eos",
-			"publishedAt": "2026-06-09T13:22:50.000Z"
 		},
 		{
 			"headline": "Santa Monica Mountains' last steelhead trout survived the Palisades fire — and even had babies",
@@ -126,12 +120,6 @@
 			"url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
 			"source": "NPR Science",
 			"publishedAt": "2026-06-08T09:00:00.000Z"
-		},
-		{
-			"headline": "Authorities draw down massive search for missing Tahoe hiker presumed dead",
-			"url": "https://www.latimes.com/california/story/2026-06-07/missing-lake-tahoe-hiker-jason-coughran-presumed-dead-search",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-07T22:35:19.000Z"
 		}
 	]
 }
