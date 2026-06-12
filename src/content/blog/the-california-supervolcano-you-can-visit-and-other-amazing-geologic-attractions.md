@@ -10,7 +10,7 @@ categories:
 tags:
   - '#MammothLakes #LongValleyCaldera #EasternSierra #CaliforniaGeology #Volcanology #Geology #HotCreek #MonoLake #CaliforniaTravel #NaturalWonders'
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 I’ve been up in the Eastern Sierra for the last few days driving around and filming a couple of cool stories I’ve got cooking. I spent a day exploring the Long Valley Caldera, one of the most interesting geologic sites in California, if not the United States. Then I went to Mono Lake and drove to the top of Lookout Mountain, which is covered in obsidian used by the indigenous tribes who once lived and thrived here.
