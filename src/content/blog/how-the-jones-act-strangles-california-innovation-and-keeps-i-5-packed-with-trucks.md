@@ -1,23 +1,44 @@
 ---
-title: "How the Jones Act Strangles California Innovation and Keeps I-5 Packed with Trucks"
-description: "California’s highways are clogged with trucks moving goods that could travel by sea, but the Jones Act makes coastal shipping too costly to scale, locking freight onto crowded roads and limiting a cleaner alternative."
+title: How the Jones Act Strangles California Innovation and Keeps I-5 Packed with Trucks
+description: California’s highways are clogged with trucks moving goods that could travel by sea, but the Jones Act makes coastal shipping too costly to scale, locking freight onto crowded roads and limiting a cleaner alternative.
 pubDate: 2026-04-01
-heroImage: "https://substackcdn.com/image/fetch/$s_!lkpf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc0a9fe8-f00e-4a2c-bd8e-89a50ce9a4f7_5464x3070.jpeg"
+updatedDate: ''
+heroImage: https://substackcdn.com/image/fetch/$s_!lkpf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc0a9fe8-f00e-4a2c-bd8e-89a50ce9a4f7_5464x3070.jpeg
+categories:
+  - cities
+  - climate-change
+  - marine-science
+tags:
+  - blue-highway-concept
+  - california-congestion
+  - california-traffic
+  - coastal-freight-shipping
+  - coastal-shipping-california
+  - freight-transportation-california
+  - i-5-traffic
+  - jones-act
+  - los-angeles-traffic
+  - marine-highway-california
+  - merchant-marine-act-1920
+  - port-of-long-beach
+  - port-of-los-angeles
+  - short-sea-shipping
+  - supply-chain-california
+  - transportation-policy-us
+  - truck-traffic-california
+  - us-shipping-laws
+author: Erik Olsen
 wpId: 7192
-wpSlug: "how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks"
-categories: ["cities", "climate-change", "marine-science"]
-tags: ["blue-highway-concept", "california-congestion", "california-traffic", "coastal-freight-shipping", "coastal-shipping-california", "freight-transportation-california", "i-5-traffic", "jones-act", "los-angeles-traffic", "marine-highway-california", "merchant-marine-act-1920", "port-of-long-beach", "port-of-los-angeles", "short-sea-shipping", "supply-chain-california", "transportation-policy-us", "truck-traffic-california", "us-shipping-laws"]
-author: "Erik Olsen"
+wpSlug: how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks
 ---
 
 A century-old law, the Jones Act, is keeping coastal shipping off the map—while traffic, costs, and emissions keep rising on land.
 
-
-_This article is adapted from[my Substack](<https://substack.com/@californiacurated>), which offers weekly articles on California. You can [get 50% off a subscription with this link](<https://californiacurated.substack.com/subscribe?coupon=d510b870>). It helps fund the work we do here at California Curated. These articles take a ton of work, and if you enjoy the publication, we’d be grateful to have your support._
+_This article is adapted from_ [_my Substack_](<https://substack.com/@californiacurated>)_, which offers weekly articles on California. You can_ [_get 50% off a subscription with this link_](<https://californiacurated.substack.com/subscribe?coupon=d510b870>)_. It helps fund the work we do here at California Curated. These articles take a ton of work, and if you enjoy the publication, we’d be grateful to have your support._
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
-* * *
+* \* \*
 
 President Trump [recently issued a temporary waiver](<https://www.pbs.org/newshour/politics/what-to-know-about-the-jones-act-as-the-trump-administration-unveils-a-60-day-waiver>) of the [Merchant Marine Act of 1920](<https://en.wikipedia.org/wiki/Merchant_Marine_Act_of_1920>), also known as the [Jones Act](<https://www.cbp.gov/sites/default/files/2024-12/Jones%20Act%20ICP_Complete_04DEC24.pdf>), allowing oil to be moved on foreign-flagged vessels between US ports in an effort to ease supply constraints and lower prices. The move put a spotlight back on this century-old law that quietly shapes how goods move around the United States. Then on Sunday, [60 Minutes aired a segment ](<https://www.youtube.com/watch?v=fj0tE2wwTVM>)examining the Jones Act itself and the decline of the U.S. maritime industry it was designed to protect. The picture it painted was not of a thriving, competitive shipbuilding sector, but of one that has been in steady decline for decades, particularly compared to the massive shipbuilding industries of places like China, Japan, and South Korea.
 
