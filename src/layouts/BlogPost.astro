@@ -119,6 +119,22 @@ const authorHref = author === SITE_AUTHOR ? `/author/${SITE_AUTHOR_SLUG}/` : und
 					</header>
 					{!hideMeta && <hr />}
 					<slot />
+					{(() => {
+						const etsyImages = [
+							'/etsy ads/etsy-ad-joshua-tree.png',
+							'/etsy ads/etsy-ad-redwoods.png',
+							'/etsy ads/etsy-ad-sierra.png',
+							'/etsy ads/etsy-ad-yosemite.png',
+						];
+						const idx = (currentId ?? title ?? '').split('').reduce((acc, c) => acc + c.charCodeAt(0), 0) % etsyImages.length;
+						return (
+							<div class="etsy-ad">
+								<a href="https://www.etsy.com/shop/CaliforniaCuratedUS" target="_blank" rel="noopener noreferrer sponsored">
+									<img src={etsyImages[idx]} alt="California Wildlife Mugs — Visit our Etsy store" />
+								</a>
+							</div>
+						);
+					})()}
 					<!-- In-article advertisement, placed after the body so it
 					     never interrupts the reading flow. -->
 					<AdSlot slot="8305126348" label="in-article" />
@@ -189,6 +205,17 @@ const authorHref = author === SITE_AUTHOR ? `/author/${SITE_AUTHOR_SLUG}/` : und
 	.updated {
 		color: var(--cc-muted);
 		font-size: 0.85rem;
+	}
+	.etsy-ad {
+		margin: 2rem 0;
+		text-align: center;
+	}
+	.etsy-ad a { display: block; }
+	.etsy-ad img {
+		width: 100%;
+		max-width: 720px;
+		height: auto;
+		border-radius: var(--cc-radius);
 	}
 	.post-footer {
 		margin-top: 3rem;
