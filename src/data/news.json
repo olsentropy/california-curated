@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-13T13:16:26.611Z",
+	"lastUpdated": "2026-06-13T17:05:25.540Z",
 	"items": [
 		{
 			"headline": "NorCal braces for dry, dangerous fire season as SoCal faces typical conditions",
@@ -32,16 +32,16 @@
 			"publishedAt": "2026-06-11T22:53:37.000Z"
 		},
 		{
-			"headline": "A breakthrough in electron microscopy delivers sharper images of our body's tiniest proteins",
-			"url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-11T18:00:00.000Z"
-		},
-		{
 			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
 			"url": "https://www.mbari.org/news/three-mbari-postdoctoral-fellows-awarded-inaugural-neptune-fellowships/",
 			"source": "MBARI",
 			"publishedAt": "2026-06-11T18:00:02.000Z"
+		},
+		{
+			"headline": "A breakthrough in electron microscopy delivers sharper images of our body's tiniest proteins",
+			"url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-11T18:00:00.000Z"
 		},
 		{
 			"headline": "Caltech Readies to Build World's Most Sensitive Radio Telescope",
@@ -60,24 +60,6 @@
 			"url": "https://www.latimes.com/california/story/2026-06-10/authorities-warn-of-invasive-insect-on-california-grapevines",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-11T00:28:36.000Z"
-		},
-		{
-			"headline": "Crews make progress battling fire at Camp Pendleton; evacuations lifted",
-			"url": "https://www.latimes.com/california/story/2026-06-10/november-fire-at-camp-pendleton-prompts-evacuations-near-oceanside",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-10T22:37:19.000Z"
-		},
-		{
-			"headline": "This student is reclaiming his Pomo culture, one recording at a time",
-			"url": "https://news.berkeley.edu/2026/06/10/this-student-is-reclaiming-his-pomo-culture-one-recording-at-a-time/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-10T21:28:06.000Z"
-		},
-		{
-			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
-			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-10T18:42:31.000Z"
 		},
 		{
 			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
@@ -104,6 +86,12 @@
 			"publishedAt": "2026-06-10T10:00:00.000Z"
 		},
 		{
+			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
+			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-10T18:42:31.000Z"
+		},
+		{
 			"headline": "As California warms, cases of dengue fever are expected to grow",
 			"url": "https://news.berkeley.edu/2026/06/09/as-california-warms-cases-of-dengue-fever-are-expected-to-grow/",
 			"source": "UC Berkeley News",
@@ -126,12 +114,6 @@
 			"url": "https://www.latimes.com/business/story/2026-06-09/evidence-confirms-edisons-idle-line-ignited-eaton-fire-lawyers-say",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-09T10:00:00.000Z"
-		},
-		{
-			"headline": "California couple use hatchet, water bottle to fight off bear attack in Mammoth Lakes",
-			"url": "https://www.latimes.com/california/story/2026-06-09/couple-their-dogs-attacked-by-bear-in-mammoth-lakes-bear-euthanized",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-09T18:53:55.000Z"
 		}
 	]
 }
