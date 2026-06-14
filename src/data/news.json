@@ -1,59 +1,23 @@
 {
-	"lastUpdated": "2026-06-14T17:04:36.447Z",
+	"lastUpdated": "2026-06-14T20:56:36.453Z",
 	"items": [
 		{
-			"headline": "A breakthrough in electron microscopy delivers sharper images of our body's tiniest proteins",
-			"url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-11T18:00:00.000Z"
-		},
-		{
-			"headline": "Caltech Readies to Build World's Most Sensitive Radio Telescope",
-			"url": "https://www.caltech.edu/about/news/caltech-readies-to-build-worlds-most-sensitive-radio-telescope",
-			"source": "Caltech",
-			"publishedAt": "2026-06-11T15:09:00.000Z"
-		},
-		{
-			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
-			"url": "https://www.mbari.org/news/three-mbari-postdoctoral-fellows-awarded-inaugural-neptune-fellowships/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-11T18:00:02.000Z"
-		},
-		{
-			"headline": "A 'very strong' El Niño is likely. And it could hit California hard",
-			"url": "https://www.latimes.com/california/story/2026-06-11/el-nino-is-here-it-could-be-strong-what-it-means-for-california",
+			"headline": "Infectious measles carrier likely visited San Francisco airport, Bay Area county warns",
+			"url": "https://www.latimes.com/california/story/2026-06-13/measles-carrier-visited-san-francisco-airport-bay-area-county-warns",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T16:25:46.000Z"
+			"publishedAt": "2026-06-14T00:50:00.000Z"
 		},
 		{
-			"headline": "This creepy insect has been found on grapevines. What it could mean for California's wine industry",
-			"url": "https://www.latimes.com/california/story/2026-06-10/authorities-warn-of-invasive-insect-on-california-grapevines",
+			"headline": "Fire near Palmdale burns 200 acres, triggers evacuation orders",
+			"url": "https://www.latimes.com/california/story/2026-06-13/fire-near-palmdale-burns-200-acres-triggers-evacuation-orders",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T00:28:36.000Z"
+			"publishedAt": "2026-06-14T05:37:14.000Z"
 		},
 		{
-			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
-			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
-			"source": "Caltech",
-			"publishedAt": "2026-06-10T14:41:00.000Z"
-		},
-		{
-			"headline": "As Wildfires Increase in the West, So Does Suppression Spending",
-			"url": "https://eos.org/research-spotlights/as-wildfires-increase-in-the-west-so-does-suppression-spending",
-			"source": "Eos",
-			"publishedAt": "2026-06-10T13:18:35.000Z"
-		},
-		{
-			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
-			"url": "https://www.latimes.com/environment/story/2026-06-10/california-drinking-water-funding",
+			"headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
+			"url": "https://www.latimes.com/california/story/2026-06-13/judge-dismissses-fired-yosemite-biologists-trans-flag-lawsuit",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-10T10:00:00.000Z"
-		},
-		{
-			"headline": "A huge fire threatened to burn a pristine California island. Inside the fight to preserve this oasis",
-			"url": "https://www.latimes.com/california/story/2026-06-10/fire-ravaged-pristine-california-island-will-it-recover",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-10T10:00:00.000Z"
+			"publishedAt": "2026-06-13T17:28:25.000Z"
 		},
 		{
 			"headline": "NorCal braces for dry, dangerous fire season as SoCal faces typical conditions",
@@ -68,16 +32,10 @@
 			"publishedAt": "2026-06-13T10:00:00.000Z"
 		},
 		{
-			"headline": "Infectious measles carrier likely visited San Francisco airport, Bay Area county warns",
-			"url": "https://www.latimes.com/california/story/2026-06-13/measles-carrier-visited-san-francisco-airport-bay-area-county-warns",
+			"headline": "Judge orders Trump administration to restore national park signage on climate change, slavery",
+			"url": "https://www.latimes.com/california/story/2026-06-12/trump-administration-ordered-to-restore-national-park-signage-on-climate-change-slavery",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-14T00:50:00.000Z"
-		},
-		{
-			"headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
-			"url": "https://www.latimes.com/california/story/2026-06-13/judge-dismissses-fired-yosemite-biologists-trans-flag-lawsuit",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-13T17:28:25.000Z"
+			"publishedAt": "2026-06-13T01:57:46.000Z"
 		},
 		{
 			"headline": "Caltech Celebrates Graduates at 132nd Commencement",
@@ -86,34 +44,10 @@
 			"publishedAt": "2026-06-13T00:22:00.000Z"
 		},
 		{
-			"headline": "A new $13.5 million gift will help UC Berkeley drive technology from lab to market",
-			"url": "https://inspire.berkeley.edu/o/sonsini/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-11T22:53:37.000Z"
-		},
-		{
-			"headline": "Judge orders Trump administration to restore national park signage on climate change, slavery",
-			"url": "https://www.latimes.com/california/story/2026-06-12/trump-administration-ordered-to-restore-national-park-signage-on-climate-change-slavery",
+			"headline": "Officials say possible hantavirus case in San Quentin prison was false positive",
+			"url": "https://www.latimes.com/california/story/2026-06-12/possible-hantavirus-case-san-quentin",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-13T01:57:46.000Z"
-		},
-		{
-			"headline": "UC Davis favored less qualified Black, Latino med school applicants, Justice Department claims",
-			"url": "https://www.latimes.com/california/story/2026-06-10/uc-davis-favored-black-latino-medical-school-applicants-doj-claims",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T04:04:42.000Z"
-		},
-		{
-			"headline": "UC to consider reinstating SAT, ACT tests after faculty say students are deficient in math",
-			"url": "https://www.latimes.com/california/story/2026-06-11/uc-sat-act-test-requirement-admissions-reconsider",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T17:00:03.000Z"
-		},
-		{
-			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
-			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-10T18:42:31.000Z"
+			"publishedAt": "2026-06-12T18:30:47.000Z"
 		},
 		{
 			"headline": "Berkeley Talks: Why kids need awe — and how puppets can help",
@@ -122,10 +56,46 @@
 			"publishedAt": "2026-06-12T18:33:05.000Z"
 		},
 		{
-			"headline": "This student is reclaiming his Pomo culture, one recording at a time",
-			"url": "https://news.berkeley.edu/2026/06/10/this-student-is-reclaiming-his-pomo-culture-one-recording-at-a-time/",
+			"headline": "A new $13.5 million gift will help UC Berkeley drive technology from lab to market",
+			"url": "https://inspire.berkeley.edu/o/sonsini/",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-10T21:28:06.000Z"
+			"publishedAt": "2026-06-11T22:53:37.000Z"
+		},
+		{
+			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
+			"url": "https://www.mbari.org/news/three-mbari-postdoctoral-fellows-awarded-inaugural-neptune-fellowships/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-11T18:00:02.000Z"
+		},
+		{
+			"headline": "A breakthrough in electron microscopy delivers sharper images of our body's tiniest proteins",
+			"url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-11T18:00:00.000Z"
+		},
+		{
+			"headline": "Caltech Readies to Build World's Most Sensitive Radio Telescope",
+			"url": "https://www.caltech.edu/about/news/caltech-readies-to-build-worlds-most-sensitive-radio-telescope",
+			"source": "Caltech",
+			"publishedAt": "2026-06-11T15:09:00.000Z"
+		},
+		{
+			"headline": "A 'very strong' El Niño is likely. And it could hit California hard",
+			"url": "https://www.latimes.com/california/story/2026-06-11/el-nino-is-here-it-could-be-strong-what-it-means-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T16:25:46.000Z"
+		},
+		{
+			"headline": "UC to consider reinstating SAT, ACT tests after faculty say students are deficient in math",
+			"url": "https://www.latimes.com/california/story/2026-06-11/uc-sat-act-test-requirement-admissions-reconsider",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T17:00:03.000Z"
+		},
+		{
+			"headline": "This creepy insect has been found on grapevines. What it could mean for California's wine industry",
+			"url": "https://www.latimes.com/california/story/2026-06-10/authorities-warn-of-invasive-insect-on-california-grapevines",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T00:28:36.000Z"
 		},
 		{
 			"headline": "Crews make progress battling fire at Camp Pendleton; evacuations lifted",
@@ -134,10 +104,40 @@
 			"publishedAt": "2026-06-10T22:37:19.000Z"
 		},
 		{
-			"headline": "California sues Trump administration over planned ICE facility near Gilroy",
-			"url": "https://www.latimes.com/california/story/2026-06-10/california-sues-trump-administration-over-planned-ice-facility-near-gilroy",
+			"headline": "UC Davis favored less qualified Black, Latino med school applicants, Justice Department claims",
+			"url": "https://www.latimes.com/california/story/2026-06-10/uc-davis-favored-black-latino-medical-school-applicants-doj-claims",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-10T22:16:32.000Z"
+			"publishedAt": "2026-06-11T04:04:42.000Z"
+		},
+		{
+			"headline": "This student is reclaiming his Pomo culture, one recording at a time",
+			"url": "https://news.berkeley.edu/2026/06/10/this-student-is-reclaiming-his-pomo-culture-one-recording-at-a-time/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-10T21:28:06.000Z"
+		},
+		{
+			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
+			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-10T18:42:31.000Z"
+		},
+		{
+			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
+			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
+			"source": "Caltech",
+			"publishedAt": "2026-06-10T14:41:00.000Z"
+		},
+		{
+			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
+			"url": "https://www.latimes.com/environment/story/2026-06-10/california-drinking-water-funding",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T10:00:00.000Z"
+		},
+		{
+			"headline": "A huge fire threatened to burn a pristine California island. Inside the fight to preserve this oasis",
+			"url": "https://www.latimes.com/california/story/2026-06-10/fire-ravaged-pristine-california-island-will-it-recover",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T10:00:00.000Z"
 		}
 	]
 }
