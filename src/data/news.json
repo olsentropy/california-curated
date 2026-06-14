@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-13T20:58:30.023Z",
+	"lastUpdated": "2026-06-14T02:06:42.216Z",
 	"items": [
 		{
 			"headline": "NorCal braces for dry, dangerous fire season as SoCal faces typical conditions",
@@ -20,22 +20,10 @@
 			"publishedAt": "2026-06-13T00:22:00.000Z"
 		},
 		{
-			"headline": "A 'very strong' El Niño is likely. And it could hit California hard",
-			"url": "https://www.latimes.com/california/story/2026-06-11/el-nino-is-here-it-could-be-strong-what-it-means-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T16:25:46.000Z"
-		},
-		{
-			"headline": "Caltech Readies to Build World's Most Sensitive Radio Telescope",
-			"url": "https://www.caltech.edu/about/news/caltech-readies-to-build-worlds-most-sensitive-radio-telescope",
-			"source": "Caltech",
-			"publishedAt": "2026-06-11T15:09:00.000Z"
-		},
-		{
-			"headline": "A breakthrough in electron microscopy delivers sharper images of our body's tiniest proteins",
-			"url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
+			"headline": "A new $13.5 million gift will help UC Berkeley drive technology from lab to market",
+			"url": "https://inspire.berkeley.edu/o/sonsini/",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-11T18:00:00.000Z"
+			"publishedAt": "2026-06-11T22:53:37.000Z"
 		},
 		{
 			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
@@ -44,22 +32,46 @@
 			"publishedAt": "2026-06-11T18:00:02.000Z"
 		},
 		{
+			"headline": "A breakthrough in electron microscopy delivers sharper images of our body's tiniest proteins",
+			"url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-11T18:00:00.000Z"
+		},
+		{
+			"headline": "Caltech Readies to Build World's Most Sensitive Radio Telescope",
+			"url": "https://www.caltech.edu/about/news/caltech-readies-to-build-worlds-most-sensitive-radio-telescope",
+			"source": "Caltech",
+			"publishedAt": "2026-06-11T15:09:00.000Z"
+		},
+		{
+			"headline": "A 'very strong' El Niño is likely. And it could hit California hard",
+			"url": "https://www.latimes.com/california/story/2026-06-11/el-nino-is-here-it-could-be-strong-what-it-means-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T16:25:46.000Z"
+		},
+		{
 			"headline": "This creepy insect has been found on grapevines. What it could mean for California's wine industry",
 			"url": "https://www.latimes.com/california/story/2026-06-10/authorities-warn-of-invasive-insect-on-california-grapevines",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-11T00:28:36.000Z"
 		},
 		{
-			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
-			"url": "https://www.latimes.com/environment/story/2026-06-10/california-drinking-water-funding",
+			"headline": "Crews make progress battling fire at Camp Pendleton; evacuations lifted",
+			"url": "https://www.latimes.com/california/story/2026-06-10/november-fire-at-camp-pendleton-prompts-evacuations-near-oceanside",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-10T10:00:00.000Z"
+			"publishedAt": "2026-06-10T22:37:19.000Z"
 		},
 		{
-			"headline": "A huge fire threatened to burn a pristine California island. Inside the fight to preserve this oasis",
-			"url": "https://www.latimes.com/california/story/2026-06-10/fire-ravaged-pristine-california-island-will-it-recover",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-10T10:00:00.000Z"
+			"headline": "This student is reclaiming his Pomo culture, one recording at a time",
+			"url": "https://news.berkeley.edu/2026/06/10/this-student-is-reclaiming-his-pomo-culture-one-recording-at-a-time/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-10T21:28:06.000Z"
+		},
+		{
+			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
+			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-10T18:42:31.000Z"
 		},
 		{
 			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
@@ -74,10 +86,22 @@
 			"publishedAt": "2026-06-10T13:18:35.000Z"
 		},
 		{
-			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
-			"url": "https://news.berkeley.edu/2026/06/10/the-number-of-uninsured-californians-could-nearly-double-by-2030-says-new-report/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-10T18:42:31.000Z"
+			"headline": "'It's an injustice': Shrinking state funds could slow fixes for Californians with toxic water",
+			"url": "https://www.latimes.com/environment/story/2026-06-10/california-drinking-water-funding",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T10:00:00.000Z"
+		},
+		{
+			"headline": "A huge fire threatened to burn a pristine California island. Inside the fight to preserve this oasis",
+			"url": "https://www.latimes.com/california/story/2026-06-10/fire-ravaged-pristine-california-island-will-it-recover",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T10:00:00.000Z"
+		},
+		{
+			"headline": "California couple use hatchet, water bottle to fight off bear attack in Mammoth Lakes",
+			"url": "https://www.latimes.com/california/story/2026-06-09/couple-their-dogs-attacked-by-bear-in-mammoth-lakes-bear-euthanized",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-09T18:53:55.000Z"
 		},
 		{
 			"headline": "As California warms, cases of dengue fever are expected to grow",
@@ -90,24 +114,6 @@
 			"url": "https://www.mbari.org/news/mbari-hosts-2026-open-house-on-saturday-july-11/",
 			"source": "MBARI",
 			"publishedAt": "2026-06-09T16:00:35.000Z"
-		},
-		{
-			"headline": "Santa Monica Mountains' last steelhead trout survived the Palisades fire — and even had babies",
-			"url": "https://www.latimes.com/environment/story/2026-06-09/feared-dead-santa-monica-mountains-last-steelhead-trout-survive-palisades-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-09T10:00:00.000Z"
-		},
-		{
-			"headline": "A new $13.5 million gift will help UC Berkeley drive technology from lab to market",
-			"url": "https://inspire.berkeley.edu/o/sonsini/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-11T22:53:37.000Z"
-		},
-		{
-			"headline": "This student is reclaiming his Pomo culture, one recording at a time",
-			"url": "https://news.berkeley.edu/2026/06/10/this-student-is-reclaiming-his-pomo-culture-one-recording-at-a-time/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-10T21:28:06.000Z"
 		}
 	]
 }
