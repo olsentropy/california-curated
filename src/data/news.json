@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-06-14T20:56:36.453Z",
+	"lastUpdated": "2026-06-15T02:10:54.937Z",
 	"items": [
+		{
+			"headline": "Historic swells continue to batter California beaches. When will the surf die down?",
+			"url": "https://www.latimes.com/california/story/2026-06-14/california-high-surf-coastal-flooding",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-14T21:59:28.000Z"
+		},
 		{
 			"headline": "Infectious measles carrier likely visited San Francisco airport, Bay Area county warns",
 			"url": "https://www.latimes.com/california/story/2026-06-13/measles-carrier-visited-san-francisco-airport-bay-area-county-warns",
@@ -8,16 +14,16 @@
 			"publishedAt": "2026-06-14T00:50:00.000Z"
 		},
 		{
-			"headline": "Fire near Palmdale burns 200 acres, triggers evacuation orders",
-			"url": "https://www.latimes.com/california/story/2026-06-13/fire-near-palmdale-burns-200-acres-triggers-evacuation-orders",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-14T05:37:14.000Z"
-		},
-		{
 			"headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
 			"url": "https://www.latimes.com/california/story/2026-06-13/judge-dismissses-fired-yosemite-biologists-trans-flag-lawsuit",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-13T17:28:25.000Z"
+		},
+		{
+			"headline": "Woman swept out to sea in Santa Cruz becomes California's second death amid ongoing swell",
+			"url": "https://www.latimes.com/california/story/2026-06-13/woman-swept-out-to-sea-in-california-second-death-amid-ongoing-swell",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-13T11:00:00.000Z"
 		},
 		{
 			"headline": "NorCal braces for dry, dangerous fire season as SoCal faces typical conditions",
@@ -42,12 +48,6 @@
 			"url": "https://www.caltech.edu/about/news/caltech-celebrates-graduates-at-132nd-commencement",
 			"source": "Caltech",
 			"publishedAt": "2026-06-13T00:22:00.000Z"
-		},
-		{
-			"headline": "Officials say possible hantavirus case in San Quentin prison was false positive",
-			"url": "https://www.latimes.com/california/story/2026-06-12/possible-hantavirus-case-san-quentin",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-12T18:30:47.000Z"
 		},
 		{
 			"headline": "Berkeley Talks: Why kids need awe — and how puppets can help",
@@ -86,12 +86,6 @@
 			"publishedAt": "2026-06-11T16:25:46.000Z"
 		},
 		{
-			"headline": "UC to consider reinstating SAT, ACT tests after faculty say students are deficient in math",
-			"url": "https://www.latimes.com/california/story/2026-06-11/uc-sat-act-test-requirement-admissions-reconsider",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T17:00:03.000Z"
-		},
-		{
 			"headline": "This creepy insect has been found on grapevines. What it could mean for California's wine industry",
 			"url": "https://www.latimes.com/california/story/2026-06-10/authorities-warn-of-invasive-insect-on-california-grapevines",
 			"source": "Los Angeles Times",
@@ -104,16 +98,22 @@
 			"publishedAt": "2026-06-10T22:37:19.000Z"
 		},
 		{
-			"headline": "UC Davis favored less qualified Black, Latino med school applicants, Justice Department claims",
-			"url": "https://www.latimes.com/california/story/2026-06-10/uc-davis-favored-black-latino-medical-school-applicants-doj-claims",
+			"headline": "California sues Trump administration over planned ICE facility near Gilroy",
+			"url": "https://www.latimes.com/california/story/2026-06-10/california-sues-trump-administration-over-planned-ice-facility-near-gilroy",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T04:04:42.000Z"
+			"publishedAt": "2026-06-10T22:16:32.000Z"
 		},
 		{
 			"headline": "This student is reclaiming his Pomo culture, one recording at a time",
 			"url": "https://news.berkeley.edu/2026/06/10/this-student-is-reclaiming-his-pomo-culture-one-recording-at-a-time/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-10T21:28:06.000Z"
+		},
+		{
+			"headline": "In trial opening, feds accuse man of lighting Palisades fire as 'revenge' on the wealthy",
+			"url": "https://www.latimes.com/california/story/2026-06-10/arson-trial-underway-for-man-accused-of-sparking-deadly-palisades-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-10T18:49:43.000Z"
 		},
 		{
 			"headline": "The number of uninsured Californians could nearly double by 2030, says new report",
@@ -138,6 +138,12 @@
 			"url": "https://www.latimes.com/california/story/2026-06-10/fire-ravaged-pristine-california-island-will-it-recover",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-10T10:00:00.000Z"
+		},
+		{
+			"headline": "UC Davis favored less qualified Black, Latino med school applicants, Justice Department claims",
+			"url": "https://www.latimes.com/california/story/2026-06-10/uc-davis-favored-black-latino-medical-school-applicants-doj-claims",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T04:04:42.000Z"
 		}
 	]
 }
