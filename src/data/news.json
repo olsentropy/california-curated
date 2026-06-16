@@ -1,41 +1,17 @@
 {
-	"lastUpdated": "2026-06-16T02:14:40.337Z",
+	"lastUpdated": "2026-06-16T09:13:52.387Z",
 	"items": [
 		{
-			"headline": "Novel Chemical Reaction Suggests the Origins of Life",
-			"url": "https://www.caltech.edu/about/news/novel-chemical-reaction-suggests-the-origins-of-life",
-			"source": "Caltech",
-			"publishedAt": "2026-06-15T18:39:42.412Z"
+			"headline": "El Niño has arrived: 5 ways California could get pummeled",
+			"url": "https://www.latimes.com/california/story/2026-06-15/el-nino-has-arrived-5-ways-california-could-get-pummeled",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-15T10:00:00.000Z"
 		},
 		{
-			"headline": "A Star's Death Throes Involves a Lot of Kicking",
-			"url": "https://www.caltech.edu/about/news/a-stars-death-throes-involves-a-lot-of-kicking",
-			"source": "Caltech",
-			"publishedAt": "2026-06-15T17:15:00.315Z"
-		},
-		{
-			"headline": "UC Berkeley names next director of Hearst Museum of Anthropology",
-			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-names-next-director-of-hearst-museum-of-anthropology/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-15T16:30:00.000Z"
-		},
-		{
-			"headline": "Berkeley Talks: Why kids need awe — and how puppets can help",
-			"url": "https://news.berkeley.edu/2026/06/12/berkeley-talks-why-kids-need-awe/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-12T18:33:05.000Z"
-		},
-		{
-			"headline": "A new $13.5 million gift will help UC Berkeley drive technology from lab to market",
-			"url": "https://inspire.berkeley.edu/o/sonsini/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-11T22:53:37.000Z"
-		},
-		{
-			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
-			"url": "https://www.mbari.org/news/three-mbari-postdoctoral-fellows-awarded-inaugural-neptune-fellowships/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-11T18:00:02.000Z"
+			"headline": "Californian is infected with rare tick-borne illness. What to know about the deadly bacteria",
+			"url": "https://www.latimes.com/california/story/2026-06-15/californian-is-infected-with-rare-tick-borne-illness-what-to-know",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-16T02:21:11.000Z"
 		},
 		{
 			"headline": "A breakthrough in electron microscopy delivers sharper images of our body's tiniest proteins",
@@ -50,82 +26,130 @@
 			"publishedAt": "2026-06-11T15:09:00.000Z"
 		},
 		{
+			"headline": "Novel Chemical Reaction Suggests the Origins of Life",
+			"url": "https://www.caltech.edu/about/news/novel-chemical-reaction-suggests-the-origins-of-life",
+			"source": "Caltech",
+			"publishedAt": "2026-06-15T18:39:42.412Z"
+		},
+		{
+			"headline": "A Star's Death Throes Involves a Lot of Kicking",
+			"url": "https://www.caltech.edu/about/news/a-stars-death-throes-involves-a-lot-of-kicking",
+			"source": "Caltech",
+			"publishedAt": "2026-06-15T17:15:00.315Z"
+		},
+		{
+			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
+			"url": "https://www.mbari.org/news/three-mbari-postdoctoral-fellows-awarded-inaugural-neptune-fellowships/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-11T18:00:02.000Z"
+		},
+		{
+			"headline": "Infectious measles carrier likely visited San Francisco airport, Bay Area county warns",
+			"url": "https://www.latimes.com/california/story/2026-06-13/measles-carrier-visited-san-francisco-airport-bay-area-county-warns",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-14T00:50:00.000Z"
+		},
+		{
+			"headline": "Historic swells continue to batter California beaches. When will the surf die down?",
+			"url": "https://www.latimes.com/california/story/2026-06-14/california-high-surf-coastal-flooding",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-14T21:59:28.000Z"
+		},
+		{
+			"headline": "Woman swept out to sea in Santa Cruz becomes California's second death amid ongoing swell",
+			"url": "https://www.latimes.com/california/story/2026-06-13/woman-swept-out-to-sea-in-california-second-death-amid-ongoing-swell",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-13T11:00:00.000Z"
+		},
+		{
+			"headline": "NorCal braces for dry, dangerous fire season as SoCal faces typical conditions",
+			"url": "https://www.latimes.com/environment/story/2026-06-13/norcal-braces-for-dangerous-fire-season-socal-expects-typical",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-13T10:00:00.000Z"
+		},
+		{
+			"headline": "Low-resistance tires could cut drivers' costs while supporting environment in California",
+			"url": "https://www.latimes.com/environment/story/2026-06-13/low-resistance-tires-could-cut-drivers-costs-boost-climate",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-13T10:00:00.000Z"
+		},
+		{
+			"headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
+			"url": "https://www.latimes.com/california/story/2026-06-13/judge-dismissses-fired-yosemite-biologists-trans-flag-lawsuit",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-13T17:28:25.000Z"
+		},
+		{
+			"headline": "Judge orders Trump administration to restore national park signage on climate change, slavery",
+			"url": "https://www.latimes.com/california/story/2026-06-12/trump-administration-ordered-to-restore-national-park-signage-on-climate-change-slavery",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-13T01:57:46.000Z"
+		},
+		{
+			"headline": "Caltech Celebrates Graduates at 132nd Commencement",
+			"url": "https://www.caltech.edu/about/news/caltech-celebrates-graduates-at-132nd-commencement",
+			"source": "Caltech",
+			"publishedAt": "2026-06-13T00:22:00.000Z"
+		},
+		{
+			"headline": "\"Peripheral Vision and Cautious Optimism,\" Commencement Address by Kip Thorne (BS '62)",
+			"url": "https://www.caltech.edu/about/news/peripheral-vision-and-cautious-optimism-commencement-address-by-kip-thorne-bs-62",
+			"source": "Caltech",
+			"publishedAt": "2026-06-15T22:29:00.000Z"
+		},
+		{
+			"headline": "UC Berkeley named top public university in the U.S. and No. 7 in the world by U.S. News",
+			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-named-top-public-university-in-the-u-s-and-no-7-in-the-world-by-u-s-news/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-16T04:02:00.000Z"
+		},
+		{
+			"headline": "UC Berkeley names next director of Hearst Museum of Anthropology",
+			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-names-next-director-of-hearst-museum-of-anthropology/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-15T16:30:00.000Z"
+		},
+		{
+			"headline": "A new $13.5 million gift will help UC Berkeley drive technology from lab to market",
+			"url": "https://inspire.berkeley.edu/o/sonsini/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-11T22:53:37.000Z"
+		},
+		{
+			"headline": "Berkeley Talks: Why kids need awe — and how puppets can help",
+			"url": "https://news.berkeley.edu/2026/06/12/berkeley-talks-why-kids-need-awe/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-12T18:33:05.000Z"
+		},
+		{
 			"headline": "This student is reclaiming his Pomo culture, one recording at a time",
 			"url": "https://news.berkeley.edu/2026/06/10/this-student-is-reclaiming-his-pomo-culture-one-recording-at-a-time/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-10T21:28:06.000Z"
 		},
 		{
-			"headline": "Stretchy, Soft, and Sticky: Advancing the Next Generation of Wearable and Implantable Sensors",
-			"url": "https://www.caltech.edu/about/news/stretchy-soft-and-sticky-advancing-the-next-generation-of-wearable-and-implantable-sensors",
-			"source": "Caltech",
-			"publishedAt": "2026-06-10T14:41:00.000Z"
+			"headline": "This creepy insect has been found on grapevines. What it could mean for California's wine industry",
+			"url": "https://www.latimes.com/california/story/2026-06-10/authorities-warn-of-invasive-insect-on-california-grapevines",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T00:28:36.000Z"
 		},
 		{
-			"headline": "As Wildfires Increase in the West, So Does Suppression Spending",
-			"url": "https://eos.org/research-spotlights/as-wildfires-increase-in-the-west-so-does-suppression-spending",
-			"source": "Eos",
-			"publishedAt": "2026-06-10T13:18:35.000Z"
+			"headline": "A 'very strong' El Niño is likely. And it could hit California hard",
+			"url": "https://www.latimes.com/california/story/2026-06-11/el-nino-is-here-it-could-be-strong-what-it-means-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T16:25:46.000Z"
 		},
 		{
-			"headline": "As California warms, cases of dengue fever are expected to grow",
-			"url": "https://news.berkeley.edu/2026/06/09/as-california-warms-cases-of-dengue-fever-are-expected-to-grow/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-09T17:32:33.000Z"
+			"headline": "UC Davis favored less qualified Black, Latino med school applicants, Justice Department claims",
+			"url": "https://www.latimes.com/california/story/2026-06-10/uc-davis-favored-black-latino-medical-school-applicants-doj-claims",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T04:04:42.000Z"
 		},
 		{
-			"headline": "MBARI hosts 2026 Open House on Saturday, July 11",
-			"url": "https://www.mbari.org/news/mbari-hosts-2026-open-house-on-saturday-july-11/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-09T16:00:35.000Z"
-		},
-		{
-			"headline": "New CRISPR technique selectively shreds cancer cells, providing a new avenue for treating malignancies",
-			"url": "https://innovativegenomics.org/news/crispr-technique-selectively-shreds-cancer-cells/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-08T19:13:35.000Z"
-		},
-		{
-			"headline": "Tripping into old age: Can psychedelics protect the aging brain?",
-			"url": "https://news.berkeley.edu/2026/06/08/tripping-into-old-age-can-psychedelics-protect-the-aging-brain/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-08T15:00:00.000Z"
-		},
-		{
-			"headline": "Whales are showing up in San Francisco Bay. New ship alerts could help protect them",
-			"url": "https://www.npr.org/2026/06/08/nx-s1-5828784/gray-whales-ship-strikes-san-francisco-bay-climate",
-			"source": "NPR Science",
-			"publishedAt": "2026-06-08T09:00:00.000Z"
-		},
-		{
-			"headline": "Newsom Wants Prop 4 Funds for Golden Gate Fields. Some Local Conservationists Have Other Priorities.",
-			"url": "https://baynature.org/2026/06/04/conservation/parks/newsom-wants-prop-4-funds-for-golden-gate-fields-some-local-conservationists-have-other-priorities/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-06-04T18:26:12.000Z"
-		},
-		{
-			"headline": "Credibility in an Era of Chaos",
-			"url": "https://www.caltech.edu/about/news/credibility-in-an-era-of-chaos",
-			"source": "Caltech",
-			"publishedAt": "2026-06-03T16:14:11.120Z"
-		},
-		{
-			"headline": "MBARI and FathomNet partners release new version of FathomVerse app",
-			"url": "https://www.mbari.org/news/mbari-and-fathomnet-partners-release-new-version-of-fathomverse-app/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-03T15:00:40.000Z"
-		},
-		{
-			"headline": "Innovative MBARI technology plays integral role in expedition to document deep-sea biodiversity",
-			"url": "https://www.mbari.org/news/innovative-mbari-technology-plays-integral-role-in-expedition-to-document-deep-sea-biodiversity/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-03T12:00:03.000Z"
-		},
-		{
-			"headline": "Caltech Engineers Without Borders Chapter Implements Revitalized Water Supply System in Ecuadorian Village",
-			"url": "https://www.caltech.edu/about/news/caltech-engineers-without-borders-chapter-implements-revitalized-water-supply-system-in-ecuadorian-village",
-			"source": "Caltech",
-			"publishedAt": "2026-06-02T16:20:00.000Z"
+			"headline": "UC to consider reinstating SAT, ACT tests after faculty say students are deficient in math",
+			"url": "https://www.latimes.com/california/story/2026-06-11/uc-sat-act-test-requirement-admissions-reconsider",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-11T17:00:03.000Z"
 		}
 	]
 }
