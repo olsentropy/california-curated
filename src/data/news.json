@@ -1,11 +1,17 @@
 {
-	"lastUpdated": "2026-06-16T09:13:52.387Z",
+	"lastUpdated": "2026-06-16T16:16:27.631Z",
 	"items": [
 		{
-			"headline": "El Niño has arrived: 5 ways California could get pummeled",
-			"url": "https://www.latimes.com/california/story/2026-06-15/el-nino-has-arrived-5-ways-california-could-get-pummeled",
+			"headline": "El Niño turns crumbling California pier into climate battleground over what to save — and who pays",
+			"url": "https://www.latimes.com/environment/story/2026-06-16/el-nino-turns-crumbling-california-pier-into-climate-battleground",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T10:00:00.000Z"
+			"publishedAt": "2026-06-16T10:00:00.000Z"
+		},
+		{
+			"headline": "UC Berkeley named top public university in the U.S. and No. 7 in the world by U.S. News",
+			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-named-top-public-university-in-the-u-s-and-no-7-in-the-world-by-u-s-news/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-16T04:02:00.000Z"
 		},
 		{
 			"headline": "Californian is infected with rare tick-borne illness. What to know about the deadly bacteria",
@@ -14,16 +20,28 @@
 			"publishedAt": "2026-06-16T02:21:11.000Z"
 		},
 		{
-			"headline": "A breakthrough in electron microscopy delivers sharper images of our body's tiniest proteins",
-			"url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-11T18:00:00.000Z"
+			"headline": "Crews get handle on Stevenson Ranch fire as trio of blazes burn in L.A. County",
+			"url": "https://www.latimes.com/california/story/2026-06-15/stevenson-ranch-max-fire-threatens-homes-spurs-evacuations",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-16T01:31:34.000Z"
 		},
 		{
-			"headline": "Caltech Readies to Build World's Most Sensitive Radio Telescope",
-			"url": "https://www.caltech.edu/about/news/caltech-readies-to-build-worlds-most-sensitive-radio-telescope",
+			"headline": "\"Peripheral Vision and Cautious Optimism,\" Commencement Address by Kip Thorne (BS '62)",
+			"url": "https://www.caltech.edu/about/news/peripheral-vision-and-cautious-optimism-commencement-address-by-kip-thorne-bs-62",
 			"source": "Caltech",
-			"publishedAt": "2026-06-11T15:09:00.000Z"
+			"publishedAt": "2026-06-15T22:29:00.000Z"
+		},
+		{
+			"headline": "Hundreds rescued at Newport Beach this month; more dangerous coastal conditions ahead",
+			"url": "https://www.latimes.com/california/story/2026-06-15/hundreds-of-beachgoers-rescued-in-o-c-more-perilous-conditions-ahead",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-15T19:50:20.000Z"
+		},
+		{
+			"headline": "'We lost eight great Americans' in fiery B-52 bomber crash, Air Force colonel says",
+			"url": "https://www.latimes.com/california/story/2026-06-15/b-52-crashes-at-edwards-air-force-base-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-15T19:19:25.000Z"
 		},
 		{
 			"headline": "Novel Chemical Reaction Suggests the Origins of Life",
@@ -38,10 +56,34 @@
 			"publishedAt": "2026-06-15T17:15:00.315Z"
 		},
 		{
-			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
-			"url": "https://www.mbari.org/news/three-mbari-postdoctoral-fellows-awarded-inaugural-neptune-fellowships/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-11T18:00:02.000Z"
+			"headline": "UC Berkeley names next director of Hearst Museum of Anthropology",
+			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-names-next-director-of-hearst-museum-of-anthropology/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-15T16:30:00.000Z"
+		},
+		{
+			"headline": "What COVID is teaching doctors about the relationship between viruses and cancer",
+			"url": "https://www.latimes.com/science/story/2026-06-15/what-covid-teaches-doctors-about-relationship-viruses-cancer",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-15T10:00:00.000Z"
+		},
+		{
+			"headline": "El Niño has arrived: 5 ways California could get pummeled",
+			"url": "https://www.latimes.com/california/story/2026-06-15/el-nino-has-arrived-5-ways-california-could-get-pummeled",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-15T10:00:00.000Z"
+		},
+		{
+			"headline": "Historic swells continue to batter California beaches. When will the surf die down?",
+			"url": "https://www.latimes.com/california/story/2026-06-14/california-high-surf-coastal-flooding",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-14T21:59:28.000Z"
+		},
+		{
+			"headline": "Infant formula recalled after California baby sickened with botulism",
+			"url": "https://www.latimes.com/business/story/2026-06-14/baby-formula-recalled-after-california-child-sickened-with-botulism",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-14T17:35:22.000Z"
 		},
 		{
 			"headline": "Infectious measles carrier likely visited San Francisco airport, Bay Area county warns",
@@ -50,10 +92,10 @@
 			"publishedAt": "2026-06-14T00:50:00.000Z"
 		},
 		{
-			"headline": "Historic swells continue to batter California beaches. When will the surf die down?",
-			"url": "https://www.latimes.com/california/story/2026-06-14/california-high-surf-coastal-flooding",
+			"headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
+			"url": "https://www.latimes.com/california/story/2026-06-13/judge-dismissses-fired-yosemite-biologists-trans-flag-lawsuit",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-14T21:59:28.000Z"
+			"publishedAt": "2026-06-13T17:28:25.000Z"
 		},
 		{
 			"headline": "Woman swept out to sea in Santa Cruz becomes California's second death amid ongoing swell",
@@ -74,12 +116,6 @@
 			"publishedAt": "2026-06-13T10:00:00.000Z"
 		},
 		{
-			"headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
-			"url": "https://www.latimes.com/california/story/2026-06-13/judge-dismissses-fired-yosemite-biologists-trans-flag-lawsuit",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-13T17:28:25.000Z"
-		},
-		{
 			"headline": "Judge orders Trump administration to restore national park signage on climate change, slavery",
 			"url": "https://www.latimes.com/california/story/2026-06-12/trump-administration-ordered-to-restore-national-park-signage-on-climate-change-slavery",
 			"source": "Los Angeles Times",
@@ -92,22 +128,10 @@
 			"publishedAt": "2026-06-13T00:22:00.000Z"
 		},
 		{
-			"headline": "\"Peripheral Vision and Cautious Optimism,\" Commencement Address by Kip Thorne (BS '62)",
-			"url": "https://www.caltech.edu/about/news/peripheral-vision-and-cautious-optimism-commencement-address-by-kip-thorne-bs-62",
-			"source": "Caltech",
-			"publishedAt": "2026-06-15T22:29:00.000Z"
-		},
-		{
-			"headline": "UC Berkeley named top public university in the U.S. and No. 7 in the world by U.S. News",
-			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-named-top-public-university-in-the-u-s-and-no-7-in-the-world-by-u-s-news/",
+			"headline": "Berkeley Talks: Why kids need awe — and how puppets can help",
+			"url": "https://news.berkeley.edu/2026/06/12/berkeley-talks-why-kids-need-awe/",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-16T04:02:00.000Z"
-		},
-		{
-			"headline": "UC Berkeley names next director of Hearst Museum of Anthropology",
-			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-names-next-director-of-hearst-museum-of-anthropology/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-15T16:30:00.000Z"
+			"publishedAt": "2026-06-12T18:33:05.000Z"
 		},
 		{
 			"headline": "A new $13.5 million gift will help UC Berkeley drive technology from lab to market",
@@ -116,40 +140,16 @@
 			"publishedAt": "2026-06-11T22:53:37.000Z"
 		},
 		{
-			"headline": "Berkeley Talks: Why kids need awe — and how puppets can help",
-			"url": "https://news.berkeley.edu/2026/06/12/berkeley-talks-why-kids-need-awe/",
+			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
+			"url": "https://www.mbari.org/news/three-mbari-postdoctoral-fellows-awarded-inaugural-neptune-fellowships/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-11T18:00:02.000Z"
+		},
+		{
+			"headline": "A breakthrough in electron microscopy delivers sharper images of our body's tiniest proteins",
+			"url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-12T18:33:05.000Z"
-		},
-		{
-			"headline": "This student is reclaiming his Pomo culture, one recording at a time",
-			"url": "https://news.berkeley.edu/2026/06/10/this-student-is-reclaiming-his-pomo-culture-one-recording-at-a-time/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-10T21:28:06.000Z"
-		},
-		{
-			"headline": "This creepy insect has been found on grapevines. What it could mean for California's wine industry",
-			"url": "https://www.latimes.com/california/story/2026-06-10/authorities-warn-of-invasive-insect-on-california-grapevines",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T00:28:36.000Z"
-		},
-		{
-			"headline": "A 'very strong' El Niño is likely. And it could hit California hard",
-			"url": "https://www.latimes.com/california/story/2026-06-11/el-nino-is-here-it-could-be-strong-what-it-means-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T16:25:46.000Z"
-		},
-		{
-			"headline": "UC Davis favored less qualified Black, Latino med school applicants, Justice Department claims",
-			"url": "https://www.latimes.com/california/story/2026-06-10/uc-davis-favored-black-latino-medical-school-applicants-doj-claims",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T04:04:42.000Z"
-		},
-		{
-			"headline": "UC to consider reinstating SAT, ACT tests after faculty say students are deficient in math",
-			"url": "https://www.latimes.com/california/story/2026-06-11/uc-sat-act-test-requirement-admissions-reconsider",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T17:00:03.000Z"
+			"publishedAt": "2026-06-11T18:00:00.000Z"
 		}
 	]
 }
