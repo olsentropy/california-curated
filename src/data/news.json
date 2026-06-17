@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-17T02:10:39.403Z",
+	"lastUpdated": "2026-06-17T08:51:58.778Z",
 	"items": [
 		{
 			"headline": "How Would California Forever's Proposed Solano Shipyard Affect the Environment? Details Are Scant.",
@@ -44,18 +44,6 @@
 			"publishedAt": "2026-06-15T22:29:00.000Z"
 		},
 		{
-			"headline": "Hundreds rescued at Newport Beach this month; more dangerous coastal conditions ahead",
-			"url": "https://www.latimes.com/california/story/2026-06-15/hundreds-of-beachgoers-rescued-in-o-c-more-perilous-conditions-ahead",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T19:50:20.000Z"
-		},
-		{
-			"headline": "'We lost eight great Americans' in fiery B-52 bomber crash, Air Force colonel says",
-			"url": "https://www.latimes.com/california/story/2026-06-15/b-52-crashes-at-edwards-air-force-base-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T19:19:25.000Z"
-		},
-		{
 			"headline": "Novel Chemical Reaction Suggests the Origins of Life",
 			"url": "https://www.caltech.edu/about/news/novel-chemical-reaction-suggests-the-origins-of-life",
 			"source": "Caltech",
@@ -90,6 +78,24 @@
 			"url": "https://www.latimes.com/business/story/2026-06-14/baby-formula-recalled-after-california-child-sickened-with-botulism",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-14T17:35:22.000Z"
+		},
+		{
+			"headline": "Infectious measles carrier likely visited San Francisco airport, Bay Area county warns",
+			"url": "https://www.latimes.com/california/story/2026-06-13/measles-carrier-visited-san-francisco-airport-bay-area-county-warns",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-14T00:50:00.000Z"
+		},
+		{
+			"headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
+			"url": "https://www.latimes.com/california/story/2026-06-13/judge-dismissses-fired-yosemite-biologists-trans-flag-lawsuit",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-13T17:28:25.000Z"
+		},
+		{
+			"headline": "Woman swept out to sea in Santa Cruz becomes California's second death amid ongoing swell",
+			"url": "https://www.latimes.com/california/story/2026-06-13/woman-swept-out-to-sea-in-california-second-death-amid-ongoing-swell",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-13T11:00:00.000Z"
 		},
 		{
 			"headline": "NorCal braces for dry, dangerous fire season as SoCal faces typical conditions",
@@ -134,22 +140,16 @@
 			"publishedAt": "2026-06-11T22:53:37.000Z"
 		},
 		{
-			"headline": "Infectious measles carrier likely visited San Francisco airport, Bay Area county warns",
-			"url": "https://www.latimes.com/california/story/2026-06-13/measles-carrier-visited-san-francisco-airport-bay-area-county-warns",
+			"headline": "Stanford gets reprieve from subpoenas seeking records about trans kids' care",
+			"url": "https://www.latimes.com/california/story/2026-06-11/stanford-gets-temporary-reprieve-from-subpoena-in-trans-kids-records-case",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-14T00:50:00.000Z"
+			"publishedAt": "2026-06-11T20:16:14.000Z"
 		},
 		{
 			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
 			"url": "https://www.mbari.org/news/three-mbari-postdoctoral-fellows-awarded-inaugural-neptune-fellowships/",
 			"source": "MBARI",
 			"publishedAt": "2026-06-11T18:00:02.000Z"
-		},
-		{
-			"headline": "A breakthrough in electron microscopy delivers sharper images of our body's tiniest proteins",
-			"url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-11T18:00:00.000Z"
 		}
 	]
 }
