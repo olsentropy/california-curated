@@ -1,11 +1,17 @@
 {
-	"lastUpdated": "2026-06-17T14:42:48.773Z",
+	"lastUpdated": "2026-06-17T18:07:20.650Z",
 	"items": [
 		{
 			"headline": "The woman who championed Big Bear's celebrity eagles leaves behind a $10-million mission",
 			"url": "https://www.latimes.com/environment/story/2026-06-17/jackie-shadow-sandy-steers-memorial-moon-camp-fundraiser",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-17T10:00:00.000Z"
+		},
+		{
+			"headline": "Mathematicians Gather to Focus on AI",
+			"url": "https://www.caltech.edu/about/news/mathematicians-gather-to-focus-on-ai",
+			"source": "Caltech",
+			"publishedAt": "2026-06-17T16:31:00.000Z"
 		},
 		{
 			"headline": "How Would California Forever's Proposed Solano Shipyard Affect the Environment? Details Are Scant.",
@@ -32,12 +38,6 @@
 			"publishedAt": "2026-06-16T10:00:00.000Z"
 		},
 		{
-			"headline": "L.A. Zoo, deteriorating and losing members, needs new leadership, grand jury finds",
-			"url": "https://www.latimes.com/california/story/2026-06-16/los-angeles-zoo-tattered-losing-members-needs-private-steward-grand-jury-finds",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-16T12:00:00.000Z"
-		},
-		{
 			"headline": "UC Berkeley named top public university in the U.S. and No. 7 in the world by 'U.S. News'",
 			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-named-top-public-university-in-the-u-s-and-no-7-in-the-world-by-u-s-news/",
 			"source": "UC Berkeley News",
@@ -62,24 +62,6 @@
 			"publishedAt": "2026-06-16T01:31:34.000Z"
 		},
 		{
-			"headline": "\"Peripheral Vision and Cautious Optimism,\" Commencement Address by Kip Thorne (BS '62)",
-			"url": "https://www.caltech.edu/about/news/peripheral-vision-and-cautious-optimism-commencement-address-by-kip-thorne-bs-62",
-			"source": "Caltech",
-			"publishedAt": "2026-06-15T22:29:00.000Z"
-		},
-		{
-			"headline": "Hundreds rescued at Newport Beach this month; more dangerous coastal conditions ahead",
-			"url": "https://www.latimes.com/california/story/2026-06-15/hundreds-of-beachgoers-rescued-in-o-c-more-perilous-conditions-ahead",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T19:50:20.000Z"
-		},
-		{
-			"headline": "'We lost eight great Americans' in fiery B-52 bomber crash, Air Force colonel says",
-			"url": "https://www.latimes.com/california/story/2026-06-15/b-52-crashes-at-edwards-air-force-base-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T19:19:25.000Z"
-		},
-		{
 			"headline": "Novel Chemical Reaction Suggests the Origins of Life",
 			"url": "https://www.caltech.edu/about/news/novel-chemical-reaction-suggests-the-origins-of-life",
 			"source": "Caltech",
@@ -98,6 +80,12 @@
 			"publishedAt": "2026-06-15T16:30:00.000Z"
 		},
 		{
+			"headline": "What COVID is teaching doctors about the relationship between viruses and cancer",
+			"url": "https://www.latimes.com/science/story/2026-06-15/what-covid-teaches-doctors-about-relationship-viruses-cancer",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-15T10:00:00.000Z"
+		},
+		{
 			"headline": "El Niño has arrived: 5 ways California could get pummeled",
 			"url": "https://www.latimes.com/california/story/2026-06-15/el-nino-has-arrived-5-ways-california-could-get-pummeled",
 			"source": "Los Angeles Times",
@@ -110,22 +98,40 @@
 			"publishedAt": "2026-06-15T10:00:00.000Z"
 		},
 		{
+			"headline": "\"Peripheral Vision and Cautious Optimism,\" Commencement Address by Kip Thorne (BS '62)",
+			"url": "https://www.caltech.edu/about/news/peripheral-vision-and-cautious-optimism-commencement-address-by-kip-thorne-bs-62",
+			"source": "Caltech",
+			"publishedAt": "2026-06-15T22:29:00.000Z"
+		},
+		{
+			"headline": "Hundreds rescued at Newport Beach this month; more dangerous coastal conditions ahead",
+			"url": "https://www.latimes.com/california/story/2026-06-15/hundreds-of-beachgoers-rescued-in-o-c-more-perilous-conditions-ahead",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-15T19:50:20.000Z"
+		},
+		{
+			"headline": "'We lost eight great Americans' in fiery B-52 bomber crash, Air Force colonel says",
+			"url": "https://www.latimes.com/california/story/2026-06-15/b-52-crashes-at-edwards-air-force-base-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-15T19:19:25.000Z"
+		},
+		{
 			"headline": "Historic swells continue to batter California beaches. When will the surf die down?",
 			"url": "https://www.latimes.com/california/story/2026-06-14/california-high-surf-coastal-flooding",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-14T21:59:28.000Z"
 		},
 		{
-			"headline": "Oliver Tree, musician and Santa Cruz native, dies in helicopter crash",
-			"url": "https://www.latimes.com/california/story/2026-06-14/oliver-tree-musician-santa-cruz-native-dies-in-helicopter-crash",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-14T21:47:04.000Z"
-		},
-		{
 			"headline": "Infant formula recalled after California baby sickened with botulism",
 			"url": "https://www.latimes.com/business/story/2026-06-14/baby-formula-recalled-after-california-child-sickened-with-botulism",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-14T17:35:22.000Z"
+		},
+		{
+			"headline": "New MLK hospital program brings amputations to zero for at-risk diabetic patients",
+			"url": "https://www.latimes.com/science/story/2026-06-14/mlk-program-brings-amputations-to-zero-for-at-risk-diabetic-patients",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-14T10:00:00.000Z"
 		},
 		{
 			"headline": "NorCal braces for dry, dangerous fire season as SoCal faces typical conditions",
@@ -144,12 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-06-12/trump-administration-ordered-to-restore-national-park-signage-on-climate-change-slavery",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-13T01:57:46.000Z"
-		},
-		{
-			"headline": "Caltech Celebrates Graduates at 132nd Commencement",
-			"url": "https://www.caltech.edu/about/news/caltech-celebrates-graduates-at-132nd-commencement",
-			"source": "Caltech",
-			"publishedAt": "2026-06-13T00:22:00.000Z"
 		}
 	]
 }
