@@ -1,17 +1,23 @@
 {
-	"lastUpdated": "2026-06-16T22:04:02.796Z",
+	"lastUpdated": "2026-06-17T02:10:39.403Z",
 	"items": [
 		{
-			"headline": "El Niño turns crumbling California pier into climate battleground over what to save — and who pays",
-			"url": "https://www.latimes.com/environment/story/2026-06-16/el-nino-turns-crumbling-california-pier-into-climate-battleground",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-16T10:00:00.000Z"
+			"headline": "How Would California Forever's Proposed Solano Shipyard Affect the Environment? Details Are Scant.",
+			"url": "https://baynature.org/2026/06/16/science-nature/bay/how-would-california-forevers-proposed-solano-shipyard-affect-the-environment-details-are-scant/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-06-16T23:39:48.000Z"
 		},
 		{
 			"headline": "Wildfire in Riverside County grows to 2,600 acres",
 			"url": "https://www.latimes.com/california/story/2026-06-16/shore-fire-riverside-county",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-16T17:12:57.000Z"
+		},
+		{
+			"headline": "El Niño turns crumbling California pier into climate battleground over what to save — and who pays",
+			"url": "https://www.latimes.com/environment/story/2026-06-16/el-nino-turns-crumbling-california-pier-into-climate-battleground",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-16T10:00:00.000Z"
 		},
 		{
 			"headline": "UC Berkeley named top public university in the U.S. and No. 7 in the world by 'U.S. News'",
@@ -38,6 +44,18 @@
 			"publishedAt": "2026-06-15T22:29:00.000Z"
 		},
 		{
+			"headline": "Hundreds rescued at Newport Beach this month; more dangerous coastal conditions ahead",
+			"url": "https://www.latimes.com/california/story/2026-06-15/hundreds-of-beachgoers-rescued-in-o-c-more-perilous-conditions-ahead",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-15T19:50:20.000Z"
+		},
+		{
+			"headline": "'We lost eight great Americans' in fiery B-52 bomber crash, Air Force colonel says",
+			"url": "https://www.latimes.com/california/story/2026-06-15/b-52-crashes-at-edwards-air-force-base-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-15T19:19:25.000Z"
+		},
+		{
 			"headline": "Novel Chemical Reaction Suggests the Origins of Life",
 			"url": "https://www.caltech.edu/about/news/novel-chemical-reaction-suggests-the-origins-of-life",
 			"source": "Caltech",
@@ -56,24 +74,6 @@
 			"publishedAt": "2026-06-15T16:30:00.000Z"
 		},
 		{
-			"headline": "Hundreds rescued at Newport Beach this month; more dangerous coastal conditions ahead",
-			"url": "https://www.latimes.com/california/story/2026-06-15/hundreds-of-beachgoers-rescued-in-o-c-more-perilous-conditions-ahead",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T19:50:20.000Z"
-		},
-		{
-			"headline": "'We lost eight great Americans' in fiery B-52 bomber crash, Air Force colonel says",
-			"url": "https://www.latimes.com/california/story/2026-06-15/b-52-crashes-at-edwards-air-force-base-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T19:19:25.000Z"
-		},
-		{
-			"headline": "What COVID is teaching doctors about the relationship between viruses and cancer",
-			"url": "https://www.latimes.com/science/story/2026-06-15/what-covid-teaches-doctors-about-relationship-viruses-cancer",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T10:00:00.000Z"
-		},
-		{
 			"headline": "El Niño has arrived: 5 ways California could get pummeled",
 			"url": "https://www.latimes.com/california/story/2026-06-15/el-nino-has-arrived-5-ways-california-could-get-pummeled",
 			"source": "Los Angeles Times",
@@ -90,12 +90,6 @@
 			"url": "https://www.latimes.com/business/story/2026-06-14/baby-formula-recalled-after-california-child-sickened-with-botulism",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-14T17:35:22.000Z"
-		},
-		{
-			"headline": "New MLK hospital program brings amputations to zero for at-risk diabetic patients",
-			"url": "https://www.latimes.com/science/story/2026-06-14/mlk-program-brings-amputations-to-zero-for-at-risk-diabetic-patients",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-14T10:00:00.000Z"
 		},
 		{
 			"headline": "NorCal braces for dry, dangerous fire season as SoCal faces typical conditions",
@@ -122,16 +116,28 @@
 			"publishedAt": "2026-06-13T00:22:00.000Z"
 		},
 		{
-			"headline": "Warning of cuts to medical services, L.A. County health officials ask state for emergency funds",
-			"url": "https://www.latimes.com/science/story/2026-06-12/la-county-health-officials-ask-state-for-emergency-funds",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-12T10:00:00.000Z"
-		},
-		{
 			"headline": "Berkeley Talks: Why kids need awe — and how puppets can help",
 			"url": "https://news.berkeley.edu/2026/06/12/berkeley-talks-why-kids-need-awe/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-12T18:33:05.000Z"
+		},
+		{
+			"headline": "Officials say possible hantavirus case in San Quentin prison was false positive",
+			"url": "https://www.latimes.com/california/story/2026-06-12/possible-hantavirus-case-san-quentin",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-12T18:30:47.000Z"
+		},
+		{
+			"headline": "A new $13.5 million gift will help UC Berkeley drive technology from lab to market",
+			"url": "https://inspire.berkeley.edu/o/sonsini/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-11T22:53:37.000Z"
+		},
+		{
+			"headline": "Infectious measles carrier likely visited San Francisco airport, Bay Area county warns",
+			"url": "https://www.latimes.com/california/story/2026-06-13/measles-carrier-visited-san-francisco-airport-bay-area-county-warns",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-14T00:50:00.000Z"
 		},
 		{
 			"headline": "Three MBARI postdoctoral fellows awarded inaugural Neptune Fellowships",
@@ -144,12 +150,6 @@
 			"url": "https://news.berkeley.edu/2026/06/11/a-breakthrough-in-electron-microscopy-delivers-sharper-images-of-our-bodys-tiniest-proteins/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-11T18:00:00.000Z"
-		},
-		{
-			"headline": "A 'very strong' El Niño is likely. And it could hit California hard",
-			"url": "https://www.latimes.com/california/story/2026-06-11/el-nino-is-here-it-could-be-strong-what-it-means-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-11T16:25:46.000Z"
 		}
 	]
 }
