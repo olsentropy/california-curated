@@ -1,6 +1,7 @@
 ---
 import '../styles/global.css';
 import { SITE_TITLE, SITE_TWITTER, SITE_TWITTER_CREATOR, SITE_FACEBOOK, SITE_INSTAGRAM, SITE_TIKTOK } from '../consts';
+import Analytics from '@vercel/analytics/astro';
 
 interface Props {
 	title: string;
@@ -143,3 +144,6 @@ const twCreator = twHandle(SITE_TWITTER_CREATOR);
 	gtag('js', new Date());
 	gtag('config', 'G-3EY3QY3FN1');
 </script>
+
+<!-- Vercel Web Analytics -->
+<Analytics />
