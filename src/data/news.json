@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-18T08:28:25.220Z",
+	"lastUpdated": "2026-06-18T14:37:17.400Z",
 	"items": [
 		{
 			"headline": "Trump administration pays $765M to kill more offshore wind projects, including one off California",
@@ -8,22 +8,22 @@
 			"publishedAt": "2026-06-17T18:42:15.000Z"
 		},
 		{
-			"headline": "Watch: The economic pressures that are driving Californians to leave home",
-			"url": "https://news.berkeley.edu/2026/06/17/watch-the-economic-pressures-that-are-driving-californians-to-leave-home/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-17T20:15:22.000Z"
-		},
-		{
 			"headline": "The nose knows: Electric schnoz can smell when your food's gone bad",
 			"url": "https://news.berkeley.edu/2026/06/17/the-nose-knows-electric-schnoz-can-smell-when-your-foods-gone-bad/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-17T19:00:11.000Z"
 		},
 		{
-			"headline": "These zoo babies smell like popcorn. San Diego Zoo celebrates birth of two bearcats",
-			"url": "https://www.latimes.com/california/story/2026-06-17/bearcats-biturong-bintlets-born-san-diego-zoo",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T22:17:57.000Z"
+			"headline": "Watch: The economic pressures that are driving Californians to leave home",
+			"url": "https://news.berkeley.edu/2026/06/17/watch-the-economic-pressures-that-are-driving-californians-to-leave-home/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-17T20:15:22.000Z"
+		},
+		{
+			"headline": "Mathematicians Gather to Focus on AI",
+			"url": "https://www.caltech.edu/about/news/mathematicians-gather-to-focus-on-ai",
+			"source": "Caltech",
+			"publishedAt": "2026-06-17T16:31:00.000Z"
 		},
 		{
 			"headline": "The woman who championed Big Bear's celebrity eagles leaves behind a $10-million mission",
@@ -38,22 +38,28 @@
 			"publishedAt": "2026-06-16T23:39:48.000Z"
 		},
 		{
+			"headline": "Another crash at L.A. County's Whiteman Airport is sparking calls for federal reform",
+			"url": "https://www.latimes.com/california/story/2026-06-16/plane-slides-off-runway-at-whiteman-airport-after-landing-gear-fails",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-16T18:19:40.000Z"
+		},
+		{
 			"headline": "Wildfire in Riverside County grows to 2,600 acres",
 			"url": "https://www.latimes.com/california/story/2026-06-16/shore-fire-riverside-county",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-16T17:12:57.000Z"
 		},
 		{
-			"headline": "El Niño turns crumbling California pier into climate battleground over what to save — and who pays",
-			"url": "https://www.latimes.com/environment/story/2026-06-16/el-nino-turns-crumbling-california-pier-into-climate-battleground",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-16T10:00:00.000Z"
-		},
-		{
 			"headline": "L.A. Zoo, deteriorating and losing members, needs new leadership, grand jury finds",
 			"url": "https://www.latimes.com/california/story/2026-06-16/los-angeles-zoo-tattered-losing-members-needs-private-steward-grand-jury-finds",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-16T12:00:00.000Z"
+		},
+		{
+			"headline": "El Niño turns crumbling California pier into climate battleground over what to save — and who pays",
+			"url": "https://www.latimes.com/environment/story/2026-06-16/el-nino-turns-crumbling-california-pier-into-climate-battleground",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-16T10:00:00.000Z"
 		},
 		{
 			"headline": "UC Berkeley named top public university in the U.S. and No. 7 in the world by 'U.S. News'",
@@ -74,24 +80,6 @@
 			"publishedAt": "2026-06-16T02:21:11.000Z"
 		},
 		{
-			"headline": "UC Berkeley names next director of Hearst Museum of Anthropology",
-			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-names-next-director-of-hearst-museum-of-anthropology/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-15T16:30:00.000Z"
-		},
-		{
-			"headline": "El Niño has arrived: 5 ways California could get pummeled",
-			"url": "https://www.latimes.com/california/story/2026-06-15/el-nino-has-arrived-5-ways-california-could-get-pummeled",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T10:00:00.000Z"
-		},
-		{
-			"headline": "This startup was supposed to revolutionize California's wine industry: 'It totally failed'",
-			"url": "https://www.latimes.com/business/story/2026-06-15/this-startup-was-supposed-to-revolutionize-californias-wine-industry-it-totally-failed",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T10:00:00.000Z"
-		},
-		{
 			"headline": "Novel Chemical Reaction Suggests the Origins of Life",
 			"url": "https://www.caltech.edu/about/news/novel-chemical-reaction-suggests-the-origins-of-life",
 			"source": "Caltech",
@@ -102,6 +90,18 @@
 			"url": "https://www.caltech.edu/about/news/a-stars-death-throes-involves-a-lot-of-kicking",
 			"source": "Caltech",
 			"publishedAt": "2026-06-15T17:15:00.315Z"
+		},
+		{
+			"headline": "UC Berkeley names next director of Hearst Museum of Anthropology",
+			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-names-next-director-of-hearst-museum-of-anthropology/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-15T16:30:00.000Z"
+		},
+		{
+			"headline": "El Niño has arrived: 5 ways California could get pummeled",
+			"url": "https://www.latimes.com/california/story/2026-06-15/el-nino-has-arrived-5-ways-california-could-get-pummeled",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-15T10:00:00.000Z"
 		},
 		{
 			"headline": "'We lost eight great Americans' in fiery B-52 bomber crash, Air Force colonel says",
@@ -116,22 +116,22 @@
 			"publishedAt": "2026-06-14T21:59:28.000Z"
 		},
 		{
-			"headline": "Oliver Tree, musician and Santa Cruz native, dies in helicopter crash",
-			"url": "https://www.latimes.com/california/story/2026-06-14/oliver-tree-musician-santa-cruz-native-dies-in-helicopter-crash",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-14T21:47:04.000Z"
-		},
-		{
 			"headline": "Infant formula recalled after California baby sickened with botulism",
 			"url": "https://www.latimes.com/business/story/2026-06-14/baby-formula-recalled-after-california-child-sickened-with-botulism",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-14T17:35:22.000Z"
 		},
 		{
-			"headline": "Infectious measles carrier likely visited San Francisco airport, Bay Area county warns",
-			"url": "https://www.latimes.com/california/story/2026-06-13/measles-carrier-visited-san-francisco-airport-bay-area-county-warns",
+			"headline": "NorCal braces for dry, dangerous fire season as SoCal faces typical conditions",
+			"url": "https://www.latimes.com/environment/story/2026-06-13/norcal-braces-for-dangerous-fire-season-socal-expects-typical",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-14T00:50:00.000Z"
+			"publishedAt": "2026-06-13T10:00:00.000Z"
+		},
+		{
+			"headline": "Low-resistance tires could cut drivers' costs while supporting environment in California",
+			"url": "https://www.latimes.com/environment/story/2026-06-13/low-resistance-tires-could-cut-drivers-costs-boost-climate",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-13T10:00:00.000Z"
 		},
 		{
 			"headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
@@ -146,10 +146,10 @@
 			"publishedAt": "2026-06-13T11:00:00.000Z"
 		},
 		{
-			"headline": "NorCal braces for dry, dangerous fire season as SoCal faces typical conditions",
-			"url": "https://www.latimes.com/environment/story/2026-06-13/norcal-braces-for-dangerous-fire-season-socal-expects-typical",
+			"headline": "Judge orders Trump administration to restore national park signage on climate change, slavery",
+			"url": "https://www.latimes.com/california/story/2026-06-12/trump-administration-ordered-to-restore-national-park-signage-on-climate-change-slavery",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-13T10:00:00.000Z"
+			"publishedAt": "2026-06-13T01:57:46.000Z"
 		}
 	]
 }
