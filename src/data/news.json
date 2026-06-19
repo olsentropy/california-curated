@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-18T21:54:26.938Z",
+	"lastUpdated": "2026-06-19T02:36:09.474Z",
 	"items": [
 		{
 			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
@@ -8,22 +8,16 @@
 			"publishedAt": "2026-06-18T21:01:02.000Z"
 		},
 		{
-			"headline": "What we know about air quality after massive Boyle Heights fire",
-			"url": "https://www.latimes.com/california/story/2026-06-18/what-we-know-about-air-quality",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-18T13:40:59.000Z"
+			"headline": "Watch: The economic pressures that are driving Californians to leave home",
+			"url": "https://news.berkeley.edu/2026/06/17/watch-the-economic-pressures-that-are-driving-californians-to-leave-home/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-17T20:15:22.000Z"
 		},
 		{
 			"headline": "The nose knows: Electric schnoz can smell when your food's gone bad",
 			"url": "https://news.berkeley.edu/2026/06/17/the-nose-knows-electric-schnoz-can-smell-when-your-foods-gone-bad/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-17T19:00:11.000Z"
-		},
-		{
-			"headline": "Watch: The economic pressures that are driving Californians to leave home",
-			"url": "https://news.berkeley.edu/2026/06/17/watch-the-economic-pressures-that-are-driving-californians-to-leave-home/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-17T20:15:22.000Z"
 		},
 		{
 			"headline": "Trump administration pays $765 million to kill more offshore wind projects, including one off California",
@@ -98,12 +92,6 @@
 			"publishedAt": "2026-06-16T02:21:11.000Z"
 		},
 		{
-			"headline": "Crews get handle on Stevenson Ranch fire as trio of blazes burn in L.A. County",
-			"url": "https://www.latimes.com/california/story/2026-06-15/stevenson-ranch-max-fire-threatens-homes-spurs-evacuations",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-16T01:31:34.000Z"
-		},
-		{
 			"headline": "Novel Chemical Reaction Suggests the Origins of Life",
 			"url": "https://www.caltech.edu/about/news/novel-chemical-reaction-suggests-the-origins-of-life",
 			"source": "Caltech",
@@ -150,6 +138,18 @@
 			"url": "https://www.latimes.com/california/story/2026-06-13/measles-carrier-visited-san-francisco-airport-bay-area-county-warns",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-14T00:50:00.000Z"
+		},
+		{
+			"headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
+			"url": "https://www.latimes.com/california/story/2026-06-13/judge-dismissses-fired-yosemite-biologists-trans-flag-lawsuit",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-13T17:28:25.000Z"
+		},
+		{
+			"headline": "Woman swept out to sea in Santa Cruz becomes California's second death amid ongoing swell",
+			"url": "https://www.latimes.com/california/story/2026-06-13/woman-swept-out-to-sea-in-california-second-death-amid-ongoing-swell",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-13T11:00:00.000Z"
 		}
 	]
 }
