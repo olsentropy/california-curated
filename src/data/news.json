@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-06-19T02:36:09.474Z",
+	"lastUpdated": "2026-06-19T08:56:22.572Z",
 	"items": [
+		{
+			"headline": "Ginsburg Center for Quantum Precision Hosts Dedication Ceremony",
+			"url": "https://www.caltech.edu/about/news/ginsburg-center-for-quantum-precision-hosts-dedication-ceremony",
+			"source": "Caltech",
+			"publishedAt": "2026-06-19T03:17:24.816Z"
+		},
 		{
 			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
 			"url": "https://www.latimes.com/environment/story/2026-06-18/after-nearly-two-decades-this-massive-new-mexico-wind-project-is-now-powering-california",
@@ -32,16 +38,16 @@
 			"publishedAt": "2026-06-17T22:17:57.000Z"
 		},
 		{
-			"headline": "Mathematicians Gather to Focus on AI",
-			"url": "https://www.caltech.edu/about/news/mathematicians-gather-to-focus-on-ai",
-			"source": "Caltech",
-			"publishedAt": "2026-06-17T16:31:00.000Z"
-		},
-		{
 			"headline": "The woman who championed Big Bear's celebrity eagles leaves behind a $10-million mission",
 			"url": "https://www.latimes.com/environment/story/2026-06-17/jackie-shadow-sandy-steers-memorial-moon-camp-fundraiser",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-17T10:00:00.000Z"
+		},
+		{
+			"headline": "Mathematicians Gather to Focus on AI",
+			"url": "https://www.caltech.edu/about/news/mathematicians-gather-to-focus-on-ai",
+			"source": "Caltech",
+			"publishedAt": "2026-06-17T16:31:00.000Z"
 		},
 		{
 			"headline": "How Would California Forever's Proposed Solano Shipyard Affect the Environment? Details Are Scant.",
@@ -78,18 +84,6 @@
 			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-named-top-public-university-in-the-u-s-and-no-7-in-the-world-by-u-s-news/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-16T04:02:00.000Z"
-		},
-		{
-			"headline": "Wild deer captured and kept in a dog crate for weeks. A Bay Area resident is cited",
-			"url": "https://www.latimes.com/california/story/2026-06-15/wild-young-deer-captured-kept-in-cage-for-weeks-at-bay-area-home",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-16T02:35:50.000Z"
-		},
-		{
-			"headline": "Californian is infected with rare tick-borne illness. What to know about the deadly bacteria",
-			"url": "https://www.latimes.com/california/story/2026-06-15/californian-is-infected-with-rare-tick-borne-illness-what-to-know",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-16T02:21:11.000Z"
 		},
 		{
 			"headline": "Novel Chemical Reaction Suggests the Origins of Life",
@@ -134,22 +128,28 @@
 			"publishedAt": "2026-06-14T17:35:22.000Z"
 		},
 		{
+			"headline": "California's slow vote count stirs frustration, but changes would be hard",
+			"url": "https://www.latimes.com/california/story/2026-06-14/californias-slow-vote-count-stirs-frustration-but-changes-would-be-hard",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-14T10:00:00.000Z"
+		},
+		{
+			"headline": "Fire near Palmdale burns 200 acres, triggers evacuation orders",
+			"url": "https://www.latimes.com/california/story/2026-06-13/fire-near-palmdale-burns-200-acres-triggers-evacuation-orders",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-14T05:37:14.000Z"
+		},
+		{
 			"headline": "Infectious measles carrier likely visited San Francisco airport, Bay Area county warns",
 			"url": "https://www.latimes.com/california/story/2026-06-13/measles-carrier-visited-san-francisco-airport-bay-area-county-warns",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-14T00:50:00.000Z"
 		},
 		{
-			"headline": "Federal judge rejects fired biologist's free speech lawsuit over Yosemite trans flag demonstration",
-			"url": "https://www.latimes.com/california/story/2026-06-13/judge-dismissses-fired-yosemite-biologists-trans-flag-lawsuit",
+			"headline": "UC Berkeley alum accused of espionage, Chinese authorities say",
+			"url": "https://www.latimes.com/california/story/2026-06-13/uc-berkeley-doctoral-student-accused-of-espionage-chinese-authorities-says",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-13T17:28:25.000Z"
-		},
-		{
-			"headline": "Woman swept out to sea in Santa Cruz becomes California's second death amid ongoing swell",
-			"url": "https://www.latimes.com/california/story/2026-06-13/woman-swept-out-to-sea-in-california-second-death-amid-ongoing-swell",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-13T11:00:00.000Z"
+			"publishedAt": "2026-06-13T20:20:11.000Z"
 		}
 	]
 }
