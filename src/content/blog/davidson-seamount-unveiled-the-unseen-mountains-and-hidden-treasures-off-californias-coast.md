@@ -1,17 +1,28 @@
 ---
-title: "Davidson Seamount and the Unseen Mountains and Hidden Treasures Off California’s Coast"
-description: "Perhaps the most astonishing discovery at Davidson Seamount occurred in 2018, when scientists discovered the “Octopus Garden,” the largest known aggregation of octopuses in the world. The garden is about two miles deep and was discovered by researchers on the research vessel (RV) Nautilus."
+title: Davidson Seamount and the Unseen Mountains and Hidden Treasures Off California’s Coast
+description: Perhaps the most astonishing discovery at Davidson Seamount occurred in 2018, when scientists discovered the “Octopus Garden,” the largest known aggregation of octopuses in the world. The garden is about two miles deep and was discovered by researchers on the research vessel (RV) Nautilus.
 pubDate: 2023-09-05
-heroImage: "https://californiacurated.com/wp-content/uploads/2023/09/octopuses-garden.jpeg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2023/09/octopuses-garden.jpeg
+categories:
+  - animals
+  - biology
+  - climate-change
+  - geology-and-earthquakes
+  - marine-science
+  - places
+tags:
+  - animals
+  - california
+  - environment
+  - mbari
+  - monterey-canyon
+  - rov
+  - seamounts
+author: Erik Olsen
 wpId: 2527
-wpSlug: "davidson-seamount-unveiled-the-unseen-mountains-and-hidden-treasures-off-californias-coast"
-categories: ["animals", "biology", "climate-change", "geology-and-earthquakes", "marine-science", "places"]
-tags: ["animals", "california", "environment", "mbari", "monterey-canyon", "rov", "seamounts"]
-author: "Erik Olsen"
+wpSlug: davidson-seamount-unveiled-the-unseen-mountains-and-hidden-treasures-off-californias-coast
 ---
-
-**California’s coast is home to dozens of seamounts, each harboring diverse ecosystems and geological mysteries waiting to be explored.**
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
@@ -25,14 +36,13 @@ The genesis of these structures begins with a geologic process known as plate te
 
 Each seamount is a world unto itself, with distinct mineral compositions, shapes, and ecosystems. Recent research has energized the scientific community. For instance, the Davidson Seamount is the most well-known of these volcanoes and was the first underwater peak to be named a seamount. The seamount is named for [George Davidson](<https://montereybay.noaa.gov/sitechar/george.html>), a British pioneering scientist and surveyor. Located about 80 km (50 miles) off the coast of Big Sur, it's shaped like an elongated arrowhead made up of several parallel ridges of sheer volcanic cones. Most of these erupted about 10-15 million years ago, and are made up 320 cubic km of hawaiite, mugearite, and [alkalic basalt](<https://en.wikipedia.org/wiki/Alkali_basalt>), the basalt types commonly found along spreading ridges like the Mid-Atlantic Ridge.   
 
-
 ![](https://californiacurated.com/wp-content/uploads/2023/09/image.jpeg?w=882)Davidson Seamount, Wikipedia
 
 The sheer number of seamounts only began to emerge when new detection methods were developed, including the ability to spot them from space. These underwater mountains are so massive that they create a gravitational pull, drawing seawater slightly toward their center of mass, much like the moon’s pull generates tides. Since seawater is incompressible, it doesn’t compress around the seamounts but instead forms slight bulges on the ocean surface. Satellites can detect these bulges, helping locate the hidden, basaltic peaks below. [Satellite studies suggest](<https://tos.org/oceanography/article/the-global-seamount-census>) that the largest seamounts—those over 5,000 feet—may number anywhere from thirty thousand to over one hundred thousand worldwide, with high concentrations in the central Pacific, Indian, and Atlantic Oceans, around Antarctica, and in the Mediterranean. Each of these seamounts is an underwater volcano, typically lining mid-ocean ridges, [subduction zones](<https://www.nps.gov/subjects/geology/plate-tectonics-subduction-zones.htm#:~:text=Subduction%20zones%20form%20where%20a,more%2Dbuoyant\)%20continental%20crust.>), or one of the forty to fifty oceanic hot spots where the earth’s crust is thin and magma rises from the mantle.
 
 Davidson Seamount is [by far the best-studied](<https://sanctuaries.noaa.gov/science/itf/seamount.html>) of the many seamounts off the California coast. Stretching a sprawling 26 miles in length and spanning 8 miles across, this colossal seamount ranks among the largest known formations of its kind in U.S. territorial waters. Towering at a remarkable 7,480 feet from its base to its peak, the mountain remains shrouded in the depths, with its summit situated a substantial 4,101 feet beneath the ocean's surface. Studies have indicated that some seamounts contain deposits of rare earth elements, which could have potential economic importance in the future. 
 
-![](https://californiacurated.com/wp-content/uploads/2023/09/1585678716-4851.png?w=1024)A rorqual whale fall found near Davidson Seamount at a depth of 3,200 meters. **Photo Credit:  **Chad King / OET, NOAA
+![](https://californiacurated.com/wp-content/uploads/2023/09/1585678716-4851.png?w=1024)A rorqual whale fall found near Davidson Seamount at a depth of 3,200 meters. \*\*Photo Credit:  \*\*Chad King / OET, NOAA
 
 Seamounts are biodiversity hotspots. Boasting an incredibly diverse range of deep-sea corals, Davidson Seamount serves as a kind of underwater Eden. Often referred to as ["An Oasis in the Deep," ](<https://nautiluslive.org/blog/2020/10/03/oasis-deep-exploring-central-californias-national-marine-sanctuaries>)this submerged mountain is a bustling metropolis of marine life, featuring expansive coral forests and sprawling sponge fields. But it doesn't stop there—crabs, deep-sea fishes, shrimp, basket stars, and a host of rare and still-unidentified bottom-dwelling creatures also call this place home. The seamount is more than just a biologically rich environment; it's a treasure trove of national importance for its contributions to ocean conservation, scientific research, education, aesthetics, and even history.
 
