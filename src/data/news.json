@@ -1,11 +1,29 @@
 {
-	"lastUpdated": "2026-06-21T08:18:53.781Z",
+	"lastUpdated": "2026-06-21T13:28:52.385Z",
 	"items": [
+		{
+			"headline": "Heat wave expected to scorch Southern California this week",
+			"url": "https://www.latimes.com/california/story/2026-06-21/heat-wave-expected-to-scorch-southern-california-this-week",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-21T10:00:00.000Z"
+		},
 		{
 			"headline": "Stressed-Out Soil Bacteria Adapt to Environmental Conditions",
 			"url": "https://www.caltech.edu/about/news/stressed-out-soil-bacteria-adapt-to-environmental-conditions",
 			"source": "Caltech",
 			"publishedAt": "2026-06-19T15:53:24.127Z"
+		},
+		{
+			"headline": "This plant extract can make a lethal drug cocktail. Can it also treat opioid addiction?",
+			"url": "https://www.latimes.com/california/story/2026-06-19/this-plant-extract-can-make-lethal-drug-cocktail-can-it-also-treat-opioid-addiction",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-19T10:00:00.000Z"
+		},
+		{
+			"headline": "The B-52 bomber is an iconic, aging warhorse. Probe of fatal crash could influence its future",
+			"url": "https://www.latimes.com/california/story/2026-06-19/edwards-afb-b52-crash-probe",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-19T10:00:00.000Z"
 		},
 		{
 			"headline": "Ginsburg Center for Quantum Precision Hosts Dedication Ceremony",
@@ -68,18 +86,6 @@
 			"publishedAt": "2026-06-16T23:39:48.000Z"
 		},
 		{
-			"headline": "B-52 bomber crash came as Air Force was upgrading legendary workhorse",
-			"url": "https://www.latimes.com/california/story/2026-06-16/b-52-crash-raises-worries-about-air-forces-legendary-wor",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-16T22:57:19.000Z"
-		},
-		{
-			"headline": "Another crash at L.A. County's Whiteman Airport is sparking calls for federal reform",
-			"url": "https://www.latimes.com/california/story/2026-06-16/plane-slides-off-runway-at-whiteman-airport-after-landing-gear-fails",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-16T18:19:40.000Z"
-		},
-		{
 			"headline": "Wildfire in Riverside County grows to 2,600 acres",
 			"url": "https://www.latimes.com/california/story/2026-06-16/shore-fire-riverside-county",
 			"source": "Los Angeles Times",
@@ -138,18 +144,6 @@
 			"url": "https://www.latimes.com/california/story/2026-06-15/b-52-crashes-at-edwards-air-force-base-in-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-15T19:19:25.000Z"
-		},
-		{
-			"headline": "Novel Chemical Reaction Suggests the Origins of Life",
-			"url": "https://www.caltech.edu/about/news/novel-chemical-reaction-suggests-the-origins-of-life",
-			"source": "Caltech",
-			"publishedAt": "2026-06-15T18:39:42.412Z"
-		},
-		{
-			"headline": "A Star's Death Throes Involves a Lot of Kicking",
-			"url": "https://www.caltech.edu/about/news/a-stars-death-throes-involves-a-lot-of-kicking",
-			"source": "Caltech",
-			"publishedAt": "2026-06-15T17:15:00.315Z"
 		}
 	]
 }
