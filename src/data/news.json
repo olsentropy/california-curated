@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-21T13:28:52.385Z",
+	"lastUpdated": "2026-06-21T17:14:20.662Z",
 	"items": [
 		{
 			"headline": "Heat wave expected to scorch Southern California this week",
@@ -14,22 +14,22 @@
 			"publishedAt": "2026-06-19T15:53:24.127Z"
 		},
 		{
-			"headline": "This plant extract can make a lethal drug cocktail. Can it also treat opioid addiction?",
-			"url": "https://www.latimes.com/california/story/2026-06-19/this-plant-extract-can-make-lethal-drug-cocktail-can-it-also-treat-opioid-addiction",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-19T10:00:00.000Z"
-		},
-		{
 			"headline": "The B-52 bomber is an iconic, aging warhorse. Probe of fatal crash could influence its future",
 			"url": "https://www.latimes.com/california/story/2026-06-19/edwards-afb-b52-crash-probe",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-19T10:00:00.000Z"
 		},
 		{
-			"headline": "Ginsburg Center for Quantum Precision Hosts Dedication Ceremony",
-			"url": "https://www.caltech.edu/about/news/ginsburg-center-for-quantum-precision-hosts-dedication-ceremony",
-			"source": "Caltech",
-			"publishedAt": "2026-06-19T03:17:00.000Z"
+			"headline": "This plant extract can make a lethal drug cocktail. Can it also treat opioid addiction?",
+			"url": "https://www.latimes.com/california/story/2026-06-19/this-plant-extract-can-make-lethal-drug-cocktail-can-it-also-treat-opioid-addiction",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-19T10:00:00.000Z"
+		},
+		{
+			"headline": "A traveler with measles passed through LAX. Officials urge caution amid World Cup crowds",
+			"url": "https://www.latimes.com/california/story/2026-06-19/traveler-with-measles-was-at-lax-caution-urged-amid-world-cup",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-19T10:00:00.000Z"
 		},
 		{
 			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
@@ -92,6 +92,12 @@
 			"publishedAt": "2026-06-16T17:12:57.000Z"
 		},
 		{
+			"headline": "Another crash at L.A. County's Whiteman Airport is sparking calls for federal reform",
+			"url": "https://www.latimes.com/california/story/2026-06-16/plane-slides-off-runway-at-whiteman-airport-after-landing-gear-fails",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-16T18:19:40.000Z"
+		},
+		{
 			"headline": "L.A. Zoo, deteriorating and losing members, needs new leadership, grand jury finds",
 			"url": "https://www.latimes.com/california/story/2026-06-16/los-angeles-zoo-tattered-losing-members-needs-private-steward-grand-jury-finds",
 			"source": "Los Angeles Times",
@@ -122,10 +128,10 @@
 			"publishedAt": "2026-06-16T02:21:11.000Z"
 		},
 		{
-			"headline": "Crews get handle on Stevenson Ranch fire as trio of blazes burn in L.A. County",
-			"url": "https://www.latimes.com/california/story/2026-06-15/stevenson-ranch-max-fire-threatens-homes-spurs-evacuations",
+			"headline": "Hundreds rescued at Newport Beach this month; more dangerous coastal conditions ahead",
+			"url": "https://www.latimes.com/california/story/2026-06-15/hundreds-of-beachgoers-rescued-in-o-c-more-perilous-conditions-ahead",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-16T01:31:34.000Z"
+			"publishedAt": "2026-06-15T19:50:20.000Z"
 		},
 		{
 			"headline": "\"Peripheral Vision and Cautious Optimism,\" Commencement Address by Kip Thorne (BS '62)",
@@ -134,16 +140,10 @@
 			"publishedAt": "2026-06-15T22:29:00.000Z"
 		},
 		{
-			"headline": "Hundreds rescued at Newport Beach this month; more dangerous coastal conditions ahead",
-			"url": "https://www.latimes.com/california/story/2026-06-15/hundreds-of-beachgoers-rescued-in-o-c-more-perilous-conditions-ahead",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T19:50:20.000Z"
-		},
-		{
-			"headline": "'We lost eight great Americans' in fiery B-52 bomber crash, Air Force colonel says",
-			"url": "https://www.latimes.com/california/story/2026-06-15/b-52-crashes-at-edwards-air-force-base-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T19:19:25.000Z"
+			"headline": "Ginsburg Center for Quantum Precision Hosts Dedication Ceremony",
+			"url": "https://www.caltech.edu/about/news/ginsburg-center-for-quantum-precision-hosts-dedication-ceremony",
+			"source": "Caltech",
+			"publishedAt": "2026-06-19T03:17:00.000Z"
 		}
 	]
 }
