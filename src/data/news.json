@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-20T20:59:54.355Z",
+	"lastUpdated": "2026-06-21T02:09:32.244Z",
 	"items": [
 		{
 			"headline": "Stressed-Out Soil Bacteria Adapt to Environmental Conditions",
@@ -14,10 +14,22 @@
 			"publishedAt": "2026-06-19T03:17:00.000Z"
 		},
 		{
-			"headline": "Trump administration pays $765 million to kill more offshore wind projects, including one off California",
-			"url": "https://www.latimes.com/environment/story/2026-06-17/trump-pays-765m-to-kill-offshore-wind-projects-some-in-california",
+			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
+			"url": "https://www.latimes.com/environment/story/2026-06-18/after-nearly-two-decades-this-massive-new-mexico-wind-project-is-now-powering-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T18:42:15.000Z"
+			"publishedAt": "2026-06-18T21:01:02.000Z"
+		},
+		{
+			"headline": "Lopez: There might be one advantage to climate change: More home runs at Dodger Stadium",
+			"url": "https://www.latimes.com/california/story/2026-06-18/there-might-be-one-advantage-to-climate-change-more-home-runs-at-dodger-stadium",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-18T12:00:00.000Z"
+		},
+		{
+			"headline": "These zoo babies smell like popcorn. San Diego Zoo celebrates birth of two bearcats",
+			"url": "https://www.latimes.com/california/story/2026-06-17/bearcats-biturong-bintlets-born-san-diego-zoo",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-17T22:17:57.000Z"
 		},
 		{
 			"headline": "Watch: The economic pressures that are driving Californians to leave home",
@@ -32,6 +44,12 @@
 			"publishedAt": "2026-06-17T19:00:11.000Z"
 		},
 		{
+			"headline": "Trump administration pays $765 million to kill more offshore wind projects, including one off California",
+			"url": "https://www.latimes.com/environment/story/2026-06-17/trump-pays-765m-to-kill-offshore-wind-projects-some-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-17T18:42:15.000Z"
+		},
+		{
 			"headline": "Mathematicians Gather to Focus on AI",
 			"url": "https://www.caltech.edu/about/news/mathematicians-gather-to-focus-on-ai",
 			"source": "Caltech",
@@ -44,28 +62,22 @@
 			"publishedAt": "2026-06-17T10:00:00.000Z"
 		},
 		{
-			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
-			"url": "https://www.latimes.com/environment/story/2026-06-18/after-nearly-two-decades-this-massive-new-mexico-wind-project-is-now-powering-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-18T21:01:02.000Z"
-		},
-		{
-			"headline": "These zoo babies smell like popcorn. San Diego Zoo celebrates birth of two bearcats",
-			"url": "https://www.latimes.com/california/story/2026-06-17/bearcats-biturong-bintlets-born-san-diego-zoo",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T22:17:57.000Z"
-		},
-		{
-			"headline": "Bear claws 19-year-old's face and chest through window of Crestline home",
-			"url": "https://www.latimes.com/california/story/2026-06-17/bear-claws-19-year-olds-face-chest-through-window-of-crestline-home",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T23:09:44.000Z"
+			"headline": "How Would California Forever's Proposed Solano Shipyard Affect the Environment? Details Are Scant.",
+			"url": "https://baynature.org/2026/06/16/science-nature/bay/how-would-california-forevers-proposed-solano-shipyard-affect-the-environment-details-are-scant/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-06-16T23:39:48.000Z"
 		},
 		{
 			"headline": "Wildfire in Riverside County grows to 2,600 acres",
 			"url": "https://www.latimes.com/california/story/2026-06-16/shore-fire-riverside-county",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-16T17:12:57.000Z"
+		},
+		{
+			"headline": "L.A. Zoo, deteriorating and losing members, needs new leadership, grand jury finds",
+			"url": "https://www.latimes.com/california/story/2026-06-16/los-angeles-zoo-tattered-losing-members-needs-private-steward-grand-jury-finds",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-16T12:00:00.000Z"
 		},
 		{
 			"headline": "El Niño turns crumbling California pier into climate battleground over what to save — and who pays",
@@ -80,10 +92,28 @@
 			"publishedAt": "2026-06-16T04:02:00.000Z"
 		},
 		{
-			"headline": "UC Berkeley names next director of Hearst Museum of Anthropology",
-			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-names-next-director-of-hearst-museum-of-anthropology/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-15T16:30:00.000Z"
+			"headline": "Wild deer captured and kept in a dog crate for weeks. A Bay Area resident is cited",
+			"url": "https://www.latimes.com/california/story/2026-06-15/wild-young-deer-captured-kept-in-cage-for-weeks-at-bay-area-home",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-16T02:35:50.000Z"
+		},
+		{
+			"headline": "Californian is infected with rare tick-borne illness. What to know about the deadly bacteria",
+			"url": "https://www.latimes.com/california/story/2026-06-15/californian-is-infected-with-rare-tick-borne-illness-what-to-know",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-16T02:21:11.000Z"
+		},
+		{
+			"headline": "Crews get handle on Stevenson Ranch fire as trio of blazes burn in L.A. County",
+			"url": "https://www.latimes.com/california/story/2026-06-15/stevenson-ranch-max-fire-threatens-homes-spurs-evacuations",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-16T01:31:34.000Z"
+		},
+		{
+			"headline": "\"Peripheral Vision and Cautious Optimism,\" Commencement Address by Kip Thorne (BS '62)",
+			"url": "https://www.caltech.edu/about/news/peripheral-vision-and-cautious-optimism-commencement-address-by-kip-thorne-bs-62",
+			"source": "Caltech",
+			"publishedAt": "2026-06-15T22:29:00.000Z"
 		},
 		{
 			"headline": "Novel Chemical Reaction Suggests the Origins of Life",
@@ -98,34 +128,10 @@
 			"publishedAt": "2026-06-15T17:15:00.315Z"
 		},
 		{
-			"headline": "\"Peripheral Vision and Cautious Optimism,\" Commencement Address by Kip Thorne (BS '62)",
-			"url": "https://www.caltech.edu/about/news/peripheral-vision-and-cautious-optimism-commencement-address-by-kip-thorne-bs-62",
-			"source": "Caltech",
-			"publishedAt": "2026-06-15T22:29:00.000Z"
-		},
-		{
-			"headline": "Californian is infected with rare tick-borne illness. What to know about the deadly bacteria",
-			"url": "https://www.latimes.com/california/story/2026-06-15/californian-is-infected-with-rare-tick-borne-illness-what-to-know",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-16T02:21:11.000Z"
-		},
-		{
-			"headline": "Wild deer captured and kept in a dog crate for weeks. A Bay Area resident is cited",
-			"url": "https://www.latimes.com/california/story/2026-06-15/wild-young-deer-captured-kept-in-cage-for-weeks-at-bay-area-home",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-16T02:35:50.000Z"
-		},
-		{
-			"headline": "El Niño has arrived: 5 ways California could get pummeled",
-			"url": "https://www.latimes.com/california/story/2026-06-15/el-nino-has-arrived-5-ways-california-could-get-pummeled",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-15T10:00:00.000Z"
-		},
-		{
-			"headline": "How California Forever's Proposed Solano Shipyard Affect the Environment? Details Are Scant.",
-			"url": "https://baynature.org/2026/06/16/science-nature/bay/how-would-california-forevers-proposed-solano-shipyard-affect-the-environment-details-are-scant/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-06-16T23:39:48.000Z"
+			"headline": "UC Berkeley names next director of Hearst Museum of Anthropology",
+			"url": "https://news.berkeley.edu/2026/06/15/uc-berkeley-names-next-director-of-hearst-museum-of-anthropology/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-15T16:30:00.000Z"
 		}
 	]
 }
