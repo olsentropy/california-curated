@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-23T01:52:30.024Z",
+	"lastUpdated": "2026-06-23T07:36:16.430Z",
 	"items": [
 		{
 			"headline": "High temperatures forecast to bake California, the West. Here's where it will be hottest",
@@ -20,16 +20,34 @@
 			"publishedAt": "2026-06-22T14:12:00.000Z"
 		},
 		{
+			"headline": "US moves to allow commercial fishing in Pacific marine protected areas",
+			"url": "https://news.mongabay.com/short-article/2026/06/us-moves-to-allow-commercial-fishing-in-pacific-marine-protected-areas/",
+			"source": "Mongabay",
+			"publishedAt": "2026-06-22T11:49:13.000Z"
+		},
+		{
 			"headline": "Stressed-Out Soil Bacteria Adapt to Environmental Conditions",
 			"url": "https://www.caltech.edu/about/news/stressed-out-soil-bacteria-adapt-to-environmental-conditions",
 			"source": "Caltech",
 			"publishedAt": "2026-06-19T15:53:24.127Z"
 		},
 		{
-			"headline": "Ginsburg Center for Quantum Precision Hosts Dedication Ceremony",
-			"url": "https://www.caltech.edu/about/news/ginsburg-center-for-quantum-precision-hosts-dedication-ceremony",
-			"source": "Caltech",
-			"publishedAt": "2026-06-19T03:17:00.000Z"
+			"headline": "The woman who championed Big Bear's celebrity eagles leaves behind a $10-million mission",
+			"url": "https://www.latimes.com/environment/story/2026-06-17/jackie-shadow-sandy-steers-memorial-moon-camp-fundraiser",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-17T10:00:00.000Z"
+		},
+		{
+			"headline": "Trump administration pays $765 million to kill more offshore wind projects, including one off California",
+			"url": "https://www.latimes.com/environment/story/2026-06-17/trump-pays-765m-to-kill-offshore-wind-projects-some-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-17T18:42:15.000Z"
+		},
+		{
+			"headline": "These zoo babies smell like popcorn. San Diego Zoo celebrates birth of two bearcats",
+			"url": "https://www.latimes.com/california/story/2026-06-17/bearcats-biturong-bintlets-born-san-diego-zoo",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-17T22:17:57.000Z"
 		},
 		{
 			"headline": "Watch: The economic pressures that are driving Californians to leave home",
@@ -44,28 +62,10 @@
 			"publishedAt": "2026-06-17T19:00:11.000Z"
 		},
 		{
-			"headline": "Trump administration pays $765 million to kill more offshore wind projects, including one off California",
-			"url": "https://www.latimes.com/environment/story/2026-06-17/trump-pays-765m-to-kill-offshore-wind-projects-some-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T18:42:15.000Z"
-		},
-		{
-			"headline": "The woman who championed Big Bear's celebrity eagles leaves behind a $10-million mission",
-			"url": "https://www.latimes.com/environment/story/2026-06-17/jackie-shadow-sandy-steers-memorial-moon-camp-fundraiser",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T10:00:00.000Z"
-		},
-		{
 			"headline": "Mathematicians Gather to Focus on AI",
 			"url": "https://www.caltech.edu/about/news/mathematicians-gather-to-focus-on-ai",
 			"source": "Caltech",
 			"publishedAt": "2026-06-17T16:31:00.000Z"
-		},
-		{
-			"headline": "How Would California Forever's Proposed Solano Shipyard Affect the Environment? Details Are Scant.",
-			"url": "https://baynature.org/2026/06/16/science-nature/bay/how-would-california-forevers-proposed-solano-shipyard-affect-the-environment-details-are-scant/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-06-16T23:39:48.000Z"
 		},
 		{
 			"headline": "Wildfire in Riverside County grows to 2,600 acres",
@@ -74,10 +74,16 @@
 			"publishedAt": "2026-06-16T17:12:57.000Z"
 		},
 		{
-			"headline": "These zoo babies smell like popcorn. San Diego Zoo celebrates birth of two bearcats",
-			"url": "https://www.latimes.com/california/story/2026-06-17/bearcats-biturong-bintlets-born-san-diego-zoo",
+			"headline": "How Would California Forever's Proposed Solano Shipyard Affect the Environment? Details Are Scant.",
+			"url": "https://baynature.org/2026/06/16/science-nature/bay/how-would-california-forevers-proposed-solano-shipyard-affect-the-environment-details-are-scant/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-06-16T23:39:48.000Z"
+		},
+		{
+			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
+			"url": "https://www.latimes.com/environment/story/2026-06-18/after-nearly-two-decades-this-massive-new-mexico-wind-project-is-now-powering-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T22:17:57.000Z"
+			"publishedAt": "2026-06-18T21:01:02.000Z"
 		},
 		{
 			"headline": "Bear claws 19-year-old's face and chest through window of Crestline home",
@@ -92,10 +98,10 @@
 			"publishedAt": "2026-06-21T10:00:00.000Z"
 		},
 		{
-			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
-			"url": "https://www.latimes.com/environment/story/2026-06-18/after-nearly-two-decades-this-massive-new-mexico-wind-project-is-now-powering-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-18T21:01:02.000Z"
+			"headline": "Ginsburg Center for Quantum Precision Hosts Dedication Ceremony",
+			"url": "https://www.caltech.edu/about/news/ginsburg-center-for-quantum-precision-hosts-dedication-ceremony",
+			"source": "Caltech",
+			"publishedAt": "2026-06-19T03:17:00.000Z"
 		}
 	]
 }
