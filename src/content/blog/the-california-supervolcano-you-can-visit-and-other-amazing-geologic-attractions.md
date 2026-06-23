@@ -1,7 +1,7 @@
 ---
 title: The California Supervolcano You Can Visit...and Other Amazing Geologic Attractions
 description: Supervolcanoes, Hot Springs, Fumaroles, Yellow Lakes, and Other Geologic Wonders of Mammoth Lakes
-pubDate: 2026-06-12
+pubDate: 2026-06-16
 updatedDate: ''
 heroImage: /wp-content/uploads/cms/caldera copy.jpg
 categories:
