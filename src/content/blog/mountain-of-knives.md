@@ -76,6 +76,4 @@ Perhaps the most surprising thing to me is that obsidian made its way all the wa
 
 After about two hours of filming, exploring, chilling in the car and wiping sweat off my face, I headed back down the rough road to Mammoth Lakes. I’d gone up that mountain to film some glittering rocks for a story that kind of fascinated me. But I came down having stood, basically, in the middle of one of prehistoric California’s longest supply chains.
 
-[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20SIERRA%20copy.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
-
 _Help support me:  you can_ [_purchase amazing California wildlife gifts_](https://www.etsy.com/shop/CaliforniaCuratedUS) _that I have designed myself._
