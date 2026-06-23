@@ -11,7 +11,7 @@ categories:
 tags:
   - '#LookoutMountain #Obsidian #MammothLakes #EasternSierra #LongValleyCaldera #CaliforniaHistory #IndigenousCalifornia #Archaeology #CaliforniaGeology #VolcanicGlass'
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 The road to [Lookout Mountain](https://www.mammothtrails.org/destination/80/lookout-mountain/) does not look out for you.
