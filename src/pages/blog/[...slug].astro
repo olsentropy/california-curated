@@ -3,7 +3,12 @@ import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
 
 export async function getStaticPaths() {
-	const posts = await getCollection('blog');
+	// In production, drafts get no page generated — the URL 404s. In dev,
+	// drafts still render so you can preview while editing. The flag is
+	// set per-article in frontmatter: `draft: true`.
+	const posts = await getCollection('blog', ({ data }) =>
+		import.meta.env.PROD ? !data.draft : true,
+	);
 	return posts.map((post) => ({
 		params: { slug: post.id },
 		props: post,
