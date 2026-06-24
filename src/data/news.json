@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-24T01:50:54.172Z",
+	"lastUpdated": "2026-06-24T07:30:08.303Z",
 	"items": [
 		{
 			"headline": "Man reportedly falls from nearly 600-foot Nevada Fall in Yosemite. An investigation is underway",
@@ -12,6 +12,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-06-23/los-angeles-tries-again-to-phase-out-urban-oil-production",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-23T22:08:24.000Z"
+		},
+		{
+			"headline": "The transformative art of Maren Hassinger comes to Berkeley",
+			"url": "https://news.berkeley.edu/2026/06/23/the-transformative-art-of-maren-hassinger-comes-to-berkeley/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-23T19:12:04.000Z"
 		},
 		{
 			"headline": "Architecting a Better Lithium-Ion Battery",
@@ -62,16 +68,58 @@
 			"publishedAt": "2026-06-22T16:44:14.003Z"
 		},
 		{
+			"headline": "It's been six days. Why can't L.A. firefighters put out blaze at Boyle Heights cold storage facility?",
+			"url": "https://www.latimes.com/california/story/2026-06-22/boyle-heights-storage-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-22T14:22:05.000Z"
+		},
+		{
 			"headline": "Newly identified fossil sheds light on evolutionary history of saber-toothed cats",
 			"url": "https://news.berkeley.edu/2026/06/22/newly-identified-fossil-sheds-light-on-evolutionary-history-of-saber-toothed-cats/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-22T14:12:00.000Z"
 		},
 		{
-			"headline": "It's been six days. Why can't L.A. firefighters put out blaze at Boyle Heights cold storage facility?",
-			"url": "https://www.latimes.com/california/story/2026-06-22/boyle-heights-storage-fire",
+			"headline": "US moves to allow commercial fishing in Pacific marine protected areas",
+			"url": "https://news.mongabay.com/short-article/2026/06/us-moves-to-allow-commercial-fishing-in-pacific-marine-protected-areas/",
+			"source": "Mongabay",
+			"publishedAt": "2026-06-22T11:49:13.000Z"
+		},
+		{
+			"headline": "Heat wave expected to scorch Southern California this week",
+			"url": "https://www.latimes.com/california/story/2026-06-21/heat-wave-expected-to-scorch-southern-california-this-week",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-22T14:22:05.000Z"
+			"publishedAt": "2026-06-21T10:00:00.000Z"
+		},
+		{
+			"headline": "Stressed-Out Soil Bacteria Adapt to Environmental Conditions",
+			"url": "https://www.caltech.edu/about/news/stressed-out-soil-bacteria-adapt-to-environmental-conditions",
+			"source": "Caltech",
+			"publishedAt": "2026-06-19T15:53:24.127Z"
+		},
+		{
+			"headline": "Ginsburg Center for Quantum Precision Hosts Dedication Ceremony",
+			"url": "https://www.caltech.edu/about/news/ginsburg-center-for-quantum-precision-hosts-dedication-ceremony",
+			"source": "Caltech",
+			"publishedAt": "2026-06-19T03:17:00.000Z"
+		},
+		{
+			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
+			"url": "https://www.latimes.com/environment/story/2026-06-18/after-nearly-two-decades-this-massive-new-mexico-wind-project-is-now-powering-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-18T21:01:02.000Z"
+		},
+		{
+			"headline": "Shelter-in-place order continues in Boyle Heights as fire burns inside warehouse",
+			"url": "https://www.latimes.com/california/story/2026-06-18/what-we-know-about-air-quality",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-18T13:40:59.000Z"
+		},
+		{
+			"headline": "These zoo babies smell like popcorn. San Diego Zoo celebrates birth of two bearcats",
+			"url": "https://www.latimes.com/california/story/2026-06-17/bearcats-biturong-bintlets-born-san-diego-zoo",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-17T22:17:57.000Z"
 		},
 		{
 			"headline": "Watch: The economic pressures that are driving Californians to leave home",
@@ -92,64 +140,16 @@
 			"publishedAt": "2026-06-17T18:42:15.000Z"
 		},
 		{
-			"headline": "These zoo babies smell like popcorn. San Diego Zoo celebrates birth of two bearcats",
-			"url": "https://www.latimes.com/california/story/2026-06-17/bearcats-biturong-bintlets-born-san-diego-zoo",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T22:17:57.000Z"
-		},
-		{
-			"headline": "Bear claws 19-year-old's face and chest through window of Crestline home",
-			"url": "https://www.latimes.com/california/story/2026-06-17/bear-claws-19-year-olds-face-chest-through-window-of-crestline-home",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T23:09:44.000Z"
-		},
-		{
 			"headline": "Crews gain control of Boyle Heights warehouse fire; 'highly toxic' ammonia leak spurs concern",
 			"url": "https://www.latimes.com/california/story/2026-06-17/massive-boyle-heights-warehouse-fire-prompts-shelter-in-place-orders",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-17T22:58:49.000Z"
 		},
 		{
-			"headline": "Heat wave expected to scorch Southern California this week",
-			"url": "https://www.latimes.com/california/story/2026-06-21/heat-wave-expected-to-scorch-southern-california-this-week",
+			"headline": "Bear claws 19-year-old's face and chest through window of Crestline home",
+			"url": "https://www.latimes.com/california/story/2026-06-17/bear-claws-19-year-olds-face-chest-through-window-of-crestline-home",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T10:00:00.000Z"
-		},
-		{
-			"headline": "This startup wants to bring driverless freight trucks to California's roads, but drivers are pushing back",
-			"url": "https://www.latimes.com/business/story/2026-06-21/this-startup-wants-to-bring-driverless-freight-trucks-to-californias-roads-but-drivers-are-pushing-back",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T10:00:00.000Z"
-		},
-		{
-			"headline": "Firefighters battle blaze at South El Monte shooting range",
-			"url": "https://www.latimes.com/california/story/2026-06-21/firefighters-battle-blaze-at-south-el-monte-shooting-range",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T20:45:15.000Z"
-		},
-		{
-			"headline": "How to deal with the smoke, health effects of Boyle Heights cold storage fire",
-			"url": "https://www.latimes.com/california/story/2026-06-21/how-to-deal-with-smoke-health-effects-of-boyle-heights-cold-storage-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T16:08:47.000Z"
-		},
-		{
-			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
-			"url": "https://www.latimes.com/environment/story/2026-06-18/after-nearly-two-decades-this-massive-new-mexico-wind-project-is-now-powering-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-18T21:01:02.000Z"
-		},
-		{
-			"headline": "Shelter-in-place order continues in Boyle Heights as fire burns inside warehouse",
-			"url": "https://www.latimes.com/california/story/2026-06-18/what-we-know-about-air-quality",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-18T13:40:59.000Z"
-		},
-		{
-			"headline": "Ginsburg Center for Quantum Precision Hosts Dedication Ceremony",
-			"url": "https://www.caltech.edu/about/news/ginsburg-center-for-quantum-precision-hosts-dedication-ceremony",
-			"source": "Caltech",
-			"publishedAt": "2026-06-19T03:17:00.000Z"
+			"publishedAt": "2026-06-17T23:09:44.000Z"
 		}
 	]
 }
