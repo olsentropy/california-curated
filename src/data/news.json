@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-06-24T07:30:08.303Z",
+	"lastUpdated": "2026-06-24T10:38:13.494Z",
 	"items": [
+		{
+			"headline": "Why your food scraps travel more than 100 miles — and how an L.A. council member wants to stop it",
+			"url": "https://www.latimes.com/california/story/2026-06-24/why-your-food-scraps-travel-more-than-100-miles-how-la-council-member-wants-to-stop-it",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-24T10:00:00.000Z"
+		},
+		{
+			"headline": "Timing of July 4th fireworks couldn't be worse for Big Bear eaglets, advocates say",
+			"url": "https://www.latimes.com/california/story/2026-06-24/timing-of-july-4-fireworks-imperils-big-bear-eaglets-advocates-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-24T10:00:00.000Z"
+		},
 		{
 			"headline": "Man reportedly falls from nearly 600-foot Nevada Fall in Yosemite. An investigation is underway",
 			"url": "https://www.latimes.com/california/story/2026-06-23/man-reportedly-falls-from-nearly-600-foot-nevada-fall-in-yosemite-investigation-is-underway",
@@ -68,16 +80,16 @@
 			"publishedAt": "2026-06-22T16:44:14.003Z"
 		},
 		{
-			"headline": "It's been six days. Why can't L.A. firefighters put out blaze at Boyle Heights cold storage facility?",
-			"url": "https://www.latimes.com/california/story/2026-06-22/boyle-heights-storage-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-22T14:22:05.000Z"
-		},
-		{
 			"headline": "Newly identified fossil sheds light on evolutionary history of saber-toothed cats",
 			"url": "https://news.berkeley.edu/2026/06/22/newly-identified-fossil-sheds-light-on-evolutionary-history-of-saber-toothed-cats/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-22T14:12:00.000Z"
+		},
+		{
+			"headline": "It's been six days. Why can't L.A. firefighters put out blaze at Boyle Heights cold storage facility?",
+			"url": "https://www.latimes.com/california/story/2026-06-22/boyle-heights-storage-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-22T14:22:05.000Z"
 		},
 		{
 			"headline": "US moves to allow commercial fishing in Pacific marine protected areas",
@@ -92,64 +104,52 @@
 			"publishedAt": "2026-06-21T10:00:00.000Z"
 		},
 		{
-			"headline": "Stressed-Out Soil Bacteria Adapt to Environmental Conditions",
-			"url": "https://www.caltech.edu/about/news/stressed-out-soil-bacteria-adapt-to-environmental-conditions",
-			"source": "Caltech",
-			"publishedAt": "2026-06-19T15:53:24.127Z"
-		},
-		{
-			"headline": "Ginsburg Center for Quantum Precision Hosts Dedication Ceremony",
-			"url": "https://www.caltech.edu/about/news/ginsburg-center-for-quantum-precision-hosts-dedication-ceremony",
-			"source": "Caltech",
-			"publishedAt": "2026-06-19T03:17:00.000Z"
-		},
-		{
-			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
-			"url": "https://www.latimes.com/environment/story/2026-06-18/after-nearly-two-decades-this-massive-new-mexico-wind-project-is-now-powering-california",
+			"headline": "This startup wants to bring driverless freight trucks to California's roads, but drivers are pushing back",
+			"url": "https://www.latimes.com/business/story/2026-06-21/this-startup-wants-to-bring-driverless-freight-trucks-to-californias-roads-but-drivers-are-pushing-back",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-18T21:01:02.000Z"
+			"publishedAt": "2026-06-21T10:00:00.000Z"
 		},
 		{
-			"headline": "Shelter-in-place order continues in Boyle Heights as fire burns inside warehouse",
-			"url": "https://www.latimes.com/california/story/2026-06-18/what-we-know-about-air-quality",
+			"headline": "Can a new commission remedy California's public defender crisis?",
+			"url": "https://www.latimes.com/california/story/2026-06-21/california-public-defender-reform",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-18T13:40:59.000Z"
+			"publishedAt": "2026-06-21T10:00:00.000Z"
 		},
 		{
-			"headline": "These zoo babies smell like popcorn. San Diego Zoo celebrates birth of two bearcats",
-			"url": "https://www.latimes.com/california/story/2026-06-17/bearcats-biturong-bintlets-born-san-diego-zoo",
+			"headline": "Newsom's stance on controversial data centers about to be tested. Again.",
+			"url": "https://www.latimes.com/california/story/2026-06-21/newsoms-stance-on-controversial-data-centers-will-be-about-to-be-tested-again",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T22:17:57.000Z"
+			"publishedAt": "2026-06-21T10:00:00.000Z"
 		},
 		{
-			"headline": "Watch: The economic pressures that are driving Californians to leave home",
-			"url": "https://news.berkeley.edu/2026/06/17/watch-the-economic-pressures-that-are-driving-californians-to-leave-home/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-17T20:15:22.000Z"
-		},
-		{
-			"headline": "The nose knows: Electric schnoz can smell when your food's gone bad",
-			"url": "https://news.berkeley.edu/2026/06/17/the-nose-knows-electric-schnoz-can-smell-when-your-foods-gone-bad/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-17T19:00:11.000Z"
-		},
-		{
-			"headline": "Trump administration pays $765 million to kill more offshore wind projects, including one off California",
-			"url": "https://www.latimes.com/environment/story/2026-06-17/trump-pays-765m-to-kill-offshore-wind-projects-some-in-california",
+			"headline": "Firefighters battle blaze at South El Monte shooting range",
+			"url": "https://www.latimes.com/california/story/2026-06-21/firefighters-battle-blaze-at-south-el-monte-shooting-range",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T18:42:15.000Z"
+			"publishedAt": "2026-06-21T20:45:15.000Z"
 		},
 		{
-			"headline": "Crews gain control of Boyle Heights warehouse fire; 'highly toxic' ammonia leak spurs concern",
-			"url": "https://www.latimes.com/california/story/2026-06-17/massive-boyle-heights-warehouse-fire-prompts-shelter-in-place-orders",
+			"headline": "How to deal with the smoke, health effects of Boyle Heights cold storage fire",
+			"url": "https://www.latimes.com/california/story/2026-06-21/how-to-deal-with-smoke-health-effects-of-boyle-heights-cold-storage-fire",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T22:58:49.000Z"
+			"publishedAt": "2026-06-21T16:08:47.000Z"
 		},
 		{
-			"headline": "Bear claws 19-year-old's face and chest through window of Crestline home",
-			"url": "https://www.latimes.com/california/story/2026-06-17/bear-claws-19-year-olds-face-chest-through-window-of-crestline-home",
+			"headline": "Firefighters cite progress as Boyle Heights fire burns for fifth day",
+			"url": "https://www.latimes.com/california/story/2026-06-21/la-me-fire-air",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T23:09:44.000Z"
+			"publishedAt": "2026-06-21T22:27:12.000Z"
+		},
+		{
+			"headline": "Another day of smoky air, nasty smells and many questions in parts of L.A.",
+			"url": "https://www.latimes.com/california/story/2026-06-21/day-of-smoky-air-nasty-smells-many-questions-in-parts-of-la",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-21T22:50:26.000Z"
+		},
+		{
+			"headline": "This plant extract can make a lethal drug cocktail. Can it also treat opioid addiction?",
+			"url": "https://www.latimes.com/california/story/2026-06-19/this-plant-extract-can-make-lethal-drug-cocktail-can-it-also-treat-opioid-addiction",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-19T10:00:00.000Z"
 		}
 	]
 }
