@@ -1,12 +1,6 @@
 {
-	"lastUpdated": "2026-06-24T10:38:13.494Z",
+	"lastUpdated": "2026-06-24T13:57:29.226Z",
 	"items": [
-		{
-			"headline": "Why your food scraps travel more than 100 miles — and how an L.A. council member wants to stop it",
-			"url": "https://www.latimes.com/california/story/2026-06-24/why-your-food-scraps-travel-more-than-100-miles-how-la-council-member-wants-to-stop-it",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-24T10:00:00.000Z"
-		},
 		{
 			"headline": "Timing of July 4th fireworks couldn't be worse for Big Bear eaglets, advocates say",
 			"url": "https://www.latimes.com/california/story/2026-06-24/timing-of-july-4-fireworks-imperils-big-bear-eaglets-advocates-say",
@@ -14,22 +8,10 @@
 			"publishedAt": "2026-06-24T10:00:00.000Z"
 		},
 		{
-			"headline": "Man reportedly falls from nearly 600-foot Nevada Fall in Yosemite. An investigation is underway",
-			"url": "https://www.latimes.com/california/story/2026-06-23/man-reportedly-falls-from-nearly-600-foot-nevada-fall-in-yosemite-investigation-is-underway",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-23T22:16:48.000Z"
-		},
-		{
 			"headline": "Los Angeles tries again to phase out urban oil production",
 			"url": "https://www.latimes.com/environment/story/2026-06-23/los-angeles-tries-again-to-phase-out-urban-oil-production",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-23T22:08:24.000Z"
-		},
-		{
-			"headline": "The transformative art of Maren Hassinger comes to Berkeley",
-			"url": "https://news.berkeley.edu/2026/06/23/the-transformative-art-of-maren-hassinger-comes-to-berkeley/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-23T19:12:04.000Z"
 		},
 		{
 			"headline": "Architecting a Better Lithium-Ion Battery",
@@ -50,12 +32,6 @@
 			"publishedAt": "2026-06-23T16:00:11.000Z"
 		},
 		{
-			"headline": "Health concerns mount as Boyle Heights warehouse fire stretches into a week",
-			"url": "https://www.latimes.com/environment/story/2026-06-23/health-concerns-as-boyle-heights-warehouse-fire-stretches-into-week",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-23T10:00:00.000Z"
-		},
-		{
 			"headline": "If AI data centers are exploding nationwide, why are so few being built in California?",
 			"url": "https://www.latimes.com/environment/story/2026-06-23/other-anti-data-center-movement-californias-electricity-prices",
 			"source": "Los Angeles Times",
@@ -68,10 +44,10 @@
 			"publishedAt": "2026-06-23T10:00:00.000Z"
 		},
 		{
-			"headline": "High temperatures forecast to bake California, the West. Here's where it will be hottest",
-			"url": "https://www.latimes.com/california/story/2026-06-22/socal-week-heat-humidity",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-22T17:29:26.000Z"
+			"headline": "Newly identified fossil sheds light on evolutionary history of saber-toothed cats",
+			"url": "https://news.berkeley.edu/2026/06/22/newly-identified-fossil-sheds-light-on-evolutionary-history-of-saber-toothed-cats/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-22T14:12:00.000Z"
 		},
 		{
 			"headline": "Improving Plants with a Tool Borrowed from Birds",
@@ -80,38 +56,26 @@
 			"publishedAt": "2026-06-22T16:44:14.003Z"
 		},
 		{
-			"headline": "Newly identified fossil sheds light on evolutionary history of saber-toothed cats",
-			"url": "https://news.berkeley.edu/2026/06/22/newly-identified-fossil-sheds-light-on-evolutionary-history-of-saber-toothed-cats/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-22T14:12:00.000Z"
-		},
-		{
-			"headline": "It's been six days. Why can't L.A. firefighters put out blaze at Boyle Heights cold storage facility?",
-			"url": "https://www.latimes.com/california/story/2026-06-22/boyle-heights-storage-fire",
+			"headline": "High temperatures forecast to bake California, the West. Here's where it will be hottest",
+			"url": "https://www.latimes.com/california/story/2026-06-22/socal-week-heat-humidity",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-22T14:22:05.000Z"
+			"publishedAt": "2026-06-22T17:29:26.000Z"
 		},
 		{
-			"headline": "US moves to allow commercial fishing in Pacific marine protected areas",
-			"url": "https://news.mongabay.com/short-article/2026/06/us-moves-to-allow-commercial-fishing-in-pacific-marine-protected-areas/",
-			"source": "Mongabay",
-			"publishedAt": "2026-06-22T11:49:13.000Z"
+			"headline": "Man reportedly falls from nearly 600-foot Nevada Fall in Yosemite. An investigation is underway",
+			"url": "https://www.latimes.com/california/story/2026-06-23/man-reportedly-falls-from-nearly-600-foot-nevada-fall-in-yosemite-investigation-is-underway",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-23T22:16:48.000Z"
+		},
+		{
+			"headline": "The transformative art of Maren Hassinger comes to Berkeley",
+			"url": "https://news.berkeley.edu/2026/06/23/the-transformative-art-of-maren-hassinger-comes-to-berkeley/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-23T19:12:04.000Z"
 		},
 		{
 			"headline": "Heat wave expected to scorch Southern California this week",
 			"url": "https://www.latimes.com/california/story/2026-06-21/heat-wave-expected-to-scorch-southern-california-this-week",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T10:00:00.000Z"
-		},
-		{
-			"headline": "This startup wants to bring driverless freight trucks to California's roads, but drivers are pushing back",
-			"url": "https://www.latimes.com/business/story/2026-06-21/this-startup-wants-to-bring-driverless-freight-trucks-to-californias-roads-but-drivers-are-pushing-back",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T10:00:00.000Z"
-		},
-		{
-			"headline": "Can a new commission remedy California's public defender crisis?",
-			"url": "https://www.latimes.com/california/story/2026-06-21/california-public-defender-reform",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-21T10:00:00.000Z"
 		},
@@ -122,34 +86,34 @@
 			"publishedAt": "2026-06-21T10:00:00.000Z"
 		},
 		{
-			"headline": "Firefighters battle blaze at South El Monte shooting range",
-			"url": "https://www.latimes.com/california/story/2026-06-21/firefighters-battle-blaze-at-south-el-monte-shooting-range",
+			"headline": "This startup wants to bring driverless freight trucks to California's roads, but drivers are pushing back",
+			"url": "https://www.latimes.com/business/story/2026-06-21/this-startup-wants-to-bring-driverless-freight-trucks-to-californias-roads-but-drivers-are-pushing-back",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T20:45:15.000Z"
+			"publishedAt": "2026-06-21T10:00:00.000Z"
 		},
 		{
-			"headline": "How to deal with the smoke, health effects of Boyle Heights cold storage fire",
-			"url": "https://www.latimes.com/california/story/2026-06-21/how-to-deal-with-smoke-health-effects-of-boyle-heights-cold-storage-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T16:08:47.000Z"
+			"headline": "Stressed-Out Soil Bacteria Adapt to Environmental Conditions",
+			"url": "https://www.caltech.edu/about/news/stressed-out-soil-bacteria-adapt-to-environmental-conditions",
+			"source": "Caltech",
+			"publishedAt": "2026-06-19T15:53:24.127Z"
 		},
 		{
-			"headline": "Firefighters cite progress as Boyle Heights fire burns for fifth day",
-			"url": "https://www.latimes.com/california/story/2026-06-21/la-me-fire-air",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T22:27:12.000Z"
-		},
-		{
-			"headline": "Another day of smoky air, nasty smells and many questions in parts of L.A.",
-			"url": "https://www.latimes.com/california/story/2026-06-21/day-of-smoky-air-nasty-smells-many-questions-in-parts-of-la",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T22:50:26.000Z"
-		},
-		{
-			"headline": "This plant extract can make a lethal drug cocktail. Can it also treat opioid addiction?",
-			"url": "https://www.latimes.com/california/story/2026-06-19/this-plant-extract-can-make-lethal-drug-cocktail-can-it-also-treat-opioid-addiction",
+			"headline": "The B-52 bomber is an iconic, aging warhorse. Probe of fatal crash could influence its future",
+			"url": "https://www.latimes.com/california/story/2026-06-19/edwards-afb-b52-crash-probe",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-19T10:00:00.000Z"
+		},
+		{
+			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
+			"url": "https://www.latimes.com/environment/story/2026-06-18/after-nearly-two-decades-this-massive-new-mexico-wind-project-is-now-powering-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-18T21:01:02.000Z"
+		},
+		{
+			"headline": "Ginsburg Center for Quantum Precision Hosts Dedication Ceremony",
+			"url": "https://www.caltech.edu/about/news/ginsburg-center-for-quantum-precision-hosts-dedication-ceremony",
+			"source": "Caltech",
+			"publishedAt": "2026-06-19T03:17:00.000Z"
 		}
 	]
 }
