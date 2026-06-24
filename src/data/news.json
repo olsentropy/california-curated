@@ -1,11 +1,29 @@
 {
-	"lastUpdated": "2026-06-23T21:21:33.758Z",
+	"lastUpdated": "2026-06-24T01:50:54.172Z",
 	"items": [
+		{
+			"headline": "Man reportedly falls from nearly 600-foot Nevada Fall in Yosemite. An investigation is underway",
+			"url": "https://www.latimes.com/california/story/2026-06-23/man-reportedly-falls-from-nearly-600-foot-nevada-fall-in-yosemite-investigation-is-underway",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-23T22:16:48.000Z"
+		},
+		{
+			"headline": "Los Angeles tries again to phase out urban oil production",
+			"url": "https://www.latimes.com/environment/story/2026-06-23/los-angeles-tries-again-to-phase-out-urban-oil-production",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-23T22:08:24.000Z"
+		},
 		{
 			"headline": "Architecting a Better Lithium-Ion Battery",
 			"url": "https://www.caltech.edu/about/news/architecting-a-better-lithium-ion-battery",
 			"source": "Caltech",
 			"publishedAt": "2026-06-23T17:04:00.000Z"
+		},
+		{
+			"headline": "Inside the 'concrete battery': Berkeley researcher exposes lethal heat in Florida prisons",
+			"url": "https://ced.berkeley.edu/news/stefano-schiavon-concrete-battery-lethal-heat-florida-prisons",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-23T16:49:57.000Z"
 		},
 		{
 			"headline": "MBARI researchers participate in new conference dedicated to midwater science and technology",
@@ -14,10 +32,28 @@
 			"publishedAt": "2026-06-23T16:00:11.000Z"
 		},
 		{
-			"headline": "Inside the 'concrete battery': Berkeley researcher exposes lethal heat in Florida prisons",
-			"url": "https://ced.berkeley.edu/news/stefano-schiavon-concrete-battery-lethal-heat-florida-prisons",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-23T16:49:57.000Z"
+			"headline": "Health concerns mount as Boyle Heights warehouse fire stretches into a week",
+			"url": "https://www.latimes.com/environment/story/2026-06-23/health-concerns-as-boyle-heights-warehouse-fire-stretches-into-week",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-23T10:00:00.000Z"
+		},
+		{
+			"headline": "If AI data centers are exploding nationwide, why are so few being built in California?",
+			"url": "https://www.latimes.com/environment/story/2026-06-23/other-anti-data-center-movement-californias-electricity-prices",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-23T10:00:00.000Z"
+		},
+		{
+			"headline": "Battle over single-use plastics erupts as 17 states move to block California law",
+			"url": "https://www.latimes.com/environment/story/2026-06-23/battle-over-single-use-plastics-erupts-as-17-states-move-to-block-california-law",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-23T10:00:00.000Z"
+		},
+		{
+			"headline": "High temperatures forecast to bake California, the West. Here's where it will be hottest",
+			"url": "https://www.latimes.com/california/story/2026-06-22/socal-week-heat-humidity",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-22T17:29:26.000Z"
 		},
 		{
 			"headline": "Improving Plants with a Tool Borrowed from Birds",
@@ -32,58 +68,10 @@
 			"publishedAt": "2026-06-22T14:12:00.000Z"
 		},
 		{
-			"headline": "High temperatures forecast to bake California, the West. Here's where it will be hottest",
-			"url": "https://www.latimes.com/california/story/2026-06-22/socal-week-heat-humidity",
+			"headline": "It's been six days. Why can't L.A. firefighters put out blaze at Boyle Heights cold storage facility?",
+			"url": "https://www.latimes.com/california/story/2026-06-22/boyle-heights-storage-fire",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-22T17:29:26.000Z"
-		},
-		{
-			"headline": "Battle over single-use plastics erupts as 17 states move to block California law",
-			"url": "https://www.latimes.com/environment/story/2026-06-23/battle-over-single-use-plastics-erupts-as-17-states-move-to-block-california-law",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-23T10:00:00.000Z"
-		},
-		{
-			"headline": "If AI data centers are exploding nationwide, why are so few being built in California?",
-			"url": "https://www.latimes.com/environment/story/2026-06-23/other-anti-data-center-movement-californias-electricity-prices",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Health concerns mount as Boyle Heights warehouse fire stretches into a week",
-			"url": "https://www.latimes.com/environment/story/2026-06-23/health-concerns-as-boyle-heights-warehouse-fire-stretches-into-week",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Stressed-Out Soil Bacteria Adapt to Environmental Conditions",
-			"url": "https://www.caltech.edu/about/news/stressed-out-soil-bacteria-adapt-to-environmental-conditions",
-			"source": "Caltech",
-			"publishedAt": "2026-06-19T15:53:24.127Z"
-		},
-		{
-			"headline": "This plant extract can make a lethal drug cocktail. Can it also treat opioid addiction?",
-			"url": "https://www.latimes.com/california/story/2026-06-19/this-plant-extract-can-make-lethal-drug-cocktail-can-it-also-treat-opioid-addiction",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-19T10:00:00.000Z"
-		},
-		{
-			"headline": "A traveler with measles passed through LAX. Officials urge caution amid World Cup crowds",
-			"url": "https://www.latimes.com/california/story/2026-06-19/traveler-with-measles-was-at-lax-caution-urged-amid-world-cup",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-19T10:00:00.000Z"
-		},
-		{
-			"headline": "Ginsburg Center for Quantum Precision Hosts Dedication Ceremony",
-			"url": "https://www.caltech.edu/about/news/ginsburg-center-for-quantum-precision-hosts-dedication-ceremony",
-			"source": "Caltech",
-			"publishedAt": "2026-06-19T03:17:00.000Z"
-		},
-		{
-			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
-			"url": "https://www.latimes.com/environment/story/2026-06-18/after-nearly-two-decades-this-massive-new-mexico-wind-project-is-now-powering-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-18T21:01:02.000Z"
+			"publishedAt": "2026-06-22T14:22:05.000Z"
 		},
 		{
 			"headline": "Watch: The economic pressures that are driving Californians to leave home",
@@ -104,18 +92,6 @@
 			"publishedAt": "2026-06-17T18:42:15.000Z"
 		},
 		{
-			"headline": "Mathematicians Gather to Focus on AI",
-			"url": "https://www.caltech.edu/about/news/mathematicians-gather-to-focus-on-ai",
-			"source": "Caltech",
-			"publishedAt": "2026-06-17T16:31:00.000Z"
-		},
-		{
-			"headline": "The woman who championed Big Bear's celebrity eagles leaves behind a $10-million mission",
-			"url": "https://www.latimes.com/environment/story/2026-06-17/jackie-shadow-sandy-steers-memorial-moon-camp-fundraiser",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-17T10:00:00.000Z"
-		},
-		{
 			"headline": "These zoo babies smell like popcorn. San Diego Zoo celebrates birth of two bearcats",
 			"url": "https://www.latimes.com/california/story/2026-06-17/bearcats-biturong-bintlets-born-san-diego-zoo",
 			"source": "Los Angeles Times",
@@ -128,10 +104,52 @@
 			"publishedAt": "2026-06-17T23:09:44.000Z"
 		},
 		{
+			"headline": "Crews gain control of Boyle Heights warehouse fire; 'highly toxic' ammonia leak spurs concern",
+			"url": "https://www.latimes.com/california/story/2026-06-17/massive-boyle-heights-warehouse-fire-prompts-shelter-in-place-orders",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-17T22:58:49.000Z"
+		},
+		{
 			"headline": "Heat wave expected to scorch Southern California this week",
 			"url": "https://www.latimes.com/california/story/2026-06-21/heat-wave-expected-to-scorch-southern-california-this-week",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-21T10:00:00.000Z"
+		},
+		{
+			"headline": "This startup wants to bring driverless freight trucks to California's roads, but drivers are pushing back",
+			"url": "https://www.latimes.com/business/story/2026-06-21/this-startup-wants-to-bring-driverless-freight-trucks-to-californias-roads-but-drivers-are-pushing-back",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-21T10:00:00.000Z"
+		},
+		{
+			"headline": "Firefighters battle blaze at South El Monte shooting range",
+			"url": "https://www.latimes.com/california/story/2026-06-21/firefighters-battle-blaze-at-south-el-monte-shooting-range",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-21T20:45:15.000Z"
+		},
+		{
+			"headline": "How to deal with the smoke, health effects of Boyle Heights cold storage fire",
+			"url": "https://www.latimes.com/california/story/2026-06-21/how-to-deal-with-smoke-health-effects-of-boyle-heights-cold-storage-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-21T16:08:47.000Z"
+		},
+		{
+			"headline": "After nearly two decades, this massive New Mexico wind project is now powering California",
+			"url": "https://www.latimes.com/environment/story/2026-06-18/after-nearly-two-decades-this-massive-new-mexico-wind-project-is-now-powering-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-18T21:01:02.000Z"
+		},
+		{
+			"headline": "Shelter-in-place order continues in Boyle Heights as fire burns inside warehouse",
+			"url": "https://www.latimes.com/california/story/2026-06-18/what-we-know-about-air-quality",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-18T13:40:59.000Z"
+		},
+		{
+			"headline": "Ginsburg Center for Quantum Precision Hosts Dedication Ceremony",
+			"url": "https://www.caltech.edu/about/news/ginsburg-center-for-quantum-precision-hosts-dedication-ceremony",
+			"source": "Caltech",
+			"publishedAt": "2026-06-19T03:17:00.000Z"
 		}
 	]
 }
