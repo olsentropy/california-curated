@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-24T21:15:06.336Z",
+	"lastUpdated": "2026-06-25T01:54:45.967Z",
 	"items": [
 		{
 			"headline": "Magnitude 5.6 earthquake shakes Northern California, hitting Mendocino County",
@@ -14,14 +14,14 @@
 			"publishedAt": "2026-06-24T15:00:00.000Z"
 		},
 		{
-			"headline": "Timing of July 4th fireworks couldn't be worse for Big Bear eaglets, advocates say",
-			"url": "https://www.latimes.com/california/story/2026-06-24/timing-of-july-4-fireworks-imperils-big-bear-eaglets-advocates-say",
+			"headline": "Why your food scraps travel more than 100 miles — and how an L.A. council member wants to stop it",
+			"url": "https://www.latimes.com/california/story/2026-06-24/why-your-food-scraps-travel-more-than-100-miles-how-la-council-member-wants-to-stop-it",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-24T10:00:00.000Z"
 		},
 		{
-			"headline": "Why your food scraps travel more than 100 miles — and how an L.A. council member wants to stop it",
-			"url": "https://www.latimes.com/california/story/2026-06-24/why-your-food-scraps-travel-more-than-100-miles-how-la-council-member-wants-to-stop-it",
+			"headline": "Timing of July 4th fireworks couldn't be worse for Big Bear eaglets, advocates say",
+			"url": "https://www.latimes.com/california/story/2026-06-24/timing-of-july-4-fireworks-imperils-big-bear-eaglets-advocates-say",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-24T10:00:00.000Z"
 		},
@@ -38,22 +38,10 @@
 			"publishedAt": "2026-06-23T22:16:48.000Z"
 		},
 		{
-			"headline": "MBARI researchers participate in new conference dedicated to midwater science and technology",
-			"url": "https://www.mbari.org/news/mbari-researchers-participate-in-new-conference-dedicated-to-midwater-science-and-technology/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-23T16:00:11.000Z"
-		},
-		{
-			"headline": "Inside the 'concrete battery': Berkeley researcher exposes lethal heat in Florida prisons",
-			"url": "https://ced.berkeley.edu/news/stefano-schiavon-concrete-battery-lethal-heat-florida-prisons",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-23T16:49:57.000Z"
-		},
-		{
-			"headline": "Architecting a Better Lithium-Ion Battery",
-			"url": "https://www.caltech.edu/about/news/architecting-a-better-lithium-ion-battery",
-			"source": "Caltech",
-			"publishedAt": "2026-06-23T17:04:00.000Z"
+			"headline": "Health concerns mount as Boyle Heights warehouse fire stretches into a week",
+			"url": "https://www.latimes.com/environment/story/2026-06-23/health-concerns-as-boyle-heights-warehouse-fire-stretches-into-week",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-23T10:00:00.000Z"
 		},
 		{
 			"headline": "If AI data centers are exploding nationwide, why are so few being built in California?",
@@ -68,22 +56,22 @@
 			"publishedAt": "2026-06-23T10:00:00.000Z"
 		},
 		{
-			"headline": "Health concerns mount as Boyle Heights warehouse fire stretches into a week",
-			"url": "https://www.latimes.com/environment/story/2026-06-23/health-concerns-as-boyle-heights-warehouse-fire-stretches-into-week",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Newly identified fossil sheds light on evolutionary history of saber-toothed cats",
-			"url": "https://news.berkeley.edu/2026/06/22/newly-identified-fossil-sheds-light-on-evolutionary-history-of-saber-toothed-cats/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-22T14:12:00.000Z"
-		},
-		{
-			"headline": "Improving Plants with a Tool Borrowed from Birds",
-			"url": "https://www.caltech.edu/about/news/improving-plants-with-a-tool-borrowed-from-birds",
+			"headline": "Architecting a Better Lithium-Ion Battery",
+			"url": "https://www.caltech.edu/about/news/architecting-a-better-lithium-ion-battery",
 			"source": "Caltech",
-			"publishedAt": "2026-06-22T16:44:14.003Z"
+			"publishedAt": "2026-06-23T17:04:00.000Z"
+		},
+		{
+			"headline": "Inside the 'concrete battery': Berkeley researcher exposes lethal heat in Florida prisons",
+			"url": "https://ced.berkeley.edu/news/stefano-schiavon-concrete-battery-lethal-heat-florida-prisons",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-23T16:49:57.000Z"
+		},
+		{
+			"headline": "MBARI researchers participate in new conference dedicated to midwater science and technology",
+			"url": "https://www.mbari.org/news/mbari-researchers-participate-in-new-conference-dedicated-to-midwater-science-and-technology/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-23T16:00:11.000Z"
 		},
 		{
 			"headline": "High temperatures forecast to bake California, the West. Here's where it will be hottest",
@@ -92,28 +80,22 @@
 			"publishedAt": "2026-06-22T17:29:26.000Z"
 		},
 		{
+			"headline": "Improving Plants with a Tool Borrowed from Birds",
+			"url": "https://www.caltech.edu/about/news/improving-plants-with-a-tool-borrowed-from-birds",
+			"source": "Caltech",
+			"publishedAt": "2026-06-22T16:44:14.003Z"
+		},
+		{
+			"headline": "Newly identified fossil sheds light on evolutionary history of saber-toothed cats",
+			"url": "https://news.berkeley.edu/2026/06/22/newly-identified-fossil-sheds-light-on-evolutionary-history-of-saber-toothed-cats/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-22T14:12:00.000Z"
+		},
+		{
 			"headline": "It's been six days. Why can't L.A. firefighters put out blaze at Boyle Heights cold storage facility?",
 			"url": "https://www.latimes.com/california/story/2026-06-22/boyle-heights-storage-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-22T14:22:05.000Z"
-		},
-		{
-			"headline": "This startup wants to bring driverless freight trucks to California's roads, but drivers are pushing back",
-			"url": "https://www.latimes.com/business/story/2026-06-21/this-startup-wants-to-bring-driverless-freight-trucks-to-californias-roads-but-drivers-are-pushing-back",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T10:00:00.000Z"
-		},
-		{
-			"headline": "Newsom's stance on controversial data centers about to be tested. Again.",
-			"url": "https://www.latimes.com/california/story/2026-06-21/newsoms-stance-on-controversial-data-centers-will-be-about-to-be-tested-again",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T10:00:00.000Z"
-		},
-		{
-			"headline": "Heat wave expected to scorch Southern California this week",
-			"url": "https://www.latimes.com/california/story/2026-06-21/heat-wave-expected-to-scorch-southern-california-this-week",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-21T10:00:00.000Z"
 		},
 		{
 			"headline": "Stressed-Out Soil Bacteria Adapt to Environmental Conditions",
@@ -122,14 +104,14 @@
 			"publishedAt": "2026-06-19T15:53:24.127Z"
 		},
 		{
-			"headline": "The B-52 bomber is an iconic, aging warhorse. Probe of fatal crash could influence its future",
-			"url": "https://www.latimes.com/california/story/2026-06-19/edwards-afb-b52-crash-probe",
+			"headline": "This plant extract can make a lethal drug cocktail. Can it also treat opioid addiction?",
+			"url": "https://www.latimes.com/california/story/2026-06-19/this-plant-extract-can-make-lethal-drug-cocktail-can-it-also-treat-opioid-addiction",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-19T10:00:00.000Z"
 		},
 		{
-			"headline": "A traveler with measles passed through LAX. Officials urge caution amid World Cup crowds",
-			"url": "https://www.latimes.com/california/story/2026-06-19/traveler-with-measles-was-at-lax-caution-urged-amid-world-cup",
+			"headline": "The B-52 bomber is an iconic, aging warhorse. Probe of fatal crash could influence its future",
+			"url": "https://www.latimes.com/california/story/2026-06-19/edwards-afb-b52-crash-probe",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-19T10:00:00.000Z"
 		},
