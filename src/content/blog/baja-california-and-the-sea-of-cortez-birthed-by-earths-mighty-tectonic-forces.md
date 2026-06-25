@@ -1,6 +1,6 @@
 ---
 title: Baja California Is Slowly Breaking Away from the Mainland and May One Day Become an Island
-description: In the southwest corner of North America, surrounded by the vast Pacific Ocean and the ethereal Sea of Cortez, lies the rugged and beautiful Baja California Peninsula. While well known for its captivating landscapes, what’s perhaps more fascinating is the story of its origin—a tale written in the language of tectonic plate movements, over tens of millions of years.
+description: The Baja California Peninsula is slowly being pulled away from mainland Mexico by powerful tectonic forces. As the Pacific Plate moves northwest, it is tearing the peninsula from North America, opening the Sea of Cortez and reshaping the landscape in a geologic process that continues today.
 pubDate: 2023-07-30
 updatedDate: ''
 heroImage: https://californiacurated.com/wp-content/uploads/2023/07/baja-photo.jpg
@@ -23,7 +23,7 @@ wpSlug: baja-california-and-the-sea-of-cortez-birthed-by-earths-mighty-tectonic-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
-Geological forces are always at work, reshaping the planet, just usually on a timescale too slow for us to notice. But over the long haul, they can completely transform places we think of as fixed and familiar, like Southern California and northern Mexico. I’ve been down to Baja a bunch of times, including a few unforgettable multi-day kayak trips in the [Sea of Cortez](<https://ecomigrations.com/ultimate-guides-to-la-paz-baja-mexico/oceanography-of-the-sea-of-cortez-and-la-paz/>). Paddling past sheer cliffs and sleeping on empty beaches under the stars, it’s easy to feel like the landscape has been frozen in time. But that sense of permanence? It’s an illusion.
+Geological forces are always at work reshaping the planet, just usually on a timescale too slow for us to notice. But over the long haul, they can completely transform places we think of as fixed and familiar, like Southern California and northern Mexico. I’ve been down to Baja a bunch of times, including a few unforgettable multi-day kayak trips in the [Sea of Cortez](<https://ecomigrations.com/ultimate-guides-to-la-paz-baja-mexico/oceanography-of-the-sea-of-cortez-and-la-paz/>). Paddling past sheer cliffs and sleeping on empty beaches under the stars, it’s easy to feel like the landscape has been frozen in time. But that sense of permanence? It’s an illusion.
 
 Baja California stretches like a crooked finger pointing toward the tropics, wedged between the restless Pacific and the calm, warm waters of the Gulf of California. This long, skinny slice of land, more than 1,200 miles from [Mexicali](<https://en.wikipedia.org/wiki/Mexicali>) to [Cabo](<https://en.wikipedia.org/wiki/Cabo_San_Lucas>), is full of contrasts: sun-blasted deserts, jagged mountains, hidden oases and mangroves. But it’s not just a finger of land: it’s a fracture. Baja was ripped from mainland Mexico by slow, grinding tectonic forces, the Pacific Plate dragging it north and leaving the Gulf in its wake. And it’s still on the move. 
 
