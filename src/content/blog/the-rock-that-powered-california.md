@@ -1,6 +1,6 @@
 ---
-title: The Rock That Powered California
-description: From microscopic plankton to billions of barrels of oil, few rock formations have shaped California's history more profoundly.
+title: 'The Rock That Powered California: The Monterey Formation'
+description: From microscopic plankton to billions of barrels of oil, few rock formations have shaped California's history more profoundly than the Monterey formation.
 pubDate: 2026-06-25
 updatedDate: ''
 heroImage: /wp-content/uploads/cms/monterey-formation.jpg
@@ -11,7 +11,7 @@ categories:
 tags:
   - Monterey Formation, California geology, California oil history, Petroleum geology, Sedimentary rocks, Miocene Epoch, California natural resources, Crystal Cove State Park, Marine fossils, Earth science
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 We Californians are lucky. The reasons are almost endless. You can start with the mountains, deserts, forests, and coastline, but California’s good fortune goes beyond scenery. The state is also rich in the natural resources that helped shape its history, that built the fourth largest economy in the world. There was gold, of course. There were vast forests that supplied timber for booming cities and expanding railroads. There was/is fertile farmland ([remember this piece](https://californiacurated.substack.com/p/the-valley-that-feeds-a-nation) on the Central Valley?) and relatively abundant water. The list goes on.
