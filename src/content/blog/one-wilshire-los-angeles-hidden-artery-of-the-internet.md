@@ -8,6 +8,7 @@ wpSlug: "one-wilshire-los-angeles-hidden-artery-of-the-internet"
 categories: ["cities", "places", "private-science"]
 tags: ["60-hudson-street", "asia-data-link", "att", "california", "california-innovation", "california-technology", "carrier-hotel", "cloud-connectivity", "data-center", "data-fortress", "digital-gateway", "downtown-los-angeles", "environment", "fiber-optic-network", "gi-partners", "global-connectivity", "global-network-exchange", "internet-history", "internet-infrastructure", "internet-traffic", "los-angeles-internet-hub", "meet-me-room", "ntt-communications", "one-wilshire", "pacific-ocean-cables", "pacific-rim-communications", "peering-networks", "science", "skimore-owings-merrill", "telecom-carriers", "telecommunications-history", "trans-pacific-cables", "verizon", "west-coast-internet"]
 author: "Erik Olsen"
+seoTitle: "One Wilshire: The Los Angeles Building That Routes the Internet"
 ---
 
 

@@ -12,6 +12,7 @@ tags:
   - succulents, desert plants, Huntington Desert Garden, The Huntington, San Marino, California plants, cactus, cacti, succulent biology, plant adaptation, drought tolerant plants, CAM photosynthesis, botanical gardens, rare plants, endangered succulents, plant poaching, desert ecology, xerophytes, agave, aloe, euphorbia, botanical conservation, California gardens, desert garden
 author: Erik Olsen
 draft: false
+seoTitle: "Huntington Desert Garden: One of the World's Great Succulent Collections"
 ---
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

@@ -22,6 +22,7 @@ tags:
   - overfishing
   - pacific-ocean
 author: Erik Olsen
+seoTitle: "California Groundfish Recovery: How Smart Policy Saved the Fishery"
 wpId: 6289
 wpSlug: how-california-has-revived-its-groundfish-fisheries
 ---

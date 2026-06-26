@@ -8,6 +8,7 @@ wpSlug: "measuring-the-earths-tremors-and-the-discovery-of-the-richter-scale"
 categories: ["geology-and-earthquakes", "history-of-science", "people", "physics", "places"]
 tags: ["california", "california-institute-of-technology", "caltech", "earthquake", "earthquakes", "geology", "los-angeles", "nature", "science", "seismology"]
 author: "Erik Olsen"
+seoTitle: "The Richter Scale: How Caltech's Charles Richter Measured Earthquakes"
 ---
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

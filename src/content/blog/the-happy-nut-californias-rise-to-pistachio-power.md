@@ -8,6 +8,7 @@ wpSlug: "the-happy-nut-californias-rise-to-pistachio-power"
 categories: ["agriculture", "biology", "books", "climate-change", "horticulture", "people", "places"]
 tags: ["agribusiness", "agricultural-power", "agriculture", "almonds", "california", "california-agriculture", "california-economy", "california-farming", "california-nuts", "california-pistachio-industry", "central-valley", "central-valley-agriculture", "climate-change", "crop-science", "desert-farming", "drought", "environment", "food-production", "fruiting-clusters", "global-exports", "groundwater", "harvest-season", "irrigation", "kern-county", "lynda-resnick", "mark-arax", "mark-arax-california-water", "nature", "nut-genetics", "nut-industry", "nut-research", "orchard-management", "pistachio-boom", "pistachio-orchards", "pistachio-research", "pistachios", "resnicks", "science", "stewart-resnick", "sustainability", "sustainable-agriculture", "tree-crops", "tulare-basin", "uc-davis", "walnuts", "water-rights", "wonderful-company"]
 author: "Erik Olsen"
+seoTitle: "California Pistachios: How the Central Valley Dominates World Production"
 ---
 
 

@@ -8,6 +8,7 @@ wpSlug: "californias-strangest-catastrophe"
 categories: ["agriculture", "animals", "climate-change", "geology-and-earthquakes", "health-and-medicine", "history-of-science"]
 tags: ["california", "catastrophe", "clean-energy-2", "colorado-river", "desert", "ecology", "environment", "flooding", "geology", "lithium", "mojave-desert", "renewable-energy", "salton-sea", "water-crisis"]
 author: "Erik Olsen"
+seoTitle: "The Salton Sea: California's Accidental Lake and Ecological Disaster"
 ---
 
 

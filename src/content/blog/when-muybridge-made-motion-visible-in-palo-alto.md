@@ -8,6 +8,7 @@ wpSlug: "when-muybridge-made-motion-visible-in-palo-alto"
 categories: ["animals", "biology", "history-of-science", "people", "places"]
 tags: ["animal-locomotion", "biomechanics", "california-science", "eadweard-muybridge", "early-cinema", "gait-analysis", "history-of-film", "leland-stanford", "motion-photography", "palo-alto", "stanford-university", "visualizing-motion", "zoopraxiscope"]
 author: "Erik Olsen"
+seoTitle: "Eadweard Muybridge in Palo Alto: How Photography First Captured Motion"
 ---
 
 **__Eadweard Muybridge’s ‘Animal Locomotion’ was the first scientific study to use photography. Now, more than 130 years later, Muybridge’s work is seen as both an innovation in photography and the science of movement.__**

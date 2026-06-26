@@ -8,6 +8,7 @@ wpSlug: "the-great-los-angeles-flood-of-1934-was-a-disaster-that-shaped-californ
 categories: ["cities", "climate-change", "geology-and-earthquakes", "places"]
 tags: ["california", "climate-change", "disasters", "environment", "flooding", "floods", "la-crescenta", "montrose", "news", "weather"]
 author: "Erik Olsen"
+seoTitle: "Los Angeles Flood of 1934: The Disaster That Reshaped Flood Control"
 ---
 
 New Year's Eve floodwaters. (LA Times)

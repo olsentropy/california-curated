@@ -8,6 +8,7 @@ wpSlug: "what-david-attenborough-reminded-me-about-the-sea"
 categories: ["geology-and-earthquakes"]
 tags: ["30-by-30-initiative", "animals", "biodiversity", "california", "california-coast", "channel-islands-mpa", "climate-change", "david-attenborough-oceans", "deep-sea-trawling", "environment", "marine-ecosystems", "marine-protected-areas", "national-park-service", "nature", "ocean-biodiversity", "ocean-conservation", "overfishing", "pacific-ocean", "phytoplankton-carbon-capture", "science", "sustainability", "un-ocean-conference-2025"]
 author: "Erik Olsen"
+seoTitle: "David Attenborough's Oceans: The Case Against Bottom Trawling"
 ---
 
 

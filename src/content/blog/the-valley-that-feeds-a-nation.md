@@ -8,6 +8,7 @@ wpSlug: "the-valley-that-feeds-a-nation"
 categories: ["agriculture", "cities", "geology-and-earthquakes", "horticulture", "places"]
 tags: ["california", "california-agriculture", "california-irrigation", "california-structural-basin", "central-valley-california", "environment", "geology", "great-valley-geology", "great-valley-sequence", "hiking", "lake-tulare", "national-parks", "nature", "sacramento-valley", "san-joaquin-valley", "sierra-nevada-sediment", "travel"]
 author: "Erik Olsen"
+seoTitle: "California's Central Valley: Geology of America's Breadbasket"
 ---
 
 **How tectonics, sediment, and water created one of the most productive landscapes on Earth.**

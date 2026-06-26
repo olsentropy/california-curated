@@ -8,6 +8,7 @@ wpSlug: "not-so-big-how-we-overstate-the-length-of-the-blue-whale-earths-largest
 categories: ["animals", "biology", "history-of-science", "marine-science"]
 tags: ["animals", "baja-california", "blue-whale", "california", "california-coast", "channel-islands", "climate-change", "eastern-north-pacific", "endangered-species", "environment", "krill-feeding", "marine-conservation", "marine-life", "monterey-bay", "nature", "ocean-giants", "pacific-ocean", "science", "travel", "whale-migration", "whale-watching", "wildlife"]
 author: "Erik Olsen"
+seoTitle: "How Long Is a Blue Whale Really? The 100-Foot Myth Debunked"
 ---
 
 

@@ -11,6 +11,7 @@ tags:
   - Yosemite, exfoliation, Half Dome, Yosemite geology, Sierra Nevada, granite domes, glaciation, California geology, rockfalls, deep time
 author: Erik Olsen
 draft: false
+seoTitle: "Yosemite Exfoliation: Why the Granite Domes Are Peeling Apart"
 ---
 
 Two years ago, I did the climb from the valley floor to the top of Yosemite Falls, a gain of some 2,800 feet in 7 miles. It was one of the most exhausting things I’ve ever done, but the views from up on those granite heights are magnificent and make all the work worthwhile.

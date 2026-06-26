@@ -8,6 +8,7 @@ wpSlug: "upwelling-the-oceans-engine-beneath-californias-waters"
 categories: ["animals", "biology", "climate-change", "geology-and-earthquakes", "marine-science", "places"]
 tags: ["animals", "california", "climate-change", "coriolis-effect", "environment", "global-warming", "nature", "pacific-ocean", "science", "sustainability", "upwelling"]
 author: "Erik Olsen"
+seoTitle: "California Upwelling: How Cold Ocean Water Powers Marine Life"
 ---
 
 

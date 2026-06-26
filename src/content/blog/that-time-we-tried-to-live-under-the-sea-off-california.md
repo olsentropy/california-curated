@@ -8,6 +8,7 @@ wpSlug: "that-time-we-tried-to-live-under-the-sea-off-california"
 categories: ["biology", "history-of-science", "marine-science", "places"]
 tags: ["aquanauts", "california", "california-coast-history", "cold-water-diving", "decompression-sickness", "deep-sea-research", "deep-submergence-program", "george-bond-navy", "helium-voice-effect", "human-exploration-ocean", "la-jolla-california", "lyndon-johnson-call", "marine-biology-observation", "navy-diving-history", "ocean-exploration", "ocean-science-history", "pacific-ocean", "san-diego-coast", "saturation-diving", "scott-carpenter-aquanaut", "sealab-i", "sealab-ii", "sealab-iii", "the-bends-diving", "underwater-habitat", "underwater-living-experiment", "underwater-research-lab"]
 author: "Erik Olsen"
+seoTitle: "SEALAB II: The Navy's Underwater Habitat off San Diego"
 ---
 
 **In the 1960s, as America raced to the Moon, the Navy sent aquanauts to the ocean floor off La Jolla in an ambitious experiment called SEALAB II.**

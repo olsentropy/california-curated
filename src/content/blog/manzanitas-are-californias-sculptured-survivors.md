@@ -23,6 +23,7 @@ tags:
   - trees
   - wildlife
 author: Erik Olsen
+seoTitle: "Manzanita: California's Ancient, Fire-Adapted Chaparral Shrub"
 wpId: 6131
 wpSlug: manzanitas-are-californias-sculptured-survivors
 ---

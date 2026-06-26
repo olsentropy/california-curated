@@ -21,6 +21,7 @@ tags:
   - owens-pupfish
   - owens-valley
 author: Erik Olsen
+seoTitle: "Owens Pupfish: The California Fish Saved from Extinction"
 wpId: 1486
 wpSlug: the-man-who-saved-a-species
 ---

@@ -8,6 +8,7 @@ wpSlug: "the-caltech-experiment-that-proved-how-life-copies-itself"
 categories: ["biology", "health-and-medicine", "history-of-science", "people", "places"]
 tags: ["california", "california-institute-of-technology", "caltech", "dna", "double-helix", "francis-crick", "genetics", "james-watson", "science", "watson-and-crick"]
 author: "Erik Olsen"
+seoTitle: "Meselson-Stahl Experiment: Caltech's Proof of DNA Replication"
 ---
 
 

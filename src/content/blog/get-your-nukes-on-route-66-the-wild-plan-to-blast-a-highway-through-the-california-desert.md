@@ -8,6 +8,7 @@ wpSlug: "get-your-nukes-on-route-66-the-wild-plan-to-blast-a-highway-through-the
 categories: ["geology-and-earthquakes"]
 tags: ["california", "cold-war", "environment", "geology", "history", "nuclear", "nuclear-war", "nuclear-weapons", "route-66"]
 author: "Erik Olsen"
+seoTitle: "Project Plowshare: The Nuclear Plan to Blast a Highway Through California"
 ---
 
 _...and they shall beat their swords into plowshares, and their spears into pruning hooks: nation shall not lift up sword against nation, neither shall they learn war any more. Micah 4:3_

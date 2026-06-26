@@ -37,6 +37,15 @@ const blog = defineCollection({
 			author: z.string().default('Erik Olsen'),
 			// Status flag — lets us draft posts before publishing:
 			draft: z.boolean().default(false),
+			// Optional SEO-optimized title for the <title> tag and og:title.
+			// When set, this appears in search results instead of the editorial headline.
+			// The editorial title (above) is still used as the H1 on the page.
+			// Example: editorial title "Mountain of Knives" →
+			//          seoTitle "Lookout Mountain Obsidian: California's Ancient Indigenous Quarry"
+			seoTitle: z.preprocess(
+				(v) => (v === '' || v === null ? undefined : v),
+				z.string().optional(),
+			),
 		}),
 });
 

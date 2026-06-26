@@ -8,6 +8,7 @@ wpSlug: "all-the-fish-we-did-not-see-the-discovery-of-the-oceans-false-bottom-of
 categories: ["animals", "biology", "history-of-science", "marine-science", "people"]
 tags: ["animals", "bristlemouth", "california", "climate-change", "deep-ocean", "environment", "nature", "ocean-exploration", "pacific-ocean", "science", "twilight-zone"]
 author: "Erik Olsen"
+seoTitle: "Deep Scattering Layer: Sonar's False Bottom Discovered off California"
 ---
 
 

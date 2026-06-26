@@ -16,6 +16,7 @@ tags:
   - environment
   - mojave-desert
 author: Erik Olsen
+seoTitle: "Creosote Bush: The Mojave's 12,000-Year-Old Living Plant"
 wpId: 5005
 wpSlug: creosote-bushes-are-the-mojave-deserts-time-travelers
 ---

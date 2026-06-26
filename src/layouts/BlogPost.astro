@@ -10,7 +10,7 @@ import { getRelatedPosts, heroUrl } from '../lib/posts';
 import '../styles/global.css';
 
 type Props = CollectionEntry<'blog'>['data'] & { hideMeta?: boolean; currentId?: string };
-const { title, description, pubDate, updatedDate, heroImage, author, categories, hideMeta, currentId } =
+const { title, seoTitle, description, pubDate, updatedDate, heroImage, author, categories, hideMeta, currentId } =
 	Astro.props;
 
 // Resolve hero image — schema allows asset OR raw URL string
@@ -84,8 +84,7 @@ const authorHref = author === SITE_AUTHOR ? `/author/${SITE_AUTHOR_SLUG}/` : und
 <!doctype html>
 <html lang="en">
 	<head>
-		<BaseHead title={title} description={description} image={hero} />
-		<meta property="og:type" content="article" />
+		<BaseHead title={seoTitle ?? title} description={description} image={hero} type="article" />
 		<meta property="article:published_time" content={pubDate.toISOString()} />
 		{updatedDate && <meta property="article:modified_time" content={updatedDate.toISOString()} />}
 		<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />

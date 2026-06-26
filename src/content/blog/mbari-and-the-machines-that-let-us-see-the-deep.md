@@ -9,6 +9,7 @@ categories:
 tags:
   - '#MBARI #DeepSea #OceanExploration #MontereyBay #MarineBiology #ROV #DeepOcean #CaliforniaScience #MontereyCanyon #OceanDiscovery'
 author: Erik Olsen
+seoTitle: "MBARI: Exploring Monterey Canyon with Deep-Sea Robots"
 wpId: 7067
 wpSlug: mbari-and-the-machines-that-let-us-see-the-deep
 ---

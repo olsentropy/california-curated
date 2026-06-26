@@ -8,6 +8,7 @@ wpSlug: "californias-daily-tidal-wave-of-life"
 categories: ["animals", "biology", "climate-change", "marine-science", "places"]
 tags: ["animals", "california-coast", "california-current", "climate-change", "deep-sea", "environment", "marine-biology", "marine-life", "marine-research", "mbari", "monterey-bay", "nature", "ocean", "ocean-science", "oceanography", "pacific-ocean", "plankton", "science", "travel", "upwelling", "writing"]
 author: "Erik Olsen"
+seoTitle: "Diel Vertical Migration: The Ocean's Daily Wave of Life off California"
 ---
 
 

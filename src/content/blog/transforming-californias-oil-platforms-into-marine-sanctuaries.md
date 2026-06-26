@@ -8,6 +8,7 @@ wpSlug: "transforming-californias-oil-platforms-into-marine-sanctuaries"
 categories: ["animals", "biology", "geology-and-earthquakes", "marine-science", "people", "places"]
 tags: ["ab-2503", "amber-sparks", "animals", "artificial-reefs", "blue-latitudes", "boem", "bsee", "california", "california-coast", "california-marine-resources-legacy-act", "cdfw", "continental-shelf", "decommissioning", "ecology", "environment", "marine-biology", "marine-life", "milton-love", "mussels", "nature", "ocean-habitat", "offshore-platforms", "oil-rigs", "pacific-ocean", "platform-eureka", "reefs", "rigs-to-reefs", "rockfish", "san-pedro", "santa-barbara-channel", "science", "sea-lions", "strawberry-anemones", "ucsb", "upwelling"]
 author: "Erik Olsen"
+seoTitle: "California Rigs-to-Reefs: Turning Oil Platforms into Marine Sanctuaries"
 ---
 
 

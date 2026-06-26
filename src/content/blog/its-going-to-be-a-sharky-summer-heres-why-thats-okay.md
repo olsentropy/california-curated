@@ -12,6 +12,7 @@ tags:
   - California, Sharks, Great White Sharks, Shark Week, California Coast, Ocean Science, Marine Biology, Chris Lowe, Shark Lab, Long Beach, Seal Beach, Southern California, Beach Life, Ocean Safety, Marine Life, Wildlife, Nature, Science, Conservation, California Curated, Surfing, Swimming, Pacific Ocean, Coastal California, Shark Research
 author: Erik Olsen
 draft: false
+seoTitle: "Great White Sharks on California Beaches: What Scientists Say"
 ---
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>

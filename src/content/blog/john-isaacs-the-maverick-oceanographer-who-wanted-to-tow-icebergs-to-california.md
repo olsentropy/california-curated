@@ -8,6 +8,7 @@ wpSlug: "john-isaacs-the-maverick-oceanographer-who-wanted-to-tow-icebergs-to-ca
 categories: ["cities", "climate-change", "geology-and-earthquakes", "marine-science", "people"]
 tags: ["california", "climate", "climate-change", "drought", "environment", "global-warming", "iceberg", "pacific-ocean", "science", "scripps-institution-of-oceanography"]
 author: "Erik Olsen"
+seoTitle: "Towing Icebergs to California: John Isaacs' Bold Idea"
 ---
 
 

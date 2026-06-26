@@ -28,6 +28,7 @@ tags:
   - submersibles
   - triton-submarines
 author: Erik Olsen
+seoTitle: "Deep Ocean Exploration off California: The Case for Human Submersibles"
 wpId: 6314
 wpSlug: bring-human-exploration-back-to-californias-deep-ocean
 ---

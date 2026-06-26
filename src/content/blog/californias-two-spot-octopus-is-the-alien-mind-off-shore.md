@@ -8,6 +8,7 @@ wpSlug: "californias-two-spot-octopus-is-the-alien-mind-off-shore"
 categories: ["animals", "biology", "health-and-medicine", "marine-science", "places"]
 tags: ["aliens", "animals", "biology", "california", "cephalopods", "climate-change", "coast", "consciousness", "environment", "nature", "octopus", "pacific-ocean", "philosophy", "science", "two-spot-octopus-2"]
 author: "Erik Olsen"
+seoTitle: "California Two-Spot Octopus: Intelligence and Camouflage off the Coast"
 ---
 
 
