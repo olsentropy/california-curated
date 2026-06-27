@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-06-27T01:49:59.634Z",
+	"lastUpdated": "2026-06-27T06:45:30.955Z",
 	"items": [
+		{
+			"headline": "Schuman Receives 2026 Kavli Prize in Neuroscience",
+			"url": "https://www.caltech.edu/about/news/schuman-receives-2026-kavli-prize-in-neuroscience",
+			"source": "Caltech",
+			"publishedAt": "2026-06-27T04:22:37.246Z"
+		},
 		{
 			"headline": "Red flag warning for critical fire weather in place across swath of Southern California",
 			"url": "https://www.latimes.com/california/story/2026-06-26/red-flag-warnings-in-place-across-swath-of-southern-california",
@@ -20,6 +26,12 @@
 			"publishedAt": "2026-06-26T12:02:00.000Z"
 		},
 		{
+			"headline": "EPA touts crackdown on smuggled pesticides in L.A. visit",
+			"url": "https://www.latimes.com/environment/story/2026-06-26/epa-touts-crackdown-on-smuggled-pesticides-in-la-visit",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T10:00:00.000Z"
+		},
+		{
 			"headline": "New fossils upend catastrophist narrative that flowering plants flourished only after dinosaur extinction",
 			"url": "https://news.berkeley.edu/2026/06/25/new-fossils-upend-catastrophist-narrative-that-flowering-plants-flourished-only-after-dinosaur-extinction/",
 			"source": "UC Berkeley News",
@@ -30,18 +42,6 @@
 			"url": "https://www.latimes.com/world-nation/story/2026-06-24/venezuela-earthquake-staggering-destruction-is-urgent-warning-for-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-25T04:57:33.000Z"
-		},
-		{
-			"headline": "Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law",
-			"url": "https://www.latimes.com/politics/story/2026-06-25/gun-owners-may-carry-weapon-into-stores-supreme-court-rules-rejecting-california-law",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T14:35:51.000Z"
-		},
-		{
-			"headline": "Drug overdoses in L.A County drop for third straight year. Here's why",
-			"url": "https://www.latimes.com/california/story/2026-06-25/drug-overdose-deaths-down-in-la-county-2025-heres-why",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T12:00:00.000Z"
 		},
 		{
 			"headline": "Magnitude 5.6 earthquake shakes Northern California, hitting Mendocino County",
@@ -74,16 +74,16 @@
 			"publishedAt": "2026-06-23T22:08:24.000Z"
 		},
 		{
-			"headline": "Battle over single-use plastics erupts as 17 states move to block California law",
-			"url": "https://www.latimes.com/environment/story/2026-06-23/battle-over-single-use-plastics-erupts-as-17-states-move-to-block-california-law",
+			"headline": "If AI data centers are exploding nationwide, why are so few being built in California?",
+			"url": "https://www.latimes.com/environment/story/2026-06-23/other-anti-data-center-movement-californias-electricity-prices",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-23T10:00:00.000Z"
 		},
 		{
-			"headline": "Architecting a Better Lithium-Ion Battery",
-			"url": "https://www.caltech.edu/about/news/architecting-a-better-lithium-ion-battery",
-			"source": "Caltech",
-			"publishedAt": "2026-06-23T17:04:00.000Z"
+			"headline": "Battle over single-use plastics erupts as 17 states move to block California law",
+			"url": "https://www.latimes.com/environment/story/2026-06-23/battle-over-single-use-plastics-erupts-as-17-states-move-to-block-california-law",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-23T10:00:00.000Z"
 		},
 		{
 			"headline": "Inside the 'concrete battery': Berkeley researcher exposes lethal heat in Florida prisons",
@@ -104,12 +104,6 @@
 			"publishedAt": "2026-06-23T03:23:42.000Z"
 		},
 		{
-			"headline": "California law that forbids 'forced outing' of trans students blocked by 9th Circuit",
-			"url": "https://www.latimes.com/california/story/2026-06-22/9th-circuit-ruling-california-forced-outing-ban-trans-students",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-23T00:53:42.000Z"
-		},
-		{
 			"headline": "High temperatures forecast to bake California, the West. Here's where it will be hottest",
 			"url": "https://www.latimes.com/california/story/2026-06-22/socal-week-heat-humidity",
 			"source": "Los Angeles Times",
@@ -122,10 +116,10 @@
 			"publishedAt": "2026-06-22T16:44:00.000Z"
 		},
 		{
-			"headline": "Newly identified fossil sheds light on evolutionary history of saber-toothed cats",
-			"url": "https://news.berkeley.edu/2026/06/22/newly-identified-fossil-sheds-light-on-evolutionary-history-of-saber-toothed-cats/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-22T14:12:00.000Z"
+			"headline": "Architecting a Better Lithium-Ion Battery",
+			"url": "https://www.caltech.edu/about/news/architecting-a-better-lithium-ion-battery",
+			"source": "Caltech",
+			"publishedAt": "2026-06-23T17:04:00.000Z"
 		}
 	]
 }
