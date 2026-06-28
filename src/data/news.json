@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-28T10:17:52.560Z",
+	"lastUpdated": "2026-06-28T13:06:27.903Z",
 	"items": [
 		{
 			"headline": "Schuman Receives 2026 Kavli Prize in Neuroscience",
@@ -8,10 +8,22 @@
 			"publishedAt": "2026-06-27T04:22:37.246Z"
 		},
 		{
+			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
+			"url": "https://www.latimes.com/environment/story/2026-06-27/water-from-boyle-heights-fire-carries-foam-into-la-river",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-27T10:00:00.000Z"
+		},
+		{
 			"headline": "Red flag warning for critical fire weather in place across swath of Southern California",
 			"url": "https://www.latimes.com/california/story/2026-06-26/red-flag-warnings-in-place-across-swath-of-southern-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-26T23:26:42.000Z"
+		},
+		{
+			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
+			"url": "https://www.latimes.com/california/story/2026-06-26/venezuela-earthquake-terrifying-terrifying-back-to-back-quakes-show-dangers-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T15:12:37.000Z"
 		},
 		{
 			"headline": "Extensive Sand Dune Loss Threatens California Coast",
@@ -38,16 +50,22 @@
 			"publishedAt": "2026-06-26T10:00:00.000Z"
 		},
 		{
-			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
-			"url": "https://www.latimes.com/california/story/2026-06-26/venezuela-earthquake-terrifying-terrifying-back-to-back-quakes-show-dangers-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T15:12:37.000Z"
-		},
-		{
 			"headline": "New fossils upend catastrophist narrative that flowering plants flourished only after dinosaur extinction",
 			"url": "https://news.berkeley.edu/2026/06/25/new-fossils-upend-catastrophist-narrative-that-flowering-plants-flourished-only-after-dinosaur-extinction/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-25T18:00:00.000Z"
+		},
+		{
+			"headline": "Watch: How to enjoy gel nails without fear of UV skin damage",
+			"url": "https://news.berkeley.edu/2026/06/25/watch-how-to-enjoy-gel-nails-without-fear-of-uv-skin-damage/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-25T17:34:21.000Z"
+		},
+		{
+			"headline": "Some California cities pay up to $1,000 for reporting illegal fireworks. See which ones",
+			"url": "https://www.latimes.com/california/story/2026-06-25/these-california-cities-reward-reporting-illegal-fireworks",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-25T19:32:53.000Z"
 		},
 		{
 			"headline": "Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law",
@@ -86,6 +104,12 @@
 			"publishedAt": "2026-06-24T10:00:00.000Z"
 		},
 		{
+			"headline": "Smoke from Boyle Heights fire invades every corner of L.A. neighborhoods: 'No one is coming'",
+			"url": "https://www.latimes.com/california/story/2026-06-24/warehouse-fire-disrupts-lives-businesses-in-los-angeles",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-24T10:00:00.000Z"
+		},
+		{
 			"headline": "Timing of July 4th fireworks couldn't be worse for Big Bear eaglets, advocates say",
 			"url": "https://www.latimes.com/california/story/2026-06-24/timing-of-july-4-fireworks-imperils-big-bear-eaglets-advocates-say",
 			"source": "Los Angeles Times",
@@ -104,6 +128,12 @@
 			"publishedAt": "2026-06-23T22:16:48.000Z"
 		},
 		{
+			"headline": "MBARI researchers participate in new conference dedicated to midwater science and technology",
+			"url": "https://www.mbari.org/news/mbari-researchers-participate-in-new-conference-dedicated-to-midwater-science-and-technology/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-23T16:00:11.000Z"
+		},
+		{
 			"headline": "Architecting a Better Lithium-Ion Battery",
 			"url": "https://www.caltech.edu/about/news/architecting-a-better-lithium-ion-battery",
 			"source": "Caltech",
@@ -114,12 +144,6 @@
 			"url": "https://ced.berkeley.edu/news/stefano-schiavon-concrete-battery-lethal-heat-florida-prisons",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-23T16:49:57.000Z"
-		},
-		{
-			"headline": "MBARI researchers participate in new conference dedicated to midwater science and technology",
-			"url": "https://www.mbari.org/news/mbari-researchers-participate-in-new-conference-dedicated-to-midwater-science-and-technology/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-23T16:00:11.000Z"
 		}
 	]
 }
