@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-28T13:06:27.903Z",
+	"lastUpdated": "2026-06-28T16:53:53.124Z",
 	"items": [
 		{
 			"headline": "Schuman Receives 2026 Kavli Prize in Neuroscience",
@@ -8,22 +8,10 @@
 			"publishedAt": "2026-06-27T04:22:37.246Z"
 		},
 		{
-			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
-			"url": "https://www.latimes.com/environment/story/2026-06-27/water-from-boyle-heights-fire-carries-foam-into-la-river",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-27T10:00:00.000Z"
-		},
-		{
 			"headline": "Red flag warning for critical fire weather in place across swath of Southern California",
 			"url": "https://www.latimes.com/california/story/2026-06-26/red-flag-warnings-in-place-across-swath-of-southern-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-26T23:26:42.000Z"
-		},
-		{
-			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
-			"url": "https://www.latimes.com/california/story/2026-06-26/venezuela-earthquake-terrifying-terrifying-back-to-back-quakes-show-dangers-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T15:12:37.000Z"
 		},
 		{
 			"headline": "Extensive Sand Dune Loss Threatens California Coast",
@@ -38,6 +26,18 @@
 			"publishedAt": "2026-06-26T12:00:00.000Z"
 		},
 		{
+			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
+			"url": "https://www.latimes.com/environment/story/2026-06-27/water-from-boyle-heights-fire-carries-foam-into-la-river",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-27T10:00:00.000Z"
+		},
+		{
+			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
+			"url": "https://www.latimes.com/california/story/2026-06-26/venezuela-earthquake-terrifying-terrifying-back-to-back-quakes-show-dangers-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T15:12:37.000Z"
+		},
+		{
 			"headline": "EPA touts crackdown on smuggled pesticides in L.A. visit",
 			"url": "https://www.latimes.com/environment/story/2026-06-26/epa-touts-crackdown-on-smuggled-pesticides-in-la-visit",
 			"source": "Los Angeles Times",
@@ -48,6 +48,12 @@
 			"url": "https://www.latimes.com/california/story/2026-06-26/confused-about-best-by-or-sell-by-food-label-new-ca-law-clears-up-confusion",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-26T10:00:00.000Z"
+		},
+		{
+			"headline": "Some California cities pay up to $1,000 for reporting illegal fireworks. See which ones",
+			"url": "https://www.latimes.com/california/story/2026-06-25/these-california-cities-reward-reporting-illegal-fireworks",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-25T19:32:53.000Z"
 		},
 		{
 			"headline": "New fossils upend catastrophist narrative that flowering plants flourished only after dinosaur extinction",
@@ -62,10 +68,10 @@
 			"publishedAt": "2026-06-25T17:34:21.000Z"
 		},
 		{
-			"headline": "Some California cities pay up to $1,000 for reporting illegal fireworks. See which ones",
-			"url": "https://www.latimes.com/california/story/2026-06-25/these-california-cities-reward-reporting-illegal-fireworks",
+			"headline": "Drug overdoses in L.A County drop for third straight year. Here's why",
+			"url": "https://www.latimes.com/california/story/2026-06-25/drug-overdose-deaths-down-in-la-county-2025-heres-why",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T19:32:53.000Z"
+			"publishedAt": "2026-06-25T12:00:00.000Z"
 		},
 		{
 			"headline": "Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law",
@@ -74,16 +80,16 @@
 			"publishedAt": "2026-06-25T14:35:51.000Z"
 		},
 		{
-			"headline": "Drug overdoses in L.A County drop for third straight year. Here's why",
-			"url": "https://www.latimes.com/california/story/2026-06-25/drug-overdose-deaths-down-in-la-county-2025-heres-why",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T12:00:00.000Z"
-		},
-		{
 			"headline": "Venezuela earthquake: Staggering destruction signals urgent warning for California",
 			"url": "https://www.latimes.com/world-nation/story/2026-06-24/venezuela-earthquake-staggering-destruction-is-urgent-warning-for-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-25T04:57:33.000Z"
+		},
+		{
+			"headline": "San José State professor fired over Gaza protest controversy must be reinstated, arbitrator rules",
+			"url": "https://www.latimes.com/california/story/2026-06-24/san-jose-state-professor-fired-over-gaza-protest-controversy-to-be-reinstated",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-25T03:16:58.000Z"
 		},
 		{
 			"headline": "Magnitude 5.6 earthquake shakes Northern California, hitting Mendocino County",
@@ -104,14 +110,14 @@
 			"publishedAt": "2026-06-24T10:00:00.000Z"
 		},
 		{
-			"headline": "Smoke from Boyle Heights fire invades every corner of L.A. neighborhoods: 'No one is coming'",
-			"url": "https://www.latimes.com/california/story/2026-06-24/warehouse-fire-disrupts-lives-businesses-in-los-angeles",
+			"headline": "Timing of July 4th fireworks couldn't be worse for Big Bear eaglets, advocates say",
+			"url": "https://www.latimes.com/california/story/2026-06-24/timing-of-july-4-fireworks-imperils-big-bear-eaglets-advocates-say",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-24T10:00:00.000Z"
 		},
 		{
-			"headline": "Timing of July 4th fireworks couldn't be worse for Big Bear eaglets, advocates say",
-			"url": "https://www.latimes.com/california/story/2026-06-24/timing-of-july-4-fireworks-imperils-big-bear-eaglets-advocates-say",
+			"headline": "Smoke from Boyle Heights fire invades every corner of L.A. neighborhoods: 'No one is coming'",
+			"url": "https://www.latimes.com/california/story/2026-06-24/warehouse-fire-disrupts-lives-businesses-in-los-angeles",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-24T10:00:00.000Z"
 		},
@@ -120,18 +126,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-06-23/los-angeles-tries-again-to-phase-out-urban-oil-production",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-23T22:08:24.000Z"
-		},
-		{
-			"headline": "Man reportedly falls from nearly 600-foot Nevada Fall in Yosemite. An investigation is underway",
-			"url": "https://www.latimes.com/california/story/2026-06-23/man-reportedly-falls-from-nearly-600-foot-nevada-fall-in-yosemite-investigation-is-underway",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-23T22:16:48.000Z"
-		},
-		{
-			"headline": "MBARI researchers participate in new conference dedicated to midwater science and technology",
-			"url": "https://www.mbari.org/news/mbari-researchers-participate-in-new-conference-dedicated-to-midwater-science-and-technology/",
-			"source": "MBARI",
-			"publishedAt": "2026-06-23T16:00:11.000Z"
 		},
 		{
 			"headline": "Architecting a Better Lithium-Ion Battery",
@@ -144,6 +138,12 @@
 			"url": "https://ced.berkeley.edu/news/stefano-schiavon-concrete-battery-lethal-heat-florida-prisons",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-23T16:49:57.000Z"
+		},
+		{
+			"headline": "MBARI researchers participate in new conference dedicated to midwater science and technology",
+			"url": "https://www.mbari.org/news/mbari-researchers-participate-in-new-conference-dedicated-to-midwater-science-and-technology/",
+			"source": "MBARI",
+			"publishedAt": "2026-06-23T16:00:11.000Z"
 		}
 	]
 }
