@@ -1,29 +1,11 @@
 {
-	"lastUpdated": "2026-06-29T02:00:53.027Z",
+	"lastUpdated": "2026-06-29T08:46:24.018Z",
 	"items": [
-		{
-			"headline": "Big Bear eaglet's accidental 'fludge' ends in first flight; Sandy hasn't returned to nest",
-			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-28T21:10:30.000Z"
-		},
 		{
 			"headline": "Schuman Receives 2026 Kavli Prize in Neuroscience",
 			"url": "https://www.caltech.edu/about/news/schuman-receives-2026-kavli-prize-in-neuroscience",
 			"source": "Caltech",
 			"publishedAt": "2026-06-27T04:22:37.246Z"
-		},
-		{
-			"headline": "Red flag warning for critical fire weather in place across swath of Southern California",
-			"url": "https://www.latimes.com/california/story/2026-06-26/red-flag-warnings-in-place-across-swath-of-southern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T23:26:42.000Z"
-		},
-		{
-			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
-			"url": "https://www.latimes.com/california/story/2026-06-26/venezuela-earthquake-terrifying-terrifying-back-to-back-quakes-show-dangers-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T15:12:37.000Z"
 		},
 		{
 			"headline": "Extensive Sand Dune Loss Threatens California Coast",
@@ -38,10 +20,88 @@
 			"publishedAt": "2026-06-25T18:00:00.000Z"
 		},
 		{
+			"headline": "Watch: How to enjoy gel nails without fear of UV skin damage",
+			"url": "https://news.berkeley.edu/2026/06/25/watch-how-to-enjoy-gel-nails-without-fear-of-uv-skin-damage/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-25T17:34:21.000Z"
+		},
+		{
+			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
+			"url": "https://www.latimes.com/california/story/2026-06-26/venezuela-earthquake-terrifying-terrifying-back-to-back-quakes-show-dangers-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T15:12:37.000Z"
+		},
+		{
+			"headline": "Big Bear eaglet's accidental 'fludge' ends in first flight; Sandy hasn't returned to nest",
+			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-28T21:10:30.000Z"
+		},
+		{
+			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
+			"url": "https://www.latimes.com/environment/story/2026-06-27/water-from-boyle-heights-fire-carries-foam-into-la-river",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-27T10:00:00.000Z"
+		},
+		{
 			"headline": "EPA touts crackdown on smuggled pesticides in L.A. visit",
 			"url": "https://www.latimes.com/environment/story/2026-06-26/epa-touts-crackdown-on-smuggled-pesticides-in-la-visit",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-26T10:00:00.000Z"
+		},
+		{
+			"headline": "Magnitude 5.6 earthquake shakes Northern California, hitting Mendocino County",
+			"url": "https://www.latimes.com/california/story/2026-06-24/earthquake-with-preliminary-magnitude-5-6-hits-mendocino-county",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-24T15:22:59.000Z"
+		},
+		{
+			"headline": "With AI, researchers discover new way to detect sudden cardiac death risk",
+			"url": "https://news.berkeley.edu/2026/06/24/with-ai-researchers-discover-new-way-to-detect-sudden-cardiac-death-risk/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-24T15:00:00.000Z"
+		},
+		{
+			"headline": "Red flag warning for critical fire weather in place across swath of Southern California",
+			"url": "https://www.latimes.com/california/story/2026-06-26/red-flag-warnings-in-place-across-swath-of-southern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T23:26:42.000Z"
+		},
+		{
+			"headline": "Why your food scraps travel more than 100 miles — and how an L.A. council member wants to stop it",
+			"url": "https://www.latimes.com/california/story/2026-06-24/why-your-food-scraps-travel-more-than-100-miles-how-la-council-member-wants-to-stop-it",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-24T10:00:00.000Z"
+		},
+		{
+			"headline": "Timing of July 4th fireworks couldn't be worse for Big Bear eaglets, advocates say",
+			"url": "https://www.latimes.com/california/story/2026-06-24/timing-of-july-4-fireworks-imperils-big-bear-eaglets-advocates-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-24T10:00:00.000Z"
+		},
+		{
+			"headline": "Los Angeles tries again to phase out urban oil production",
+			"url": "https://www.latimes.com/environment/story/2026-06-23/los-angeles-tries-again-to-phase-out-urban-oil-production",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-23T22:08:24.000Z"
+		},
+		{
+			"headline": "Man reportedly falls from nearly 600-foot Nevada Fall in Yosemite. An investigation is underway",
+			"url": "https://www.latimes.com/california/story/2026-06-23/man-reportedly-falls-from-nearly-600-foot-nevada-fall-in-yosemite-investigation-is-underway",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-23T22:16:48.000Z"
+		},
+		{
+			"headline": "Hazardous waste removal at Garden Grove's GKN Aerospace starts Monday. Here's what to expect",
+			"url": "https://www.latimes.com/california/story/2026-06-27/oc-begins-hazardous-waste-cleanup-at-garden-grove-gkn-aerospace-site",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-27T19:29:28.000Z"
+		},
+		{
+			"headline": "Venezuela earthquake: Staggering destruction signals urgent warning for California",
+			"url": "https://www.latimes.com/world-nation/story/2026-06-24/venezuela-earthquake-staggering-destruction-is-urgent-warning-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-25T04:57:33.000Z"
 		},
 		{
 			"headline": "Stop tossing good food: New California law rewrites 'best by' and 'use by' rules",
@@ -60,54 +120,6 @@
 			"url": "https://www.latimes.com/california/story/2026-06-25/drug-overdose-deaths-down-in-la-county-2025-heres-why",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-25T12:00:00.000Z"
-		},
-		{
-			"headline": "Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law",
-			"url": "https://www.latimes.com/politics/story/2026-06-25/gun-owners-may-carry-weapon-into-stores-supreme-court-rules-rejecting-california-law",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T14:35:51.000Z"
-		},
-		{
-			"headline": "Venezuela earthquake: Staggering destruction signals urgent warning for California",
-			"url": "https://www.latimes.com/world-nation/story/2026-06-24/venezuela-earthquake-staggering-destruction-is-urgent-warning-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T04:57:33.000Z"
-		},
-		{
-			"headline": "Magnitude 5.6 earthquake shakes Northern California, hitting Mendocino County",
-			"url": "https://www.latimes.com/california/story/2026-06-24/earthquake-with-preliminary-magnitude-5-6-hits-mendocino-county",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-24T15:22:59.000Z"
-		},
-		{
-			"headline": "With AI, researchers discover new way to detect sudden cardiac death risk",
-			"url": "https://news.berkeley.edu/2026/06/24/with-ai-researchers-discover-new-way-to-detect-sudden-cardiac-death-risk/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-24T15:00:00.000Z"
-		},
-		{
-			"headline": "Why your food scraps travel more than 100 miles — and how an L.A. council member wants to stop it",
-			"url": "https://www.latimes.com/california/story/2026-06-24/why-your-food-scraps-travel-more-than-100-miles-how-la-council-member-wants-to-stop-it",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-24T10:00:00.000Z"
-		},
-		{
-			"headline": "Timing of July 4th fireworks couldn't be worse for Big Bear eaglets, advocates say",
-			"url": "https://www.latimes.com/california/story/2026-06-24/timing-of-july-4-fireworks-imperils-big-bear-eaglets-advocates-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-24T10:00:00.000Z"
-		},
-		{
-			"headline": "Man reportedly falls from nearly 600-foot Nevada Fall in Yosemite. An investigation is underway",
-			"url": "https://www.latimes.com/california/story/2026-06-23/man-reportedly-falls-from-nearly-600-foot-nevada-fall-in-yosemite-investigation-is-underway",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-23T22:16:48.000Z"
-		},
-		{
-			"headline": "Los Angeles tries again to phase out urban oil production",
-			"url": "https://www.latimes.com/environment/story/2026-06-23/los-angeles-tries-again-to-phase-out-urban-oil-production",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-23T22:08:24.000Z"
 		}
 	]
 }
