@@ -1,17 +1,17 @@
 {
-	"lastUpdated": "2026-06-30T07:40:10.341Z",
+	"lastUpdated": "2026-06-30T10:46:13.324Z",
 	"items": [
+		{
+			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
+			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T10:00:00.000Z"
+		},
 		{
 			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
 			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T00:30:43.000Z"
-		},
-		{
-			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
-			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
-			"source": "Caltech",
-			"publishedAt": "2026-06-29T17:41:06.337Z"
 		},
 		{
 			"headline": "One mountain lion changed the food web in a California suburb, study finds",
@@ -20,10 +20,28 @@
 			"publishedAt": "2026-06-29T17:13:43.000Z"
 		},
 		{
+			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
+			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
+			"source": "Caltech",
+			"publishedAt": "2026-06-29T17:41:06.337Z"
+		},
+		{
 			"headline": "NSF Research Fellowships Awarded to Caltech Students and Alumni",
 			"url": "https://www.caltech.edu/about/news/nsf-research-fellowships-awarded-to-caltech-students-and-alumni",
 			"source": "Caltech",
 			"publishedAt": "2026-06-29T15:44:08.833Z"
+		},
+		{
+			"headline": "What I Learned by Fishing Without Rod, Reel, or Hook",
+			"url": "https://baynature.org/2026/06/29/science-nature/what-i-learned-by-fishing-without-rod-reel-or-hook/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-06-29T16:46:09.000Z"
+		},
+		{
+			"headline": "Pay Dirt: How Colonialism Left Its Mark on the Soil of the American Southwest",
+			"url": "https://eos.org/articles/pay-dirt-how-colonialism-left-its-mark-on-the-soil-of-the-american-southwest",
+			"source": "Eos",
+			"publishedAt": "2026-06-29T13:07:01.000Z"
 		},
 		{
 			"headline": "UC Berkeley will launch new Nancy Pelosi Institute focused on strengthening democracy",
@@ -32,16 +50,22 @@
 			"publishedAt": "2026-06-29T12:00:00.000Z"
 		},
 		{
+			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
+			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-28T21:10:30.000Z"
+		},
+		{
 			"headline": "Schuman Receives 2026 Kavli Prize in Neuroscience",
 			"url": "https://www.caltech.edu/about/news/schuman-receives-2026-kavli-prize-in-neuroscience",
 			"source": "Caltech",
 			"publishedAt": "2026-06-27T04:22:37.246Z"
 		},
 		{
-			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
-			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-28T21:10:30.000Z"
+			"headline": "Extensive Sand Dune Loss Threatens California Coast",
+			"url": "https://eos.org/research-spotlights/extensive-sand-dune-loss-threatens-california-coast",
+			"source": "Eos",
+			"publishedAt": "2026-06-26T12:02:00.000Z"
 		},
 		{
 			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
@@ -50,10 +74,28 @@
 			"publishedAt": "2026-06-26T15:12:37.000Z"
 		},
 		{
-			"headline": "Extensive Sand Dune Loss Threatens California Coast",
-			"url": "https://eos.org/research-spotlights/extensive-sand-dune-loss-threatens-california-coast",
-			"source": "Eos",
-			"publishedAt": "2026-06-26T12:02:00.000Z"
+			"headline": "Trump administration takes aim at California Coastal Commission, sparking alarm",
+			"url": "https://www.latimes.com/california/story/2026-06-26/trump-administration-takes-aim-california-coastal-commission",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T20:53:44.000Z"
+		},
+		{
+			"headline": "Overgrown lots in Altadena, Palisades pose fire risk. L.A. County is pushing to clear them",
+			"url": "https://www.latimes.com/california/story/2026-06-26/l-a-county-moves-to-clear-vegetation-from-razed-lots-in-palisades-eaton-fire-zones",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T19:12:07.000Z"
+		},
+		{
+			"headline": "EPA touts crackdown on smuggled pesticides in L.A. visit",
+			"url": "https://www.latimes.com/environment/story/2026-06-26/epa-touts-crackdown-on-smuggled-pesticides-in-la-visit",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T10:00:00.000Z"
+		},
+		{
+			"headline": "Stop tossing good food: New California law rewrites 'best by' and 'use by' rules",
+			"url": "https://www.latimes.com/california/story/2026-06-26/confused-about-best-by-or-sell-by-food-label-new-ca-law-clears-up-confusion",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T10:00:00.000Z"
 		},
 		{
 			"headline": "New fossils upend catastrophist narrative that flowering plants flourished only after dinosaur extinction",
@@ -68,58 +110,16 @@
 			"publishedAt": "2026-06-25T17:34:21.000Z"
 		},
 		{
-			"headline": "Venezuela earthquake: Staggering destruction signals urgent warning for California",
-			"url": "https://www.latimes.com/world-nation/story/2026-06-24/venezuela-earthquake-staggering-destruction-is-urgent-warning-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T04:57:33.000Z"
-		},
-		{
-			"headline": "Magnitude 5.6 earthquake shakes Northern California, hitting Mendocino County",
-			"url": "https://www.latimes.com/california/story/2026-06-24/earthquake-with-preliminary-magnitude-5-6-hits-mendocino-county",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-24T15:22:59.000Z"
-		},
-		{
-			"headline": "With AI, researchers discover new way to detect sudden cardiac death risk",
-			"url": "https://news.berkeley.edu/2026/06/24/with-ai-researchers-discover-new-way-to-detect-sudden-cardiac-death-risk/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-24T15:00:00.000Z"
-		},
-		{
-			"headline": "Pay Dirt: How Colonialism Left Its Mark on the Soil of the American Southwest",
-			"url": "https://eos.org/articles/pay-dirt-how-colonialism-left-its-mark-on-the-soil-of-the-american-southwest",
-			"source": "Eos",
-			"publishedAt": "2026-06-29T13:07:01.000Z"
-		},
-		{
-			"headline": "Stop tossing good food: New California law rewrites 'best by' and 'use by' rules",
-			"url": "https://www.latimes.com/california/story/2026-06-26/confused-about-best-by-or-sell-by-food-label-new-ca-law-clears-up-confusion",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T10:00:00.000Z"
-		},
-		{
-			"headline": "Some California cities pay up to $1,000 for reporting illegal fireworks. See which ones",
-			"url": "https://www.latimes.com/california/story/2026-06-25/these-california-cities-reward-reporting-illegal-fireworks",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T19:32:53.000Z"
-		},
-		{
-			"headline": "Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law",
-			"url": "https://www.latimes.com/politics/story/2026-06-25/gun-owners-may-carry-weapon-into-stores-supreme-court-rules-rejecting-california-law",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T14:35:51.000Z"
-		},
-		{
 			"headline": "Drug overdoses in L.A County drop for third straight year. Here's why",
 			"url": "https://www.latimes.com/california/story/2026-06-25/drug-overdose-deaths-down-in-la-county-2025-heres-why",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-25T12:00:00.000Z"
 		},
 		{
-			"headline": "EPA touts crackdown on smuggled pesticides in L.A. visit",
-			"url": "https://www.latimes.com/environment/story/2026-06-26/epa-touts-crackdown-on-smuggled-pesticides-in-la-visit",
+			"headline": "Venezuela earthquake: Staggering destruction signals urgent warning for California",
+			"url": "https://www.latimes.com/world-nation/story/2026-06-24/venezuela-earthquake-staggering-destruction-is-urgent-warning-for-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T10:00:00.000Z"
+			"publishedAt": "2026-06-25T04:57:33.000Z"
 		},
 		{
 			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
@@ -134,10 +134,22 @@
 			"publishedAt": "2026-06-26T23:26:42.000Z"
 		},
 		{
-			"headline": "Trump administration takes aim at California Coastal Commission, sparking alarm",
-			"url": "https://www.latimes.com/california/story/2026-06-26/trump-administration-takes-aim-california-coastal-commission",
+			"headline": "Possibly 'distracted' lifeguard drives over sunbather in Half Moon Bay, officials say",
+			"url": "https://www.latimes.com/california/story/2026-06-26/possibly-distracted-lifeguard-drives-over-sunbather-in-half-moon-bay",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T20:53:44.000Z"
+			"publishedAt": "2026-06-26T21:40:26.000Z"
+		},
+		{
+			"headline": "Some California cities pay up to $1,000 for reporting illegal fireworks. See which ones",
+			"url": "https://www.latimes.com/california/story/2026-06-25/these-california-cities-reward-reporting-illegal-fireworks",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-25T19:32:53.000Z"
+		},
+		{
+			"headline": "Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law",
+			"url": "https://www.latimes.com/politics/story/2026-06-25/gun-owners-may-carry-weapon-into-stores-supreme-court-rules-rejecting-california-law",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-25T14:35:51.000Z"
 		}
 	]
 }
