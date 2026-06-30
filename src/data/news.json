@@ -1,17 +1,17 @@
 {
-	"lastUpdated": "2026-06-30T10:46:13.324Z",
+	"lastUpdated": "2026-06-30T13:48:00.969Z",
 	"items": [
-		{
-			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
-			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
-		},
 		{
 			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
 			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T00:30:43.000Z"
+		},
+		{
+			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
+			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
 			"headline": "One mountain lion changed the food web in a California suburb, study finds",
@@ -32,28 +32,10 @@
 			"publishedAt": "2026-06-29T15:44:08.833Z"
 		},
 		{
-			"headline": "What I Learned by Fishing Without Rod, Reel, or Hook",
-			"url": "https://baynature.org/2026/06/29/science-nature/what-i-learned-by-fishing-without-rod-reel-or-hook/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-06-29T16:46:09.000Z"
-		},
-		{
-			"headline": "Pay Dirt: How Colonialism Left Its Mark on the Soil of the American Southwest",
-			"url": "https://eos.org/articles/pay-dirt-how-colonialism-left-its-mark-on-the-soil-of-the-american-southwest",
-			"source": "Eos",
-			"publishedAt": "2026-06-29T13:07:01.000Z"
-		},
-		{
-			"headline": "UC Berkeley will launch new Nancy Pelosi Institute focused on strengthening democracy",
-			"url": "https://news.berkeley.edu/2026/06/29/uc-berkeley-will-launch-new-nancy-pelosi-institute-focused-on-strengthening-democracy/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-29T12:00:00.000Z"
-		},
-		{
-			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
-			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
+			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
+			"url": "https://www.latimes.com/environment/story/2026-06-27/water-from-boyle-heights-fire-carries-foam-into-la-river",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-28T21:10:30.000Z"
+			"publishedAt": "2026-06-27T10:00:00.000Z"
 		},
 		{
 			"headline": "Schuman Receives 2026 Kavli Prize in Neuroscience",
@@ -62,16 +44,28 @@
 			"publishedAt": "2026-06-27T04:22:37.246Z"
 		},
 		{
+			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
+			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-28T21:10:30.000Z"
+		},
+		{
 			"headline": "Extensive Sand Dune Loss Threatens California Coast",
 			"url": "https://eos.org/research-spotlights/extensive-sand-dune-loss-threatens-california-coast",
 			"source": "Eos",
 			"publishedAt": "2026-06-26T12:02:00.000Z"
 		},
 		{
-			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
-			"url": "https://www.latimes.com/california/story/2026-06-26/venezuela-earthquake-terrifying-terrifying-back-to-back-quakes-show-dangers-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T15:12:37.000Z"
+			"headline": "Pay Dirt: How Colonialism Left Its Mark on the Soil of the American Southwest",
+			"url": "https://eos.org/articles/pay-dirt-how-colonialism-left-its-mark-on-the-soil-of-the-american-southwest",
+			"source": "Eos",
+			"publishedAt": "2026-06-29T13:07:01.000Z"
+		},
+		{
+			"headline": "New fossils upend catastrophist narrative that flowering plants flourished only after dinosaur extinction",
+			"url": "https://news.berkeley.edu/2026/06/25/new-fossils-upend-catastrophist-narrative-that-flowering-plants-flourished-only-after-dinosaur-extinction/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-25T18:00:00.000Z"
 		},
 		{
 			"headline": "Trump administration takes aim at California Coastal Commission, sparking alarm",
@@ -80,10 +74,10 @@
 			"publishedAt": "2026-06-26T20:53:44.000Z"
 		},
 		{
-			"headline": "Overgrown lots in Altadena, Palisades pose fire risk. L.A. County is pushing to clear them",
-			"url": "https://www.latimes.com/california/story/2026-06-26/l-a-county-moves-to-clear-vegetation-from-razed-lots-in-palisades-eaton-fire-zones",
+			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
+			"url": "https://www.latimes.com/california/story/2026-06-26/venezuela-earthquake-terrifying-terrifying-back-to-back-quakes-show-dangers-for-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T19:12:07.000Z"
+			"publishedAt": "2026-06-26T15:12:37.000Z"
 		},
 		{
 			"headline": "EPA touts crackdown on smuggled pesticides in L.A. visit",
@@ -98,16 +92,28 @@
 			"publishedAt": "2026-06-26T10:00:00.000Z"
 		},
 		{
-			"headline": "New fossils upend catastrophist narrative that flowering plants flourished only after dinosaur extinction",
-			"url": "https://news.berkeley.edu/2026/06/25/new-fossils-upend-catastrophist-narrative-that-flowering-plants-flourished-only-after-dinosaur-extinction/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-25T18:00:00.000Z"
+			"headline": "Red flag warning for critical fire weather in place across swath of Southern California",
+			"url": "https://www.latimes.com/california/story/2026-06-26/red-flag-warnings-in-place-across-swath-of-southern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T23:26:42.000Z"
 		},
 		{
-			"headline": "Watch: How to enjoy gel nails without fear of UV skin damage",
-			"url": "https://news.berkeley.edu/2026/06/25/watch-how-to-enjoy-gel-nails-without-fear-of-uv-skin-damage/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-25T17:34:21.000Z"
+			"headline": "Overgrown lots in Altadena, Palisades pose fire risk. L.A. County is pushing to clear them",
+			"url": "https://www.latimes.com/california/story/2026-06-26/l-a-county-moves-to-clear-vegetation-from-razed-lots-in-palisades-eaton-fire-zones",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T19:12:07.000Z"
+		},
+		{
+			"headline": "Some California cities pay up to $1,000 for reporting illegal fireworks. See which ones",
+			"url": "https://www.latimes.com/california/story/2026-06-25/these-california-cities-reward-reporting-illegal-fireworks",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-25T19:32:53.000Z"
+		},
+		{
+			"headline": "Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law",
+			"url": "https://www.latimes.com/politics/story/2026-06-25/gun-owners-may-carry-weapon-into-stores-supreme-court-rules-rejecting-california-law",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-25T14:35:51.000Z"
 		},
 		{
 			"headline": "Drug overdoses in L.A County drop for third straight year. Here's why",
@@ -122,34 +128,10 @@
 			"publishedAt": "2026-06-25T04:57:33.000Z"
 		},
 		{
-			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
-			"url": "https://www.latimes.com/environment/story/2026-06-27/water-from-boyle-heights-fire-carries-foam-into-la-river",
+			"headline": "Teen falls 50 feet on Disneyland ride with no belts or lap bars; state finds no operational issues",
+			"url": "https://www.latimes.com/california/story/2026-06-24/teen-falls-50-feet-on-disneyland-ride-with-no-belts-or-lap-bars-state-finds-no-operational-issues",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-27T10:00:00.000Z"
-		},
-		{
-			"headline": "Red flag warning for critical fire weather in place across swath of Southern California",
-			"url": "https://www.latimes.com/california/story/2026-06-26/red-flag-warnings-in-place-across-swath-of-southern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T23:26:42.000Z"
-		},
-		{
-			"headline": "Possibly 'distracted' lifeguard drives over sunbather in Half Moon Bay, officials say",
-			"url": "https://www.latimes.com/california/story/2026-06-26/possibly-distracted-lifeguard-drives-over-sunbather-in-half-moon-bay",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T21:40:26.000Z"
-		},
-		{
-			"headline": "Some California cities pay up to $1,000 for reporting illegal fireworks. See which ones",
-			"url": "https://www.latimes.com/california/story/2026-06-25/these-california-cities-reward-reporting-illegal-fireworks",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T19:32:53.000Z"
-		},
-		{
-			"headline": "Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law",
-			"url": "https://www.latimes.com/politics/story/2026-06-25/gun-owners-may-carry-weapon-into-stores-supreme-court-rules-rejecting-california-law",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T14:35:51.000Z"
+			"publishedAt": "2026-06-24T23:59:47.000Z"
 		}
 	]
 }
