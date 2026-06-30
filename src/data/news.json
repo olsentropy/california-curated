@@ -1,23 +1,11 @@
 {
-	"lastUpdated": "2026-06-30T17:44:40.424Z",
+	"lastUpdated": "2026-06-30T21:20:56.108Z",
 	"items": [
 		{
 			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
 			"url": "https://news.berkeley.edu/2026/06/30/uc-berkeley-quantum-computing-chip-to-be-buried-in-national-time-capsule-celebrating-americas-250th-birthday/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-30T15:00:00.000Z"
-		},
-		{
-			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
-			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
-		},
-		{
-			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
-			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T00:30:43.000Z"
 		},
 		{
 			"headline": "One mountain lion changed the food web in a California suburb, study finds",
@@ -32,10 +20,22 @@
 			"publishedAt": "2026-06-29T17:41:06.337Z"
 		},
 		{
-			"headline": "What I Learned by Fishing Without Rod, Reel, or Hook",
-			"url": "https://baynature.org/2026/06/29/science-nature/what-i-learned-by-fishing-without-rod-reel-or-hook/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-06-29T16:46:09.000Z"
+			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
+			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T00:30:43.000Z"
+		},
+		{
+			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
+			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T10:00:00.000Z"
+		},
+		{
+			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
+			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
 			"headline": "NSF Research Fellowships Awarded to Caltech Students and Alumni",
@@ -44,28 +44,16 @@
 			"publishedAt": "2026-06-29T15:44:08.833Z"
 		},
 		{
-			"headline": "Nancy Pelosi's next challenge: Building a nonpartisan democracy institute at UC Berkeley",
-			"url": "https://www.latimes.com/california/story/2026-06-29/nancy-pelosis-uc-berkeley-institute-democracy-institute",
+			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
+			"url": "https://www.latimes.com/environment/story/2026-06-27/water-from-boyle-heights-fire-carries-foam-into-la-river",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-29T09:00:00.000Z"
+			"publishedAt": "2026-06-27T10:00:00.000Z"
 		},
 		{
 			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
 			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-28T21:10:30.000Z"
-		},
-		{
-			"headline": "Schuman Receives 2026 Kavli Prize in Neuroscience",
-			"url": "https://www.caltech.edu/about/news/schuman-receives-2026-kavli-prize-in-neuroscience",
-			"source": "Caltech",
-			"publishedAt": "2026-06-27T04:22:37.246Z"
-		},
-		{
-			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
-			"url": "https://www.latimes.com/environment/story/2026-06-27/water-from-boyle-heights-fire-carries-foam-into-la-river",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-27T10:00:00.000Z"
 		},
 		{
 			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
@@ -92,34 +80,46 @@
 			"publishedAt": "2026-06-26T10:00:00.000Z"
 		},
 		{
+			"headline": "Schuman Receives 2026 Kavli Prize in Neuroscience",
+			"url": "https://www.caltech.edu/about/news/schuman-receives-2026-kavli-prize-in-neuroscience",
+			"source": "Caltech",
+			"publishedAt": "2026-06-27T04:22:37.246Z"
+		},
+		{
 			"headline": "New fossils upend catastrophist narrative that flowering plants flourished only after dinosaur extinction",
 			"url": "https://news.berkeley.edu/2026/06/25/new-fossils-upend-catastrophist-narrative-that-flowering-plants-flourished-only-after-dinosaur-extinction/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-25T18:00:00.000Z"
 		},
 		{
-			"headline": "Venezuelan Earthquakes Struck in a Complex Zone of Faults",
-			"url": "https://eos.org/research-and-developments/venezuelan-earthquakes-struck-in-a-complex-zone-of-faults",
-			"source": "Eos",
-			"publishedAt": "2026-06-25T15:16:41.000Z"
+			"headline": "Gun owners may carry a weapon into stores, Supreme Court rules, rejecting a California law",
+			"url": "https://www.latimes.com/politics/story/2026-06-25/gun-owners-may-carry-weapon-into-stores-supreme-court-rules-rejecting-california-law",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-25T14:35:51.000Z"
 		},
 		{
-			"headline": "Drug overdoses in L.A County drop for third straight year. Here's why",
-			"url": "https://www.latimes.com/california/story/2026-06-25/drug-overdose-deaths-down-in-la-county-2025-heres-why",
+			"headline": "Trump administration takes aim at California Coastal Commission, sparking alarm",
+			"url": "https://www.latimes.com/california/story/2026-06-26/trump-administration-takes-aim-california-coastal-commission",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T12:00:00.000Z"
+			"publishedAt": "2026-06-26T20:53:44.000Z"
 		},
 		{
-			"headline": "Venezuela earthquake: Staggering destruction signals urgent warning for California",
-			"url": "https://www.latimes.com/world-nation/story/2026-06-24/venezuela-earthquake-staggering-destruction-is-urgent-warning-for-california",
+			"headline": "Hazardous waste removal at Garden Grove's GKN Aerospace starts Monday. Here's what to expect",
+			"url": "https://www.latimes.com/california/story/2026-06-27/oc-begins-hazardous-waste-cleanup-at-garden-grove-gkn-aerospace-site",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T04:57:33.000Z"
+			"publishedAt": "2026-06-27T19:29:28.000Z"
 		},
 		{
-			"headline": "San José State professor fired over Gaza protest controversy must be reinstated, arbitrator rules",
-			"url": "https://www.latimes.com/california/story/2026-06-24/san-jose-state-professor-fired-over-gaza-protest-controversy-to-be-reinstated",
+			"headline": "Overgrown lots in Altadena, Palisades pose fire risk. L.A. County is pushing to clear them",
+			"url": "https://www.latimes.com/california/story/2026-06-26/l-a-county-moves-to-clear-vegetation-from-razed-lots-in-palisades-eaton-fire-zones",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T03:16:58.000Z"
+			"publishedAt": "2026-06-26T19:12:07.000Z"
+		},
+		{
+			"headline": "Cleanup of rotting meat, scorched debris begins at Boyle Heights cold storage warehouse",
+			"url": "https://www.latimes.com/california/story/2026-06-26/boyle-heights-cold-storage-cleanup-beings-after-days-long-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T18:54:00.000Z"
 		}
 	]
 }
