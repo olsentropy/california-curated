@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-06-30T01:55:32.417Z",
+	"lastUpdated": "2026-06-30T07:40:10.341Z",
 	"items": [
 		{
 			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
@@ -24,6 +24,12 @@
 			"url": "https://www.caltech.edu/about/news/nsf-research-fellowships-awarded-to-caltech-students-and-alumni",
 			"source": "Caltech",
 			"publishedAt": "2026-06-29T15:44:08.833Z"
+		},
+		{
+			"headline": "UC Berkeley will launch new Nancy Pelosi Institute focused on strengthening democracy",
+			"url": "https://news.berkeley.edu/2026/06/29/uc-berkeley-will-launch-new-nancy-pelosi-institute-focused-on-strengthening-democracy/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-29T12:00:00.000Z"
 		},
 		{
 			"headline": "Schuman Receives 2026 Kavli Prize in Neuroscience",
@@ -62,12 +68,6 @@
 			"publishedAt": "2026-06-25T17:34:21.000Z"
 		},
 		{
-			"headline": "Drug overdoses in L.A County drop for third straight year. Here's why",
-			"url": "https://www.latimes.com/california/story/2026-06-25/drug-overdose-deaths-down-in-la-county-2025-heres-why",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T12:00:00.000Z"
-		},
-		{
 			"headline": "Venezuela earthquake: Staggering destruction signals urgent warning for California",
 			"url": "https://www.latimes.com/world-nation/story/2026-06-24/venezuela-earthquake-staggering-destruction-is-urgent-warning-for-california",
 			"source": "Los Angeles Times",
@@ -86,28 +86,10 @@
 			"publishedAt": "2026-06-24T15:00:00.000Z"
 		},
 		{
-			"headline": "Possibly 'distracted' lifeguard drives over sunbather in Half Moon Bay, officials say",
-			"url": "https://www.latimes.com/california/story/2026-06-26/possibly-distracted-lifeguard-drives-over-sunbather-in-half-moon-bay",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T21:40:26.000Z"
-		},
-		{
-			"headline": "Trump administration takes aim at California Coastal Commission, sparking alarm",
-			"url": "https://www.latimes.com/california/story/2026-06-26/trump-administration-takes-aim-california-coastal-commission",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T20:53:44.000Z"
-		},
-		{
-			"headline": "Overgrown lots in Altadena, Palisades pose fire risk. L.A. County is pushing to clear them",
-			"url": "https://www.latimes.com/california/story/2026-06-26/l-a-county-moves-to-clear-vegetation-from-razed-lots-in-palisades-eaton-fire-zones",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T19:12:07.000Z"
-		},
-		{
-			"headline": "EPA touts crackdown on smuggled pesticides in L.A. visit",
-			"url": "https://www.latimes.com/environment/story/2026-06-26/epa-touts-crackdown-on-smuggled-pesticides-in-la-visit",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T10:00:00.000Z"
+			"headline": "Pay Dirt: How Colonialism Left Its Mark on the Soil of the American Southwest",
+			"url": "https://eos.org/articles/pay-dirt-how-colonialism-left-its-mark-on-the-soil-of-the-american-southwest",
+			"source": "Eos",
+			"publishedAt": "2026-06-29T13:07:01.000Z"
 		},
 		{
 			"headline": "Stop tossing good food: New California law rewrites 'best by' and 'use by' rules",
@@ -128,16 +110,34 @@
 			"publishedAt": "2026-06-25T14:35:51.000Z"
 		},
 		{
-			"headline": "Red flag warning for critical fire weather in place across swath of Southern California",
-			"url": "https://www.latimes.com/california/story/2026-06-26/red-flag-warnings-in-place-across-swath-of-southern-california",
+			"headline": "Drug overdoses in L.A County drop for third straight year. Here's why",
+			"url": "https://www.latimes.com/california/story/2026-06-25/drug-overdose-deaths-down-in-la-county-2025-heres-why",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T23:26:42.000Z"
+			"publishedAt": "2026-06-25T12:00:00.000Z"
+		},
+		{
+			"headline": "EPA touts crackdown on smuggled pesticides in L.A. visit",
+			"url": "https://www.latimes.com/environment/story/2026-06-26/epa-touts-crackdown-on-smuggled-pesticides-in-la-visit",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T10:00:00.000Z"
 		},
 		{
 			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
 			"url": "https://www.latimes.com/environment/story/2026-06-27/water-from-boyle-heights-fire-carries-foam-into-la-river",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-27T10:00:00.000Z"
+		},
+		{
+			"headline": "Red flag warning for critical fire weather in place across swath of Southern California",
+			"url": "https://www.latimes.com/california/story/2026-06-26/red-flag-warnings-in-place-across-swath-of-southern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T23:26:42.000Z"
+		},
+		{
+			"headline": "Trump administration takes aim at California Coastal Commission, sparking alarm",
+			"url": "https://www.latimes.com/california/story/2026-06-26/trump-administration-takes-aim-california-coastal-commission",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T20:53:44.000Z"
 		}
 	]
 }
