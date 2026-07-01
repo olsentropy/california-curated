@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-07-01T02:00:54.641Z",
+	"lastUpdated": "2026-07-01T08:00:20.963Z",
 	"items": [
+		{
+			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
+			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-01T02:14:34.000Z"
+		},
 		{
 			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
 			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
@@ -20,34 +26,16 @@
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
-			"headline": "One mountain lion changed the food web in a California suburb, study finds",
-			"url": "https://news.mongabay.com/2026/06/one-mountain-lion-changed-the-food-web-in-a-california-suburb-study-finds/",
-			"source": "Mongabay",
-			"publishedAt": "2026-06-29T17:13:43.000Z"
-		},
-		{
 			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
 			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T00:30:43.000Z"
 		},
 		{
-			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
-			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
-			"source": "Caltech",
-			"publishedAt": "2026-06-29T17:41:06.337Z"
-		},
-		{
-			"headline": "Schuman Receives 2026 Kavli Prize in Neuroscience",
-			"url": "https://www.caltech.edu/about/news/schuman-receives-2026-kavli-prize-in-neuroscience",
-			"source": "Caltech",
-			"publishedAt": "2026-06-27T04:22:37.246Z"
-		},
-		{
-			"headline": "NSF Research Fellowships Awarded to Caltech Students and Alumni",
-			"url": "https://www.caltech.edu/about/news/nsf-research-fellowships-awarded-to-caltech-students-and-alumni",
-			"source": "Caltech",
-			"publishedAt": "2026-06-29T15:44:08.833Z"
+			"headline": "One mountain lion changed the food web in a California suburb, study finds",
+			"url": "https://news.mongabay.com/2026/06/one-mountain-lion-changed-the-food-web-in-a-california-suburb-study-finds/",
+			"source": "Mongabay",
+			"publishedAt": "2026-06-29T17:13:43.000Z"
 		},
 		{
 			"headline": "What I Learned by Fishing Without Rod, Reel, or Hook",
@@ -56,16 +44,34 @@
 			"publishedAt": "2026-06-29T16:46:09.000Z"
 		},
 		{
+			"headline": "NSF Research Fellowships Awarded to Caltech Students and Alumni",
+			"url": "https://www.caltech.edu/about/news/nsf-research-fellowships-awarded-to-caltech-students-and-alumni",
+			"source": "Caltech",
+			"publishedAt": "2026-06-29T15:44:08.833Z"
+		},
+		{
+			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
+			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
+			"source": "Caltech",
+			"publishedAt": "2026-06-29T17:41:06.337Z"
+		},
+		{
+			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
+			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-28T21:10:30.000Z"
+		},
+		{
+			"headline": "Schuman Receives 2026 Kavli Prize in Neuroscience",
+			"url": "https://www.caltech.edu/about/news/schuman-receives-2026-kavli-prize-in-neuroscience",
+			"source": "Caltech",
+			"publishedAt": "2026-06-27T04:22:37.246Z"
+		},
+		{
 			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
 			"url": "https://www.latimes.com/california/story/2026-06-26/venezuela-earthquake-terrifying-terrifying-back-to-back-quakes-show-dangers-for-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-26T15:12:37.000Z"
-		},
-		{
-			"headline": "Extensive Sand Dune Loss Threatens California Coast",
-			"url": "https://eos.org/research-spotlights/extensive-sand-dune-loss-threatens-california-coast",
-			"source": "Eos",
-			"publishedAt": "2026-06-26T12:02:00.000Z"
 		},
 		{
 			"headline": "Trump administration takes aim at California Coastal Commission, sparking alarm",
@@ -74,10 +80,10 @@
 			"publishedAt": "2026-06-26T20:53:44.000Z"
 		},
 		{
-			"headline": "EPA touts crackdown on smuggled pesticides in L.A. visit",
-			"url": "https://www.latimes.com/environment/story/2026-06-26/epa-touts-crackdown-on-smuggled-pesticides-in-la-visit",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T10:00:00.000Z"
+			"headline": "Extensive Sand Dune Loss Threatens California Coast",
+			"url": "https://eos.org/research-spotlights/extensive-sand-dune-loss-threatens-california-coast",
+			"source": "Eos",
+			"publishedAt": "2026-06-26T12:02:00.000Z"
 		},
 		{
 			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
@@ -92,22 +98,22 @@
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
-			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
-			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
+			"headline": "EPA touts crackdown on smuggled pesticides in L.A. visit",
+			"url": "https://www.latimes.com/environment/story/2026-06-26/epa-touts-crackdown-on-smuggled-pesticides-in-la-visit",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-28T21:10:30.000Z"
+			"publishedAt": "2026-06-26T10:00:00.000Z"
+		},
+		{
+			"headline": "A Labor of Love: <I>The Renaissance of Astronomy</I> by Noel Swerdlow Has Been Published Posthumously with Help from Friends and Colleagues",
+			"url": "https://www.caltech.edu/about/news/a-labor-of-love-ithe-renaissance-of-astronomyi-by-noel-swerdlow-has-been-published-posthumously-with-help-from-friends-and-colleagues",
+			"source": "Caltech",
+			"publishedAt": "2026-06-30T15:09:49.832Z"
 		},
 		{
 			"headline": "New fossils upend catastrophist narrative that flowering plants flourished only after dinosaur extinction",
 			"url": "https://news.berkeley.edu/2026/06/25/new-fossils-upend-catastrophist-narrative-that-flowering-plants-flourished-only-after-dinosaur-extinction/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-25T18:00:00.000Z"
-		},
-		{
-			"headline": "UC Berkeley will launch new Nancy Pelosi Institute focused on strengthening democracy",
-			"url": "https://news.berkeley.edu/2026/06/29/uc-berkeley-will-launch-new-nancy-pelosi-institute-focused-on-strengthening-democracy/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-29T12:00:00.000Z"
 		}
 	]
 }
