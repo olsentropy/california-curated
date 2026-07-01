@@ -1,11 +1,23 @@
 {
-	"lastUpdated": "2026-07-01T13:58:49.087Z",
+	"lastUpdated": "2026-07-01T17:44:45.262Z",
 	"items": [
 		{
-			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
-			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-01T02:14:34.000Z"
+			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
+			"url": "https://news.mongabay.com/short-article/2026/07/a-marine-heat-wave-caused-seabird-deaths-off-california-el-nino-could-worsen-the-die-off/",
+			"source": "Mongabay",
+			"publishedAt": "2026-07-01T16:16:06.000Z"
+		},
+		{
+			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
+			"url": "https://news.berkeley.edu/2026/07/01/scientists-discover-how-algae-colonized-corals-a-symbiosis-that-fueled-the-growth-of-the-worlds-reefs/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-01T15:00:00.000Z"
+		},
+		{
+			"headline": "Caltech Welcomes Ray Jayawardhana as Tenth President",
+			"url": "https://www.caltech.edu/about/news/caltech-welcomes-ray-jayawardhana-as-tenth-president",
+			"source": "Caltech",
+			"publishedAt": "2026-07-01T14:08:35.463Z"
 		},
 		{
 			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
@@ -14,16 +26,34 @@
 			"publishedAt": "2026-06-30T15:00:00.000Z"
 		},
 		{
-			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
-			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
+			"headline": "A Labor of Love: <I>The Renaissance of Astronomy</I> by Noel Swerdlow Has Been Published Posthumously with Help from Friends and Colleagues",
+			"url": "https://www.caltech.edu/about/news/a-labor-of-love-ithe-renaissance-of-astronomyi-by-noel-swerdlow-has-been-published-posthumously-with-help-from-friends-and-colleagues",
+			"source": "Caltech",
+			"publishedAt": "2026-06-30T15:09:49.832Z"
 		},
 		{
 			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
 			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T10:00:00.000Z"
+		},
+		{
+			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
+			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T10:00:00.000Z"
+		},
+		{
+			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
+			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T10:00:00.000Z"
+		},
+		{
+			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
+			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T00:30:43.000Z"
 		},
 		{
 			"headline": "One mountain lion changed the food web in a California suburb, study finds",
@@ -44,16 +74,16 @@
 			"publishedAt": "2026-06-29T17:41:06.337Z"
 		},
 		{
+			"headline": "UC Berkeley will launch new Nancy Pelosi Institute focused on strengthening democracy",
+			"url": "https://news.berkeley.edu/2026/06/29/uc-berkeley-will-launch-new-nancy-pelosi-institute-focused-on-strengthening-democracy/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-29T12:00:00.000Z"
+		},
+		{
 			"headline": "NSF Research Fellowships Awarded to Caltech Students and Alumni",
 			"url": "https://www.caltech.edu/about/news/nsf-research-fellowships-awarded-to-caltech-students-and-alumni",
 			"source": "Caltech",
 			"publishedAt": "2026-06-29T15:44:08.833Z"
-		},
-		{
-			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
-			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T00:30:43.000Z"
 		},
 		{
 			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
@@ -74,16 +104,16 @@
 			"publishedAt": "2026-06-27T04:22:37.246Z"
 		},
 		{
-			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
-			"url": "https://www.latimes.com/california/story/2026-06-26/venezuela-earthquake-terrifying-terrifying-back-to-back-quakes-show-dangers-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T15:12:37.000Z"
-		},
-		{
 			"headline": "Extensive Sand Dune Loss Threatens California Coast",
 			"url": "https://eos.org/research-spotlights/extensive-sand-dune-loss-threatens-california-coast",
 			"source": "Eos",
 			"publishedAt": "2026-06-26T12:02:00.000Z"
+		},
+		{
+			"headline": "Terrifying 'doublet' earthquakes add to California's seismic dangers. Venezuela shows the risks",
+			"url": "https://www.latimes.com/california/story/2026-06-26/venezuela-earthquake-terrifying-terrifying-back-to-back-quakes-show-dangers-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T15:12:37.000Z"
 		},
 		{
 			"headline": "EPA touts crackdown on smuggled pesticides in L.A. visit",
@@ -92,10 +122,22 @@
 			"publishedAt": "2026-06-26T10:00:00.000Z"
 		},
 		{
-			"headline": "Stop tossing good food: New California law rewrites 'best by' and 'use by' rules",
-			"url": "https://www.latimes.com/california/story/2026-06-26/confused-about-best-by-or-sell-by-food-label-new-ca-law-clears-up-confusion",
+			"headline": "Trump administration takes aim at California Coastal Commission, sparking alarm",
+			"url": "https://www.latimes.com/california/story/2026-06-26/trump-administration-takes-aim-california-coastal-commission",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T10:00:00.000Z"
+			"publishedAt": "2026-06-26T20:53:44.000Z"
+		},
+		{
+			"headline": "Overgrown lots in Altadena, Palisades pose fire risk. L.A. County is pushing to clear them",
+			"url": "https://www.latimes.com/california/story/2026-06-26/l-a-county-moves-to-clear-vegetation-from-razed-lots-in-palisades-eaton-fire-zones",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-26T19:12:07.000Z"
+		},
+		{
+			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
+			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-01T02:14:34.000Z"
 		},
 		{
 			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
