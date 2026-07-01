@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-01T11:22:44.519Z",
+	"lastUpdated": "2026-07-01T13:58:49.087Z",
 	"items": [
 		{
 			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
@@ -8,28 +8,10 @@
 			"publishedAt": "2026-07-01T02:14:34.000Z"
 		},
 		{
-			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
-			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T20:09:50.000Z"
-		},
-		{
 			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
 			"url": "https://news.berkeley.edu/2026/06/30/uc-berkeley-quantum-computing-chip-to-be-buried-in-national-time-capsule-celebrating-americas-250th-birthday/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-30T15:00:00.000Z"
-		},
-		{
-			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
-			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
-		},
-		{
-			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
-			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
 			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
@@ -38,10 +20,10 @@
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
-			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
-			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
+			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
+			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T00:30:43.000Z"
+			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
 			"headline": "One mountain lion changed the food web in a California suburb, study finds",
@@ -56,10 +38,22 @@
 			"publishedAt": "2026-06-29T16:46:09.000Z"
 		},
 		{
+			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
+			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
+			"source": "Caltech",
+			"publishedAt": "2026-06-29T17:41:06.337Z"
+		},
+		{
 			"headline": "NSF Research Fellowships Awarded to Caltech Students and Alumni",
 			"url": "https://www.caltech.edu/about/news/nsf-research-fellowships-awarded-to-caltech-students-and-alumni",
 			"source": "Caltech",
 			"publishedAt": "2026-06-29T15:44:08.833Z"
+		},
+		{
+			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
+			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T00:30:43.000Z"
 		},
 		{
 			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
@@ -104,10 +98,10 @@
 			"publishedAt": "2026-06-26T10:00:00.000Z"
 		},
 		{
-			"headline": "National Park staff ordered not to reveal deaths as part of new policy, report says",
-			"url": "https://www.latimes.com/california/story/2026-06-25/national-park-staff-ordered-not-to-reveal-deaths-as-part-of-new-policy",
+			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
+			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-25T22:14:08.000Z"
+			"publishedAt": "2026-06-30T20:09:50.000Z"
 		}
 	]
 }
