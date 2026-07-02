@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-02T01:54:45.585Z",
+	"lastUpdated": "2026-07-02T06:57:46.103Z",
 	"items": [
 		{
 			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
@@ -32,28 +32,16 @@
 			"publishedAt": "2026-07-01T02:14:34.000Z"
 		},
 		{
-			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
-			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T20:09:50.000Z"
-		},
-		{
 			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
 			"url": "https://news.berkeley.edu/2026/06/30/uc-berkeley-quantum-computing-chip-to-be-buried-in-national-time-capsule-celebrating-americas-250th-birthday/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-30T15:00:00.000Z"
 		},
 		{
-			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
-			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
-		},
-		{
-			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
-			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
+			"headline": "A Labor of Love: <I>The Renaissance of Astronomy</I> by Noel Swerdlow Has Been Published Posthumously with Help from Friends and Colleagues",
+			"url": "https://www.caltech.edu/about/news/a-labor-of-love-ithe-renaissance-of-astronomyi-by-noel-swerdlow-has-been-published-posthumously-with-help-from-friends-and-colleagues",
+			"source": "Caltech",
+			"publishedAt": "2026-06-30T15:09:49.832Z"
 		},
 		{
 			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
@@ -68,6 +56,12 @@
 			"publishedAt": "2026-06-30T00:30:43.000Z"
 		},
 		{
+			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
+			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
+			"source": "Caltech",
+			"publishedAt": "2026-06-29T17:41:06.337Z"
+		},
+		{
 			"headline": "One mountain lion changed the food web in a California suburb, study finds",
 			"url": "https://news.mongabay.com/2026/06/one-mountain-lion-changed-the-food-web-in-a-california-suburb-study-finds/",
 			"source": "Mongabay",
@@ -80,10 +74,10 @@
 			"publishedAt": "2026-06-29T16:46:09.000Z"
 		},
 		{
-			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
-			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
+			"headline": "NSF Research Fellowships Awarded to Caltech Students and Alumni",
+			"url": "https://www.caltech.edu/about/news/nsf-research-fellowships-awarded-to-caltech-students-and-alumni",
 			"source": "Caltech",
-			"publishedAt": "2026-06-29T17:41:06.337Z"
+			"publishedAt": "2026-06-29T15:44:08.833Z"
 		},
 		{
 			"headline": "UC Berkeley will launch new Nancy Pelosi Institute focused on strengthening democracy",
@@ -96,18 +90,6 @@
 			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-28T21:10:30.000Z"
-		},
-		{
-			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
-			"url": "https://www.latimes.com/environment/story/2026-06-27/water-from-boyle-heights-fire-carries-foam-into-la-river",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-27T10:00:00.000Z"
-		},
-		{
-			"headline": "Hazardous waste removal at Garden Grove's GKN Aerospace starts Monday. Here's what to expect",
-			"url": "https://www.latimes.com/california/story/2026-06-27/oc-begins-hazardous-waste-cleanup-at-garden-grove-gkn-aerospace-site",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-27T19:29:28.000Z"
 		},
 		{
 			"headline": "Schuman Receives 2026 Kavli Prize in Neuroscience",
@@ -132,12 +114,6 @@
 			"url": "https://www.latimes.com/california/story/2026-06-26/l-a-county-moves-to-clear-vegetation-from-razed-lots-in-palisades-eaton-fire-zones",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-26T19:12:07.000Z"
-		},
-		{
-			"headline": "Cleanup of rotting meat, scorched debris begins at Boyle Heights cold storage warehouse",
-			"url": "https://www.latimes.com/california/story/2026-06-26/boyle-heights-cold-storage-cleanup-beings-after-days-long-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T18:54:00.000Z"
 		}
 	]
 }
