@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-07-02T13:23:17.726Z",
+	"lastUpdated": "2026-07-02T17:22:42.066Z",
 	"items": [
+		{
+			"headline": "Saving the Whales Just Got a Little Easier",
+			"url": "https://baynature.org/2026/07/02/science-nature/urban-nature/saving-the-whales-just-got-a-little-easier/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-02T13:00:00.000Z"
+		},
+		{
+			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
+			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T10:00:00.000Z"
+		},
+		{
+			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
+			"url": "https://news.mongabay.com/short-article/2026/07/a-marine-heat-wave-caused-seabird-deaths-off-california-el-nino-could-worsen-the-die-off/",
+			"source": "Mongabay",
+			"publishedAt": "2026-07-01T16:16:06.000Z"
+		},
 		{
 			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
 			"url": "https://news.berkeley.edu/2026/07/01/scientists-discover-how-algae-colonized-corals-a-symbiosis-that-fueled-the-growth-of-the-worlds-reefs/",
@@ -14,16 +32,16 @@
 			"publishedAt": "2026-07-01T14:08:35.463Z"
 		},
 		{
-			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
-			"url": "https://news.mongabay.com/short-article/2026/07/a-marine-heat-wave-caused-seabird-deaths-off-california-el-nino-could-worsen-the-die-off/",
-			"source": "Mongabay",
-			"publishedAt": "2026-07-01T16:16:06.000Z"
-		},
-		{
 			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
 			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-01T23:25:39.000Z"
+		},
+		{
+			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
+			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-01T02:14:34.000Z"
 		},
 		{
 			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
@@ -32,40 +50,22 @@
 			"publishedAt": "2026-06-30T15:00:00.000Z"
 		},
 		{
-			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
-			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
+			"headline": "Fluid-Driven Reactions Restore Fault Strength Between Earthquakes",
+			"url": "https://eos.org/editor-highlights/fluid-driven-reactions-restore-fault-strength-between-earthquakes",
+			"source": "Eos",
+			"publishedAt": "2026-06-30T13:43:04.000Z"
+		},
+		{
+			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
+			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
-			"headline": "One mountain lion changed the food web in a California suburb, study finds",
-			"url": "https://news.mongabay.com/2026/06/one-mountain-lion-changed-the-food-web-in-a-california-suburb-study-finds/",
-			"source": "Mongabay",
-			"publishedAt": "2026-06-29T17:13:43.000Z"
-		},
-		{
-			"headline": "What I Learned by Fishing Without Rod, Reel, or Hook",
-			"url": "https://baynature.org/2026/06/29/science-nature/what-i-learned-by-fishing-without-rod-reel-or-hook/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-06-29T16:46:09.000Z"
-		},
-		{
-			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
-			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
-			"source": "Caltech",
-			"publishedAt": "2026-06-29T17:41:06.337Z"
-		},
-		{
-			"headline": "NSF Research Fellowships Awarded to Caltech Students and Alumni",
-			"url": "https://www.caltech.edu/about/news/nsf-research-fellowships-awarded-to-caltech-students-and-alumni",
-			"source": "Caltech",
-			"publishedAt": "2026-06-29T15:44:08.833Z"
-		},
-		{
-			"headline": "UC Berkeley will launch new Nancy Pelosi Institute focused on strengthening democracy",
-			"url": "https://news.berkeley.edu/2026/06/29/uc-berkeley-will-launch-new-nancy-pelosi-institute-focused-on-strengthening-democracy/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-29T12:00:00.000Z"
+			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
+			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
 			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
@@ -74,10 +74,28 @@
 			"publishedAt": "2026-06-30T00:30:43.000Z"
 		},
 		{
-			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
-			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-28T21:10:30.000Z"
+			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
+			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
+			"source": "Caltech",
+			"publishedAt": "2026-06-29T17:41:06.337Z"
+		},
+		{
+			"headline": "What I Learned by Fishing Without Rod, Reel, or Hook",
+			"url": "https://baynature.org/2026/06/29/science-nature/what-i-learned-by-fishing-without-rod-reel-or-hook/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-06-29T16:46:09.000Z"
+		},
+		{
+			"headline": "Pay Dirt: How Colonialism Left Its Mark on the Soil of the American Southwest",
+			"url": "https://eos.org/articles/pay-dirt-how-colonialism-left-its-mark-on-the-soil-of-the-american-southwest",
+			"source": "Eos",
+			"publishedAt": "2026-06-29T13:07:01.000Z"
+		},
+		{
+			"headline": "UC Berkeley will launch new Nancy Pelosi Institute focused on strengthening democracy",
+			"url": "https://news.berkeley.edu/2026/06/29/uc-berkeley-will-launch-new-nancy-pelosi-institute-focused-on-strengthening-democracy/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-29T12:00:00.000Z"
 		},
 		{
 			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
@@ -92,10 +110,10 @@
 			"publishedAt": "2026-06-27T04:22:37.246Z"
 		},
 		{
-			"headline": "Trump administration takes aim at California Coastal Commission, sparking alarm",
-			"url": "https://www.latimes.com/california/story/2026-06-26/trump-administration-takes-aim-california-coastal-commission",
+			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
+			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-26T20:53:44.000Z"
+			"publishedAt": "2026-06-28T21:10:30.000Z"
 		}
 	]
 }
