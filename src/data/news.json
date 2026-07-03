@@ -1,11 +1,17 @@
 {
-	"lastUpdated": "2026-07-03T10:23:15.070Z",
+	"lastUpdated": "2026-07-03T13:25:46.420Z",
 	"items": [
 		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
 			"url": "https://www.latimes.com/california/story/2026-07-02/california-returns-stretch-of-coast-to-indigenous-tribes-who-consider-it-sacred",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-03T02:22:14.000Z"
+		},
+		{
+			"headline": "Rare fungi help restore Palmyra Atoll rainforests, new study finds. Here's how",
+			"url": "https://news.mongabay.com/short-article/2026/07/rare-fungi-help-restore-palmyra-atoll-rainforests-new-study-finds-heres-how/",
+			"source": "Mongabay",
+			"publishedAt": "2026-07-03T06:10:43.000Z"
 		},
 		{
 			"headline": "Supreme Court cites UC Berkeley history professor's research in decision upholding birthright citizenship",
@@ -24,12 +30,6 @@
 			"url": "https://baynature.org/2026/07/02/science-nature/urban-nature/saving-the-whales-just-got-a-little-easier/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-07-02T13:00:00.000Z"
-		},
-		{
-			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
-			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
 			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
@@ -70,6 +70,12 @@
 		{
 			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
 			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T10:00:00.000Z"
+		},
+		{
+			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
+			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
@@ -116,10 +122,34 @@
 			"publishedAt": "2026-06-28T21:10:30.000Z"
 		},
 		{
+			"headline": "Norovirus outbreak on cruise ship from California sickens more than 100 passengers",
+			"url": "https://www.latimes.com/california/story/2026-07-02/norovirus-ruby-princess-passengers-sick",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T22:40:14.000Z"
+		},
+		{
 			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
 			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T20:09:50.000Z"
+		},
+		{
+			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
+			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T10:00:00.000Z"
+		},
+		{
+			"headline": "After Trump axed federal employees running climate site, thousands crowdfund its comeback",
+			"url": "https://www.latimes.com/environment/story/2026-07-01/laid-off-federal-scientists-keep-maps-data-visuals-online-with-crowdfunded-money",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-01T23:58:42.000Z"
+		},
+		{
+			"headline": "A Labor of Love: <I>The Renaissance of Astronomy</I> by Noel Swerdlow Has Been Published Posthumously with Help from Friends and Colleagues",
+			"url": "https://www.caltech.edu/about/news/a-labor-of-love-ithe-renaissance-of-astronomyi-by-noel-swerdlow-has-been-published-posthumously-with-help-from-friends-and-colleagues",
+			"source": "Caltech",
+			"publishedAt": "2026-06-30T15:09:49.832Z"
 		}
 	]
 }
