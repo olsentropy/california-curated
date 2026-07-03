@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-03T17:07:49.296Z",
+	"lastUpdated": "2026-07-03T20:49:39.478Z",
 	"items": [
 		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
@@ -14,10 +14,10 @@
 			"publishedAt": "2026-07-03T06:10:43.000Z"
 		},
 		{
-			"headline": "Supreme Court cites UC Berkeley history professor's research in decision upholding birthright citizenship",
-			"url": "https://ls.berkeley.edu/news/supreme-court-cites-berkeley-history-professor%E2%80%99s-research-landmark-birthright-citizenship",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-02T21:40:53.000Z"
+			"headline": "Saving the Whales Just Got a Little Easier",
+			"url": "https://baynature.org/2026/07/02/science-nature/urban-nature/saving-the-whales-just-got-a-little-easier/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-02T13:00:00.000Z"
 		},
 		{
 			"headline": "Coming to a Consensus During Risky Decision-Making",
@@ -26,16 +26,10 @@
 			"publishedAt": "2026-07-02T17:34:00.000Z"
 		},
 		{
-			"headline": "Watch: Ending extreme global poverty is within reach — and we know the price tag",
-			"url": "https://news.berkeley.edu/2026/07/02/watch-ending-extreme-global-poverty-is-within-reach-and-we-know-the-price-tag/",
+			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
+			"url": "https://news.berkeley.edu/2026/07/01/scientists-discover-how-algae-colonized-corals-a-symbiosis-that-fueled-the-growth-of-the-worlds-reefs/",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-02T16:55:30.000Z"
-		},
-		{
-			"headline": "Saving the Whales Just Got a Little Easier",
-			"url": "https://baynature.org/2026/07/02/science-nature/urban-nature/saving-the-whales-just-got-a-little-easier/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-02T13:00:00.000Z"
+			"publishedAt": "2026-07-01T15:00:00.000Z"
 		},
 		{
 			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
@@ -44,22 +38,16 @@
 			"publishedAt": "2026-07-01T16:16:06.000Z"
 		},
 		{
-			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
-			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-02T10:00:00.000Z"
-		},
-		{
-			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
-			"url": "https://news.berkeley.edu/2026/07/01/scientists-discover-how-algae-colonized-corals-a-symbiosis-that-fueled-the-growth-of-the-worlds-reefs/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-01T15:00:00.000Z"
-		},
-		{
 			"headline": "Caltech Welcomes Ray Jayawardhana as Tenth President",
 			"url": "https://www.caltech.edu/about/news/caltech-welcomes-ray-jayawardhana-as-tenth-president",
 			"source": "Caltech",
 			"publishedAt": "2026-07-01T14:08:35.463Z"
+		},
+		{
+			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
+			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-01T23:25:39.000Z"
 		},
 		{
 			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
@@ -68,28 +56,28 @@
 			"publishedAt": "2026-07-01T02:14:34.000Z"
 		},
 		{
-			"headline": "Fluid-Driven Reactions Restore Fault Strength Between Earthquakes",
-			"url": "https://eos.org/editor-highlights/fluid-driven-reactions-restore-fault-strength-between-earthquakes",
-			"source": "Eos",
-			"publishedAt": "2026-06-30T13:43:04.000Z"
-		},
-		{
 			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
 			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
-			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
-			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
+			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
+			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
+			"publishedAt": "2026-06-30T20:09:50.000Z"
 		},
 		{
 			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
 			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T10:00:00.000Z"
+		},
+		{
+			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
+			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
 			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
@@ -128,28 +116,10 @@
 			"publishedAt": "2026-06-29T12:00:00.000Z"
 		},
 		{
-			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
-			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-01T23:25:39.000Z"
-		},
-		{
 			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
 			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-28T21:10:30.000Z"
-		},
-		{
-			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
-			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T20:09:50.000Z"
-		},
-		{
-			"headline": "Norovirus outbreak on cruise ship from California sickens more than 100 passengers",
-			"url": "https://www.latimes.com/california/story/2026-07-02/norovirus-ruby-princess-passengers-sick",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-02T22:40:14.000Z"
 		}
 	]
 }
