@@ -1,17 +1,17 @@
 {
-	"lastUpdated": "2026-07-03T01:24:33.563Z",
+	"lastUpdated": "2026-07-03T06:52:19.348Z",
 	"items": [
+		{
+			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
+			"url": "https://www.latimes.com/california/story/2026-07-02/california-returns-stretch-of-coast-to-indigenous-tribes-who-consider-it-sacred",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T02:22:14.000Z"
+		},
 		{
 			"headline": "Supreme Court cites UC Berkeley history professor's research in decision upholding birthright citizenship",
 			"url": "https://ls.berkeley.edu/news/supreme-court-cites-berkeley-history-professor%E2%80%99s-research-landmark-birthright-citizenship",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-02T21:40:53.000Z"
-		},
-		{
-			"headline": "Coming to a Consensus During Risky Decision-Making",
-			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
-			"source": "Caltech",
-			"publishedAt": "2026-07-02T17:34:00.000Z"
 		},
 		{
 			"headline": "Saving the Whales Just Got a Little Easier",
@@ -20,28 +20,10 @@
 			"publishedAt": "2026-07-02T13:00:00.000Z"
 		},
 		{
-			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
-			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-02T10:00:00.000Z"
-		},
-		{
 			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
 			"url": "https://news.mongabay.com/short-article/2026/07/a-marine-heat-wave-caused-seabird-deaths-off-california-el-nino-could-worsen-the-die-off/",
 			"source": "Mongabay",
 			"publishedAt": "2026-07-01T16:16:06.000Z"
-		},
-		{
-			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
-			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-01T23:25:39.000Z"
-		},
-		{
-			"headline": "Caltech Welcomes Ray Jayawardhana as Tenth President",
-			"url": "https://www.caltech.edu/about/news/caltech-welcomes-ray-jayawardhana-as-tenth-president",
-			"source": "Caltech",
-			"publishedAt": "2026-07-01T14:08:35.463Z"
 		},
 		{
 			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
@@ -50,10 +32,28 @@
 			"publishedAt": "2026-07-01T15:00:00.000Z"
 		},
 		{
-			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
-			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
+			"headline": "Caltech Welcomes Ray Jayawardhana as Tenth President",
+			"url": "https://www.caltech.edu/about/news/caltech-welcomes-ray-jayawardhana-as-tenth-president",
+			"source": "Caltech",
+			"publishedAt": "2026-07-01T14:08:35.463Z"
+		},
+		{
+			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
+			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-01T23:25:39.000Z"
+		},
+		{
+			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
+			"url": "https://news.berkeley.edu/2026/06/30/uc-berkeley-quantum-computing-chip-to-be-buried-in-national-time-capsule-celebrating-americas-250th-birthday/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-30T15:00:00.000Z"
+		},
+		{
+			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
+			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-01T02:14:34.000Z"
+			"publishedAt": "2026-06-30T00:30:43.000Z"
 		},
 		{
 			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
@@ -74,22 +74,16 @@
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
-			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
-			"url": "https://news.berkeley.edu/2026/06/30/uc-berkeley-quantum-computing-chip-to-be-buried-in-national-time-capsule-celebrating-americas-250th-birthday/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-30T15:00:00.000Z"
+			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
+			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
-			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
-			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
+			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
+			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T00:30:43.000Z"
-		},
-		{
-			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
-			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T20:09:50.000Z"
+			"publishedAt": "2026-07-01T02:14:34.000Z"
 		},
 		{
 			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
@@ -110,34 +104,28 @@
 			"publishedAt": "2026-06-29T15:44:00.000Z"
 		},
 		{
-			"headline": "Pay Dirt: How Colonialism Left Its Mark on the Soil of the American Southwest",
-			"url": "https://eos.org/articles/pay-dirt-how-colonialism-left-its-mark-on-the-soil-of-the-american-southwest",
-			"source": "Eos",
-			"publishedAt": "2026-06-29T13:07:01.000Z"
-		},
-		{
 			"headline": "UC Berkeley will launch new Nancy Pelosi Institute focused on strengthening democracy",
 			"url": "https://news.berkeley.edu/2026/06/29/uc-berkeley-will-launch-new-nancy-pelosi-institute-focused-on-strengthening-democracy/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-29T12:00:00.000Z"
 		},
 		{
-			"headline": "Beach Boys' Mike Love selling Lake Tahoe mansion for $43 million",
-			"url": "https://www.latimes.com/california/story/2026-06-29/beach-boys-mike-love-selling-lake-tahoe-mansion-for-43-million",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-29T10:00:00.000Z"
+			"headline": "Coming to a Consensus During Risky Decision-Making",
+			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
+			"source": "Caltech",
+			"publishedAt": "2026-07-02T17:34:00.000Z"
+		},
+		{
+			"headline": "A Labor of Love: <I>The Renaissance of Astronomy</I> by Noel Swerdlow Has Been Published Posthumously with Help from Friends and Colleagues",
+			"url": "https://www.caltech.edu/about/news/a-labor-of-love-ithe-renaissance-of-astronomyi-by-noel-swerdlow-has-been-published-posthumously-with-help-from-friends-and-colleagues",
+			"source": "Caltech",
+			"publishedAt": "2026-06-30T15:09:49.832Z"
 		},
 		{
 			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
 			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-28T21:10:30.000Z"
-		},
-		{
-			"headline": "U.S. military searching for Marine missing off San Diego coast",
-			"url": "https://www.latimes.com/california/story/2026-06-28/u-s-military-searching-for-marine-missing-off-san-diego-coast",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-28T18:00:02.000Z"
 		}
 	]
 }
