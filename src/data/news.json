@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-03T06:52:19.348Z",
+	"lastUpdated": "2026-07-03T10:23:15.070Z",
 	"items": [
 		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
@@ -14,10 +14,22 @@
 			"publishedAt": "2026-07-02T21:40:53.000Z"
 		},
 		{
+			"headline": "Coming to a Consensus During Risky Decision-Making",
+			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
+			"source": "Caltech",
+			"publishedAt": "2026-07-02T17:34:00.000Z"
+		},
+		{
 			"headline": "Saving the Whales Just Got a Little Easier",
 			"url": "https://baynature.org/2026/07/02/science-nature/urban-nature/saving-the-whales-just-got-a-little-easier/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-07-02T13:00:00.000Z"
+		},
+		{
+			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
+			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
 			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
@@ -44,22 +56,16 @@
 			"publishedAt": "2026-07-01T23:25:39.000Z"
 		},
 		{
+			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
+			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-01T02:14:34.000Z"
+		},
+		{
 			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
 			"url": "https://news.berkeley.edu/2026/06/30/uc-berkeley-quantum-computing-chip-to-be-buried-in-national-time-capsule-celebrating-americas-250th-birthday/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-06-30T15:00:00.000Z"
-		},
-		{
-			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
-			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T00:30:43.000Z"
-		},
-		{
-			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
-			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
 			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
@@ -68,22 +74,16 @@
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
-			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
-			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
+			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
+			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
-			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
-			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
+			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-02T10:00:00.000Z"
-		},
-		{
-			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
-			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-01T02:14:34.000Z"
+			"publishedAt": "2026-06-30T00:30:43.000Z"
 		},
 		{
 			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
@@ -110,22 +110,16 @@
 			"publishedAt": "2026-06-29T12:00:00.000Z"
 		},
 		{
-			"headline": "Coming to a Consensus During Risky Decision-Making",
-			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
-			"source": "Caltech",
-			"publishedAt": "2026-07-02T17:34:00.000Z"
-		},
-		{
-			"headline": "A Labor of Love: <I>The Renaissance of Astronomy</I> by Noel Swerdlow Has Been Published Posthumously with Help from Friends and Colleagues",
-			"url": "https://www.caltech.edu/about/news/a-labor-of-love-ithe-renaissance-of-astronomyi-by-noel-swerdlow-has-been-published-posthumously-with-help-from-friends-and-colleagues",
-			"source": "Caltech",
-			"publishedAt": "2026-06-30T15:09:49.832Z"
-		},
-		{
 			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
 			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-28T21:10:30.000Z"
+		},
+		{
+			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
+			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T20:09:50.000Z"
 		}
 	]
 }
