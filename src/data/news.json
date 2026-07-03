@@ -1,11 +1,17 @@
 {
-	"lastUpdated": "2026-07-02T20:48:26.187Z",
+	"lastUpdated": "2026-07-03T01:24:33.563Z",
 	"items": [
 		{
-			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
-			"url": "https://news.mongabay.com/short-article/2026/07/a-marine-heat-wave-caused-seabird-deaths-off-california-el-nino-could-worsen-the-die-off/",
-			"source": "Mongabay",
-			"publishedAt": "2026-07-01T16:16:06.000Z"
+			"headline": "Supreme Court cites UC Berkeley history professor's research in decision upholding birthright citizenship",
+			"url": "https://ls.berkeley.edu/news/supreme-court-cites-berkeley-history-professor%E2%80%99s-research-landmark-birthright-citizenship",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-02T21:40:53.000Z"
+		},
+		{
+			"headline": "Coming to a Consensus During Risky Decision-Making",
+			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
+			"source": "Caltech",
+			"publishedAt": "2026-07-02T17:34:00.000Z"
 		},
 		{
 			"headline": "Saving the Whales Just Got a Little Easier",
@@ -20,10 +26,16 @@
 			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
-			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
-			"url": "https://news.berkeley.edu/2026/07/01/scientists-discover-how-algae-colonized-corals-a-symbiosis-that-fueled-the-growth-of-the-worlds-reefs/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-01T15:00:00.000Z"
+			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
+			"url": "https://news.mongabay.com/short-article/2026/07/a-marine-heat-wave-caused-seabird-deaths-off-california-el-nino-could-worsen-the-die-off/",
+			"source": "Mongabay",
+			"publishedAt": "2026-07-01T16:16:06.000Z"
+		},
+		{
+			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
+			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-01T23:25:39.000Z"
 		},
 		{
 			"headline": "Caltech Welcomes Ray Jayawardhana as Tenth President",
@@ -32,10 +44,10 @@
 			"publishedAt": "2026-07-01T14:08:35.463Z"
 		},
 		{
-			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
-			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-01T23:25:39.000Z"
+			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
+			"url": "https://news.berkeley.edu/2026/07/01/scientists-discover-how-algae-colonized-corals-a-symbiosis-that-fueled-the-growth-of-the-worlds-reefs/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-01T15:00:00.000Z"
 		},
 		{
 			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
@@ -46,6 +58,18 @@
 		{
 			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
 			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T10:00:00.000Z"
+		},
+		{
+			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
+			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T10:00:00.000Z"
+		},
+		{
+			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
+			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
@@ -62,16 +86,10 @@
 			"publishedAt": "2026-06-30T00:30:43.000Z"
 		},
 		{
-			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
-			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
+			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
+			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
-		},
-		{
-			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
-			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
+			"publishedAt": "2026-06-30T20:09:50.000Z"
 		},
 		{
 			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
@@ -86,22 +104,40 @@
 			"publishedAt": "2026-06-29T16:46:09.000Z"
 		},
 		{
-			"headline": "Water from Boyle Heights warehouse fire carries foam into L.A. River, sparks testing",
-			"url": "https://www.latimes.com/environment/story/2026-06-27/water-from-boyle-heights-fire-carries-foam-into-la-river",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-27T10:00:00.000Z"
+			"headline": "NSF Research Fellowships Awarded to Caltech Students and Alumni",
+			"url": "https://www.caltech.edu/about/news/nsf-research-fellowships-awarded-to-caltech-students-and-alumni",
+			"source": "Caltech",
+			"publishedAt": "2026-06-29T15:44:00.000Z"
 		},
 		{
-			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
-			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
+			"headline": "Pay Dirt: How Colonialism Left Its Mark on the Soil of the American Southwest",
+			"url": "https://eos.org/articles/pay-dirt-how-colonialism-left-its-mark-on-the-soil-of-the-american-southwest",
+			"source": "Eos",
+			"publishedAt": "2026-06-29T13:07:01.000Z"
+		},
+		{
+			"headline": "UC Berkeley will launch new Nancy Pelosi Institute focused on strengthening democracy",
+			"url": "https://news.berkeley.edu/2026/06/29/uc-berkeley-will-launch-new-nancy-pelosi-institute-focused-on-strengthening-democracy/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-06-29T12:00:00.000Z"
+		},
+		{
+			"headline": "Beach Boys' Mike Love selling Lake Tahoe mansion for $43 million",
+			"url": "https://www.latimes.com/california/story/2026-06-29/beach-boys-mike-love-selling-lake-tahoe-mansion-for-43-million",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T20:09:50.000Z"
+			"publishedAt": "2026-06-29T10:00:00.000Z"
 		},
 		{
 			"headline": "Eaglet Luna flies for first time; sibling Sandy spotted after her 'fludge' turned into flight",
 			"url": "https://www.latimes.com/california/story/2026-06-28/big-bear-eaglet-sandy-takes-first-flight-after-accidental-fludge",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-28T21:10:30.000Z"
+		},
+		{
+			"headline": "U.S. military searching for Marine missing off San Diego coast",
+			"url": "https://www.latimes.com/california/story/2026-06-28/u-s-military-searching-for-marine-missing-off-san-diego-coast",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-28T18:00:02.000Z"
 		}
 	]
 }
