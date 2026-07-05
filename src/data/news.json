@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-05T12:59:53.919Z",
+	"lastUpdated": "2026-07-05T16:50:58.426Z",
 	"items": [
 		{
 			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
@@ -68,12 +68,6 @@
 			"publishedAt": "2026-07-01T02:14:34.000Z"
 		},
 		{
-			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
-			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T20:09:50.000Z"
-		},
-		{
 			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
 			"url": "https://news.berkeley.edu/2026/06/30/uc-berkeley-quantum-computing-chip-to-be-buried-in-national-time-capsule-celebrating-americas-250th-birthday/",
 			"source": "UC Berkeley News",
@@ -82,6 +76,12 @@
 		{
 			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
 			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T10:00:00.000Z"
+		},
+		{
+			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
+			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
@@ -102,6 +102,12 @@
 			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
 			"source": "Caltech",
 			"publishedAt": "2026-06-29T17:41:06.337Z"
+		},
+		{
+			"headline": "A Labor of Love: <I>The Renaissance of Astronomy</I> by Noel Swerdlow Has Been Published Posthumously with Help from Friends and Colleagues",
+			"url": "https://www.caltech.edu/about/news/a-labor-of-love-ithe-renaissance-of-astronomyi-by-noel-swerdlow-has-been-published-posthumously-with-help-from-friends-and-colleagues",
+			"source": "Caltech",
+			"publishedAt": "2026-06-30T15:09:49.832Z"
 		}
 	]
 }
