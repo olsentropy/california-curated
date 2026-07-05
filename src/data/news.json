@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-05T06:58:00.020Z",
+	"lastUpdated": "2026-07-05T10:01:06.906Z",
 	"items": [
 		{
 			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
@@ -26,10 +26,10 @@
 			"publishedAt": "2026-07-02T21:40:53.000Z"
 		},
 		{
-			"headline": "Coming to a Consensus During Risky Decision-Making",
-			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
-			"source": "Caltech",
-			"publishedAt": "2026-07-02T17:34:00.000Z"
+			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
+			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
 			"headline": "Saving the Whales Just Got a Little Easier",
@@ -38,22 +38,10 @@
 			"publishedAt": "2026-07-02T13:00:00.000Z"
 		},
 		{
-			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
-			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-02T10:00:00.000Z"
-		},
-		{
-			"headline": "California is bringing back EV rebates. This is how to get one",
-			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T10:00:00.000Z"
-		},
-		{
-			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
-			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-01T23:25:39.000Z"
+			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
+			"url": "https://news.mongabay.com/short-article/2026/07/a-marine-heat-wave-caused-seabird-deaths-off-california-el-nino-could-worsen-the-die-off/",
+			"source": "Mongabay",
+			"publishedAt": "2026-07-01T16:16:06.000Z"
 		},
 		{
 			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
@@ -62,16 +50,16 @@
 			"publishedAt": "2026-07-01T15:00:00.000Z"
 		},
 		{
-			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
-			"url": "https://news.mongabay.com/short-article/2026/07/a-marine-heat-wave-caused-seabird-deaths-off-california-el-nino-could-worsen-the-die-off/",
-			"source": "Mongabay",
-			"publishedAt": "2026-07-01T16:16:06.000Z"
-		},
-		{
 			"headline": "Caltech Welcomes Ray Jayawardhana as Tenth President",
 			"url": "https://www.caltech.edu/about/news/caltech-welcomes-ray-jayawardhana-as-tenth-president",
 			"source": "Caltech",
 			"publishedAt": "2026-07-01T14:08:35.463Z"
+		},
+		{
+			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
+			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-01T23:25:39.000Z"
 		},
 		{
 			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
@@ -86,14 +74,14 @@
 			"publishedAt": "2026-06-30T15:00:00.000Z"
 		},
 		{
-			"headline": "Fluid-Driven Reactions Restore Fault Strength Between Earthquakes",
-			"url": "https://eos.org/editor-highlights/fluid-driven-reactions-restore-fault-strength-between-earthquakes",
-			"source": "Eos",
-			"publishedAt": "2026-06-30T13:43:04.000Z"
-		},
-		{
 			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
 			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T10:00:00.000Z"
+		},
+		{
+			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
+			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
@@ -116,22 +104,16 @@
 			"publishedAt": "2026-06-30T00:30:43.000Z"
 		},
 		{
-			"headline": "A Labor of Love: <I>The Renaissance of Astronomy</I> by Noel Swerdlow Has Been Published Posthumously with Help from Friends and Colleagues",
-			"url": "https://www.caltech.edu/about/news/a-labor-of-love-ithe-renaissance-of-astronomyi-by-noel-swerdlow-has-been-published-posthumously-with-help-from-friends-and-colleagues",
+			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
+			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
 			"source": "Caltech",
-			"publishedAt": "2026-06-30T15:09:49.832Z"
+			"publishedAt": "2026-06-29T17:41:06.337Z"
 		},
 		{
 			"headline": "What I Learned by Fishing Without Rod, Reel, or Hook",
 			"url": "https://baynature.org/2026/06/29/science-nature/what-i-learned-by-fishing-without-rod-reel-or-hook/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-06-29T16:46:09.000Z"
-		},
-		{
-			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
-			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
-			"source": "Caltech",
-			"publishedAt": "2026-06-29T17:41:06.337Z"
 		},
 		{
 			"headline": "NSF Research Fellowships Awarded to Caltech Students and Alumni",
