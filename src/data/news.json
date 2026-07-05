@@ -1,17 +1,11 @@
 {
-	"lastUpdated": "2026-07-05T10:01:06.906Z",
+	"lastUpdated": "2026-07-05T12:59:53.919Z",
 	"items": [
 		{
 			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
 			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-04T11:00:00.000Z"
-		},
-		{
-			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
-			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T21:43:22.000Z"
 		},
 		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
@@ -24,6 +18,12 @@
 			"url": "https://ls.berkeley.edu/news/supreme-court-cites-berkeley-history-professor%E2%80%99s-research-landmark-birthright-citizenship",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-02T21:40:53.000Z"
+		},
+		{
+			"headline": "Coming to a Consensus During Risky Decision-Making",
+			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
+			"source": "Caltech",
+			"publishedAt": "2026-07-02T17:34:00.000Z"
 		},
 		{
 			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
@@ -68,6 +68,12 @@
 			"publishedAt": "2026-07-01T02:14:34.000Z"
 		},
 		{
+			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
+			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T20:09:50.000Z"
+		},
+		{
 			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
 			"url": "https://news.berkeley.edu/2026/06/30/uc-berkeley-quantum-computing-chip-to-be-buried-in-national-time-capsule-celebrating-americas-250th-birthday/",
 			"source": "UC Berkeley News",
@@ -80,22 +86,10 @@
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
-			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
-			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
-		},
-		{
 			"headline": "450 wild horses face a roundup in Eastern Sierra as feds proceed with contested plan",
 			"url": "https://www.latimes.com/environment/story/2026-06-30/450-wild-horses-face-relocation-in-eastern-sierra-reigniting-clash",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T10:00:00.000Z"
-		},
-		{
-			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
-			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T20:09:50.000Z"
 		},
 		{
 			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
@@ -108,18 +102,6 @@
 			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
 			"source": "Caltech",
 			"publishedAt": "2026-06-29T17:41:06.337Z"
-		},
-		{
-			"headline": "What I Learned by Fishing Without Rod, Reel, or Hook",
-			"url": "https://baynature.org/2026/06/29/science-nature/what-i-learned-by-fishing-without-rod-reel-or-hook/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-06-29T16:46:09.000Z"
-		},
-		{
-			"headline": "NSF Research Fellowships Awarded to Caltech Students and Alumni",
-			"url": "https://www.caltech.edu/about/news/nsf-research-fellowships-awarded-to-caltech-students-and-alumni",
-			"source": "Caltech",
-			"publishedAt": "2026-06-29T15:44:00.000Z"
 		}
 	]
 }
