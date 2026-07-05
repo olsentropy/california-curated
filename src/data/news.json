@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-05T01:29:54.502Z",
+	"lastUpdated": "2026-07-05T06:58:00.020Z",
 	"items": [
 		{
 			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
@@ -8,28 +8,16 @@
 			"publishedAt": "2026-07-04T11:00:00.000Z"
 		},
 		{
+			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
+			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T21:43:22.000Z"
+		},
+		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
 			"url": "https://www.latimes.com/california/story/2026-07-02/california-returns-stretch-of-coast-to-indigenous-tribes-who-consider-it-sacred",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-03T02:22:14.000Z"
-		},
-		{
-			"headline": "Rare fungi help restore Palmyra Atoll rainforests, new study finds. Here's how",
-			"url": "https://news.mongabay.com/short-article/2026/07/rare-fungi-help-restore-palmyra-atoll-rainforests-new-study-finds-heres-how/",
-			"source": "Mongabay",
-			"publishedAt": "2026-07-03T06:10:43.000Z"
-		},
-		{
-			"headline": "California is bringing back EV rebates. This is how to get one",
-			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T10:00:00.000Z"
-		},
-		{
-			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
-			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
 			"headline": "Supreme Court cites UC Berkeley history professor's research in decision upholding birthright citizenship",
@@ -50,10 +38,16 @@
 			"publishedAt": "2026-07-02T13:00:00.000Z"
 		},
 		{
-			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
-			"url": "https://news.mongabay.com/short-article/2026/07/a-marine-heat-wave-caused-seabird-deaths-off-california-el-nino-could-worsen-the-die-off/",
-			"source": "Mongabay",
-			"publishedAt": "2026-07-01T16:16:06.000Z"
+			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
+			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T10:00:00.000Z"
+		},
+		{
+			"headline": "California is bringing back EV rebates. This is how to get one",
+			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T10:00:00.000Z"
 		},
 		{
 			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
@@ -68,16 +62,22 @@
 			"publishedAt": "2026-07-01T15:00:00.000Z"
 		},
 		{
+			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
+			"url": "https://news.mongabay.com/short-article/2026/07/a-marine-heat-wave-caused-seabird-deaths-off-california-el-nino-could-worsen-the-die-off/",
+			"source": "Mongabay",
+			"publishedAt": "2026-07-01T16:16:06.000Z"
+		},
+		{
 			"headline": "Caltech Welcomes Ray Jayawardhana as Tenth President",
 			"url": "https://www.caltech.edu/about/news/caltech-welcomes-ray-jayawardhana-as-tenth-president",
 			"source": "Caltech",
 			"publishedAt": "2026-07-01T14:08:35.463Z"
 		},
 		{
-			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
-			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
+			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
+			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T20:09:50.000Z"
+			"publishedAt": "2026-07-01T02:14:34.000Z"
 		},
 		{
 			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
@@ -86,14 +86,14 @@
 			"publishedAt": "2026-06-30T15:00:00.000Z"
 		},
 		{
-			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
-			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
+			"headline": "Fluid-Driven Reactions Restore Fault Strength Between Earthquakes",
+			"url": "https://eos.org/editor-highlights/fluid-driven-reactions-restore-fault-strength-between-earthquakes",
+			"source": "Eos",
+			"publishedAt": "2026-06-30T13:43:04.000Z"
 		},
 		{
-			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
-			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
+			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
+			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
@@ -104,16 +104,22 @@
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
+			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
+			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T20:09:50.000Z"
+		},
+		{
 			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
 			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T00:30:43.000Z"
 		},
 		{
-			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
-			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
+			"headline": "A Labor of Love: <I>The Renaissance of Astronomy</I> by Noel Swerdlow Has Been Published Posthumously with Help from Friends and Colleagues",
+			"url": "https://www.caltech.edu/about/news/a-labor-of-love-ithe-renaissance-of-astronomyi-by-noel-swerdlow-has-been-published-posthumously-with-help-from-friends-and-colleagues",
 			"source": "Caltech",
-			"publishedAt": "2026-06-29T17:41:06.337Z"
+			"publishedAt": "2026-06-30T15:09:49.832Z"
 		},
 		{
 			"headline": "What I Learned by Fishing Without Rod, Reel, or Hook",
@@ -122,16 +128,16 @@
 			"publishedAt": "2026-06-29T16:46:09.000Z"
 		},
 		{
+			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
+			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
+			"source": "Caltech",
+			"publishedAt": "2026-06-29T17:41:06.337Z"
+		},
+		{
 			"headline": "NSF Research Fellowships Awarded to Caltech Students and Alumni",
 			"url": "https://www.caltech.edu/about/news/nsf-research-fellowships-awarded-to-caltech-students-and-alumni",
 			"source": "Caltech",
 			"publishedAt": "2026-06-29T15:44:00.000Z"
-		},
-		{
-			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
-			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-01T02:14:34.000Z"
 		}
 	]
 }
