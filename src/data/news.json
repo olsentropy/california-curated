@@ -1,11 +1,29 @@
 {
-	"lastUpdated": "2026-07-05T16:50:58.426Z",
+	"lastUpdated": "2026-07-05T20:43:36.061Z",
 	"items": [
 		{
 			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
 			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-04T11:00:00.000Z"
+		},
+		{
+			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
+			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T21:43:22.000Z"
+		},
+		{
+			"headline": "Sure you want to set off that illegal firework? A police drone might be watching",
+			"url": "https://www.latimes.com/california/story/2026-07-03/more-than-entertainment-drones-taking-flight-this-independence-day-are-catching-illegal-firework-users",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T17:27:53.000Z"
+		},
+		{
+			"headline": "California is bringing back EV rebates. This is how to get one",
+			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T10:00:00.000Z"
 		},
 		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
@@ -26,16 +44,16 @@
 			"publishedAt": "2026-07-02T17:34:00.000Z"
 		},
 		{
-			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
-			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-02T10:00:00.000Z"
-		},
-		{
 			"headline": "Saving the Whales Just Got a Little Easier",
 			"url": "https://baynature.org/2026/07/02/science-nature/urban-nature/saving-the-whales-just-got-a-little-easier/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-07-02T13:00:00.000Z"
+		},
+		{
+			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
+			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
 			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
@@ -74,6 +92,12 @@
 			"publishedAt": "2026-06-30T15:00:00.000Z"
 		},
 		{
+			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
+			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T20:09:50.000Z"
+		},
+		{
 			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
 			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
 			"source": "Los Angeles Times",
@@ -96,18 +120,6 @@
 			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T00:30:43.000Z"
-		},
-		{
-			"headline": "New Cohort of KISS Study Programs Push the Frontiers of Space Exploration",
-			"url": "https://www.caltech.edu/about/news/new-cohort-of-kiss-study-programs-push-the-frontiers-of-space-exploration",
-			"source": "Caltech",
-			"publishedAt": "2026-06-29T17:41:06.337Z"
-		},
-		{
-			"headline": "A Labor of Love: <I>The Renaissance of Astronomy</I> by Noel Swerdlow Has Been Published Posthumously with Help from Friends and Colleagues",
-			"url": "https://www.caltech.edu/about/news/a-labor-of-love-ithe-renaissance-of-astronomyi-by-noel-swerdlow-has-been-published-posthumously-with-help-from-friends-and-colleagues",
-			"source": "Caltech",
-			"publishedAt": "2026-06-30T15:09:49.832Z"
 		}
 	]
 }
