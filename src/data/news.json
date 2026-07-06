@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-06T14:48:00.367Z",
+	"lastUpdated": "2026-07-06T18:02:25.626Z",
 	"items": [
 		{
 			"headline": "New FireSat satellites promise faster wildfire detection over California and beyond",
@@ -32,12 +32,6 @@
 			"publishedAt": "2026-07-04T11:00:00.000Z"
 		},
 		{
-			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
-			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T21:43:22.000Z"
-		},
-		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
 			"url": "https://www.latimes.com/california/story/2026-07-02/california-returns-stretch-of-coast-to-indigenous-tribes-who-consider-it-sacred",
 			"source": "Los Angeles Times",
@@ -68,6 +62,12 @@
 			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
+			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
+			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-01T23:25:39.000Z"
+		},
+		{
 			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
 			"url": "https://news.berkeley.edu/2026/07/01/scientists-discover-how-algae-colonized-corals-a-symbiosis-that-fueled-the-growth-of-the-worlds-reefs/",
 			"source": "UC Berkeley News",
@@ -80,22 +80,16 @@
 			"publishedAt": "2026-07-01T14:08:00.000Z"
 		},
 		{
-			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
-			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-01T23:25:39.000Z"
+			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
+			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T20:09:50.000Z"
 		},
 		{
 			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
 			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-01T02:14:34.000Z"
-		},
-		{
-			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
-			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T20:09:50.000Z"
 		},
 		{
 			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
@@ -116,10 +110,10 @@
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
-			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
-			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
+			"headline": "Caltech Appoints Julie Messersmith as Vice President for Institute Initiatives",
+			"url": "https://www.caltech.edu/about/news/caltech-appoints-julie-messersmith-as-vice-president-for-institute-initiatives",
+			"source": "Caltech",
+			"publishedAt": "2026-07-06T16:00:00.354Z"
 		}
 	]
 }
