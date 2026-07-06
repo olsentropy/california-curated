@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-07-05T20:43:36.061Z",
+	"lastUpdated": "2026-07-06T01:31:02.483Z",
 	"items": [
+		{
+			"headline": "After the Fourth, SoCal's hot weather is making a bad air-quality situation worse",
+			"url": "https://www.latimes.com/california/story/2026-07-05/after-fourth-socals-weather-making-bad-air-quality-situation-worse",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-06T00:26:54.000Z"
+		},
+		{
+			"headline": "L.A. County heat advisory: When will high temperatures peak in SoCal?",
+			"url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-05/la-county-heat-advisory-socal-forecast",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-05T20:51:57.000Z"
+		},
 		{
 			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
 			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
@@ -32,6 +44,12 @@
 			"publishedAt": "2026-07-03T02:22:14.000Z"
 		},
 		{
+			"headline": "Norovirus outbreak on cruise ship from California sickens more than 100 passengers",
+			"url": "https://www.latimes.com/california/story/2026-07-02/norovirus-ruby-princess-passengers-sick",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T22:40:14.000Z"
+		},
+		{
 			"headline": "Supreme Court cites UC Berkeley history professor's research in decision upholding birthright citizenship",
 			"url": "https://ls.berkeley.edu/news/supreme-court-cites-berkeley-history-professor%E2%80%99s-research-landmark-birthright-citizenship",
 			"source": "UC Berkeley News",
@@ -50,16 +68,16 @@
 			"publishedAt": "2026-07-02T13:00:00.000Z"
 		},
 		{
-			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
-			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-02T10:00:00.000Z"
-		},
-		{
 			"headline": "A marine heat wave caused seabird deaths off California. El Nino could worsen the die-off",
 			"url": "https://news.mongabay.com/short-article/2026/07/a-marine-heat-wave-caused-seabird-deaths-off-california-el-nino-could-worsen-the-die-off/",
 			"source": "Mongabay",
 			"publishedAt": "2026-07-01T16:16:06.000Z"
+		},
+		{
+			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
+			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
 			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
@@ -92,20 +110,8 @@
 			"publishedAt": "2026-06-30T15:00:00.000Z"
 		},
 		{
-			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
-			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T20:09:50.000Z"
-		},
-		{
 			"headline": "ER visits spiked during toxic Boyle Heights warehouse fire",
 			"url": "https://www.latimes.com/environment/story/2026-06-30/hospital-visits-for-smoke-inhalation-spiked-during-boyle-heights-warehouse-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T10:00:00.000Z"
-		},
-		{
-			"headline": "After bold pledge, EPA shelves microplastics testing in U.S. drinking water",
-			"url": "https://www.latimes.com/science/story/2026-06-30/after-bold-pledge-epa-shelves-microplastics-testing-in-u-s-drinking-water",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
@@ -116,10 +122,22 @@
 			"publishedAt": "2026-06-30T10:00:00.000Z"
 		},
 		{
+			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
+			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-30T20:09:50.000Z"
+		},
+		{
 			"headline": "Millions of sterile male Mexican fruit flies to be released in San Diego County",
 			"url": "https://www.latimes.com/california/story/2026-06-29/millions-of-sterile-male-mexican-fruit-flies-to-be-released-in-san-diego-county",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-06-30T00:30:43.000Z"
+		},
+		{
+			"headline": "San Francisco Archdiocese to pay $395 million to sexual abuse victims",
+			"url": "https://www.latimes.com/california/story/2026-06-29/san-francisco-archdiocese-settlement",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-06-29T21:40:01.000Z"
 		}
 	]
 }
