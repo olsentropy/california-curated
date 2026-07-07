@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-07T01:30:52.744Z",
+	"lastUpdated": "2026-07-07T07:25:34.649Z",
 	"items": [
 		{
 			"headline": "New FireSat satellites promise faster wildfire detection over California and beyond",
@@ -56,12 +56,6 @@
 			"publishedAt": "2026-07-02T21:40:53.000Z"
 		},
 		{
-			"headline": "Coming to a Consensus During Risky Decision-Making",
-			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
-			"source": "Caltech",
-			"publishedAt": "2026-07-02T17:34:00.000Z"
-		},
-		{
 			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
 			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
 			"source": "Los Angeles Times",
@@ -98,28 +92,10 @@
 			"publishedAt": "2026-07-01T02:14:34.000Z"
 		},
 		{
-			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
-			"url": "https://news.berkeley.edu/2026/06/30/uc-berkeley-quantum-computing-chip-to-be-buried-in-national-time-capsule-celebrating-americas-250th-birthday/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-06-30T15:00:00.000Z"
-		},
-		{
-			"headline": "A Labor of Love: <I>The Renaissance of Astronomy</I> by Noel Swerdlow Has Been Published Posthumously with Help from Friends and Colleagues",
-			"url": "https://www.caltech.edu/about/news/a-labor-of-love-ithe-renaissance-of-astronomyi-by-noel-swerdlow-has-been-published-posthumously-with-help-from-friends-and-colleagues",
-			"source": "Caltech",
-			"publishedAt": "2026-06-30T15:09:49.832Z"
-		},
-		{
-			"headline": "California is bringing back EV rebates. This is how to get one",
-			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
+			"headline": "California's historic housing bill is here. See which neighborhoods are getting upzoned",
+			"url": "https://www.latimes.com/california/story/2026-07-01/sb-79-is-here-see-which-neighborhoods-are-getting-upzoned",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T10:00:00.000Z"
-		},
-		{
-			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
-			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T21:43:22.000Z"
+			"publishedAt": "2026-07-01T10:00:00.000Z"
 		}
 	]
 }
