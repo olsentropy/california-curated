@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-07-07T13:58:12.561Z",
+	"lastUpdated": "2026-07-07T17:48:25.059Z",
 	"items": [
+		{
+			"headline": "Heat wave bakes Los Angeles. Here's when it will be hottest",
+			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T17:10:02.000Z"
+		},
+		{
+			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
+			"url": "https://www.mbari.org/news/expedition-led-by-mbari-researchers-reveals-remarkable-and-rare-form-of-deep-sea-hydrothermal-vents/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-07T16:00:14.000Z"
+		},
+		{
+			"headline": "Steering Light in a Flash: New Chip Redirects Light Beams in Less Than a Trillionth of a Second",
+			"url": "https://www.caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
+			"source": "Caltech",
+			"publishedAt": "2026-07-07T15:08:03.345Z"
+		},
 		{
 			"headline": "New FireSat satellites promise faster wildfire detection over California and beyond",
 			"url": "https://www.latimes.com/environment/story/2026-07-06/new-firesat-satellites-promise-faster-california-wildfire-detection",
@@ -26,12 +44,6 @@
 			"publishedAt": "2026-07-06T16:00:00.354Z"
 		},
 		{
-			"headline": "Reconnecting to the Lunar Trailblazer with Light",
-			"url": "https://eos.org/editor-highlights/reconnecting-to-the-lunar-trailblazer-with-light",
-			"source": "Eos",
-			"publishedAt": "2026-07-06T14:21:52.000Z"
-		},
-		{
 			"headline": "Jackie and Shadow fled during Big Bear fireworks but returned to nest and eaglets the next day",
 			"url": "https://www.latimes.com/california/story/2026-07-05/jackie-shadow-fled-during-big-bear-fireworks-but-returned-to-nest-eaglets-next-day",
 			"source": "Los Angeles Times",
@@ -44,10 +56,10 @@
 			"publishedAt": "2026-07-06T00:26:54.000Z"
 		},
 		{
-			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
-			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
+			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
+			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T21:43:22.000Z"
+			"publishedAt": "2026-07-04T11:00:00.000Z"
 		},
 		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
@@ -62,6 +74,12 @@
 			"publishedAt": "2026-07-02T21:40:53.000Z"
 		},
 		{
+			"headline": "Coming to a Consensus During Risky Decision-Making",
+			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
+			"source": "Caltech",
+			"publishedAt": "2026-07-02T17:34:00.000Z"
+		},
+		{
 			"headline": "Saving the Whales Just Got a Little Easier",
 			"url": "https://baynature.org/2026/07/02/science-nature/urban-nature/saving-the-whales-just-got-a-little-easier/",
 			"source": "Bay Nature",
@@ -72,12 +90,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-02T10:00:00.000Z"
-		},
-		{
-			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
-			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-01T23:25:39.000Z"
 		},
 		{
 			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
@@ -92,10 +104,10 @@
 			"publishedAt": "2026-07-01T14:08:00.000Z"
 		},
 		{
-			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
-			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-01T02:14:34.000Z"
+			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
+			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-01T23:25:39.000Z"
 		}
 	]
 }
