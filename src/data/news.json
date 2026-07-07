@@ -1,18 +1,6 @@
 {
-	"lastUpdated": "2026-07-06T21:17:20.874Z",
+	"lastUpdated": "2026-07-07T01:30:52.744Z",
 	"items": [
-		{
-			"headline": "UC Berkeley and UCSF launch computational biomedicine initiative",
-			"url": "https://inspire.berkeley.edu/o/uc-berkeley-and-ucsf-launch-computational-biomedicine-initiative/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-06T18:48:54.000Z"
-		},
-		{
-			"headline": "Caltech Appoints Julie Messersmith as Vice President for Institute Initiatives",
-			"url": "https://www.caltech.edu/about/news/caltech-appoints-julie-messersmith-as-vice-president-for-institute-initiatives",
-			"source": "Caltech",
-			"publishedAt": "2026-07-06T16:00:00.354Z"
-		},
 		{
 			"headline": "New FireSat satellites promise faster wildfire detection over California and beyond",
 			"url": "https://www.latimes.com/environment/story/2026-07-06/new-firesat-satellites-promise-faster-california-wildfire-detection",
@@ -26,6 +14,18 @@
 			"publishedAt": "2026-07-06T10:00:00.000Z"
 		},
 		{
+			"headline": "UC Berkeley and UCSF launch computational biomedicine initiative",
+			"url": "https://inspire.berkeley.edu/o/uc-berkeley-and-ucsf-launch-computational-biomedicine-initiative/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-06T18:48:54.000Z"
+		},
+		{
+			"headline": "Caltech Appoints Julie Messersmith as Vice President for Institute Initiatives",
+			"url": "https://www.caltech.edu/about/news/caltech-appoints-julie-messersmith-as-vice-president-for-institute-initiatives",
+			"source": "Caltech",
+			"publishedAt": "2026-07-06T16:00:00.354Z"
+		},
+		{
 			"headline": "Jackie and Shadow fled during Big Bear fireworks but returned to nest and eaglets the next day",
 			"url": "https://www.latimes.com/california/story/2026-07-05/jackie-shadow-fled-during-big-bear-fireworks-but-returned-to-nest-eaglets-next-day",
 			"source": "Los Angeles Times",
@@ -36,6 +36,42 @@
 			"url": "https://www.latimes.com/california/story/2026-07-05/after-fourth-socals-weather-making-bad-air-quality-situation-worse",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-06T00:26:54.000Z"
+		},
+		{
+			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
+			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-04T11:00:00.000Z"
+		},
+		{
+			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
+			"url": "https://www.latimes.com/california/story/2026-07-02/california-returns-stretch-of-coast-to-indigenous-tribes-who-consider-it-sacred",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T02:22:14.000Z"
+		},
+		{
+			"headline": "Supreme Court cites UC Berkeley history professor's research in decision upholding birthright citizenship",
+			"url": "https://ls.berkeley.edu/news/supreme-court-cites-berkeley-history-professor%E2%80%99s-research-landmark-birthright-citizenship",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-02T21:40:53.000Z"
+		},
+		{
+			"headline": "Coming to a Consensus During Risky Decision-Making",
+			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
+			"source": "Caltech",
+			"publishedAt": "2026-07-02T17:34:00.000Z"
+		},
+		{
+			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
+			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T10:00:00.000Z"
+		},
+		{
+			"headline": "Saving the Whales Just Got a Little Easier",
+			"url": "https://baynature.org/2026/07/02/science-nature/urban-nature/saving-the-whales-just-got-a-little-easier/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-02T13:00:00.000Z"
 		},
 		{
 			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
@@ -56,10 +92,10 @@
 			"publishedAt": "2026-07-01T14:08:00.000Z"
 		},
 		{
-			"headline": "Supreme Court cites UC Berkeley history professor's research in decision upholding birthright citizenship",
-			"url": "https://ls.berkeley.edu/news/supreme-court-cites-berkeley-history-professor%E2%80%99s-research-landmark-birthright-citizenship",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-02T21:40:53.000Z"
+			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
+			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-01T02:14:34.000Z"
 		},
 		{
 			"headline": "UC Berkeley quantum computing chip to be buried in national time capsule celebrating America's 250th birthday",
@@ -68,46 +104,22 @@
 			"publishedAt": "2026-06-30T15:00:00.000Z"
 		},
 		{
-			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
-			"url": "https://www.latimes.com/california/story/2026-07-02/california-returns-stretch-of-coast-to-indigenous-tribes-who-consider-it-sacred",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T02:22:14.000Z"
+			"headline": "A Labor of Love: <I>The Renaissance of Astronomy</I> by Noel Swerdlow Has Been Published Posthumously with Help from Friends and Colleagues",
+			"url": "https://www.caltech.edu/about/news/a-labor-of-love-ithe-renaissance-of-astronomyi-by-noel-swerdlow-has-been-published-posthumously-with-help-from-friends-and-colleagues",
+			"source": "Caltech",
+			"publishedAt": "2026-06-30T15:09:49.832Z"
 		},
 		{
-			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
-			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"headline": "California is bringing back EV rebates. This is how to get one",
+			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-02T10:00:00.000Z"
-		},
-		{
-			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
-			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-01T02:14:34.000Z"
-		},
-		{
-			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
-			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-04T11:00:00.000Z"
-		},
-		{
-			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
-			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-06-30T20:09:50.000Z"
+			"publishedAt": "2026-07-03T10:00:00.000Z"
 		},
 		{
 			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
 			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-03T21:43:22.000Z"
-		},
-		{
-			"headline": "Saving the Whales Just Got a Little Easier",
-			"url": "https://baynature.org/2026/07/02/science-nature/urban-nature/saving-the-whales-just-got-a-little-easier/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-02T13:00:00.000Z"
 		}
 	]
 }
