@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-07T07:25:34.649Z",
+	"lastUpdated": "2026-07-07T10:41:59.896Z",
 	"items": [
 		{
 			"headline": "New FireSat satellites promise faster wildfire detection over California and beyond",
@@ -38,12 +38,6 @@
 			"publishedAt": "2026-07-06T00:26:54.000Z"
 		},
 		{
-			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
-			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-04T11:00:00.000Z"
-		},
-		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
 			"url": "https://www.latimes.com/california/story/2026-07-02/california-returns-stretch-of-coast-to-indigenous-tribes-who-consider-it-sacred",
 			"source": "Los Angeles Times",
@@ -56,10 +50,10 @@
 			"publishedAt": "2026-07-02T21:40:53.000Z"
 		},
 		{
-			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
-			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-02T10:00:00.000Z"
+			"headline": "Coming to a Consensus During Risky Decision-Making",
+			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
+			"source": "Caltech",
+			"publishedAt": "2026-07-02T17:34:00.000Z"
 		},
 		{
 			"headline": "Saving the Whales Just Got a Little Easier",
@@ -68,10 +62,10 @@
 			"publishedAt": "2026-07-02T13:00:00.000Z"
 		},
 		{
-			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
-			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-01T23:25:39.000Z"
+			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
+			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
 			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
@@ -86,16 +80,40 @@
 			"publishedAt": "2026-07-01T14:08:00.000Z"
 		},
 		{
+			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
+			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-01T23:25:39.000Z"
+		},
+		{
 			"headline": "Woman tumbles the length of 5 football fields down a California volcano. She's OK",
 			"url": "https://www.latimes.com/california/story/2026-06-30/woman-tumbles-length-of-5-football-fields-down-california-volcano-shes-ok",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-01T02:14:34.000Z"
 		},
 		{
-			"headline": "California's historic housing bill is here. See which neighborhoods are getting upzoned",
-			"url": "https://www.latimes.com/california/story/2026-07-01/sb-79-is-here-see-which-neighborhoods-are-getting-upzoned",
+			"headline": "Health officials warn of West Nile virus in mosquito in Alhambra, human infection in Long Beach",
+			"url": "https://www.latimes.com/california/story/2026-06-30/first-west-nile-virus-detection-in-san-gabriel-valley-one-human-case-in-long-beach",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-01T10:00:00.000Z"
+			"publishedAt": "2026-06-30T20:09:50.000Z"
+		},
+		{
+			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
+			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-04T11:00:00.000Z"
+		},
+		{
+			"headline": "California is bringing back EV rebates. This is how to get one",
+			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T10:00:00.000Z"
+		},
+		{
+			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
+			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T21:43:22.000Z"
 		}
 	]
 }
