@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-07T21:12:20.245Z",
+	"lastUpdated": "2026-07-08T01:15:40.962Z",
 	"items": [
 		{
 			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
@@ -11,13 +11,19 @@
 			"headline": "Steering Light in a Flash: New Chip Redirects Light Beams in Less Than a Trillionth of a Second",
 			"url": "https://www.caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
 			"source": "Caltech",
-			"publishedAt": "2026-07-07T15:08:03.345Z"
+			"publishedAt": "2026-07-07T15:08:00.000Z"
 		},
 		{
 			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
 			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-07T17:10:02.000Z"
+		},
+		{
+			"headline": "Environmental justice group sues California over carbon market overhaul",
+			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T21:56:16.000Z"
 		},
 		{
 			"headline": "New FireSat satellites promise faster wildfire detection over California and beyond",
@@ -44,12 +50,6 @@
 			"publishedAt": "2026-07-06T16:00:00.354Z"
 		},
 		{
-			"headline": "Coming to a Consensus During Risky Decision-Making",
-			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
-			"source": "Caltech",
-			"publishedAt": "2026-07-02T17:34:00.000Z"
-		},
-		{
 			"headline": "Jackie and Shadow fled during Big Bear fireworks but returned to nest and eaglets the next day",
 			"url": "https://www.latimes.com/california/story/2026-07-05/jackie-shadow-fled-during-big-bear-fireworks-but-returned-to-nest-eaglets-next-day",
 			"source": "Los Angeles Times",
@@ -62,28 +62,10 @@
 			"publishedAt": "2026-07-06T00:26:54.000Z"
 		},
 		{
-			"headline": "L.A. County heat advisory: When will high temperatures peak in SoCal?",
-			"url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-05/la-county-heat-advisory-socal-forecast",
+			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
+			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-05T20:51:57.000Z"
-		},
-		{
-			"headline": "Saving the Whales Just Got a Little Easier",
-			"url": "https://baynature.org/2026/07/02/science-nature/urban-nature/saving-the-whales-just-got-a-little-easier/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-02T13:00:00.000Z"
-		},
-		{
-			"headline": "Supreme Court cites UC Berkeley history professor's research in decision upholding birthright citizenship",
-			"url": "https://ls.berkeley.edu/news/supreme-court-cites-berkeley-history-professor%E2%80%99s-research-landmark-birthright-citizenship",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-02T21:40:53.000Z"
-		},
-		{
-			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
-			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-02T10:00:00.000Z"
+			"publishedAt": "2026-07-04T11:00:00.000Z"
 		},
 		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
@@ -92,16 +74,34 @@
 			"publishedAt": "2026-07-03T02:22:14.000Z"
 		},
 		{
-			"headline": "California is bringing back EV rebates. This is how to get one",
-			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T10:00:00.000Z"
+			"headline": "Supreme Court cites UC Berkeley history professor's research in decision upholding birthright citizenship",
+			"url": "https://ls.berkeley.edu/news/supreme-court-cites-berkeley-history-professor%E2%80%99s-research-landmark-birthright-citizenship",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-02T21:40:53.000Z"
 		},
 		{
-			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
-			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
+			"headline": "Coming to a Consensus During Risky Decision-Making",
+			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
+			"source": "Caltech",
+			"publishedAt": "2026-07-02T17:34:00.000Z"
+		},
+		{
+			"headline": "Saving the Whales Just Got a Little Easier",
+			"url": "https://baynature.org/2026/07/02/science-nature/urban-nature/saving-the-whales-just-got-a-little-easier/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-02T13:00:00.000Z"
+		},
+		{
+			"headline": "Boyle Heights blaze choked parts of L.A. with astronomical soot pollution",
+			"url": "https://www.latimes.com/environment/story/2026-07-02/boyle-heights-blaze-choked-la-with-astronomical-soot-pollution",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-04T11:00:00.000Z"
+			"publishedAt": "2026-07-02T10:00:00.000Z"
+		},
+		{
+			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
+			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-01T23:25:39.000Z"
 		},
 		{
 			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
@@ -116,16 +116,10 @@
 			"publishedAt": "2026-07-01T14:08:00.000Z"
 		},
 		{
-			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
-			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-01T23:25:39.000Z"
-		},
-		{
-			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
-			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
+			"headline": "California is bringing back EV rebates. This is how to get one",
+			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T21:43:22.000Z"
+			"publishedAt": "2026-07-03T10:00:00.000Z"
 		}
 	]
 }
