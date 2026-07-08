@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-07-08T10:02:31.884Z",
+	"lastUpdated": "2026-07-08T13:20:37.090Z",
 	"items": [
+		{
+			"headline": "West Nile is spreading faster than it has in 20 years. Here's how to keep yourself safe",
+			"url": "https://www.latimes.com/california/story/2026-07-08/west-nile-is-spreading-faster-than-it-has-in-20-years-heres-how-to-keep-yourself-safe",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-08T12:00:00.000Z"
+		},
 		{
 			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
 			"url": "https://www.mbari.org/news/expedition-led-by-mbari-researchers-reveals-remarkable-and-rare-form-of-deep-sea-hydrothermal-vents/",
@@ -62,10 +68,16 @@
 			"publishedAt": "2026-07-06T00:26:54.000Z"
 		},
 		{
-			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
-			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
+			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
+			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-04T11:00:00.000Z"
+			"publishedAt": "2026-07-03T21:43:22.000Z"
+		},
+		{
+			"headline": "Sure you want to set off that illegal firework? A police drone might be watching",
+			"url": "https://www.latimes.com/california/story/2026-07-03/more-than-entertainment-drones-taking-flight-this-independence-day-are-catching-illegal-firework-users",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T17:27:53.000Z"
 		},
 		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
@@ -98,22 +110,16 @@
 			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
+			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
+			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-04T11:00:00.000Z"
+		},
+		{
 			"headline": "After Trump axed federal employees running climate site, thousands crowdfund its comeback",
 			"url": "https://www.latimes.com/environment/story/2026-07-01/laid-off-federal-scientists-keep-maps-data-visuals-online-with-crowdfunded-money",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-01T23:58:42.000Z"
-		},
-		{
-			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
-			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-01T23:25:39.000Z"
-		},
-		{
-			"headline": "California is bringing back EV rebates. This is how to get one",
-			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T10:00:00.000Z"
 		}
 	]
 }
