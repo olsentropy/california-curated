@@ -1,4 +1,15 @@
 {
+  "headers": [
+    {
+      "source": "/wp-content/uploads/(.*)",
+      "headers": [
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600, stale-while-revalidate=86400"
+        }
+      ]
+    }
+  ],
   "redirects": [
     {
       "source": "/2019/05/29/how-california-companies-are-leading-the-effort-to-save-the-world-with-microbes/",
