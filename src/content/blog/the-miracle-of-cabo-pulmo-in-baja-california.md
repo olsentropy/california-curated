@@ -20,7 +20,7 @@ tags:
   - '#MarineBiology'
   - '#ConservationSuccess'
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 _“A vision for ocean prosperity.” - Octavio Aburto_
@@ -56,6 +56,10 @@ Today, diving Cabo Pulmo is like entering an ocean that has largely disappeared 
 _Cabo Pulmo was declared a protected marine area in 1995 after years of advocacy by local residents who recognized that overfishing was destroying the reef. (Photo: Erik Olsen)_
 
 Scientists continue to study how this unusually resilient ecosystem has survived environmental changes that have devastated many coral reefs elsewhere in the Pacific. Cabo Pulmo has become an important natural laboratory for understanding reef resilience, fish biomass, predator recovery, and how healthy ecosystems respond when fishing pressure is removed. In California, we have established an impressive network of [marine protected areas](https://wildlife.ca.gov/Conservation/Marine/MPAs) (MPAs), many of them less than two decades old. The oldest, around the Channel Islands, has become one of the clearest demonstrations of what can happen when fishing and other extractive activities are curtailed and marine ecosystems are given the opportunity to recover.
+
+![](/wp-content/uploads/cms/school%20yellow%20snapper.jpeg)
+
+_Incredible schools of fish, including yellow snapper (Photo: Erik Olsen)_
 
 Marine protected areas are becoming increasingly popular around the world. The recently adopted [High Seas Treaty](https://highseasalliance.org/treaty-negotiations/), formally known as the [Agreement on Biodiversity Beyond National Jurisdiction](https://www.un.org/bbnjagreement/en) (BBNJ), is expected to accelerate the creation of new protected areas in international waters. But I have seen firsthand that simply drawing lines on a map and making grandiose declarations is not enough. Some reserves are basically paper parks, protected in name but still heavily exploited because of weak enforcement. That does not seem to be the case at Cabo Pulmo. Here, protection is taken seriously.
 
