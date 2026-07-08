@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-08T06:19:45.918Z",
+	"lastUpdated": "2026-07-08T10:02:31.884Z",
 	"items": [
 		{
 			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
@@ -68,12 +68,6 @@
 			"publishedAt": "2026-07-04T11:00:00.000Z"
 		},
 		{
-			"headline": "California is bringing back EV rebates. This is how to get one",
-			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T10:00:00.000Z"
-		},
-		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
 			"url": "https://www.latimes.com/california/story/2026-07-02/california-returns-stretch-of-coast-to-indigenous-tribes-who-consider-it-sacred",
 			"source": "Los Angeles Times",
@@ -104,16 +98,22 @@
 			"publishedAt": "2026-07-02T10:00:00.000Z"
 		},
 		{
+			"headline": "After Trump axed federal employees running climate site, thousands crowdfund its comeback",
+			"url": "https://www.latimes.com/environment/story/2026-07-01/laid-off-federal-scientists-keep-maps-data-visuals-online-with-crowdfunded-money",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-01T23:58:42.000Z"
+		},
+		{
 			"headline": "MBARI hosts Oceano Azul Foundation to develop new ocean science and conservation collaborations",
 			"url": "https://www.mbari.org/news/mbari-hosts-oceano-azul-foundation-to-develop-new-ocean-science-and-conservation-collaborations/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-01T23:25:39.000Z"
 		},
 		{
-			"headline": "Scientists discover how algae colonized corals — a symbiosis that fueled the growth of the world's reefs",
-			"url": "https://news.berkeley.edu/2026/07/01/scientists-discover-how-algae-colonized-corals-a-symbiosis-that-fueled-the-growth-of-the-worlds-reefs/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-01T15:00:00.000Z"
+			"headline": "California is bringing back EV rebates. This is how to get one",
+			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T10:00:00.000Z"
 		}
 	]
 }
