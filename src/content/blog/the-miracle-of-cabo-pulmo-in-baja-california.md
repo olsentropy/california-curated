@@ -29,7 +29,7 @@ Cabo Pulmo, at the tip of the Baja Peninsula, is one of the world’s great mari
 
 Last week, I dove the reef and surrounding waters of Cabo Pulmo with my two [PADI-certified](https://www.padi.com/) kids. Reaching Cabo Pulmo is not easy. The hot, lonely highway stretches for miles through an arid landscape of towering cardón cacti and endless desert scrub. The final 15 miles are along a rutted, washboard dirt road. I was relieved that my rental car made it without incident. The village itself is tiny, little more than a single unpaved road lined with dilapidated buildings, most of them local dive outfitters. One small restaurant served what were probably the freshest and best fish tacos I’ve ever had. And I’ve had a lot of fish tacos
 
-[![](/wp-content/uploads/cms/cabo%20pulmo%20tacos.JPG)](https://substackcdn.com/image/fetch/$s_!D8wM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae45cf09-068c-4128-a3d0-38ccf6baf82c_4032x3024.jpeg)
+[![](/wp-content/uploads/cms/cabo%20pulmo%20tacos.jpeg)](https://substackcdn.com/image/fetch/$s_!D8wM!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae45cf09-068c-4128-a3d0-38ccf6baf82c_4032x3024.jpeg)
 
 _Honestly, some of the best — and freshest — fish tacos I’ve ever had. (Photo: Erik Olsen)_
 
