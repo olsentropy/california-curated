@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-08T01:15:40.962Z",
+	"lastUpdated": "2026-07-08T06:19:45.918Z",
 	"items": [
 		{
 			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
@@ -14,16 +14,28 @@
 			"publishedAt": "2026-07-07T15:08:00.000Z"
 		},
 		{
+			"headline": "Environmental justice group sues California over carbon market overhaul",
+			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T21:56:16.000Z"
+		},
+		{
 			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
 			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-07T17:10:02.000Z"
 		},
 		{
-			"headline": "Environmental justice group sues California over carbon market overhaul",
-			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T21:56:16.000Z"
+			"headline": "Caltech Appoints Julie Messersmith as Vice President for Institute Initiatives",
+			"url": "https://www.caltech.edu/about/news/caltech-appoints-julie-messersmith-as-vice-president-for-institute-initiatives",
+			"source": "Caltech",
+			"publishedAt": "2026-07-06T16:00:00.354Z"
+		},
+		{
+			"headline": "UC Berkeley and UCSF launch computational biomedicine initiative",
+			"url": "https://inspire.berkeley.edu/o/uc-berkeley-and-ucsf-launch-computational-biomedicine-initiative/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-06T18:48:54.000Z"
 		},
 		{
 			"headline": "New FireSat satellites promise faster wildfire detection over California and beyond",
@@ -36,18 +48,6 @@
 			"url": "https://www.latimes.com/california/story/2026-07-06/el-nino-warming-oceans-push-california-plant-into-uncharted-territory",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-06T10:00:00.000Z"
-		},
-		{
-			"headline": "UC Berkeley and UCSF launch computational biomedicine initiative",
-			"url": "https://inspire.berkeley.edu/o/uc-berkeley-and-ucsf-launch-computational-biomedicine-initiative/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-06T18:48:54.000Z"
-		},
-		{
-			"headline": "Caltech Appoints Julie Messersmith as Vice President for Institute Initiatives",
-			"url": "https://www.caltech.edu/about/news/caltech-appoints-julie-messersmith-as-vice-president-for-institute-initiatives",
-			"source": "Caltech",
-			"publishedAt": "2026-07-06T16:00:00.354Z"
 		},
 		{
 			"headline": "Jackie and Shadow fled during Big Bear fireworks but returned to nest and eaglets the next day",
@@ -66,6 +66,12 @@
 			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-04T11:00:00.000Z"
+		},
+		{
+			"headline": "California is bringing back EV rebates. This is how to get one",
+			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T10:00:00.000Z"
 		},
 		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
@@ -108,18 +114,6 @@
 			"url": "https://news.berkeley.edu/2026/07/01/scientists-discover-how-algae-colonized-corals-a-symbiosis-that-fueled-the-growth-of-the-worlds-reefs/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-01T15:00:00.000Z"
-		},
-		{
-			"headline": "Caltech Welcomes Ray Jayawardhana as Tenth President",
-			"url": "https://www.caltech.edu/about/news/caltech-welcomes-ray-jayawardhana-as-tenth-president",
-			"source": "Caltech",
-			"publishedAt": "2026-07-01T14:08:00.000Z"
-		},
-		{
-			"headline": "California is bringing back EV rebates. This is how to get one",
-			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T10:00:00.000Z"
 		}
 	]
 }
