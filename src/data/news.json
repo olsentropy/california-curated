@@ -1,8 +1,20 @@
 {
-	"lastUpdated": "2026-07-09T14:20:16.138Z",
+	"lastUpdated": "2026-07-09T17:44:13.315Z",
 	"items": [
 		{
-			"headline": "California wolves are eating much more cattle than wild prey, study finds",
+			"headline": "Bacteria levels spike at several L.A. County beaches: See which ones to avoid",
+			"url": "https://www.latimes.com/california/story/2026-07-09/bacteria-levels-spike-at-la-county-beaches-see-which-ones-to-avoid",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-09T17:13:31.000Z"
+		},
+		{
+			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
+			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
+			"source": "Caltech",
+			"publishedAt": "2026-07-09T15:21:25.041Z"
+		},
+		{
+			"headline": "These wolves returned to California, but their eating habits have sparked alarm",
 			"url": "https://www.latimes.com/california/story/2026-07-09/california-wolves-eat-much-more-cattle-than-wild-prey-study-finds",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-09T11:00:00.000Z"
@@ -20,6 +32,12 @@
 			"publishedAt": "2026-07-08T21:02:23.000Z"
 		},
 		{
+			"headline": "A Training Device to Build Technical Skills and Expand Access to High-Performance Diagnostic Testing",
+			"url": "https://www.caltech.edu/about/news/a-training-device-to-build-technical-skills-and-expand-access-to-high-performance-diagnostic-testing",
+			"source": "Caltech",
+			"publishedAt": "2026-07-08T16:25:48.734Z"
+		},
+		{
 			"headline": "Heat expected to stick around in Southern California as critical fire weather looms",
 			"url": "https://www.latimes.com/california/story/2026-07-08/socal-heat-wave-fires",
 			"source": "Los Angeles Times",
@@ -32,6 +50,18 @@
 			"publishedAt": "2026-07-08T12:00:00.000Z"
 		},
 		{
+			"headline": "Walmart's EV chargers are coming to California with discounts for members",
+			"url": "https://www.latimes.com/business/story/2026-07-08/walmarts-ev-chargers-member-discounts-are-coming-to-california-with-discounts-for-members",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-08T10:00:00.000Z"
+		},
+		{
+			"headline": "Environmental justice group sues California over carbon market overhaul",
+			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T21:56:16.000Z"
+		},
+		{
 			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
 			"url": "https://www.mbari.org/news/expedition-led-by-mbari-researchers-reveals-remarkable-and-rare-form-of-deep-sea-hydrothermal-vents/",
 			"source": "MBARI",
@@ -42,12 +72,6 @@
 			"url": "https://www.caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
 			"source": "Caltech",
 			"publishedAt": "2026-07-07T15:08:00.000Z"
-		},
-		{
-			"headline": "Environmental justice group sues California over carbon market overhaul",
-			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T21:56:16.000Z"
 		},
 		{
 			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
@@ -80,6 +104,12 @@
 			"publishedAt": "2026-07-06T10:00:00.000Z"
 		},
 		{
+			"headline": "California's 'wind phones' give comfort to those grieving",
+			"url": "https://www.latimes.com/california/story/2026-07-06/when-grief-needs-voice-californians-turn-to-wind-phones",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-06T10:00:00.000Z"
+		},
+		{
 			"headline": "Jackie and Shadow fled during Big Bear fireworks but returned to nest and eaglets the next day",
 			"url": "https://www.latimes.com/california/story/2026-07-05/jackie-shadow-fled-during-big-bear-fireworks-but-returned-to-nest-eaglets-next-day",
 			"source": "Los Angeles Times",
@@ -98,10 +128,10 @@
 			"publishedAt": "2026-07-04T11:00:00.000Z"
 		},
 		{
-			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
-			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
+			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
+			"url": "https://www.latimes.com/california/story/2026-07-02/california-returns-stretch-of-coast-to-indigenous-tribes-who-consider-it-sacred",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T21:43:22.000Z"
+			"publishedAt": "2026-07-03T02:22:14.000Z"
 		},
 		{
 			"headline": "California is bringing back EV rebates. This is how to get one",
@@ -110,16 +140,10 @@
 			"publishedAt": "2026-07-03T10:00:00.000Z"
 		},
 		{
-			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
-			"url": "https://www.latimes.com/california/story/2026-07-02/california-returns-stretch-of-coast-to-indigenous-tribes-who-consider-it-sacred",
+			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
+			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T02:22:14.000Z"
-		},
-		{
-			"headline": "Supreme Court cites UC Berkeley history professor's research in decision upholding birthright citizenship",
-			"url": "https://ls.berkeley.edu/news/supreme-court-cites-berkeley-history-professor%E2%80%99s-research-landmark-birthright-citizenship",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-02T21:40:53.000Z"
+			"publishedAt": "2026-07-03T21:43:22.000Z"
 		}
 	]
 }
