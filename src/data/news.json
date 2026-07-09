@@ -1,35 +1,17 @@
 {
-	"lastUpdated": "2026-07-09T07:30:58.506Z",
+	"lastUpdated": "2026-07-09T10:42:16.206Z",
 	"items": [
 		{
-			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
-			"url": "https://www.mbari.org/news/expedition-led-by-mbari-researchers-reveals-remarkable-and-rare-form-of-deep-sea-hydrothermal-vents/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-07T16:00:14.000Z"
-		},
-		{
-			"headline": "Steering Light in a Flash: New Chip Redirects Light Beams in Less Than a Trillionth of a Second",
-			"url": "https://www.caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
-			"source": "Caltech",
-			"publishedAt": "2026-07-07T15:08:00.000Z"
-		},
-		{
-			"headline": "UC Berkeley and UCSF launch computational biomedicine initiative",
-			"url": "https://inspire.berkeley.edu/o/uc-berkeley-and-ucsf-launch-computational-biomedicine-initiative/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-06T18:48:54.000Z"
-		},
-		{
-			"headline": "New FireSat satellites promise faster wildfire detection over California and beyond",
-			"url": "https://www.latimes.com/environment/story/2026-07-06/new-firesat-satellites-promise-faster-california-wildfire-detection",
+			"headline": "'I'd rather my house burn down than get cancer': Herbicide use upends California's fight to save forests",
+			"url": "https://www.latimes.com/environment/story/2026-07-09/should-we-spray-burn-scars-with-glyphosate-californians-reckon-with-grim-reality",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-06T10:00:00.000Z"
+			"publishedAt": "2026-07-09T10:00:00.000Z"
 		},
 		{
-			"headline": "'Uncharted territory' as brewing El Niño, roasting oceans, heat bring risk for California, planet",
-			"url": "https://www.latimes.com/california/story/2026-07-06/el-nino-warming-oceans-push-california-plant-into-uncharted-territory",
+			"headline": "Not everyone is leaving California. A new commercial battery maker just landed in Sacramento",
+			"url": "https://www.latimes.com/environment/story/2026-07-08/new-kind-of-battery-comes-to-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-06T10:00:00.000Z"
+			"publishedAt": "2026-07-08T21:02:23.000Z"
 		},
 		{
 			"headline": "Heat expected to stick around in Southern California as critical fire weather looms",
@@ -44,10 +26,64 @@
 			"publishedAt": "2026-07-08T12:00:00.000Z"
 		},
 		{
+			"headline": "A Training Device to Build Technical Skills and Expand Access to High-Performance Diagnostic Testing",
+			"url": "https://www.caltech.edu/about/news/a-training-device-to-build-technical-skills-and-expand-access-to-high-performance-diagnostic-testing",
+			"source": "Caltech",
+			"publishedAt": "2026-07-08T16:25:48.734Z"
+		},
+		{
+			"headline": "Steering Light in a Flash: New Chip Redirects Light Beams in Less Than a Trillionth of a Second",
+			"url": "https://www.caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
+			"source": "Caltech",
+			"publishedAt": "2026-07-07T15:08:00.000Z"
+		},
+		{
+			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
+			"url": "https://www.mbari.org/news/expedition-led-by-mbari-researchers-reveals-remarkable-and-rare-form-of-deep-sea-hydrothermal-vents/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-07T16:00:14.000Z"
+		},
+		{
 			"headline": "Environmental justice group sues California over carbon market overhaul",
 			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-07T21:56:16.000Z"
+		},
+		{
+			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
+			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T17:10:02.000Z"
+		},
+		{
+			"headline": "New FireSat satellites promise faster wildfire detection over California and beyond",
+			"url": "https://www.latimes.com/environment/story/2026-07-06/new-firesat-satellites-promise-faster-california-wildfire-detection",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-06T10:00:00.000Z"
+		},
+		{
+			"headline": "'Uncharted territory' as brewing El Niño, roasting oceans, heat bring risk for California, planet",
+			"url": "https://www.latimes.com/california/story/2026-07-06/el-nino-warming-oceans-push-california-plant-into-uncharted-territory",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-06T10:00:00.000Z"
+		},
+		{
+			"headline": "California's 'wind phones' give comfort to those grieving",
+			"url": "https://www.latimes.com/california/story/2026-07-06/when-grief-needs-voice-californians-turn-to-wind-phones",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-06T10:00:00.000Z"
+		},
+		{
+			"headline": "UC Berkeley and UCSF launch computational biomedicine initiative",
+			"url": "https://inspire.berkeley.edu/o/uc-berkeley-and-ucsf-launch-computational-biomedicine-initiative/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-06T18:48:54.000Z"
+		},
+		{
+			"headline": "Caltech Appoints Julie Messersmith as Vice President for Institute Initiatives",
+			"url": "https://www.caltech.edu/about/news/caltech-appoints-julie-messersmith-as-vice-president-for-institute-initiatives",
+			"source": "Caltech",
+			"publishedAt": "2026-07-06T16:00:00.354Z"
 		},
 		{
 			"headline": "Jackie and Shadow fled during Big Bear fireworks but returned to nest and eaglets the next day",
@@ -56,10 +92,40 @@
 			"publishedAt": "2026-07-06T02:12:27.000Z"
 		},
 		{
+			"headline": "After the Fourth, SoCal's hot weather is making a bad air-quality situation worse",
+			"url": "https://www.latimes.com/california/story/2026-07-05/after-fourth-socals-weather-making-bad-air-quality-situation-worse",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-06T00:26:54.000Z"
+		},
+		{
+			"headline": "L.A. County heat advisory: When will high temperatures peak in SoCal?",
+			"url": "https://www.latimes.com/entertainment-arts/business/story/2026-07-05/la-county-heat-advisory-socal-forecast",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-05T20:51:57.000Z"
+		},
+		{
 			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
 			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-04T11:00:00.000Z"
+		},
+		{
+			"headline": "Arellano: Mission San Juan Capistrano is also turning 250. It has lessons for America",
+			"url": "https://www.latimes.com/california/story/2026-07-04/mission-san-juan-capistrano-250",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-04T07:00:00.000Z"
+		},
+		{
+			"headline": "California is bringing back EV rebates. This is how to get one",
+			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T10:00:00.000Z"
+		},
+		{
+			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
+			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-03T21:43:22.000Z"
 		},
 		{
 			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
@@ -78,24 +144,6 @@
 			"url": "https://www.caltech.edu/about/news/coming-to-a-consensus-during-risky-decision-making",
 			"source": "Caltech",
 			"publishedAt": "2026-07-02T17:34:00.000Z"
-		},
-		{
-			"headline": "A Training Device to Build Technical Skills and Expand Access to High-Performance Diagnostic Testing",
-			"url": "https://www.caltech.edu/about/news/a-training-device-to-build-technical-skills-and-expand-access-to-high-performance-diagnostic-testing",
-			"source": "Caltech",
-			"publishedAt": "2026-07-08T16:25:48.734Z"
-		},
-		{
-			"headline": "Caltech Appoints Julie Messersmith as Vice President for Institute Initiatives",
-			"url": "https://www.caltech.edu/about/news/caltech-appoints-julie-messersmith-as-vice-president-for-institute-initiatives",
-			"source": "Caltech",
-			"publishedAt": "2026-07-06T16:00:00.354Z"
-		},
-		{
-			"headline": "Saving the Whales Just Got a Little Easier",
-			"url": "https://baynature.org/2026/07/02/science-nature/urban-nature/saving-the-whales-just-got-a-little-easier/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-02T13:00:00.000Z"
 		}
 	]
 }
