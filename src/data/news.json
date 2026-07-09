@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-07-09T17:44:13.315Z",
+	"lastUpdated": "2026-07-09T21:08:42.724Z",
 	"items": [
+		{
+			"headline": "This week in science: California wolves, the world's bugs, and the earliest quasars",
+			"url": "https://www.npr.org/2026/07/09/nx-s1-5877428/this-week-in-science-california-wolves-the-worlds-bugs-and-the-earliest-quasars",
+			"source": "NPR Science",
+			"publishedAt": "2026-07-09T20:01:44.000Z"
+		},
 		{
 			"headline": "Bacteria levels spike at several L.A. County beaches: See which ones to avoid",
 			"url": "https://www.latimes.com/california/story/2026-07-09/bacteria-levels-spike-at-la-county-beaches-see-which-ones-to-avoid",
@@ -20,7 +26,7 @@
 			"publishedAt": "2026-07-09T11:00:00.000Z"
 		},
 		{
-			"headline": "'I'd rather my house burn down than get cancer': Herbicide use upends California's fight to save forests",
+			"headline": "'I'd rather my house burn down than get cancer': Two California communities fight to save their forests",
 			"url": "https://www.latimes.com/environment/story/2026-07-09/should-we-spray-burn-scars-with-glyphosate-californians-reckon-with-grim-reality",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-09T10:00:00.000Z"
@@ -30,12 +36,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-08/new-kind-of-battery-comes-to-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-08T21:02:23.000Z"
-		},
-		{
-			"headline": "A Training Device to Build Technical Skills and Expand Access to High-Performance Diagnostic Testing",
-			"url": "https://www.caltech.edu/about/news/a-training-device-to-build-technical-skills-and-expand-access-to-high-performance-diagnostic-testing",
-			"source": "Caltech",
-			"publishedAt": "2026-07-08T16:25:48.734Z"
 		},
 		{
 			"headline": "Heat expected to stick around in Southern California as critical fire weather looms",
@@ -50,16 +50,22 @@
 			"publishedAt": "2026-07-08T12:00:00.000Z"
 		},
 		{
-			"headline": "Walmart's EV chargers are coming to California with discounts for members",
-			"url": "https://www.latimes.com/business/story/2026-07-08/walmarts-ev-chargers-member-discounts-are-coming-to-california-with-discounts-for-members",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-08T10:00:00.000Z"
+			"headline": "A Training Device to Build Technical Skills and Expand Access to High-Performance Diagnostic Testing",
+			"url": "https://www.caltech.edu/about/news/a-training-device-to-build-technical-skills-and-expand-access-to-high-performance-diagnostic-testing",
+			"source": "Caltech",
+			"publishedAt": "2026-07-08T16:25:48.734Z"
 		},
 		{
 			"headline": "Environmental justice group sues California over carbon market overhaul",
 			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-07T21:56:16.000Z"
+		},
+		{
+			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
+			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T17:10:02.000Z"
 		},
 		{
 			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
@@ -72,12 +78,6 @@
 			"url": "https://www.caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
 			"source": "Caltech",
 			"publishedAt": "2026-07-07T15:08:00.000Z"
-		},
-		{
-			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
-			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T17:10:02.000Z"
 		},
 		{
 			"headline": "UC Berkeley and UCSF launch computational biomedicine initiative",
@@ -104,22 +104,10 @@
 			"publishedAt": "2026-07-06T10:00:00.000Z"
 		},
 		{
-			"headline": "California's 'wind phones' give comfort to those grieving",
-			"url": "https://www.latimes.com/california/story/2026-07-06/when-grief-needs-voice-californians-turn-to-wind-phones",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-06T10:00:00.000Z"
-		},
-		{
 			"headline": "Jackie and Shadow fled during Big Bear fireworks but returned to nest and eaglets the next day",
 			"url": "https://www.latimes.com/california/story/2026-07-05/jackie-shadow-fled-during-big-bear-fireworks-but-returned-to-nest-eaglets-next-day",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-06T02:12:27.000Z"
-		},
-		{
-			"headline": "After the Fourth, SoCal's hot weather is making a bad air-quality situation worse",
-			"url": "https://www.latimes.com/california/story/2026-07-05/after-fourth-socals-weather-making-bad-air-quality-situation-worse",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-06T00:26:54.000Z"
 		},
 		{
 			"headline": "July Fourth fireworks may bring 'hazardous' air quality to Southern California. What you need to know",
@@ -128,22 +116,10 @@
 			"publishedAt": "2026-07-04T11:00:00.000Z"
 		},
 		{
-			"headline": "California returns stretch of coast to Indigenous tribes. 'This is beyond huge'",
-			"url": "https://www.latimes.com/california/story/2026-07-02/california-returns-stretch-of-coast-to-indigenous-tribes-who-consider-it-sacred",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T02:22:14.000Z"
-		},
-		{
 			"headline": "California is bringing back EV rebates. This is how to get one",
 			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-03T10:00:00.000Z"
-		},
-		{
-			"headline": "Fresno County farmer gives away 182,000 pounds of nectarines for free",
-			"url": "https://www.latimes.com/california/story/2026-07-03/fresno-county-farmer-gives-away-182-000-pounds-of-nectarines-for-free",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T21:43:22.000Z"
 		}
 	]
 }
