@@ -1,6 +1,30 @@
 {
-	"lastUpdated": "2026-07-09T21:08:42.724Z",
+	"lastUpdated": "2026-07-10T01:20:53.578Z",
 	"items": [
+		{
+			"headline": "Trump administration approves California company's plan to pipe water out of the Mojave Desert",
+			"url": "https://www.latimes.com/environment/story/2026-07-09/cadiz-water-pipeline",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T00:14:57.000Z"
+		},
+		{
+			"headline": "California will see its first monsoon storms of the season, raising fire concerns",
+			"url": "https://www.latimes.com/california/story/2026-07-09/california-fire-risks-rise-as-first-monsoon-storms-approach",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-09T22:33:54.000Z"
+		},
+		{
+			"headline": "A Surprisingly Chill Hang Around a (Prescribed) Fire",
+			"url": "https://baynature.org/2026/07/09/photo-essay/a-surprisingly-chill-hang-around-a-prescribed-fire/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-09T21:47:12.000Z"
+		},
+		{
+			"headline": "Strong El Niño now a virtual certainty, forecasters say. What it means for California",
+			"url": "https://www.latimes.com/california/story/2026-07-09/strong-el-nino-now-virtual-certainty-what-it-means-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-09T21:44:52.000Z"
+		},
 		{
 			"headline": "This week in science: California wolves, the world's bugs, and the earliest quasars",
 			"url": "https://www.npr.org/2026/07/09/nx-s1-5877428/this-week-in-science-california-wolves-the-worlds-bugs-and-the-earliest-quasars",
@@ -50,22 +74,10 @@
 			"publishedAt": "2026-07-08T12:00:00.000Z"
 		},
 		{
-			"headline": "A Training Device to Build Technical Skills and Expand Access to High-Performance Diagnostic Testing",
-			"url": "https://www.caltech.edu/about/news/a-training-device-to-build-technical-skills-and-expand-access-to-high-performance-diagnostic-testing",
-			"source": "Caltech",
-			"publishedAt": "2026-07-08T16:25:48.734Z"
-		},
-		{
 			"headline": "Environmental justice group sues California over carbon market overhaul",
 			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-07T21:56:16.000Z"
-		},
-		{
-			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
-			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T17:10:02.000Z"
 		},
 		{
 			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
@@ -78,6 +90,12 @@
 			"url": "https://www.caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
 			"source": "Caltech",
 			"publishedAt": "2026-07-07T15:08:00.000Z"
+		},
+		{
+			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
+			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T17:10:02.000Z"
 		},
 		{
 			"headline": "UC Berkeley and UCSF launch computational biomedicine initiative",
@@ -114,12 +132,6 @@
 			"url": "https://www.latimes.com/science/story/2026-07-04/july-fourth-fireworks-southern-california-air-quality-what-to-know",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-04T11:00:00.000Z"
-		},
-		{
-			"headline": "California is bringing back EV rebates. This is how to get one",
-			"url": "https://www.latimes.com/business/story/2026-07-03/california-is-bringing-back-ev-rebates-this-is-how-to-get-one",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-03T10:00:00.000Z"
 		}
 	]
 }
