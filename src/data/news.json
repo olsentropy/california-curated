@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-10T10:41:18.715Z",
+	"lastUpdated": "2026-07-10T13:47:21.788Z",
 	"items": [
 		{
 			"headline": "Trump administration OKs California company's plan to pipe water out of the Mojave Desert",
@@ -56,12 +56,6 @@
 			"publishedAt": "2026-07-09T10:00:00.000Z"
 		},
 		{
-			"headline": "UC weighs return of SAT amid early signs of changing views and faculty pressure",
-			"url": "https://www.latimes.com/california/story/2026-07-09/uc-sat-act-return-admissions-math-skills",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T10:00:00.000Z"
-		},
-		{
 			"headline": "Not everyone is leaving California. A new commercial battery maker just landed in Sacramento",
 			"url": "https://www.latimes.com/environment/story/2026-07-08/new-kind-of-battery-comes-to-california",
 			"source": "Los Angeles Times",
@@ -80,16 +74,10 @@
 			"publishedAt": "2026-07-08T12:00:00.000Z"
 		},
 		{
-			"headline": "A Training Device to Build Technical Skills and Expand Access to High-Performance Diagnostic Testing",
-			"url": "https://www.caltech.edu/about/news/a-training-device-to-build-technical-skills-and-expand-access-to-high-performance-diagnostic-testing",
-			"source": "Caltech",
-			"publishedAt": "2026-07-08T16:25:48.734Z"
-		},
-		{
-			"headline": "Environmental justice group sues California over carbon market overhaul",
-			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T21:56:16.000Z"
+			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
+			"url": "https://www.mbari.org/news/expedition-led-by-mbari-researchers-reveals-remarkable-and-rare-form-of-deep-sea-hydrothermal-vents/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-07T16:00:14.000Z"
 		},
 		{
 			"headline": "Steering Light in a Flash: New Chip Redirects Light Beams in Less Than a Trillionth of a Second",
@@ -98,10 +86,10 @@
 			"publishedAt": "2026-07-07T15:08:00.000Z"
 		},
 		{
-			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
-			"url": "https://www.mbari.org/news/expedition-led-by-mbari-researchers-reveals-remarkable-and-rare-form-of-deep-sea-hydrothermal-vents/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-07T16:00:14.000Z"
+			"headline": "Environmental justice group sues California over carbon market overhaul",
+			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T21:56:16.000Z"
 		},
 		{
 			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
