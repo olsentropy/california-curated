@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-11T16:38:45.934Z",
+	"lastUpdated": "2026-07-11T20:35:20.556Z",
 	"items": [
 		{
 			"headline": "Trump administration clears path for controversial Mojave Desert water pipeline",
@@ -14,16 +14,16 @@
 			"publishedAt": "2026-07-09T22:33:54.000Z"
 		},
 		{
-			"headline": "A Surprisingly Chill Hang Around a (Prescribed) Fire",
-			"url": "https://baynature.org/2026/07/09/photo-essay/a-surprisingly-chill-hang-around-a-prescribed-fire/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-09T21:47:12.000Z"
-		},
-		{
 			"headline": "Strong El Niño now a virtual certainty, forecasters say. What it means for California",
 			"url": "https://www.latimes.com/california/story/2026-07-09/strong-el-nino-now-virtual-certainty-what-it-means-for-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-09T21:44:52.000Z"
+		},
+		{
+			"headline": "A Surprisingly Chill Hang Around a (Prescribed) Fire",
+			"url": "https://baynature.org/2026/07/09/photo-essay/a-surprisingly-chill-hang-around-a-prescribed-fire/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-09T21:47:12.000Z"
 		},
 		{
 			"headline": "This week in science: California wolves, the world's bugs, and the earliest quasars",
@@ -44,16 +44,10 @@
 			"publishedAt": "2026-07-09T10:00:00.000Z"
 		},
 		{
-			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
-			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
-			"source": "Caltech",
-			"publishedAt": "2026-07-09T15:21:25.041Z"
-		},
-		{
-			"headline": "Nobel Prize winner leaving UC Berkeley for new role in China",
-			"url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
+			"headline": "UC weighs return of SAT amid early signs of changing views and faculty pressure",
+			"url": "https://www.latimes.com/california/story/2026-07-09/uc-sat-act-return-admissions-math-skills",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T17:06:18.000Z"
+			"publishedAt": "2026-07-09T10:00:00.000Z"
 		},
 		{
 			"headline": "Berkeley Talks: When we talk to AI, what are we talking to?",
@@ -74,16 +68,22 @@
 			"publishedAt": "2026-07-10T20:44:31.000Z"
 		},
 		{
-			"headline": "West Nile is spreading faster than it has in 20 years. Here's how to keep yourself safe",
-			"url": "https://www.latimes.com/california/story/2026-07-08/west-nile-is-spreading-faster-than-it-has-in-20-years-heres-how-to-keep-yourself-safe",
+			"headline": "Nobel Prize winner leaving UC Berkeley for new role in China",
+			"url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-08T12:00:00.000Z"
+			"publishedAt": "2026-07-10T17:06:18.000Z"
 		},
 		{
-			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
-			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
+			"headline": "Safety concerns over solar panels were raised a year before massive Boyle Heights fire",
+			"url": "https://www.latimes.com/california/story/2026-07-10/lineage-lobbying-boyle-heights-warehouse-fire",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T17:10:02.000Z"
+			"publishedAt": "2026-07-10T16:34:51.000Z"
+		},
+		{
+			"headline": "Environmental justice group sues California over carbon market overhaul",
+			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T21:56:16.000Z"
 		},
 		{
 			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
@@ -98,10 +98,10 @@
 			"publishedAt": "2026-07-07T15:08:00.000Z"
 		},
 		{
-			"headline": "Environmental justice group sues California over carbon market overhaul",
-			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T21:56:16.000Z"
+			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
+			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
+			"source": "Caltech",
+			"publishedAt": "2026-07-09T15:21:25.041Z"
 		},
 		{
 			"headline": "Not everyone is leaving California. A new commercial battery maker just landed in Sacramento",
@@ -110,10 +110,22 @@
 			"publishedAt": "2026-07-08T21:02:23.000Z"
 		},
 		{
+			"headline": "West Nile is spreading faster than it has in 20 years. Here's how to keep yourself safe",
+			"url": "https://www.latimes.com/california/story/2026-07-08/west-nile-is-spreading-faster-than-it-has-in-20-years-heres-how-to-keep-yourself-safe",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-08T12:00:00.000Z"
+		},
+		{
 			"headline": "Bacteria levels spike at several L.A. County beaches: See which ones to avoid",
 			"url": "https://www.latimes.com/california/story/2026-07-09/bacteria-levels-spike-at-la-county-beaches-see-which-ones-to-avoid",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-09T17:13:31.000Z"
+		},
+		{
+			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
+			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T17:10:02.000Z"
 		},
 		{
 			"headline": "Diarrhea-causing cyclosporiasis exceeds 1,000 cases in U.S. What Californians should know",
@@ -122,28 +134,16 @@
 			"publishedAt": "2026-07-10T01:27:26.000Z"
 		},
 		{
-			"headline": "Seventh measles case in L.A. County this year identified as international traveler at LAX",
-			"url": "https://www.latimes.com/california/story/2026-07-08/seventh-measles-case-in-la-county-this-year-identified-as-international-traveler-at-lax",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-08T23:35:59.000Z"
-		},
-		{
-			"headline": "A Training Device to Build Technical Skills and Expand Access to High-Performance Diagnostic Testing",
-			"url": "https://www.caltech.edu/about/news/a-training-device-to-build-technical-skills-and-expand-access-to-high-performance-diagnostic-testing",
-			"source": "Caltech",
-			"publishedAt": "2026-07-08T16:25:48.734Z"
-		},
-		{
 			"headline": "Evacuation warnings issued as more than 100 firefighters battle Lake Piru brush fire",
 			"url": "https://www.latimes.com/california/story/2026-07-09/grande-fire-brush-fire-triggers-lake-piru-evacuations",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-10T00:20:30.000Z"
 		},
 		{
-			"headline": "Burning semitruck sparks brushfire near Castaic, triggering I-5 lane closures",
-			"url": "https://www.latimes.com/california/story/2026-07-06/i-5-lanes-closed-as-burning-truck-sparks-brush-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T02:15:41.000Z"
+			"headline": "A Training Device to Build Technical Skills and Expand Access to High-Performance Diagnostic Testing",
+			"url": "https://www.caltech.edu/about/news/a-training-device-to-build-technical-skills-and-expand-access-to-high-performance-diagnostic-testing",
+			"source": "Caltech",
+			"publishedAt": "2026-07-08T16:25:48.734Z"
 		}
 	]
 }
