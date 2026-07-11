@@ -1,30 +1,6 @@
 {
-	"lastUpdated": "2026-07-11T01:14:16.439Z",
+	"lastUpdated": "2026-07-11T06:04:48.396Z",
 	"items": [
-		{
-			"headline": "Nobel Prize winner leaving UC Berkeley for new role in China",
-			"url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T17:06:18.000Z"
-		},
-		{
-			"headline": "Senior Scientist Francisco Chavez shares MBARI science at international conferences",
-			"url": "https://www.mbari.org/news/senior-scientist-francisco-chavez-shares-mbari-science-at-international-conferences/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-10T22:00:01.000Z"
-		},
-		{
-			"headline": "Heat wave and monsoon conditions fueling fires in Llano and Lucerne Valley. Ammunition exploding in one blaze",
-			"url": "https://www.latimes.com/california/story/2026-07-10/growing-lucerne-valley-brush-fire-ignites-several-structures",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T20:44:31.000Z"
-		},
-		{
-			"headline": "Trump administration proposal would all but end scientific merit in grant funding, critics say",
-			"url": "https://www.latimes.com/science/story/2026-07-10/trump-administration-seeks-to-limit-federal-funding-that-doesnt-advance-presidential-policies",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T10:00:00.000Z"
-		},
 		{
 			"headline": "Trump administration clears path for controversial Mojave Desert water pipeline",
 			"url": "https://www.latimes.com/environment/story/2026-07-09/cadiz-water-pipeline",
@@ -38,16 +14,16 @@
 			"publishedAt": "2026-07-09T22:33:54.000Z"
 		},
 		{
-			"headline": "A Surprisingly Chill Hang Around a (Prescribed) Fire",
-			"url": "https://baynature.org/2026/07/09/photo-essay/a-surprisingly-chill-hang-around-a-prescribed-fire/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-09T21:47:12.000Z"
-		},
-		{
 			"headline": "Strong El Niño now a virtual certainty, forecasters say. What it means for California",
 			"url": "https://www.latimes.com/california/story/2026-07-09/strong-el-nino-now-virtual-certainty-what-it-means-for-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-09T21:44:52.000Z"
+		},
+		{
+			"headline": "A Surprisingly Chill Hang Around a (Prescribed) Fire",
+			"url": "https://baynature.org/2026/07/09/photo-essay/a-surprisingly-chill-hang-around-a-prescribed-fire/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-09T21:47:12.000Z"
 		},
 		{
 			"headline": "This week in science: California wolves, the world's bugs, and the earliest quasars",
@@ -98,10 +74,10 @@
 			"publishedAt": "2026-07-08T13:29:19.000Z"
 		},
 		{
-			"headline": "Environmental justice group sues California over carbon market overhaul",
-			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T21:56:16.000Z"
+			"headline": "A Training Device to Build Technical Skills and Expand Access to High-Performance Diagnostic Testing",
+			"url": "https://www.caltech.edu/about/news/a-training-device-to-build-technical-skills-and-expand-access-to-high-performance-diagnostic-testing",
+			"source": "Caltech",
+			"publishedAt": "2026-07-08T16:25:48.734Z"
 		},
 		{
 			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
@@ -116,6 +92,12 @@
 			"publishedAt": "2026-07-07T15:08:00.000Z"
 		},
 		{
+			"headline": "Environmental justice group sues California over carbon market overhaul",
+			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T21:56:16.000Z"
+		},
+		{
 			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
 			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
 			"source": "Los Angeles Times",
@@ -126,6 +108,12 @@
 			"url": "https://inspire.berkeley.edu/o/uc-berkeley-and-ucsf-launch-computational-biomedicine-initiative/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-06T18:48:54.000Z"
+		},
+		{
+			"headline": "Caltech Appoints Julie Messersmith as Vice President for Institute Initiatives",
+			"url": "https://www.caltech.edu/about/news/caltech-appoints-julie-messersmith-as-vice-president-for-institute-initiatives",
+			"source": "Caltech",
+			"publishedAt": "2026-07-06T16:00:00.354Z"
 		},
 		{
 			"headline": "New FireSat satellites promise faster wildfire detection over California and beyond",
