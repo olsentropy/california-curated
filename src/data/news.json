@@ -1,11 +1,35 @@
 {
-	"lastUpdated": "2026-07-11T06:04:48.396Z",
+	"lastUpdated": "2026-07-11T09:12:05.217Z",
 	"items": [
 		{
 			"headline": "Trump administration clears path for controversial Mojave Desert water pipeline",
 			"url": "https://www.latimes.com/environment/story/2026-07-09/cadiz-water-pipeline",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-10T00:14:57.000Z"
+		},
+		{
+			"headline": "Nobel Prize winner leaving UC Berkeley for new role in China",
+			"url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T17:06:18.000Z"
+		},
+		{
+			"headline": "Senior Scientist Francisco Chavez shares MBARI science at international conferences",
+			"url": "https://www.mbari.org/news/senior-scientist-francisco-chavez-shares-mbari-science-at-international-conferences/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-10T22:00:01.000Z"
+		},
+		{
+			"headline": "Summit fire chars 2,581 acres amid Southern California heat wave, looming monsoon conditions",
+			"url": "https://www.latimes.com/california/story/2026-07-10/growing-lucerne-valley-brush-fire-ignites-several-structures",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T20:44:31.000Z"
+		},
+		{
+			"headline": "This week in science: California wolves, the world's bugs, and the earliest quasars",
+			"url": "https://www.npr.org/2026/07/09/nx-s1-5877428/this-week-in-science-california-wolves-the-worlds-bugs-and-the-earliest-quasars",
+			"source": "NPR Science",
+			"publishedAt": "2026-07-09T20:01:44.000Z"
 		},
 		{
 			"headline": "California will see its first monsoon storms of the season, raising fire concerns",
@@ -26,22 +50,10 @@
 			"publishedAt": "2026-07-09T21:47:12.000Z"
 		},
 		{
-			"headline": "This week in science: California wolves, the world's bugs, and the earliest quasars",
-			"url": "https://www.npr.org/2026/07/09/nx-s1-5877428/this-week-in-science-california-wolves-the-worlds-bugs-and-the-earliest-quasars",
-			"source": "NPR Science",
-			"publishedAt": "2026-07-09T20:01:44.000Z"
-		},
-		{
 			"headline": "Bacteria levels spike at several L.A. County beaches: See which ones to avoid",
 			"url": "https://www.latimes.com/california/story/2026-07-09/bacteria-levels-spike-at-la-county-beaches-see-which-ones-to-avoid",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-09T17:13:31.000Z"
-		},
-		{
-			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
-			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
-			"source": "Caltech",
-			"publishedAt": "2026-07-09T15:21:25.041Z"
 		},
 		{
 			"headline": "These wolves returned to California, but their eating habits have sparked alarm",
@@ -54,6 +66,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-09/should-we-spray-burn-scars-with-glyphosate-californians-reckon-with-grim-reality",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-09T10:00:00.000Z"
+		},
+		{
+			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
+			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
+			"source": "Caltech",
+			"publishedAt": "2026-07-09T15:21:25.041Z"
 		},
 		{
 			"headline": "Not everyone is leaving California. A new commercial battery maker just landed in Sacramento",
@@ -80,6 +98,12 @@
 			"publishedAt": "2026-07-08T16:25:48.734Z"
 		},
 		{
+			"headline": "Environmental justice group sues California over carbon market overhaul",
+			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T21:56:16.000Z"
+		},
+		{
 			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
 			"url": "https://www.mbari.org/news/expedition-led-by-mbari-researchers-reveals-remarkable-and-rare-form-of-deep-sea-hydrothermal-vents/",
 			"source": "MBARI",
@@ -90,18 +114,6 @@
 			"url": "https://www.caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
 			"source": "Caltech",
 			"publishedAt": "2026-07-07T15:08:00.000Z"
-		},
-		{
-			"headline": "Environmental justice group sues California over carbon market overhaul",
-			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T21:56:16.000Z"
-		},
-		{
-			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
-			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T17:10:02.000Z"
 		},
 		{
 			"headline": "UC Berkeley and UCSF launch computational biomedicine initiative",
