@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-07-12T16:40:40.975Z",
+	"lastUpdated": "2026-07-12T20:32:35.290Z",
 	"items": [
+		{
+			"headline": "Magnitude 3.2 earthquake reported near Arvin",
+			"url": "https://www.latimes.com/california/story/2026-07-12/magnitude-3-2-earthquake-reported-near-arvin",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-12T18:43:57.000Z"
+		},
 		{
 			"headline": "Earthquake: 4.2 quake near Bakersfield",
 			"url": "https://www.latimes.com/california/story/2026-07-12/earthquake-4-2-quake-in-frasier-park",
@@ -38,22 +44,22 @@
 			"publishedAt": "2026-07-10T22:00:01.000Z"
 		},
 		{
-			"headline": "Summit fire grows to 2,679 acres amid SoCal heat wave, looming monsoon conditions",
+			"headline": "Summit fire's progress stalls at 2,690 acres amid SoCal heat wave, looming monsoon conditions",
 			"url": "https://www.latimes.com/california/story/2026-07-10/growing-lucerne-valley-brush-fire-ignites-several-structures",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-10T20:44:31.000Z"
-		},
-		{
-			"headline": "Gunman in deadly California high school graduation shooting caught in Texas, police say",
-			"url": "https://www.latimes.com/california/story/2026-07-10/norcal-graduation-shooting-arrest-texas",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T19:35:02.000Z"
 		},
 		{
 			"headline": "Nobel Prize winner leaving UC Berkeley for new role in China",
 			"url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-10T17:06:18.000Z"
+		},
+		{
+			"headline": "Safety concerns over solar panels were raised a year before massive Boyle Heights fire",
+			"url": "https://www.latimes.com/california/story/2026-07-10/lineage-lobbying-boyle-heights-warehouse-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T16:34:51.000Z"
 		},
 		{
 			"headline": "Trump administration proposal would all but end scientific merit in grant funding, critics say",
@@ -86,12 +92,6 @@
 			"publishedAt": "2026-07-09T20:01:44.000Z"
 		},
 		{
-			"headline": "Bacteria levels spike at several L.A. County beaches: See which ones to avoid",
-			"url": "https://www.latimes.com/california/story/2026-07-09/bacteria-levels-spike-at-la-county-beaches-see-which-ones-to-avoid",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T17:13:31.000Z"
-		},
-		{
 			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
 			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
 			"source": "Caltech",
@@ -110,16 +110,10 @@
 			"publishedAt": "2026-07-09T10:00:00.000Z"
 		},
 		{
-			"headline": "UC weighs return of SAT amid early signs of changing views and faculty pressure",
-			"url": "https://www.latimes.com/california/story/2026-07-09/uc-sat-act-return-admissions-math-skills",
+			"headline": "Bacteria levels spike at several L.A. County beaches: See which ones to avoid",
+			"url": "https://www.latimes.com/california/story/2026-07-09/bacteria-levels-spike-at-la-county-beaches-see-which-ones-to-avoid",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T10:00:00.000Z"
-		},
-		{
-			"headline": "Nearly 100 dementia patients are being evicted from their Redondo Beach home. Why it's sparking outrage",
-			"url": "https://www.latimes.com/california/story/2026-07-09/scores-of-la-dementia-patients-set-to-be-evicted-families-outraged",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T12:00:00.000Z"
+			"publishedAt": "2026-07-09T17:13:31.000Z"
 		},
 		{
 			"headline": "Not everyone is leaving California. A new commercial battery maker just landed in Sacramento",
@@ -134,6 +128,18 @@
 			"publishedAt": "2026-07-08T12:00:00.000Z"
 		},
 		{
+			"headline": "Environmental justice group sues California over carbon market overhaul",
+			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T21:56:16.000Z"
+		},
+		{
+			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
+			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T17:10:02.000Z"
+		},
+		{
 			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
 			"url": "https://www.mbari.org/news/expedition-led-by-mbari-researchers-reveals-remarkable-and-rare-form-of-deep-sea-hydrothermal-vents/",
 			"source": "MBARI",
@@ -144,12 +150,6 @@
 			"url": "https://www.caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
 			"source": "Caltech",
 			"publishedAt": "2026-07-07T15:08:00.000Z"
-		},
-		{
-			"headline": "Environmental justice group sues California over carbon market overhaul",
-			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T21:56:16.000Z"
 		}
 	]
 }
