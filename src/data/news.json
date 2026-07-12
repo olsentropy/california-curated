@@ -1,12 +1,6 @@
 {
-	"lastUpdated": "2026-07-12T09:38:54.917Z",
+	"lastUpdated": "2026-07-12T12:44:45.635Z",
 	"items": [
-		{
-			"headline": "Second Antelope Valley fire burns 188 acres",
-			"url": "https://www.latimes.com/california/story/2026-07-11/juno-fire-burns-188-acres-in-antelope-valley",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-12T04:54:49.000Z"
-		},
 		{
 			"headline": "Trump slashes wildlife protections, putting endangered California animals at risk",
 			"url": "https://www.latimes.com/california/story/2026-07-11/trump-endangered-species-act-california",
@@ -14,28 +8,10 @@
 			"publishedAt": "2026-07-11T21:07:18.000Z"
 		},
 		{
-			"headline": "Lopez: Californians rallied to save the coast 50 years ago. Trump is spoiling the celebration",
-			"url": "https://www.latimes.com/california/story/2026-07-11/lopez-column-coastal-act-50-years-trump",
+			"headline": "Second Antelope Valley fire burns 188 acres",
+			"url": "https://www.latimes.com/california/story/2026-07-11/juno-fire-burns-188-acres-in-antelope-valley",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-11T12:00:00.000Z"
-		},
-		{
-			"headline": "Berkeley Talks: When we talk to AI, what are we talking to?",
-			"url": "https://news.berkeley.edu/2026/07/10/berkeley-talks-when-we-talk-to-ai-what-are-we-talking-to/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-10T23:19:05.000Z"
-		},
-		{
-			"headline": "Senior Scientist Francisco Chavez shares MBARI science at international conferences",
-			"url": "https://www.mbari.org/news/senior-scientist-francisco-chavez-shares-mbari-science-at-international-conferences/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-10T22:00:01.000Z"
-		},
-		{
-			"headline": "Summit fire grows to 2,679 acres amid SoCal heat wave, looming monsoon conditions",
-			"url": "https://www.latimes.com/california/story/2026-07-10/growing-lucerne-valley-brush-fire-ignites-several-structures",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T20:44:31.000Z"
+			"publishedAt": "2026-07-12T04:54:49.000Z"
 		},
 		{
 			"headline": "Nobel Prize winner leaving UC Berkeley for new role in China",
@@ -44,28 +20,28 @@
 			"publishedAt": "2026-07-10T17:06:18.000Z"
 		},
 		{
-			"headline": "Safety concerns over solar panels were raised a year before massive Boyle Heights fire",
-			"url": "https://www.latimes.com/california/story/2026-07-10/lineage-lobbying-boyle-heights-warehouse-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T16:34:51.000Z"
+			"headline": "Senior Scientist Francisco Chavez shares MBARI science at international conferences",
+			"url": "https://www.mbari.org/news/senior-scientist-francisco-chavez-shares-mbari-science-at-international-conferences/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-10T22:00:01.000Z"
 		},
 		{
-			"headline": "Trump administration proposal would all but end scientific merit in grant funding, critics say",
-			"url": "https://www.latimes.com/science/story/2026-07-10/trump-administration-seeks-to-limit-federal-funding-that-doesnt-advance-presidential-policies",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T10:00:00.000Z"
+			"headline": "Berkeley Talks: When we talk to AI, what are we talking to?",
+			"url": "https://news.berkeley.edu/2026/07/10/berkeley-talks-when-we-talk-to-ai-what-are-we-talking-to/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-10T23:19:05.000Z"
 		},
 		{
-			"headline": "Diarrhea-causing cyclosporiasis exceeds 1,000 cases in U.S. What Californians should know",
-			"url": "https://www.latimes.com/california/story/2026-07-09/cyclosporiasis-hits-1-000-cases-in-u-s-what-californians-should-know",
+			"headline": "Summit fire grows to 2,679 acres amid SoCal heat wave, looming monsoon conditions",
+			"url": "https://www.latimes.com/california/story/2026-07-10/growing-lucerne-valley-brush-fire-ignites-several-structures",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T01:27:26.000Z"
+			"publishedAt": "2026-07-10T20:44:31.000Z"
 		},
 		{
-			"headline": "Evacuation warnings issued as more than 100 firefighters battle Lake Piru brush fire",
-			"url": "https://www.latimes.com/california/story/2026-07-09/grande-fire-brush-fire-triggers-lake-piru-evacuations",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T00:20:30.000Z"
+			"headline": "Trump administration rolls back a key protection for imperiled wildlife",
+			"url": "https://www.npr.org/2026/07/11/nx-s1-5890025/trump-administration-imperiled-wildlife",
+			"source": "NPR Science",
+			"publishedAt": "2026-07-11T05:48:40.000Z"
 		},
 		{
 			"headline": "Trump administration clears path for controversial Mojave Desert water pipeline",
@@ -80,34 +56,22 @@
 			"publishedAt": "2026-07-09T22:33:54.000Z"
 		},
 		{
-			"headline": "Strong El Niño now a virtual certainty, forecasters say. What it means for California",
-			"url": "https://www.latimes.com/california/story/2026-07-09/strong-el-nino-now-virtual-certainty-what-it-means-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T21:44:52.000Z"
-		},
-		{
 			"headline": "A Surprisingly Chill Hang Around a (Prescribed) Fire",
 			"url": "https://baynature.org/2026/07/09/photo-essay/a-surprisingly-chill-hang-around-a-prescribed-fire/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-07-09T21:47:12.000Z"
 		},
 		{
+			"headline": "Strong El Niño now a virtual certainty, forecasters say. What it means for California",
+			"url": "https://www.latimes.com/california/story/2026-07-09/strong-el-nino-now-virtual-certainty-what-it-means-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-09T21:44:52.000Z"
+		},
+		{
 			"headline": "This week in science: California wolves, the world's bugs, and the earliest quasars",
 			"url": "https://www.npr.org/2026/07/09/nx-s1-5877428/this-week-in-science-california-wolves-the-worlds-bugs-and-the-earliest-quasars",
 			"source": "NPR Science",
 			"publishedAt": "2026-07-09T20:01:44.000Z"
-		},
-		{
-			"headline": "Bacteria levels spike at several L.A. County beaches: See which ones to avoid",
-			"url": "https://www.latimes.com/california/story/2026-07-09/bacteria-levels-spike-at-la-county-beaches-see-which-ones-to-avoid",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T17:13:31.000Z"
-		},
-		{
-			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
-			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
-			"source": "Caltech",
-			"publishedAt": "2026-07-09T15:21:25.041Z"
 		},
 		{
 			"headline": "These wolves returned to California, but their eating habits have sparked alarm",
@@ -122,10 +86,16 @@
 			"publishedAt": "2026-07-09T10:00:00.000Z"
 		},
 		{
-			"headline": "Not everyone is leaving California. A new commercial battery maker just landed in Sacramento",
-			"url": "https://www.latimes.com/environment/story/2026-07-08/new-kind-of-battery-comes-to-california",
+			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
+			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
+			"source": "Caltech",
+			"publishedAt": "2026-07-09T15:21:25.041Z"
+		},
+		{
+			"headline": "Heat expected to stick around in Southern California as critical fire weather looms",
+			"url": "https://www.latimes.com/california/story/2026-07-08/socal-heat-wave-fires",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-08T21:02:23.000Z"
+			"publishedAt": "2026-07-08T13:29:19.000Z"
 		},
 		{
 			"headline": "West Nile is spreading faster than it has in 20 years. Here's how to keep yourself safe",
@@ -134,10 +104,10 @@
 			"publishedAt": "2026-07-08T12:00:00.000Z"
 		},
 		{
-			"headline": "Heat expected to stick around in Southern California as critical fire weather looms",
-			"url": "https://www.latimes.com/california/story/2026-07-08/socal-heat-wave-fires",
+			"headline": "Not everyone is leaving California. A new commercial battery maker just landed in Sacramento",
+			"url": "https://www.latimes.com/environment/story/2026-07-08/new-kind-of-battery-comes-to-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-08T13:29:19.000Z"
+			"publishedAt": "2026-07-08T21:02:23.000Z"
 		},
 		{
 			"headline": "Environmental justice group sues California over carbon market overhaul",
@@ -150,6 +120,36 @@
 			"url": "https://www.mbari.org/news/expedition-led-by-mbari-researchers-reveals-remarkable-and-rare-form-of-deep-sea-hydrothermal-vents/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-07T16:00:14.000Z"
+		},
+		{
+			"headline": "Steering Light in a Flash: New Chip Redirects Light Beams in Less Than a Trillionth of a Second",
+			"url": "https://www.caltech.edu/about/news/steering-light-in-a-flash-new-chip-redirects-light-beams-in-less-than-a-trillionth-of-a-second",
+			"source": "Caltech",
+			"publishedAt": "2026-07-07T15:08:00.000Z"
+		},
+		{
+			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
+			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T17:10:02.000Z"
+		},
+		{
+			"headline": "Bacteria levels spike at several L.A. County beaches: See which ones to avoid",
+			"url": "https://www.latimes.com/california/story/2026-07-09/bacteria-levels-spike-at-la-county-beaches-see-which-ones-to-avoid",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-09T17:13:31.000Z"
+		},
+		{
+			"headline": "Diarrhea-causing cyclosporiasis exceeds 1,000 cases in U.S. What Californians should know",
+			"url": "https://www.latimes.com/california/story/2026-07-09/cyclosporiasis-hits-1-000-cases-in-u-s-what-californians-should-know",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T01:27:26.000Z"
+		},
+		{
+			"headline": "Evacuation warnings issued as more than 100 firefighters battle Lake Piru brush fire",
+			"url": "https://www.latimes.com/california/story/2026-07-09/grande-fire-brush-fire-triggers-lake-piru-evacuations",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T00:20:30.000Z"
 		}
 	]
 }
