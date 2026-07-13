@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-07-13T06:41:57.915Z",
+	"lastUpdated": "2026-07-13T10:46:04.883Z",
 	"items": [
+		{
+			"headline": "A 'super' El Niño is brewing. Experts fear historic dangers from extreme weather",
+			"url": "https://www.latimes.com/california/story/2026-07-13/super-el-nino-is-brewing-how-bad-would-historic-weather-system-get",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-13T10:00:00.000Z"
+		},
 		{
 			"headline": "Crews gain upper hand on Summit fire; evacuation orders in Antelope Valley lifted",
 			"url": "https://www.latimes.com/california/story/2026-07-12/crews-gain-upper-hand-on-summit-fire-evacuation-orders-rescinded",
@@ -80,12 +86,6 @@
 			"publishedAt": "2026-07-09T20:01:44.000Z"
 		},
 		{
-			"headline": "Bacteria levels spike at several L.A. County beaches: See which ones to avoid",
-			"url": "https://www.latimes.com/california/story/2026-07-09/bacteria-levels-spike-at-la-county-beaches-see-which-ones-to-avoid",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T17:13:31.000Z"
-		},
-		{
 			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
 			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
 			"source": "Caltech",
@@ -104,40 +104,22 @@
 			"publishedAt": "2026-07-09T10:00:00.000Z"
 		},
 		{
-			"headline": "A Surprisingly Chill Hang Around a (Prescribed) Fire",
-			"url": "https://baynature.org/2026/07/09/photo-essay/a-surprisingly-chill-hang-around-a-prescribed-fire/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-09T21:47:12.000Z"
-		},
-		{
-			"headline": "Strong El Niño now a virtual certainty, forecasters say. What it means for California",
+			"headline": "A 'super' El Niño is brewing. Experts fear historic dangers from extreme weather",
 			"url": "https://www.latimes.com/california/story/2026-07-09/strong-el-nino-now-virtual-certainty-what-it-means-for-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-09T21:44:52.000Z"
 		},
 		{
-			"headline": "Trump administration clears path for controversial Mojave Desert water pipeline",
-			"url": "https://www.latimes.com/environment/story/2026-07-09/cadiz-water-pipeline",
+			"headline": "Bacteria levels spike at several L.A. County beaches: See which ones to avoid",
+			"url": "https://www.latimes.com/california/story/2026-07-09/bacteria-levels-spike-at-la-county-beaches-see-which-ones-to-avoid",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T00:14:57.000Z"
+			"publishedAt": "2026-07-09T17:13:31.000Z"
 		},
 		{
-			"headline": "Evacuation warnings issued as more than 100 firefighters battle Lake Piru brush fire",
-			"url": "https://www.latimes.com/california/story/2026-07-09/grande-fire-brush-fire-triggers-lake-piru-evacuations",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T00:20:30.000Z"
-		},
-		{
-			"headline": "California will see its first monsoon storms of the season, raising fire concerns",
-			"url": "https://www.latimes.com/california/story/2026-07-09/california-fire-risks-rise-as-first-monsoon-storms-approach",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T22:33:54.000Z"
-		},
-		{
-			"headline": "Not everyone is leaving California. A new commercial battery maker just landed in Sacramento",
-			"url": "https://www.latimes.com/environment/story/2026-07-08/new-kind-of-battery-comes-to-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-08T21:02:23.000Z"
+			"headline": "A Surprisingly Chill Hang Around a (Prescribed) Fire",
+			"url": "https://baynature.org/2026/07/09/photo-essay/a-surprisingly-chill-hang-around-a-prescribed-fire/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-09T21:47:12.000Z"
 		},
 		{
 			"headline": "West Nile is spreading faster than it has in 20 years. Here's how to keep yourself safe",
@@ -146,10 +128,28 @@
 			"publishedAt": "2026-07-08T12:00:00.000Z"
 		},
 		{
+			"headline": "Not everyone is leaving California. A new commercial battery maker just landed in Sacramento",
+			"url": "https://www.latimes.com/environment/story/2026-07-08/new-kind-of-battery-comes-to-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-08T21:02:23.000Z"
+		},
+		{
 			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
 			"url": "https://www.mbari.org/news/expedition-led-by-mbari-researchers-reveals-remarkable-and-rare-form-of-deep-sea-hydrothermal-vents/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-07T16:00:14.000Z"
+		},
+		{
+			"headline": "Environmental justice group sues California over carbon market overhaul",
+			"url": "https://www.latimes.com/environment/story/2026-07-07/environmental-justice-group-sues-california-over-carbon-market-overhaul",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-07T21:56:16.000Z"
+		},
+		{
+			"headline": "Trump administration clears path for controversial Mojave Desert water pipeline",
+			"url": "https://www.latimes.com/environment/story/2026-07-09/cadiz-water-pipeline",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T00:14:57.000Z"
 		}
 	]
 }
