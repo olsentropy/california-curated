@@ -1,8 +1,14 @@
 {
-	"lastUpdated": "2026-07-13T13:53:12.407Z",
+	"lastUpdated": "2026-07-13T17:46:54.946Z",
 	"items": [
 		{
-			"headline": "A 'super' El Niño is brewing. Experts fear historic dangers from extreme weather",
+			"headline": "4.3 magnitude earthquake in Mojave Desert north of Edwards Air Force Base",
+			"url": "https://www.latimes.com/california/story/2026-07-13/mojave-quake-north-edwards-afb",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-13T17:34:21.000Z"
+		},
+		{
+			"headline": "A 'super' El Niño is brewing. Experts fear historic dangers from 'extraordinary' weather",
 			"url": "https://www.latimes.com/california/story/2026-07-13/super-el-nino-is-brewing-how-bad-would-historic-weather-system-get",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-13T10:00:00.000Z"
@@ -86,6 +92,12 @@
 			"publishedAt": "2026-07-10T10:00:00.000Z"
 		},
 		{
+			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
+			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
+			"source": "Caltech",
+			"publishedAt": "2026-07-09T15:21:25.041Z"
+		},
+		{
 			"headline": "This week in science: California wolves, the world's bugs, and the earliest quasars",
 			"url": "https://www.npr.org/2026/07/09/nx-s1-5877428/this-week-in-science-california-wolves-the-worlds-bugs-and-the-earliest-quasars",
 			"source": "NPR Science",
@@ -110,12 +122,6 @@
 			"publishedAt": "2026-07-09T17:13:31.000Z"
 		},
 		{
-			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
-			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
-			"source": "Caltech",
-			"publishedAt": "2026-07-09T15:21:25.041Z"
-		},
-		{
 			"headline": "These wolves returned to California, but their eating habits have sparked alarm",
 			"url": "https://www.latimes.com/california/story/2026-07-09/california-wolves-eat-much-more-cattle-than-wild-prey-study-finds",
 			"source": "Los Angeles Times",
@@ -134,22 +140,16 @@
 			"publishedAt": "2026-07-08T21:02:23.000Z"
 		},
 		{
+			"headline": "Heat expected to stick around in Southern California as critical fire weather looms",
+			"url": "https://www.latimes.com/california/story/2026-07-08/socal-heat-wave-fires",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-08T13:29:19.000Z"
+		},
+		{
 			"headline": "West Nile is spreading faster than it has in 20 years. Here's how to keep yourself safe",
 			"url": "https://www.latimes.com/california/story/2026-07-08/west-nile-is-spreading-faster-than-it-has-in-20-years-heres-how-to-keep-yourself-safe",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-08T12:00:00.000Z"
-		},
-		{
-			"headline": "Heat wave set to bake L.A. County. Here's when it will be hottest",
-			"url": "https://www.latimes.com/california/story/2026-07-07/heat-wave-bakes-los-angeles-heres-when-it-will-be-hottest",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-07T17:10:02.000Z"
-		},
-		{
-			"headline": "Expedition led by MBARI researchers reveals remarkable, and rare, form of deep-sea hydrothermal vents",
-			"url": "https://www.mbari.org/news/expedition-led-by-mbari-researchers-reveals-remarkable-and-rare-form-of-deep-sea-hydrothermal-vents/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-07T16:00:14.000Z"
 		}
 	]
 }
