@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-14T06:01:37.786Z",
+	"lastUpdated": "2026-07-14T09:42:07.774Z",
 	"items": [
 		{
 			"headline": "25 UC Berkeley breakthroughs to commemorate America's 250th birthday",
@@ -20,16 +20,22 @@
 			"publishedAt": "2026-07-13T17:34:21.000Z"
 		},
 		{
-			"headline": "'Dangerous heat' to broil Southern California this week, raising health and fire risks",
-			"url": "https://www.latimes.com/california/story/2026-07-13/dangerous-heat-to-broil-southern-california-this-week-raising-health-fire-risks",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-13T18:41:51.000Z"
+			"headline": "Caltech Mourns the Passing of Mark B. Wise (1953–2026)",
+			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-mark-b-wise-19532026",
+			"source": "Caltech",
+			"publishedAt": "2026-07-13T16:12:00.000Z"
 		},
 		{
 			"headline": "A 'super' El Niño is brewing. Experts fear historic dangers from 'extraordinary' weather",
 			"url": "https://www.latimes.com/california/story/2026-07-13/super-el-nino-is-brewing-how-bad-would-historic-weather-system-get",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-13T10:00:00.000Z"
+		},
+		{
+			"headline": "Crews gain upper hand on Summit fire; evacuation orders in Antelope Valley lifted",
+			"url": "https://www.latimes.com/california/story/2026-07-12/crews-gain-upper-hand-on-summit-fire-evacuation-orders-rescinded",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-13T04:59:47.000Z"
 		},
 		{
 			"headline": "PG&E should pay $22 million for Mosquito fire violations, regulators say",
@@ -48,6 +54,12 @@
 			"url": "https://www.latimes.com/california/story/2026-07-12/earthquake-4-2-quake-in-frasier-park",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-12T15:30:56.000Z"
+		},
+		{
+			"headline": "Second Antelope Valley fire burns 188 acres",
+			"url": "https://www.latimes.com/california/story/2026-07-11/juno-fire-burns-188-acres-in-antelope-valley",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-12T04:54:49.000Z"
 		},
 		{
 			"headline": "Trump slashes wildlife protections, putting endangered California animals at risk",
@@ -74,10 +86,10 @@
 			"publishedAt": "2026-07-10T22:00:01.000Z"
 		},
 		{
-			"headline": "Berkeley Talks: When we talk to AI, what are we talking to?",
-			"url": "https://news.berkeley.edu/2026/07/10/berkeley-talks-when-we-talk-to-ai-what-are-we-talking-to/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-10T23:19:05.000Z"
+			"headline": "Safety concerns over solar panels were raised a year before massive Boyle Heights fire",
+			"url": "https://www.latimes.com/california/story/2026-07-10/lineage-lobbying-boyle-heights-warehouse-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T16:34:51.000Z"
 		},
 		{
 			"headline": "Trump administration proposal would all but end scientific merit in grant funding, critics say",
@@ -92,34 +104,10 @@
 			"publishedAt": "2026-07-10T00:14:57.000Z"
 		},
 		{
-			"headline": "California will see its first monsoon storms of the season, raising fire concerns",
-			"url": "https://www.latimes.com/california/story/2026-07-09/california-fire-risks-rise-as-first-monsoon-storms-approach",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T22:33:54.000Z"
-		},
-		{
-			"headline": "Strong El Niño now a virtual certainty, forecasters say. What it means for California",
-			"url": "https://www.latimes.com/california/story/2026-07-09/strong-el-nino-now-virtual-certainty-what-it-means-for-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T21:44:52.000Z"
-		},
-		{
-			"headline": "This week in science: California wolves, the world's bugs, and the earliest quasars",
-			"url": "https://www.npr.org/2026/07/09/nx-s1-5877428/this-week-in-science-california-wolves-the-worlds-bugs-and-the-earliest-quasars",
-			"source": "NPR Science",
-			"publishedAt": "2026-07-09T20:01:44.000Z"
-		},
-		{
-			"headline": "Bacteria levels spike at several L.A. County beaches: See which ones to avoid",
-			"url": "https://www.latimes.com/california/story/2026-07-09/bacteria-levels-spike-at-la-county-beaches-see-which-ones-to-avoid",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T17:13:31.000Z"
-		},
-		{
-			"headline": "These wolves returned to California, but their eating habits have sparked alarm",
-			"url": "https://www.latimes.com/california/story/2026-07-09/california-wolves-eat-much-more-cattle-than-wild-prey-study-finds",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T11:00:00.000Z"
+			"headline": "Berkeley Talks: When we talk to AI, what are we talking to?",
+			"url": "https://news.berkeley.edu/2026/07/10/berkeley-talks-when-we-talk-to-ai-what-are-we-talking-to/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-10T23:19:05.000Z"
 		},
 		{
 			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
@@ -128,28 +116,40 @@
 			"publishedAt": "2026-07-09T15:21:25.041Z"
 		},
 		{
+			"headline": "This week in science: California wolves, the world's bugs, and the earliest quasars",
+			"url": "https://www.npr.org/2026/07/09/nx-s1-5877428/this-week-in-science-california-wolves-the-worlds-bugs-and-the-earliest-quasars",
+			"source": "NPR Science",
+			"publishedAt": "2026-07-09T20:01:44.000Z"
+		},
+		{
+			"headline": "These wolves returned to California, but their eating habits have sparked alarm",
+			"url": "https://www.latimes.com/california/story/2026-07-09/california-wolves-eat-much-more-cattle-than-wild-prey-study-finds",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-09T11:00:00.000Z"
+		},
+		{
 			"headline": "'I'd rather my house burn down than get cancer': Two California communities fight to save their forests",
 			"url": "https://www.latimes.com/environment/story/2026-07-09/should-we-spray-burn-scars-with-glyphosate-californians-reckon-with-grim-reality",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-09T10:00:00.000Z"
 		},
 		{
-			"headline": "A Training Device to Build Technical Skills and Expand Access to High-Performance Diagnostic Testing",
-			"url": "https://www.caltech.edu/about/news/a-training-device-to-build-technical-skills-and-expand-access-to-high-performance-diagnostic-testing",
-			"source": "Caltech",
-			"publishedAt": "2026-07-08T16:25:48.734Z"
+			"headline": "A Surprisingly Chill Hang Around a (Prescribed) Fire",
+			"url": "https://baynature.org/2026/07/09/photo-essay/a-surprisingly-chill-hang-around-a-prescribed-fire/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-09T21:47:12.000Z"
+		},
+		{
+			"headline": "Strong El Niño now a virtual certainty, forecasters say. What it means for California",
+			"url": "https://www.latimes.com/california/story/2026-07-09/strong-el-nino-now-virtual-certainty-what-it-means-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-09T21:44:52.000Z"
 		},
 		{
 			"headline": "West Nile is spreading faster than it has in 20 years. Here's how to keep yourself safe",
 			"url": "https://www.latimes.com/california/story/2026-07-08/west-nile-is-spreading-faster-than-it-has-in-20-years-heres-how-to-keep-yourself-safe",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-08T12:00:00.000Z"
-		},
-		{
-			"headline": "Not everyone is leaving California. A new commercial battery maker just landed in Sacramento",
-			"url": "https://www.latimes.com/environment/story/2026-07-08/new-kind-of-battery-comes-to-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-08T21:02:23.000Z"
 		}
 	]
 }
