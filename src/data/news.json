@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-14T01:07:05.534Z",
+	"lastUpdated": "2026-07-14T06:01:37.786Z",
 	"items": [
 		{
 			"headline": "25 UC Berkeley breakthroughs to commemorate America's 250th birthday",
@@ -14,34 +14,22 @@
 			"publishedAt": "2026-07-13T22:31:22.000Z"
 		},
 		{
-			"headline": "'Dangerous heat' to broil Southern California this week, raising health and fire risks",
-			"url": "https://www.latimes.com/california/story/2026-07-13/dangerous-heat-to-broil-southern-california-this-week-raising-health-fire-risks",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-13T18:41:51.000Z"
-		},
-		{
 			"headline": "Earthquakes north of L.A. appear to be on or close to San Andreas, Garlock faults",
 			"url": "https://www.latimes.com/california/story/2026-07-13/mojave-quake-north-edwards-afb",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-13T17:34:21.000Z"
 		},
 		{
-			"headline": "Caltech Mourns the Passing of Mark B. Wise (1953–2026)",
-			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-mark-b-wise-19532026",
-			"source": "Caltech",
-			"publishedAt": "2026-07-13T16:12:00.000Z"
+			"headline": "'Dangerous heat' to broil Southern California this week, raising health and fire risks",
+			"url": "https://www.latimes.com/california/story/2026-07-13/dangerous-heat-to-broil-southern-california-this-week-raising-health-fire-risks",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-13T18:41:51.000Z"
 		},
 		{
 			"headline": "A 'super' El Niño is brewing. Experts fear historic dangers from 'extraordinary' weather",
 			"url": "https://www.latimes.com/california/story/2026-07-13/super-el-nino-is-brewing-how-bad-would-historic-weather-system-get",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-13T10:00:00.000Z"
-		},
-		{
-			"headline": "Crews gain upper hand on Summit fire; evacuation orders in Antelope Valley lifted",
-			"url": "https://www.latimes.com/california/story/2026-07-12/crews-gain-upper-hand-on-summit-fire-evacuation-orders-rescinded",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-13T04:59:47.000Z"
 		},
 		{
 			"headline": "PG&E should pay $22 million for Mosquito fire violations, regulators say",
@@ -62,16 +50,22 @@
 			"publishedAt": "2026-07-12T15:30:56.000Z"
 		},
 		{
-			"headline": "Second Antelope Valley fire burns 188 acres",
-			"url": "https://www.latimes.com/california/story/2026-07-11/juno-fire-burns-188-acres-in-antelope-valley",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-12T04:54:49.000Z"
-		},
-		{
 			"headline": "Trump slashes wildlife protections, putting endangered California animals at risk",
 			"url": "https://www.latimes.com/california/story/2026-07-11/trump-endangered-species-act-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-11T21:07:18.000Z"
+		},
+		{
+			"headline": "Lopez: Californians rallied to save the coast 50 years ago. Trump is spoiling the celebration",
+			"url": "https://www.latimes.com/california/story/2026-07-11/lopez-column-coastal-act-50-years-trump",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-11T12:00:00.000Z"
+		},
+		{
+			"headline": "Nobel Prize winner leaving UC Berkeley for new role in China",
+			"url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T17:06:18.000Z"
 		},
 		{
 			"headline": "Senior Scientist Francisco Chavez shares MBARI science at international conferences",
@@ -86,12 +80,6 @@
 			"publishedAt": "2026-07-10T23:19:05.000Z"
 		},
 		{
-			"headline": "Nobel Prize winner leaving UC Berkeley for new role in China",
-			"url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T17:06:18.000Z"
-		},
-		{
 			"headline": "Trump administration proposal would all but end scientific merit in grant funding, critics say",
 			"url": "https://www.latimes.com/science/story/2026-07-10/trump-administration-seeks-to-limit-federal-funding-that-doesnt-advance-presidential-policies",
 			"source": "Los Angeles Times",
@@ -104,10 +92,16 @@
 			"publishedAt": "2026-07-10T00:14:57.000Z"
 		},
 		{
-			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
-			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
-			"source": "Caltech",
-			"publishedAt": "2026-07-09T15:21:25.041Z"
+			"headline": "California will see its first monsoon storms of the season, raising fire concerns",
+			"url": "https://www.latimes.com/california/story/2026-07-09/california-fire-risks-rise-as-first-monsoon-storms-approach",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-09T22:33:54.000Z"
+		},
+		{
+			"headline": "Strong El Niño now a virtual certainty, forecasters say. What it means for California",
+			"url": "https://www.latimes.com/california/story/2026-07-09/strong-el-nino-now-virtual-certainty-what-it-means-for-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-09T21:44:52.000Z"
 		},
 		{
 			"headline": "This week in science: California wolves, the world's bugs, and the earliest quasars",
@@ -126,6 +120,12 @@
 			"url": "https://www.latimes.com/california/story/2026-07-09/california-wolves-eat-much-more-cattle-than-wild-prey-study-finds",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-09T11:00:00.000Z"
+		},
+		{
+			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
+			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
+			"source": "Caltech",
+			"publishedAt": "2026-07-09T15:21:25.041Z"
 		},
 		{
 			"headline": "'I'd rather my house burn down than get cancer': Two California communities fight to save their forests",
