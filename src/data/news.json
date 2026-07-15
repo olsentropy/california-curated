@@ -1,17 +1,11 @@
 {
-	"lastUpdated": "2026-07-15T06:03:43.334Z",
+	"lastUpdated": "2026-07-15T09:45:20.016Z",
 	"items": [
 		{
 			"headline": "It's time for the night trip to the beach — the grunion are running",
 			"url": "https://www.latimes.com/environment/story/2026-07-14/its-time-for-night-trip-to-beach-grunion-are-running",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-14T22:11:20.000Z"
-		},
-		{
-			"headline": "Lobster poachers pinched in Santa Monica; crustaceans stuffed in bags, backpacks, a baby stroller",
-			"url": "https://www.latimes.com/california/story/2026-07-14/spiny-lobster-poachers-pinched-at-santa-monica-pier",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T21:21:25.000Z"
 		},
 		{
 			"headline": "This invasive insect threatens California's wine industry. It's been linked to another Costco-sold plant",
@@ -24,6 +18,12 @@
 			"url": "https://www.mbari.org/news/new-research-reveals-factors-driving-the-evolution-of-remarkable-eyes-in-deep-sea-amphipods/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-14T18:30:15.000Z"
+		},
+		{
+			"headline": "Researchers shed new light on ancient concrete's extraordinary durability",
+			"url": "https://engineering.berkeley.edu/news/2026/07/researchers-shed-new-light-on-ancient-concretes-extraordinary-durability/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-14T17:58:05.000Z"
 		},
 		{
 			"headline": "Dangerous heat wave hits L.A.: How long will it last? How high will temperatures soar?",
@@ -56,16 +56,16 @@
 			"publishedAt": "2026-07-13T10:00:00.000Z"
 		},
 		{
-			"headline": "Earthquakes north of L.A. appear to be on or close to San Andreas, Garlock faults",
-			"url": "https://www.latimes.com/california/story/2026-07-13/mojave-quake-north-edwards-afb",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-13T17:34:21.000Z"
-		},
-		{
 			"headline": "Caltech Mourns the Passing of Mark B. Wise (1953–2026)",
 			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-mark-b-wise-19532026",
 			"source": "Caltech",
 			"publishedAt": "2026-07-13T16:12:00.000Z"
+		},
+		{
+			"headline": "Earthquakes north of L.A. appear to be on or close to San Andreas, Garlock faults",
+			"url": "https://www.latimes.com/california/story/2026-07-13/mojave-quake-north-edwards-afb",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-13T17:34:21.000Z"
 		},
 		{
 			"headline": "PG&E should pay $22 million for Mosquito fire violations, regulators say",
@@ -86,16 +86,16 @@
 			"publishedAt": "2026-07-12T15:30:56.000Z"
 		},
 		{
-			"headline": "Second Antelope Valley fire burns 188 acres",
-			"url": "https://www.latimes.com/california/story/2026-07-11/juno-fire-burns-188-acres-in-antelope-valley",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-12T04:54:49.000Z"
-		},
-		{
 			"headline": "Trump slashes wildlife protections, putting endangered California animals at risk",
 			"url": "https://www.latimes.com/california/story/2026-07-11/trump-endangered-species-act-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-11T21:07:18.000Z"
+		},
+		{
+			"headline": "Berkeley Talks: When we talk to AI, what are we talking to?",
+			"url": "https://news.berkeley.edu/2026/07/10/berkeley-talks-when-we-talk-to-ai-what-are-we-talking-to/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-10T23:19:05.000Z"
 		},
 		{
 			"headline": "Senior Scientist Francisco Chavez shares MBARI science at international conferences",
@@ -116,16 +116,16 @@
 			"publishedAt": "2026-07-10T17:06:18.000Z"
 		},
 		{
+			"headline": "Trump administration proposal would all but end scientific merit in grant funding, critics say",
+			"url": "https://www.latimes.com/science/story/2026-07-10/trump-administration-seeks-to-limit-federal-funding-that-doesnt-advance-presidential-policies",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T10:00:00.000Z"
+		},
+		{
 			"headline": "Trump administration clears path for controversial Mojave Desert water pipeline",
 			"url": "https://www.latimes.com/environment/story/2026-07-09/cadiz-water-pipeline",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-10T00:14:57.000Z"
-		},
-		{
-			"headline": "California will see its first monsoon storms of the season, raising fire concerns",
-			"url": "https://www.latimes.com/california/story/2026-07-09/california-fire-risks-rise-as-first-monsoon-storms-approach",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T22:33:54.000Z"
 		},
 		{
 			"headline": "A Surprisingly Chill Hang Around a (Prescribed) Fire",
