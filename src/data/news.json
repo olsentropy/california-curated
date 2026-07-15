@@ -1,11 +1,17 @@
 {
-	"lastUpdated": "2026-07-15T01:04:33.267Z",
+	"lastUpdated": "2026-07-15T06:03:43.334Z",
 	"items": [
 		{
-			"headline": "It's time for the night trip to the beach -- the grunion are running",
+			"headline": "It's time for the night trip to the beach — the grunion are running",
 			"url": "https://www.latimes.com/environment/story/2026-07-14/its-time-for-night-trip-to-beach-grunion-are-running",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-14T22:11:20.000Z"
+		},
+		{
+			"headline": "Lobster poachers pinched in Santa Monica; crustaceans stuffed in bags, backpacks, a baby stroller",
+			"url": "https://www.latimes.com/california/story/2026-07-14/spiny-lobster-poachers-pinched-at-santa-monica-pier",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-14T21:21:25.000Z"
 		},
 		{
 			"headline": "This invasive insect threatens California's wine industry. It's been linked to another Costco-sold plant",
@@ -20,22 +26,10 @@
 			"publishedAt": "2026-07-14T18:30:15.000Z"
 		},
 		{
-			"headline": "Researchers shed new light on ancient concrete's extraordinary durability",
-			"url": "https://engineering.berkeley.edu/news/2026/07/researchers-shed-new-light-on-ancient-concretes-extraordinary-durability/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-14T17:58:05.000Z"
-		},
-		{
 			"headline": "Dangerous heat wave hits L.A.: How long will it last? How high will temperatures soar?",
 			"url": "https://www.latimes.com/california/story/2026-07-14/socal-extreme-heat-warning-risks",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-14T17:16:34.000Z"
-		},
-		{
-			"headline": "From HBCUs to the Bay, mentoring the next generation of scientists",
-			"url": "https://news.berkeley.edu/2026/07/14/from-hbcus-to-the-bay-mentoring-the-next-generation-of-scientists/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-14T17:03:48.000Z"
 		},
 		{
 			"headline": "Scientists crack the code on predicting California's deadly cliff collapses",
@@ -50,12 +44,6 @@
 			"publishedAt": "2026-07-13T23:15:25.000Z"
 		},
 		{
-			"headline": "Report finds broad misuse of crowd-control weapons at immigration protests",
-			"url": "https://humanrights.berkeley.edu/uncategorized/widespread-misuse-of-crowd-control-weapons-by-law-enforcement-at-immigration-enforcement-protests-new-report-finds/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-13T22:55:25.000Z"
-		},
-		{
 			"headline": "Very ill L.A. County person found to have West Nile amid explosion of virus activity nationwide",
 			"url": "https://www.latimes.com/california/story/2026-07-13/west-nile-sickens-la-person-in-bad-year-for-virus-nationwide",
 			"source": "Los Angeles Times",
@@ -68,34 +56,46 @@
 			"publishedAt": "2026-07-13T10:00:00.000Z"
 		},
 		{
+			"headline": "Earthquakes north of L.A. appear to be on or close to San Andreas, Garlock faults",
+			"url": "https://www.latimes.com/california/story/2026-07-13/mojave-quake-north-edwards-afb",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-13T17:34:21.000Z"
+		},
+		{
+			"headline": "Caltech Mourns the Passing of Mark B. Wise (1953–2026)",
+			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-mark-b-wise-19532026",
+			"source": "Caltech",
+			"publishedAt": "2026-07-13T16:12:00.000Z"
+		},
+		{
+			"headline": "PG&E should pay $22 million for Mosquito fire violations, regulators say",
+			"url": "https://www.latimes.com/california/story/2026-07-12/pg-e-proposed-settlement-22-million-mosquito-fire-placer-county",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-12T21:43:32.000Z"
+		},
+		{
+			"headline": "Magnitude 3.2 earthquake reported near Arvin",
+			"url": "https://www.latimes.com/california/story/2026-07-12/magnitude-3-2-earthquake-reported-near-arvin",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-12T18:43:57.000Z"
+		},
+		{
+			"headline": "Earthquake: 4.2 quake near Bakersfield",
+			"url": "https://www.latimes.com/california/story/2026-07-12/earthquake-4-2-quake-in-frasier-park",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-12T15:30:56.000Z"
+		},
+		{
+			"headline": "Second Antelope Valley fire burns 188 acres",
+			"url": "https://www.latimes.com/california/story/2026-07-11/juno-fire-burns-188-acres-in-antelope-valley",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-12T04:54:49.000Z"
+		},
+		{
 			"headline": "Trump slashes wildlife protections, putting endangered California animals at risk",
 			"url": "https://www.latimes.com/california/story/2026-07-11/trump-endangered-species-act-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-11T21:07:18.000Z"
-		},
-		{
-			"headline": "Lopez: Californians rallied to save the coast 50 years ago. Trump is spoiling the celebration",
-			"url": "https://www.latimes.com/california/story/2026-07-11/lopez-column-coastal-act-50-years-trump",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-11T12:00:00.000Z"
-		},
-		{
-			"headline": "Nobel Prize winner leaving UC Berkeley for new role in China",
-			"url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T17:06:18.000Z"
-		},
-		{
-			"headline": "Safety concerns over solar panels were raised a year before massive Boyle Heights fire",
-			"url": "https://www.latimes.com/california/story/2026-07-10/lineage-lobbying-boyle-heights-warehouse-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T16:34:51.000Z"
-		},
-		{
-			"headline": "Trump administration proposal would all but end scientific merit in grant funding, critics say",
-			"url": "https://www.latimes.com/science/story/2026-07-10/trump-administration-seeks-to-limit-federal-funding-that-doesnt-advance-presidential-policies",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T10:00:00.000Z"
 		},
 		{
 			"headline": "Senior Scientist Francisco Chavez shares MBARI science at international conferences",
@@ -104,10 +104,16 @@
 			"publishedAt": "2026-07-10T22:00:01.000Z"
 		},
 		{
-			"headline": "Berkeley Talks: When we talk to AI, what are we talking to?",
-			"url": "https://news.berkeley.edu/2026/07/10/berkeley-talks-when-we-talk-to-ai-what-are-we-talking-to/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-10T23:19:05.000Z"
+			"headline": "Summit fire's progress stalls at 2,690 acres amid SoCal heat wave, looming monsoon conditions",
+			"url": "https://www.latimes.com/california/story/2026-07-10/growing-lucerne-valley-brush-fire-ignites-several-structures",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T20:44:31.000Z"
+		},
+		{
+			"headline": "Nobel Prize winner leaving UC Berkeley for new role in China",
+			"url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T17:06:18.000Z"
 		},
 		{
 			"headline": "Trump administration clears path for controversial Mojave Desert water pipeline",
@@ -134,22 +140,16 @@
 			"publishedAt": "2026-07-09T21:44:52.000Z"
 		},
 		{
-			"headline": "This week in science: California wolves, the world's bugs, and the earliest quasars",
-			"url": "https://www.npr.org/2026/07/09/nx-s1-5877428/this-week-in-science-california-wolves-the-worlds-bugs-and-the-earliest-quasars",
-			"source": "NPR Science",
-			"publishedAt": "2026-07-09T20:01:44.000Z"
+			"headline": "Bacteria levels spike at several L.A. County beaches: See which ones to avoid",
+			"url": "https://www.latimes.com/california/story/2026-07-09/bacteria-levels-spike-at-la-county-beaches-see-which-ones-to-avoid",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-09T17:13:31.000Z"
 		},
 		{
 			"headline": "Caltech Hosts Workshop on Data Centers and Community Impact for Local Leaders",
 			"url": "https://www.caltech.edu/about/news/caltech-hosts-workshop-on-data-centers-and-community-impact-for-local-leaders",
 			"source": "Caltech",
 			"publishedAt": "2026-07-09T15:21:25.041Z"
-		},
-		{
-			"headline": "These wolves returned to California, but their eating habits have sparked alarm",
-			"url": "https://www.latimes.com/california/story/2026-07-09/california-wolves-eat-much-more-cattle-than-wild-prey-study-finds",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-09T11:00:00.000Z"
 		}
 	]
 }
