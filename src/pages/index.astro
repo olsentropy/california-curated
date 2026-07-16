@@ -53,14 +53,6 @@ const sectionRails = SECTIONS.map((s) => {
 				)}
 
 				<aside class="hero-rail">
-					<a href="/science-feed/" class="science-promo">
-						<div class="science-promo-inner">
-							<span class="science-promo-label">Live Feed</span>
-							<h3 class="science-promo-title">California Science &amp; Nature News</h3>
-							<p class="science-promo-sub">Stories from 30+ California research labs, universities &amp; science media →</p>
-						</div>
-					</a>
-
 					<h3 class="rail-title">Previous Posts</h3>
 					{previousPosts.map((p) => (
 						<article class="rail-item">
@@ -72,6 +64,17 @@ const sectionRails = SECTIONS.map((s) => {
 					))}
 				</aside>
 			</section>
+
+			<!-- ====== SCIENCE PROMO ====== -->
+			<div class="container science-promo-row">
+				<a href="/science-feed/" class="science-promo">
+					<div class="science-promo-inner">
+						<span class="science-promo-label">Live Feed</span>
+						<h3 class="science-promo-title">California Science &amp; Nature News</h3>
+						<p class="science-promo-sub">Stories from 30+ California research labs, universities &amp; science media →</p>
+					</div>
+				</a>
+			</div>
 
 			<!-- ====== POPULAR FEATURES ====== -->
 			<section class="features-band">
@@ -325,6 +328,11 @@ const sectionRails = SECTIONS.map((s) => {
 	@media (max-width: 600px) {
 		.hero-secondary { flex-direction: column; }
 		.rail-grid { grid-template-columns: 1fr; }
+	}
+
+	/* Science feed promo row (below hero) */
+	.science-promo-row {
+		padding: 0 1.25rem 1.5rem;
 	}
 
 	/* Science feed promo box */
