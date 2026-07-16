@@ -11,7 +11,7 @@ categories:
 tags:
   - Gibbon Conservation Center, gibbons, endangered apes, California wildlife, Santa Clarita, primate conservation, endangered species, wildlife conservation, E.O. Wilson, California Curated
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 Years ago, before he passed away, I had the privilege of spending several days with the legendary [Harvard biologist E.O. Wilson](https://en.wikipedia.org/wiki/E._O._Wilson) to produce [a short documentary](https://www.nytimes.com/video/obituaries/1194834030869/last-word-e-o-wilson-obituary.html) about his life and work that would air posthumously. Wilson’s groundbreaking work on ants, evolution, and sociobiology earned him two Pulitzer Prizes, [the Crafoord Prize](https://www.crafoordprize.se/), and a devoted worldwide following. During one of our conversations, he said something I’ve never forgotten.
