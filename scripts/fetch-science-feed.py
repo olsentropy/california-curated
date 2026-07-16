@@ -392,14 +392,6 @@ def build_html(articles, ok_sources, fail_sources):
       border-radius: 6px; transition: background .12s;
     }}
     .theme-btn:hover {{ background: var(--line); }}
-    .nl-btn {{
-      font-size: .75rem; font-weight: 600;
-      padding: .32rem .9rem; border-radius: 4px; border: 1.5px solid var(--orange);
-      background: none; color: var(--orange);
-      transition: background .15s, color .15s; letter-spacing: .02em;
-      text-decoration: none; display: inline-flex; align-items: center;
-    }}
-    .nl-btn:hover {{ background: var(--orange); color: #fff; }}
 
     /* ── FILTER BAR ── */
     .filter-bar {{
@@ -640,7 +632,6 @@ def build_html(articles, ok_sources, fail_sources):
     <button class="theme-btn" onclick="toggleTheme()" id="themeBtn" title="Toggle dark mode">
       <span id="themeIcon">☽</span>
     </button>
-    <a class="nl-btn" href="https://californiacurated.substack.com" target="_blank" rel="noopener">Get this weekly by email</a>
   </div>
 </header>
 
