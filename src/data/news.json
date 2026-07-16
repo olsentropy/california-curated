@@ -1,17 +1,11 @@
 {
-	"lastUpdated": "2026-07-15T20:46:18.652Z",
+	"lastUpdated": "2026-07-16T01:12:59.668Z",
 	"items": [
 		{
-			"headline": "Key California law on recycling symbols on plastic containers is blocked by federal judge",
+			"headline": "Key California law on 'recyclable' packaging symbols is blocked by federal judge",
 			"url": "https://www.latimes.com/environment/story/2026-07-15/judge-blocks-california-law-on-recycling-symbols-on-plastic-containers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-15T19:25:58.000Z"
-		},
-		{
-			"headline": "The Podcast Studio Is Gently Floating in the Harbor",
-			"url": "https://baynature.org/2026/07/15/science-nature/history/the-podcast-studio-is-gently-floating-in-the-harbor/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-15T18:14:54.000Z"
 		},
 		{
 			"headline": "MBARI Senior Education and Research Specialist George Matsumoto honored by National Marine Educators Association",
@@ -26,10 +20,28 @@
 			"publishedAt": "2026-07-15T17:14:00.000Z"
 		},
 		{
-			"headline": "Extreme heat raises wildfire fears; monsoonal moisture will create sticky conditions",
-			"url": "https://www.latimes.com/california/story/2026-07-15/extreme-heat-raises-fears-of-fast-moving-wildfires",
+			"headline": "The Podcast Studio Is Gently Floating in the Harbor",
+			"url": "https://baynature.org/2026/07/15/science-nature/history/the-podcast-studio-is-gently-floating-in-the-harbor/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-15T18:14:54.000Z"
+		},
+		{
+			"headline": "Scientists crack the code on predicting California's deadly cliff collapses",
+			"url": "https://www.latimes.com/environment/story/2026-07-14/california-cliff-collapse-early-warning-study",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-15T12:00:00.000Z"
+			"publishedAt": "2026-07-14T10:00:00.000Z"
+		},
+		{
+			"headline": "Earthquakes north of L.A. appear to be on or close to San Andreas, Garlock faults",
+			"url": "https://www.latimes.com/california/story/2026-07-13/mojave-quake-north-edwards-afb",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-13T17:34:21.000Z"
+		},
+		{
+			"headline": "A 'super' El Niño is brewing. Experts fear historic dangers from 'extraordinary' weather",
+			"url": "https://www.latimes.com/california/story/2026-07-13/super-el-nino-is-brewing-how-bad-would-historic-weather-system-get",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-13T10:00:00.000Z"
 		},
 		{
 			"headline": "New research reveals factors driving the evolution of remarkable eyes in deep-sea amphipods",
@@ -50,10 +62,10 @@
 			"publishedAt": "2026-07-14T17:03:48.000Z"
 		},
 		{
-			"headline": "Scientists crack the code on predicting California's deadly cliff collapses",
-			"url": "https://www.latimes.com/environment/story/2026-07-14/california-cliff-collapse-early-warning-study",
+			"headline": "This invasive insect threatens California's wine industry. It's been linked to another Costco-sold plant",
+			"url": "https://www.latimes.com/california/story/2026-07-14/costco-asks-ca-customers-to-isolate-plants-with-invasive-insect-again",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T10:00:00.000Z"
+			"publishedAt": "2026-07-14T19:29:56.000Z"
 		},
 		{
 			"headline": "It's time for the night trip to the beach — the grunion are running",
@@ -62,46 +74,16 @@
 			"publishedAt": "2026-07-14T22:11:20.000Z"
 		},
 		{
-			"headline": "Lobster poachers pinched in Santa Monica; crustaceans stuffed in bags, backpacks, a baby stroller",
-			"url": "https://www.latimes.com/california/story/2026-07-14/spiny-lobster-poachers-pinched-at-santa-monica-pier",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T21:21:25.000Z"
-		},
-		{
-			"headline": "This invasive insect threatens California's wine industry. It's been linked to another Costco-sold plant",
-			"url": "https://www.latimes.com/california/story/2026-07-14/costco-asks-ca-customers-to-isolate-plants-with-invasive-insect-again",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T19:29:56.000Z"
-		},
-		{
-			"headline": "Dangerous heat wave hits L.A.: How long will it last? How high will temperatures soar?",
-			"url": "https://www.latimes.com/california/story/2026-07-14/socal-extreme-heat-warning-risks",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T17:16:34.000Z"
-		},
-		{
 			"headline": "25 UC Berkeley breakthroughs to commemorate America's 250th birthday",
 			"url": "https://news.berkeley.edu/2026/07/13/25-uc-berkeley-breakthroughs-to-commemorate-americas-250th-birthday/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-13T23:15:25.000Z"
 		},
 		{
-			"headline": "Very ill L.A. County person found to have West Nile amid explosion of virus activity nationwide",
-			"url": "https://www.latimes.com/california/story/2026-07-13/west-nile-sickens-la-person-in-bad-year-for-virus-nationwide",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-13T22:31:22.000Z"
-		},
-		{
-			"headline": "A 'super' El Niño is brewing. Experts fear historic dangers from 'extraordinary' weather",
-			"url": "https://www.latimes.com/california/story/2026-07-13/super-el-nino-is-brewing-how-bad-would-historic-weather-system-get",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-13T10:00:00.000Z"
-		},
-		{
-			"headline": "Earthquakes north of L.A. appear to be on or close to San Andreas, Garlock faults",
-			"url": "https://www.latimes.com/california/story/2026-07-13/mojave-quake-north-edwards-afb",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-13T17:34:21.000Z"
+			"headline": "Report finds broad misuse of crowd-control weapons at immigration protests",
+			"url": "https://humanrights.berkeley.edu/uncategorized/widespread-misuse-of-crowd-control-weapons-by-law-enforcement-at-immigration-enforcement-protests-new-report-finds/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-13T22:55:25.000Z"
 		},
 		{
 			"headline": "Caltech Mourns the Passing of Mark B. Wise (1953–2026)",
@@ -110,22 +92,22 @@
 			"publishedAt": "2026-07-13T16:12:00.000Z"
 		},
 		{
-			"headline": "Crews gain upper hand on Summit fire; evacuation orders in Antelope Valley lifted",
-			"url": "https://www.latimes.com/california/story/2026-07-12/crews-gain-upper-hand-on-summit-fire-evacuation-orders-rescinded",
+			"headline": "Very ill L.A. County person found to have West Nile amid explosion of virus activity nationwide",
+			"url": "https://www.latimes.com/california/story/2026-07-13/west-nile-sickens-la-person-in-bad-year-for-virus-nationwide",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-13T04:59:47.000Z"
-		},
-		{
-			"headline": "PG&E should pay $22 million for Mosquito fire violations, regulators say",
-			"url": "https://www.latimes.com/california/story/2026-07-12/pg-e-proposed-settlement-22-million-mosquito-fire-placer-county",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-12T21:43:32.000Z"
+			"publishedAt": "2026-07-13T22:31:22.000Z"
 		},
 		{
 			"headline": "Trump slashes wildlife protections, putting endangered California animals at risk",
 			"url": "https://www.latimes.com/california/story/2026-07-11/trump-endangered-species-act-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-11T21:07:18.000Z"
+		},
+		{
+			"headline": "Nobel Prize winner leaving UC Berkeley for new role in China",
+			"url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-10T17:06:18.000Z"
 		},
 		{
 			"headline": "Berkeley Talks: When we talk to AI, what are we talking to?",
@@ -140,16 +122,22 @@
 			"publishedAt": "2026-07-10T22:00:01.000Z"
 		},
 		{
-			"headline": "Nobel Prize winner leaving UC Berkeley for new role in China",
-			"url": "https://www.latimes.com/science/story/2026-07-10/nobel-prize-winner-leaving-uc-berkeley-for-new-role-in-china",
+			"headline": "Magnitude 3.2 earthquake reported near Arvin",
+			"url": "https://www.latimes.com/california/story/2026-07-12/magnitude-3-2-earthquake-reported-near-arvin",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T17:06:18.000Z"
+			"publishedAt": "2026-07-12T18:43:57.000Z"
 		},
 		{
-			"headline": "Trump administration proposal would all but end scientific merit in grant funding, critics say",
-			"url": "https://www.latimes.com/science/story/2026-07-10/trump-administration-seeks-to-limit-federal-funding-that-doesnt-advance-presidential-policies",
+			"headline": "Earthquake: 4.2 quake near Bakersfield",
+			"url": "https://www.latimes.com/california/story/2026-07-12/earthquake-4-2-quake-in-frasier-park",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-10T10:00:00.000Z"
+			"publishedAt": "2026-07-12T15:30:56.000Z"
+		},
+		{
+			"headline": "PG&E should pay $22 million for Mosquito fire violations, regulators say",
+			"url": "https://www.latimes.com/california/story/2026-07-12/pg-e-proposed-settlement-22-million-mosquito-fire-placer-county",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-12T21:43:32.000Z"
 		}
 	]
 }
