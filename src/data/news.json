@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-07-17T06:07:19.083Z",
+	"lastUpdated": "2026-07-17T09:42:09.840Z",
 	"items": [
+		{
+			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
+			"url": "https://www.caltech.edu/about/news/cold-radioactive-molecules-prepped-and-readied-for-physics-discoveries",
+			"source": "Caltech",
+			"publishedAt": "2026-07-16T18:00:00.000Z"
+		},
 		{
 			"headline": "After wildfires destroyed 95% of this California tribe's forests, members uncovered 1,200 ancestral sites",
 			"url": "https://www.latimes.com/environment/story/2026-07-16/wildfires-uncover-long-lost-tribal-sites",
@@ -20,16 +26,16 @@
 			"publishedAt": "2026-07-16T10:00:00.000Z"
 		},
 		{
-			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
-			"url": "https://www.caltech.edu/about/news/cold-radioactive-molecules-prepped-and-readied-for-physics-discoveries",
-			"source": "Caltech",
-			"publishedAt": "2026-07-16T18:00:00.000Z"
-		},
-		{
 			"headline": "Key California law on 'recyclable' packaging symbols is blocked by federal judge",
 			"url": "https://www.latimes.com/environment/story/2026-07-15/judge-blocks-california-law-on-recycling-symbols-on-plastic-containers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-15T19:25:58.000Z"
+		},
+		{
+			"headline": "Put your clothes back on! Beloved San Gregorio nude beach to become part of public state park",
+			"url": "https://www.latimes.com/california/story/2026-07-15/san-gregorio-nude-beach-to-become-part-of-public-state-park",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-16T03:26:57.000Z"
 		},
 		{
 			"headline": "MBARI Senior Education and Research Specialist George Matsumoto honored by National Marine Educators Association",
@@ -86,12 +92,6 @@
 			"publishedAt": "2026-07-14T17:03:48.000Z"
 		},
 		{
-			"headline": "After lawsuit, ICE pauses construction of Bay Area detention facility",
-			"url": "https://www.latimes.com/politics/story/2026-07-14/after-lawsuit-ice-pauses-construction-of-bay-area-detention-facility",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T16:55:17.000Z"
-		},
-		{
 			"headline": "Scientists crack the code on predicting California's deadly cliff collapses",
 			"url": "https://www.latimes.com/environment/story/2026-07-14/california-cliff-collapse-early-warning-study",
 			"source": "Los Angeles Times",
@@ -122,6 +122,12 @@
 			"publishedAt": "2026-07-13T23:15:25.000Z"
 		},
 		{
+			"headline": "Crews gain upper hand on Summit fire; evacuation orders in Antelope Valley lifted",
+			"url": "https://www.latimes.com/california/story/2026-07-12/crews-gain-upper-hand-on-summit-fire-evacuation-orders-rescinded",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-13T04:59:47.000Z"
+		},
+		{
 			"headline": "PG&E should pay $22 million for Mosquito fire violations, regulators say",
 			"url": "https://www.latimes.com/california/story/2026-07-12/pg-e-proposed-settlement-22-million-mosquito-fire-placer-county",
 			"source": "Los Angeles Times",
@@ -132,6 +138,12 @@
 			"url": "https://www.latimes.com/california/story/2026-07-11/trump-endangered-species-act-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-11T21:07:18.000Z"
+		},
+		{
+			"headline": "Lopez: Californians rallied to save the coast 50 years ago. Trump is spoiling the celebration",
+			"url": "https://www.latimes.com/california/story/2026-07-11/lopez-column-coastal-act-50-years-trump",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-11T12:00:00.000Z"
 		}
 	]
 }
