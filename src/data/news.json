@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-07-17T09:42:09.840Z",
+	"lastUpdated": "2026-07-17T12:54:03.247Z",
 	"items": [
+		{
+			"headline": "Ancient rock structures help restore biodiversity on the US-Mexico border",
+			"url": "https://news.mongabay.com/2026/07/ancient-rock-structures-help-restore-biodiversity-on-the-us-mexico-border/",
+			"source": "Mongabay",
+			"publishedAt": "2026-07-17T10:49:04.000Z"
+		},
 		{
 			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
 			"url": "https://www.caltech.edu/about/news/cold-radioactive-molecules-prepped-and-readied-for-physics-discoveries",
@@ -8,10 +14,28 @@
 			"publishedAt": "2026-07-16T18:00:00.000Z"
 		},
 		{
-			"headline": "After wildfires destroyed 95% of this California tribe's forests, members uncovered 1,200 ancestral sites",
-			"url": "https://www.latimes.com/environment/story/2026-07-16/wildfires-uncover-long-lost-tribal-sites",
+			"headline": "MBARI Senior Education and Research Specialist George Matsumoto honored by National Marine Educators Association",
+			"url": "https://www.mbari.org/news/mbari-senior-education-and-research-specialist-george-matsumoto-honored-by-national-marine-educators-association/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-15T18:00:43.000Z"
+		},
+		{
+			"headline": "The Podcast Studio Is Gently Floating in the Harbor",
+			"url": "https://baynature.org/2026/07/15/science-nature/history/the-podcast-studio-is-gently-floating-in-the-harbor/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-15T18:14:54.000Z"
+		},
+		{
+			"headline": "America at 250: What UC Berkeley historians want us to remember",
+			"url": "https://ls.berkeley.edu/news/america-250-what-berkeley-historians-want-us-remember",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-15T17:14:00.000Z"
+		},
+		{
+			"headline": "Key California law on 'recyclable' packaging symbols is blocked by federal judge",
+			"url": "https://www.latimes.com/environment/story/2026-07-15/judge-blocks-california-law-on-recycling-symbols-on-plastic-containers",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T10:00:00.000Z"
+			"publishedAt": "2026-07-15T19:25:58.000Z"
 		},
 		{
 			"headline": "As great whites and humans share the waters, shark lab runs out of funding",
@@ -26,10 +50,10 @@
 			"publishedAt": "2026-07-16T10:00:00.000Z"
 		},
 		{
-			"headline": "Key California law on 'recyclable' packaging symbols is blocked by federal judge",
-			"url": "https://www.latimes.com/environment/story/2026-07-15/judge-blocks-california-law-on-recycling-symbols-on-plastic-containers",
+			"headline": "After wildfires destroyed 95% of this California tribe's forests, members uncovered 1,200 ancestral sites",
+			"url": "https://www.latimes.com/environment/story/2026-07-16/wildfires-uncover-long-lost-tribal-sites",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-15T19:25:58.000Z"
+			"publishedAt": "2026-07-16T10:00:00.000Z"
 		},
 		{
 			"headline": "Put your clothes back on! Beloved San Gregorio nude beach to become part of public state park",
@@ -38,40 +62,10 @@
 			"publishedAt": "2026-07-16T03:26:57.000Z"
 		},
 		{
-			"headline": "MBARI Senior Education and Research Specialist George Matsumoto honored by National Marine Educators Association",
-			"url": "https://www.mbari.org/news/mbari-senior-education-and-research-specialist-george-matsumoto-honored-by-national-marine-educators-association/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-15T18:00:43.000Z"
-		},
-		{
-			"headline": "America at 250: What UC Berkeley historians want us to remember",
-			"url": "https://ls.berkeley.edu/news/america-250-what-berkeley-historians-want-us-remember",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-15T17:14:00.000Z"
-		},
-		{
-			"headline": "The Podcast Studio Is Gently Floating in the Harbor",
-			"url": "https://baynature.org/2026/07/15/science-nature/history/the-podcast-studio-is-gently-floating-in-the-harbor/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-15T18:14:54.000Z"
-		},
-		{
-			"headline": "It's time for the night trip to the beach — the grunion are running",
-			"url": "https://www.latimes.com/environment/story/2026-07-14/its-time-for-night-trip-to-beach-grunion-are-running",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T22:11:20.000Z"
-		},
-		{
 			"headline": "How 'double Bear' Danny Muñoz is humanizing the justice system",
 			"url": "https://ei.berkeley.edu/news/policy-purpose-how-danny-mu%C3%B1oz-humanizing-justice-system",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-14T21:15:58.000Z"
-		},
-		{
-			"headline": "This invasive insect threatens California's wine industry. It's been linked to another Costco-sold plant",
-			"url": "https://www.latimes.com/california/story/2026-07-14/costco-asks-ca-customers-to-isolate-plants-with-invasive-insect-again",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T19:29:56.000Z"
 		},
 		{
 			"headline": "New research reveals factors driving the evolution of remarkable eyes in deep-sea amphipods",
@@ -98,22 +92,22 @@
 			"publishedAt": "2026-07-14T10:00:00.000Z"
 		},
 		{
+			"headline": "It's time for the night trip to the beach — the grunion are running",
+			"url": "https://www.latimes.com/environment/story/2026-07-14/its-time-for-night-trip-to-beach-grunion-are-running",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-14T22:11:20.000Z"
+		},
+		{
+			"headline": "Lobster poachers pinched in Santa Monica; crustaceans stuffed in bags, backpacks, a baby stroller",
+			"url": "https://www.latimes.com/california/story/2026-07-14/spiny-lobster-poachers-pinched-at-santa-monica-pier",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-14T21:21:25.000Z"
+		},
+		{
 			"headline": "Earthquakes north of L.A. appear to be on or close to San Andreas, Garlock faults",
 			"url": "https://www.latimes.com/california/story/2026-07-13/mojave-quake-north-edwards-afb",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-13T17:34:21.000Z"
-		},
-		{
-			"headline": "Caltech Mourns the Passing of Mark B. Wise (1953–2026)",
-			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-mark-b-wise-19532026",
-			"source": "Caltech",
-			"publishedAt": "2026-07-13T16:12:00.000Z"
-		},
-		{
-			"headline": "A 'super' El Niño is brewing. Experts fear historic dangers from 'extraordinary' weather",
-			"url": "https://www.latimes.com/california/story/2026-07-13/super-el-nino-is-brewing-how-bad-would-historic-weather-system-get",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-13T10:00:00.000Z"
 		},
 		{
 			"headline": "25 UC Berkeley breakthroughs to commemorate America's 250th birthday",
@@ -122,10 +116,10 @@
 			"publishedAt": "2026-07-13T23:15:25.000Z"
 		},
 		{
-			"headline": "Crews gain upper hand on Summit fire; evacuation orders in Antelope Valley lifted",
-			"url": "https://www.latimes.com/california/story/2026-07-12/crews-gain-upper-hand-on-summit-fire-evacuation-orders-rescinded",
+			"headline": "A 'super' El Niño is brewing. Experts fear historic dangers from 'extraordinary' weather",
+			"url": "https://www.latimes.com/california/story/2026-07-13/super-el-nino-is-brewing-how-bad-would-historic-weather-system-get",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-13T04:59:47.000Z"
+			"publishedAt": "2026-07-13T10:00:00.000Z"
 		},
 		{
 			"headline": "PG&E should pay $22 million for Mosquito fire violations, regulators say",
@@ -134,16 +128,28 @@
 			"publishedAt": "2026-07-12T21:43:32.000Z"
 		},
 		{
+			"headline": "Magnitude 3.2 earthquake reported near Arvin",
+			"url": "https://www.latimes.com/california/story/2026-07-12/magnitude-3-2-earthquake-reported-near-arvin",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-12T18:43:57.000Z"
+		},
+		{
+			"headline": "Earthquake: 4.2 quake near Bakersfield",
+			"url": "https://www.latimes.com/california/story/2026-07-12/earthquake-4-2-quake-in-frasier-park",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-12T15:30:56.000Z"
+		},
+		{
+			"headline": "This invasive insect threatens California's wine industry. It's been linked to another Costco-sold plant",
+			"url": "https://www.latimes.com/california/story/2026-07-14/costco-asks-ca-customers-to-isolate-plants-with-invasive-insect-again",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-14T19:29:56.000Z"
+		},
+		{
 			"headline": "Trump slashes wildlife protections, putting endangered California animals at risk",
 			"url": "https://www.latimes.com/california/story/2026-07-11/trump-endangered-species-act-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-11T21:07:18.000Z"
-		},
-		{
-			"headline": "Lopez: Californians rallied to save the coast 50 years ago. Trump is spoiling the celebration",
-			"url": "https://www.latimes.com/california/story/2026-07-11/lopez-column-coastal-act-50-years-trump",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-11T12:00:00.000Z"
 		}
 	]
 }
