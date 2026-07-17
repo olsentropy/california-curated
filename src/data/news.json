@@ -1,12 +1,6 @@
 {
-	"lastUpdated": "2026-07-17T01:17:05.736Z",
+	"lastUpdated": "2026-07-17T06:07:19.083Z",
 	"items": [
-		{
-			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
-			"url": "https://www.caltech.edu/about/news/cold-radioactive-molecules-prepped-and-readied-for-physics-discoveries",
-			"source": "Caltech",
-			"publishedAt": "2026-07-16T18:00:00.000Z"
-		},
 		{
 			"headline": "After wildfires destroyed 95% of this California tribe's forests, members uncovered 1,200 ancestral sites",
 			"url": "https://www.latimes.com/environment/story/2026-07-16/wildfires-uncover-long-lost-tribal-sites",
@@ -24,6 +18,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-16/feds-to-pay-millions-to-boost-lake-meads-dwindling-water-levels",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-16T10:00:00.000Z"
+		},
+		{
+			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
+			"url": "https://www.caltech.edu/about/news/cold-radioactive-molecules-prepped-and-readied-for-physics-discoveries",
+			"source": "Caltech",
+			"publishedAt": "2026-07-16T18:00:00.000Z"
 		},
 		{
 			"headline": "Key California law on 'recyclable' packaging symbols is blocked by federal judge",
@@ -50,6 +50,24 @@
 			"publishedAt": "2026-07-15T18:14:54.000Z"
 		},
 		{
+			"headline": "It's time for the night trip to the beach — the grunion are running",
+			"url": "https://www.latimes.com/environment/story/2026-07-14/its-time-for-night-trip-to-beach-grunion-are-running",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-14T22:11:20.000Z"
+		},
+		{
+			"headline": "How 'double Bear' Danny Muñoz is humanizing the justice system",
+			"url": "https://ei.berkeley.edu/news/policy-purpose-how-danny-mu%C3%B1oz-humanizing-justice-system",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-14T21:15:58.000Z"
+		},
+		{
+			"headline": "This invasive insect threatens California's wine industry. It's been linked to another Costco-sold plant",
+			"url": "https://www.latimes.com/california/story/2026-07-14/costco-asks-ca-customers-to-isolate-plants-with-invasive-insect-again",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-14T19:29:56.000Z"
+		},
+		{
 			"headline": "New research reveals factors driving the evolution of remarkable eyes in deep-sea amphipods",
 			"url": "https://www.mbari.org/news/new-research-reveals-factors-driving-the-evolution-of-remarkable-eyes-in-deep-sea-amphipods/",
 			"source": "MBARI",
@@ -66,6 +84,12 @@
 			"url": "https://news.berkeley.edu/2026/07/14/from-hbcus-to-the-bay-mentoring-the-next-generation-of-scientists/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-14T17:03:48.000Z"
+		},
+		{
+			"headline": "After lawsuit, ICE pauses construction of Bay Area detention facility",
+			"url": "https://www.latimes.com/politics/story/2026-07-14/after-lawsuit-ice-pauses-construction-of-bay-area-detention-facility",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-14T16:55:17.000Z"
 		},
 		{
 			"headline": "Scientists crack the code on predicting California's deadly cliff collapses",
@@ -108,48 +132,6 @@
 			"url": "https://www.latimes.com/california/story/2026-07-11/trump-endangered-species-act-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-11T21:07:18.000Z"
-		},
-		{
-			"headline": "It's time for the night trip to the beach — the grunion are running",
-			"url": "https://www.latimes.com/environment/story/2026-07-14/its-time-for-night-trip-to-beach-grunion-are-running",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T22:11:20.000Z"
-		},
-		{
-			"headline": "This invasive insect threatens California's wine industry. It's been linked to another Costco-sold plant",
-			"url": "https://www.latimes.com/california/story/2026-07-14/costco-asks-ca-customers-to-isolate-plants-with-invasive-insect-again",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T19:29:56.000Z"
-		},
-		{
-			"headline": "Sunset Strip flooded by ruptured 110-year-old water line, another blow to L.A.'s ancient infrastructure",
-			"url": "https://www.latimes.com/california/story/2026-07-16/weho-water-main-break",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T13:11:37.000Z"
-		},
-		{
-			"headline": "Lobster poachers pinched in Santa Monica; crustaceans stuffed in bags, backpacks, a baby stroller",
-			"url": "https://www.latimes.com/california/story/2026-07-14/spiny-lobster-poachers-pinched-at-santa-monica-pier",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T21:21:25.000Z"
-		},
-		{
-			"headline": "Dangerous heat wave hits L.A.: How long will it last? How high will temperatures soar?",
-			"url": "https://www.latimes.com/california/story/2026-07-14/socal-extreme-heat-warning-risks",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T17:16:34.000Z"
-		},
-		{
-			"headline": "How 'double Bear' Danny Muñoz is humanizing the justice system",
-			"url": "https://ei.berkeley.edu/news/policy-purpose-how-danny-mu%C3%B1oz-humanizing-justice-system",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-14T21:15:58.000Z"
-		},
-		{
-			"headline": "Angry Californians rally as billionaire Elon Musk's companies face rare scrutiny",
-			"url": "https://www.latimes.com/california/story/2026-07-15/californians-angered-by-ai-data-centers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T04:00:00.000Z"
 		}
 	]
 }
