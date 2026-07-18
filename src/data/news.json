@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-18T09:13:10.569Z",
+	"lastUpdated": "2026-07-18T12:41:23.070Z",
 	"items": [
 		{
 			"headline": "Caltech Mourns the Passing of Nobel Laureate Rudy Marcus (1923–2026)",
@@ -14,16 +14,16 @@
 			"publishedAt": "2026-07-17T18:29:30.000Z"
 		},
 		{
-			"headline": "Environmental groups press to halt Imperial Valley lithium venture",
-			"url": "https://www.latimes.com/environment/story/2026-07-17/environmental-groups-press-to-halt-imperial-valley-lithium",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T16:50:32.000Z"
-		},
-		{
 			"headline": "California-based Taylor Farms pulls iceberg lettuce from U.S. amid cyclosporiasis outbreak",
 			"url": "https://www.latimes.com/california/story/2026-07-17/california-based-taylor-farms-possible-source-of-cyclosporiasis-outbreak",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-17T18:21:10.000Z"
+		},
+		{
+			"headline": "Environmental groups press to halt Imperial Valley lithium venture",
+			"url": "https://www.latimes.com/environment/story/2026-07-17/environmental-groups-press-to-halt-imperial-valley-lithium",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T16:50:32.000Z"
 		},
 		{
 			"headline": "Something went 'catastrophically wrong' in San Francisco Bay. What caused deadly boat sinking?",
@@ -32,26 +32,32 @@
 			"publishedAt": "2026-07-17T17:18:14.000Z"
 		},
 		{
+			"headline": "Rare child cancer cases in Orange County should be investigated, feds say",
+			"url": "https://www.latimes.com/california/story/2026-07-17/rare-child-cancer-oc-fed-probe",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T18:42:36.000Z"
+		},
+		{
+			"headline": "Retired teacher who went missing in Mojave Desert off-roading area is found dead",
+			"url": "https://www.latimes.com/california/story/2026-07-17/woman-who-went-missing-in-mojave-desert-offroading-area-is-found-dead",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T19:29:19.000Z"
+		},
+		{
 			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
 			"url": "https://www.caltech.edu/about/news/cold-radioactive-molecules-prepped-and-readied-for-physics-discoveries",
 			"source": "Caltech",
 			"publishedAt": "2026-07-16T18:00:00.000Z"
 		},
 		{
-			"headline": "After wildfires destroyed 95% of this California tribe's forests, members uncovered 1,200 ancestral sites",
-			"url": "https://www.latimes.com/environment/story/2026-07-16/wildfires-uncover-long-lost-tribal-sites",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T10:00:00.000Z"
-		},
-		{
-			"headline": "'It'll buy us time': Feds to pay millions to prop up dwindling Lake Mead",
-			"url": "https://www.latimes.com/environment/story/2026-07-16/feds-to-pay-millions-to-boost-lake-meads-dwindling-water-levels",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T10:00:00.000Z"
-		},
-		{
 			"headline": "As great whites and humans share the waters, shark lab runs out of funding",
 			"url": "https://www.latimes.com/environment/story/2026-07-16/as-great-whites-humans-share-waters-shark-lab-runs-out-of-funding",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-16T10:00:00.000Z"
+		},
+		{
+			"headline": "After wildfires destroyed 95% of this California tribe's forests, members uncovered 1,200 ancestral sites",
+			"url": "https://www.latimes.com/environment/story/2026-07-16/wildfires-uncover-long-lost-tribal-sites",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-16T10:00:00.000Z"
 		},
@@ -74,22 +80,16 @@
 			"publishedAt": "2026-07-15T17:14:00.000Z"
 		},
 		{
-			"headline": "The Podcast Studio Is Gently Floating in the Harbor",
-			"url": "https://baynature.org/2026/07/15/science-nature/history/the-podcast-studio-is-gently-floating-in-the-harbor/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-15T18:14:54.000Z"
-		},
-		{
 			"headline": "It's time for the night trip to the beach — the grunion are running",
 			"url": "https://www.latimes.com/environment/story/2026-07-14/its-time-for-night-trip-to-beach-grunion-are-running",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-14T22:11:20.000Z"
 		},
 		{
-			"headline": "This invasive insect threatens California's wine industry. It's been linked to another Costco-sold plant",
-			"url": "https://www.latimes.com/california/story/2026-07-14/costco-asks-ca-customers-to-isolate-plants-with-invasive-insect-again",
+			"headline": "Lobster poachers pinched in Santa Monica; crustaceans stuffed in bags, backpacks, a baby stroller",
+			"url": "https://www.latimes.com/california/story/2026-07-14/spiny-lobster-poachers-pinched-at-santa-monica-pier",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T19:29:56.000Z"
+			"publishedAt": "2026-07-14T21:21:25.000Z"
 		},
 		{
 			"headline": "New research reveals factors driving the evolution of remarkable eyes in deep-sea amphipods",
@@ -104,10 +104,10 @@
 			"publishedAt": "2026-07-14T17:58:05.000Z"
 		},
 		{
-			"headline": "From HBCUs to the Bay, mentoring the next generation of scientists",
-			"url": "https://news.berkeley.edu/2026/07/14/from-hbcus-to-the-bay-mentoring-the-next-generation-of-scientists/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-14T17:03:48.000Z"
+			"headline": "This invasive insect threatens California's wine industry. It's been linked to another Costco-sold plant",
+			"url": "https://www.latimes.com/california/story/2026-07-14/costco-asks-ca-customers-to-isolate-plants-with-invasive-insect-again",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-14T19:29:56.000Z"
 		},
 		{
 			"headline": "Scientists crack the code on predicting California's deadly cliff collapses",
@@ -116,10 +116,22 @@
 			"publishedAt": "2026-07-14T10:00:00.000Z"
 		},
 		{
+			"headline": "From HBCUs to the Bay, mentoring the next generation of scientists",
+			"url": "https://news.berkeley.edu/2026/07/14/from-hbcus-to-the-bay-mentoring-the-next-generation-of-scientists/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-14T17:03:48.000Z"
+		},
+		{
 			"headline": "25 UC Berkeley breakthroughs to commemorate America's 250th birthday",
 			"url": "https://news.berkeley.edu/2026/07/13/25-uc-berkeley-breakthroughs-to-commemorate-americas-250th-birthday/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-13T23:15:25.000Z"
+		},
+		{
+			"headline": "Very ill L.A. County person found to have West Nile amid explosion of virus activity nationwide",
+			"url": "https://www.latimes.com/california/story/2026-07-13/west-nile-sickens-la-person-in-bad-year-for-virus-nationwide",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-13T22:31:22.000Z"
 		}
 	]
 }
