@@ -1,11 +1,11 @@
 {
-	"lastUpdated": "2026-07-19T09:40:22.623Z",
+	"lastUpdated": "2026-07-19T12:42:38.576Z",
 	"items": [
 		{
-			"headline": "Caltech Mourns the Passing of Nobel Laureate Rudy Marcus (1923–2026)",
-			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-nobel-laureate-rudy-marcus-19232026",
-			"source": "Caltech",
-			"publishedAt": "2026-07-17T20:58:00.000Z"
+			"headline": "California-based Taylor Farms pulls iceberg lettuce from U.S. amid cyclosporiasis outbreak",
+			"url": "https://www.latimes.com/california/story/2026-07-17/california-based-taylor-farms-possible-source-of-cyclosporiasis-outbreak",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T18:21:10.000Z"
 		},
 		{
 			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
@@ -14,22 +14,10 @@
 			"publishedAt": "2026-07-17T18:29:30.000Z"
 		},
 		{
-			"headline": "California-based Taylor Farms pulls iceberg lettuce from U.S. amid cyclosporiasis outbreak",
-			"url": "https://www.latimes.com/california/story/2026-07-17/california-based-taylor-farms-possible-source-of-cyclosporiasis-outbreak",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T18:21:10.000Z"
-		},
-		{
 			"headline": "Environmental groups press to halt Imperial Valley lithium venture",
 			"url": "https://www.latimes.com/environment/story/2026-07-17/environmental-groups-press-to-halt-imperial-valley-lithium",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-17T16:50:32.000Z"
-		},
-		{
-			"headline": "Something went 'catastrophically wrong' in San Francisco Bay. What caused deadly boat sinking?",
-			"url": "https://www.latimes.com/california/story/2026-07-17/sf-bay-boat-sinking-cause-mystery",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T17:18:14.000Z"
 		},
 		{
 			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
@@ -56,22 +44,16 @@
 			"publishedAt": "2026-07-16T10:00:00.000Z"
 		},
 		{
-			"headline": "Sunset Strip flooded by ruptured 110-year-old water line, another blow to L.A.'s ancient infrastructure",
-			"url": "https://www.latimes.com/california/story/2026-07-16/weho-water-main-break",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T13:11:37.000Z"
-		},
-		{
 			"headline": "MBARI Senior Education and Research Specialist George Matsumoto honored by National Marine Educators Association",
 			"url": "https://www.mbari.org/news/mbari-senior-education-and-research-specialist-george-matsumoto-honored-by-national-marine-educators-association/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-15T18:00:43.000Z"
 		},
 		{
-			"headline": "The Podcast Studio Is Gently Floating in the Harbor",
-			"url": "https://baynature.org/2026/07/15/science-nature/history/the-podcast-studio-is-gently-floating-in-the-harbor/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-15T18:14:54.000Z"
+			"headline": "America at 250: What UC Berkeley historians want us to remember",
+			"url": "https://ls.berkeley.edu/news/america-250-what-berkeley-historians-want-us-remember",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-15T17:14:00.000Z"
 		},
 		{
 			"headline": "Key California law on 'recyclable' packaging symbols is blocked by federal judge",
@@ -80,16 +62,22 @@
 			"publishedAt": "2026-07-15T19:25:58.000Z"
 		},
 		{
-			"headline": "America at UC Berkeley historians want us to remember",
-			"url": "https://ls.berkeley.edu/news/america-250-what-berkeley-historians-want-us-remember",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-15T17:14:00.000Z"
+			"headline": "The Podcast Studio Is Gently Floating in the Harbor",
+			"url": "https://baynature.org/2026/07/15/science-nature/history/the-podcast-studio-is-gently-floating-in-the-harbor/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-15T18:14:54.000Z"
 		},
 		{
 			"headline": "It's time for the night trip to the beach — the grunion are running",
 			"url": "https://www.latimes.com/environment/story/2026-07-14/its-time-for-night-trip-to-beach-grunion-are-running",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-14T22:11:20.000Z"
+		},
+		{
+			"headline": "Lobster poachers pinched in Santa Monica; crustaceans stuffed in bags, backpacks, a baby stroller",
+			"url": "https://www.latimes.com/california/story/2026-07-14/spiny-lobster-poachers-pinched-at-santa-monica-pier",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-14T21:21:25.000Z"
 		},
 		{
 			"headline": "New research reveals factors driving the evolution of remarkable eyes in deep-sea amphipods",
@@ -122,10 +110,16 @@
 			"publishedAt": "2026-07-14T19:29:56.000Z"
 		},
 		{
-			"headline": "Dangerous heat wave hits L.A.: How long will it last? How high will temperatures soar?",
-			"url": "https://www.latimes.com/california/story/2026-07-14/socal-extreme-heat-warning-risks",
+			"headline": "Put your clothes back on! Beloved San Gregorio nude beach to become part of public state park",
+			"url": "https://www.latimes.com/california/story/2026-07-15/san-gregorio-nude-beach-to-become-part-of-public-state-park",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T17:16:34.000Z"
+			"publishedAt": "2026-07-16T03:26:57.000Z"
+		},
+		{
+			"headline": "UC regents set firm, faster 2027 deadline on whether to bring back SAT admissions requirement",
+			"url": "https://www.latimes.com/california/story/2026-07-14/uc-regents-sat-admissions",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-14T22:33:23.000Z"
 		}
 	]
 }
