@@ -1,17 +1,29 @@
 {
-	"lastUpdated": "2026-07-19T12:42:38.576Z",
+	"lastUpdated": "2026-07-19T16:40:26.424Z",
 	"items": [
-		{
-			"headline": "California-based Taylor Farms pulls iceberg lettuce from U.S. amid cyclosporiasis outbreak",
-			"url": "https://www.latimes.com/california/story/2026-07-17/california-based-taylor-farms-possible-source-of-cyclosporiasis-outbreak",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T18:21:10.000Z"
-		},
 		{
 			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
 			"url": "https://www.latimes.com/science/story/2026-07-17/rudolph-marcus-dead-102-caltech-chemist",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-17T18:29:30.000Z"
+		},
+		{
+			"headline": "Caltech Mourns the Passing of Nobel Laureate Rudy Marcus (1923–2026)",
+			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-nobel-laureate-rudy-marcus-19232026",
+			"source": "Caltech",
+			"publishedAt": "2026-07-17T20:58:00.000Z"
+		},
+		{
+			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
+			"url": "https://www.caltech.edu/about/news/cold-radioactive-molecules-prepped-and-readied-for-physics-discoveries",
+			"source": "Caltech",
+			"publishedAt": "2026-07-16T18:00:00.000Z"
+		},
+		{
+			"headline": "California-based Taylor Farms pulls iceberg lettuce from U.S. amid cyclosporiasis outbreak",
+			"url": "https://www.latimes.com/california/story/2026-07-17/california-based-taylor-farms-possible-source-of-cyclosporiasis-outbreak",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T18:21:10.000Z"
 		},
 		{
 			"headline": "Environmental groups press to halt Imperial Valley lithium venture",
@@ -20,10 +32,34 @@
 			"publishedAt": "2026-07-17T16:50:32.000Z"
 		},
 		{
-			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
-			"url": "https://www.caltech.edu/about/news/cold-radioactive-molecules-prepped-and-readied-for-physics-discoveries",
-			"source": "Caltech",
-			"publishedAt": "2026-07-16T18:00:00.000Z"
+			"headline": "Something went 'catastrophically wrong' in San Francisco Bay. What caused deadly boat sinking?",
+			"url": "https://www.latimes.com/california/story/2026-07-17/sf-bay-boat-sinking-cause-mystery",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T17:18:14.000Z"
+		},
+		{
+			"headline": "Retired teacher who went missing in Mojave Desert off-roading area is found dead",
+			"url": "https://www.latimes.com/california/story/2026-07-17/woman-who-went-missing-in-mojave-desert-offroading-area-is-found-dead",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T19:29:19.000Z"
+		},
+		{
+			"headline": "Rare child cancer cases in Orange County should be investigated, feds say",
+			"url": "https://www.latimes.com/california/story/2026-07-17/rare-child-oc-fed-probe",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T18:42:36.000Z"
+		},
+		{
+			"headline": "West Hollywood rupture was L.A.'s worst in years: 17 million gallons spilled, Sunset Boulevard closed for days",
+			"url": "https://www.latimes.com/california/story/2026-07-17/sunset-blvd-closed-water-main-repairs-weho",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T14:34:51.000Z"
+		},
+		{
+			"headline": "As great whites and humans share the waters, shark lab runs out of funding",
+			"url": "https://www.latimes.com/environment/story/2026-07-16/as-great-whites-humans-share-waters-shark-lab-runs-out-of-funding",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-16T10:00:00.000Z"
 		},
 		{
 			"headline": "After wildfires destroyed 95% of this California tribe's forests, members uncovered 1,200 ancestral sites",
@@ -38,10 +74,16 @@
 			"publishedAt": "2026-07-16T10:00:00.000Z"
 		},
 		{
-			"headline": "As great whites and humans share the waters, shark lab runs out of funding",
-			"url": "https://www.latimes.com/environment/story/2026-07-16/as-great-whites-humans-share-waters-shark-lab-runs-out-of-funding",
+			"headline": "Sunset Strip flooded by ruptured 110-year-old water line, another blow to L.A.'s ancient infrastructure",
+			"url": "https://www.latimes.com/california/story/2026-07-16/weho-water-main-break",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T10:00:00.000Z"
+			"publishedAt": "2026-07-16T13:11:37.000Z"
+		},
+		{
+			"headline": "Body pulled from San Francisco Bay: What we know about the boat accident near Alcatraz",
+			"url": "https://www.latimes.com/california/story/2026-07-16/heres-what-we-know-about-deadly-boat-sinking-in-san-francisco-bay",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-16T16:27:35.000Z"
 		},
 		{
 			"headline": "MBARI Senior Education and Research Specialist George Matsumoto honored by National Marine Educators Association",
@@ -108,18 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-07-14/costco-asks-ca-customers-to-isolate-plants-with-invasive-insect-again",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-14T19:29:56.000Z"
-		},
-		{
-			"headline": "Put your clothes back on! Beloved San Gregorio nude beach to become part of public state park",
-			"url": "https://www.latimes.com/california/story/2026-07-15/san-gregorio-nude-beach-to-become-part-of-public-state-park",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T03:26:57.000Z"
-		},
-		{
-			"headline": "UC regents set firm, faster 2027 deadline on whether to bring back SAT admissions requirement",
-			"url": "https://www.latimes.com/california/story/2026-07-14/uc-regents-sat-admissions",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T22:33:23.000Z"
 		}
 	]
 }
