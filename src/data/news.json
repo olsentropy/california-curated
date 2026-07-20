@@ -1,6 +1,30 @@
 {
-	"lastUpdated": "2026-07-20T02:16:24.541Z",
+	"lastUpdated": "2026-07-20T06:36:33.184Z",
 	"items": [
+		{
+			"headline": "Injured bald eagle rescued near Big Bear is believed to be Jackie",
+			"url": "https://www.latimes.com/california/story/2026-07-19/jackie-shadow-big-bear-eagles-adult-rescued",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-20T05:25:00.000Z"
+		},
+		{
+			"headline": "Watch Menlo Park firefighters rescue missing dog from San Francisco Bay",
+			"url": "https://www.latimes.com/california/story/2026-07-19/watch-firefighters-rescue-missing-dog-from-san-francisco-bay",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-19T17:34:29.000Z"
+		},
+		{
+			"headline": "Protests and lawsuits: Activists climb pine amid showdown over Pasadena school district's tree removals",
+			"url": "https://www.latimes.com/california/story/2026-07-19/activists-climb-100-foot-pine-in-protest-over-pasadena-tree-cuts",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-19T10:00:00.000Z"
+		},
+		{
+			"headline": "Retired teacher who went missing in Mojave Desert off-roading area is found dead",
+			"url": "https://www.latimes.com/california/story/2026-07-17/woman-who-went-missing-in-mojave-desert-offroading-area-is-found-dead",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T19:29:19.000Z"
+		},
 		{
 			"headline": "Caltech Mourns the Passing of Nobel Laureate Rudy Marcus (1923–2026)",
 			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-nobel-laureate-rudy-marcus-19232026",
@@ -14,16 +38,16 @@
 			"publishedAt": "2026-07-17T18:29:30.000Z"
 		},
 		{
-			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
-			"url": "https://www.caltech.edu/about/news/cold-radioactive-molecules-prepped-and-readied-for-physics-discoveries",
-			"source": "Caltech",
-			"publishedAt": "2026-07-16T18:00:00.000Z"
-		},
-		{
 			"headline": "California-based Taylor Farms pulls iceberg lettuce from U.S. amid cyclosporiasis outbreak",
 			"url": "https://www.latimes.com/california/story/2026-07-17/california-based-taylor-farms-possible-source-of-cyclosporiasis-outbreak",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-17T18:21:10.000Z"
+		},
+		{
+			"headline": "Something went 'catastrophically wrong' in San Francisco Bay. What caused deadly boat sinking?",
+			"url": "https://www.latimes.com/california/story/2026-07-17/sf-bay-boat-sinking-cause-mystery",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T17:18:14.000Z"
 		},
 		{
 			"headline": "Environmental groups press to halt Imperial Valley lithium venture",
@@ -32,22 +56,34 @@
 			"publishedAt": "2026-07-17T16:50:32.000Z"
 		},
 		{
-			"headline": "Retired teacher who went missing in Mojave Desert off-roading area is found dead",
-			"url": "https://www.latimes.com/california/story/2026-07-17/woman-who-went-missing-in-mojave-desert-offroading-area-is-found-dead",
+			"headline": "West Hollywood rupture was L.A.'s worst in years: 17 million gallons spilled, Sunset Boulevard closed for days",
+			"url": "https://www.latimes.com/california/story/2026-07-17/sunset-blvd-closed-water-main-repairs-weho",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T19:29:19.000Z"
+			"publishedAt": "2026-07-17T14:34:51.000Z"
 		},
 		{
-			"headline": "Rare child cancer cases in Orange County should be investigated, feds say",
-			"url": "https://www.latimes.com/california/story/2026-07-17/rare-child-cancer-oc-fed-probe",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T18:42:36.000Z"
+			"headline": "Ancient rock structures help restore biodiversity on the US-Mexico border",
+			"url": "https://news.mongabay.com/2026/07/ancient-rock-structures-help-restore-biodiversity-on-the-us-mexico-border/",
+			"source": "Mongabay",
+			"publishedAt": "2026-07-17T10:49:04.000Z"
 		},
 		{
-			"headline": "Something went 'catastrophically wrong' in San Francisco Bay. What caused deadly boat sinking?",
-			"url": "https://www.latimes.com/california/story/2026-07-17/sf-bay-boat-sinking-cause-mystery",
+			"headline": "New rule caps foreign student visas at four years, jolting California campuses",
+			"url": "https://www.latimes.com/california/story/2026-07-17/new-rule-caps-f1-foreign-student-visas-california-campuses",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T17:18:14.000Z"
+			"publishedAt": "2026-07-17T10:00:00.000Z"
+		},
+		{
+			"headline": "After Big Bear teen's tragic fall at local hangout, family hopes to open a bakery in her name",
+			"url": "https://www.latimes.com/california/story/2026-07-16/big-bear-teen-falls-from-bridge-support-family-friends-mourn",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T02:46:31.000Z"
+		},
+		{
+			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
+			"url": "https://www.caltech.edu/about/news/cold-radioactive-molecules-prepped-and-readied-for-physics-discoveries",
+			"source": "Caltech",
+			"publishedAt": "2026-07-16T18:00:00.000Z"
 		},
 		{
 			"headline": "After wildfires destroyed 95% of this California tribe's forests, members uncovered 1,200 ancestral sites",
@@ -68,16 +104,10 @@
 			"publishedAt": "2026-07-16T10:00:00.000Z"
 		},
 		{
-			"headline": "MBARI Senior Education and Research Specialist George Matsumoto honored by National Marine Educators Association",
-			"url": "https://www.mbari.org/news/mbari-senior-education-and-research-specialist-george-matsumoto-honored-by-national-marine-educators-association/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-15T18:00:43.000Z"
-		},
-		{
-			"headline": "Key California law on 'recyclable' packaging symbols is blocked by federal judge",
-			"url": "https://www.latimes.com/environment/story/2026-07-15/judge-blocks-california-law-on-recycling-symbols-on-plastic-containers",
+			"headline": "Put your clothes back on! Beloved San Gregorio nude beach to become part of public state park",
+			"url": "https://www.latimes.com/california/story/2026-07-15/san-gregorio-nude-beach-to-become-part-of-public-state-park",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-15T19:25:58.000Z"
+			"publishedAt": "2026-07-16T03:26:57.000Z"
 		},
 		{
 			"headline": "The Podcast Studio Is Gently Floating in the Harbor",
@@ -86,22 +116,22 @@
 			"publishedAt": "2026-07-15T18:14:54.000Z"
 		},
 		{
-			"headline": "New research reveals factors driving the evolution of remarkable eyes in deep-sea amphipods",
-			"url": "https://www.mbari.org/news/new-research-reveals-factors-driving-the-evolution-of-remarkable-eyes-in-deep-sea-amphipods/",
+			"headline": "MBARI Senior Education and Research Specialist George Matsumoto honored by National Marine Educators Association",
+			"url": "https://www.mbari.org/news/mbari-senior-education-and-research-specialist-george-matsumoto-honored-by-national-marine-educators-association/",
 			"source": "MBARI",
-			"publishedAt": "2026-07-14T18:30:15.000Z"
+			"publishedAt": "2026-07-15T18:00:43.000Z"
 		},
 		{
-			"headline": "Researchers shed new light on ancient concrete's extraordinary durability",
-			"url": "https://engineering.berkeley.edu/news/2026/07/researchers-shed-new-light-on-ancient-concretes-extraordinary-durability/",
+			"headline": "America at 250: What UC Berkeley historians want us to remember",
+			"url": "https://ls.berkeley.edu/news/america-250-what-berkeley-historians-want-us-remember",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-14T17:58:05.000Z"
+			"publishedAt": "2026-07-15T17:14:00.000Z"
 		},
 		{
-			"headline": "From HBCUs to the Bay, mentoring the next generation of scientists",
-			"url": "https://news.berkeley.edu/2026/07/14/from-hbcus-to-the-bay-mentoring-the-next-generation-of-scientists/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-14T17:03:48.000Z"
+			"headline": "Key California law on 'recyclable' packaging symbols is blocked by federal judge",
+			"url": "https://www.latimes.com/environment/story/2026-07-15/judge-blocks-california-law-on-recycling-symbols-on-plastic-containers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-15T19:25:58.000Z"
 		},
 		{
 			"headline": "It's time for the night trip to the beach — the grunion are running",
@@ -116,40 +146,10 @@
 			"publishedAt": "2026-07-14T19:29:56.000Z"
 		},
 		{
-			"headline": "Dangerous heat wave hits L.A.: How long will it last? How high will temperatures soar?",
-			"url": "https://www.latimes.com/california/story/2026-07-14/socal-extreme-heat-warning-risks",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T17:16:34.000Z"
-		},
-		{
-			"headline": "Lobster poachers pinched in Santa Monica; crustaceans stuffed in bags, backpacks, a baby stroller",
-			"url": "https://www.latimes.com/california/story/2026-07-14/spiny-lobster-poachers-pinched-at-santa-monica-pier",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T21:21:25.000Z"
-		},
-		{
-			"headline": "Is it safe to eat salads? A rise in diarrhea-causing cyclosporiasis sparks fears of fruits, vegetables",
-			"url": "https://www.latimes.com/california/story/2026-07-14/is-it-safe-to-eat-produce-rise-in-diarrhea-causing-cyclosporiasis-sparks-fears-of-fruit-vegetables",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T20:09:03.000Z"
-		},
-		{
-			"headline": "Anger grows in Boyle Heights as warehouse fire leaves stench, flies and vermin in its wake",
-			"url": "https://www.latimes.com/environment/story/2026-07-14/anger-grows-in-boyle-heights-as-warehouse-fire-leaves-stench-flies-vermin-in-its-wake",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-14T20:08:01.000Z"
-		},
-		{
-			"headline": "West Hollywood rupture was L.A.'s worst in years: 17 million gallons spilled, Sunset Boulevard closed for days",
-			"url": "https://www.latimes.com/california/story/2026-07-17/sunset-blvd-closed-water-main-repairs-weho",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T14:34:51.000Z"
-		},
-		{
-			"headline": "Sunset Strip flooded by ruptured 110-year-old water line, another blow to L.A.'s ancient infrastructure",
-			"url": "https://www.latimes.com/california/story/2026-07-16/weho-water-main-break",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T13:11:37.000Z"
+			"headline": "New research reveals factors driving the evolution of remarkable eyes in deep-sea amphipods",
+			"url": "https://www.mbari.org/news/new-research-reveals-factors-driving-the-evolution-of-remarkable-eyes-in-deep-sea-amphipods/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-14T18:30:15.000Z"
 		}
 	]
 }
