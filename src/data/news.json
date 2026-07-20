@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-20T10:36:17.639Z",
+	"lastUpdated": "2026-07-20T13:31:51.359Z",
 	"items": [
 		{
 			"headline": "As water restrictions hit farmers, solar is making sense",
@@ -18,6 +18,12 @@
 			"url": "https://www.latimes.com/california/story/2026-07-19/jackie-shadow-big-bear-eagles-adult-rescued",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-20T05:25:00.000Z"
+		},
+		{
+			"headline": "More water pipes burst in Venice, Hollywood as Sunset Strip repairs enter Day 4",
+			"url": "https://www.latimes.com/california/story/2026-07-19/venice-hollywood-water-pipe-breaks-deepen-la-flooding-woes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-19T21:14:23.000Z"
 		},
 		{
 			"headline": "Watch Menlo Park firefighters rescue missing dog from San Francisco Bay",
@@ -42,12 +48,6 @@
 			"url": "https://www.latimes.com/california/story/2026-07-17/woman-who-went-missing-in-mojave-desert-offroading-area-is-found-dead",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-17T19:29:19.000Z"
-		},
-		{
-			"headline": "Caltech Mourns the Passing of Nobel Laureate Rudy Marcus (1923–2026)",
-			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-nobel-laureate-rudy-marcus-19232026",
-			"source": "Caltech",
-			"publishedAt": "2026-07-17T20:58:00.000Z"
 		},
 		{
 			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
@@ -80,12 +80,6 @@
 			"publishedAt": "2026-07-17T14:34:51.000Z"
 		},
 		{
-			"headline": "New rule caps foreign student visas at four years, jolting California campuses",
-			"url": "https://www.latimes.com/california/story/2026-07-17/new-rule-caps-f1-foreign-student-visas-california-campuses",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T10:00:00.000Z"
-		},
-		{
 			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
 			"url": "https://www.caltech.edu/about/news/cold-radioactive-molecules-prepped-and-readied-for-physics-discoveries",
 			"source": "Caltech",
@@ -96,6 +90,12 @@
 			"url": "https://www.latimes.com/california/story/2026-07-16/heres-what-we-know-about-deadly-boat-sinking-in-san-francisco-bay",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-16T16:27:35.000Z"
+		},
+		{
+			"headline": "Sunset Strip flooded by ruptured 110-year-old water line, another blow to L.A.'s ancient infrastructure",
+			"url": "https://www.latimes.com/california/story/2026-07-16/weho-water-main-break",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-16T13:11:37.000Z"
 		},
 		{
 			"headline": "After wildfires destroyed 95% of this California tribe's forests, members uncovered 1,200 ancestral sites",
@@ -116,40 +116,40 @@
 			"publishedAt": "2026-07-16T10:00:00.000Z"
 		},
 		{
-			"headline": "Sunset Strip flooded by ruptured 110-year-old water line, another blow to L.A.'s ancient infrastructure",
-			"url": "https://www.latimes.com/california/story/2026-07-16/weho-water-main-break",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T13:11:37.000Z"
-		},
-		{
-			"headline": "Key California law on 'recyclable' packaging symbols is blocked by federal judge",
-			"url": "https://www.latimes.com/environment/story/2026-07-15/judge-blocks-california-law-on-recycling-symbols-on-plastic-containers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-15T19:25:58.000Z"
-		},
-		{
-			"headline": "The Podcast Studio Is Gently Floating in the Harbor",
-			"url": "https://baynature.org/2026/07/15/science-nature/history/the-podcast-studio-is-gently-floating-in-the-harbor/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-15T18:14:54.000Z"
-		},
-		{
 			"headline": "MBARI Senior Education and Research Specialist George Matsumoto honored by National Marine Educators Association",
 			"url": "https://www.mbari.org/news/mbari-senior-education-and-research-specialist-george-matsumoto-honored-by-national-marine-educators-association/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-15T18:00:43.000Z"
 		},
 		{
-			"headline": "Wildfire threatens homes in Santa Clarita as dangerous SoCal heat wave worsens",
-			"url": "https://www.latimes.com/california/story/2026-07-15/extreme-heat-raises-fears-of-fast-moving-wildfires",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-15T12:00:00.000Z"
+			"headline": "America at 250: What UC Berkeley historians want us to remember",
+			"url": "https://ls.berkeley.edu/news/america-250-what-berkeley-historians-want-us-remember",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-15T17:14:00.000Z"
 		},
 		{
 			"headline": "It's time for the night trip to the beach — the grunion are running",
 			"url": "https://www.latimes.com/environment/story/2026-07-14/its-time-for-night-trip-to-beach-grunion-are-running",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-14T22:11:20.000Z"
+		},
+		{
+			"headline": "Lobster poachers pinched in Santa Monica; crustaceans stuffed in bags, backpacks, a baby stroller",
+			"url": "https://www.latimes.com/california/story/2026-07-14/spiny-lobster-poachers-pinched-at-santa-monica-pier",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-14T21:21:25.000Z"
+		},
+		{
+			"headline": "This invasive insect threatens California's wine industry. It's been linked to another Costco-sold plant",
+			"url": "https://www.latimes.com/california/story/2026-07-14/costco-asks-ca-customers-to-isolate-plants-with-invasive-insect-again",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-14T19:29:56.000Z"
+		},
+		{
+			"headline": "Key California law on 'recyclable' packaging symbols is blocked by federal judge",
+			"url": "https://www.latimes.com/environment/story/2026-07-15/judge-blocks-california-law-on-recycling-symbols-on-plastic-containers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-15T19:25:58.000Z"
 		}
 	]
 }
