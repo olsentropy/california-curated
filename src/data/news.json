@@ -1,11 +1,11 @@
 {
-	"lastUpdated": "2026-07-21T13:07:46.766Z",
+	"lastUpdated": "2026-07-21T17:04:05.993Z",
 	"items": [
 		{
-			"headline": "Crushing crowds turn Yosemite into 'Disneyland.' Can visitors still have fun?",
-			"url": "https://www.latimes.com/lifestyle/story/2026-07-21/la-crowds-yosemite-national-park-growing-can-people-still-have-fun",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-21T10:00:00.000Z"
+			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
+			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-21T16:20:53.000Z"
 		},
 		{
 			"headline": "This SoCal heat wave could be hottest of the year: 5 things to know",
@@ -62,10 +62,22 @@
 			"publishedAt": "2026-07-19T10:00:00.000Z"
 		},
 		{
-			"headline": "Retired teacher who went missing in Mojave Desert off-roading area is found dead",
-			"url": "https://www.latimes.com/california/story/2026-07-17/woman-who-went-missing-in-mojave-desert-offroading-area-is-found-dead",
+			"headline": "Wreckage found after deadly boat capsize near Alcatraz, search continues for missing bodies",
+			"url": "https://www.latimes.com/california/story/2026-07-17/wreckage-of-boat-that-capsized-near-alcatraz-found-in-san-francisco-bay",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T19:29:19.000Z"
+			"publishedAt": "2026-07-18T02:43:35.000Z"
+		},
+		{
+			"headline": "Orange County demands $4 million from company at center of Garden Grove chemical crisis",
+			"url": "https://www.latimes.com/california/story/2026-07-17/orange-county-demands-4-million-from-gkn-aerospace-after-crisis",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-18T02:22:53.000Z"
+		},
+		{
+			"headline": "California Forest Service workers taken hostage, held at gunpoint in remote trailer, feds say",
+			"url": "https://www.latimes.com/california/story/2026-07-17/forest-service-workers-taken-hostage-held-at-gunpoint-in-norcal-feds-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-18T00:45:41.000Z"
 		},
 		{
 			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
@@ -138,18 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-07-15/san-gregorio-nude-beach-to-become-part-of-public-state-park",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-16T03:26:57.000Z"
-		},
-		{
-			"headline": "Key California law on 'recyclable' packaging symbols is blocked by federal judge",
-			"url": "https://www.latimes.com/environment/story/2026-07-15/judge-blocks-california-law-on-recycling-symbols-on-plastic-containers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-15T19:25:58.000Z"
-		},
-		{
-			"headline": "The Podcast Studio Is Gently Floating in the Harbor",
-			"url": "https://baynature.org/2026/07/15/science-nature/history/the-podcast-studio-is-gently-floating-in-the-harbor/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-15T18:14:54.000Z"
 		}
 	]
 }
