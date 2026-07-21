@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-07-21T17:04:05.993Z",
+	"lastUpdated": "2026-07-21T20:55:42.697Z",
 	"items": [
+		{
+			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
+			"url": "https://www.latimes.com/environment/story/2026-07-21/colorado-river-reservoirs-record-lows",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-21T19:37:03.000Z"
+		},
+		{
+			"headline": "Super pollutants — California sues Trump administration for ignoring climate-changing fridge chemicals",
+			"url": "https://www.latimes.com/environment/story/2026-07-21/super-pollutants-california-sues-trump-administration-for-ignoring-climate-changing-fridge-chemicals",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-21T19:30:59.000Z"
+		},
 		{
 			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
 			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
@@ -74,12 +86,6 @@
 			"publishedAt": "2026-07-18T02:22:53.000Z"
 		},
 		{
-			"headline": "California Forest Service workers taken hostage, held at gunpoint in remote trailer, feds say",
-			"url": "https://www.latimes.com/california/story/2026-07-17/forest-service-workers-taken-hostage-held-at-gunpoint-in-norcal-feds-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-18T00:45:41.000Z"
-		},
-		{
 			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
 			"url": "https://www.latimes.com/science/story/2026-07-17/rudolph-marcus-dead-102-caltech-chemist",
 			"source": "Los Angeles Times",
@@ -102,12 +108,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-17/environmental-groups-press-to-halt-imperial-valley-lithium",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-17T16:50:32.000Z"
-		},
-		{
-			"headline": "West Hollywood rupture was L.A.'s worst in years: 17 million gallons spilled, Sunset Boulevard closed for days",
-			"url": "https://www.latimes.com/california/story/2026-07-17/sunset-blvd-closed-water-main-repairs-weho",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T14:34:51.000Z"
 		},
 		{
 			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
