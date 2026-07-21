@@ -11,7 +11,7 @@ categories:
 tags:
   - microbes, jeffrey marlow, hydrothermal vents, ocean science, biology, california
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 [Dr. Jeff Marlow](https://www.bu.edu/biology/people/profiles/jeffrey-j-marlow/) has spent much of his career exploring some of the most extreme and least understood environments on Earth: The deep ocean. A microbiologist and assistant professor of biology at Boston University, Marlow studies the remarkable microorganisms that thrive in extreme places in the deep ocean.
