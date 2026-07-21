@@ -1,23 +1,17 @@
 {
-	"lastUpdated": "2026-07-21T01:14:24.840Z",
+	"lastUpdated": "2026-07-21T06:20:06.630Z",
 	"items": [
 		{
-			"headline": "California fights Trump administration, again, over Santa Barbara oil pipeline: The coast is 'not for sale'",
-			"url": "https://www.latimes.com/california/story/2026-07-20/california-again-fights-trump-administration-over-santa-barbara-oil-pipeline",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T23:43:58.000Z"
+			"headline": "UC Berkeley researchers create new metamaterials inspired by deep-sea sponges",
+			"url": "https://engineering.berkeley.edu/news/2026/07/new-metamaterials-take-inspiration-from-deep-sea-sponges/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-20T17:59:32.000Z"
 		},
 		{
 			"headline": "Found weak and disheveled, rescued eagle — probably Big Bear's Jackie — receiving care in Ojai",
 			"url": "https://www.latimes.com/environment/story/2026-07-20/bald-eagle-rescued-in-big-bear-likely-jackie-is-in-stable-condition",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-20T23:13:10.000Z"
-		},
-		{
-			"headline": "UC Berkeley researchers create new metamaterials inspired by deep-sea sponges",
-			"url": "https://engineering.berkeley.edu/news/2026/07/new-metamaterials-take-inspiration-from-deep-sea-sponges/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-20T17:59:32.000Z"
 		},
 		{
 			"headline": "Central Valley farmers reluctantly turn to solar as water supplies dry up",
@@ -38,22 +32,22 @@
 			"publishedAt": "2026-07-20T05:25:00.000Z"
 		},
 		{
-			"headline": "More water pipes burst in Venice, Hollywood as Sunset Strip repairs enter Day 4",
-			"url": "https://www.latimes.com/california/story/2026-07-19/venice-hollywood-water-pipe-breaks-deepen-la-flooding-woes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-19T21:14:23.000Z"
-		},
-		{
 			"headline": "Watch Menlo Park firefighters rescue missing dog from San Francisco Bay",
 			"url": "https://www.latimes.com/california/story/2026-07-19/watch-firefighters-rescue-missing-dog-from-san-francisco-bay",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-19T17:34:29.000Z"
 		},
 		{
-			"headline": "Retired teacher who went missing in Mojave Desert off-roading area is found dead",
-			"url": "https://www.latimes.com/california/story/2026-07-17/woman-who-went-missing-in-mojave-desert-offroading-area-is-found-dead",
+			"headline": "Wreckage found after deadly boat capsize near Alcatraz, search continues for missing bodies",
+			"url": "https://www.latimes.com/california/story/2026-07-17/wreckage-of-boat-that-capsized-near-alcatraz-found-in-san-francisco-bay",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T19:29:19.000Z"
+			"publishedAt": "2026-07-18T02:43:35.000Z"
+		},
+		{
+			"headline": "Orange County demands $4 million from company at center of Garden Grove chemical crisis",
+			"url": "https://www.latimes.com/california/story/2026-07-17/orange-county-demands-4-million-from-gkn-aerospace-after-crisis",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-18T02:22:53.000Z"
 		},
 		{
 			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
@@ -62,16 +56,16 @@
 			"publishedAt": "2026-07-17T18:29:30.000Z"
 		},
 		{
+			"headline": "Caltech Mourns the Passing of Nobel Laureate Rudy Marcus (1923–2026)",
+			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-nobel-laureate-rudy-marcus-19232026",
+			"source": "Caltech",
+			"publishedAt": "2026-07-17T20:58:00.000Z"
+		},
+		{
 			"headline": "California-based Taylor Farms pulls iceberg lettuce from U.S. amid cyclosporiasis outbreak",
 			"url": "https://www.latimes.com/california/story/2026-07-17/california-based-taylor-farms-possible-source-of-cyclosporiasis-outbreak",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-17T18:21:10.000Z"
-		},
-		{
-			"headline": "Something went 'catastrophically wrong' in San Francisco Bay. What caused deadly boat sinking?",
-			"url": "https://www.latimes.com/california/story/2026-07-17/sf-bay-boat-sinking-cause-mystery",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T17:18:14.000Z"
 		},
 		{
 			"headline": "Environmental groups press judges to pause Imperial Valley lithium venture",
@@ -80,10 +74,10 @@
 			"publishedAt": "2026-07-17T16:50:32.000Z"
 		},
 		{
-			"headline": "West Hollywood rupture was L.A.'s worst in years: 17 million gallons spilled, Sunset Boulevard closed for days",
-			"url": "https://www.latimes.com/california/story/2026-07-17/sunset-blvd-closed-water-main-repairs-weho",
+			"headline": "Something went 'catastrophically wrong' in San Francisco Bay. What caused deadly boat sinking?",
+			"url": "https://www.latimes.com/california/story/2026-07-17/sf-bay-boat-sinking-cause-mystery",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T14:34:51.000Z"
+			"publishedAt": "2026-07-17T17:18:14.000Z"
 		},
 		{
 			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
@@ -122,25 +116,13 @@
 			"publishedAt": "2026-07-16T10:00:00.000Z"
 		},
 		{
-			"headline": "Put your clothes back on! Beloved San Gregorio nude beach to become part of public state park",
-			"url": "https://www.latimes.com/california/story/2026-07-15/san-gregorio-nude-beach-to-become-part-of-public-state-park",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T03:26:57.000Z"
-		},
-		{
-			"headline": "The Podcast Studio Is Gently Floating in the Harbor",
-			"url": "https://baynature.org/2026/07/15/science-nature/history/the-podcast-studio-is-gently-floating-in-the-harbor/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-15T18:14:54.000Z"
-		},
-		{
 			"headline": "MBARI Senior Education and Research Specialist George Matsumoto honored by National Marine Educators Association",
 			"url": "https://www.mbari.org/news/mbari-senior-education-and-research-specialist-george-matsumoto-honored-by-national-marine-educators-association/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-15T18:00:43.000Z"
 		},
 		{
-			"headline": "America at 250: What UC Berkeley historians want us to remember",
+			"headline": "America at UC Berkeley historians want us to remember",
 			"url": "https://ls.berkeley.edu/news/america-250-what-berkeley-historians-want-us-remember",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-15T17:14:00.000Z"
@@ -150,6 +132,18 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-15/judge-blocks-california-law-on-recycling-symbols-on-plastic-containers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-15T19:25:58.000Z"
+		},
+		{
+			"headline": "The Podcast Studio Is Gently Floating in the Harbor",
+			"url": "https://baynature.org/2026/07/15/science-nature/history/the-podcast-studio-is-gently-floating-in-the-harbor/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-15T18:14:54.000Z"
+		},
+		{
+			"headline": "Put your clothes back on! Beloved San Gregorio nude beach to become part of public state park",
+			"url": "https://www.latimes.com/california/story/2026-07-15/san-gregorio-nude-beach-to-become-part-of-public-state-park",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-16T03:26:57.000Z"
 		}
 	]
 }
