@@ -8,7 +8,8 @@ categories:
   - animals
   - marine-science
   - people
-tags: []
+tags:
+  - microbes, jeffrey marlow, hydrothermal vents, ocean science, biology, california
 author: Erik Olsen
 draft: true
 ---
