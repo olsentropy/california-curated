@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-07-20T20:56:45.458Z",
+	"lastUpdated": "2026-07-21T01:14:24.840Z",
 	"items": [
+		{
+			"headline": "California fights Trump administration, again, over Santa Barbara oil pipeline: The coast is 'not for sale'",
+			"url": "https://www.latimes.com/california/story/2026-07-20/california-again-fights-trump-administration-over-santa-barbara-oil-pipeline",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-20T23:43:58.000Z"
+		},
+		{
+			"headline": "Found weak and disheveled, rescued eagle — probably Big Bear's Jackie — receiving care in Ojai",
+			"url": "https://www.latimes.com/environment/story/2026-07-20/bald-eagle-rescued-in-big-bear-likely-jackie-is-in-stable-condition",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-20T23:13:10.000Z"
+		},
 		{
 			"headline": "UC Berkeley researchers create new metamaterials inspired by deep-sea sponges",
 			"url": "https://engineering.berkeley.edu/news/2026/07/new-metamaterials-take-inspiration-from-deep-sea-sponges/",
@@ -20,16 +32,22 @@
 			"publishedAt": "2026-07-20T10:00:00.000Z"
 		},
 		{
-			"headline": "Injured bald eagle rescued near Big Bear is believed to be Jackie",
+			"headline": "Rescued Big Bear bald eagle Jackie is 'stable,' wildlife nonprofit says",
 			"url": "https://www.latimes.com/california/story/2026-07-19/jackie-shadow-big-bear-eagles-adult-rescued",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-20T05:25:00.000Z"
 		},
 		{
-			"headline": "Caltech Mourns the Passing of Nobel Laureate Rudy Marcus (1923–2026)",
-			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-nobel-laureate-rudy-marcus-19232026",
-			"source": "Caltech",
-			"publishedAt": "2026-07-17T20:58:00.000Z"
+			"headline": "More water pipes burst in Venice, Hollywood as Sunset Strip repairs enter Day 4",
+			"url": "https://www.latimes.com/california/story/2026-07-19/venice-hollywood-water-pipe-breaks-deepen-la-flooding-woes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-19T21:14:23.000Z"
+		},
+		{
+			"headline": "Watch Menlo Park firefighters rescue missing dog from San Francisco Bay",
+			"url": "https://www.latimes.com/california/story/2026-07-19/watch-firefighters-rescue-missing-dog-from-san-francisco-bay",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-19T17:34:29.000Z"
 		},
 		{
 			"headline": "Retired teacher who went missing in Mojave Desert off-roading area is found dead",
@@ -128,22 +146,10 @@
 			"publishedAt": "2026-07-15T17:14:00.000Z"
 		},
 		{
-			"headline": "Wildfire threatens homes in Santa Clarita as dangerous SoCal heat wave worsens",
-			"url": "https://www.latimes.com/california/story/2026-07-15/extreme-heat-raises-fears-of-fast-moving-wildfires",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-15T12:00:00.000Z"
-		},
-		{
 			"headline": "Key California law on 'recyclable' packaging symbols is blocked by federal judge",
 			"url": "https://www.latimes.com/environment/story/2026-07-15/judge-blocks-california-law-on-recycling-symbols-on-plastic-containers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-15T19:25:58.000Z"
-		},
-		{
-			"headline": "How to eat safely amid outbreak of diarrhea-causing cyclosporiasis",
-			"url": "https://www.latimes.com/california/story/2026-07-15/how-to-eat-safely-amid-outbreak-of-diarrhea-causing-cyclosporiasis",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-15T21:22:53.000Z"
 		}
 	]
 }
