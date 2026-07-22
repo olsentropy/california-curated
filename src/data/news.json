@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-07-21T20:55:42.697Z",
+	"lastUpdated": "2026-07-22T01:12:42.114Z",
 	"items": [
+		{
+			"headline": "Rescued eagle Jackie battles anemia, inflammation. 'It's too early to predict the outcome'",
+			"url": "https://www.latimes.com/environment/story/2026-07-21/rescued-eagle-jackie-in-critical-condition-as-she-battles-anemia-inflammation",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T00:43:16.000Z"
+		},
 		{
 			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
 			"url": "https://www.latimes.com/environment/story/2026-07-21/colorado-river-reservoirs-record-lows",
@@ -24,6 +30,12 @@
 			"url": "https://www.latimes.com/california/story/2026-07-21/this-socal-heat-wave-could-be-hottest-of-year-5-things-to-know",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-21T10:00:00.000Z"
+		},
+		{
+			"headline": "E-bike injuries are increasing rapidly in California. Many hurt are 14 or younger, study finds",
+			"url": "https://www.latimes.com/california/story/2026-07-20/e-bike-injuries-are-increasing-rapidly-in-california-many-of-those-hurt-are-14-or-younger-study-finds",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-21T02:02:42.000Z"
 		},
 		{
 			"headline": "California fights Trump administration, again, over Santa Barbara oil pipeline: The coast is 'not for sale'",
@@ -62,6 +74,12 @@
 			"publishedAt": "2026-07-20T05:25:00.000Z"
 		},
 		{
+			"headline": "More water pipes burst in Venice, Hollywood as Sunset Strip repairs enter Day 4",
+			"url": "https://www.latimes.com/california/story/2026-07-19/venice-hollywood-water-pipe-breaks-deepen-la-flooding-woes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-19T21:14:23.000Z"
+		},
+		{
 			"headline": "Watch Menlo Park firefighters rescue missing dog from San Francisco Bay",
 			"url": "https://www.latimes.com/california/story/2026-07-19/watch-firefighters-rescue-missing-dog-from-san-francisco-bay",
 			"source": "Los Angeles Times",
@@ -72,18 +90,6 @@
 			"url": "https://www.latimes.com/california/story/2026-07-19/activists-climb-100-foot-pine-in-protest-over-pasadena-tree-cuts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-19T10:00:00.000Z"
-		},
-		{
-			"headline": "Wreckage found after deadly boat capsize near Alcatraz, search continues for missing bodies",
-			"url": "https://www.latimes.com/california/story/2026-07-17/wreckage-of-boat-that-capsized-near-alcatraz-found-in-san-francisco-bay",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-18T02:43:35.000Z"
-		},
-		{
-			"headline": "Orange County demands $4 million from company at center of Garden Grove chemical crisis",
-			"url": "https://www.latimes.com/california/story/2026-07-17/orange-county-demands-4-million-from-gkn-aerospace-after-crisis",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-18T02:22:53.000Z"
 		},
 		{
 			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
@@ -108,6 +114,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-17/environmental-groups-press-to-halt-imperial-valley-lithium",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-17T16:50:32.000Z"
+		},
+		{
+			"headline": "West Hollywood rupture was L.A.'s worst in years: 17 million gallons spilled, Sunset Boulevard closed for days",
+			"url": "https://www.latimes.com/california/story/2026-07-17/sunset-blvd-closed-water-main-repairs-weho",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T14:34:51.000Z"
 		},
 		{
 			"headline": "Cold Radioactive Molecules Prepped and Readied for Physics Discoveries",
@@ -138,18 +150,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-16/feds-to-pay-millions-to-boost-lake-meads-dwindling-water-levels",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-16T10:00:00.000Z"
-		},
-		{
-			"headline": "As great whites and humans share the waters, shark lab runs out of funding",
-			"url": "https://www.latimes.com/environment/story/2026-07-16/as-great-whites-humans-share-waters-shark-lab-runs-out-of-funding",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T10:00:00.000Z"
-		},
-		{
-			"headline": "Put your clothes back on! Beloved San Gregorio nude beach to become part of public state park",
-			"url": "https://www.latimes.com/california/story/2026-07-15/san-gregorio-nude-beach-to-become-part-of-public-state-park",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-16T03:26:57.000Z"
 		}
 	]
 }
