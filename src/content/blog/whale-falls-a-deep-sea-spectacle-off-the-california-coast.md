@@ -24,7 +24,7 @@ wpSlug: whale-falls-a-deep-sea-spectacle-off-the-california-coast
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
-When a whale dies in the ocean, its carcass sinks to the seafloor, creating a unique and rich ecosystem known as a whale fall. Recently, scientists have discovered an extraordinary number of these whale falls off the coast of Los Angeles: over 60 skeletons, a number that surpasses the total found worldwide since 1977. 
+When a whale dies in the ocean, its carcass sinks to the seafloor, creating a unique and rich ecosystem known as a [whale fall](https://oceanservice.noaa.gov/facts/whale-fall.html). Recently, scientists have discovered an extraordinary number of these whale falls off the coast of Los Angeles: over 60 skeletons, a number that surpasses the total found worldwide since 1977. 
 
 This remarkable density of whale falls has turned the region into [a hotspot for marine biologists](<https://nautiluslive.org/video/2019/10/16/whale-fall-actively-devoured-scavengers-davidson-seamount>) and ecologists eager to study these deep-sea oases of marine life. A [recent video](<https://youtu.be/CZzQhiNQXxU>) (2019) from the [Exploration Vessel (E/V) Nautilus](<https://nautiluslive.org/>) captured the excitement as scientists came upon a whale fall on the Davidson Seamount off California. 
 
