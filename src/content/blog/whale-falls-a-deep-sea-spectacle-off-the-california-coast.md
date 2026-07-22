@@ -1,6 +1,6 @@
 ---
-title: The California Coastline is a Massive Whale Graveyeard
-description: Recently, scientists have discovered an extraordinary number of these whale falls off the coast of Los Angele with over 60 skeletons, a number that surpasses the total found worldwide since 1977.
+title: The California Coastline is a Massive Whale Graveyard
+description: Recently, scientists have discovered an extraordinary number of these whale falls off the coast of Los Angeles, with over 60 skeletons found, a number that surpasses the total found worldwide since 1977.
 pubDate: 2024-07-18
 updatedDate: ''
 heroImage: https://californiacurated.com/wp-content/uploads/2024/07/whale-fall.jpg
