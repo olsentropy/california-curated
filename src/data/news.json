@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-22T17:03:55.035Z",
+	"lastUpdated": "2026-07-22T20:50:57.416Z",
 	"items": [
 		{
 			"headline": "Two Caltech Projects Selected for DOE Funding as Part of Genesis Mission",
@@ -26,10 +26,10 @@
 			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
-			"headline": "As North America grapples with destructive wildfires, 'super' El Niño may offer hope",
-			"url": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T10:00:00.000Z"
+			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
+			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-21T16:20:53.000Z"
 		},
 		{
 			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
@@ -44,10 +44,16 @@
 			"publishedAt": "2026-07-21T19:30:59.000Z"
 		},
 		{
-			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
-			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-21T16:20:53.000Z"
+			"headline": "Modeling the Changing Patterns of Policymaking",
+			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
+			"source": "Caltech",
+			"publishedAt": "2026-07-21T19:11:14.631Z"
+		},
+		{
+			"headline": "This SoCal heat wave could be hottest of the year: 5 things to know",
+			"url": "https://www.latimes.com/california/story/2026-07-21/this-socal-heat-wave-could-be-hottest-of-year-5-things-to-know",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-21T10:00:00.000Z"
 		},
 		{
 			"headline": "California fights Trump administration, again, over Santa Barbara oil pipeline: The coast is 'not for sale'",
@@ -92,40 +98,16 @@
 			"publishedAt": "2026-07-20T05:25:00.000Z"
 		},
 		{
-			"headline": "Watch Menlo Park firefighters rescue missing dog from San Francisco Bay",
-			"url": "https://www.latimes.com/california/story/2026-07-19/watch-firefighters-rescue-missing-dog-from-san-francisco-bay",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-19T17:34:29.000Z"
-		},
-		{
 			"headline": "Protests and lawsuits: Activists climb pine amid showdown over Pasadena school district's tree removals",
 			"url": "https://www.latimes.com/california/story/2026-07-19/activists-climb-100-foot-pine-in-protest-over-pasadena-tree-cuts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-19T10:00:00.000Z"
 		},
 		{
-			"headline": "Airman at Vandenberg Space Force Base dies in heavy machinery incident, officials say",
-			"url": "https://www.latimes.com/california/story/2026-07-18/airman-at-vandenberg-space-force-base-dies-in-heavy-machinery-incident",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-18T22:13:35.000Z"
-		},
-		{
-			"headline": "Caltech Mourns the Passing of Nobel Laureate Rudy Marcus (1923–2026)",
-			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-nobel-laureate-rudy-marcus-19232026",
-			"source": "Caltech",
-			"publishedAt": "2026-07-17T20:58:00.000Z"
-		},
-		{
 			"headline": "Retired teacher who went missing in Mojave Desert off-roading area is found dead",
 			"url": "https://www.latimes.com/california/story/2026-07-17/woman-who-went-missing-in-mojave-desert-offroading-area-is-found-dead",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-17T19:29:19.000Z"
-		},
-		{
-			"headline": "Rare child cancer cases in Orange County should be investigated, feds say",
-			"url": "https://www.latimes.com/california/story/2026-07-17/rare-child-cancer-oc-fed-probe",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T18:42:36.000Z"
 		},
 		{
 			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
