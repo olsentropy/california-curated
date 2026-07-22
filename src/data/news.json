@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-07-22T13:13:32.673Z",
+	"lastUpdated": "2026-07-22T17:03:55.035Z",
 	"items": [
+		{
+			"headline": "Two Caltech Projects Selected for DOE Funding as Part of Genesis Mission",
+			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
+			"source": "Caltech",
+			"publishedAt": "2026-07-22T14:44:38.121Z"
+		},
+		{
+			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
+			"url": "https://www.mbari.org/news/listening-with-light-mbari-researchers-develop-innovative-new-technology-for-studying-the-seafloor/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-22T14:00:57.000Z"
+		},
+		{
+			"headline": "Redesigning Farmland Through Community Collaboration in California",
+			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
+			"source": "Eos",
+			"publishedAt": "2026-07-22T12:00:00.000Z"
+		},
 		{
 			"headline": "Heat wave smothering Southern California nears its peak",
 			"url": "https://www.latimes.com/california/story/2026-07-22/heat-wave-smothering-southern-california-nears-its-peak",
@@ -8,10 +26,10 @@
 			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
-			"headline": "Redesigning Farmland Through Community Collaboration in California",
-			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-07-22T12:00:00.000Z"
+			"headline": "As North America grapples with destructive wildfires, 'super' El Niño may offer hope",
+			"url": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T10:00:00.000Z"
 		},
 		{
 			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
@@ -30,12 +48,6 @@
 			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-21T16:20:53.000Z"
-		},
-		{
-			"headline": "This SoCal heat wave could be hottest of the year: 5 things to know",
-			"url": "https://www.latimes.com/california/story/2026-07-21/this-socal-heat-wave-could-be-hottest-of-year-5-things-to-know",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-21T10:00:00.000Z"
 		},
 		{
 			"headline": "California fights Trump administration, again, over Santa Barbara oil pipeline: The coast is 'not for sale'",
@@ -80,28 +92,46 @@
 			"publishedAt": "2026-07-20T05:25:00.000Z"
 		},
 		{
-			"headline": "E-bike injuries are increasing rapidly in California. Many hurt are 14 or younger, study finds",
-			"url": "https://www.latimes.com/california/story/2026-07-20/e-bike-injuries-are-increasing-rapidly-in-california-many-of-those-hurt-are-14-or-younger-study-finds",
+			"headline": "Watch Menlo Park firefighters rescue missing dog from San Francisco Bay",
+			"url": "https://www.latimes.com/california/story/2026-07-19/watch-firefighters-rescue-missing-dog-from-san-francisco-bay",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-21T02:02:42.000Z"
+			"publishedAt": "2026-07-19T17:34:29.000Z"
 		},
 		{
-			"headline": "Rescued eagle Jackie battles anemia, inflammation. 'It's too early to predict the outcome'",
-			"url": "https://www.latimes.com/environment/story/2026-07-21/rescued-eagle-jackie-in-critical-condition-as-she-battles-anemia-inflammation",
+			"headline": "Protests and lawsuits: Activists climb pine amid showdown over Pasadena school district's tree removals",
+			"url": "https://www.latimes.com/california/story/2026-07-19/activists-climb-100-foot-pine-in-protest-over-pasadena-tree-cuts",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T00:43:16.000Z"
+			"publishedAt": "2026-07-19T10:00:00.000Z"
 		},
 		{
-			"headline": "Toddler bitten by a rattlesnake hidden underneath Amazon package",
-			"url": "https://www.latimes.com/california/story/2026-07-21/toddler-bitten-by-rattlesnake-hidden-underneath-amazon-package",
+			"headline": "Airman at Vandenberg Space Force Base dies in heavy machinery incident, officials say",
+			"url": "https://www.latimes.com/california/story/2026-07-18/airman-at-vandenberg-space-force-base-dies-in-heavy-machinery-incident",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-21T22:09:15.000Z"
+			"publishedAt": "2026-07-18T22:13:35.000Z"
 		},
 		{
-			"headline": "Wildfire survivors angered as utility-funded group claims to represent them",
-			"url": "https://www.latimes.com/business/story/2026-07-21/wildfire-survivors-angered-as-utility-funded-group-claims-to-represent-them",
+			"headline": "Caltech Mourns the Passing of Nobel Laureate Rudy Marcus (1923–2026)",
+			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-nobel-laureate-rudy-marcus-19232026",
+			"source": "Caltech",
+			"publishedAt": "2026-07-17T20:58:00.000Z"
+		},
+		{
+			"headline": "Retired teacher who went missing in Mojave Desert off-roading area is found dead",
+			"url": "https://www.latimes.com/california/story/2026-07-17/woman-who-went-missing-in-mojave-desert-offroading-area-is-found-dead",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-21T21:40:47.000Z"
+			"publishedAt": "2026-07-17T19:29:19.000Z"
+		},
+		{
+			"headline": "Rare child cancer cases in Orange County should be investigated, feds say",
+			"url": "https://www.latimes.com/california/story/2026-07-17/rare-child-cancer-oc-fed-probe",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T18:42:36.000Z"
+		},
+		{
+			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
+			"url": "https://www.latimes.com/science/story/2026-07-17/rudolph-marcus-dead-102-caltech-chemist",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-17T18:29:30.000Z"
 		},
 		{
 			"headline": "California-based Taylor Farms pulls iceberg lettuce from U.S. amid cyclosporiasis outbreak",
@@ -116,40 +146,10 @@
 			"publishedAt": "2026-07-17T16:50:32.000Z"
 		},
 		{
-			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
-			"url": "https://www.latimes.com/science/story/2026-07-17/rudolph-marcus-dead-102-caltech-chemist",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T18:29:30.000Z"
-		},
-		{
 			"headline": "West Hollywood rupture was L.A.'s worst in years: 17 million gallons spilled, Sunset Boulevard closed for days",
 			"url": "https://www.latimes.com/california/story/2026-07-17/sunset-blvd-closed-water-main-repairs-weho",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-17T14:34:51.000Z"
-		},
-		{
-			"headline": "Retired teacher who went missing in Mojave Desert off-roading area is found dead",
-			"url": "https://www.latimes.com/california/story/2026-07-17/woman-who-went-missing-in-mojave-desert-offroading-area-is-found-dead",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T19:29:19.000Z"
-		},
-		{
-			"headline": "New rule caps foreign student visas at four years, jolting California campuses",
-			"url": "https://www.latimes.com/california/story/2026-07-17/new-rule-caps-f1-foreign-student-visas-california-campuses",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T10:00:00.000Z"
-		},
-		{
-			"headline": "The dark side of making daylight saving time permanent in California: How late would our sunrises get?",
-			"url": "https://www.latimes.com/california/story/2026-07-22/daylight-saving-time-bill-how-late-california-sunrise",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T10:00:00.000Z"
-		},
-		{
-			"headline": "Some birds defy overall plunge in bird numbers",
-			"url": "https://www.latimes.com/environment/story/2026-07-22/some-birds-are-defying-overall-plunge-in-bird-numbers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T13:00:00.000Z"
 		}
 	]
 }
