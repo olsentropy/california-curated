@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-07-23T13:16:04.039Z",
+	"lastUpdated": "2026-07-23T17:07:03.533Z",
 	"items": [
+		{
+			"headline": "Repairs to Sunset Boulevard water line hit a snag with another leak in West Hollywood",
+			"url": "https://www.latimes.com/california/story/2026-07-23/repairs-to-west-hollywood-water-line-hit-snag-with-another-leak",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T15:55:02.000Z"
+		},
+		{
+			"headline": "Southern California's broiling heat wave: How long will it last?",
+			"url": "https://www.latimes.com/california/story/2026-07-23/la-me-heat-wave",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T15:44:29.000Z"
+		},
 		{
 			"headline": "New drug could help people stricken with Valley Fever",
 			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
@@ -38,15 +50,15 @@
 			"publishedAt": "2026-07-22T13:00:00.000Z"
 		},
 		{
-			"headline": "Redesigning Farmland Through Community Collaboration in California",
-			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-07-22T12:00:00.000Z"
-		},
-		{
 			"headline": "Heat wave smothering Southern California nears its peak",
 			"url": "https://www.latimes.com/california/story/2026-07-22/heat-wave-smothering-southern-california-nears-its-peak",
 			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T12:00:00.000Z"
+		},
+		{
+			"headline": "Redesigning Farmland Through Community Collaboration in California",
+			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
+			"source": "Eos",
 			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
@@ -80,22 +92,10 @@
 			"publishedAt": "2026-07-20T23:43:58.000Z"
 		},
 		{
-			"headline": "UC San Diego illegally uses race in admissions, Trump's Justice Department alleges",
-			"url": "https://www.latimes.com/california/story/2026-07-20/doj-uc-san-diego-medical-school-race-admissions",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T23:21:06.000Z"
-		},
-		{
 			"headline": "Found weak and disheveled, rescued eagle — probably Big Bear's Jackie — receiving care in Ojai",
 			"url": "https://www.latimes.com/environment/story/2026-07-20/bald-eagle-rescued-in-big-bear-likely-jackie-is-in-stable-condition",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-20T23:13:10.000Z"
-		},
-		{
-			"headline": "UC Berkeley researchers create new metamaterials inspired by deep-sea sponges",
-			"url": "https://engineering.berkeley.edu/news/2026/07/new-metamaterials-take-inspiration-from-deep-sea-sponges/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-20T17:59:32.000Z"
 		},
 		{
 			"headline": "Central Valley farmers reluctantly turn to solar as water supplies dry up",
@@ -122,16 +122,16 @@
 			"publishedAt": "2026-07-19T21:14:23.000Z"
 		},
 		{
-			"headline": "Watch Menlo Park firefighters rescue missing dog from San Francisco Bay",
-			"url": "https://www.latimes.com/california/story/2026-07-19/watch-firefighters-rescue-missing-dog-from-san-francisco-bay",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-19T17:34:29.000Z"
+			"headline": "UC Berkeley researchers create new metamaterials inspired by deep-sea sponges",
+			"url": "https://engineering.berkeley.edu/news/2026/07/new-metamaterials-take-inspiration-from-deep-sea-sponges/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-20T17:59:32.000Z"
 		},
 		{
-			"headline": "Protests and lawsuits: Activists climb pine amid showdown over Pasadena school district's tree removals",
-			"url": "https://www.latimes.com/california/story/2026-07-19/activists-climb-100-foot-pine-in-protest-over-pasadena-tree-cuts",
+			"headline": "West Hollywood faces long recovery from massive water main break: 'It was like whitewater rapids'",
+			"url": "https://www.latimes.com/california/story/2026-07-18/west-hollywood-faces-long-recovery-from-massive-water-main-break-it-was-like-whitewater-rapids",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-19T10:00:00.000Z"
+			"publishedAt": "2026-07-18T10:00:00.000Z"
 		},
 		{
 			"headline": "Wreckage found after deadly boat capsize near Alcatraz, search continues for missing bodies",
@@ -146,10 +146,10 @@
 			"publishedAt": "2026-07-18T02:22:53.000Z"
 		},
 		{
-			"headline": "West Hollywood faces long recovery from massive water main break: 'It was like whitewater rapids'",
-			"url": "https://www.latimes.com/california/story/2026-07-18/west-hollywood-faces-long-recovery-from-massive-water-main-break-it-was-like-whitewater-rapids",
+			"headline": "California Forest Service workers taken hostage, held at gunpoint in remote trailer, feds say",
+			"url": "https://www.latimes.com/california/story/2026-07-17/forest-service-workers-taken-hostage-held-at-gunpoint-in-norcal-feds-say",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-18T10:00:00.000Z"
+			"publishedAt": "2026-07-18T00:45:41.000Z"
 		}
 	]
 }
