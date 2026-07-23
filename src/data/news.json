@@ -1,18 +1,6 @@
 {
-	"lastUpdated": "2026-07-23T01:20:15.769Z",
+	"lastUpdated": "2026-07-23T06:22:01.273Z",
 	"items": [
-		{
-			"headline": "What It Takes to Become a Beaver Coexistence Professional",
-			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-23T00:37:43.000Z"
-		},
-		{
-			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
-			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-22T21:03:48.000Z"
-		},
 		{
 			"headline": "Two Caltech Projects Selected for DOE Funding as Part of Genesis Mission",
 			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
@@ -26,10 +14,10 @@
 			"publishedAt": "2026-07-22T14:00:57.000Z"
 		},
 		{
-			"headline": "Some birds defy overall plunge in bird numbers",
-			"url": "https://www.latimes.com/environment/story/2026-07-22/some-birds-are-defying-overall-plunge-in-bird-numbers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T13:00:00.000Z"
+			"headline": "Redesigning Farmland Through Community Collaboration in California",
+			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
+			"source": "Eos",
+			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
 			"headline": "Heat wave smothering Southern California nears its peak",
@@ -38,16 +26,28 @@
 			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
-			"headline": "Redesigning Farmland Through Community Collaboration in California",
-			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-07-22T12:00:00.000Z"
-		},
-		{
 			"headline": "As North America grapples with destructive wildfires, 'super' El Niño may offer hope",
 			"url": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-22T10:00:00.000Z"
+		},
+		{
+			"headline": "Some birds defy overall plunge in bird numbers",
+			"url": "https://www.latimes.com/environment/story/2026-07-22/some-birds-are-defying-overall-plunge-in-bird-numbers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T13:00:00.000Z"
+		},
+		{
+			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
+			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-22T21:03:48.000Z"
+		},
+		{
+			"headline": "What It Takes to Become a Beaver Coexistence Professional",
+			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-23T00:37:43.000Z"
 		},
 		{
 			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
@@ -62,46 +62,16 @@
 			"publishedAt": "2026-07-21T19:30:59.000Z"
 		},
 		{
-			"headline": "Modeling the Changing Patterns of Policymaking",
-			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
-			"source": "Caltech",
-			"publishedAt": "2026-07-21T19:11:14.631Z"
+			"headline": "Rescued eagle Jackie battles anemia, inflammation. 'It's too early to predict the outcome'",
+			"url": "https://www.latimes.com/environment/story/2026-07-21/rescued-eagle-jackie-in-critical-condition-as-she-battles-anemia-inflammation",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T00:43:16.000Z"
 		},
 		{
 			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
 			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-21T16:20:53.000Z"
-		},
-		{
-			"headline": "This SoCal heat wave could be hottest of the year: 5 things to know",
-			"url": "https://www.latimes.com/california/story/2026-07-21/this-socal-heat-wave-could-be-hottest-of-year-5-things-to-know",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-21T10:00:00.000Z"
-		},
-		{
-			"headline": "E-bike injuries are increasing rapidly in California. Many hurt are 14 or younger, study finds",
-			"url": "https://www.latimes.com/california/story/2026-07-20/e-bike-injuries-are-increasing-rapidly-in-california-many-of-those-hurt-are-14-or-younger-study-finds",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-21T02:02:42.000Z"
-		},
-		{
-			"headline": "California fights Trump administration, again, over Santa Barbara oil pipeline: The coast is 'not for sale'",
-			"url": "https://www.latimes.com/california/story/2026-07-20/california-again-fights-trump-administration-over-santa-barbara-oil-pipeline",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T23:43:58.000Z"
-		},
-		{
-			"headline": "UC San Diego illegally uses race in admissions, Trump's Justice Department alleges",
-			"url": "https://www.latimes.com/california/story/2026-07-20/doj-uc-san-diego-medical-school-race-admissions",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T23:21:06.000Z"
-		},
-		{
-			"headline": "Found weak and disheveled, rescued eagle — probably Big Bear's Jackie — receiving care in Ojai",
-			"url": "https://www.latimes.com/environment/story/2026-07-20/bald-eagle-rescued-in-big-bear-likely-jackie-is-in-stable-condition",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T23:13:10.000Z"
 		},
 		{
 			"headline": "Central Valley farmers reluctantly turn to solar as water supplies dry up",
@@ -116,6 +86,18 @@
 			"publishedAt": "2026-07-20T10:00:00.000Z"
 		},
 		{
+			"headline": "California fights Trump administration, again, over Santa Barbara oil pipeline: The coast is 'not for sale'",
+			"url": "https://www.latimes.com/california/story/2026-07-20/california-again-fights-trump-administration-over-santa-barbara-oil-pipeline",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-20T23:43:58.000Z"
+		},
+		{
+			"headline": "Found weak and disheveled, rescued eagle — probably Big Bear's Jackie — receiving care in Ojai",
+			"url": "https://www.latimes.com/environment/story/2026-07-20/bald-eagle-rescued-in-big-bear-likely-jackie-is-in-stable-condition",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-20T23:13:10.000Z"
+		},
+		{
 			"headline": "UC Berkeley researchers create new metamaterials inspired by deep-sea sponges",
 			"url": "https://engineering.berkeley.edu/news/2026/07/new-metamaterials-take-inspiration-from-deep-sea-sponges/",
 			"source": "UC Berkeley News",
@@ -128,28 +110,46 @@
 			"publishedAt": "2026-07-20T05:25:00.000Z"
 		},
 		{
-			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
-			"url": "https://www.latimes.com/science/story/2026-07-17/rudolph-marcus-dead-102-caltech-chemist",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T18:29:30.000Z"
-		},
-		{
 			"headline": "California-based Taylor Farms pulls iceberg lettuce from U.S. amid cyclosporiasis outbreak",
 			"url": "https://www.latimes.com/california/story/2026-07-17/california-based-taylor-farms-possible-source-of-cyclosporiasis-outbreak",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-17T18:21:10.000Z"
 		},
 		{
-			"headline": "Environmental groups press judges to pause Imperial Valley lithium venture",
-			"url": "https://www.latimes.com/environment/story/2026-07-17/environmental-groups-press-to-halt-imperial-valley-lithium",
+			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
+			"url": "https://www.latimes.com/science/story/2026-07-17/rudolph-marcus-dead-102-caltech-chemist",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T16:50:32.000Z"
+			"publishedAt": "2026-07-17T18:29:30.000Z"
+		},
+		{
+			"headline": "Caltech Mourns the Passing of Nobel Laureate Rudy Marcus (1923–2026)",
+			"url": "https://www.caltech.edu/about/news/caltech-mourns-the-passing-of-nobel-laureate-rudy-marcus-19232026",
+			"source": "Caltech",
+			"publishedAt": "2026-07-17T20:58:00.000Z"
 		},
 		{
 			"headline": "Retired teacher who went missing in Mojave Desert off-roading area is found dead",
 			"url": "https://www.latimes.com/california/story/2026-07-17/woman-who-went-missing-in-mojave-desert-offroading-area-is-found-dead",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-17T19:29:19.000Z"
+		},
+		{
+			"headline": "Modeling the Changing Patterns of Policymaking",
+			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
+			"source": "Caltech",
+			"publishedAt": "2026-07-21T19:11:14.631Z"
+		},
+		{
+			"headline": "This SoCal heat wave could be hottest of the year: 5 things to know",
+			"url": "https://www.latimes.com/california/story/2026-07-21/this-socal-heat-wave-could-be-hottest-of-year-5-things-to-know",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-21T10:00:00.000Z"
+		},
+		{
+			"headline": "Toddler bitten by a rattlesnake hidden underneath Amazon package",
+			"url": "https://www.latimes.com/california/story/2026-07-21/toddler-bitten-by-rattlesnake-hidden-underneath-amazon-package",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-21T22:09:15.000Z"
 		}
 	]
 }
