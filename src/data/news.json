@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-07-23T10:08:05.032Z",
+	"lastUpdated": "2026-07-23T13:16:04.039Z",
 	"items": [
+		{
+			"headline": "New drug could help people stricken with Valley Fever",
+			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T10:00:00.000Z"
+		},
+		{
+			"headline": "What It Takes to Become a Beaver Coexistence Professional",
+			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-23T00:37:43.000Z"
+		},
+		{
+			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
+			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-22T21:03:48.000Z"
+		},
 		{
 			"headline": "Two Caltech Projects Selected for DOE Funding as Part of Genesis Mission",
 			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
@@ -12,6 +30,12 @@
 			"url": "https://www.mbari.org/news/listening-with-light-mbari-researchers-develop-innovative-new-technology-for-studying-the-seafloor/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-22T14:00:57.000Z"
+		},
+		{
+			"headline": "Some birds defy overall plunge in bird numbers",
+			"url": "https://www.latimes.com/environment/story/2026-07-22/some-birds-are-defying-overall-plunge-in-bird-numbers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T13:00:00.000Z"
 		},
 		{
 			"headline": "Redesigning Farmland Through Community Collaboration in California",
@@ -26,24 +50,6 @@
 			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
-			"headline": "As North America grapples with destructive wildfires, 'super' El Niño may offer hope",
-			"url": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T10:00:00.000Z"
-		},
-		{
-			"headline": "Some birds defy overall plunge in bird numbers",
-			"url": "https://www.latimes.com/environment/story/2026-07-22/some-birds-are-defying-overall-plunge-in-bird-numbers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T13:00:00.000Z"
-		},
-		{
-			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
-			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-21T16:20:53.000Z"
-		},
-		{
 			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
 			"url": "https://www.latimes.com/environment/story/2026-07-21/colorado-river-reservoirs-record-lows",
 			"source": "Los Angeles Times",
@@ -56,40 +62,16 @@
 			"publishedAt": "2026-07-21T19:30:59.000Z"
 		},
 		{
-			"headline": "Modeling the Changing Patterns of Policymaking",
-			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
-			"source": "Caltech",
-			"publishedAt": "2026-07-21T19:11:14.631Z"
+			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
+			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-21T16:20:53.000Z"
 		},
 		{
 			"headline": "This SoCal heat wave could be hottest of the year: 5 things to know",
 			"url": "https://www.latimes.com/california/story/2026-07-21/this-socal-heat-wave-could-be-hottest-of-year-5-things-to-know",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-21T10:00:00.000Z"
-		},
-		{
-			"headline": "Central Valley farmers reluctantly turn to solar as water supplies dry up",
-			"url": "https://www.latimes.com/environment/story/2026-07-20/as-water-restrictions-hit-farmers-solar-is-making-sense",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T10:00:00.000Z"
-		},
-		{
-			"headline": "New heat wave to hit SoCal: Muggy nights, high temps, dangerous surf from Tropical Storm Elida",
-			"url": "https://www.latimes.com/california/story/2026-07-20/heat-wave-southern-california-tropical-storm-elida-high-surf",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T10:00:00.000Z"
-		},
-		{
-			"headline": "Rescued Big Bear bald eagle Jackie is 'stable,' wildlife nonprofit says",
-			"url": "https://www.latimes.com/california/story/2026-07-19/jackie-shadow-big-bear-eagles-adult-rescued",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T05:25:00.000Z"
-		},
-		{
-			"headline": "UC Berkeley researchers create new metamaterials inspired by deep-sea sponges",
-			"url": "https://engineering.berkeley.edu/news/2026/07/new-metamaterials-take-inspiration-from-deep-sea-sponges/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-20T17:59:32.000Z"
 		},
 		{
 			"headline": "California fights Trump administration, again, over Santa Barbara oil pipeline: The coast is 'not for sale'",
@@ -110,46 +92,64 @@
 			"publishedAt": "2026-07-20T23:13:10.000Z"
 		},
 		{
-			"headline": "Rescued eagle Jackie battles anemia, inflammation. 'It's too early to predict the outcome'",
-			"url": "https://www.latimes.com/environment/story/2026-07-21/rescued-eagle-jackie-in-critical-condition-as-she-battles-anemia-inflammation",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T00:43:16.000Z"
-		},
-		{
-			"headline": "Toddler bitten by a rattlesnake hidden underneath Amazon package",
-			"url": "https://www.latimes.com/california/story/2026-07-21/toddler-bitten-by-rattlesnake-hidden-underneath-amazon-package",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-21T22:09:15.000Z"
-		},
-		{
-			"headline": "Rudolph Marcus, Caltech chemist who won Nobel Prize, dies at 102",
-			"url": "https://www.latimes.com/science/story/2026-07-17/rudolph-marcus-dead-102-caltech-chemist",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T18:29:30.000Z"
-		},
-		{
-			"headline": "California-based Taylor Farms pulls iceberg lettuce from U.S. amid cyclosporiasis outbreak",
-			"url": "https://www.latimes.com/california/story/2026-07-17/california-based-taylor-farms-possible-source-of-cyclosporiasis-outbreak",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T18:21:10.000Z"
-		},
-		{
-			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
-			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
+			"headline": "UC Berkeley researchers create new metamaterials inspired by deep-sea sponges",
+			"url": "https://engineering.berkeley.edu/news/2026/07/new-metamaterials-take-inspiration-from-deep-sea-sponges/",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-22T21:03:48.000Z"
+			"publishedAt": "2026-07-20T17:59:32.000Z"
 		},
 		{
-			"headline": "What It Takes to Become a Beaver Coexistence Professional",
-			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-23T00:37:43.000Z"
-		},
-		{
-			"headline": "Retired teacher who went missing in Mojave Desert off-roading area is found dead",
-			"url": "https://www.latimes.com/california/story/2026-07-17/woman-who-went-missing-in-mojave-desert-offroading-area-is-found-dead",
+			"headline": "Central Valley farmers reluctantly turn to solar as water supplies dry up",
+			"url": "https://www.latimes.com/environment/story/2026-07-20/as-water-restrictions-hit-farmers-solar-is-making-sense",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-17T19:29:19.000Z"
+			"publishedAt": "2026-07-20T10:00:00.000Z"
+		},
+		{
+			"headline": "New heat wave to hit SoCal: Muggy nights, high temps, dangerous surf from Tropical Storm Elida",
+			"url": "https://www.latimes.com/california/story/2026-07-20/heat-wave-southern-california-tropical-storm-elida-high-surf",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-20T10:00:00.000Z"
+		},
+		{
+			"headline": "Rescued Big Bear bald eagle Jackie is 'stable,' wildlife nonprofit says",
+			"url": "https://www.latimes.com/california/story/2026-07-19/jackie-shadow-big-bear-eagles-adult-rescued",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-20T05:25:00.000Z"
+		},
+		{
+			"headline": "More water pipes burst in Venice, Hollywood as Sunset Strip repairs enter Day 4",
+			"url": "https://www.latimes.com/california/story/2026-07-19/venice-hollywood-water-pipe-breaks-deepen-la-flooding-woes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-19T21:14:23.000Z"
+		},
+		{
+			"headline": "Watch Menlo Park firefighters rescue missing dog from San Francisco Bay",
+			"url": "https://www.latimes.com/california/story/2026-07-19/watch-firefighters-rescue-missing-dog-from-san-francisco-bay",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-19T17:34:29.000Z"
+		},
+		{
+			"headline": "Protests and lawsuits: Activists climb pine amid showdown over Pasadena school district's tree removals",
+			"url": "https://www.latimes.com/california/story/2026-07-19/activists-climb-100-foot-pine-in-protest-over-pasadena-tree-cuts",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-19T10:00:00.000Z"
+		},
+		{
+			"headline": "Wreckage found after deadly boat capsize near Alcatraz, search continues for missing bodies",
+			"url": "https://www.latimes.com/california/story/2026-07-17/wreckage-of-boat-that-capsized-near-alcatraz-found-in-san-francisco-bay",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-18T02:43:35.000Z"
+		},
+		{
+			"headline": "Orange County demands $4 million from company at center of Garden Grove chemical crisis",
+			"url": "https://www.latimes.com/california/story/2026-07-17/orange-county-demands-4-million-from-gkn-aerospace-after-crisis",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-18T02:22:53.000Z"
+		},
+		{
+			"headline": "West Hollywood faces long recovery from massive water main break: 'It was like whitewater rapids'",
+			"url": "https://www.latimes.com/california/story/2026-07-18/west-hollywood-faces-long-recovery-from-massive-water-main-break-it-was-like-whitewater-rapids",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-18T10:00:00.000Z"
 		}
 	]
 }
