@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-07-24T10:02:35.344Z",
+	"lastUpdated": "2026-07-24T13:09:39.632Z",
 	"items": [
+		{
+			"headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
+			"url": "https://www.latimes.com/california/story/2026-07-24/covid-19-seasonal-summer-uptick-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T10:00:00.000Z"
+		},
+		{
+			"headline": "Heartbreaking twist in mystery of hiker found dead in Big Sur with odd wounds",
+			"url": "https://www.latimes.com/california/story/2026-07-23/cause-of-death-revealed-for-big-sur-hiker-found-dead-with-odd-wounds",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T02:53:05.000Z"
+		},
+		{
+			"headline": "Bat that dropped onto table at SoCal restaurant had rabies, officials say",
+			"url": "https://www.latimes.com/california/story/2026-07-23/bat-dropped-onto-table-at-socal-restaurant-it-had-rabies-officials-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T01:12:54.000Z"
+		},
 		{
 			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
 			"url": "https://www.latimes.com/environment/story/2026-07-23/still-in-critical-condition-big-bear-eagle-jackie-receives-life-saving-blood-transfusion",
@@ -12,6 +30,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-23T21:57:15.000Z"
+		},
+		{
+			"headline": "Another cyclosporiasis outbreak investigated as cases of diarrhea-causing illness continue to mount",
+			"url": "https://www.latimes.com/california/story/2026-07-23/new-cyclosporiasis-outbreak",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T19:10:33.000Z"
 		},
 		{
 			"headline": "New drug could help people stricken with valley fever",
@@ -30,6 +54,24 @@
 			"url": "https://www.latimes.com/california/story/2026-07-23/la-me-heat-wave",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-23T15:44:29.000Z"
+		},
+		{
+			"headline": "What It Takes to Become a Beaver Coexistence Professional",
+			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-23T00:37:43.000Z"
+		},
+		{
+			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
+			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-22T21:03:48.000Z"
+		},
+		{
+			"headline": "Immigration sweeps in L.A. cost businesses millions in revenue, UCLA study finds",
+			"url": "https://www.latimes.com/california/story/2026-07-22/immigration-sweeps-la-millions-ucla",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T20:49:09.000Z"
 		},
 		{
 			"headline": "Caltech Joins the Genesis Mission",
@@ -74,18 +116,6 @@
 			"publishedAt": "2026-07-22T10:00:00.000Z"
 		},
 		{
-			"headline": "What It Takes to Become a Beaver Coexistence Professional",
-			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-23T00:37:43.000Z"
-		},
-		{
-			"headline": "Modeling the Changing Patterns of Policymaking",
-			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
-			"source": "Caltech",
-			"publishedAt": "2026-07-21T19:11:14.631Z"
-		},
-		{
 			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
 			"url": "https://www.latimes.com/environment/story/2026-07-21/colorado-river-reservoirs-record-lows",
 			"source": "Los Angeles Times",
@@ -96,6 +126,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-21/super-pollutants-california-sues-trump-administration-for-ignoring-climate-changing-fridge-chemicals",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-21T19:30:59.000Z"
+		},
+		{
+			"headline": "Modeling the Changing Patterns of Policymaking",
+			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
+			"source": "Caltech",
+			"publishedAt": "2026-07-21T19:11:14.631Z"
 		},
 		{
 			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
@@ -110,46 +146,10 @@
 			"publishedAt": "2026-07-21T10:00:00.000Z"
 		},
 		{
-			"headline": "California fights Trump administration, again, over Santa Barbara oil pipeline: The coast is 'not for sale'",
-			"url": "https://www.latimes.com/california/story/2026-07-20/california-again-fights-trump-administration-over-santa-barbara-oil-pipeline",
+			"headline": "E-bike injuries are increasing rapidly in California. Many hurt are 14 or younger, study finds",
+			"url": "https://www.latimes.com/california/story/2026-07-20/e-bike-injuries-are-increasing-rapidly-in-california-many-of-those-hurt-are-14-or-younger-study-finds",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T23:43:58.000Z"
-		},
-		{
-			"headline": "UC San Diego illegally uses race in admissions, Trump's Justice Department alleges",
-			"url": "https://www.latimes.com/california/story/2026-07-20/doj-uc-san-diego-medical-school-race-admissions",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T23:21:06.000Z"
-		},
-		{
-			"headline": "Found weak and disheveled, rescued eagle — probably Big Bear's Jackie — receiving care in Ojai",
-			"url": "https://www.latimes.com/environment/story/2026-07-20/bald-eagle-rescued-in-big-bear-likely-jackie-is-in-stable-condition",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T23:13:10.000Z"
-		},
-		{
-			"headline": "Central Valley farmers reluctantly turn to solar as water supplies dry up",
-			"url": "https://www.latimes.com/environment/story/2026-07-20/as-water-restrictions-hit-farmers-solar-is-making-sense",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T10:00:00.000Z"
-		},
-		{
-			"headline": "New heat wave to hit SoCal: Muggy nights, high temps, dangerous surf from Tropical Storm Elida",
-			"url": "https://www.latimes.com/california/story/2026-07-20/heat-wave-southern-california-tropical-storm-elida-high-surf",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T10:00:00.000Z"
-		},
-		{
-			"headline": "UC Berkeley researchers create new metamaterials inspired by deep-sea sponges",
-			"url": "https://engineering.berkeley.edu/news/2026/07/new-metamaterials-take-inspiration-from-deep-sea-sponges/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-20T17:59:32.000Z"
-		},
-		{
-			"headline": "Rescued Big Bear bald eagle Jackie is 'stable,' wildlife nonprofit says",
-			"url": "https://www.latimes.com/california/story/2026-07-19/jackie-shadow-big-bear-eagles-adult-rescued",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T05:25:00.000Z"
+			"publishedAt": "2026-07-21T02:02:42.000Z"
 		}
 	]
 }
