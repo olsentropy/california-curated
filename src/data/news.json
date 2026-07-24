@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-07-23T20:47:40.624Z",
+	"lastUpdated": "2026-07-24T01:16:28.174Z",
 	"items": [
+		{
+			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
+			"url": "https://www.latimes.com/environment/story/2026-07-23/still-in-critical-condition-big-bear-eagle-jackie-receives-life-saving-blood-transfusion",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T00:44:59.000Z"
+		},
+		{
+			"headline": "California dodges a bullet on Colorado River cuts",
+			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T21:57:15.000Z"
+		},
 		{
 			"headline": "New drug could help people stricken with valley fever",
 			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
@@ -14,28 +26,34 @@
 			"publishedAt": "2026-07-23T10:00:00.000Z"
 		},
 		{
+			"headline": "Another cyclosporiasis outbreak investigated as cases of diarrhea-causing illness continue to mount",
+			"url": "https://www.latimes.com/california/story/2026-07-23/new-cyclosporiasis-outbreak",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T19:10:33.000Z"
+		},
+		{
 			"headline": "Southern California's broiling heat wave: How long will it last?",
 			"url": "https://www.latimes.com/california/story/2026-07-23/la-me-heat-wave",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-23T15:44:29.000Z"
 		},
 		{
-			"headline": "Two Caltech Projects Selected for DOE Funding as Part of Genesis Mission",
-			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
-			"source": "Caltech",
-			"publishedAt": "2026-07-22T14:44:38.121Z"
+			"headline": "What It Takes to Become a Beaver Coexistence Professional",
+			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-23T00:37:43.000Z"
 		},
 		{
-			"headline": "Redesigning Farmland Through Community Collaboration in California",
-			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-07-22T12:00:00.000Z"
+			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
+			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-22T21:03:48.000Z"
 		},
 		{
-			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
-			"url": "https://www.mbari.org/news/listening-with-light-mbari-researchers-develop-innovative-new-technology-for-studying-the-seafloor/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-22T14:00:57.000Z"
+			"headline": "Immigration sweeps in L.A. cost businesses millions in revenue, UCLA study finds",
+			"url": "https://www.latimes.com/california/story/2026-07-22/immigration-sweeps-la-millions-ucla",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T20:49:09.000Z"
 		},
 		{
 			"headline": "Some birds defy overall plunge in bird numbers",
@@ -44,9 +62,21 @@
 			"publishedAt": "2026-07-22T13:00:00.000Z"
 		},
 		{
+			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
+			"url": "https://www.mbari.org/news/listening-with-light-mbari-researchers-develop-innovative-new-technology-for-studying-the-seafloor/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-22T14:00:57.000Z"
+		},
+		{
 			"headline": "Heat wave smothering Southern California nears its peak",
 			"url": "https://www.latimes.com/california/story/2026-07-22/heat-wave-smothering-southern-california-nears-its-peak",
 			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T12:00:00.000Z"
+		},
+		{
+			"headline": "Redesigning Farmland Through Community Collaboration in California",
+			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
+			"source": "Eos",
 			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
@@ -56,10 +86,22 @@
 			"publishedAt": "2026-07-22T10:00:00.000Z"
 		},
 		{
-			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
-			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-21T16:20:53.000Z"
+			"headline": "The dark side of making daylight saving time permanent in California: How late would our sunrises get?",
+			"url": "https://www.latimes.com/california/story/2026-07-22/daylight-saving-time-bill-how-late-california-sunrise",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T10:00:00.000Z"
+		},
+		{
+			"headline": "Caltech Joins the Genesis Mission",
+			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
+			"source": "Caltech",
+			"publishedAt": "2026-07-22T14:44:00.000Z"
+		},
+		{
+			"headline": "Modeling the Changing Patterns of Policymaking",
+			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
+			"source": "Caltech",
+			"publishedAt": "2026-07-21T19:11:14.631Z"
 		},
 		{
 			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
@@ -74,10 +116,10 @@
 			"publishedAt": "2026-07-21T19:30:59.000Z"
 		},
 		{
-			"headline": "Modeling the Changing Patterns of Policymaking",
-			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
-			"source": "Caltech",
-			"publishedAt": "2026-07-21T19:11:14.631Z"
+			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
+			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-21T16:20:53.000Z"
 		},
 		{
 			"headline": "This SoCal heat wave could be hottest of the year: 5 things to know",
@@ -104,52 +146,10 @@
 			"publishedAt": "2026-07-20T23:21:06.000Z"
 		},
 		{
-			"headline": "Found weak and disheveled, rescued eagle — probably Big Bear's Jackie — receiving care in Ojai",
-			"url": "https://www.latimes.com/environment/story/2026-07-20/bald-eagle-rescued-in-big-bear-likely-jackie-is-in-stable-condition",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T23:13:10.000Z"
-		},
-		{
 			"headline": "UC Berkeley researchers create new metamaterials inspired by deep-sea sponges",
 			"url": "https://engineering.berkeley.edu/news/2026/07/new-metamaterials-take-inspiration-from-deep-sea-sponges/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-20T17:59:32.000Z"
-		},
-		{
-			"headline": "Central Valley farmers reluctantly turn to solar as water supplies dry up",
-			"url": "https://www.latimes.com/environment/story/2026-07-20/as-water-restrictions-hit-farmers-solar-is-making-sense",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T10:00:00.000Z"
-		},
-		{
-			"headline": "New heat wave to hit SoCal: Muggy nights, high temps, dangerous surf from Tropical Storm Elida",
-			"url": "https://www.latimes.com/california/story/2026-07-20/heat-wave-southern-california-tropical-storm-elida-high-surf",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T10:00:00.000Z"
-		},
-		{
-			"headline": "Rescued Big Bear bald eagle Jackie is 'stable,' wildlife nonprofit says",
-			"url": "https://www.latimes.com/california/story/2026-07-19/jackie-shadow-big-bear-eagles-adult-rescued",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T05:25:00.000Z"
-		},
-		{
-			"headline": "More water pipes burst in Venice, Hollywood as Sunset Strip repairs enter Day 4",
-			"url": "https://www.latimes.com/california/story/2026-07-19/venice-hollywood-water-pipe-breaks-deepen-la-flooding-woes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-19T21:14:23.000Z"
-		},
-		{
-			"headline": "Watch Menlo Park firefighters rescue missing dog from San Francisco Bay",
-			"url": "https://www.latimes.com/california/story/2026-07-19/watch-firefighters-rescue-missing-dog-from-san-francisco-bay",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-19T17:34:29.000Z"
-		},
-		{
-			"headline": "Protests and lawsuits: Activists climb pine amid showdown over Pasadena school district's tree removals",
-			"url": "https://www.latimes.com/california/story/2026-07-19/activists-climb-100-foot-pine-in-protest-over-pasadena-tree-cuts",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-19T10:00:00.000Z"
 		}
 	]
 }
