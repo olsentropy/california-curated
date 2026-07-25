@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-25T01:17:18.984Z",
+	"lastUpdated": "2026-07-25T06:08:00.281Z",
 	"items": [
 		{
 			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5M to buy land near nest",
@@ -20,6 +20,12 @@
 			"publishedAt": "2026-07-24T14:33:37.000Z"
 		},
 		{
+			"headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
+			"url": "https://www.latimes.com/california/story/2026-07-24/covid-19-seasonal-summer-uptick-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T10:00:00.000Z"
+		},
+		{
 			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
 			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
 			"source": "Los Angeles Times",
@@ -32,22 +38,10 @@
 			"publishedAt": "2026-07-24T15:56:16.000Z"
 		},
 		{
-			"headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
-			"url": "https://www.latimes.com/california/story/2026-07-24/covid-19-seasonal-summer-uptick-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T10:00:00.000Z"
-		},
-		{
 			"headline": "Heartbreaking twist in mystery of hiker found dead in Big Sur with odd wounds",
 			"url": "https://www.latimes.com/california/story/2026-07-23/cause-of-death-revealed-for-big-sur-hiker-found-dead-with-odd-wounds",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-24T02:53:05.000Z"
-		},
-		{
-			"headline": "Bat that dropped onto table at SoCal restaurant had rabies, officials say",
-			"url": "https://www.latimes.com/california/story/2026-07-23/bat-dropped-onto-table-at-socal-restaurant-it-had-rabies-officials-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T01:12:54.000Z"
 		},
 		{
 			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
@@ -74,12 +68,6 @@
 			"publishedAt": "2026-07-23T10:00:00.000Z"
 		},
 		{
-			"headline": "What It Takes to Become a Beaver Coexistence Professional",
-			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-23T00:37:43.000Z"
-		},
-		{
 			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
 			"url": "https://www.mbari.org/news/listening-with-light-mbari-researchers-develop-innovative-new-technology-for-studying-the-seafloor/",
 			"source": "MBARI",
@@ -92,26 +80,20 @@
 			"publishedAt": "2026-07-22T13:00:00.000Z"
 		},
 		{
-			"headline": "Heat wave smothering Southern California nears its peak",
-			"url": "https://www.latimes.com/california/story/2026-07-22/heat-wave-smothering-southern-california-nears-its-peak",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T12:00:00.000Z"
-		},
-		{
 			"headline": "Redesigning Farmland Through Community Collaboration in California",
 			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
 			"source": "Eos",
 			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
-			"headline": "As North America grapples with destructive wildfires, 'super' El Niño may offer hope",
-			"url": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
+			"headline": "Heat wave smothering Southern California nears its peak",
+			"url": "https://www.latimes.com/california/story/2026-07-22/heat-wave-smothering-southern-california-nears-its-peak",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T10:00:00.000Z"
+			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
-			"headline": "The dark side of making daylight saving time permanent in California: How late would our sunrises get?",
-			"url": "https://www.latimes.com/california/story/2026-07-22/daylight-saving-time-bill-how-late-california-sunrise",
+			"headline": "As North America grapples with destructive wildfires, 'super' El Niño may offer hope",
+			"url": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-22T10:00:00.000Z"
 		},
@@ -150,6 +132,24 @@
 			"url": "https://www.latimes.com/california/story/2026-07-21/this-socal-heat-wave-could-be-hottest-of-year-5-things-to-know",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-21T10:00:00.000Z"
+		},
+		{
+			"headline": "E-bike injuries are increasing rapidly in California. Many hurt are 14 or younger, study finds",
+			"url": "https://www.latimes.com/california/story/2026-07-20/e-bike-injuries-are-increasing-rapidly-in-california-many-of-those-hurt-are-14-or-younger-study-finds",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-21T02:02:42.000Z"
+		},
+		{
+			"headline": "California fights Trump administration, again, over Santa Barbara oil pipeline: The coast is 'not for sale'",
+			"url": "https://www.latimes.com/california/story/2026-07-20/california-again-fights-trump-administration-over-santa-barbara-oil-pipeline",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-20T23:43:58.000Z"
+		},
+		{
+			"headline": "What It Takes to Become a Beaver Coexistence Professional",
+			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-23T00:37:43.000Z"
 		}
 	]
 }
