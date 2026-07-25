@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-07-24T20:53:07.920Z",
+	"lastUpdated": "2026-07-25T01:17:18.984Z",
 	"items": [
+		{
+			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5M to buy land near nest",
+			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T22:37:02.000Z"
+		},
 		{
 			"headline": "Low-Level Cloud Loss Amplifies Global Warming",
 			"url": "https://www.caltech.edu/about/news/low-level-cloud-loss-amplifies-global-warming",
@@ -12,6 +18,12 @@
 			"url": "https://news.mongabay.com/2026/07/california-solar-project-threatens-mojave-wildlife-corridor-scientists-say/",
 			"source": "Mongabay",
 			"publishedAt": "2026-07-24T14:33:37.000Z"
+		},
+		{
+			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
+			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T19:07:59.000Z"
 		},
 		{
 			"headline": "Southern California's heat wave is about to break. But not for long",
@@ -62,6 +74,18 @@
 			"publishedAt": "2026-07-23T10:00:00.000Z"
 		},
 		{
+			"headline": "What It Takes to Become a Beaver Coexistence Professional",
+			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-23T00:37:43.000Z"
+		},
+		{
+			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
+			"url": "https://www.mbari.org/news/listening-with-light-mbari-researchers-develop-innovative-new-technology-for-studying-the-seafloor/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-22T14:00:57.000Z"
+		},
+		{
 			"headline": "Some birds defy overall plunge in bird numbers",
 			"url": "https://www.latimes.com/environment/story/2026-07-22/some-birds-are-defying-overall-plunge-in-bird-numbers",
 			"source": "Los Angeles Times",
@@ -92,34 +116,16 @@
 			"publishedAt": "2026-07-22T10:00:00.000Z"
 		},
 		{
-			"headline": "What It Takes to Become a Beaver Coexistence Professional",
-			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-23T00:37:43.000Z"
-		},
-		{
-			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
-			"url": "https://www.mbari.org/news/listening-with-light-mbari-researchers-develop-innovative-new-technology-for-studying-the-seafloor/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-22T14:00:57.000Z"
-		},
-		{
-			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
-			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-21T16:20:53.000Z"
-		},
-		{
 			"headline": "Caltech Joins the Genesis Mission",
 			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
 			"source": "Caltech",
 			"publishedAt": "2026-07-22T14:44:00.000Z"
 		},
 		{
-			"headline": "Modeling the Changing Patterns of Policymaking",
-			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
-			"source": "Caltech",
-			"publishedAt": "2026-07-21T19:11:14.631Z"
+			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
+			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-21T16:20:53.000Z"
 		},
 		{
 			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
@@ -134,22 +140,16 @@
 			"publishedAt": "2026-07-21T19:30:59.000Z"
 		},
 		{
-			"headline": "E-bike injuries are increasing rapidly in California. Many hurt are 14 or younger, study finds",
-			"url": "https://www.latimes.com/california/story/2026-07-20/e-bike-injuries-are-increasing-rapidly-in-california-many-of-those-hurt-are-14-or-younger-study-finds",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-21T02:02:42.000Z"
+			"headline": "Modeling the Changing Patterns of Policymaking",
+			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
+			"source": "Caltech",
+			"publishedAt": "2026-07-21T19:11:14.631Z"
 		},
 		{
-			"headline": "California fights Trump administration, again, over Santa Barbara oil pipeline: The coast is 'not for sale'",
-			"url": "https://www.latimes.com/california/story/2026-07-20/california-again-fights-trump-administration-over-santa-barbara-oil-pipeline",
+			"headline": "This SoCal heat wave could be hottest of the year: 5 things to know",
+			"url": "https://www.latimes.com/california/story/2026-07-21/this-socal-heat-wave-could-be-hottest-of-year-5-things-to-know",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T23:43:58.000Z"
-		},
-		{
-			"headline": "Found weak and disheveled, rescued eagle — probably Big Bear's Jackie — receiving care in Ojai",
-			"url": "https://www.latimes.com/environment/story/2026-07-20/bald-eagle-rescued-in-big-bear-likely-jackie-is-in-stable-condition",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-20T23:13:10.000Z"
+			"publishedAt": "2026-07-21T10:00:00.000Z"
 		}
 	]
 }
