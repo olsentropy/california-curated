@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-25T12:52:38.231Z",
+	"lastUpdated": "2026-07-25T16:40:32.446Z",
 	"items": [
 		{
 			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
@@ -74,34 +74,22 @@
 			"publishedAt": "2026-07-23T21:57:15.000Z"
 		},
 		{
-			"headline": "Measles surges dramatically in California among children and young adults",
-			"url": "https://www.latimes.com/california/story/2026-07-23/measles-surge-dramatically-in-california-among-children-young-adults",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T10:00:00.000Z"
-		},
-		{
-			"headline": "New drug could help people stricken with valley fever",
-			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T10:00:00.000Z"
-		},
-		{
 			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
 			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-22T21:03:48.000Z"
 		},
 		{
-			"headline": "Caltech Joins the Genesis Mission",
-			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
-			"source": "Caltech",
-			"publishedAt": "2026-07-22T14:44:00.000Z"
-		},
-		{
 			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
 			"url": "https://www.mbari.org/news/listening-with-light-mbari-researchers-develop-innovative-new-technology-for-studying-the-seafloor/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-22T14:00:57.000Z"
+		},
+		{
+			"headline": "Caltech Joins the Genesis Mission",
+			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
+			"source": "Caltech",
+			"publishedAt": "2026-07-22T14:44:00.000Z"
 		},
 		{
 			"headline": "Some birds defy overall plunge in bird numbers",
@@ -116,16 +104,28 @@
 			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
+			"headline": "As North America grapples with destructive wildfires, 'super' El Niño may offer hope",
+			"url": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T10:00:00.000Z"
+		},
+		{
 			"headline": "Heat wave smothering Southern California nears its peak",
 			"url": "https://www.latimes.com/california/story/2026-07-22/heat-wave-smothering-southern-california-nears-its-peak",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
-			"headline": "As North America grapples with destructive wildfires, 'super' El Niño may offer hope",
-			"url": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
+			"headline": "Measles surges dramatically in California among children and young adults",
+			"url": "https://www.latimes.com/california/story/2026-07-23/measles-surge-dramatically-in-california-among-children-young-adults",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T10:00:00.000Z"
+			"publishedAt": "2026-07-23T10:00:00.000Z"
+		},
+		{
+			"headline": "New drug could help people stricken with valley fever",
+			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T10:00:00.000Z"
 		},
 		{
 			"headline": "What It Takes to Become a Beaver Coexistence Professional",
@@ -134,10 +134,10 @@
 			"publishedAt": "2026-07-23T00:37:43.000Z"
 		},
 		{
-			"headline": "Modeling the Changing Patterns of Policymaking",
-			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
-			"source": "Caltech",
-			"publishedAt": "2026-07-21T19:11:14.631Z"
+			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
+			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-21T16:20:53.000Z"
 		},
 		{
 			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
