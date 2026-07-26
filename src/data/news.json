@@ -1,23 +1,11 @@
 {
-	"lastUpdated": "2026-07-25T20:37:54.857Z",
+	"lastUpdated": "2026-07-26T01:20:04.761Z",
 	"items": [
 		{
-			"headline": "California solar project threatens Mojave wildlife corridor, scientists say",
-			"url": "https://news.mongabay.com/2026/07/california-solar-project-threatens-mojave-wildlife-corridor-scientists-say/",
-			"source": "Mongabay",
-			"publishedAt": "2026-07-24T14:33:37.000Z"
-		},
-		{
-			"headline": "Low-Level Cloud Loss Amplifies Global Warming",
-			"url": "https://www.caltech.edu/about/news/low-level-cloud-loss-amplifies-global-warming",
-			"source": "Caltech",
-			"publishedAt": "2026-07-24T18:03:00.000Z"
-		},
-		{
-			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
-			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
+			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
+			"url": "https://www.latimes.com/california/story/2026-07-25/man-convicted-of-causing-park-fire-one-of-californias-largest-blazes",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T22:37:02.000Z"
+			"publishedAt": "2026-07-25T11:00:00.000Z"
 		},
 		{
 			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
@@ -26,16 +14,28 @@
 			"publishedAt": "2026-07-25T10:00:00.000Z"
 		},
 		{
+			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
+			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T22:37:02.000Z"
+		},
+		{
+			"headline": "Low-Level Cloud Loss Amplifies Global Warming",
+			"url": "https://www.caltech.edu/about/news/low-level-cloud-loss-amplifies-global-warming",
+			"source": "Caltech",
+			"publishedAt": "2026-07-24T18:03:00.000Z"
+		},
+		{
+			"headline": "California solar project threatens Mojave wildlife corridor, scientists say",
+			"url": "https://news.mongabay.com/2026/07/california-solar-project-threatens-mojave-wildlife-corridor-scientists-say/",
+			"source": "Mongabay",
+			"publishedAt": "2026-07-24T14:33:37.000Z"
+		},
+		{
 			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
 			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-24T19:07:59.000Z"
-		},
-		{
-			"headline": "Southern California's heat wave is about to break. But not for long",
-			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T15:56:16.000Z"
 		},
 		{
 			"headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
@@ -44,10 +44,10 @@
 			"publishedAt": "2026-07-24T10:00:00.000Z"
 		},
 		{
-			"headline": "California dodges a bullet on Colorado River cuts",
-			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
+			"headline": "Southern California's heat wave is about to break. But not for long",
+			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T21:57:15.000Z"
+			"publishedAt": "2026-07-24T15:56:16.000Z"
 		},
 		{
 			"headline": "Heartbreaking twist in mystery of hiker found dead in Big Sur with odd wounds",
@@ -68,10 +68,10 @@
 			"publishedAt": "2026-07-24T00:44:59.000Z"
 		},
 		{
-			"headline": "New drug could help people stricken with valley fever",
-			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
+			"headline": "California dodges a bullet on Colorado River cuts",
+			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T10:00:00.000Z"
+			"publishedAt": "2026-07-23T21:57:15.000Z"
 		},
 		{
 			"headline": "Measles surges dramatically in California among children and young adults",
@@ -80,22 +80,10 @@
 			"publishedAt": "2026-07-23T10:00:00.000Z"
 		},
 		{
-			"headline": "Southern California's broiling heat wave: How long will it last?",
-			"url": "https://www.latimes.com/california/story/2026-07-23/la-me-heat-wave",
+			"headline": "New drug could help people stricken with valley fever",
+			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T15:44:29.000Z"
-		},
-		{
-			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
-			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-22T21:03:48.000Z"
-		},
-		{
-			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
-			"url": "https://www.mbari.org/news/listening-with-light-mbari-researchers-develop-innovative-new-technology-for-studying-the-seafloor/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-22T14:00:57.000Z"
+			"publishedAt": "2026-07-23T10:00:00.000Z"
 		},
 		{
 			"headline": "Caltech Joins the Genesis Mission",
@@ -104,16 +92,22 @@
 			"publishedAt": "2026-07-22T14:44:00.000Z"
 		},
 		{
-			"headline": "Redesigning Farmland Through Community Collaboration in California",
-			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-07-22T12:00:00.000Z"
+			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
+			"url": "https://www.mbari.org/news/listening-with-light-mbari-researchers-develop-innovative-new-technology-for-studying-the-seafloor/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-22T14:00:57.000Z"
 		},
 		{
 			"headline": "Some birds defy overall plunge in bird numbers",
 			"url": "https://www.latimes.com/environment/story/2026-07-22/some-birds-are-defying-overall-plunge-in-bird-numbers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-22T13:00:00.000Z"
+		},
+		{
+			"headline": "Redesigning Farmland Through Community Collaboration in California",
+			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
+			"source": "Eos",
+			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
 			"headline": "Heat wave smothering Southern California nears its peak",
@@ -128,6 +122,24 @@
 			"publishedAt": "2026-07-22T10:00:00.000Z"
 		},
 		{
+			"headline": "Modeling the Changing Patterns of Policymaking",
+			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
+			"source": "Caltech",
+			"publishedAt": "2026-07-21T19:11:14.631Z"
+		},
+		{
+			"headline": "When will Sunset Boulevard reopen? Here's what we know about filling the massive hole",
+			"url": "https://www.latimes.com/california/story/2026-07-21/when-will-sunset-boulevard-reopen",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-21T17:17:33.000Z"
+		},
+		{
+			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
+			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-21T16:20:53.000Z"
+		},
+		{
 			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
 			"url": "https://www.latimes.com/environment/story/2026-07-21/colorado-river-reservoirs-record-lows",
 			"source": "Los Angeles Times",
@@ -138,18 +150,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-21/super-pollutants-california-sues-trump-administration-for-ignoring-climate-changing-fridge-chemicals",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-21T19:30:59.000Z"
-		},
-		{
-			"headline": "Modeling the Changing Patterns of Policymaking",
-			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
-			"source": "Caltech",
-			"publishedAt": "2026-07-21T19:11:14.631Z"
-		},
-		{
-			"headline": "MBARI researchers complete expedition to study deep-sea jellies in Southern California",
-			"url": "https://www.mbari.org/news/mbari-researchers-complete-expedition-to-study-deep-sea-jellies-in-southern-california/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-21T16:20:53.000Z"
 		}
 	]
 }
