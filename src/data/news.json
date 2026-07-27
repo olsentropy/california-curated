@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-07-27T10:58:51.287Z",
+	"lastUpdated": "2026-07-27T14:03:01.786Z",
 	"items": [
+		{
+			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
+			"url": "https://www.caltech.edu/about/news/nsf-funding-for-caltech-led-cloud-laboratory-leverages-ai-to-explore-chemical-dark-matter-a-conversation-with-hosea-nelson",
+			"source": "Caltech",
+			"publishedAt": "2026-07-27T13:41:06.865Z"
+		},
 		{
 			"headline": "Dove fire burns near Yosemite, prompting evacuation orders in Sonora",
 			"url": "https://www.latimes.com/california/story/2026-07-26/dove-fire-burns-near-yosemite-prompting-evacuation-orders-in-sonora",
@@ -8,40 +14,10 @@
 			"publishedAt": "2026-07-27T05:23:03.000Z"
 		},
 		{
-			"headline": "Low-Level Cloud Loss Amplifies Global Warming",
-			"url": "https://www.caltech.edu/about/news/low-level-cloud-loss-amplifies-global-warming",
-			"source": "Caltech",
-			"publishedAt": "2026-07-24T18:03:00.000Z"
-		},
-		{
-			"headline": "California solar project threatens Mojave wildlife corridor, scientists say",
-			"url": "https://news.mongabay.com/2026/07/california-solar-project-threatens-mojave-wildlife-corridor-scientists-say/",
-			"source": "Mongabay",
-			"publishedAt": "2026-07-24T14:33:37.000Z"
-		},
-		{
-			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
-			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T22:37:02.000Z"
-		},
-		{
 			"headline": "Why a plan to filter bacteria from the Arroyo Seco is facing fierce opposition",
 			"url": "https://www.latimes.com/environment/story/2026-07-26/why-pasadena-residents-are-fighting-arroyo-seco-wetlands-plan",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-26T10:00:00.000Z"
-		},
-		{
-			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
-			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T19:07:59.000Z"
-		},
-		{
-			"headline": "Southern California's heat wave is about to break. But not for long",
-			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T15:56:16.000Z"
 		},
 		{
 			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
@@ -56,10 +32,46 @@
 			"publishedAt": "2026-07-25T10:00:00.000Z"
 		},
 		{
-			"headline": "Caltech Joins the Genesis Mission",
-			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
+			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
+			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T22:37:02.000Z"
+		},
+		{
+			"headline": "Low-Level Cloud Loss Amplifies Global Warming",
+			"url": "https://www.caltech.edu/about/news/low-level-cloud-loss-amplifies-global-warming",
 			"source": "Caltech",
-			"publishedAt": "2026-07-22T14:44:00.000Z"
+			"publishedAt": "2026-07-24T18:03:00.000Z"
+		},
+		{
+			"headline": "California solar project threatens Mojave wildlife corridor, scientists say",
+			"url": "https://news.mongabay.com/2026/07/california-solar-project-threatens-mojave-wildlife-corridor-scientists-say/",
+			"source": "Mongabay",
+			"publishedAt": "2026-07-24T14:33:37.000Z"
+		},
+		{
+			"headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
+			"url": "https://www.latimes.com/california/story/2026-07-24/covid-19-seasonal-summer-uptick-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T10:00:00.000Z"
+		},
+		{
+			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
+			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T19:07:59.000Z"
+		},
+		{
+			"headline": "Southern California's heat wave is about to break. But not for long",
+			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T15:56:16.000Z"
+		},
+		{
+			"headline": "Redesigning Farmland Through Community Collaboration in California",
+			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
+			"source": "Eos",
+			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
 			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
@@ -68,10 +80,10 @@
 			"publishedAt": "2026-07-22T14:00:57.000Z"
 		},
 		{
-			"headline": "Redesigning Farmland Through Community Collaboration in California",
-			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-07-22T12:00:00.000Z"
+			"headline": "Caltech Joins the Genesis Mission",
+			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
+			"source": "Caltech",
+			"publishedAt": "2026-07-22T14:44:00.000Z"
 		},
 		{
 			"headline": "Some birds defy overall plunge in bird numbers",
@@ -86,6 +98,24 @@
 			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
+			"headline": "As North America grapples with destructive wildfires, 'super' El Niño may offer hope",
+			"url": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T10:00:00.000Z"
+		},
+		{
+			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
+			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-22T21:03:48.000Z"
+		},
+		{
+			"headline": "What It Takes to Become a Beaver Coexistence Professional",
+			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-23T00:37:43.000Z"
+		},
+		{
 			"headline": "New drug could help people stricken with valley fever",
 			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
 			"source": "Los Angeles Times",
@@ -98,22 +128,10 @@
 			"publishedAt": "2026-07-23T10:00:00.000Z"
 		},
 		{
-			"headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
-			"url": "https://www.latimes.com/california/story/2026-07-24/covid-19-seasonal-summer-uptick-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T10:00:00.000Z"
-		},
-		{
 			"headline": "California dodges a bullet on Colorado River cuts",
 			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-23T21:57:15.000Z"
-		},
-		{
-			"headline": "Heartbreaking twist in mystery of hiker found dead in Big Sur with odd wounds",
-			"url": "https://www.latimes.com/california/story/2026-07-23/cause-of-death-revealed-for-big-sur-hiker-found-dead-with-odd-wounds",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T02:53:05.000Z"
 		},
 		{
 			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
@@ -122,34 +140,16 @@
 			"publishedAt": "2026-07-24T00:44:59.000Z"
 		},
 		{
-			"headline": "Bat that dropped onto table at SoCal restaurant had rabies, officials say",
-			"url": "https://www.latimes.com/california/story/2026-07-23/bat-dropped-onto-table-at-socal-restaurant-it-had-rabies-officials-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T01:12:54.000Z"
-		},
-		{
-			"headline": "As North America grapples with destructive wildfires, 'super' El Niño may offer hope",
-			"url": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T10:00:00.000Z"
-		},
-		{
-			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
-			"url": "https://www.latimes.com/environment/story/2026-07-21/colorado-river-reservoirs-record-lows",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-21T19:37:03.000Z"
-		},
-		{
 			"headline": "Rescued eagle Jackie battles anemia, inflammation. 'It's too early to predict the outcome'",
 			"url": "https://www.latimes.com/environment/story/2026-07-21/rescued-eagle-jackie-in-critical-condition-as-she-battles-anemia-inflammation",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-22T00:43:16.000Z"
 		},
 		{
-			"headline": "What It Takes to Become a Beaver Coexistence Professional",
-			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-23T00:37:43.000Z"
+			"headline": "Southern California's broiling heat wave: How long will it last?",
+			"url": "https://www.latimes.com/california/story/2026-07-23/la-me-heat-wave",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T15:44:29.000Z"
 		}
 	]
 }
