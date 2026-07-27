@@ -12,7 +12,7 @@ categories:
 tags:
   - microbes, jeffrey marlow, Scripps, Scripps Institute of Oceanography, UCSD, microbes, microbiology
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 Back in 2023, scientists [surveying a vast military-industrial dumpsite](https://scripps.ucsd.edu/news/second-seafloor-survey-dumpsite-coast-southern-california-completed) in the deep ocean off Southern California were looking for barrels and other remnants of decades of industrial and military dumping. They found plenty of it. They had discovered an astonishing amount of it during earlier surveys and were now expanding the search across a much larger area of the seafloor.
