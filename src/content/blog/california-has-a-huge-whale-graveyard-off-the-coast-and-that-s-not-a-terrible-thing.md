@@ -25,7 +25,7 @@ Seven whale carcasses were confirmed with underwater video. Sonar data suggested
 
 [![Image of a barrel-shaped object on the San Pedro Basin seafloor.](/wp-content/uploads/cms/munitions%20scripps.webp "Image of a barrel-shaped object on the San Pedro Basin seafloor.")](https://substackcdn.com/image/fetch/$s_!SlOC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7951c1a-5cd3-4fde-8ecb-6a58dbcd547a_800x450.jpeg)
 
-Sample munitions surveyed
+_Sample munitions surveyed in Scripps expedition (Photo: Scripps Institute of Oceanography)_
 
 That may not be entirely surprising. California sits beside one of the world’s great whale corridors. Over the course of any given year, tens of thousands of large whales migrate through or feed in the waters off our coast, many within sight of land. Grays, blues, humpbacks and fin whales love the rich waters of the California Current, which can be abundant in food.
 
