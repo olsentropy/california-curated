@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-07-27T01:24:25.586Z",
+	"lastUpdated": "2026-07-27T06:52:48.166Z",
 	"items": [
+		{
+			"headline": "Dove fire burns near Yosemite, prompting evacuation orders in Sonora",
+			"url": "https://www.latimes.com/california/story/2026-07-26/dove-fire-burns-near-yosemite-prompting-evacuation-orders-in-sonora",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-27T05:23:03.000Z"
+		},
 		{
 			"headline": "Why a plan to filter bacteria from the Arroyo Seco is facing fierce opposition",
 			"url": "https://www.latimes.com/environment/story/2026-07-26/why-pasadena-residents-are-fighting-arroyo-seco-wetlands-plan",
@@ -38,12 +44,6 @@
 			"publishedAt": "2026-07-24T14:33:37.000Z"
 		},
 		{
-			"headline": "Southern California's heat wave is about to break. But not for long",
-			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T15:56:16.000Z"
-		},
-		{
 			"headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
 			"url": "https://www.latimes.com/california/story/2026-07-24/covid-19-seasonal-summer-uptick-california",
 			"source": "Los Angeles Times",
@@ -56,16 +56,10 @@
 			"publishedAt": "2026-07-24T19:07:59.000Z"
 		},
 		{
-			"headline": "California dodges a bullet on Colorado River cuts",
-			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
+			"headline": "Southern California's heat wave is about to break. But not for long",
+			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T21:57:15.000Z"
-		},
-		{
-			"headline": "California, other states sue Trump administration for 'unlawful' conditions on disaster grants",
-			"url": "https://www.latimes.com/california/story/2026-07-23/california-other-states-sue-trump-administration-for-unlawful-conditions-on-disaster-grants",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T21:35:28.000Z"
+			"publishedAt": "2026-07-24T15:56:16.000Z"
 		},
 		{
 			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
@@ -74,10 +68,10 @@
 			"publishedAt": "2026-07-24T00:44:59.000Z"
 		},
 		{
-			"headline": "New drug could help people stricken with valley fever",
-			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
+			"headline": "California dodges a bullet on Colorado River cuts",
+			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T10:00:00.000Z"
+			"publishedAt": "2026-07-23T21:57:15.000Z"
 		},
 		{
 			"headline": "Measles surges dramatically in California among children and young adults",
@@ -86,16 +80,28 @@
 			"publishedAt": "2026-07-23T10:00:00.000Z"
 		},
 		{
-			"headline": "Southern California's broiling heat wave: How long will it last?",
-			"url": "https://www.latimes.com/california/story/2026-07-23/la-me-heat-wave",
+			"headline": "New drug could help people stricken with valley fever",
+			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T15:44:29.000Z"
+			"publishedAt": "2026-07-23T10:00:00.000Z"
 		},
 		{
-			"headline": "Caltech Joins the Genesis Mission",
-			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
-			"source": "Caltech",
-			"publishedAt": "2026-07-22T14:44:00.000Z"
+			"headline": "Heartbreaking twist in mystery of hiker found dead in Big Sur with odd wounds",
+			"url": "https://www.latimes.com/california/story/2026-07-23/cause-of-death-revealed-for-big-sur-hiker-found-dead-with-odd-wounds",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T02:53:05.000Z"
+		},
+		{
+			"headline": "Bat that dropped onto table at SoCal restaurant had rabies, officials say",
+			"url": "https://www.latimes.com/california/story/2026-07-23/bat-dropped-onto-table-at-socal-restaurant-it-had-rabies-officials-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T01:12:54.000Z"
+		},
+		{
+			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
+			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-22T21:03:48.000Z"
 		},
 		{
 			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
@@ -104,16 +110,16 @@
 			"publishedAt": "2026-07-22T14:00:57.000Z"
 		},
 		{
+			"headline": "Caltech Joins the Genesis Mission",
+			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
+			"source": "Caltech",
+			"publishedAt": "2026-07-22T14:44:00.000Z"
+		},
+		{
 			"headline": "Some birds defy overall plunge in bird numbers",
 			"url": "https://www.latimes.com/environment/story/2026-07-22/some-birds-are-defying-overall-plunge-in-bird-numbers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-22T13:00:00.000Z"
-		},
-		{
-			"headline": "Redesigning Farmland Through Community Collaboration in California",
-			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
 			"headline": "Heat wave smothering Southern California nears its peak",
@@ -122,22 +128,16 @@
 			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
+			"headline": "Redesigning Farmland Through Community Collaboration in California",
+			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
+			"source": "Eos",
+			"publishedAt": "2026-07-22T12:00:00.000Z"
+		},
+		{
 			"headline": "As North America grapples with destructive wildfires, 'super' El Niño may offer hope",
 			"url": "https://www.latimes.com/environment/story/2026-07-22/as-u-s-grapples-with-destructive-wildfires-el-nino-hope",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-22T10:00:00.000Z"
-		},
-		{
-			"headline": "The dark side of making daylight saving time permanent in California: How late would our sunrises get?",
-			"url": "https://www.latimes.com/california/story/2026-07-22/daylight-saving-time-bill-how-late-california-sunrise",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T10:00:00.000Z"
-		},
-		{
-			"headline": "Modeling the Changing Patterns of Policymaking",
-			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
-			"source": "Caltech",
-			"publishedAt": "2026-07-21T19:11:14.631Z"
 		},
 		{
 			"headline": "'A five-alarm fire': Western reservoirs that supply California fall to record low levels",
