@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-26T20:42:48.990Z",
+	"lastUpdated": "2026-07-27T01:24:25.586Z",
 	"items": [
 		{
 			"headline": "Why a plan to filter bacteria from the Arroyo Seco is facing fierce opposition",
@@ -8,16 +8,16 @@
 			"publishedAt": "2026-07-26T10:00:00.000Z"
 		},
 		{
-			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
-			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-25T10:00:00.000Z"
-		},
-		{
 			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
 			"url": "https://www.latimes.com/california/story/2026-07-25/man-convicted-of-causing-park-fire-one-of-californias-largest-blazes",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-25T11:00:00.000Z"
+		},
+		{
+			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
+			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-25T10:00:00.000Z"
 		},
 		{
 			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
@@ -38,12 +38,6 @@
 			"publishedAt": "2026-07-24T14:33:37.000Z"
 		},
 		{
-			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
-			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T19:07:59.000Z"
-		},
-		{
 			"headline": "Southern California's heat wave is about to break. But not for long",
 			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
 			"source": "Los Angeles Times",
@@ -56,22 +50,10 @@
 			"publishedAt": "2026-07-24T10:00:00.000Z"
 		},
 		{
-			"headline": "Heartbreaking twist in mystery of hiker found dead in Big Sur with odd wounds",
-			"url": "https://www.latimes.com/california/story/2026-07-23/cause-of-death-revealed-for-big-sur-hiker-found-dead-with-odd-wounds",
+			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
+			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T02:53:05.000Z"
-		},
-		{
-			"headline": "Bat that dropped onto table at SoCal restaurant had rabies, officials say",
-			"url": "https://www.latimes.com/california/story/2026-07-23/bat-dropped-onto-table-at-socal-restaurant-it-had-rabies-officials-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T01:12:54.000Z"
-		},
-		{
-			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
-			"url": "https://www.latimes.com/environment/story/2026-07-23/still-in-critical-condition-big-bear-eagle-jackie-receives-life-saving-blood-transfusion",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T00:44:59.000Z"
+			"publishedAt": "2026-07-24T19:07:59.000Z"
 		},
 		{
 			"headline": "California dodges a bullet on Colorado River cuts",
@@ -80,16 +62,16 @@
 			"publishedAt": "2026-07-23T21:57:15.000Z"
 		},
 		{
-			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
-			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-22T21:03:48.000Z"
+			"headline": "California, other states sue Trump administration for 'unlawful' conditions on disaster grants",
+			"url": "https://www.latimes.com/california/story/2026-07-23/california-other-states-sue-trump-administration-for-unlawful-conditions-on-disaster-grants",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T21:35:28.000Z"
 		},
 		{
-			"headline": "Measles surges dramatically in California among children and young adults",
-			"url": "https://www.latimes.com/california/story/2026-07-23/measles-surge-dramatically-in-california-among-children-young-adults",
+			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
+			"url": "https://www.latimes.com/environment/story/2026-07-23/still-in-critical-condition-big-bear-eagle-jackie-receives-life-saving-blood-transfusion",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T10:00:00.000Z"
+			"publishedAt": "2026-07-24T00:44:59.000Z"
 		},
 		{
 			"headline": "New drug could help people stricken with valley fever",
@@ -98,10 +80,16 @@
 			"publishedAt": "2026-07-23T10:00:00.000Z"
 		},
 		{
-			"headline": "What It Takes to Become a Beaver Coexistence Professional",
-			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-23T00:37:43.000Z"
+			"headline": "Measles surges dramatically in California among children and young adults",
+			"url": "https://www.latimes.com/california/story/2026-07-23/measles-surge-dramatically-in-california-among-children-young-adults",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T10:00:00.000Z"
+		},
+		{
+			"headline": "Southern California's broiling heat wave: How long will it last?",
+			"url": "https://www.latimes.com/california/story/2026-07-23/la-me-heat-wave",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T15:44:29.000Z"
 		},
 		{
 			"headline": "Caltech Joins the Genesis Mission",
@@ -140,6 +128,12 @@
 			"publishedAt": "2026-07-22T10:00:00.000Z"
 		},
 		{
+			"headline": "The dark side of making daylight saving time permanent in California: How late would our sunrises get?",
+			"url": "https://www.latimes.com/california/story/2026-07-22/daylight-saving-time-bill-how-late-california-sunrise",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T10:00:00.000Z"
+		},
+		{
 			"headline": "Modeling the Changing Patterns of Policymaking",
 			"url": "https://www.caltech.edu/about/news/modeling-the-changing-patterns-of-policymaking",
 			"source": "Caltech",
@@ -150,6 +144,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-21/colorado-river-reservoirs-record-lows",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-21T19:37:03.000Z"
+		},
+		{
+			"headline": "Super pollutants — California sues Trump administration for ignoring climate-changing fridge chemicals",
+			"url": "https://www.latimes.com/environment/story/2026-07-21/super-pollutants-california-sues-trump-administration-for-ignoring-climate-changing-fridge-chemicals",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-21T19:30:59.000Z"
 		}
 	]
 }
