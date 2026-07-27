@@ -3,7 +3,7 @@ title: California Has a Huge Whale Graveyard off the Coast. And That’s Not a T
 description: Whale falls offer scientists a treasure trove of information about life in the deep ocean. Microbiologist Jeffery Marlow talks about the importance of microbes.
 pubDate: 2026-07-27
 updatedDate: ''
-heroImage: ''
+heroImage: /wp-content/uploads/cms/whale fall scripps.jpg
 categories:
   - animals
   - marine-science
@@ -23,7 +23,7 @@ That’s a terrible story, and the _Los Angeles Times_ [broke the scandal](https
 
 Seven whale carcasses were confirmed with underwater video. Sonar data suggested that more than 60 may lie within the surveyed area. These sunken carcasses are known as “whale falls.”
 
-[![Image of a barrel-shaped object on the San Pedro Basin seafloor.](https://substackcdn.com/image/fetch/$s_!SlOC!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7951c1a-5cd3-4fde-8ecb-6a58dbcd547a_800x450.jpeg "Image of a barrel-shaped object on the San Pedro Basin seafloor.")](https://substackcdn.com/image/fetch/$s_!SlOC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7951c1a-5cd3-4fde-8ecb-6a58dbcd547a_800x450.jpeg)
+[![Image of a barrel-shaped object on the San Pedro Basin seafloor.](/wp-content/uploads/cms/munitions%20scripps.webp "Image of a barrel-shaped object on the San Pedro Basin seafloor.")](https://substackcdn.com/image/fetch/$s_!SlOC!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7951c1a-5cd3-4fde-8ecb-6a58dbcd547a_800x450.jpeg)
 
 Sample munitions surveyed
 
@@ -33,9 +33,9 @@ Still, the concentration found off Los Angeles was remarkable. Before the Scripp
 
 There is no evidence that the deaths were connected to the industrial waste or military munitions found nearby. The skeletons probably accumulated over many decades. The basin’s extremely low oxygen levels slow decomposition, while its low sedimentation rate may leave the bones exposed rather than burying them.
 
-[![](https://substackcdn.com/image/fetch/$s_!G4ln!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48f6cc0a-da75-404f-ac7d-8f4be9d5aa6f_2000x1132.jpeg)](https://substackcdn.com/image/fetch/$s_!G4ln!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48f6cc0a-da75-404f-ac7d-8f4be9d5aa6f_2000x1132.jpeg)
+[![](/wp-content/uploads/cms/whale%20fall%202.jpg)](https://substackcdn.com/image/fetch/$s_!G4ln!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F48f6cc0a-da75-404f-ac7d-8f4be9d5aa6f_2000x1132.jpeg)
 
-Whale spine seen in a frame of video from the Remotely Operated Vehicle (ROV) during the 2023 seafloor survey of the San Pedro Basin. (Credit: Scripps Institution of Oceanography/UC San Diego.)
+_Whale spine seen in a frame of video from the Remotely Operated Vehicle (ROV) during the 2023 seafloor survey of the San Pedro Basin. (Credit: Scripps Institution of Oceanography/UC San Diego.)_
 
 Dead whales on the ocean floor may seem like a nothing burger to most of us. But to scientists, they can be a bounty of information about what happens in the deep ocean, a place humans have barely explored. Studying the biological processes around whale falls can tell us a great deal not only about life in the depths, but also about how carbon is sequestered, how nutrients move through the ocean, and how isolated deep-sea communities survive and spread.
 
@@ -47,9 +47,9 @@ I asked him in particular about the value of whale falls to scientists trying to
 
 A whale fall delivers that food in one enormous pulse.
 
-[![](https://substackcdn.com/image/fetch/$s_!K8rV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24a05afe-d896-4dee-a208-fec6ebf306cc_5472x3648.jpeg)](https://substackcdn.com/image/fetch/$s_!K8rV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24a05afe-d896-4dee-a208-fec6ebf306cc_5472x3648.jpeg)
+[![](/wp-content/uploads/cms/marlow%20in%20field.JPG)](https://substackcdn.com/image/fetch/$s_!K8rV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F24a05afe-d896-4dee-a208-fec6ebf306cc_5472x3648.jpeg)
 
-Jeff Marlow in the field. (Photo: Jeffrey Marlow)
+_Jeff Marlow in the field. (Photo: Jeffrey Marlow)_
 
 “Every now and then, something huge, like a whale carcass, falls to the seafloor,” Marlow said. “That is an enormous amount of food, and it causes these oases to bloom on the seafloor.”
 
@@ -61,9 +61,9 @@ Marlow has seen these worms firsthand at a whale fall off San Diego known as [Ro
 
 “Most of the time, scientists come across whale falls that just happen to be there, which means we don’t know how long they’ve been there or what stage of ecological succession they’re in,” Marlow said. “But if you’re able to start the clock from zero, that is an exciting opportunity.”
 
-[![](https://substackcdn.com/image/fetch/$s_!4JqK!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe818b464-93c2-4c72-bb26-b89011f7cae0_2000x1500.jpeg)](https://substackcdn.com/image/fetch/$s_!4JqK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe818b464-93c2-4c72-bb26-b89011f7cae0_2000x1500.jpeg)
+[![](/wp-content/uploads/cms/osedax%20worm.jpeg)](https://substackcdn.com/image/fetch/$s_!4JqK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe818b464-93c2-4c72-bb26-b89011f7cae0_2000x1500.jpeg)
 
-Zombie worm, Osedax on a bone. (Photo: Yoshihiro Fujiwara/JAMSTEC)
+_Zombie worm, Osedax on a bone. (Photo: Yoshihiro Fujiwara/JAMSTEC)_
 
 Marlow visited Rosebud roughly five years after the whale’s death. Large scavengers had consumed most of the soft tissue, although some fleshy bits remained.
 
@@ -73,9 +73,9 @@ Marlow described it as “a really interesting endosymbiosis, where a microbe an
 
 As decomposition continues, microbes break down organic compounds in and around the bones, generating hydrogen sulfide (which smells like rotten eggs). Other microorganisms use that chemical as an energy source, supporting communities that can include mussels, clams, worms and snails. This way of generating energy without light is known as chemosynthesis, and its pervasiveness in supporting life in the deep was largely unknown to science until relatively recently.
 
-[![](https://substackcdn.com/image/fetch/$s_!rt7Y!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77f54d76-5d3a-44da-afae-5a41f37b0bd0_2000x1115.jpeg)](https://substackcdn.com/image/fetch/$s_!rt7Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77f54d76-5d3a-44da-afae-5a41f37b0bd0_2000x1115.jpeg)
+[![](/wp-content/uploads/cms/blue-whale-image-california-newport-p5.jpg)](https://substackcdn.com/image/fetch/$s_!rt7Y!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77f54d76-5d3a-44da-afae-5a41f37b0bd0_2000x1115.jpeg)
 
-Blue whale off the coast of Southern California. (Photo: Erik Olsen)
+_Blue whale off the coast of Southern California. (Photo: Erik Olsen)_
 
 Scientists do not know exactly how long the final stages of the breakdown of a whale fall can continue.
 
