@@ -1,11 +1,17 @@
 {
-	"lastUpdated": "2026-07-27T20:58:00.140Z",
+	"lastUpdated": "2026-07-28T01:11:45.456Z",
 	"items": [
 		{
 			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
 			"url": "https://www.caltech.edu/about/news/nsf-funding-for-caltech-led-cloud-laboratory-leverages-ai-to-explore-chemical-dark-matter-a-conversation-with-hosea-nelson",
 			"source": "Caltech",
 			"publishedAt": "2026-07-27T13:41:06.865Z"
+		},
+		{
+			"headline": "MBARI researchers participate in third International Conference on Seafloor Landforms, Processes and Evolution",
+			"url": "https://www.mbari.org/news/mbari-researchers-participate-in-third-international-conference-on-seafloor-landforms-processes-and-evolution/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-27T23:00:47.000Z"
 		},
 		{
 			"headline": "Big waves from Hurricane Genevieve to bring hazardous beach conditions to Southern California",
@@ -32,6 +38,18 @@
 			"publishedAt": "2026-07-26T10:00:00.000Z"
 		},
 		{
+			"headline": "California solar project threatens Mojave wildlife corridor, scientists say",
+			"url": "https://news.mongabay.com/2026/07/california-solar-project-threatens-mojave-wildlife-corridor-scientists-say/",
+			"source": "Mongabay",
+			"publishedAt": "2026-07-24T14:33:37.000Z"
+		},
+		{
+			"headline": "Low-Level Cloud Loss Amplifies Global Warming",
+			"url": "https://www.caltech.edu/about/news/low-level-cloud-loss-amplifies-global-warming",
+			"source": "Caltech",
+			"publishedAt": "2026-07-24T18:03:00.000Z"
+		},
+		{
 			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
 			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
 			"source": "Los Angeles Times",
@@ -44,16 +62,16 @@
 			"publishedAt": "2026-07-24T19:07:59.000Z"
 		},
 		{
-			"headline": "Low-Level Cloud Loss Amplifies Global Warming",
-			"url": "https://www.caltech.edu/about/news/low-level-cloud-loss-amplifies-global-warming",
-			"source": "Caltech",
-			"publishedAt": "2026-07-24T18:03:00.000Z"
+			"headline": "4 more states report cyclosporiasis outbreak. Here's how the FDA does a traceback investigation",
+			"url": "https://www.latimes.com/california/story/2026-07-24/cyclosporiasis-detectives-hunting-diarrhea-causing-parasite",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T17:37:34.000Z"
 		},
 		{
-			"headline": "California solar project threatens Mojave wildlife corridor, scientists say",
-			"url": "https://news.mongabay.com/2026/07/california-solar-project-threatens-mojave-wildlife-corridor-scientists-say/",
-			"source": "Mongabay",
-			"publishedAt": "2026-07-24T14:33:37.000Z"
+			"headline": "Southern California's heat wave is about to break. But not for long",
+			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T15:56:16.000Z"
 		},
 		{
 			"headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
@@ -62,10 +80,22 @@
 			"publishedAt": "2026-07-24T10:00:00.000Z"
 		},
 		{
-			"headline": "Southern California's heat wave is about to break. But not for long",
-			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
+			"headline": "California dodges a bullet on Colorado River cuts",
+			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T15:56:16.000Z"
+			"publishedAt": "2026-07-23T21:57:15.000Z"
+		},
+		{
+			"headline": "California, other states sue Trump administration for 'unlawful' conditions on disaster grants",
+			"url": "https://www.latimes.com/california/story/2026-07-23/california-other-states-sue-trump-administration-for-unlawful-conditions-on-disaster-grants",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T21:35:28.000Z"
+		},
+		{
+			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
+			"url": "https://www.latimes.com/environment/story/2026-07-23/still-in-critical-condition-big-bear-eagle-jackie-receives-life-saving-blood-transfusion",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T00:44:59.000Z"
 		},
 		{
 			"headline": "Heartbreaking twist in mystery of hiker found dead in Big Sur with odd wounds",
@@ -80,18 +110,6 @@
 			"publishedAt": "2026-07-24T01:12:54.000Z"
 		},
 		{
-			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
-			"url": "https://www.latimes.com/environment/story/2026-07-23/still-in-critical-condition-big-bear-eagle-jackie-receives-life-saving-blood-transfusion",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T00:44:59.000Z"
-		},
-		{
-			"headline": "California dodges a bullet on Colorado River cuts",
-			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T21:57:15.000Z"
-		},
-		{
 			"headline": "Measles surges dramatically in California among children and young adults",
 			"url": "https://www.latimes.com/california/story/2026-07-23/measles-surge-dramatically-in-california-among-children-young-adults",
 			"source": "Los Angeles Times",
@@ -104,34 +122,10 @@
 			"publishedAt": "2026-07-23T10:00:00.000Z"
 		},
 		{
-			"headline": "Southern California's broiling heat wave: How long will it last?",
-			"url": "https://www.latimes.com/california/story/2026-07-23/la-me-heat-wave",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T15:44:29.000Z"
-		},
-		{
-			"headline": "Redesigning Farmland Through Community Collaboration in California",
-			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-07-22T12:00:00.000Z"
-		},
-		{
 			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
 			"url": "https://www.mbari.org/news/listening-with-light-mbari-researchers-develop-innovative-new-technology-for-studying-the-seafloor/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-22T14:00:57.000Z"
-		},
-		{
-			"headline": "Caltech Joins the Genesis Mission",
-			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
-			"source": "Caltech",
-			"publishedAt": "2026-07-22T14:44:00.000Z"
-		},
-		{
-			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
-			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-25T10:00:00.000Z"
 		},
 		{
 			"headline": "Some birds defy overall plunge in bird numbers",
@@ -143,6 +137,12 @@
 			"headline": "Heat wave smothering Southern California nears its peak",
 			"url": "https://www.latimes.com/california/story/2026-07-22/heat-wave-smothering-southern-california-nears-its-peak",
 			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-22T12:00:00.000Z"
+		},
+		{
+			"headline": "Redesigning Farmland Through Community Collaboration in California",
+			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
+			"source": "Eos",
 			"publishedAt": "2026-07-22T12:00:00.000Z"
 		},
 		{
