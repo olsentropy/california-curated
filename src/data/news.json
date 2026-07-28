@@ -1,11 +1,17 @@
 {
-	"lastUpdated": "2026-07-28T01:11:45.456Z",
+	"lastUpdated": "2026-07-28T06:16:14.977Z",
 	"items": [
 		{
-			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
-			"url": "https://www.caltech.edu/about/news/nsf-funding-for-caltech-led-cloud-laboratory-leverages-ai-to-explore-chemical-dark-matter-a-conversation-with-hosea-nelson",
-			"source": "Caltech",
-			"publishedAt": "2026-07-27T13:41:06.865Z"
+			"headline": "After a setback, Big Bear eagle Jackie's health has improved: she's 'much more feisty'",
+			"url": "https://www.latimes.com/environment/story/2026-07-27/after-setback-big-bear-eagle-jackies-health-improves-shes-much-more-feisty",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T01:47:30.000Z"
+		},
+		{
+			"headline": "California man rescued at sea after mast snaps. He survived odyssey on squid, fish and oatmeal",
+			"url": "https://www.latimes.com/california/story/2026-07-27/california-man-rescued-at-sea-after-mast-snaps-he-survived-odyssey-on-squid-fish-oatmeal",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T01:01:49.000Z"
 		},
 		{
 			"headline": "MBARI researchers participate in third International Conference on Seafloor Landforms, Processes and Evolution",
@@ -14,16 +20,16 @@
 			"publishedAt": "2026-07-27T23:00:47.000Z"
 		},
 		{
-			"headline": "Big waves from Hurricane Genevieve to bring hazardous beach conditions to Southern California",
+			"headline": "Hurricane Genevieve to bring massive swells, life-threatening surf, rip currents to SoCal",
 			"url": "https://www.latimes.com/california/story/2026-07-27/hurricane-genevieve-heavy-surf",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-27T17:08:49.000Z"
 		},
 		{
-			"headline": "L.A.'s muggy misery: Intense humidity makes summer heat even more unbearable",
-			"url": "https://www.latimes.com/california/story/2026-07-27/l-a-s-muggy-misery-intense-humidity-makes-summer-heat-even-more-unbearable",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-27T17:43:15.000Z"
+			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
+			"url": "https://www.caltech.edu/about/news/nsf-funding-for-caltech-led-cloud-laboratory-leverages-ai-to-explore-chemical-dark-matter-a-conversation-with-hosea-nelson",
+			"source": "Caltech",
+			"publishedAt": "2026-07-27T13:41:06.865Z"
 		},
 		{
 			"headline": "Dove fire burns near Yosemite, prompting evacuation orders in Sonora",
@@ -38,22 +44,16 @@
 			"publishedAt": "2026-07-26T10:00:00.000Z"
 		},
 		{
-			"headline": "California solar project threatens Mojave wildlife corridor, scientists say",
-			"url": "https://news.mongabay.com/2026/07/california-solar-project-threatens-mojave-wildlife-corridor-scientists-say/",
-			"source": "Mongabay",
-			"publishedAt": "2026-07-24T14:33:37.000Z"
-		},
-		{
-			"headline": "Low-Level Cloud Loss Amplifies Global Warming",
-			"url": "https://www.caltech.edu/about/news/low-level-cloud-loss-amplifies-global-warming",
-			"source": "Caltech",
-			"publishedAt": "2026-07-24T18:03:00.000Z"
-		},
-		{
-			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
-			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
+			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
+			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T22:37:02.000Z"
+			"publishedAt": "2026-07-25T10:00:00.000Z"
+		},
+		{
+			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
+			"url": "https://www.latimes.com/california/story/2026-07-25/man-convicted-of-causing-park-fire-one-of-californias-largest-blazes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-25T11:00:00.000Z"
 		},
 		{
 			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
@@ -62,16 +62,16 @@
 			"publishedAt": "2026-07-24T19:07:59.000Z"
 		},
 		{
-			"headline": "4 more states report cyclosporiasis outbreak. Here's how the FDA does a traceback investigation",
-			"url": "https://www.latimes.com/california/story/2026-07-24/cyclosporiasis-detectives-hunting-diarrhea-causing-parasite",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T17:37:34.000Z"
+			"headline": "Low-Level Cloud Loss Amplifies Global Warming",
+			"url": "https://www.caltech.edu/about/news/low-level-cloud-loss-amplifies-global-warming",
+			"source": "Caltech",
+			"publishedAt": "2026-07-24T18:03:00.000Z"
 		},
 		{
-			"headline": "Southern California's heat wave is about to break. But not for long",
-			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T15:56:16.000Z"
+			"headline": "California solar project threatens Mojave wildlife corridor, scientists say",
+			"url": "https://news.mongabay.com/2026/07/california-solar-project-threatens-mojave-wildlife-corridor-scientists-say/",
+			"source": "Mongabay",
+			"publishedAt": "2026-07-24T14:33:37.000Z"
 		},
 		{
 			"headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
@@ -86,10 +86,22 @@
 			"publishedAt": "2026-07-23T21:57:15.000Z"
 		},
 		{
-			"headline": "California, other states sue Trump administration for 'unlawful' conditions on disaster grants",
-			"url": "https://www.latimes.com/california/story/2026-07-23/california-other-states-sue-trump-administration-for-unlawful-conditions-on-disaster-grants",
+			"headline": "New drug could help people stricken with valley fever",
+			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T21:35:28.000Z"
+			"publishedAt": "2026-07-23T10:00:00.000Z"
+		},
+		{
+			"headline": "Measles surges dramatically in California among children and young adults",
+			"url": "https://www.latimes.com/california/story/2026-07-23/measles-surge-dramatically-in-california-among-children-young-adults",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T10:00:00.000Z"
+		},
+		{
+			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
+			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T22:37:02.000Z"
 		},
 		{
 			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
@@ -110,46 +122,34 @@
 			"publishedAt": "2026-07-24T01:12:54.000Z"
 		},
 		{
-			"headline": "Measles surges dramatically in California among children and young adults",
-			"url": "https://www.latimes.com/california/story/2026-07-23/measles-surge-dramatically-in-california-among-children-young-adults",
+			"headline": "L.A.'s muggy misery: Intense humidity makes summer heat even more unbearable",
+			"url": "https://www.latimes.com/california/story/2026-07-27/l-a-s-muggy-misery-intense-humidity-makes-summer-heat-even-more-unbearable",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T10:00:00.000Z"
-		},
-		{
-			"headline": "New drug could help people stricken with valley fever",
-			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T10:00:00.000Z"
-		},
-		{
-			"headline": "Listening with light: MBARI researchers develop innovative new technology for studying the seafloor",
-			"url": "https://www.mbari.org/news/listening-with-light-mbari-researchers-develop-innovative-new-technology-for-studying-the-seafloor/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-22T14:00:57.000Z"
-		},
-		{
-			"headline": "Some birds defy overall plunge in bird numbers",
-			"url": "https://www.latimes.com/environment/story/2026-07-22/some-birds-are-defying-overall-plunge-in-bird-numbers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T13:00:00.000Z"
-		},
-		{
-			"headline": "Heat wave smothering Southern California nears its peak",
-			"url": "https://www.latimes.com/california/story/2026-07-22/heat-wave-smothering-southern-california-nears-its-peak",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-22T12:00:00.000Z"
-		},
-		{
-			"headline": "Redesigning Farmland Through Community Collaboration in California",
-			"url": "https://eos.org/editor-highlights/redesigning-farmland-through-community-collaboration-in-california",
-			"source": "Eos",
-			"publishedAt": "2026-07-22T12:00:00.000Z"
+			"publishedAt": "2026-07-27T17:43:15.000Z"
 		},
 		{
 			"headline": "What It Takes to Become a Beaver Coexistence Professional",
 			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-07-23T00:37:43.000Z"
+		},
+		{
+			"headline": "Caltech Joins the Genesis Mission",
+			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
+			"source": "Caltech",
+			"publishedAt": "2026-07-22T14:44:00.000Z"
+		},
+		{
+			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
+			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-22T21:03:48.000Z"
+		},
+		{
+			"headline": "Another cyclosporiasis outbreak investigated as cases of diarrhea-causing illness continue to mount",
+			"url": "https://www.latimes.com/california/story/2026-07-23/new-cyclosporiasis-outbreak",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T19:10:33.000Z"
 		}
 	]
 }
