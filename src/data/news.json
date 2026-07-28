@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-07-28T06:16:14.977Z",
+	"lastUpdated": "2026-07-28T10:16:56.069Z",
 	"items": [
+		{
+			"headline": "Trump administration targeted California and other blue states for clean energy cuts",
+			"url": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T10:00:00.000Z"
+		},
 		{
 			"headline": "After a setback, Big Bear eagle Jackie's health has improved: she's 'much more feisty'",
 			"url": "https://www.latimes.com/environment/story/2026-07-27/after-setback-big-bear-eagle-jackies-health-improves-shes-much-more-feisty",
@@ -44,22 +50,10 @@
 			"publishedAt": "2026-07-26T10:00:00.000Z"
 		},
 		{
-			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
-			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
+			"headline": "L.A.'s muggy misery: Intense humidity makes summer heat even more unbearable",
+			"url": "https://www.latimes.com/california/story/2026-07-27/l-a-s-muggy-misery-intense-humidity-makes-summer-heat-even-more-unbearable",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-25T10:00:00.000Z"
-		},
-		{
-			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
-			"url": "https://www.latimes.com/california/story/2026-07-25/man-convicted-of-causing-park-fire-one-of-californias-largest-blazes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-25T11:00:00.000Z"
-		},
-		{
-			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
-			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T19:07:59.000Z"
+			"publishedAt": "2026-07-27T17:43:15.000Z"
 		},
 		{
 			"headline": "Low-Level Cloud Loss Amplifies Global Warming",
@@ -80,22 +74,22 @@
 			"publishedAt": "2026-07-24T10:00:00.000Z"
 		},
 		{
-			"headline": "California dodges a bullet on Colorado River cuts",
-			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
+			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
+			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T21:57:15.000Z"
+			"publishedAt": "2026-07-24T19:07:59.000Z"
 		},
 		{
-			"headline": "New drug could help people stricken with valley fever",
-			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
+			"headline": "4 more states report cyclosporiasis outbreak. Here's how the FDA does a traceback investigation",
+			"url": "https://www.latimes.com/california/story/2026-07-24/cyclosporiasis-detectives-hunting-diarrhea-causing-parasite",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T10:00:00.000Z"
+			"publishedAt": "2026-07-24T17:37:34.000Z"
 		},
 		{
-			"headline": "Measles surges dramatically in California among children and young adults",
-			"url": "https://www.latimes.com/california/story/2026-07-23/measles-surge-dramatically-in-california-among-children-young-adults",
+			"headline": "Southern California's heat wave is about to break. But not for long",
+			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T10:00:00.000Z"
+			"publishedAt": "2026-07-24T15:56:16.000Z"
 		},
 		{
 			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
@@ -110,6 +104,36 @@
 			"publishedAt": "2026-07-24T00:44:59.000Z"
 		},
 		{
+			"headline": "California dodges a bullet on Colorado River cuts",
+			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T21:57:15.000Z"
+		},
+		{
+			"headline": "Measles surges dramatically in California among children and young adults",
+			"url": "https://www.latimes.com/california/story/2026-07-23/measles-surge-dramatically-in-california-among-children-young-adults",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T10:00:00.000Z"
+		},
+		{
+			"headline": "New drug could help people stricken with valley fever",
+			"url": "https://www.latimes.com/science/story/2026-07-23/new-drug-could-help-people-stricken-with-valley-fever",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T10:00:00.000Z"
+		},
+		{
+			"headline": "Another cyclosporiasis outbreak investigated as cases of diarrhea-causing illness continue to mount",
+			"url": "https://www.latimes.com/california/story/2026-07-23/new-cyclosporiasis-outbreak",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T19:10:33.000Z"
+		},
+		{
+			"headline": "Southern California's broiling heat wave: How long will it last?",
+			"url": "https://www.latimes.com/california/story/2026-07-23/la-me-heat-wave",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T15:44:29.000Z"
+		},
+		{
 			"headline": "Heartbreaking twist in mystery of hiker found dead in Big Sur with odd wounds",
 			"url": "https://www.latimes.com/california/story/2026-07-23/cause-of-death-revealed-for-big-sur-hiker-found-dead-with-odd-wounds",
 			"source": "Los Angeles Times",
@@ -122,34 +146,10 @@
 			"publishedAt": "2026-07-24T01:12:54.000Z"
 		},
 		{
-			"headline": "L.A.'s muggy misery: Intense humidity makes summer heat even more unbearable",
-			"url": "https://www.latimes.com/california/story/2026-07-27/l-a-s-muggy-misery-intense-humidity-makes-summer-heat-even-more-unbearable",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-27T17:43:15.000Z"
-		},
-		{
 			"headline": "What It Takes to Become a Beaver Coexistence Professional",
 			"url": "https://baynature.org/2026/07/22/explore/it-gets-me-out/what-it-takes-to-become-a-beaver-coexistence-professional/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-07-23T00:37:43.000Z"
-		},
-		{
-			"headline": "Caltech Joins the Genesis Mission",
-			"url": "https://www.caltech.edu/about/news/two-caltech-projects-selected-for-doe-funding-as-part-of-genesis-mission",
-			"source": "Caltech",
-			"publishedAt": "2026-07-22T14:44:00.000Z"
-		},
-		{
-			"headline": "From the grassroots to the Capitol: Can the Possibility Lab harness people power in California?",
-			"url": "https://news.berkeley.edu/2026/07/22/from-the-grassroots-to-the-capitol-can-the-possibility-lab-harness-people-power-in-california/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-22T21:03:48.000Z"
-		},
-		{
-			"headline": "Another cyclosporiasis outbreak investigated as cases of diarrhea-causing illness continue to mount",
-			"url": "https://www.latimes.com/california/story/2026-07-23/new-cyclosporiasis-outbreak",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T19:10:33.000Z"
 		}
 	]
 }
