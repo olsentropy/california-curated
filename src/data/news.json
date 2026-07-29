@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-28T20:54:51.428Z",
+	"lastUpdated": "2026-07-29T01:15:11.542Z",
 	"items": [
 		{
 			"headline": "California redwoods gateway is returned to Indigenous tribe. 'That's healing our people too'",
@@ -20,12 +20,6 @@
 			"publishedAt": "2026-07-28T19:51:05.000Z"
 		},
 		{
-			"headline": "New scientific commentary highlights the importance of the Argo Program",
-			"url": "https://www.mbari.org/news/new-scientific-commentary-highlights-the-importance-of-the-argo-program/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-28T16:30:29.000Z"
-		},
-		{
 			"headline": "California lifeguards are rescuing thousands during high surf, heat waves this summer",
 			"url": "https://www.latimes.com/california/story/2026-07-28/california-lifeguard-rescues-summer",
 			"source": "Los Angeles Times",
@@ -36,6 +30,12 @@
 			"url": "https://www.latimes.com/california/story/2026-07-28/west-hollywood-home-coyotes",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-28T16:36:58.000Z"
+		},
+		{
+			"headline": "New scientific commentary highlights the importance of the Argo Program",
+			"url": "https://www.mbari.org/news/new-scientific-commentary-highlights-the-importance-of-the-argo-program/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-28T16:30:29.000Z"
 		},
 		{
 			"headline": "Three firefighters injured battling wildfire in San Bernardino Mountains",
@@ -62,10 +62,10 @@
 			"publishedAt": "2026-07-27T23:00:47.000Z"
 		},
 		{
-			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
-			"url": "https://www.caltech.edu/about/news/nsf-funding-for-caltech-led-cloud-laboratory-leverages-ai-to-explore-chemical-dark-matter-a-conversation-with-hosea-nelson",
-			"source": "Caltech",
-			"publishedAt": "2026-07-27T13:41:06.865Z"
+			"headline": "Hurricane Genevieve to bring massive swells, life-threatening surf, rip currents to SoCal",
+			"url": "https://www.latimes.com/california/story/2026-07-27/hurricane-genevieve-heavy-surf",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-27T17:08:49.000Z"
 		},
 		{
 			"headline": "L.A.'s muggy misery: Intense humidity makes summer heat even more unbearable",
@@ -74,16 +74,10 @@
 			"publishedAt": "2026-07-27T17:43:15.000Z"
 		},
 		{
-			"headline": "Hurricane Genevieve to bring massive swells, life-threatening surf, rip currents to SoCal",
-			"url": "https://www.latimes.com/california/story/2026-07-27/hurricane-genevieve-heavy-surf",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-27T17:08:49.000Z"
-		},
-		{
-			"headline": "Why a plan to filter bacteria from the Arroyo Seco is facing fierce opposition",
-			"url": "https://www.latimes.com/environment/story/2026-07-26/why-pasadena-residents-are-fighting-arroyo-seco-wetlands-plan",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-26T10:00:00.000Z"
+			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
+			"url": "https://www.caltech.edu/about/news/nsf-funding-for-caltech-led-cloud-laboratory-leverages-ai-to-explore-chemical-dark-matter-a-conversation-with-hosea-nelson",
+			"source": "Caltech",
+			"publishedAt": "2026-07-27T13:41:06.865Z"
 		},
 		{
 			"headline": "Dove fire burns near Yosemite, prompting evacuation orders in Sonora",
@@ -92,16 +86,40 @@
 			"publishedAt": "2026-07-27T05:23:03.000Z"
 		},
 		{
-			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
-			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
+			"headline": "Why a plan to filter bacteria from the Arroyo Seco is facing fierce opposition",
+			"url": "https://www.latimes.com/environment/story/2026-07-26/why-pasadena-residents-are-fighting-arroyo-seco-wetlands-plan",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T22:37:02.000Z"
+			"publishedAt": "2026-07-26T10:00:00.000Z"
 		},
 		{
 			"headline": "California solar project threatens Mojave wildlife corridor, scientists say",
 			"url": "https://news.mongabay.com/2026/07/california-solar-project-threatens-mojave-wildlife-corridor-scientists-say/",
 			"source": "Mongabay",
 			"publishedAt": "2026-07-24T14:33:37.000Z"
+		},
+		{
+			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
+			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-25T10:00:00.000Z"
+		},
+		{
+			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
+			"url": "https://www.latimes.com/california/story/2026-07-25/man-convicted-of-causing-park-fire-one-of-californias-largest-blazes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-25T11:00:00.000Z"
+		},
+		{
+			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
+			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T22:37:02.000Z"
+		},
+		{
+			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
+			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T19:07:59.000Z"
 		},
 		{
 			"headline": "Low-Level Cloud Loss Amplifies Global Warming",
@@ -116,34 +134,16 @@
 			"publishedAt": "2026-07-24T10:00:00.000Z"
 		},
 		{
-			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
-			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
+			"headline": "Southern California's heat wave is about to break. But not for long",
+			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T19:07:59.000Z"
-		},
-		{
-			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
-			"url": "https://www.latimes.com/california/story/2026-07-25/man-convicted-of-causing-park-fire-one-of-californias-largest-blazes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-25T11:00:00.000Z"
-		},
-		{
-			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
-			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-25T10:00:00.000Z"
+			"publishedAt": "2026-07-24T15:56:16.000Z"
 		},
 		{
 			"headline": "California dodges a bullet on Colorado River cuts",
 			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-23T21:57:15.000Z"
-		},
-		{
-			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
-			"url": "https://www.latimes.com/environment/story/2026-07-23/still-in-critical-condition-big-bear-eagle-jackie-receives-life-saving-blood-transfusion",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T00:44:59.000Z"
 		},
 		{
 			"headline": "Heartbreaking twist in mystery of hiker found dead in Big Sur with odd wounds",
