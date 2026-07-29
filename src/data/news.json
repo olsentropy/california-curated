@@ -1,11 +1,23 @@
 {
-	"lastUpdated": "2026-07-29T17:00:23.145Z",
+	"lastUpdated": "2026-07-29T20:40:58.520Z",
 	"items": [
 		{
 			"headline": "Climate change increases wildfire risks in Yosemite and other national parks",
 			"url": "https://nature.berkeley.edu/news/climate-change-increases-wildfire-risks-yosemite-and-other-national-parks",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-29T16:52:08.000Z"
+		},
+		{
+			"headline": "Ancient Stardust Were Seeds for the Earliest Solids in the Solar System",
+			"url": "https://www.caltech.edu/about/news/ancient-stardust-were-seeds-for-the-earliest-solids-in-the-solar-system",
+			"source": "Caltech",
+			"publishedAt": "2026-07-29T19:35:35.876Z"
+		},
+		{
+			"headline": "Neptune's Inner Moons May Be Shattered Remains of Ancient Icy Worlds",
+			"url": "https://www.caltech.edu/about/news/neptunes-inner-moons-may-be-shattered-remains-of-ancient-icy-worlds",
+			"source": "Caltech",
+			"publishedAt": "2026-07-29T18:01:18.196Z"
 		},
 		{
 			"headline": "mITRAR: Using AI to Orchestrate a Rapid Response to Wildfires",
@@ -26,10 +38,34 @@
 			"publishedAt": "2026-07-29T10:00:00.000Z"
 		},
 		{
+			"headline": "Magnitude 4.2 earthquake rattles Northern California",
+			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-29T03:07:13.000Z"
+		},
+		{
 			"headline": "Coral reefs are dying. A new documentary profiles the people trying to save them",
 			"url": "https://journalism.berkeley.edu/qa-with-jason-spingarn-koff/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-28T19:51:05.000Z"
+		},
+		{
+			"headline": "Three firefighters injured battling wildfire in San Bernardino Mountains",
+			"url": "https://www.latimes.com/california/story/2026-07-28/three-firefighters-injured-in-wildfire-in-san-bernadino-mountains",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T17:38:29.000Z"
+		},
+		{
+			"headline": "California lifeguards are rescuing thousands during high surf, heat waves this summer",
+			"url": "https://www.latimes.com/california/story/2026-07-28/california-lifeguard-rescues-summer",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T16:58:11.000Z"
+		},
+		{
+			"headline": "Abandoned West Hollywood construction site becomes 'coyote condo' with nighttime howls",
+			"url": "https://www.latimes.com/california/story/2026-07-28/west-hollywood-home-coyotes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T16:36:58.000Z"
 		},
 		{
 			"headline": "New scientific commentary highlights the importance of the Argo Program",
@@ -50,10 +86,16 @@
 			"publishedAt": "2026-07-28T10:00:00.000Z"
 		},
 		{
-			"headline": "Magnitude 4.2 earthquake rattles Northern California",
-			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
+			"headline": "After a setback, Big Bear eagle Jackie's health has improved: she's 'much more feisty'",
+			"url": "https://www.latimes.com/environment/story/2026-07-27/after-setback-big-bear-eagle-jackies-health-improves-shes-much-more-feisty",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T03:07:13.000Z"
+			"publishedAt": "2026-07-28T01:47:30.000Z"
+		},
+		{
+			"headline": "California man rescued at sea after mast snaps. He survived odyssey on squid, fish and oatmeal",
+			"url": "https://www.latimes.com/california/story/2026-07-27/california-man-rescued-at-sea-after-mast-snaps-he-survived-odyssey-on-squid-fish-oatmeal",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T01:01:49.000Z"
 		},
 		{
 			"headline": "MBARI researchers participate in third International Conference on Seafloor Landforms, Processes and Evolution",
@@ -74,6 +116,12 @@
 			"publishedAt": "2026-07-27T17:08:49.000Z"
 		},
 		{
+			"headline": "L.A.'s muggy misery: Intense humidity makes summer heat even more unbearable",
+			"url": "https://www.latimes.com/california/story/2026-07-27/l-a-s-muggy-misery-intense-humidity-makes-summer-heat-even-more-unbearable",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-27T17:43:15.000Z"
+		},
+		{
 			"headline": "Why a plan to filter bacteria from the Arroyo Seco is facing fierce opposition",
 			"url": "https://www.latimes.com/environment/story/2026-07-26/why-pasadena-residents-are-fighting-arroyo-seco-wetlands-plan",
 			"source": "Los Angeles Times",
@@ -86,6 +134,12 @@
 			"publishedAt": "2026-07-27T05:23:03.000Z"
 		},
 		{
+			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
+			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-25T10:00:00.000Z"
+		},
+		{
 			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
 			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
 			"source": "Los Angeles Times",
@@ -96,60 +150,6 @@
 			"url": "https://www.caltech.edu/about/news/low-level-cloud-loss-amplifies-global-warming",
 			"source": "Caltech",
 			"publishedAt": "2026-07-24T18:03:00.000Z"
-		},
-		{
-			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
-			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T19:07:59.000Z"
-		},
-		{
-			"headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
-			"url": "https://www.latimes.com/california/story/2026-07-24/covid-19-seasonal-summer-uptick-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T10:00:00.000Z"
-		},
-		{
-			"headline": "After a setback, Big Bear eagle Jackie's health has improved: she's 'much more feisty'",
-			"url": "https://www.latimes.com/environment/story/2026-07-27/after-setback-big-bear-eagle-jackies-health-improves-shes-much-more-feisty",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T01:47:30.000Z"
-		},
-		{
-			"headline": "California man rescued at sea after mast snaps. He survived odyssey on squid, fish and oatmeal",
-			"url": "https://www.latimes.com/california/story/2026-07-27/california-man-rescued-at-sea-after-mast-snaps-he-survived-odyssey-on-squid-fish-oatmeal",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T01:01:49.000Z"
-		},
-		{
-			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
-			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-25T10:00:00.000Z"
-		},
-		{
-			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
-			"url": "https://www.latimes.com/california/story/2026-07-25/man-convicted-of-causing-park-fire-one-of-californias-largest-blazes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-25T11:00:00.000Z"
-		},
-		{
-			"headline": "Three firefighters injured battling wildfire in San Bernardino Mountains",
-			"url": "https://www.latimes.com/california/story/2026-07-28/three-firefighters-injured-in-wildfire-in-san-bernadino-mountains",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T17:38:29.000Z"
-		},
-		{
-			"headline": "California lifeguards are rescuing thousands during high surf, heat waves this summer",
-			"url": "https://www.latimes.com/california/story/2026-07-28/california-lifeguard-rescues-summer",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T16:58:11.000Z"
-		},
-		{
-			"headline": "Abandoned West Hollywood construction site becomes 'coyote condo' with nighttime howls",
-			"url": "https://www.latimes.com/california/story/2026-07-28/west-hollywood-home-coyotes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T16:36:58.000Z"
 		}
 	]
 }
