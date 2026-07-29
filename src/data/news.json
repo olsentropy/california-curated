@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-29T10:23:13.053Z",
+	"lastUpdated": "2026-07-29T13:28:59.996Z",
 	"items": [
 		{
 			"headline": "Record-breaking El Niño could gut California's crab and salmon fleets",
@@ -74,16 +74,22 @@
 			"publishedAt": "2026-07-28T01:47:30.000Z"
 		},
 		{
+			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
+			"url": "https://www.caltech.edu/about/news/nsf-funding-for-caltech-led-cloud-laboratory-leverages-ai-to-explore-chemical-dark-matter-a-conversation-with-hosea-nelson",
+			"source": "Caltech",
+			"publishedAt": "2026-07-27T13:41:06.865Z"
+		},
+		{
 			"headline": "Hurricane Genevieve to bring massive swells, life-threatening surf, rip currents to SoCal",
 			"url": "https://www.latimes.com/california/story/2026-07-27/hurricane-genevieve-heavy-surf",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-27T17:08:49.000Z"
 		},
 		{
-			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
-			"url": "https://www.caltech.edu/about/news/nsf-funding-for-caltech-led-cloud-laboratory-leverages-ai-to-explore-chemical-dark-matter-a-conversation-with-hosea-nelson",
-			"source": "Caltech",
-			"publishedAt": "2026-07-27T13:41:06.865Z"
+			"headline": "Dove fire burns near Yosemite, prompting evacuation orders in Sonora",
+			"url": "https://www.latimes.com/california/story/2026-07-26/dove-fire-burns-near-yosemite-prompting-evacuation-orders-in-sonora",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-27T05:23:03.000Z"
 		},
 		{
 			"headline": "Why a plan to filter bacteria from the Arroyo Seco is facing fierce opposition",
@@ -92,10 +98,16 @@
 			"publishedAt": "2026-07-26T10:00:00.000Z"
 		},
 		{
-			"headline": "Dove fire burns near Yosemite, prompting evacuation orders in Sonora",
-			"url": "https://www.latimes.com/california/story/2026-07-26/dove-fire-burns-near-yosemite-prompting-evacuation-orders-in-sonora",
+			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
+			"url": "https://www.latimes.com/california/story/2026-07-25/man-convicted-of-causing-park-fire-one-of-californias-largest-blazes",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-27T05:23:03.000Z"
+			"publishedAt": "2026-07-25T11:00:00.000Z"
+		},
+		{
+			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
+			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-25T10:00:00.000Z"
 		},
 		{
 			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
@@ -110,10 +122,10 @@
 			"publishedAt": "2026-07-24T18:03:00.000Z"
 		},
 		{
-			"headline": "4 more states report cyclosporiasis outbreak. Here's how the FDA does a traceback investigation",
-			"url": "https://www.latimes.com/california/story/2026-07-24/cyclosporiasis-detectives-hunting-diarrhea-causing-parasite",
+			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
+			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T17:37:34.000Z"
+			"publishedAt": "2026-07-24T19:07:59.000Z"
 		},
 		{
 			"headline": "Southern California's heat wave is about to break. But not for long",
@@ -128,28 +140,16 @@
 			"publishedAt": "2026-07-24T10:00:00.000Z"
 		},
 		{
-			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
-			"url": "https://www.latimes.com/california/story/2026-07-24/measles-cases-us-record",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T19:07:59.000Z"
-		},
-		{
-			"headline": "Heartbreaking twist in mystery of hiker found dead in Big Sur with odd wounds",
-			"url": "https://www.latimes.com/california/story/2026-07-23/cause-of-death-revealed-for-big-sur-hiker-found-dead-with-odd-wounds",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T02:53:05.000Z"
-		},
-		{
-			"headline": "Bat that dropped onto table at SoCal restaurant had rabies, officials say",
-			"url": "https://www.latimes.com/california/story/2026-07-23/bat-dropped-onto-table-at-socal-restaurant-it-had-rabies-officials-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T01:12:54.000Z"
-		},
-		{
 			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
 			"url": "https://www.latimes.com/environment/story/2026-07-23/still-in-critical-condition-big-bear-eagle-jackie-receives-life-saving-blood-transfusion",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-24T00:44:59.000Z"
+		},
+		{
+			"headline": "California dodges a bullet on Colorado River cuts",
+			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-23T21:57:15.000Z"
 		}
 	]
 }
