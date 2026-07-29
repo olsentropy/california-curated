@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-07-29T06:21:57.233Z",
+	"lastUpdated": "2026-07-29T10:23:13.053Z",
 	"items": [
+		{
+			"headline": "Record-breaking El Niño could gut California's crab and salmon fleets",
+			"url": "https://www.latimes.com/science/story/2026-07-29/record-breaking-el-nino-could-gut-californias-crab-salmon-fleets",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-29T10:00:00.000Z"
+		},
+		{
+			"headline": "State regulators crack down on polluted runoff from L.A. shopping centers, warehouses",
+			"url": "https://www.latimes.com/environment/story/2026-07-29/la-polluted-runoff-regulation",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-29T10:00:00.000Z"
+		},
 		{
 			"headline": "Magnitude 4.2 earthquake rattles Northern California",
 			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
@@ -56,12 +68,6 @@
 			"publishedAt": "2026-07-27T23:00:47.000Z"
 		},
 		{
-			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
-			"url": "https://www.caltech.edu/about/news/nsf-funding-for-caltech-led-cloud-laboratory-leverages-ai-to-explore-chemical-dark-matter-a-conversation-with-hosea-nelson",
-			"source": "Caltech",
-			"publishedAt": "2026-07-27T13:41:06.865Z"
-		},
-		{
 			"headline": "After a setback, Big Bear eagle Jackie's health has improved: she's 'much more feisty'",
 			"url": "https://www.latimes.com/environment/story/2026-07-27/after-setback-big-bear-eagle-jackies-health-improves-shes-much-more-feisty",
 			"source": "Los Angeles Times",
@@ -74,16 +80,22 @@
 			"publishedAt": "2026-07-27T17:08:49.000Z"
 		},
 		{
-			"headline": "Dove fire burns near Yosemite, prompting evacuation orders in Sonora",
-			"url": "https://www.latimes.com/california/story/2026-07-26/dove-fire-burns-near-yosemite-prompting-evacuation-orders-in-sonora",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-27T05:23:03.000Z"
+			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
+			"url": "https://www.caltech.edu/about/news/nsf-funding-for-caltech-led-cloud-laboratory-leverages-ai-to-explore-chemical-dark-matter-a-conversation-with-hosea-nelson",
+			"source": "Caltech",
+			"publishedAt": "2026-07-27T13:41:06.865Z"
 		},
 		{
 			"headline": "Why a plan to filter bacteria from the Arroyo Seco is facing fierce opposition",
 			"url": "https://www.latimes.com/environment/story/2026-07-26/why-pasadena-residents-are-fighting-arroyo-seco-wetlands-plan",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-26T10:00:00.000Z"
+		},
+		{
+			"headline": "Dove fire burns near Yosemite, prompting evacuation orders in Sonora",
+			"url": "https://www.latimes.com/california/story/2026-07-26/dove-fire-burns-near-yosemite-prompting-evacuation-orders-in-sonora",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-27T05:23:03.000Z"
 		},
 		{
 			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
@@ -98,10 +110,16 @@
 			"publishedAt": "2026-07-24T18:03:00.000Z"
 		},
 		{
-			"headline": "California solar project threatens Mojave wildlife corridor, scientists say",
-			"url": "https://news.mongabay.com/2026/07/california-solar-project-threatens-mojave-wildlife-corridor-scientists-say/",
-			"source": "Mongabay",
-			"publishedAt": "2026-07-24T14:33:37.000Z"
+			"headline": "4 more states report cyclosporiasis outbreak. Here's how the FDA does a traceback investigation",
+			"url": "https://www.latimes.com/california/story/2026-07-24/cyclosporiasis-detectives-hunting-diarrhea-causing-parasite",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T17:37:34.000Z"
+		},
+		{
+			"headline": "Southern California's heat wave is about to break. But not for long",
+			"url": "https://www.latimes.com/california/story/2026-07-24/southern-california-heat-wave-forecaset",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-24T15:56:16.000Z"
 		},
 		{
 			"headline": "COVID-19 is on the upswing in California. How bad will it get this summer?",
@@ -116,12 +134,6 @@
 			"publishedAt": "2026-07-24T19:07:59.000Z"
 		},
 		{
-			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
-			"url": "https://www.latimes.com/environment/story/2026-07-23/still-in-critical-condition-big-bear-eagle-jackie-receives-life-saving-blood-transfusion",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T00:44:59.000Z"
-		},
-		{
 			"headline": "Heartbreaking twist in mystery of hiker found dead in Big Sur with odd wounds",
 			"url": "https://www.latimes.com/california/story/2026-07-23/cause-of-death-revealed-for-big-sur-hiker-found-dead-with-odd-wounds",
 			"source": "Los Angeles Times",
@@ -134,16 +146,10 @@
 			"publishedAt": "2026-07-24T01:12:54.000Z"
 		},
 		{
-			"headline": "California dodges a bullet on Colorado River cuts",
-			"url": "https://www.latimes.com/environment/story/2026-07-23/colorado-river-cuts",
+			"headline": "Still in critical condition, Big Bear eagle Jackie gets life-saving blood transfusion",
+			"url": "https://www.latimes.com/environment/story/2026-07-23/still-in-critical-condition-big-bear-eagle-jackie-receives-life-saving-blood-transfusion",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-23T21:57:15.000Z"
-		},
-		{
-			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
-			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-25T10:00:00.000Z"
+			"publishedAt": "2026-07-24T00:44:59.000Z"
 		}
 	]
 }
