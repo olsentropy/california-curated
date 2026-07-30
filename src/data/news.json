@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-30T13:18:58.076Z",
+	"lastUpdated": "2026-07-30T17:11:57.673Z",
 	"items": [
 		{
 			"headline": "SoCal has had 'so many heat waves,' but this next one is a doozy: What to know",
@@ -32,12 +32,6 @@
 			"publishedAt": "2026-07-29T18:01:18.196Z"
 		},
 		{
-			"headline": "How climate change is redrawing the malaria map in Africa",
-			"url": "https://nature.berkeley.edu/news/climate-change-redrawing-malaria-map-africa",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-29T17:35:52.000Z"
-		},
-		{
 			"headline": "Climate change increases wildfire risks in Yosemite and other national parks",
 			"url": "https://nature.berkeley.edu/news/climate-change-increases-wildfire-risks-yosemite-and-other-national-parks",
 			"source": "UC Berkeley News",
@@ -52,12 +46,6 @@
 		{
 			"headline": "Record-breaking El Niño could gut California's crab and salmon fleets",
 			"url": "https://www.latimes.com/science/story/2026-07-29/record-breaking-el-nino-could-gut-californias-crab-salmon-fleets",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T10:00:00.000Z"
-		},
-		{
-			"headline": "California hopes to lure a new generation to electric cars, with help from rebates, high gas prices",
-			"url": "https://www.latimes.com/california/story/2026-07-29/california-instant-rebates-new-used-electric-cars",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-29T10:00:00.000Z"
 		},
@@ -92,12 +80,6 @@
 			"publishedAt": "2026-07-28T16:58:11.000Z"
 		},
 		{
-			"headline": "Abandoned West Hollywood construction site becomes 'coyote condo' with nighttime howls",
-			"url": "https://www.latimes.com/california/story/2026-07-28/west-hollywood-home-coyotes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T16:36:58.000Z"
-		},
-		{
 			"headline": "New scientific commentary highlights the importance of the Argo Program",
 			"url": "https://www.mbari.org/news/new-scientific-commentary-highlights-the-importance-of-the-argo-program/",
 			"source": "MBARI",
@@ -114,12 +96,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-28T10:00:00.000Z"
-		},
-		{
-			"headline": "MBARI researchers participate in third International Conference on Seafloor Landforms, Processes and Evolution",
-			"url": "https://www.mbari.org/news/mbari-researchers-participate-in-third-international-conference-on-seafloor-landforms-processes-and-evolution/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-27T23:00:47.000Z"
 		},
 		{
 			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
@@ -146,10 +122,22 @@
 			"publishedAt": "2026-07-26T10:00:00.000Z"
 		},
 		{
-			"headline": "After a setback, Big Bear eagle Jackie's health has improved: she's 'much more feisty'",
-			"url": "https://www.latimes.com/environment/story/2026-07-27/after-setback-big-bear-eagle-jackies-health-improves-shes-much-more-feisty",
+			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
+			"url": "https://www.latimes.com/california/story/2026-07-25/man-convicted-of-causing-park-fire-one-of-californias-largest-blazes",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T01:47:30.000Z"
+			"publishedAt": "2026-07-25T11:00:00.000Z"
+		},
+		{
+			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
+			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-25T10:00:00.000Z"
+		},
+		{
+			"headline": "MBARI researchers participate in third International Conference on Seafloor Landforms, Processes and Evolution",
+			"url": "https://www.mbari.org/news/mbari-researchers-participate-in-third-international-conference-on-seafloor-landforms-processes-and-evolution/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-27T23:00:47.000Z"
 		}
 	]
 }
