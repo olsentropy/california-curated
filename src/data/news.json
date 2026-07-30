@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-30T01:07:50.587Z",
+	"lastUpdated": "2026-07-30T06:15:00.280Z",
 	"items": [
 		{
 			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
@@ -92,22 +92,22 @@
 			"publishedAt": "2026-07-28T10:00:00.000Z"
 		},
 		{
+			"headline": "California man rescued at sea after mast snaps. He survived odyssey on squid, fish and oatmeal",
+			"url": "https://www.latimes.com/california/story/2026-07-27/california-man-rescued-at-sea-after-mast-snaps-he-survived-odyssey-on-squid-fish-oatmeal",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T01:01:49.000Z"
+		},
+		{
+			"headline": "MBARI researchers participate in third International Conference on Seafloor Landforms, Processes and Evolution",
+			"url": "https://www.mbari.org/news/mbari-researchers-participate-in-third-international-conference-on-seafloor-landforms-processes-and-evolution/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-27T23:00:47.000Z"
+		},
+		{
 			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
 			"url": "https://www.caltech.edu/about/news/nsf-funding-for-caltech-led-cloud-laboratory-leverages-ai-to-explore-chemical-dark-matter-a-conversation-with-hosea-nelson",
 			"source": "Caltech",
 			"publishedAt": "2026-07-27T13:41:06.865Z"
-		},
-		{
-			"headline": "Why a plan to filter bacteria from the Arroyo Seco is facing fierce opposition",
-			"url": "https://www.latimes.com/environment/story/2026-07-26/why-pasadena-residents-are-fighting-arroyo-seco-wetlands-plan",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-26T10:00:00.000Z"
-		},
-		{
-			"headline": "Dove fire burns near Yosemite, prompting evacuation orders in Sonora",
-			"url": "https://www.latimes.com/california/story/2026-07-26/dove-fire-burns-near-yosemite-prompting-evacuation-orders-in-sonora",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-27T05:23:03.000Z"
 		},
 		{
 			"headline": "Hurricane Genevieve to bring massive swells, life-threatening surf, rip currents to SoCal",
@@ -116,10 +116,16 @@
 			"publishedAt": "2026-07-27T17:08:49.000Z"
 		},
 		{
-			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
-			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
+			"headline": "Dove fire burns near Yosemite, prompting evacuation orders in Sonora",
+			"url": "https://www.latimes.com/california/story/2026-07-26/dove-fire-burns-near-yosemite-prompting-evacuation-orders-in-sonora",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T22:37:02.000Z"
+			"publishedAt": "2026-07-27T05:23:03.000Z"
+		},
+		{
+			"headline": "Why a plan to filter bacteria from the Arroyo Seco is facing fierce opposition",
+			"url": "https://www.latimes.com/environment/story/2026-07-26/why-pasadena-residents-are-fighting-arroyo-seco-wetlands-plan",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-26T10:00:00.000Z"
 		},
 		{
 			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
@@ -128,10 +134,10 @@
 			"publishedAt": "2026-07-25T10:00:00.000Z"
 		},
 		{
-			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
-			"url": "https://www.latimes.com/california/story/2026-07-25/man-convicted-of-causing-park-fire-one-of-californias-largest-blazes",
+			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
+			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-25T11:00:00.000Z"
+			"publishedAt": "2026-07-24T22:37:02.000Z"
 		},
 		{
 			"headline": "Measles hits U.S. record not seen since 1991; California seen as vulnerable",
@@ -140,16 +146,10 @@
 			"publishedAt": "2026-07-24T19:07:59.000Z"
 		},
 		{
-			"headline": "Low-Level Cloud Loss Amplifies Global Warming",
-			"url": "https://www.caltech.edu/about/news/low-level-cloud-loss-amplifies-global-warming",
-			"source": "Caltech",
-			"publishedAt": "2026-07-24T18:03:00.000Z"
-		},
-		{
-			"headline": "After a setback, Big Bear eagle Jackie's health has improved: she's 'much more feisty'",
-			"url": "https://www.latimes.com/environment/story/2026-07-27/after-setback-big-bear-eagle-jackies-health-improves-shes-much-more-feisty",
+			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
+			"url": "https://www.latimes.com/california/story/2026-07-25/man-convicted-of-causing-park-fire-one-of-californias-largest-blazes",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T01:47:30.000Z"
+			"publishedAt": "2026-07-25T11:00:00.000Z"
 		}
 	]
 }
