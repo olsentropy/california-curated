@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-07-30T10:07:24.048Z",
+	"lastUpdated": "2026-07-30T13:18:58.076Z",
 	"items": [
+		{
+			"headline": "SoCal has had 'so many heat waves,' but this next one is a doozy: What to know",
+			"url": "https://www.latimes.com/california/story/2026-07-30/socal-has-had-so-many-heat-waves-but-this-next-one-is-doozy",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-30T11:00:00.000Z"
+		},
+		{
+			"headline": "Proposed ban of forever chemicals for California farms nixed by state lawmakers",
+			"url": "https://www.latimes.com/california/story/2026-07-30/forever-chemicals-ban-california-farms-assembly-bill",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-30T10:00:00.000Z"
+		},
 		{
 			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
 			"url": "https://www.latimes.com/environment/story/2026-07-29/jackie-big-bears-beloved-bald-eagle-moved-out-of-intensive-care-but-still-very-sick",
@@ -20,6 +32,12 @@
 			"publishedAt": "2026-07-29T18:01:18.196Z"
 		},
 		{
+			"headline": "How climate change is redrawing the malaria map in Africa",
+			"url": "https://nature.berkeley.edu/news/climate-change-redrawing-malaria-map-africa",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-29T17:35:52.000Z"
+		},
+		{
 			"headline": "Climate change increases wildfire risks in Yosemite and other national parks",
 			"url": "https://nature.berkeley.edu/news/climate-change-increases-wildfire-risks-yosemite-and-other-national-parks",
 			"source": "UC Berkeley News",
@@ -34,6 +52,12 @@
 		{
 			"headline": "Record-breaking El Niño could gut California's crab and salmon fleets",
 			"url": "https://www.latimes.com/science/story/2026-07-29/record-breaking-el-nino-could-gut-californias-crab-salmon-fleets",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-29T10:00:00.000Z"
+		},
+		{
+			"headline": "California hopes to lure a new generation to electric cars, with help from rebates, high gas prices",
+			"url": "https://www.latimes.com/california/story/2026-07-29/california-instant-rebates-new-used-electric-cars",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-29T10:00:00.000Z"
 		},
@@ -80,16 +104,16 @@
 			"publishedAt": "2026-07-28T16:30:29.000Z"
 		},
 		{
-			"headline": "Trump administration targeted California and other blue states for clean energy cuts",
-			"url": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T10:00:00.000Z"
-		},
-		{
 			"headline": "California redwoods gateway is returned to Indigenous tribe. 'That's healing our people too'",
 			"url": "https://www.latimes.com/california/story/2026-07-28/california-redwoods-gateway-is-returned-to-indigenous-tribe-thats-healing-our-people-too",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-28T11:00:00.000Z"
+		},
+		{
+			"headline": "Trump administration targeted California and other blue states for clean energy cuts",
+			"url": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T10:00:00.000Z"
 		},
 		{
 			"headline": "MBARI researchers participate in third International Conference on Seafloor Landforms, Processes and Evolution",
@@ -120,24 +144,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-26/why-pasadena-residents-are-fighting-arroyo-seco-wetlands-plan",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-26T10:00:00.000Z"
-		},
-		{
-			"headline": "Man who caused Park fire, one of the largest in California history, convicted of arson",
-			"url": "https://www.latimes.com/california/story/2026-07-25/man-convicted-of-causing-park-fire-one-of-californias-largest-blazes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-25T11:00:00.000Z"
-		},
-		{
-			"headline": "L.A.'s dangerous game of triage as aging water system hits breaking point",
-			"url": "https://www.latimes.com/california/story/2026-07-25/l-a-s-game-of-triage-as-aging-water-system-hits-breaking-point",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-25T10:00:00.000Z"
-		},
-		{
-			"headline": "With Big Bear eagle ailing, OpenAI co-founder drops $5.5 million to buy land near nest",
-			"url": "https://www.latimes.com/environment/story/2026-07-24/open-ai-co-founder-donates-5-5m-to-buy-land-near-famed-big-bear-eagle-nest",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-24T22:37:02.000Z"
 		},
 		{
 			"headline": "After a setback, Big Bear eagle Jackie's health has improved: she's 'much more feisty'",
