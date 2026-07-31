@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-07-31T13:22:13.103Z",
+	"lastUpdated": "2026-07-31T17:14:13.423Z",
 	"items": [
+		{
+			"headline": "Trump administration releases long-awaited 10-year plan for dwindling Colorado River",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/trump-administration-colorado-river-plan",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-31T16:16:50.000Z"
+		},
+		{
+			"headline": "Worst of brutal SoCal heat wave is here: How long will it last? How bad will it be?",
+			"url": "https://www.latimes.com/california/story/2026-07-31/la-me-heat-wave-timeline",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-31T14:27:20.000Z"
+		},
 		{
 			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
 			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
@@ -52,6 +64,12 @@
 		{
 			"headline": "Proposed ban of forever chemicals for California farms nixed by state lawmakers",
 			"url": "https://www.latimes.com/california/story/2026-07-30/forever-chemicals-ban-california-farms-assembly-bill",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-30T10:00:00.000Z"
+		},
+		{
+			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
+			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
@@ -122,34 +140,16 @@
 			"publishedAt": "2026-07-29T10:00:00.000Z"
 		},
 		{
-			"headline": "Magnitude 4.2 earthquake rattles Northern California",
-			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T03:07:13.000Z"
-		},
-		{
-			"headline": "California redwoods gateway is returned to Indigenous tribe. 'That's healing our people too'",
-			"url": "https://www.latimes.com/california/story/2026-07-28/california-redwoods-gateway-is-returned-to-indigenous-tribe-thats-healing-our-people-too",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T11:00:00.000Z"
-		},
-		{
 			"headline": "Trump administration targeted California and other blue states for clean energy cuts",
 			"url": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-28T10:00:00.000Z"
 		},
 		{
-			"headline": "New scientific commentary highlights the importance of the Argo Program",
-			"url": "https://www.mbari.org/news/new-scientific-commentary-highlights-the-importance-of-the-argo-program/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-28T16:30:29.000Z"
-		},
-		{
-			"headline": "Coral reefs are dying. A new documentary profiles the people trying to save them",
-			"url": "https://journalism.berkeley.edu/qa-with-jason-spingarn-koff/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-28T19:51:05.000Z"
+			"headline": "Magnitude 4.2 earthquake rattles Northern California",
+			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-29T03:07:13.000Z"
 		}
 	]
 }
