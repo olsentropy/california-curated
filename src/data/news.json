@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-07-31T10:24:08.052Z",
+	"lastUpdated": "2026-07-31T13:22:13.103Z",
 	"items": [
 		{
 			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
@@ -68,6 +68,12 @@
 			"publishedAt": "2026-07-29T19:35:00.000Z"
 		},
 		{
+			"headline": "Neptune's Inner Moons May Be Shattered Remains of Ancient Icy Worlds",
+			"url": "https://www.caltech.edu/about/news/neptunes-inner-moons-may-be-shattered-remains-of-ancient-icy-worlds",
+			"source": "Caltech",
+			"publishedAt": "2026-07-29T18:01:18.196Z"
+		},
+		{
 			"headline": "How climate change is redrawing the malaria map in Africa",
 			"url": "https://nature.berkeley.edu/news/climate-change-redrawing-malaria-map-africa",
 			"source": "UC Berkeley News",
@@ -116,10 +122,10 @@
 			"publishedAt": "2026-07-29T10:00:00.000Z"
 		},
 		{
-			"headline": "Trump administration targeted California and other blue states for clean energy cuts",
-			"url": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
+			"headline": "Magnitude 4.2 earthquake rattles Northern California",
+			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T10:00:00.000Z"
+			"publishedAt": "2026-07-29T03:07:13.000Z"
 		},
 		{
 			"headline": "California redwoods gateway is returned to Indigenous tribe. 'That's healing our people too'",
@@ -128,10 +134,10 @@
 			"publishedAt": "2026-07-28T11:00:00.000Z"
 		},
 		{
-			"headline": "Coral reefs are dying. A new documentary profiles the people trying to save them",
-			"url": "https://journalism.berkeley.edu/qa-with-jason-spingarn-koff/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-28T19:51:05.000Z"
+			"headline": "Trump administration targeted California and other blue states for clean energy cuts",
+			"url": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T10:00:00.000Z"
 		},
 		{
 			"headline": "New scientific commentary highlights the importance of the Argo Program",
@@ -140,16 +146,10 @@
 			"publishedAt": "2026-07-28T16:30:29.000Z"
 		},
 		{
-			"headline": "Magnitude 4.2 earthquake rattles Northern California",
-			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T03:07:13.000Z"
-		},
-		{
-			"headline": "Hurricane Genevieve to bring massive swells, life-threatening surf, rip currents to SoCal",
-			"url": "https://www.latimes.com/california/story/2026-07-27/hurricane-genevieve-heavy-surf",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-27T17:08:49.000Z"
+			"headline": "Coral reefs are dying. A new documentary profiles the people trying to save them",
+			"url": "https://journalism.berkeley.edu/qa-with-jason-spingarn-koff/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-28T19:51:05.000Z"
 		}
 	]
 }
