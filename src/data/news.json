@@ -1,8 +1,8 @@
 {
-	"lastUpdated": "2026-07-31T17:14:13.423Z",
+	"lastUpdated": "2026-07-31T20:49:22.440Z",
 	"items": [
 		{
-			"headline": "Trump administration releases long-awaited 10-year plan for dwindling Colorado River",
+			"headline": "Trump administration spares Southwest from harshest water cuts in new Colorado River plan",
 			"url": "https://www.latimes.com/environment/story/2026-07-31/trump-administration-colorado-river-plan",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-31T16:16:50.000Z"
@@ -24,6 +24,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-31T10:00:00.000Z"
+		},
+		{
+			"headline": "New microscope captures tiny details at unprecedented speeds",
+			"url": "https://engineering.berkeley.edu/news/2026/07/bringing-it-all-into-focus/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-31T17:47:18.000Z"
 		},
 		{
 			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
@@ -50,12 +56,6 @@
 			"publishedAt": "2026-07-30T18:00:00.000Z"
 		},
 		{
-			"headline": "How Scientists With Cancelled 'Woke' Grants Kept Going",
-			"url": "https://baynature.org/2026/07/30/latest-stories/how-scientists-with-cancelled-woke-grants-kept-going/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-30T13:00:00.000Z"
-		},
-		{
 			"headline": "SoCal has had 'so many heat waves,' but this next one is a doozy: What to know",
 			"url": "https://www.latimes.com/california/story/2026-07-30/socal-has-had-so-many-heat-waves-but-this-next-one-is-doozy",
 			"source": "Los Angeles Times",
@@ -74,16 +74,34 @@
 			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
 		{
+			"headline": "How Scientists With Cancelled 'Woke' Grants Kept Going",
+			"url": "https://baynature.org/2026/07/30/latest-stories/how-scientists-with-cancelled-woke-grants-kept-going/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-30T13:00:00.000Z"
+		},
+		{
 			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
 			"url": "https://www.latimes.com/environment/story/2026-07-29/jackie-big-bears-beloved-bald-eagle-moved-out-of-intensive-care-but-still-very-sick",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-29T23:11:12.000Z"
 		},
 		{
+			"headline": "Does misinformation on Facebook and Instagram change what you believe?",
+			"url": "https://ls.berkeley.edu/news/does-misinformation-facebook-and-instagram-change-what-you-believe",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-29T21:00:40.000Z"
+		},
+		{
 			"headline": "Ancient Stardust Were Seeds for the Earliest Solids in the Solar System",
 			"url": "https://www.caltech.edu/about/news/ancient-stardust-were-seeds-for-the-earliest-solids-in-the-solar-system",
 			"source": "Caltech",
 			"publishedAt": "2026-07-29T19:35:00.000Z"
+		},
+		{
+			"headline": "He calls it his duty. America calls this 16-year-old California lifeguard a hero",
+			"url": "https://www.latimes.com/california/story/2026-07-29/california-teen-lifeguard-rescue-captures-awe",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-29T18:43:17.000Z"
 		},
 		{
 			"headline": "Neptune's Inner Moons May Be Shattered Remains of Ancient Icy Worlds",
@@ -104,22 +122,10 @@
 			"publishedAt": "2026-07-29T16:52:08.000Z"
 		},
 		{
-			"headline": "UC Berkeley offers nearly 19,000 students admission to fall 2026 class",
-			"url": "https://news.berkeley.edu/2026/07/29/uc-berkeley-offers-nearly-19000-students-admission-to-fall-2026-class/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-29T16:00:00.000Z"
-		},
-		{
 			"headline": "mITRAR: Using AI to Orchestrate a Rapid Response to Wildfires",
 			"url": "https://www.caltech.edu/about/news/mitrar-using-ai-to-orchestrate-a-rapid-response-to-wildfires",
 			"source": "Caltech",
 			"publishedAt": "2026-07-29T14:30:15.474Z"
-		},
-		{
-			"headline": "UC accepts record number of Californians, but some select campuses out of reach for most",
-			"url": "https://www.latimes.com/california/story/2026-07-29/uc-fall-2026-admissions-rates-berkeley-ucla",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T14:00:00.000Z"
 		},
 		{
 			"headline": "Record-breaking El Niño could gut California's crab and salmon fleets",
@@ -138,12 +144,6 @@
 			"url": "https://www.latimes.com/california/story/2026-07-29/california-instant-rebates-new-used-electric-cars",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-29T10:00:00.000Z"
-		},
-		{
-			"headline": "Trump administration targeted California and other blue states for clean energy cuts",
-			"url": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T10:00:00.000Z"
 		},
 		{
 			"headline": "Magnitude 4.2 earthquake rattles Northern California",
