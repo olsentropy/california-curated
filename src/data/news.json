@@ -1,59 +1,29 @@
 {
-	"lastUpdated": "2026-07-30T20:52:37.874Z",
+	"lastUpdated": "2026-07-31T01:20:29.431Z",
 	"items": [
 		{
-			"headline": "North and South America weren't always connected, but their mammals still found a way to intermingle",
-			"url": "https://news.berkeley.edu/2026/07/30/north-and-south-america-werent-always-connected-but-their-mammals-still-found-a-way-to-intermingle/",
+			"headline": "Climate change increases wildfire risks in Yosemite and other national parks",
+			"url": "https://nature.berkeley.edu/news/climate-change-increases-wildfire-risks-yosemite-and-other-national-parks",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-30T18:00:00.000Z"
+			"publishedAt": "2026-07-29T16:52:08.000Z"
 		},
 		{
-			"headline": "New technique pinpoints human DNA inherited from 'ghost' ancestors",
-			"url": "https://news.berkeley.edu/2026/07/30/new-technique-pinpoints-human-dna-inherited-from-ghost-ancestors/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-30T18:00:00.000Z"
-		},
-		{
-			"headline": "How Scientists With Cancelled 'Woke' Grants Kept Going",
-			"url": "https://baynature.org/2026/07/30/latest-stories/how-scientists-with-cancelled-woke-grants-kept-going/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-30T13:00:00.000Z"
-		},
-		{
-			"headline": "SoCal has had 'so many heat waves,' but this next one is a doozy: What to know",
-			"url": "https://www.latimes.com/california/story/2026-07-30/socal-has-had-so-many-heat-waves-but-this-next-one-is-doozy",
+			"headline": "Record-breaking El Niño could gut California's crab and salmon fleets",
+			"url": "https://www.latimes.com/science/story/2026-07-29/record-breaking-el-nino-could-gut-californias-crab-salmon-fleets",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T11:00:00.000Z"
+			"publishedAt": "2026-07-29T10:00:00.000Z"
 		},
 		{
-			"headline": "Proposed ban of forever chemicals for California farms nixed by state lawmakers",
-			"url": "https://www.latimes.com/california/story/2026-07-30/forever-chemicals-ban-california-farms-assembly-bill",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T10:00:00.000Z"
-		},
-		{
-			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
-			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T10:00:00.000Z"
-		},
-		{
-			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
-			"url": "https://www.latimes.com/environment/story/2026-07-29/jackie-big-bears-beloved-bald-eagle-moved-out-of-intensive-care-but-still-very-sick",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T23:11:12.000Z"
-		},
-		{
-			"headline": "Does misinformation on Facebook and Instagram change what you believe?",
-			"url": "https://ls.berkeley.edu/news/does-misinformation-facebook-and-instagram-change-what-you-believe",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-29T21:00:40.000Z"
+			"headline": "mITRAR: Using AI to Orchestrate a Rapid Response to Wildfires",
+			"url": "https://www.caltech.edu/about/news/mitrar-using-ai-to-orchestrate-a-rapid-response-to-wildfires",
+			"source": "Caltech",
+			"publishedAt": "2026-07-29T14:30:15.474Z"
 		},
 		{
 			"headline": "Ancient Stardust Were Seeds for the Earliest Solids in the Solar System",
 			"url": "https://www.caltech.edu/about/news/ancient-stardust-were-seeds-for-the-earliest-solids-in-the-solar-system",
 			"source": "Caltech",
-			"publishedAt": "2026-07-29T19:35:35.876Z"
+			"publishedAt": "2026-07-29T19:35:00.000Z"
 		},
 		{
 			"headline": "Neptune's Inner Moons May Be Shattered Remains of Ancient Icy Worlds",
@@ -68,14 +38,32 @@
 			"publishedAt": "2026-07-29T17:35:52.000Z"
 		},
 		{
-			"headline": "Climate change increases wildfire risks in Yosemite and other national parks",
-			"url": "https://nature.berkeley.edu/news/climate-change-increases-wildfire-risks-yosemite-and-other-national-parks",
+			"headline": "North and South America weren't always connected, but their mammals still found a way to intermingle",
+			"url": "https://news.berkeley.edu/2026/07/30/north-and-south-america-werent-always-connected-but-their-mammals-still-found-a-way-to-intermingle/",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-29T16:52:08.000Z"
+			"publishedAt": "2026-07-30T18:00:00.000Z"
 		},
 		{
-			"headline": "Record-breaking El Niño could gut California's crab and salmon fleets",
-			"url": "https://www.latimes.com/science/story/2026-07-29/record-breaking-el-nino-could-gut-californias-crab-salmon-fleets",
+			"headline": "New technique pinpoints human DNA inherited from 'ghost' ancestors",
+			"url": "https://news.berkeley.edu/2026/07/30/new-technique-pinpoints-human-dna-inherited-from-ghost-ancestors/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-30T18:00:00.000Z"
+		},
+		{
+			"headline": "SoCal has had 'so many heat waves,' but this next one is a doozy: What to know",
+			"url": "https://www.latimes.com/california/story/2026-07-30/socal-has-had-so-many-heat-waves-but-this-next-one-is-doozy",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-30T11:00:00.000Z"
+		},
+		{
+			"headline": "Proposed ban of forever chemicals for California farms nixed by state lawmakers",
+			"url": "https://www.latimes.com/california/story/2026-07-30/forever-chemicals-ban-california-farms-assembly-bill",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-30T10:00:00.000Z"
+		},
+		{
+			"headline": "State regulators crack down on polluted runoff from L.A. shopping centers, warehouses",
+			"url": "https://www.latimes.com/environment/story/2026-07-29/la-polluted-runoff-regulation",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-29T10:00:00.000Z"
 		},
@@ -86,16 +74,10 @@
 			"publishedAt": "2026-07-29T10:00:00.000Z"
 		},
 		{
-			"headline": "State regulators crack down on polluted runoff from L.A. shopping centers, warehouses",
-			"url": "https://www.latimes.com/environment/story/2026-07-29/la-polluted-runoff-regulation",
+			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
+			"url": "https://www.latimes.com/environment/story/2026-07-29/jackie-big-bears-beloved-bald-eagle-moved-out-of-intensive-care-but-still-very-sick",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T10:00:00.000Z"
-		},
-		{
-			"headline": "mITRAR: Using AI to Orchestrate a Rapid Response to Wildfires",
-			"url": "https://www.caltech.edu/about/news/mitrar-using-ai-to-orchestrate-a-rapid-response-to-wildfires",
-			"source": "Caltech",
-			"publishedAt": "2026-07-29T14:30:15.474Z"
+			"publishedAt": "2026-07-29T23:11:12.000Z"
 		},
 		{
 			"headline": "Magnitude 4.2 earthquake rattles Northern California",
@@ -104,10 +86,16 @@
 			"publishedAt": "2026-07-29T03:07:13.000Z"
 		},
 		{
-			"headline": "Coral reefs are dying. A new documentary profiles the people trying to save them",
-			"url": "https://journalism.berkeley.edu/qa-with-jason-spingarn-koff/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-28T19:51:05.000Z"
+			"headline": "California redwoods gateway is returned to Indigenous tribe. 'That's healing our people too'",
+			"url": "https://www.latimes.com/california/story/2026-07-28/california-redwoods-gateway-is-returned-to-indigenous-tribe-thats-healing-our-people-too",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T11:00:00.000Z"
+		},
+		{
+			"headline": "Trump administration targeted California and other blue states for clean energy cuts",
+			"url": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T10:00:00.000Z"
 		},
 		{
 			"headline": "Three firefighters injured battling wildfire in San Bernardino Mountains",
@@ -134,22 +122,34 @@
 			"publishedAt": "2026-07-28T16:30:29.000Z"
 		},
 		{
-			"headline": "California redwoods gateway is returned to Indigenous tribe. 'That's healing our people too'",
-			"url": "https://www.latimes.com/california/story/2026-07-28/california-redwoods-gateway-is-returned-to-indigenous-tribe-thats-healing-our-people-too",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T11:00:00.000Z"
-		},
-		{
-			"headline": "Trump administration targeted California and other blue states for clean energy cuts",
-			"url": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T10:00:00.000Z"
-		},
-		{
 			"headline": "NSF Funding for Caltech-Led \"Cloud Laboratory\" Leverages AI to Explore Chemical Dark Matter: A Conversation with Hosea Nelson",
 			"url": "https://www.caltech.edu/about/news/nsf-funding-for-caltech-led-cloud-laboratory-leverages-ai-to-explore-chemical-dark-matter-a-conversation-with-hosea-nelson",
 			"source": "Caltech",
 			"publishedAt": "2026-07-27T13:41:06.865Z"
+		},
+		{
+			"headline": "Hurricane Genevieve to bring massive swells, life-threatening surf, rip currents to SoCal",
+			"url": "https://www.latimes.com/california/story/2026-07-27/hurricane-genevieve-heavy-surf",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-27T17:08:49.000Z"
+		},
+		{
+			"headline": "Dove fire burns near Yosemite, prompting evacuation orders in Sonora",
+			"url": "https://www.latimes.com/california/story/2026-07-26/dove-fire-burns-near-yosemite-prompting-evacuation-orders-in-sonora",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-27T05:23:03.000Z"
+		},
+		{
+			"headline": "Why a plan to filter bacteria from the Arroyo Seco is facing fierce opposition",
+			"url": "https://www.latimes.com/environment/story/2026-07-26/why-pasadena-residents-are-fighting-arroyo-seco-wetlands-plan",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-26T10:00:00.000Z"
+		},
+		{
+			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
+			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-30T23:05:31.000Z"
 		}
 	]
 }
