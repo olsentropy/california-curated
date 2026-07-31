@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-07-31T06:34:34.164Z",
+	"lastUpdated": "2026-07-31T10:24:08.052Z",
 	"items": [
+		{
+			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-31T10:00:00.000Z"
+		},
+		{
+			"headline": "California produced over half its May electricity from solar, a world record",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-31T10:00:00.000Z"
+		},
 		{
 			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
 			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
@@ -26,12 +38,6 @@
 			"publishedAt": "2026-07-30T18:00:00.000Z"
 		},
 		{
-			"headline": "How Water Flows Toward Cities During Hurricanes",
-			"url": "https://eos.org/research-spotlights/how-water-flows-toward-cities-during-hurricanes",
-			"source": "Eos",
-			"publishedAt": "2026-07-30T15:34:53.000Z"
-		},
-		{
 			"headline": "How Scientists With Cancelled 'Woke' Grants Kept Going",
 			"url": "https://baynature.org/2026/07/30/latest-stories/how-scientists-with-cancelled-woke-grants-kept-going/",
 			"source": "Bay Nature",
@@ -50,12 +56,6 @@
 			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
 		{
-			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
-			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T10:00:00.000Z"
-		},
-		{
 			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
 			"url": "https://www.latimes.com/environment/story/2026-07-29/jackie-big-bears-beloved-bald-eagle-moved-out-of-intensive-care-but-still-very-sick",
 			"source": "Los Angeles Times",
@@ -66,12 +66,6 @@
 			"url": "https://www.caltech.edu/about/news/ancient-stardust-were-seeds-for-the-earliest-solids-in-the-solar-system",
 			"source": "Caltech",
 			"publishedAt": "2026-07-29T19:35:00.000Z"
-		},
-		{
-			"headline": "Neptune's Inner Moons May Be Shattered Remains of Ancient Icy Worlds",
-			"url": "https://www.caltech.edu/about/news/neptunes-inner-moons-may-be-shattered-remains-of-ancient-icy-worlds",
-			"source": "Caltech",
-			"publishedAt": "2026-07-29T18:01:18.196Z"
 		},
 		{
 			"headline": "How climate change is redrawing the malaria map in Africa",
@@ -122,34 +116,40 @@
 			"publishedAt": "2026-07-29T10:00:00.000Z"
 		},
 		{
+			"headline": "Trump administration targeted California and other blue states for clean energy cuts",
+			"url": "https://www.latimes.com/environment/story/2026-07-28/trump-administration-targeted-california-other-blue-states-for-clean-energy-cuts",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T10:00:00.000Z"
+		},
+		{
+			"headline": "California redwoods gateway is returned to Indigenous tribe. 'That's healing our people too'",
+			"url": "https://www.latimes.com/california/story/2026-07-28/california-redwoods-gateway-is-returned-to-indigenous-tribe-thats-healing-our-people-too",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-28T11:00:00.000Z"
+		},
+		{
 			"headline": "Coral reefs are dying. A new documentary profiles the people trying to save them",
 			"url": "https://journalism.berkeley.edu/qa-with-jason-spingarn-koff/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-28T19:51:05.000Z"
 		},
 		{
-			"headline": "Three firefighters injured battling wildfire in San Bernardino Mountains",
-			"url": "https://www.latimes.com/california/story/2026-07-28/three-firefighters-injured-in-wildfire-in-san-bernadino-mountains",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T17:38:29.000Z"
-		},
-		{
-			"headline": "California lifeguards are rescuing thousands during high surf, heat waves this summer",
-			"url": "https://www.latimes.com/california/story/2026-07-28/california-lifeguard-rescues-summer",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T16:58:11.000Z"
-		},
-		{
-			"headline": "Abandoned West Hollywood construction site becomes 'coyote condo' with nighttime howls",
-			"url": "https://www.latimes.com/california/story/2026-07-28/west-hollywood-home-coyotes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T16:36:58.000Z"
-		},
-		{
 			"headline": "New scientific commentary highlights the importance of the Argo Program",
 			"url": "https://www.mbari.org/news/new-scientific-commentary-highlights-the-importance-of-the-argo-program/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-28T16:30:29.000Z"
+		},
+		{
+			"headline": "Magnitude 4.2 earthquake rattles Northern California",
+			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-29T03:07:13.000Z"
+		},
+		{
+			"headline": "Hurricane Genevieve to bring massive swells, life-threatening surf, rip currents to SoCal",
+			"url": "https://www.latimes.com/california/story/2026-07-27/hurricane-genevieve-heavy-surf",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-27T17:08:49.000Z"
 		}
 	]
 }
