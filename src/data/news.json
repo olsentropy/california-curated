@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-01T09:46:34.172Z",
+	"lastUpdated": "2026-08-01T12:45:31.090Z",
 	"items": [
+		{
+			"headline": "The percentage of homes surviving California wildfires is dropping, despite efforts to harden them",
+			"url": "https://www.latimes.com/environment/story/2026-08-01/percentage-homes-surviving-wildfires-dropping",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-01T10:00:00.000Z"
+		},
 		{
 			"headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
 			"url": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
@@ -38,34 +44,10 @@
 			"publishedAt": "2026-07-31T10:00:00.000Z"
 		},
 		{
-			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
-			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-30T23:05:31.000Z"
-		},
-		{
-			"headline": "Bay Area residents can move away to find more affordable homes. Beware the downside.",
-			"url": "https://capolicylab.org/news/new-report-finds-bay-area-residents-who-leave-are-more-likely-to-become-homeowners/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-30T22:07:14.000Z"
-		},
-		{
-			"headline": "North and South America weren't always connected, but their mammals still found a way to intermingle",
-			"url": "https://news.berkeley.edu/2026/07/30/north-and-south-america-werent-always-connected-but-their-mammals-still-found-a-way-to-intermingle/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-30T18:00:00.000Z"
-		},
-		{
-			"headline": "New technique pinpoints human DNA inherited from 'ghost' ancestors",
-			"url": "https://news.berkeley.edu/2026/07/30/new-technique-pinpoints-human-dna-inherited-from-ghost-ancestors/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-30T18:00:00.000Z"
-		},
-		{
-			"headline": "How Scientists With Cancelled 'Woke' Grants Kept Going",
-			"url": "https://baynature.org/2026/07/30/latest-stories/how-scientists-with-cancelled-woke-grants-kept-going/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-07-30T13:00:00.000Z"
+			"headline": "Pilot ejects before F-35 jet crash at U.S. Marine Corps' Miramar air base in San Diego",
+			"url": "https://www.latimes.com/california/story/2026-07-31/plane-crash-u-s-marine-corps-miramar-air-base-san-diego",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-31T18:15:26.000Z"
 		},
 		{
 			"headline": "SoCal has had 'so many heat waves,' but this next one is a doozy: What to know",
@@ -86,6 +68,36 @@
 			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
 		{
+			"headline": "North and South America weren't always connected, but their mammals still found a way to intermingle",
+			"url": "https://news.berkeley.edu/2026/07/30/north-and-south-america-werent-always-connected-but-their-mammals-still-found-a-way-to-intermingle/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-30T18:00:00.000Z"
+		},
+		{
+			"headline": "New technique pinpoints human DNA inherited from 'ghost' ancestors",
+			"url": "https://news.berkeley.edu/2026/07/30/new-technique-pinpoints-human-dna-inherited-from-ghost-ancestors/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-30T18:00:00.000Z"
+		},
+		{
+			"headline": "Bay Area residents can move away to find more affordable homes. Beware the downside.",
+			"url": "https://capolicylab.org/news/new-report-finds-bay-area-residents-who-leave-are-more-likely-to-become-homeowners/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-30T22:07:14.000Z"
+		},
+		{
+			"headline": "How Scientists With Cancelled 'Woke' Grants Kept Going",
+			"url": "https://baynature.org/2026/07/30/latest-stories/how-scientists-with-cancelled-woke-grants-kept-going/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-07-30T13:00:00.000Z"
+		},
+		{
+			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
+			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-30T23:05:31.000Z"
+		},
+		{
 			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
 			"url": "https://www.latimes.com/environment/story/2026-07-29/jackie-big-bears-beloved-bald-eagle-moved-out-of-intensive-care-but-still-very-sick",
 			"source": "Los Angeles Times",
@@ -98,10 +110,10 @@
 			"publishedAt": "2026-07-29T19:35:00.000Z"
 		},
 		{
-			"headline": "How climate change is redrawing the malaria map in Africa",
-			"url": "https://nature.berkeley.edu/news/climate-change-redrawing-malaria-map-africa",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-29T17:35:52.000Z"
+			"headline": "Neptune's Inner Moons May Be Shattered Remains of Ancient Icy Worlds",
+			"url": "https://www.caltech.edu/about/news/neptunes-inner-moons-may-be-shattered-remains-of-ancient-icy-worlds",
+			"source": "Caltech",
+			"publishedAt": "2026-07-29T18:01:18.196Z"
 		},
 		{
 			"headline": "Climate change increases wildfire risks in Yosemite and other national parks",
@@ -110,22 +122,10 @@
 			"publishedAt": "2026-07-29T16:52:08.000Z"
 		},
 		{
-			"headline": "UC Berkeley offers nearly 19,000 students admission to fall 2026 class",
-			"url": "https://news.berkeley.edu/2026/07/29/uc-berkeley-offers-nearly-19000-students-admission-to-fall-2026-class/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-29T16:00:00.000Z"
-		},
-		{
 			"headline": "mITRAR: Using AI to Orchestrate a Rapid Response to Wildfires",
 			"url": "https://www.caltech.edu/about/news/mitrar-using-ai-to-orchestrate-a-rapid-response-to-wildfires",
 			"source": "Caltech",
 			"publishedAt": "2026-07-29T14:30:15.474Z"
-		},
-		{
-			"headline": "UC accepts record number of Californians, but some select campuses out of reach for most",
-			"url": "https://www.latimes.com/california/story/2026-07-29/uc-fall-2026-admissions-rates-berkeley-ucla",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T14:00:00.000Z"
 		},
 		{
 			"headline": "Record-breaking El Niño could gut California's crab and salmon fleets",
