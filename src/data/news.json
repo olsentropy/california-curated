@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-02T12:47:21.842Z",
+	"lastUpdated": "2026-08-02T16:41:53.403Z",
 	"items": [
 		{
 			"headline": "Road, parking lot and restrooms at Point Dume Beach closed due to 'extreme erosion'",
@@ -44,14 +44,14 @@
 			"publishedAt": "2026-07-31T14:27:20.000Z"
 		},
 		{
-			"headline": "California produced over half its May electricity from solar, a world record",
-			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
+			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-31T10:00:00.000Z"
 		},
 		{
-			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
-			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
+			"headline": "California produced over half its May electricity from solar, a world record",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-31T10:00:00.000Z"
 		},
@@ -110,28 +110,28 @@
 			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
 		{
-			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
-			"url": "https://www.latimes.com/environment/story/2026-07-29/jackie-big-bears-beloved-bald-eagle-moved-out-of-intensive-care-but-still-very-sick",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T23:11:12.000Z"
-		},
-		{
 			"headline": "Does misinformation on Facebook and Instagram change what you believe?",
 			"url": "https://ls.berkeley.edu/news/does-misinformation-facebook-and-instagram-change-what-you-believe",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-29T21:00:40.000Z"
 		},
 		{
-			"headline": "Climate change increases wildfire risks in Yosemite and other national parks",
-			"url": "https://nature.berkeley.edu/news/climate-change-increases-wildfire-risks-yosemite-and-other-national-parks",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-29T16:52:08.000Z"
+			"headline": "Ancient Stardust Were Seeds for the Earliest Solids in the Solar System",
+			"url": "https://www.caltech.edu/about/news/ancient-stardust-were-seeds-for-the-earliest-solids-in-the-solar-system",
+			"source": "Caltech",
+			"publishedAt": "2026-07-29T19:35:00.000Z"
 		},
 		{
 			"headline": "How climate change is redrawing the malaria map in Africa",
 			"url": "https://nature.berkeley.edu/news/climate-change-redrawing-malaria-map-africa",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-29T17:35:52.000Z"
+		},
+		{
+			"headline": "Climate change increases wildfire risks in Yosemite and other national parks",
+			"url": "https://nature.berkeley.edu/news/climate-change-increases-wildfire-risks-yosemite-and-other-national-parks",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-29T16:52:08.000Z"
 		},
 		{
 			"headline": "mITRAR: Using AI to Orchestrate a Rapid Response to Wildfires",
