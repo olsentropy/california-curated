@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-02T06:24:14.641Z",
+	"lastUpdated": "2026-08-02T09:46:30.620Z",
 	"items": [
 		{
 			"headline": "Famed Big Bear eagle Jackie remains 'very sick' as malady remains a mystery",
@@ -8,16 +8,16 @@
 			"publishedAt": "2026-08-02T00:05:12.000Z"
 		},
 		{
-			"headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
-			"url": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-01T01:32:30.000Z"
-		},
-		{
 			"headline": "The percentage of homes surviving California wildfires is dropping, despite efforts to harden them",
 			"url": "https://www.latimes.com/environment/story/2026-08-01/percentage-homes-surviving-wildfires-dropping",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-01T10:00:00.000Z"
+		},
+		{
+			"headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
+			"url": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-01T01:32:30.000Z"
 		},
 		{
 			"headline": "New microscope captures tiny details at unprecedented speeds",
@@ -32,14 +32,14 @@
 			"publishedAt": "2026-07-31T16:16:50.000Z"
 		},
 		{
-			"headline": "California produced over half its May electricity from solar, a world record",
-			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
+			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-31T10:00:00.000Z"
 		},
 		{
-			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
-			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
+			"headline": "California produced over half its May electricity from solar, a world record",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-31T10:00:00.000Z"
 		},
@@ -50,16 +50,16 @@
 			"publishedAt": "2026-07-31T18:15:26.000Z"
 		},
 		{
-			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
-			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-30T23:05:31.000Z"
-		},
-		{
 			"headline": "Bay Area residents can move away to find more affordable homes. Beware the downside.",
 			"url": "https://capolicylab.org/news/new-report-finds-bay-area-residents-who-leave-are-more-likely-to-become-homeowners/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-30T22:07:14.000Z"
+		},
+		{
+			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
+			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-30T23:05:31.000Z"
 		},
 		{
 			"headline": "North and South America weren't always connected, but their mammals still found a way to intermingle",
@@ -98,6 +98,18 @@
 			"publishedAt": "2026-07-29T23:11:12.000Z"
 		},
 		{
+			"headline": "Ancient Stardust Were Seeds for the Earliest Solids in the Solar System",
+			"url": "https://www.caltech.edu/about/news/ancient-stardust-were-seeds-for-the-earliest-solids-in-the-solar-system",
+			"source": "Caltech",
+			"publishedAt": "2026-07-29T19:35:00.000Z"
+		},
+		{
+			"headline": "Neptune's Inner Moons May Be Shattered Remains of Ancient Icy Worlds",
+			"url": "https://www.caltech.edu/about/news/neptunes-inner-moons-may-be-shattered-remains-of-ancient-icy-worlds",
+			"source": "Caltech",
+			"publishedAt": "2026-07-29T18:01:18.196Z"
+		},
+		{
 			"headline": "How climate change is redrawing the malaria map in Africa",
 			"url": "https://nature.berkeley.edu/news/climate-change-redrawing-malaria-map-africa",
 			"source": "UC Berkeley News",
@@ -134,22 +146,10 @@
 			"publishedAt": "2026-07-29T10:00:00.000Z"
 		},
 		{
-			"headline": "Coral reefs are dying. A new documentary profiles the people trying to save them",
-			"url": "https://journalism.berkeley.edu/qa-with-jason-spingarn-koff/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-28T19:51:05.000Z"
-		},
-		{
-			"headline": "California lifeguards are rescuing thousands during high surf, heat waves this summer",
-			"url": "https://www.latimes.com/california/story/2026-07-28/california-lifeguard-rescues-summer",
+			"headline": "Magnitude 4.2 earthquake rattles Northern California",
+			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-28T16:58:11.000Z"
-		},
-		{
-			"headline": "New scientific commentary highlights the importance of the Argo Program",
-			"url": "https://www.mbari.org/news/new-scientific-commentary-highlights-the-importance-of-the-argo-program/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-28T16:30:29.000Z"
+			"publishedAt": "2026-07-29T03:07:13.000Z"
 		}
 	]
 }
