@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-02T09:46:30.620Z",
+	"lastUpdated": "2026-08-02T12:47:21.842Z",
 	"items": [
+		{
+			"headline": "Road, parking lot and restrooms at Point Dume Beach closed due to 'extreme erosion'",
+			"url": "https://www.latimes.com/california/story/2026-08-02/point-dume-beach-westward-road-parking-lot-restrooms-closed-extreme-erosion",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-02T10:00:00.000Z"
+		},
 		{
 			"headline": "Famed Big Bear eagle Jackie remains 'very sick' as malady remains a mystery",
 			"url": "https://www.latimes.com/california/story/2026-08-01/big-bear-eagle-jackie-remains-very-sick-as-illness-remains-mystery",
@@ -32,14 +38,20 @@
 			"publishedAt": "2026-07-31T16:16:50.000Z"
 		},
 		{
-			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
-			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
+			"headline": "Worst of brutal SoCal heat wave is here: How long will it last? How bad will it be?",
+			"url": "https://www.latimes.com/california/story/2026-07-31/la-me-heat-wave-timeline",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T10:00:00.000Z"
+			"publishedAt": "2026-07-31T14:27:20.000Z"
 		},
 		{
 			"headline": "California produced over half its May electricity from solar, a world record",
 			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-31T10:00:00.000Z"
+		},
+		{
+			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-31T10:00:00.000Z"
 		},
@@ -50,16 +62,16 @@
 			"publishedAt": "2026-07-31T18:15:26.000Z"
 		},
 		{
-			"headline": "Bay Area residents can move away to find more affordable homes. Beware the downside.",
-			"url": "https://capolicylab.org/news/new-report-finds-bay-area-residents-who-leave-are-more-likely-to-become-homeowners/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-30T22:07:14.000Z"
-		},
-		{
 			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
 			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
 			"source": "MBARI",
 			"publishedAt": "2026-07-30T23:05:31.000Z"
+		},
+		{
+			"headline": "Bay Area residents can move away to find more affordable homes. Beware the downside.",
+			"url": "https://capolicylab.org/news/new-report-finds-bay-area-residents-who-leave-are-more-likely-to-become-homeowners/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-30T22:07:14.000Z"
 		},
 		{
 			"headline": "North and South America weren't always connected, but their mammals still found a way to intermingle",
@@ -80,14 +92,20 @@
 			"publishedAt": "2026-07-30T13:00:00.000Z"
 		},
 		{
-			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
-			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
+			"headline": "SoCal has had 'so many heat waves,' but this next one is a doozy: What to know",
+			"url": "https://www.latimes.com/california/story/2026-07-30/socal-has-had-so-many-heat-waves-but-this-next-one-is-doozy",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T10:00:00.000Z"
+			"publishedAt": "2026-07-30T11:00:00.000Z"
 		},
 		{
 			"headline": "Proposed ban of forever chemicals for California farms nixed by state lawmakers",
 			"url": "https://www.latimes.com/california/story/2026-07-30/forever-chemicals-ban-california-farms-assembly-bill",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-30T10:00:00.000Z"
+		},
+		{
+			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
+			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
@@ -98,28 +116,22 @@
 			"publishedAt": "2026-07-29T23:11:12.000Z"
 		},
 		{
-			"headline": "Ancient Stardust Were Seeds for the Earliest Solids in the Solar System",
-			"url": "https://www.caltech.edu/about/news/ancient-stardust-were-seeds-for-the-earliest-solids-in-the-solar-system",
-			"source": "Caltech",
-			"publishedAt": "2026-07-29T19:35:00.000Z"
-		},
-		{
-			"headline": "Neptune's Inner Moons May Be Shattered Remains of Ancient Icy Worlds",
-			"url": "https://www.caltech.edu/about/news/neptunes-inner-moons-may-be-shattered-remains-of-ancient-icy-worlds",
-			"source": "Caltech",
-			"publishedAt": "2026-07-29T18:01:18.196Z"
-		},
-		{
-			"headline": "How climate change is redrawing the malaria map in Africa",
-			"url": "https://nature.berkeley.edu/news/climate-change-redrawing-malaria-map-africa",
+			"headline": "Does misinformation on Facebook and Instagram change what you believe?",
+			"url": "https://ls.berkeley.edu/news/does-misinformation-facebook-and-instagram-change-what-you-believe",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-29T17:35:52.000Z"
+			"publishedAt": "2026-07-29T21:00:40.000Z"
 		},
 		{
 			"headline": "Climate change increases wildfire risks in Yosemite and other national parks",
 			"url": "https://nature.berkeley.edu/news/climate-change-increases-wildfire-risks-yosemite-and-other-national-parks",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-29T16:52:08.000Z"
+		},
+		{
+			"headline": "How climate change is redrawing the malaria map in Africa",
+			"url": "https://nature.berkeley.edu/news/climate-change-redrawing-malaria-map-africa",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-29T17:35:52.000Z"
 		},
 		{
 			"headline": "mITRAR: Using AI to Orchestrate a Rapid Response to Wildfires",
@@ -138,18 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-07-29/california-instant-rebates-new-used-electric-cars",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-29T10:00:00.000Z"
-		},
-		{
-			"headline": "State regulators crack down on polluted runoff from L.A. shopping centers, warehouses",
-			"url": "https://www.latimes.com/environment/story/2026-07-29/la-polluted-runoff-regulation",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T10:00:00.000Z"
-		},
-		{
-			"headline": "Magnitude 4.2 earthquake rattles Northern California",
-			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T03:07:13.000Z"
 		}
 	]
 }
