@@ -1,65 +1,11 @@
 {
-	"lastUpdated": "2026-08-03T14:07:24.307Z",
+	"lastUpdated": "2026-08-03T17:31:08.073Z",
 	"items": [
-		{
-			"headline": "Marmots got money troubles: Cuts to UCLA research lead scientists to OnlyFans",
-			"url": "https://www.latimes.com/california/story/2026-08-03/ucla-scientists-onlyfans-marmot-research",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-03T10:00:00.000Z"
-		},
 		{
 			"headline": "New microscope captures tiny details at unprecedented speeds",
 			"url": "https://engineering.berkeley.edu/news/2026/07/bringing-it-all-into-focus/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-31T17:47:18.000Z"
-		},
-		{
-			"headline": "Pilot ejects before F-35 jet crash at U.S. Marine Corps' Miramar air base in San Diego",
-			"url": "https://www.latimes.com/california/story/2026-07-31/plane-crash-u-s-marine-corps-miramar-air-base-san-diego",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T18:15:26.000Z"
-		},
-		{
-			"headline": "Trump administration spares Southwest from harshest water cuts in new Colorado River plan",
-			"url": "https://www.latimes.com/environment/story/2026-07-31/trump-administration-colorado-river-plan",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T16:16:50.000Z"
-		},
-		{
-			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
-			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T10:00:00.000Z"
-		},
-		{
-			"headline": "California produced over half its May electricity from solar, a world record",
-			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T10:00:00.000Z"
-		},
-		{
-			"headline": "Proposed ban of forever chemicals for California farms nixed by state lawmakers",
-			"url": "https://www.latimes.com/california/story/2026-07-30/forever-chemicals-ban-california-farms-assembly-bill",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T10:00:00.000Z"
-		},
-		{
-			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
-			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T10:00:00.000Z"
-		},
-		{
-			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
-			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-30T23:05:31.000Z"
-		},
-		{
-			"headline": "Bay Area residents can move away to find more affordable homes. Beware the downside.",
-			"url": "https://capolicylab.org/news/new-report-finds-bay-area-residents-who-leave-are-more-likely-to-become-homeowners/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-30T22:07:14.000Z"
 		},
 		{
 			"headline": "North and South America weren't always connected, but their mammals still found a way to intermingle",
@@ -80,10 +26,16 @@
 			"publishedAt": "2026-07-30T13:00:00.000Z"
 		},
 		{
-			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
-			"url": "https://www.latimes.com/environment/story/2026-07-29/jackie-big-bears-beloved-bald-eagle-moved-out-of-intensive-care-but-still-very-sick",
+			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
+			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T23:11:12.000Z"
+			"publishedAt": "2026-07-30T10:00:00.000Z"
+		},
+		{
+			"headline": "Does misinformation on Facebook and Instagram change what you believe?",
+			"url": "https://ls.berkeley.edu/news/does-misinformation-facebook-and-instagram-change-what-you-believe",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-29T21:00:40.000Z"
 		},
 		{
 			"headline": "Ancient Stardust Were Seeds for the Earliest Solids in the Solar System",
@@ -122,16 +74,28 @@
 			"publishedAt": "2026-07-29T10:00:00.000Z"
 		},
 		{
-			"headline": "California hopes to lure a new generation to electric cars, with help from rebates, high gas prices",
-			"url": "https://www.latimes.com/california/story/2026-07-29/california-instant-rebates-new-used-electric-cars",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T10:00:00.000Z"
-		},
-		{
 			"headline": "State regulators crack down on polluted runoff from L.A. shopping centers, warehouses",
 			"url": "https://www.latimes.com/environment/story/2026-07-29/la-polluted-runoff-regulation",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-29T10:00:00.000Z"
+		},
+		{
+			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-31T10:00:00.000Z"
+		},
+		{
+			"headline": "California produced over half its May electricity from solar, a world record",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-31T10:00:00.000Z"
+		},
+		{
+			"headline": "Trump administration spares Southwest from harshest water cuts in new Colorado River plan",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/trump-administration-colorado-river-plan",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-31T16:16:50.000Z"
 		},
 		{
 			"headline": "The percentage of homes surviving California wildfires is dropping, despite efforts to harden them",
@@ -146,10 +110,34 @@
 			"publishedAt": "2026-08-02T10:00:00.000Z"
 		},
 		{
+			"headline": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane",
+			"url": "https://www.latimes.com/california/story/2026-08-01/western-us-heatwave-record-temps-wildfire-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-02T00:38:08.000Z"
+		},
+		{
+			"headline": "Famed Big Bear eagle Jackie remains 'very sick' as malady remains a mystery",
+			"url": "https://www.latimes.com/california/story/2026-08-01/big-bear-eagle-jackie-remains-very-sick-as-illness-remains-mystery",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-02T00:05:12.000Z"
+		},
+		{
 			"headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
 			"url": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-01T01:32:30.000Z"
+		},
+		{
+			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
+			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-30T23:05:31.000Z"
+		},
+		{
+			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
+			"url": "https://www.latimes.com/environment/story/2026-07-29/jackie-big-bears-beloved-bald-eagle-moved-out-of-intensive-care-but-still-very-sick",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-29T23:11:12.000Z"
 		}
 	]
 }
