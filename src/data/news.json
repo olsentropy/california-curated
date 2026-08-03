@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-03T11:01:09.378Z",
+	"lastUpdated": "2026-08-03T14:07:24.307Z",
 	"items": [
 		{
 			"headline": "Marmots got money troubles: Cuts to UCLA research lead scientists to OnlyFans",
@@ -38,28 +38,16 @@
 			"publishedAt": "2026-07-31T10:00:00.000Z"
 		},
 		{
-			"headline": "High surf and severe erosion trigger Point Dume closures and Long Beach surge warnings",
-			"url": "https://www.latimes.com/california/story/2026-08-02/point-dume-beach-westward-road-parking-lot-restrooms-closed-extreme-erosion",
+			"headline": "Proposed ban of forever chemicals for California farms nixed by state lawmakers",
+			"url": "https://www.latimes.com/california/story/2026-07-30/forever-chemicals-ban-california-farms-assembly-bill",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-02T10:00:00.000Z"
+			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
 		{
-			"headline": "Famed Big Bear eagle Jackie remains 'very sick' as malady remains a mystery",
-			"url": "https://www.latimes.com/california/story/2026-08-01/big-bear-eagle-jackie-remains-very-sick-as-illness-remains-mystery",
+			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
+			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-02T00:05:12.000Z"
-		},
-		{
-			"headline": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane",
-			"url": "https://www.latimes.com/california/story/2026-08-01/western-us-heatwave-record-temps-wildfire-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-02T00:38:08.000Z"
-		},
-		{
-			"headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
-			"url": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-01T01:32:30.000Z"
+			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
 		{
 			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
@@ -92,40 +80,10 @@
 			"publishedAt": "2026-07-30T13:00:00.000Z"
 		},
 		{
-			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
-			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T10:00:00.000Z"
-		},
-		{
-			"headline": "Proposed ban of forever chemicals for California farms nixed by state lawmakers",
-			"url": "https://www.latimes.com/california/story/2026-07-30/forever-chemicals-ban-california-farms-assembly-bill",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T10:00:00.000Z"
-		},
-		{
 			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
 			"url": "https://www.latimes.com/environment/story/2026-07-29/jackie-big-bears-beloved-bald-eagle-moved-out-of-intensive-care-but-still-very-sick",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-29T23:11:12.000Z"
-		},
-		{
-			"headline": "Climate change increases wildfire risks in Yosemite and other national parks",
-			"url": "https://nature.berkeley.edu/news/climate-change-increases-wildfire-risks-yosemite-and-other-national-parks",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-29T16:52:08.000Z"
-		},
-		{
-			"headline": "How climate change is redrawing the malaria map in Africa",
-			"url": "https://nature.berkeley.edu/news/climate-change-redrawing-malaria-map-africa",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-29T17:35:52.000Z"
-		},
-		{
-			"headline": "mITRAR: Using AI to Orchestrate a Rapid Response to Wildfires",
-			"url": "https://www.caltech.edu/about/news/mitrar-using-ai-to-orchestrate-a-rapid-response-to-wildfires",
-			"source": "Caltech",
-			"publishedAt": "2026-07-29T14:30:15.474Z"
 		},
 		{
 			"headline": "Ancient Stardust Were Seeds for the Earliest Solids in the Solar System",
@@ -140,16 +98,58 @@
 			"publishedAt": "2026-07-29T18:01:18.196Z"
 		},
 		{
+			"headline": "How climate change is redrawing the malaria map in Africa",
+			"url": "https://nature.berkeley.edu/news/climate-change-redrawing-malaria-map-africa",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-29T17:35:52.000Z"
+		},
+		{
+			"headline": "Climate change increases wildfire risks in Yosemite and other national parks",
+			"url": "https://nature.berkeley.edu/news/climate-change-increases-wildfire-risks-yosemite-and-other-national-parks",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-29T16:52:08.000Z"
+		},
+		{
+			"headline": "mITRAR: Using AI to Orchestrate a Rapid Response to Wildfires",
+			"url": "https://www.caltech.edu/about/news/mitrar-using-ai-to-orchestrate-a-rapid-response-to-wildfires",
+			"source": "Caltech",
+			"publishedAt": "2026-07-29T14:30:15.474Z"
+		},
+		{
 			"headline": "Record-breaking El Niño could gut California's crab and salmon fleets",
 			"url": "https://www.latimes.com/science/story/2026-07-29/record-breaking-el-nino-could-gut-californias-crab-salmon-fleets",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-29T10:00:00.000Z"
 		},
 		{
-			"headline": "Magnitude 4.2 earthquake rattles Northern California",
-			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
+			"headline": "California hopes to lure a new generation to electric cars, with help from rebates, high gas prices",
+			"url": "https://www.latimes.com/california/story/2026-07-29/california-instant-rebates-new-used-electric-cars",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T03:07:13.000Z"
+			"publishedAt": "2026-07-29T10:00:00.000Z"
+		},
+		{
+			"headline": "State regulators crack down on polluted runoff from L.A. shopping centers, warehouses",
+			"url": "https://www.latimes.com/environment/story/2026-07-29/la-polluted-runoff-regulation",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-29T10:00:00.000Z"
+		},
+		{
+			"headline": "The percentage of homes surviving California wildfires is dropping, despite efforts to harden them",
+			"url": "https://www.latimes.com/environment/story/2026-08-01/percentage-homes-surviving-wildfires-dropping",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-01T10:00:00.000Z"
+		},
+		{
+			"headline": "High surf and severe erosion trigger Point Dume closures and Long Beach surge warnings",
+			"url": "https://www.latimes.com/california/story/2026-08-02/point-dume-beach-westward-road-parking-lot-restrooms-closed-extreme-erosion",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-02T10:00:00.000Z"
+		},
+		{
+			"headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
+			"url": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-01T01:32:30.000Z"
 		}
 	]
 }
