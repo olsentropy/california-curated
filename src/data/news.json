@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-02T20:39:45.709Z",
+	"lastUpdated": "2026-08-03T01:20:16.058Z",
 	"items": [
 		{
 			"headline": "High surf and severe erosion trigger Point Dume closures and Long Beach surge warnings",
@@ -24,6 +24,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-01/percentage-homes-surviving-wildfires-dropping",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-01T10:00:00.000Z"
+		},
+		{
+			"headline": "Pilot ejects before F-35 jet crash at U.S. Marine Corps' Miramar air base in San Diego",
+			"url": "https://www.latimes.com/california/story/2026-07-31/plane-crash-u-s-marine-corps-miramar-air-base-san-diego",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-31T18:15:26.000Z"
 		},
 		{
 			"headline": "New microscope captures tiny details at unprecedented speeds",
@@ -56,12 +62,6 @@
 			"publishedAt": "2026-07-31T10:00:00.000Z"
 		},
 		{
-			"headline": "Pilot ejects before F-35 jet crash at U.S. Marine Corps' Miramar air base in San Diego",
-			"url": "https://www.latimes.com/california/story/2026-07-31/plane-crash-u-s-marine-corps-miramar-air-base-san-diego",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T18:15:26.000Z"
-		},
-		{
 			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
 			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
 			"source": "MBARI",
@@ -92,10 +92,10 @@
 			"publishedAt": "2026-07-30T13:00:00.000Z"
 		},
 		{
-			"headline": "SoCal has had 'so many heat waves,' but this next one is a doozy: What to know",
-			"url": "https://www.latimes.com/california/story/2026-07-30/socal-has-had-so-many-heat-waves-but-this-next-one-is-doozy",
+			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
+			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T11:00:00.000Z"
+			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
 		{
 			"headline": "Proposed ban of forever chemicals for California farms nixed by state lawmakers",
@@ -104,10 +104,10 @@
 			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
 		{
-			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
-			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
+			"headline": "SoCal has had 'so many heat waves,' but this next one is a doozy: What to know",
+			"url": "https://www.latimes.com/california/story/2026-07-30/socal-has-had-so-many-heat-waves-but-this-next-one-is-doozy",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T10:00:00.000Z"
+			"publishedAt": "2026-07-30T11:00:00.000Z"
 		},
 		{
 			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
@@ -120,12 +120,6 @@
 			"url": "https://nature.berkeley.edu/news/climate-change-increases-wildfire-risks-yosemite-and-other-national-parks",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-07-29T16:52:08.000Z"
-		},
-		{
-			"headline": "UC Berkeley offers nearly 19,000 students admission to fall 2026 class",
-			"url": "https://news.berkeley.edu/2026/07/29/uc-berkeley-offers-nearly-19000-students-admission-to-fall-2026-class/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-29T16:00:00.000Z"
 		},
 		{
 			"headline": "mITRAR: Using AI to Orchestrate a Rapid Response to Wildfires",
@@ -150,6 +144,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-07-29/la-polluted-runoff-regulation",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-29T10:00:00.000Z"
+		},
+		{
+			"headline": "Magnitude 4.2 earthquake rattles Northern California",
+			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-29T03:07:13.000Z"
 		}
 	]
 }
