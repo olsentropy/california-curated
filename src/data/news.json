@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-03T01:20:16.058Z",
+	"lastUpdated": "2026-08-03T06:55:09.123Z",
 	"items": [
+		{
+			"headline": "Magnitude 2.6 earthquake jars Hawthorne, surrounding communities",
+			"url": "https://www.latimes.com/california/story/2026-08-02/magnitude-2-6-earthquake-rattles-south-bay",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-03T04:04:42.000Z"
+		},
 		{
 			"headline": "High surf and severe erosion trigger Point Dume closures and Long Beach surge warnings",
 			"url": "https://www.latimes.com/california/story/2026-08-02/point-dume-beach-westward-road-parking-lot-restrooms-closed-extreme-erosion",
@@ -14,22 +20,16 @@
 			"publishedAt": "2026-08-02T00:05:12.000Z"
 		},
 		{
-			"headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
-			"url": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-01T01:32:30.000Z"
-		},
-		{
 			"headline": "The percentage of homes surviving California wildfires is dropping, despite efforts to harden them",
 			"url": "https://www.latimes.com/environment/story/2026-08-01/percentage-homes-surviving-wildfires-dropping",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-01T10:00:00.000Z"
 		},
 		{
-			"headline": "Pilot ejects before F-35 jet crash at U.S. Marine Corps' Miramar air base in San Diego",
-			"url": "https://www.latimes.com/california/story/2026-07-31/plane-crash-u-s-marine-corps-miramar-air-base-san-diego",
+			"headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
+			"url": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T18:15:26.000Z"
+			"publishedAt": "2026-08-01T01:32:30.000Z"
 		},
 		{
 			"headline": "New microscope captures tiny details at unprecedented speeds",
@@ -50,28 +50,22 @@
 			"publishedAt": "2026-07-31T14:27:20.000Z"
 		},
 		{
-			"headline": "California produced over half its May electricity from solar, a world record",
-			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T10:00:00.000Z"
-		},
-		{
 			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
 			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-07-31T10:00:00.000Z"
 		},
 		{
-			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
-			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-30T23:05:31.000Z"
+			"headline": "California produced over half its May electricity from solar, a world record",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-31T10:00:00.000Z"
 		},
 		{
-			"headline": "Bay Area residents can move away to find more affordable homes. Beware the downside.",
-			"url": "https://capolicylab.org/news/new-report-finds-bay-area-residents-who-leave-are-more-likely-to-become-homeowners/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-30T22:07:14.000Z"
+			"headline": "Pilot ejects before F-35 jet crash at U.S. Marine Corps' Miramar air base in San Diego",
+			"url": "https://www.latimes.com/california/story/2026-07-31/plane-crash-u-s-marine-corps-miramar-air-base-san-diego",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-07-31T18:15:26.000Z"
 		},
 		{
 			"headline": "North and South America weren't always connected, but their mammals still found a way to intermingle",
@@ -86,16 +80,22 @@
 			"publishedAt": "2026-07-30T18:00:00.000Z"
 		},
 		{
+			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
+			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
+			"source": "MBARI",
+			"publishedAt": "2026-07-30T23:05:31.000Z"
+		},
+		{
+			"headline": "Bay Area residents can move away to find more affordable homes. Beware the downside.",
+			"url": "https://capolicylab.org/news/new-report-finds-bay-area-residents-who-leave-are-more-likely-to-become-homeowners/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-30T22:07:14.000Z"
+		},
+		{
 			"headline": "How Scientists With Cancelled 'Woke' Grants Kept Going",
 			"url": "https://baynature.org/2026/07/30/latest-stories/how-scientists-with-cancelled-woke-grants-kept-going/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-07-30T13:00:00.000Z"
-		},
-		{
-			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
-			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
 		{
 			"headline": "Proposed ban of forever chemicals for California farms nixed by state lawmakers",
@@ -104,16 +104,22 @@
 			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
 		{
-			"headline": "SoCal has had 'so many heat waves,' but this next one is a doozy: What to know",
-			"url": "https://www.latimes.com/california/story/2026-07-30/socal-has-had-so-many-heat-waves-but-this-next-one-is-doozy",
+			"headline": "Pushing brains over brawn at academic boot camp for veterans at Caltech",
+			"url": "https://www.latimes.com/california/story/2026-07-30/caltech-warrior-scholar-project-veterans-academic-boot-camp",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-30T11:00:00.000Z"
+			"publishedAt": "2026-07-30T10:00:00.000Z"
 		},
 		{
-			"headline": "Big Bear bald eagle Jackie leaves intensive care but remains 'very sick'",
-			"url": "https://www.latimes.com/environment/story/2026-07-29/jackie-big-bears-beloved-bald-eagle-moved-out-of-intensive-care-but-still-very-sick",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T23:11:12.000Z"
+			"headline": "Does misinformation on Facebook and Instagram change what you believe?",
+			"url": "https://ls.berkeley.edu/news/does-misinformation-facebook-and-instagram-change-what-you-believe",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-29T21:00:40.000Z"
+		},
+		{
+			"headline": "Ancient Stardust Were Seeds for the Earliest Solids in the Solar System",
+			"url": "https://www.caltech.edu/about/news/ancient-stardust-were-seeds-for-the-earliest-solids-in-the-solar-system",
+			"source": "Caltech",
+			"publishedAt": "2026-07-29T19:35:00.000Z"
 		},
 		{
 			"headline": "Climate change increases wildfire risks in Yosemite and other national parks",
@@ -122,34 +128,28 @@
 			"publishedAt": "2026-07-29T16:52:08.000Z"
 		},
 		{
+			"headline": "Neptune's Inner Moons May Be Shattered Remains of Ancient Icy Worlds",
+			"url": "https://www.caltech.edu/about/news/neptunes-inner-moons-may-be-shattered-remains-of-ancient-icy-worlds",
+			"source": "Caltech",
+			"publishedAt": "2026-07-29T18:01:18.196Z"
+		},
+		{
+			"headline": "How climate change is redrawing the malaria map in Africa",
+			"url": "https://nature.berkeley.edu/news/climate-change-redrawing-malaria-map-africa",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-29T17:35:52.000Z"
+		},
+		{
+			"headline": "UC Berkeley offers nearly 19,000 students admission to fall 2026 class",
+			"url": "https://news.berkeley.edu/2026/07/29/uc-berkeley-offers-nearly-19000-students-admission-to-fall-2026-class/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-07-29T16:00:00.000Z"
+		},
+		{
 			"headline": "mITRAR: Using AI to Orchestrate a Rapid Response to Wildfires",
 			"url": "https://www.caltech.edu/about/news/mitrar-using-ai-to-orchestrate-a-rapid-response-to-wildfires",
 			"source": "Caltech",
 			"publishedAt": "2026-07-29T14:30:15.474Z"
-		},
-		{
-			"headline": "Record-breaking El Niño could gut California's crab and salmon fleets",
-			"url": "https://www.latimes.com/science/story/2026-07-29/record-breaking-el-nino-could-gut-californias-crab-salmon-fleets",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T10:00:00.000Z"
-		},
-		{
-			"headline": "California hopes to lure a new generation to electric cars, with help from rebates, high gas prices",
-			"url": "https://www.latimes.com/california/story/2026-07-29/california-instant-rebates-new-used-electric-cars",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T10:00:00.000Z"
-		},
-		{
-			"headline": "State regulators crack down on polluted runoff from L.A. shopping centers, warehouses",
-			"url": "https://www.latimes.com/environment/story/2026-07-29/la-polluted-runoff-regulation",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T10:00:00.000Z"
-		},
-		{
-			"headline": "Magnitude 4.2 earthquake rattles Northern California",
-			"url": "https://www.latimes.com/california/story/2026-07-28/magnitude-4-2-earthquake-northern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-29T03:07:13.000Z"
 		}
 	]
 }
