@@ -1,17 +1,35 @@
 {
-	"lastUpdated": "2026-08-05T17:15:25.102Z",
+	"lastUpdated": "2026-08-05T20:51:46.488Z",
 	"items": [
 		{
-			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
-			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
+			"headline": "Discarded SpaceX rocket crashes into moon",
+			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-04T18:33:55.000Z"
+			"publishedAt": "2026-08-05T17:18:51.000Z"
+		},
+		{
+			"headline": "As AI reshapes academic research, the UC Berkeley Library puts emerging tools to the test",
+			"url": "https://www.lib.berkeley.edu/about/news/ai-initiatives",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-05T18:48:26.000Z"
+		},
+		{
+			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
+			"url": "https://www.latimes.com/business/story/2026-08-05/utilities-threaten-action-if-lawmakers-fail-to-cut-their-wildfire-liability-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T10:00:00.000Z"
 		},
 		{
 			"headline": "MBARI researchers use innovative technology to map California's famous Octopus Garden",
 			"url": "https://www.mbari.org/news/mbari-researchers-use-innovative-technology-to-map-californias-famous-octopus-garden/",
 			"source": "MBARI",
 			"publishedAt": "2026-08-03T19:30:27.000Z"
+		},
+		{
+			"headline": "It takes a village to explore the deep",
+			"url": "https://www.mbari.org/news/it-takes-a-village-to-explore-the-deep/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-03T21:00:33.000Z"
 		},
 		{
 			"headline": "How worried should you be about West Nile virus?",
@@ -26,22 +44,28 @@
 			"publishedAt": "2026-08-03T17:51:14.000Z"
 		},
 		{
-			"headline": "It takes a village to explore the deep",
-			"url": "https://www.mbari.org/news/it-takes-a-village-to-explore-the-deep/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-03T21:00:33.000Z"
-		},
-		{
 			"headline": "Marmots got money troubles: Cuts to UCLA research lead scientists to OnlyFans",
 			"url": "https://www.latimes.com/california/story/2026-08-03/ucla-scientists-onlyfans-marmot-research",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-03T10:00:00.000Z"
 		},
 		{
-			"headline": "Hundreds of homes destroyed: Spokane's horrific wildfires could be preview for California",
-			"url": "https://www.latimes.com/california/story/2026-08-03/california-firefighters-help-battle-raging-washington-wildfires",
+			"headline": "Magnitude 2.6 earthquake jars Hawthorne, surrounding communities",
+			"url": "https://www.latimes.com/california/story/2026-08-02/magnitude-2-6-earthquake-rattles-south-bay",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-04T02:01:24.000Z"
+			"publishedAt": "2026-08-03T04:04:42.000Z"
+		},
+		{
+			"headline": "Defunct part of SpaceX Falcon 9 rocket will slam into the moon",
+			"url": "https://www.npr.org/2026/08/02/nx-s1-5917201/space-x-falcon-nine-moon",
+			"source": "NPR Science",
+			"publishedAt": "2026-08-02T23:38:05.000Z"
+		},
+		{
+			"headline": "California counties monitoring for measles in farmworkers from Arizona",
+			"url": "https://www.latimes.com/california/story/2026-08-02/california-counties-monitoring-for-measles-in-arizona-farm-workers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-02T19:55:42.000Z"
 		},
 		{
 			"headline": "High surf and severe erosion trigger Point Dume closures and Long Beach surge warnings",
@@ -62,10 +86,10 @@
 			"publishedAt": "2026-08-02T00:05:12.000Z"
 		},
 		{
-			"headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
-			"url": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
+			"headline": "Man dies after boat carrying 21 migrants is intercepted near San Clemente Island",
+			"url": "https://www.latimes.com/california/story/2026-08-01/man-dies-after-boat-carrying-21-migrants-intercepted-off-socal-coast",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-01T01:32:30.000Z"
+			"publishedAt": "2026-08-01T18:31:01.000Z"
 		},
 		{
 			"headline": "The percentage of homes surviving California wildfires is dropping, despite efforts to harden them",
@@ -74,22 +98,16 @@
 			"publishedAt": "2026-08-01T10:00:00.000Z"
 		},
 		{
-			"headline": "California produced over half its May electricity from solar, a world record",
-			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
+			"headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
+			"url": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T10:00:00.000Z"
+			"publishedAt": "2026-08-01T01:32:30.000Z"
 		},
 		{
-			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
-			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
+			"headline": "Pilot ejects before F-35 jet crash at U.S. Marine Corps' Miramar air base in San Diego",
+			"url": "https://www.latimes.com/california/story/2026-07-31/plane-crash-u-s-marine-corps-miramar-air-base-san-diego",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T10:00:00.000Z"
-		},
-		{
-			"headline": "Trump administration spares Southwest from harshest water cuts in new Colorado River plan",
-			"url": "https://www.latimes.com/environment/story/2026-07-31/trump-administration-colorado-river-plan",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T16:16:50.000Z"
+			"publishedAt": "2026-07-31T18:15:26.000Z"
 		},
 		{
 			"headline": "New microscope captures tiny details at unprecedented speeds",
@@ -98,40 +116,22 @@
 			"publishedAt": "2026-07-31T17:47:18.000Z"
 		},
 		{
-			"headline": "MBARI welcomes Monterey Bay Aquarium CEO Jenny Gray",
-			"url": "https://www.mbari.org/news/mbari-welcomes-monterey-bay-aquarium-ceo-jenny-gray/",
-			"source": "MBARI",
-			"publishedAt": "2026-07-30T23:05:31.000Z"
-		},
-		{
-			"headline": "Bay Area residents can move away to find more affordable homes. Beware the downside.",
-			"url": "https://capolicylab.org/news/new-report-finds-bay-area-residents-who-leave-are-more-likely-to-become-homeowners/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-07-30T22:07:14.000Z"
-		},
-		{
-			"headline": "Magnitude 2.6 earthquake jars Hawthorne, surrounding communities",
-			"url": "https://www.latimes.com/california/story/2026-08-02/magnitude-2-6-earthquake-rattles-south-bay",
+			"headline": "Trump administration spares Southwest from harshest water cuts in new Colorado River plan",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/trump-administration-colorado-river-plan",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-03T04:04:42.000Z"
+			"publishedAt": "2026-07-31T16:16:50.000Z"
 		},
 		{
-			"headline": "California counties monitoring for measles in farmworkers from Arizona",
-			"url": "https://www.latimes.com/california/story/2026-08-02/california-counties-monitoring-for-measles-in-arizona-farm-workers",
+			"headline": "California's push to limit groundwater pumping could leave small farmers in the dust",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/california-groundwater-law-puts-small-farms-at-risk",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-02T19:55:42.000Z"
+			"publishedAt": "2026-07-31T10:00:00.000Z"
 		},
 		{
-			"headline": "Worst of brutal SoCal heat wave is here: How long will it last? How bad will it be?",
-			"url": "https://www.latimes.com/california/story/2026-07-31/la-me-heat-wave-timeline",
+			"headline": "California produced over half its May electricity from solar, a world record",
+			"url": "https://www.latimes.com/environment/story/2026-07-31/california-produced-over-half-its-may-electricity-from-solar-world-record",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T14:27:20.000Z"
-		},
-		{
-			"headline": "Pilot ejects before F-35 jet crash at U.S. Marine Corps' Miramar air base in San Diego",
-			"url": "https://www.latimes.com/california/story/2026-07-31/plane-crash-u-s-marine-corps-miramar-air-base-san-diego",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-07-31T18:15:26.000Z"
+			"publishedAt": "2026-07-31T10:00:00.000Z"
 		}
 	]
 }
