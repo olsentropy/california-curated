@@ -1,11 +1,29 @@
 {
-	"lastUpdated": "2026-08-06T10:20:52.421Z",
+	"lastUpdated": "2026-08-06T13:25:51.157Z",
 	"items": [
+		{
+			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
+			"url": "https://baynature.org/2026/08/06/science-nature/weather/el-nino/a-super-el-nino-is-here/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-06T13:00:00.000Z"
+		},
+		{
+			"headline": "William Mulholland brought water to L.A. He failed to stop a disastrous flood",
+			"url": "https://www.latimes.com/california/story/2026-08-06/william-mulholland-st-francis-dam",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-06T10:00:00.000Z"
+		},
 		{
 			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
 			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-05T20:57:48.000Z"
+		},
+		{
+			"headline": "UC Berkeley announces nominees for the inaugural UC Regents Innovation Awards",
+			"url": "https://news.berkeley.edu/2026/08/05/uc-berkeley-announces-nominees-for-the-inaugural-uc-regents-innovation-awards/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-05T21:20:41.000Z"
 		},
 		{
 			"headline": "MBARI researchers use innovative technology to map California's famous Octopus Garden",
@@ -20,10 +38,10 @@
 			"publishedAt": "2026-08-03T21:00:33.000Z"
 		},
 		{
-			"headline": "Marmots got money troubles: Cuts to UCLA research lead scientists to OnlyFans",
-			"url": "https://www.latimes.com/california/story/2026-08-03/ucla-scientists-onlyfans-marmot-research",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-03T10:00:00.000Z"
+			"headline": "How worried should you be about West Nile virus?",
+			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-west-nile-virus",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-03T20:52:16.000Z"
 		},
 		{
 			"headline": "Amid trend in health optimization, Berkeley scientists focus on optimizing the brain",
@@ -32,34 +50,10 @@
 			"publishedAt": "2026-08-03T17:51:14.000Z"
 		},
 		{
-			"headline": "How worried should you be about West Nile virus?",
-			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-west-nile-virus",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-03T20:52:16.000Z"
-		},
-		{
-			"headline": "Famed Big Bear eagle Jackie remains 'very sick' as malady remains a mystery",
-			"url": "https://www.latimes.com/california/story/2026-08-01/big-bear-eagle-jackie-remains-very-sick-as-illness-remains-mystery",
+			"headline": "Discarded SpaceX rocket crashes into moon",
+			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-02T00:05:12.000Z"
-		},
-		{
-			"headline": "High surf and severe erosion trigger Point Dume closures and Long Beach surge warnings",
-			"url": "https://www.latimes.com/california/story/2026-08-02/point-dume-beach-westward-road-parking-lot-restrooms-closed-extreme-erosion",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-02T10:00:00.000Z"
-		},
-		{
-			"headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
-			"url": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-01T01:32:30.000Z"
-		},
-		{
-			"headline": "The percentage of homes surviving California wildfires is dropping, despite efforts to harden them",
-			"url": "https://www.latimes.com/environment/story/2026-08-01/percentage-homes-surviving-wildfires-dropping",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-01T10:00:00.000Z"
+			"publishedAt": "2026-08-05T17:18:51.000Z"
 		},
 		{
 			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
@@ -74,22 +68,10 @@
 			"publishedAt": "2026-08-05T10:00:00.000Z"
 		},
 		{
-			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
-			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
+			"headline": "Lineage says it will spend up to $100 million on Boyle Heights cleanup as air regulators demand action",
+			"url": "https://www.latimes.com/environment/story/2026-08-05/lineage-spend-100-million-boyle-heights-cleanup-air-regulators",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-04T18:33:55.000Z"
-		},
-		{
-			"headline": "William Mulholland brought water to L.A. He failed to stop a disastrous flood",
-			"url": "https://www.latimes.com/california/story/2026-08-06/william-mulholland-st-francis-dam",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T10:00:00.000Z"
-		},
-		{
-			"headline": "California counties monitoring for measles in farmworkers from Arizona",
-			"url": "https://www.latimes.com/california/story/2026-08-02/california-counties-monitoring-for-measles-in-arizona-farm-workers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-02T19:55:42.000Z"
+			"publishedAt": "2026-08-05T19:31:13.000Z"
 		},
 		{
 			"headline": "Urgent search after hiker deep in Angeles National Forest is bitten by rattlesnake",
@@ -98,28 +80,58 @@
 			"publishedAt": "2026-08-05T01:22:00.000Z"
 		},
 		{
-			"headline": "Discarded SpaceX rocket crashes into moon",
-			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
+			"headline": "Man goes missing while camping in Big Bear, found dead",
+			"url": "https://www.latimes.com/california/story/2026-08-04/man-goes-missing-while-camping-in-big-bear-found-dead",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T17:18:51.000Z"
+			"publishedAt": "2026-08-05T00:32:34.000Z"
 		},
 		{
-			"headline": "UC Berkeley announces nominees for the inaugural UC Regents Innovation Awards",
-			"url": "https://news.berkeley.edu/2026/08/05/uc-berkeley-announces-nominees-for-the-inaugural-uc-regents-innovation-awards/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T21:20:41.000Z"
+			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
+			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-04T18:33:55.000Z"
 		},
 		{
-			"headline": "As AI reshapes academic research, the UC Berkeley Library puts emerging tools to the test",
-			"url": "https://www.lib.berkeley.edu/about/news/ai-initiatives",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T18:48:26.000Z"
+			"headline": "Hundreds of homes destroyed: Spokane's horrific wildfires could be preview for California",
+			"url": "https://www.latimes.com/california/story/2026-08-03/california-firefighters-help-battle-raging-washington-wildfires",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-04T02:01:24.000Z"
 		},
 		{
-			"headline": "How UC Berkeley is building a novel pipeline for music therapy",
-			"url": "https://artshumanities.berkeley.edu/news/bridging-art-and-science-how-philanthropy-and-passion-built-uc-berkeley%E2%80%99s-music-therapy",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T18:47:23.000Z"
+			"headline": "Some Southern California communities will finally cool off. Here's where",
+			"url": "https://www.latimes.com/california/story/2026-08-03/some-southern-california-communities-will-finally-cool-off-heres-where",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-03T19:14:45.000Z"
+		},
+		{
+			"headline": "High surf and severe erosion trigger Point Dume closures and Long Beach surge warnings",
+			"url": "https://www.latimes.com/california/story/2026-08-02/point-dume-beach-westward-road-parking-lot-restrooms-closed-extreme-erosion",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-02T10:00:00.000Z"
+		},
+		{
+			"headline": "California counties monitoring for measles in farmworkers from Arizona",
+			"url": "https://www.latimes.com/california/story/2026-08-02/california-counties-monitoring-for-measles-in-arizona-farm-workers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-02T19:55:42.000Z"
+		},
+		{
+			"headline": "Famed Big Bear eagle Jackie remains 'very sick' as malady remains a mystery",
+			"url": "https://www.latimes.com/california/story/2026-08-01/big-bear-eagle-jackie-remains-very-sick-as-illness-remains-mystery",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-02T00:05:12.000Z"
+		},
+		{
+			"headline": "Man dies after boat carrying 21 migrants is intercepted near San Clemente Island",
+			"url": "https://www.latimes.com/california/story/2026-08-01/man-dies-after-boat-carrying-21-migrants-intercepted-off-socal-coast",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-01T18:31:01.000Z"
+		},
+		{
+			"headline": "The percentage of homes surviving California wildfires is dropping, despite efforts to harden them",
+			"url": "https://www.latimes.com/environment/story/2026-08-01/percentage-homes-surviving-wildfires-dropping",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-01T10:00:00.000Z"
 		},
 		{
 			"headline": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane",
@@ -128,10 +140,10 @@
 			"publishedAt": "2026-08-02T00:38:08.000Z"
 		},
 		{
-			"headline": "Hundreds of homes destroyed: Spokane's horrific wildfires could be preview for California",
-			"url": "https://www.latimes.com/california/story/2026-08-03/california-firefighters-help-battle-raging-washington-wildfires",
+			"headline": "Massive 'scale-breaking' catfish caught in Southern California lake; 'Catzilla' still on the loose",
+			"url": "https://www.latimes.com/california/story/2026-07-31/massive-scale-breaking-catfish-caught-in-southern-california-lake-catzilla-still-on-loose",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-04T02:01:24.000Z"
+			"publishedAt": "2026-08-01T01:32:30.000Z"
 		},
 		{
 			"headline": "Magnitude 2.6 earthquake jars Hawthorne, surrounding communities",
