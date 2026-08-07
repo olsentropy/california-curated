@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-07T00:49:53.725Z",
+	"lastUpdated": "2026-08-07T05:25:58.209Z",
 	"items": [
+		{
+			"headline": "Tiny toad, big discovery: New ice age amphibian found in La Brea Tar Pits collection",
+			"url": "https://www.latimes.com/california/story/2026-08-06/tiny-toad-big-discovery-new-ice-age-amphibian-found-in-la-brea-tar-pits-collection",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-07T02:22:43.000Z"
+		},
 		{
 			"headline": "MBARI and the California Academy of Sciences inspire the next generation of scientists",
 			"url": "https://www.mbari.org/news/mbari-and-the-california-academy-of-sciences-inspire-the-next-generation-of-scientists/",
@@ -18,6 +24,12 @@
 			"url": "https://www.latimes.com/science/story/2026-08-06/bonta-accuses-dupont-of-dodging-pfas-cleanup-in-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-06T21:35:05.000Z"
+		},
+		{
+			"headline": "Regulators order Lineage to snuff out foul odors following 4,000 complaints",
+			"url": "https://www.latimes.com/california/story/2026-08-06/air-regulators-take-action-on-lineage-stench-complaints",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-06T21:34:43.000Z"
 		},
 		{
 			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
@@ -38,34 +50,16 @@
 			"publishedAt": "2026-08-06T13:00:00.000Z"
 		},
 		{
+			"headline": "Catalina Island's only hospital fights for its future amid dire financial outlook",
+			"url": "https://www.latimes.com/california/story/2026-08-06/catalina-islands-only-hospital-fights-for-its-future-amid-dire-financial-outlook",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-06T10:00:00.000Z"
+		},
+		{
 			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
 			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-05T20:57:48.000Z"
-		},
-		{
-			"headline": "Lineage says it will spend up to $100 million on Boyle Heights cleanup as air regulators demand action",
-			"url": "https://www.latimes.com/environment/story/2026-08-05/lineage-spend-100-million-boyle-heights-cleanup-air-regulators",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T19:31:13.000Z"
-		},
-		{
-			"headline": "As AI reshapes academic research, the UC Berkeley Library puts emerging tools to the test",
-			"url": "https://www.lib.berkeley.edu/about/news/ai-initiatives",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T18:48:26.000Z"
-		},
-		{
-			"headline": "How UC Berkeley is building a novel pipeline for music therapy",
-			"url": "https://artshumanities.berkeley.edu/news/bridging-art-and-science-how-philanthropy-and-passion-built-uc-berkeley%E2%80%99s-music-therapy",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T18:47:23.000Z"
-		},
-		{
-			"headline": "Discarded SpaceX rocket crashes into moon",
-			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T17:18:51.000Z"
 		},
 		{
 			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
@@ -86,10 +80,10 @@
 			"publishedAt": "2026-08-05T01:22:00.000Z"
 		},
 		{
-			"headline": "MBARI researchers use innovative technology to map California's famous Octopus Garden",
-			"url": "https://www.mbari.org/news/mbari-researchers-use-innovative-technology-to-map-californias-famous-octopus-garden/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-03T19:30:27.000Z"
+			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
+			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-04T18:33:55.000Z"
 		},
 		{
 			"headline": "Amid trend in health optimization, Berkeley scientists focus on optimizing the brain",
@@ -98,10 +92,10 @@
 			"publishedAt": "2026-08-03T17:51:14.000Z"
 		},
 		{
-			"headline": "It takes a village to explore the deep",
-			"url": "https://www.mbari.org/news/it-takes-a-village-to-explore-the-deep/",
+			"headline": "MBARI researchers use innovative technology to map California's famous Octopus Garden",
+			"url": "https://www.mbari.org/news/mbari-researchers-use-innovative-technology-to-map-californias-famous-octopus-garden/",
 			"source": "MBARI",
-			"publishedAt": "2026-08-03T21:00:33.000Z"
+			"publishedAt": "2026-08-03T19:30:27.000Z"
 		},
 		{
 			"headline": "How worried should you be about West Nile virus?",
@@ -134,22 +128,28 @@
 			"publishedAt": "2026-08-02T19:55:42.000Z"
 		},
 		{
-			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
-			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-04T18:33:55.000Z"
+			"headline": "It takes a village to explore the deep",
+			"url": "https://www.mbari.org/news/it-takes-a-village-to-explore-the-deep/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-03T21:00:33.000Z"
 		},
 		{
-			"headline": "UC Berkeley announces nominees for the inaugural UC Regents Innovation Awards",
-			"url": "https://news.berkeley.edu/2026/08/05/uc-berkeley-announces-nominees-for-the-inaugural-uc-regents-innovation-awards/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T21:20:41.000Z"
+			"headline": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane",
+			"url": "https://www.latimes.com/california/story/2026-08-01/western-us-heatwave-record-temps-wildfire-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-02T00:38:08.000Z"
 		},
 		{
 			"headline": "Magnitude 2.6 earthquake jars Hawthorne, surrounding communities",
 			"url": "https://www.latimes.com/california/story/2026-08-02/magnitude-2-6-earthquake-rattles-south-bay",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-03T04:04:42.000Z"
+		},
+		{
+			"headline": "Discarded SpaceX rocket crashes into moon",
+			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T17:18:51.000Z"
 		}
 	]
 }
