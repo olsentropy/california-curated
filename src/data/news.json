@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-07T05:25:58.209Z",
+	"lastUpdated": "2026-08-07T08:42:44.625Z",
 	"items": [
 		{
 			"headline": "Tiny toad, big discovery: New ice age amphibian found in La Brea Tar Pits collection",
@@ -50,16 +50,16 @@
 			"publishedAt": "2026-08-06T13:00:00.000Z"
 		},
 		{
-			"headline": "Catalina Island's only hospital fights for its future amid dire financial outlook",
-			"url": "https://www.latimes.com/california/story/2026-08-06/catalina-islands-only-hospital-fights-for-its-future-amid-dire-financial-outlook",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T10:00:00.000Z"
-		},
-		{
 			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
 			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-05T20:57:48.000Z"
+		},
+		{
+			"headline": "Lineage says it will spend up to $100 million on Boyle Heights cleanup as air regulators demand action",
+			"url": "https://www.latimes.com/environment/story/2026-08-05/lineage-spend-100-million-boyle-heights-cleanup-air-regulators",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T19:31:13.000Z"
 		},
 		{
 			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
@@ -74,28 +74,22 @@
 			"publishedAt": "2026-08-05T10:00:00.000Z"
 		},
 		{
-			"headline": "Urgent search after hiker deep in Angeles National Forest is bitten by rattlesnake",
-			"url": "https://www.latimes.com/california/story/2026-08-04/urgent-search-after-hiker-deep-in-angeles-national-forest-is-bitten-by-rattlesnake",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T01:22:00.000Z"
-		},
-		{
 			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
 			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-04T18:33:55.000Z"
 		},
 		{
-			"headline": "Amid trend in health optimization, Berkeley scientists focus on optimizing the brain",
-			"url": "https://news.berkeley.edu/2026/08/03/amid-trend-in-health-optimization-berkeley-scientists-focus-on-brain-optimization/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-03T17:51:14.000Z"
-		},
-		{
 			"headline": "MBARI researchers use innovative technology to map California's famous Octopus Garden",
 			"url": "https://www.mbari.org/news/mbari-researchers-use-innovative-technology-to-map-californias-famous-octopus-garden/",
 			"source": "MBARI",
 			"publishedAt": "2026-08-03T19:30:27.000Z"
+		},
+		{
+			"headline": "Amid trend in health optimization, Berkeley scientists focus on optimizing the brain",
+			"url": "https://news.berkeley.edu/2026/08/03/amid-trend-in-health-optimization-berkeley-scientists-focus-on-brain-optimization/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-03T17:51:14.000Z"
 		},
 		{
 			"headline": "How worried should you be about West Nile virus?",
@@ -108,6 +102,12 @@
 			"url": "https://www.latimes.com/california/story/2026-08-03/ucla-scientists-onlyfans-marmot-research",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-03T10:00:00.000Z"
+		},
+		{
+			"headline": "Hundreds of homes destroyed: Spokane's horrific wildfires could be preview for California",
+			"url": "https://www.latimes.com/california/story/2026-08-03/california-firefighters-help-battle-raging-washington-wildfires",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-04T02:01:24.000Z"
 		},
 		{
 			"headline": "Famed Big Bear eagle Jackie remains 'very sick' as malady remains a mystery",
@@ -128,28 +128,10 @@
 			"publishedAt": "2026-08-02T19:55:42.000Z"
 		},
 		{
-			"headline": "It takes a village to explore the deep",
-			"url": "https://www.mbari.org/news/it-takes-a-village-to-explore-the-deep/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-03T21:00:33.000Z"
-		},
-		{
 			"headline": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane",
 			"url": "https://www.latimes.com/california/story/2026-08-01/western-us-heatwave-record-temps-wildfire-risk",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-02T00:38:08.000Z"
-		},
-		{
-			"headline": "Magnitude 2.6 earthquake jars Hawthorne, surrounding communities",
-			"url": "https://www.latimes.com/california/story/2026-08-02/magnitude-2-6-earthquake-rattles-south-bay",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-03T04:04:42.000Z"
-		},
-		{
-			"headline": "Discarded SpaceX rocket crashes into moon",
-			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T17:18:51.000Z"
 		}
 	]
 }
