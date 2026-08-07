@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-07T12:33:06.738Z",
+	"lastUpdated": "2026-08-07T16:37:47.072Z",
 	"items": [
+		{
+			"headline": "Trump is attacking California's ability to protect its coastline. The consequences are 'chilling'",
+			"url": "https://www.latimes.com/environment/story/2026-08-07/trump-attack-california-coastal-protection-unprecedented",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-07T10:00:00.000Z"
+		},
 		{
 			"headline": "Tiny toad, big discovery: New ice age amphibian found in La Brea Tar Pits collection",
 			"url": "https://www.latimes.com/california/story/2026-08-06/tiny-toad-big-discovery-new-ice-age-amphibian-found-in-la-brea-tar-pits-collection",
@@ -68,6 +74,12 @@
 			"publishedAt": "2026-08-05T18:48:26.000Z"
 		},
 		{
+			"headline": "Discarded SpaceX rocket crashes into moon",
+			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T17:18:51.000Z"
+		},
+		{
 			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
 			"url": "https://www.latimes.com/business/story/2026-08-05/utilities-threaten-action-if-lawmakers-fail-to-cut-their-wildfire-liability-risk",
 			"source": "Los Angeles Times",
@@ -104,6 +116,12 @@
 			"publishedAt": "2026-08-03T17:51:14.000Z"
 		},
 		{
+			"headline": "It takes a village to explore the deep",
+			"url": "https://www.mbari.org/news/it-takes-a-village-to-explore-the-deep/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-03T21:00:33.000Z"
+		},
+		{
 			"headline": "How worried should you be about West Nile virus?",
 			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-west-nile-virus",
 			"source": "UC Berkeley News",
@@ -122,22 +140,16 @@
 			"publishedAt": "2026-08-03T04:04:42.000Z"
 		},
 		{
-			"headline": "California counties monitoring for measles in farmworkers from Arizona",
-			"url": "https://www.latimes.com/california/story/2026-08-02/california-counties-monitoring-for-measles-in-arizona-farm-workers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-02T19:55:42.000Z"
-		},
-		{
 			"headline": "High surf and severe erosion trigger Point Dume closures and Long Beach surge warnings",
 			"url": "https://www.latimes.com/california/story/2026-08-02/point-dume-beach-westward-road-parking-lot-restrooms-closed-extreme-erosion",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-02T10:00:00.000Z"
 		},
 		{
-			"headline": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane",
-			"url": "https://www.latimes.com/california/story/2026-08-01/western-us-heatwave-record-temps-wildfire-risk",
+			"headline": "California counties monitoring for measles in farmworkers from Arizona",
+			"url": "https://www.latimes.com/california/story/2026-08-02/california-counties-monitoring-for-measles-in-arizona-farm-workers",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-02T00:38:08.000Z"
+			"publishedAt": "2026-08-02T19:55:42.000Z"
 		}
 	]
 }
