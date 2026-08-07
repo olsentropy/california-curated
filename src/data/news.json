@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-07T08:42:44.625Z",
+	"lastUpdated": "2026-08-07T12:33:06.738Z",
 	"items": [
 		{
 			"headline": "Tiny toad, big discovery: New ice age amphibian found in La Brea Tar Pits collection",
@@ -62,6 +62,12 @@
 			"publishedAt": "2026-08-05T19:31:13.000Z"
 		},
 		{
+			"headline": "As AI reshapes academic research, the UC Berkeley Library puts emerging tools to the test",
+			"url": "https://www.lib.berkeley.edu/about/news/ai-initiatives",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-05T18:48:26.000Z"
+		},
+		{
 			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
 			"url": "https://www.latimes.com/business/story/2026-08-05/utilities-threaten-action-if-lawmakers-fail-to-cut-their-wildfire-liability-risk",
 			"source": "Los Angeles Times",
@@ -72,6 +78,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-05/oil-company-profits-are-soaring-heres-what-california-officials-want-to-do",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-05T10:00:00.000Z"
+		},
+		{
+			"headline": "Urgent search after hiker deep in Angeles National Forest is bitten by rattlesnake",
+			"url": "https://www.latimes.com/california/story/2026-08-04/urgent-search-after-hiker-deep-in-angeles-national-forest-is-bitten-by-rattlesnake",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T01:22:00.000Z"
 		},
 		{
 			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
@@ -104,28 +116,22 @@
 			"publishedAt": "2026-08-03T10:00:00.000Z"
 		},
 		{
-			"headline": "Hundreds of homes destroyed: Spokane's horrific wildfires could be preview for California",
-			"url": "https://www.latimes.com/california/story/2026-08-03/california-firefighters-help-battle-raging-washington-wildfires",
+			"headline": "Magnitude 2.6 earthquake jars Hawthorne, surrounding communities",
+			"url": "https://www.latimes.com/california/story/2026-08-02/magnitude-2-6-earthquake-rattles-south-bay",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-04T02:01:24.000Z"
-		},
-		{
-			"headline": "Famed Big Bear eagle Jackie remains 'very sick' as malady remains a mystery",
-			"url": "https://www.latimes.com/california/story/2026-08-01/big-bear-eagle-jackie-remains-very-sick-as-illness-remains-mystery",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-02T00:05:12.000Z"
-		},
-		{
-			"headline": "High surf and severe erosion trigger Point Dume closures and Long Beach surge warnings",
-			"url": "https://www.latimes.com/california/story/2026-08-02/point-dume-beach-westward-road-parking-lot-restrooms-closed-extreme-erosion",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-02T10:00:00.000Z"
+			"publishedAt": "2026-08-03T04:04:42.000Z"
 		},
 		{
 			"headline": "California counties monitoring for measles in farmworkers from Arizona",
 			"url": "https://www.latimes.com/california/story/2026-08-02/california-counties-monitoring-for-measles-in-arizona-farm-workers",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-02T19:55:42.000Z"
+		},
+		{
+			"headline": "High surf and severe erosion trigger Point Dume closures and Long Beach surge warnings",
+			"url": "https://www.latimes.com/california/story/2026-08-02/point-dume-beach-westward-road-parking-lot-restrooms-closed-extreme-erosion",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-02T10:00:00.000Z"
 		},
 		{
 			"headline": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane",
