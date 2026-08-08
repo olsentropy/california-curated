@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-08T16:16:02.558Z",
+	"lastUpdated": "2026-08-08T20:14:09.808Z",
 	"items": [
+		{
+			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
+			"url": "https://www.latimes.com/california/story/2026-08-08/santa-barbara-zoo-red-panda-mom-dies",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-08T19:12:05.000Z"
+		},
 		{
 			"headline": "Searing heat on tap for SoCal this weekend — and there's more fire danger ahead",
 			"url": "https://www.latimes.com/california/story/2026-08-07/searing-heat-on-tap-for-socal-this-weekend-with-more-fire-danger-ahead",
@@ -68,22 +74,10 @@
 			"publishedAt": "2026-08-06T21:34:43.000Z"
 		},
 		{
-			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
-			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T20:27:04.000Z"
-		},
-		{
 			"headline": "MBARI and the California Academy of Sciences inspire the next generation of scientists",
 			"url": "https://www.mbari.org/news/mbari-and-the-california-academy-of-sciences-inspire-the-next-generation-of-scientists/",
 			"source": "MBARI",
 			"publishedAt": "2026-08-06T23:51:16.000Z"
-		},
-		{
-			"headline": "A partnership in ocean science and resource management",
-			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-06T19:00:33.000Z"
 		},
 		{
 			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
@@ -98,34 +92,16 @@
 			"publishedAt": "2026-08-06T13:00:00.000Z"
 		},
 		{
-			"headline": "Catalina Island's only hospital fights for its future amid dire financial outlook",
-			"url": "https://www.latimes.com/california/story/2026-08-06/catalina-islands-only-hospital-fights-for-its-future-amid-dire-financial-outlook",
+			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
+			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T10:00:00.000Z"
+			"publishedAt": "2026-08-06T20:27:04.000Z"
 		},
 		{
-			"headline": "UC Berkeley announces nominees for the inaugural UC Regents Innovation Awards",
-			"url": "https://news.berkeley.edu/2026/08/05/uc-berkeley-announces-nominees-for-the-inaugural-uc-regents-innovation-awards/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T21:20:41.000Z"
-		},
-		{
-			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
-			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T20:57:48.000Z"
-		},
-		{
-			"headline": "As AI reshapes academic research, the UC Berkeley Library puts emerging tools to the test",
-			"url": "https://www.lib.berkeley.edu/about/news/ai-initiatives",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T18:48:26.000Z"
-		},
-		{
-			"headline": "How UC Berkeley is building a novel pipeline for music therapy",
-			"url": "https://artshumanities.berkeley.edu/news/bridging-art-and-science-how-philanthropy-and-passion-built-uc-berkeley%E2%80%99s-music-therapy",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T18:47:23.000Z"
+			"headline": "A partnership in ocean science and resource management",
+			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-06T19:00:33.000Z"
 		},
 		{
 			"headline": "Discarded SpaceX rocket crashes into moon",
@@ -146,10 +122,34 @@
 			"publishedAt": "2026-08-05T10:00:00.000Z"
 		},
 		{
-			"headline": "Urgent search after hiker deep in Angeles National Forest is bitten by rattlesnake",
-			"url": "https://www.latimes.com/california/story/2026-08-04/urgent-search-after-hiker-deep-in-angeles-national-forest-is-bitten-by-rattlesnake",
+			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
+			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-05T20:57:48.000Z"
+		},
+		{
+			"headline": "Lineage says it will spend up to $100 million on Boyle Heights cleanup as air regulators demand action",
+			"url": "https://www.latimes.com/environment/story/2026-08-05/lineage-spend-100-million-boyle-heights-cleanup-air-regulators",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T01:22:00.000Z"
+			"publishedAt": "2026-08-05T19:31:13.000Z"
+		},
+		{
+			"headline": "As AI reshapes academic research, the UC Berkeley Library puts emerging tools to the test",
+			"url": "https://www.lib.berkeley.edu/about/news/ai-initiatives",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-05T18:48:26.000Z"
+		},
+		{
+			"headline": "How UC Berkeley is building a novel pipeline for music therapy",
+			"url": "https://artshumanities.berkeley.edu/news/bridging-art-and-science-how-philanthropy-and-passion-built-uc-berkeley%E2%80%99s-music-therapy",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-05T18:47:23.000Z"
+		},
+		{
+			"headline": "MBARI researchers use innovative technology to map California's famous Octopus Garden",
+			"url": "https://www.mbari.org/news/mbari-researchers-use-innovative-technology-to-map-californias-famous-octopus-garden/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-03T19:30:27.000Z"
 		}
 	]
 }
