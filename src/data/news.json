@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-08T00:37:03.396Z",
+	"lastUpdated": "2026-08-08T04:44:01.481Z",
 	"items": [
+		{
+			"headline": "Searing heat on tap for SoCal this weekend — and there's more fire danger ahead",
+			"url": "https://www.latimes.com/california/story/2026-08-07/searing-heat-on-tap-for-socal-this-weekend-with-more-fire-danger-ahead",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-08T02:28:32.000Z"
+		},
 		{
 			"headline": "Celebrity bald eagle Jackie's anemia worsens: 'We wish we had better news'",
 			"url": "https://www.latimes.com/environment/story/2026-08-07/celebrity-bald-eagle-jackies-anemia-worsens-wish-we-had-better-news",
@@ -8,16 +14,22 @@
 			"publishedAt": "2026-08-08T00:14:47.000Z"
 		},
 		{
-			"headline": "New Info from Ancient Rocks Upends Popular Theory",
-			"url": "https://www.caltech.edu/about/news/new-info-from-ancient-rocks-upends-popular-theory",
-			"source": "Caltech",
-			"publishedAt": "2026-08-07T16:37:00.000Z"
+			"headline": "Berkeley Talks: How we've long misread gun violence (and ways to prevent it)",
+			"url": "https://news.berkeley.edu/2026/08/07/berkeley-talks-jens-ludwig-on-gun-violence/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-07T21:39:01.000Z"
 		},
 		{
 			"headline": "Mountain lion safely captured after strolling through San Dimas neighborhood",
 			"url": "https://www.latimes.com/california/story/2026-08-07/lounging-mountain-lion-shuts-down-road-in-san-dimas",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-07T17:58:00.000Z"
+		},
+		{
+			"headline": "New Info from Ancient Rocks Upends Popular Theory",
+			"url": "https://www.caltech.edu/about/news/new-info-from-ancient-rocks-upends-popular-theory",
+			"source": "Caltech",
+			"publishedAt": "2026-08-07T16:37:00.000Z"
 		},
 		{
 			"headline": "Trump is attacking California's ability to protect its coastline. The consequences are 'chilling'",
@@ -80,6 +92,18 @@
 			"publishedAt": "2026-08-06T13:00:00.000Z"
 		},
 		{
+			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
+			"url": "https://www.latimes.com/business/story/2026-08-05/utilities-threaten-action-if-lawmakers-fail-to-cut-their-wildfire-liability-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T10:00:00.000Z"
+		},
+		{
+			"headline": "Energy company profits are soaring with the Iran war. Here's what California officials want to do",
+			"url": "https://www.latimes.com/environment/story/2026-08-05/oil-company-profits-are-soaring-heres-what-california-officials-want-to-do",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T10:00:00.000Z"
+		},
+		{
 			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
 			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
 			"source": "UC Berkeley News",
@@ -110,28 +134,10 @@
 			"publishedAt": "2026-08-05T17:18:51.000Z"
 		},
 		{
-			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
-			"url": "https://www.latimes.com/business/story/2026-08-05/utilities-threaten-action-if-lawmakers-fail-to-cut-their-wildfire-liability-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T10:00:00.000Z"
-		},
-		{
-			"headline": "Energy company profits are soaring with the Iran war. Here's what California officials want to do",
-			"url": "https://www.latimes.com/environment/story/2026-08-05/oil-company-profits-are-soaring-heres-what-california-officials-want-to-do",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T10:00:00.000Z"
-		},
-		{
 			"headline": "Urgent search after hiker deep in Angeles National Forest is bitten by rattlesnake",
 			"url": "https://www.latimes.com/california/story/2026-08-04/urgent-search-after-hiker-deep-in-angeles-national-forest-is-bitten-by-rattlesnake",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-05T01:22:00.000Z"
-		},
-		{
-			"headline": "The deck is getting lighter as moorings and experiments make their way to the seafloor",
-			"url": "https://www.mbari.org/news/the-deck-is-getting-lighter-as-moorings-and-experiments-make-their-way-to-the-seafloor/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-04T16:00:02.000Z"
 		},
 		{
 			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
@@ -140,16 +146,10 @@
 			"publishedAt": "2026-08-04T18:33:55.000Z"
 		},
 		{
-			"headline": "How worried should you be about West Nile virus?",
-			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-west-nile-virus",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-03T20:52:16.000Z"
-		},
-		{
-			"headline": "MBARI researchers use innovative technology to map California's famous Octopus Garden",
-			"url": "https://www.mbari.org/news/mbari-researchers-use-innovative-technology-to-map-californias-famous-octopus-garden/",
+			"headline": "The deck is getting lighter as moorings and experiments make their way to the seafloor",
+			"url": "https://www.mbari.org/news/the-deck-is-getting-lighter-as-moorings-and-experiments-make-their-way-to-the-seafloor/",
 			"source": "MBARI",
-			"publishedAt": "2026-08-03T19:30:27.000Z"
+			"publishedAt": "2026-08-04T16:00:02.000Z"
 		}
 	]
 }
