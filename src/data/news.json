@@ -1,11 +1,17 @@
 {
-	"lastUpdated": "2026-08-08T04:44:01.481Z",
+	"lastUpdated": "2026-08-08T08:23:59.246Z",
 	"items": [
 		{
 			"headline": "Searing heat on tap for SoCal this weekend — and there's more fire danger ahead",
 			"url": "https://www.latimes.com/california/story/2026-08-07/searing-heat-on-tap-for-socal-this-weekend-with-more-fire-danger-ahead",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-08T02:28:32.000Z"
+		},
+		{
+			"headline": "Ridge fire prompts evacuation orders near Gorman, closes 5 Freeway for hours",
+			"url": "https://www.latimes.com/california/story/2026-08-07/ridge-fire-prompts-evacuation-orders-closes-5-freeway-near-gorman",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-08T01:14:55.000Z"
 		},
 		{
 			"headline": "Celebrity bald eagle Jackie's anemia worsens: 'We wish we had better news'",
@@ -104,6 +110,12 @@
 			"publishedAt": "2026-08-05T10:00:00.000Z"
 		},
 		{
+			"headline": "Discarded SpaceX rocket crashes into moon",
+			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T17:18:51.000Z"
+		},
+		{
 			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
 			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
 			"source": "UC Berkeley News",
@@ -128,12 +140,6 @@
 			"publishedAt": "2026-08-05T18:47:23.000Z"
 		},
 		{
-			"headline": "Discarded SpaceX rocket crashes into moon",
-			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T17:18:51.000Z"
-		},
-		{
 			"headline": "Urgent search after hiker deep in Angeles National Forest is bitten by rattlesnake",
 			"url": "https://www.latimes.com/california/story/2026-08-04/urgent-search-after-hiker-deep-in-angeles-national-forest-is-bitten-by-rattlesnake",
 			"source": "Los Angeles Times",
@@ -144,12 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-04T18:33:55.000Z"
-		},
-		{
-			"headline": "The deck is getting lighter as moorings and experiments make their way to the seafloor",
-			"url": "https://www.mbari.org/news/the-deck-is-getting-lighter-as-moorings-and-experiments-make-their-way-to-the-seafloor/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-04T16:00:02.000Z"
 		}
 	]
 }
