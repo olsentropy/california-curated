@@ -1,17 +1,23 @@
 {
-	"lastUpdated": "2026-08-07T20:25:25.660Z",
+	"lastUpdated": "2026-08-08T00:37:03.396Z",
 	"items": [
 		{
-			"headline": "Mountain Lion safely captured after strolling through San Dimas neighborhood",
-			"url": "https://www.latimes.com/california/story/2026-08-07/lounging-mountain-lion-shuts-down-road-in-san-dimas",
+			"headline": "Celebrity bald eagle Jackie's anemia worsens: 'We wish we had better news'",
+			"url": "https://www.latimes.com/environment/story/2026-08-07/celebrity-bald-eagle-jackies-anemia-worsens-wish-we-had-better-news",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-07T17:58:00.000Z"
+			"publishedAt": "2026-08-08T00:14:47.000Z"
 		},
 		{
 			"headline": "New Info from Ancient Rocks Upends Popular Theory",
 			"url": "https://www.caltech.edu/about/news/new-info-from-ancient-rocks-upends-popular-theory",
 			"source": "Caltech",
 			"publishedAt": "2026-08-07T16:37:00.000Z"
+		},
+		{
+			"headline": "Mountain lion safely captured after strolling through San Dimas neighborhood",
+			"url": "https://www.latimes.com/california/story/2026-08-07/lounging-mountain-lion-shuts-down-road-in-san-dimas",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-07T17:58:00.000Z"
 		},
 		{
 			"headline": "Trump is attacking California's ability to protect its coastline. The consequences are 'chilling'",
@@ -50,16 +56,22 @@
 			"publishedAt": "2026-08-06T21:34:43.000Z"
 		},
 		{
-			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
-			"url": "https://www.caltech.edu/about/news/new-quantum-microscopy-trick-quadruples-microscope-resolution",
-			"source": "Caltech",
-			"publishedAt": "2026-08-06T14:54:32.421Z"
-		},
-		{
 			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
 			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-06T20:27:04.000Z"
+		},
+		{
+			"headline": "A partnership in ocean science and resource management",
+			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-06T19:00:33.000Z"
+		},
+		{
+			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
+			"url": "https://www.caltech.edu/about/news/new-quantum-microscopy-trick-quadruples-microscope-resolution",
+			"source": "Caltech",
+			"publishedAt": "2026-08-06T14:54:32.421Z"
 		},
 		{
 			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
@@ -72,6 +84,24 @@
 			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-05T20:57:48.000Z"
+		},
+		{
+			"headline": "Lineage says it will spend up to $100 million on Boyle Heights cleanup as air regulators demand action",
+			"url": "https://www.latimes.com/environment/story/2026-08-05/lineage-spend-100-million-boyle-heights-cleanup-air-regulators",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T19:31:13.000Z"
+		},
+		{
+			"headline": "As AI reshapes academic research, the UC Berkeley Library puts emerging tools to the test",
+			"url": "https://www.lib.berkeley.edu/about/news/ai-initiatives",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-05T18:48:26.000Z"
+		},
+		{
+			"headline": "How UC Berkeley is building a novel pipeline for music therapy",
+			"url": "https://artshumanities.berkeley.edu/news/bridging-art-and-science-how-philanthropy-and-passion-built-uc-berkeley%E2%80%99s-music-therapy",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-05T18:47:23.000Z"
 		},
 		{
 			"headline": "Discarded SpaceX rocket crashes into moon",
@@ -92,22 +122,16 @@
 			"publishedAt": "2026-08-05T10:00:00.000Z"
 		},
 		{
-			"headline": "Lineage says it will spend up to $100 million on Boyle Heights cleanup as air regulators demand action",
-			"url": "https://www.latimes.com/environment/story/2026-08-05/lineage-spend-100-million-boyle-heights-cleanup-air-regulators",
+			"headline": "Urgent search after hiker deep in Angeles National Forest is bitten by rattlesnake",
+			"url": "https://www.latimes.com/california/story/2026-08-04/urgent-search-after-hiker-deep-in-angeles-national-forest-is-bitten-by-rattlesnake",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T19:31:13.000Z"
+			"publishedAt": "2026-08-05T01:22:00.000Z"
 		},
 		{
-			"headline": "As AI reshapes academic research, the UC Berkeley Library puts emerging tools to the test",
-			"url": "https://www.lib.berkeley.edu/about/news/ai-initiatives",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T18:48:26.000Z"
-		},
-		{
-			"headline": "MBARI researchers use innovative technology to map California's famous Octopus Garden",
-			"url": "https://www.mbari.org/news/mbari-researchers-use-innovative-technology-to-map-californias-famous-octopus-garden/",
+			"headline": "The deck is getting lighter as moorings and experiments make their way to the seafloor",
+			"url": "https://www.mbari.org/news/the-deck-is-getting-lighter-as-moorings-and-experiments-make-their-way-to-the-seafloor/",
 			"source": "MBARI",
-			"publishedAt": "2026-08-03T19:30:27.000Z"
+			"publishedAt": "2026-08-04T16:00:02.000Z"
 		},
 		{
 			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
@@ -116,40 +140,16 @@
 			"publishedAt": "2026-08-04T18:33:55.000Z"
 		},
 		{
-			"headline": "Hundreds of homes destroyed: Spokane's horrific wildfires could be preview for California",
-			"url": "https://www.latimes.com/california/story/2026-08-03/california-firefighters-help-battle-raging-washington-wildfires",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-04T02:01:24.000Z"
-		},
-		{
-			"headline": "It takes a village to explore the deep",
-			"url": "https://www.mbari.org/news/it-takes-a-village-to-explore-the-deep/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-03T21:00:33.000Z"
-		},
-		{
 			"headline": "How worried should you be about West Nile virus?",
 			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-west-nile-virus",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-03T20:52:16.000Z"
 		},
 		{
-			"headline": "Amid trend in health optimization, Berkeley scientists focus on optimizing the brain",
-			"url": "https://news.berkeley.edu/2026/08/03/amid-trend-in-health-optimization-berkeley-scientists-focus-on-brain-optimization/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-03T17:51:14.000Z"
-		},
-		{
-			"headline": "Marmots got money troubles: Cuts to UCLA research lead scientists to OnlyFans",
-			"url": "https://www.latimes.com/california/story/2026-08-03/ucla-scientists-onlyfans-marmot-research",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-03T10:00:00.000Z"
-		},
-		{
-			"headline": "Magnitude 2.6 earthquake jars Hawthorne, surrounding communities",
-			"url": "https://www.latimes.com/california/story/2026-08-02/magnitude-2-6-earthquake-rattles-south-bay",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-03T04:04:42.000Z"
+			"headline": "MBARI researchers use innovative technology to map California's famous Octopus Garden",
+			"url": "https://www.mbari.org/news/mbari-researchers-use-innovative-technology-to-map-californias-famous-octopus-garden/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-03T19:30:27.000Z"
 		}
 	]
 }
