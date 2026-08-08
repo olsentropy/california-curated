@@ -1,17 +1,11 @@
 {
-	"lastUpdated": "2026-08-08T08:23:59.246Z",
+	"lastUpdated": "2026-08-08T12:18:38.887Z",
 	"items": [
 		{
 			"headline": "Searing heat on tap for SoCal this weekend — and there's more fire danger ahead",
 			"url": "https://www.latimes.com/california/story/2026-08-07/searing-heat-on-tap-for-socal-this-weekend-with-more-fire-danger-ahead",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-08T02:28:32.000Z"
-		},
-		{
-			"headline": "Ridge fire prompts evacuation orders near Gorman, closes 5 Freeway for hours",
-			"url": "https://www.latimes.com/california/story/2026-08-07/ridge-fire-prompts-evacuation-orders-closes-5-freeway-near-gorman",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-08T01:14:55.000Z"
 		},
 		{
 			"headline": "Celebrity bald eagle Jackie's anemia worsens: 'We wish we had better news'",
@@ -50,12 +44,6 @@
 			"publishedAt": "2026-08-07T02:22:43.000Z"
 		},
 		{
-			"headline": "MBARI and the California Academy of Sciences inspire the next generation of scientists",
-			"url": "https://www.mbari.org/news/mbari-and-the-california-academy-of-sciences-inspire-the-next-generation-of-scientists/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-06T23:51:16.000Z"
-		},
-		{
 			"headline": "California's cyclosporiasis cases are 'higher than expected,' but officials aren't sure why",
 			"url": "https://www.latimes.com/california/story/2026-08-06/californias-cyclosporiasis-cases-are-higher-than-expected-but-officials-arent-sure-why",
 			"source": "Los Angeles Times",
@@ -68,10 +56,10 @@
 			"publishedAt": "2026-08-06T21:35:05.000Z"
 		},
 		{
-			"headline": "Regulators order Lineage to snuff out foul odors following 4,000 complaints",
-			"url": "https://www.latimes.com/california/story/2026-08-06/air-regulators-take-action-on-lineage-stench-complaints",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T21:34:43.000Z"
+			"headline": "MBARI and the California Academy of Sciences inspire the next generation of scientists",
+			"url": "https://www.mbari.org/news/mbari-and-the-california-academy-of-sciences-inspire-the-next-generation-of-scientists/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-06T23:51:16.000Z"
 		},
 		{
 			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
@@ -116,16 +104,16 @@
 			"publishedAt": "2026-08-05T17:18:51.000Z"
 		},
 		{
+			"headline": "UC Berkeley announces nominees for the inaugural UC Regents Innovation Awards",
+			"url": "https://news.berkeley.edu/2026/08/05/uc-berkeley-announces-nominees-for-the-inaugural-uc-regents-innovation-awards/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-05T21:20:41.000Z"
+		},
+		{
 			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
 			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-05T20:57:48.000Z"
-		},
-		{
-			"headline": "Lineage says it will spend up to $100 million on Boyle Heights cleanup as air regulators demand action",
-			"url": "https://www.latimes.com/environment/story/2026-08-05/lineage-spend-100-million-boyle-heights-cleanup-air-regulators",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T19:31:13.000Z"
 		},
 		{
 			"headline": "As AI reshapes academic research, the UC Berkeley Library puts emerging tools to the test",
@@ -140,16 +128,28 @@
 			"publishedAt": "2026-08-05T18:47:23.000Z"
 		},
 		{
-			"headline": "Urgent search after hiker deep in Angeles National Forest is bitten by rattlesnake",
-			"url": "https://www.latimes.com/california/story/2026-08-04/urgent-search-after-hiker-deep-in-angeles-national-forest-is-bitten-by-rattlesnake",
+			"headline": "Lineage says it will spend up to $100 million on Boyle Heights cleanup as air regulators demand action",
+			"url": "https://www.latimes.com/environment/story/2026-08-05/lineage-spend-100-million-boyle-heights-cleanup-air-regulators",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T01:22:00.000Z"
+			"publishedAt": "2026-08-05T19:31:13.000Z"
+		},
+		{
+			"headline": "The deck is getting lighter as moorings and experiments make their way to the seafloor",
+			"url": "https://www.mbari.org/news/the-deck-is-getting-lighter-as-moorings-and-experiments-make-their-way-to-the-seafloor/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-04T16:00:02.000Z"
 		},
 		{
 			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
 			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-04T18:33:55.000Z"
+		},
+		{
+			"headline": "MBARI researchers use innovative technology to map California's famous Octopus Garden",
+			"url": "https://www.mbari.org/news/mbari-researchers-use-innovative-technology-to-map-californias-famous-octopus-garden/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-03T19:30:27.000Z"
 		}
 	]
 }
