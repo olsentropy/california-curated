@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-09T12:20:34.157Z",
+	"lastUpdated": "2026-08-09T16:17:32.734Z",
 	"items": [
+		{
+			"headline": "SoCal heat wave: Triple-digit temperatures, fire weather and coastal flooding in store",
+			"url": "https://www.latimes.com/california/story/2026-08-09/socal-heat-wave-brings-fire-weather-coastal-flooding-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-09T15:28:03.000Z"
+		},
 		{
 			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
 			"url": "https://www.latimes.com/california/story/2026-08-08/santa-barbara-zoo-red-panda-mom-dies",
@@ -62,7 +68,7 @@
 			"publishedAt": "2026-08-06T23:51:16.000Z"
 		},
 		{
-			"headline": "California's cyclosporiasis cases are 'higher than expected,' but officials aren't sure why",
+			"headline": "California's cyclosporiasis cases are 'higher than expected.' What is fueling the uptick?",
 			"url": "https://www.latimes.com/california/story/2026-08-06/californias-cyclosporiasis-cases-are-higher-than-expected-but-officials-arent-sure-why",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-06T21:50:34.000Z"
@@ -80,18 +86,6 @@
 			"publishedAt": "2026-08-06T21:34:43.000Z"
 		},
 		{
-			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
-			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T20:27:04.000Z"
-		},
-		{
-			"headline": "A partnership in ocean science and resource management",
-			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-06T19:00:33.000Z"
-		},
-		{
 			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
 			"url": "https://www.caltech.edu/about/news/new-quantum-microscopy-trick-quadruples-microscope-resolution",
 			"source": "Caltech",
@@ -104,10 +98,34 @@
 			"publishedAt": "2026-08-06T13:00:00.000Z"
 		},
 		{
-			"headline": "From mice to 'gym rats': Unregulated use of peptides raises alarm among researchers",
-			"url": "https://www.latimes.com/science/story/2026-08-06/unregulated-use-of-peptides-raises-alarm-among-researchers",
+			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
+			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T10:00:00.000Z"
+			"publishedAt": "2026-08-06T20:27:04.000Z"
+		},
+		{
+			"headline": "A partnership in ocean science and resource management",
+			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-06T19:00:33.000Z"
+		},
+		{
+			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
+			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-05T20:57:48.000Z"
+		},
+		{
+			"headline": "Lineage says it will spend up to $100 million on Boyle Heights cleanup as air regulators demand action",
+			"url": "https://www.latimes.com/environment/story/2026-08-05/lineage-spend-100-million-boyle-heights-cleanup-air-regulators",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T19:31:13.000Z"
+		},
+		{
+			"headline": "Discarded SpaceX rocket crashes into moon",
+			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T17:18:51.000Z"
 		},
 		{
 			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
@@ -122,12 +140,6 @@
 			"publishedAt": "2026-08-05T10:00:00.000Z"
 		},
 		{
-			"headline": "Discarded SpaceX rocket crashes into moon",
-			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T17:18:51.000Z"
-		},
-		{
 			"headline": "Urgent search after hiker deep in Angeles National Forest is bitten by rattlesnake",
 			"url": "https://www.latimes.com/california/story/2026-08-04/urgent-search-after-hiker-deep-in-angeles-national-forest-is-bitten-by-rattlesnake",
 			"source": "Los Angeles Times",
@@ -138,18 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-04T18:33:55.000Z"
-		},
-		{
-			"headline": "The deck is getting lighter as moorings and experiments make their way to the seafloor",
-			"url": "https://www.mbari.org/news/the-deck-is-getting-lighter-as-moorings-and-experiments-make-their-way-to-the-seafloor/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-04T16:00:02.000Z"
-		},
-		{
-			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
-			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T20:57:48.000Z"
 		}
 	]
 }
