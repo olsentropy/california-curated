@@ -1,11 +1,17 @@
 {
-	"lastUpdated": "2026-08-09T16:17:32.734Z",
+	"lastUpdated": "2026-08-09T20:16:25.340Z",
 	"items": [
 		{
 			"headline": "SoCal heat wave: Triple-digit temperatures, fire weather and coastal flooding in store",
 			"url": "https://www.latimes.com/california/story/2026-08-09/socal-heat-wave-brings-fire-weather-coastal-flooding-risk",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-09T15:28:03.000Z"
+		},
+		{
+			"headline": "Firefighters battling brush fires in Burbank, Santa Clarita",
+			"url": "https://www.latimes.com/california/story/2026-08-08/la-me-walnut-fire-burbank",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-09T00:43:27.000Z"
 		},
 		{
 			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
@@ -144,12 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-08-04/urgent-search-after-hiker-deep-in-angeles-national-forest-is-bitten-by-rattlesnake",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-05T01:22:00.000Z"
-		},
-		{
-			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
-			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-04T18:33:55.000Z"
 		}
 	]
 }
