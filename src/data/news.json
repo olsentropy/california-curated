@@ -1,47 +1,11 @@
 {
-	"lastUpdated": "2026-08-09T08:26:40.724Z",
+	"lastUpdated": "2026-08-09T12:20:34.157Z",
 	"items": [
 		{
-			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
-			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T20:57:48.000Z"
-		},
-		{
-			"headline": "MBARI researchers use innovative technology to map California's famous Octopus Garden",
-			"url": "https://www.mbari.org/news/mbari-researchers-use-innovative-technology-to-map-californias-famous-octopus-garden/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-03T19:30:27.000Z"
-		},
-		{
-			"headline": "Tiny toad, big discovery: New ice age amphibian found in La Brea Tar Pits collection",
-			"url": "https://www.latimes.com/california/story/2026-08-06/tiny-toad-big-discovery-new-ice-age-amphibian-found-in-la-brea-tar-pits-collection",
+			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
+			"url": "https://www.latimes.com/california/story/2026-08-08/santa-barbara-zoo-red-panda-mom-dies",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-07T02:22:43.000Z"
-		},
-		{
-			"headline": "California's cyclosporiasis cases are 'higher than expected,' but officials aren't sure why",
-			"url": "https://www.latimes.com/california/story/2026-08-06/californias-cyclosporiasis-cases-are-higher-than-expected-but-officials-arent-sure-why",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T21:50:34.000Z"
-		},
-		{
-			"headline": "Bonta accuses DuPont of corporate shell game to dodge PFAS cleanup in California",
-			"url": "https://www.latimes.com/science/story/2026-08-06/bonta-accuses-dupont-of-dodging-pfas-cleanup-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T21:35:05.000Z"
-		},
-		{
-			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
-			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T20:27:04.000Z"
-		},
-		{
-			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
-			"url": "https://baynature.org/2026/08/06/science-nature/weather/el-nino/a-super-el-nino-is-here/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-06T13:00:00.000Z"
+			"publishedAt": "2026-08-08T19:12:05.000Z"
 		},
 		{
 			"headline": "Searing heat on tap for SoCal this weekend — and there's more fire danger ahead",
@@ -62,10 +26,16 @@
 			"publishedAt": "2026-08-08T00:14:47.000Z"
 		},
 		{
-			"headline": "Trump is attacking California's ability to protect its coastline. The consequences may be dire",
-			"url": "https://www.latimes.com/environment/story/2026-08-07/trump-attack-california-coastal-protection-unprecedented",
+			"headline": "Berkeley Talks: How we've long misread gun violence (and ways to prevent it)",
+			"url": "https://news.berkeley.edu/2026/08/07/berkeley-talks-jens-ludwig-on-gun-violence/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-07T21:39:01.000Z"
+		},
+		{
+			"headline": "Mountain lion safely captured after strolling through San Dimas neighborhood",
+			"url": "https://www.latimes.com/california/story/2026-08-07/lounging-mountain-lion-shuts-down-road-in-san-dimas",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-07T10:00:00.000Z"
+			"publishedAt": "2026-08-07T17:58:00.000Z"
 		},
 		{
 			"headline": "New Info from Ancient Rocks Upends Popular Theory",
@@ -74,16 +44,70 @@
 			"publishedAt": "2026-08-07T16:37:00.000Z"
 		},
 		{
+			"headline": "Trump is attacking California's ability to protect its coastline. The consequences may be dire",
+			"url": "https://www.latimes.com/environment/story/2026-08-07/trump-attack-california-coastal-protection-unprecedented",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-07T10:00:00.000Z"
+		},
+		{
+			"headline": "Tiny toad, big discovery: New ice age amphibian found in La Brea Tar Pits collection",
+			"url": "https://www.latimes.com/california/story/2026-08-06/tiny-toad-big-discovery-new-ice-age-amphibian-found-in-la-brea-tar-pits-collection",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-07T02:22:43.000Z"
+		},
+		{
+			"headline": "MBARI and the California Academy of Sciences inspire the next generation of scientists",
+			"url": "https://www.mbari.org/news/mbari-and-the-california-academy-of-sciences-inspire-the-next-generation-of-scientists/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-06T23:51:16.000Z"
+		},
+		{
+			"headline": "California's cyclosporiasis cases are 'higher than expected,' but officials aren't sure why",
+			"url": "https://www.latimes.com/california/story/2026-08-06/californias-cyclosporiasis-cases-are-higher-than-expected-but-officials-arent-sure-why",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-06T21:50:34.000Z"
+		},
+		{
+			"headline": "Bonta accuses DuPont of corporate shell game to dodge PFAS cleanup in California",
+			"url": "https://www.latimes.com/science/story/2026-08-06/bonta-accuses-dupont-of-dodging-pfas-cleanup-in-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-06T21:35:05.000Z"
+		},
+		{
+			"headline": "Regulators order Lineage to snuff out foul odors following 4,000 complaints",
+			"url": "https://www.latimes.com/california/story/2026-08-06/air-regulators-take-action-on-lineage-stench-complaints",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-06T21:34:43.000Z"
+		},
+		{
+			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
+			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-06T20:27:04.000Z"
+		},
+		{
+			"headline": "A partnership in ocean science and resource management",
+			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-06T19:00:33.000Z"
+		},
+		{
 			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
 			"url": "https://www.caltech.edu/about/news/new-quantum-microscopy-trick-quadruples-microscope-resolution",
 			"source": "Caltech",
 			"publishedAt": "2026-08-06T14:54:32.421Z"
 		},
 		{
-			"headline": "Discarded SpaceX rocket crashes into moon",
-			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
+			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
+			"url": "https://baynature.org/2026/08/06/science-nature/weather/el-nino/a-super-el-nino-is-here/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-06T13:00:00.000Z"
+		},
+		{
+			"headline": "From mice to 'gym rats': Unregulated use of peptides raises alarm among researchers",
+			"url": "https://www.latimes.com/science/story/2026-08-06/unregulated-use-of-peptides-raises-alarm-among-researchers",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T17:18:51.000Z"
+			"publishedAt": "2026-08-06T10:00:00.000Z"
 		},
 		{
 			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
@@ -98,28 +122,22 @@
 			"publishedAt": "2026-08-05T10:00:00.000Z"
 		},
 		{
+			"headline": "Discarded SpaceX rocket crashes into moon",
+			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T17:18:51.000Z"
+		},
+		{
+			"headline": "Urgent search after hiker deep in Angeles National Forest is bitten by rattlesnake",
+			"url": "https://www.latimes.com/california/story/2026-08-04/urgent-search-after-hiker-deep-in-angeles-national-forest-is-bitten-by-rattlesnake",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T01:22:00.000Z"
+		},
+		{
 			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
 			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-04T18:33:55.000Z"
-		},
-		{
-			"headline": "How worried should you be about West Nile virus?",
-			"url": "https://publichealth.berkeley.edu/articles/news/commentary/how-worried-should-you-be-about-west-nile-virus",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-03T20:52:16.000Z"
-		},
-		{
-			"headline": "MBARI and the California Academy of Sciences inspire the next generation of scientists",
-			"url": "https://www.mbari.org/news/mbari-and-the-california-academy-of-sciences-inspire-the-next-generation-of-scientists/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-06T23:51:16.000Z"
-		},
-		{
-			"headline": "A partnership in ocean science and resource management",
-			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-06T19:00:33.000Z"
 		},
 		{
 			"headline": "The deck is getting lighter as moorings and experiments make their way to the seafloor",
@@ -128,10 +146,10 @@
 			"publishedAt": "2026-08-04T16:00:02.000Z"
 		},
 		{
-			"headline": "It takes a village to explore the deep",
-			"url": "https://www.mbari.org/news/it-takes-a-village-to-explore-the-deep/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-03T21:00:33.000Z"
+			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
+			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-05T20:57:48.000Z"
 		}
 	]
 }
