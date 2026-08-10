@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-08-10T09:03:02.649Z",
+	"lastUpdated": "2026-08-10T12:37:06.721Z",
 	"items": [
+		{
+			"headline": "El Niño could bring highest sea levels ever recorded to the California coast",
+			"url": "https://www.latimes.com/california/story/2026-08-10/el-nino-could-bring-california-its-highest-sea-levels-ever-recorded",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-10T10:00:00.000Z"
+		},
+		{
+			"headline": "The eight-mile gap in the L.A. River bike path downtown has a billion-dollar problem",
+			"url": "https://www.latimes.com/environment/story/2026-08-10/gap-in-la-river-bike-path-downtown-has-billion-dollar-problem",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-10T10:00:00.000Z"
+		},
+		{
+			"headline": "A much-needed cool-down is on the horizon for SoCal this week",
+			"url": "https://www.latimes.com/california/story/2026-08-10/much-needed-cool-down-is-on-horizon-for-socal-this-week",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-10T10:00:00.000Z"
+		},
 		{
 			"headline": "SoCal heat wave: Triple-digit temperatures, fire weather and coastal flooding in store",
 			"url": "https://www.latimes.com/california/story/2026-08-09/socal-heat-wave-brings-fire-weather-coastal-flooding-risk",
@@ -14,22 +32,10 @@
 			"publishedAt": "2026-08-08T19:12:05.000Z"
 		},
 		{
-			"headline": "Firefighters battling brush fires in Burbank, Santa Clarita",
-			"url": "https://www.latimes.com/california/story/2026-08-08/la-me-walnut-fire-burbank",
+			"headline": "Mountain lion safely captured after strolling through San Dimas neighborhood",
+			"url": "https://www.latimes.com/california/story/2026-08-07/lounging-mountain-lion-shuts-down-road-in-san-dimas",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-09T00:43:27.000Z"
-		},
-		{
-			"headline": "Searing heat on tap for SoCal this weekend — and there's more fire danger ahead",
-			"url": "https://www.latimes.com/california/story/2026-08-07/searing-heat-on-tap-for-socal-this-weekend-with-more-fire-danger-ahead",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-08T02:28:32.000Z"
-		},
-		{
-			"headline": "Evacuation orders lifted for 1,000-acre Ridge fire near Gorman as containment grows",
-			"url": "https://www.latimes.com/california/story/2026-08-07/ridge-fire-prompts-evacuation-orders-closes-5-freeway-near-gorman",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-08T01:14:55.000Z"
+			"publishedAt": "2026-08-07T17:58:00.000Z"
 		},
 		{
 			"headline": "Celebrity bald eagle Jackie's anemia worsens: 'We wish we had better news'",
@@ -38,22 +44,16 @@
 			"publishedAt": "2026-08-08T00:14:47.000Z"
 		},
 		{
+			"headline": "Evacuation orders lifted for 1,000-acre Ridge fire near Gorman as containment grows",
+			"url": "https://www.latimes.com/california/story/2026-08-07/ridge-fire-prompts-evacuation-orders-closes-5-freeway-near-gorman",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-08T01:14:55.000Z"
+		},
+		{
 			"headline": "Berkeley Talks: How we've long misread gun violence (and ways to prevent it)",
 			"url": "https://news.berkeley.edu/2026/08/07/berkeley-talks-jens-ludwig-on-gun-violence/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-07T21:39:01.000Z"
-		},
-		{
-			"headline": "Mountain lion safely captured after strolling through San Dimas neighborhood",
-			"url": "https://www.latimes.com/california/story/2026-08-07/lounging-mountain-lion-shuts-down-road-in-san-dimas",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-07T17:58:00.000Z"
-		},
-		{
-			"headline": "New Info from Ancient Rocks Upends Popular Theory",
-			"url": "https://www.caltech.edu/about/news/new-info-from-ancient-rocks-upends-popular-theory",
-			"source": "Caltech",
-			"publishedAt": "2026-08-07T16:37:00.000Z"
 		},
 		{
 			"headline": "Trump is attacking California's ability to protect its coastline. The consequences may be dire",
@@ -62,40 +62,22 @@
 			"publishedAt": "2026-08-07T10:00:00.000Z"
 		},
 		{
+			"headline": "New Info from Ancient Rocks Upends Popular Theory",
+			"url": "https://www.caltech.edu/about/news/new-info-from-ancient-rocks-upends-popular-theory",
+			"source": "Caltech",
+			"publishedAt": "2026-08-07T16:37:00.000Z"
+		},
+		{
 			"headline": "Tiny toad, big discovery: New ice age amphibian found in La Brea Tar Pits collection",
 			"url": "https://www.latimes.com/california/story/2026-08-06/tiny-toad-big-discovery-new-ice-age-amphibian-found-in-la-brea-tar-pits-collection",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-07T02:22:43.000Z"
 		},
 		{
-			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
-			"url": "https://www.caltech.edu/about/news/new-quantum-microscopy-trick-quadruples-microscope-resolution",
-			"source": "Caltech",
-			"publishedAt": "2026-08-06T14:54:32.421Z"
-		},
-		{
-			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
-			"url": "https://baynature.org/2026/08/06/science-nature/weather/el-nino/a-super-el-nino-is-here/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-06T13:00:00.000Z"
-		},
-		{
-			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
-			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T20:27:04.000Z"
-		},
-		{
 			"headline": "MBARI and the California Academy of Sciences inspire the next generation of scientists",
 			"url": "https://www.mbari.org/news/mbari-and-the-california-academy-of-sciences-inspire-the-next-generation-of-scientists/",
 			"source": "MBARI",
 			"publishedAt": "2026-08-06T23:51:16.000Z"
-		},
-		{
-			"headline": "A partnership in ocean science and resource management",
-			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-06T19:00:33.000Z"
 		},
 		{
 			"headline": "California's cyclosporiasis cases are 'higher than expected.' What is fueling the uptick?",
@@ -116,6 +98,30 @@
 			"publishedAt": "2026-08-06T21:34:43.000Z"
 		},
 		{
+			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
+			"url": "https://baynature.org/2026/08/06/science-nature/weather/el-nino/a-super-el-nino-is-here/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-06T13:00:00.000Z"
+		},
+		{
+			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
+			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-06T20:27:04.000Z"
+		},
+		{
+			"headline": "A partnership in ocean science and resource management",
+			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-06T19:00:33.000Z"
+		},
+		{
+			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
+			"url": "https://www.caltech.edu/about/news/new-quantum-microscopy-trick-quadruples-microscope-resolution",
+			"source": "Caltech",
+			"publishedAt": "2026-08-06T14:54:32.421Z"
+		},
+		{
 			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
 			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
 			"source": "UC Berkeley News",
@@ -128,28 +134,22 @@
 			"publishedAt": "2026-08-05T19:31:13.000Z"
 		},
 		{
-			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
-			"url": "https://www.latimes.com/business/story/2026-08-05/utilities-threaten-action-if-lawmakers-fail-to-cut-their-wildfire-liability-risk",
+			"headline": "Discarded SpaceX rocket crashes into moon",
+			"url": "https://www.latimes.com/science/story/2026-08-05/discarded-spacex-rocket-crashes-into-moon",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T10:00:00.000Z"
-		},
-		{
-			"headline": "Energy company profits are soaring with the Iran war. Here's what California officials want to do",
-			"url": "https://www.latimes.com/environment/story/2026-08-05/oil-company-profits-are-soaring-heres-what-california-officials-want-to-do",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T10:00:00.000Z"
-		},
-		{
-			"headline": "The deck is getting lighter as moorings and experiments make their way to the seafloor",
-			"url": "https://www.mbari.org/news/the-deck-is-getting-lighter-as-moorings-and-experiments-make-their-way-to-the-seafloor/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-04T16:00:02.000Z"
+			"publishedAt": "2026-08-05T17:18:51.000Z"
 		},
 		{
 			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
 			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-04T18:33:55.000Z"
+		},
+		{
+			"headline": "The deck is getting lighter as moorings and experiments make their way to the seafloor",
+			"url": "https://www.mbari.org/news/the-deck-is-getting-lighter-as-moorings-and-experiments-make-their-way-to-the-seafloor/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-04T16:00:02.000Z"
 		}
 	]
 }
