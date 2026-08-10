@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-09T20:16:25.340Z",
+	"lastUpdated": "2026-08-10T00:40:39.796Z",
 	"items": [
 		{
 			"headline": "SoCal heat wave: Triple-digit temperatures, fire weather and coastal flooding in store",
@@ -92,16 +92,16 @@
 			"publishedAt": "2026-08-06T21:34:43.000Z"
 		},
 		{
-			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
-			"url": "https://www.caltech.edu/about/news/new-quantum-microscopy-trick-quadruples-microscope-resolution",
-			"source": "Caltech",
-			"publishedAt": "2026-08-06T14:54:32.421Z"
-		},
-		{
 			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
 			"url": "https://baynature.org/2026/08/06/science-nature/weather/el-nino/a-super-el-nino-is-here/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-08-06T13:00:00.000Z"
+		},
+		{
+			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
+			"url": "https://www.caltech.edu/about/news/new-quantum-microscopy-trick-quadruples-microscope-resolution",
+			"source": "Caltech",
+			"publishedAt": "2026-08-06T14:54:32.421Z"
 		},
 		{
 			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
