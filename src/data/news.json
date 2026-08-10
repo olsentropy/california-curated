@@ -1,17 +1,11 @@
 {
-	"lastUpdated": "2026-08-10T00:40:39.796Z",
+	"lastUpdated": "2026-08-10T05:13:14.690Z",
 	"items": [
 		{
 			"headline": "SoCal heat wave: Triple-digit temperatures, fire weather and coastal flooding in store",
 			"url": "https://www.latimes.com/california/story/2026-08-09/socal-heat-wave-brings-fire-weather-coastal-flooding-risk",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-09T15:28:03.000Z"
-		},
-		{
-			"headline": "Firefighters battling brush fires in Burbank, Santa Clarita",
-			"url": "https://www.latimes.com/california/story/2026-08-08/la-me-walnut-fire-burbank",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-09T00:43:27.000Z"
 		},
 		{
 			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
@@ -68,6 +62,12 @@
 			"publishedAt": "2026-08-07T02:22:43.000Z"
 		},
 		{
+			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
+			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-06T20:27:04.000Z"
+		},
+		{
 			"headline": "MBARI and the California Academy of Sciences inspire the next generation of scientists",
 			"url": "https://www.mbari.org/news/mbari-and-the-california-academy-of-sciences-inspire-the-next-generation-of-scientists/",
 			"source": "MBARI",
@@ -92,28 +92,22 @@
 			"publishedAt": "2026-08-06T21:34:43.000Z"
 		},
 		{
-			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
-			"url": "https://baynature.org/2026/08/06/science-nature/weather/el-nino/a-super-el-nino-is-here/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-06T13:00:00.000Z"
-		},
-		{
 			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
 			"url": "https://www.caltech.edu/about/news/new-quantum-microscopy-trick-quadruples-microscope-resolution",
 			"source": "Caltech",
 			"publishedAt": "2026-08-06T14:54:32.421Z"
 		},
 		{
-			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
-			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T20:27:04.000Z"
+			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
+			"url": "https://baynature.org/2026/08/06/science-nature/weather/el-nino/a-super-el-nino-is-here/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-06T13:00:00.000Z"
 		},
 		{
-			"headline": "A partnership in ocean science and resource management",
-			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-06T19:00:33.000Z"
+			"headline": "Catalina Island's only hospital fights for its future amid dire financial outlook",
+			"url": "https://www.latimes.com/california/story/2026-08-06/catalina-islands-only-hospital-fights-for-its-future-amid-dire-financial-outlook",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-06T10:00:00.000Z"
 		},
 		{
 			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
@@ -134,16 +128,22 @@
 			"publishedAt": "2026-08-05T17:18:51.000Z"
 		},
 		{
-			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
-			"url": "https://www.latimes.com/business/story/2026-08-05/utilities-threaten-action-if-lawmakers-fail-to-cut-their-wildfire-liability-risk",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T10:00:00.000Z"
+			"headline": "The deck is getting lighter as moorings and experiments make their way to the seafloor",
+			"url": "https://www.mbari.org/news/the-deck-is-getting-lighter-as-moorings-and-experiments-make-their-way-to-the-seafloor/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-04T16:00:02.000Z"
 		},
 		{
-			"headline": "Energy company profits are soaring with the Iran war. Here's what California officials want to do",
-			"url": "https://www.latimes.com/environment/story/2026-08-05/oil-company-profits-are-soaring-heres-what-california-officials-want-to-do",
+			"headline": "Edison tower caused deadly Eaton fire that devastated Altadena, long-awaited investigation finds",
+			"url": "https://www.latimes.com/california/story/2026-08-04/edison-tower-eaton-fire-cause",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T10:00:00.000Z"
+			"publishedAt": "2026-08-04T18:33:55.000Z"
+		},
+		{
+			"headline": "A partnership in ocean science and resource management",
+			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-06T19:00:33.000Z"
 		},
 		{
 			"headline": "Urgent search after hiker deep in Angeles National Forest is bitten by rattlesnake",
