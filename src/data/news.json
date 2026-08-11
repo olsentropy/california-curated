@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-11T08:41:08.441Z",
+	"lastUpdated": "2026-08-11T12:33:38.674Z",
 	"items": [
 		{
 			"headline": "Beloved Big Sur destinations under evacuation orders as Timber fire burns more than 1,700 acres",
@@ -8,16 +8,22 @@
 			"publishedAt": "2026-08-11T01:35:39.000Z"
 		},
 		{
-			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
-			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-05T20:57:48.000Z"
-		},
-		{
 			"headline": "El Niño could bring highest sea levels ever recorded to the California coast",
 			"url": "https://www.latimes.com/california/story/2026-08-10/el-nino-could-bring-california-its-highest-sea-levels-ever-recorded",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-10T10:00:00.000Z"
+		},
+		{
+			"headline": "The eight-mile gap in the L.A. River bike path downtown has a billion-dollar problem",
+			"url": "https://www.latimes.com/environment/story/2026-08-10/gap-in-la-river-bike-path-downtown-has-billion-dollar-problem",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-10T10:00:00.000Z"
+		},
+		{
+			"headline": "With new digital tools, UC Berkeley researchers are helping Joshua trees survive wildfires",
+			"url": "https://news.berkeley.edu/2026/08/05/with-new-digital-tools-uc-berkeley-researchers-are-helping-joshua-trees-survive-wildfires/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-05T20:57:48.000Z"
 		},
 		{
 			"headline": "Jackie, arguably the world's most famous bald eagle, dies after mysterious illness",
@@ -38,30 +44,6 @@
 			"publishedAt": "2026-08-08T00:14:47.000Z"
 		},
 		{
-			"headline": "The eight-mile gap in the L.A. River bike path downtown has a billion-dollar problem",
-			"url": "https://www.latimes.com/environment/story/2026-08-10/gap-in-la-river-bike-path-downtown-has-billion-dollar-problem",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T10:00:00.000Z"
-		},
-		{
-			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
-			"url": "https://www.latimes.com/california/story/2026-08-08/santa-barbara-zoo-red-panda-mom-dies",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-08T19:12:05.000Z"
-		},
-		{
-			"headline": "Mountain lion safely captured after strolling through San Dimas neighborhood",
-			"url": "https://www.latimes.com/california/story/2026-08-07/lounging-mountain-lion-shuts-down-road-in-san-dimas",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-07T17:58:00.000Z"
-		},
-		{
-			"headline": "Tiny toad, big discovery: New ice age amphibian found in La Brea Tar Pits collection",
-			"url": "https://www.latimes.com/california/story/2026-08-06/tiny-toad-big-discovery-new-ice-age-amphibian-found-in-la-brea-tar-pits-collection",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-07T02:22:43.000Z"
-		},
-		{
 			"headline": "Trump is attacking California's ability to protect its coastline. The consequences may be dire",
 			"url": "https://www.latimes.com/environment/story/2026-08-07/trump-attack-california-coastal-protection-unprecedented",
 			"source": "Los Angeles Times",
@@ -74,10 +56,28 @@
 			"publishedAt": "2026-08-06T20:27:04.000Z"
 		},
 		{
-			"headline": "California's cyclosporiasis cases are 'higher than expected.' What is fueling the uptick?",
-			"url": "https://www.latimes.com/california/story/2026-08-06/californias-cyclosporiasis-cases-are-higher-than-expected-but-officials-arent-sure-why",
+			"headline": "Tiny toad, big discovery: New ice age amphibian found in La Brea Tar Pits collection",
+			"url": "https://www.latimes.com/california/story/2026-08-06/tiny-toad-big-discovery-new-ice-age-amphibian-found-in-la-brea-tar-pits-collection",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T21:50:34.000Z"
+			"publishedAt": "2026-08-07T02:22:43.000Z"
+		},
+		{
+			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
+			"url": "https://www.caltech.edu/about/news/new-quantum-microscopy-trick-quadruples-microscope-resolution",
+			"source": "Caltech",
+			"publishedAt": "2026-08-06T14:54:32.421Z"
+		},
+		{
+			"headline": "New Info from Ancient Rocks Upends Popular Theory",
+			"url": "https://www.caltech.edu/about/news/new-info-from-ancient-rocks-upends-popular-theory",
+			"source": "Caltech",
+			"publishedAt": "2026-08-07T16:37:00.000Z"
+		},
+		{
+			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
+			"url": "https://baynature.org/2026/08/06/science-nature/weather/el-nino/a-super-el-nino-is-here/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-06T13:00:00.000Z"
 		},
 		{
 			"headline": "Bonta accuses DuPont of corporate shell game to dodge PFAS cleanup in California",
@@ -86,22 +86,22 @@
 			"publishedAt": "2026-08-06T21:35:05.000Z"
 		},
 		{
-			"headline": "Regulators order Lineage to snuff out foul odors following 4,000 complaints",
-			"url": "https://www.latimes.com/california/story/2026-08-06/air-regulators-take-action-on-lineage-stench-complaints",
+			"headline": "California's cyclosporiasis cases are 'higher than expected.' What is fueling the uptick?",
+			"url": "https://www.latimes.com/california/story/2026-08-06/californias-cyclosporiasis-cases-are-higher-than-expected-but-officials-arent-sure-why",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T21:34:43.000Z"
+			"publishedAt": "2026-08-06T21:50:34.000Z"
 		},
 		{
-			"headline": "Lineage says it will spend up to $100 million on Boyle Heights cleanup as air regulators demand action",
-			"url": "https://www.latimes.com/environment/story/2026-08-05/lineage-spend-100-million-boyle-heights-cleanup-air-regulators",
+			"headline": "Mountain lion safely captured after strolling through San Dimas neighborhood",
+			"url": "https://www.latimes.com/california/story/2026-08-07/lounging-mountain-lion-shuts-down-road-in-san-dimas",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-05T19:31:13.000Z"
+			"publishedAt": "2026-08-07T17:58:00.000Z"
 		},
 		{
-			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
-			"url": "https://baynature.org/2026/08/06/science-nature/weather/el-nino/a-super-el-nino-is-here/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-06T13:00:00.000Z"
+			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
+			"url": "https://www.latimes.com/california/story/2026-08-08/santa-barbara-zoo-red-panda-mom-dies",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-08T19:12:05.000Z"
 		},
 		{
 			"headline": "Searing heat on tap for SoCal this weekend — and there's more fire danger ahead",
@@ -128,28 +128,28 @@
 			"publishedAt": "2026-08-10T10:00:00.000Z"
 		},
 		{
-			"headline": "MBARI and the California Academy of Sciences inspire the next generation of scientists",
-			"url": "https://www.mbari.org/news/mbari-and-the-california-academy-of-sciences-inspire-the-next-generation-of-scientists/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-06T23:51:16.000Z"
+			"headline": "Utilities threaten action if lawmakers fail to cut their wildfire liability risk",
+			"url": "https://www.latimes.com/business/story/2026-08-05/utilities-threaten-action-if-lawmakers-fail-to-cut-their-wildfire-liability-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T10:00:00.000Z"
 		},
 		{
-			"headline": "A partnership in ocean science and resource management",
-			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-06T19:00:33.000Z"
+			"headline": "Lineage says it will spend up to $100 million on Boyle Heights cleanup as air regulators demand action",
+			"url": "https://www.latimes.com/environment/story/2026-08-05/lineage-spend-100-million-boyle-heights-cleanup-air-regulators",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T19:31:13.000Z"
 		},
 		{
-			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
-			"url": "https://www.caltech.edu/about/news/new-quantum-microscopy-trick-quadruples-microscope-resolution",
-			"source": "Caltech",
-			"publishedAt": "2026-08-06T14:54:32.421Z"
+			"headline": "Regulators order Lineage to snuff out foul odors following 4,000 complaints",
+			"url": "https://www.latimes.com/california/story/2026-08-06/air-regulators-take-action-on-lineage-stench-complaints",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-06T21:34:43.000Z"
 		},
 		{
-			"headline": "New Info from Ancient Rocks Upends Popular Theory",
-			"url": "https://www.caltech.edu/about/news/new-info-from-ancient-rocks-upends-popular-theory",
-			"source": "Caltech",
-			"publishedAt": "2026-08-07T16:37:00.000Z"
+			"headline": "Energy company profits are soaring with the Iran war. Here's what California officials want to do",
+			"url": "https://www.latimes.com/environment/story/2026-08-05/oil-company-profits-are-soaring-heres-what-california-officials-want-to-do",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-05T10:00:00.000Z"
 		}
 	]
 }
