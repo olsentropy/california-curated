@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-08-11T20:30:14.127Z",
+	"lastUpdated": "2026-08-12T00:46:11.609Z",
 	"items": [
+		{
+			"headline": "'You gave us hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/fans-of-big-bear-bald-eagle-jackie-respond-to-her-death",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T22:58:24.000Z"
+		},
+		{
+			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/california-to-phase-out-paraquat-powerful-weedkiller-associated-with-serious-health-issues",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T21:47:12.000Z"
+		},
+		{
+			"headline": "A Night Out With the Cosmic Wild Ducks",
+			"url": "https://baynature.org/2026/08/11/science-nature/astronomy/a-night-out-with-the-wild-cosmic-ducks/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-11T21:03:16.000Z"
+		},
 		{
 			"headline": "'California's coast is not for sale.' State battles Trump plan to limit coastal oversight",
 			"url": "https://www.latimes.com/environment/story/2026-08-11/trump-administration-california-coastal-commission-performance-evaluation",
@@ -12,18 +30,6 @@
 			"url": "https://www.caltech.edu/about/news/models-of-glacial-collapse-in-antarctica-improve-predictions-of-sea-level-rise",
 			"source": "Caltech",
 			"publishedAt": "2026-08-11T16:46:27.687Z"
-		},
-		{
-			"headline": "Why we don't need more data centers to build better AI",
-			"url": "https://news.berkeley.edu/2026/08/11/why-we-dont-need-more-data-centers-to-build-better-ai/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-11T17:26:21.000Z"
-		},
-		{
-			"headline": "Toxic site near South L.A. homes finally faces state cleanup order",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/state-mandates-cleanup-of-highly-contaminated-south-la-site",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T10:00:00.000Z"
 		},
 		{
 			"headline": "State parks around Big Sur closed as Timber fire grows to 2,000 acres",
@@ -62,6 +68,18 @@
 			"publishedAt": "2026-08-10T10:00:00.000Z"
 		},
 		{
+			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
+			"url": "https://baynature.org/2026/08/06/science-nature/weather/el-nino/a-super-el-nino-is-here/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-06T13:00:00.000Z"
+		},
+		{
+			"headline": "SoCal heat wave: Triple-digit temperatures, fire weather and coastal flooding in store",
+			"url": "https://www.latimes.com/california/story/2026-08-09/socal-heat-wave-brings-fire-weather-coastal-flooding-risk",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-09T15:28:03.000Z"
+		},
+		{
 			"headline": "Firefighters battling brush fires in Burbank, Santa Clarita",
 			"url": "https://www.latimes.com/california/story/2026-08-08/la-me-walnut-fire-burbank",
 			"source": "Los Angeles Times",
@@ -90,12 +108,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-07/celebrity-bald-eagle-jackies-anemia-worsens-wish-we-had-better-news",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-08T00:14:47.000Z"
-		},
-		{
-			"headline": "Berkeley Talks: How we've long misread gun violence (and ways to prevent it)",
-			"url": "https://news.berkeley.edu/2026/08/07/berkeley-talks-jens-ludwig-on-gun-violence/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-07T21:39:01.000Z"
 		},
 		{
 			"headline": "Mountain lion safely captured after strolling through San Dimas neighborhood",
@@ -138,18 +150,6 @@
 			"url": "https://www.latimes.com/science/story/2026-08-06/bonta-accuses-dupont-of-dodging-pfas-cleanup-in-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-06T21:35:05.000Z"
-		},
-		{
-			"headline": "Regulators order Lineage to snuff out foul odors following 4,000 complaints",
-			"url": "https://www.latimes.com/california/story/2026-08-06/air-regulators-take-action-on-lineage-stench-complaints",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T21:34:43.000Z"
-		},
-		{
-			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
-			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T20:27:04.000Z"
 		}
 	]
 }
