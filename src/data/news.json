@@ -1,17 +1,41 @@
 {
-	"lastUpdated": "2026-08-12T12:36:26.034Z",
+	"lastUpdated": "2026-08-12T16:42:37.245Z",
 	"items": [
 		{
-			"headline": "'You gave us all hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/fans-of-big-bear-bald-eagle-jackie-respond-to-her-death",
+			"headline": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
+			"url": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T22:58:24.000Z"
+			"publishedAt": "2026-08-12T16:00:00.000Z"
+		},
+		{
+			"headline": "Extending AI Architectures to Address Continuous Scientific Problems",
+			"url": "https://www.caltech.edu/about/news/extending-ai-architectures-to-address-continuous-scientific-problems",
+			"source": "Caltech",
+			"publishedAt": "2026-08-12T15:00:00.373Z"
+		},
+		{
+			"headline": "State lawmakers seek tougher rules for industrial facilities after Boyle Heights fire",
+			"url": "https://www.latimes.com/california/story/2026-08-12/state-lawmakers-seek-tougher-rules-for-industrial-facilities-after-boyle-heights-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-12T14:30:00.000Z"
+		},
+		{
+			"headline": "Senator 'deeply troubled' by utility threats",
+			"url": "https://www.latimes.com/business/story/2026-08-12/senator-deeply-troubled-by-utility-threats",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-12T10:00:00.000Z"
 		},
 		{
 			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
 			"url": "https://www.latimes.com/environment/story/2026-08-11/california-to-phase-out-paraquat-powerful-weedkiller-associated-with-serious-health-issues",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-11T21:47:12.000Z"
+		},
+		{
+			"headline": "'You gave us all hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/fans-of-big-bear-bald-eagle-jackie-respond-to-her-death",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T22:58:24.000Z"
 		},
 		{
 			"headline": "A Night Out With the Cosmic Wild Ducks",
@@ -26,10 +50,16 @@
 			"publishedAt": "2026-08-11T18:07:28.000Z"
 		},
 		{
+			"headline": "Why we don't need more data centers to build better AI",
+			"url": "https://news.berkeley.edu/2026/08/11/why-we-dont-need-more-data-centers-to-build-better-ai/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-11T17:26:21.000Z"
+		},
+		{
 			"headline": "Models of Glacial Collapse in Antarctica Improve Predictions of Sea-Level Rise",
 			"url": "https://www.caltech.edu/about/news/models-of-glacial-collapse-in-antarctica-improve-predictions-of-sea-level-rise",
 			"source": "Caltech",
-			"publishedAt": "2026-08-11T16:46:27.687Z"
+			"publishedAt": "2026-08-11T16:46:00.000Z"
 		},
 		{
 			"headline": "Toxic site near South L.A. homes finally faces state cleanup order",
@@ -38,22 +68,10 @@
 			"publishedAt": "2026-08-11T10:00:00.000Z"
 		},
 		{
-			"headline": "Why we don't need more data centers to build better AI",
-			"url": "https://news.berkeley.edu/2026/08/11/why-we-dont-need-more-data-centers-to-build-better-ai/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-11T17:26:21.000Z"
-		},
-		{
-			"headline": "El Niño could bring highest sea levels ever recorded to the California coast",
-			"url": "https://www.latimes.com/california/story/2026-08-10/el-nino-could-bring-california-its-highest-sea-levels-ever-recorded",
+			"headline": "Euthanasia rates of cats and kittens are on the rise at L.A. city animal shelters",
+			"url": "https://www.latimes.com/california/story/2026-08-11/euthanasia-rates-of-cats-kittens-are-on-rise-at-la-city-animal-shelters",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T10:00:00.000Z"
-		},
-		{
-			"headline": "The eight-mile gap in the L.A. River bike path downtown has a billion-dollar problem",
-			"url": "https://www.latimes.com/environment/story/2026-08-10/gap-in-la-river-bike-path-downtown-has-billion-dollar-problem",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T10:00:00.000Z"
+			"publishedAt": "2026-08-11T10:00:00.000Z"
 		},
 		{
 			"headline": "State parks around Big Sur closed as Timber fire grows to 2,000 acres",
@@ -62,64 +80,40 @@
 			"publishedAt": "2026-08-11T01:35:39.000Z"
 		},
 		{
-			"headline": "Jackie, arguably the world's most famous bald eagle, dies after mysterious illness",
-			"url": "https://www.latimes.com/environment/story/2026-08-10/jackie-arguably-worlds-most-famous-bald-eagle-dies-after-weeks-of-treatment",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T20:05:10.000Z"
-		},
-		{
 			"headline": "Speed climber who conquered El Capitan route at an astonishing rate dies on another adventure",
 			"url": "https://www.latimes.com/california/story/2026-08-10/speed-climber-dies-accident-yosemite-sequoia",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-10T21:10:45.000Z"
 		},
 		{
-			"headline": "Trump is attacking California's ability to protect its coastline. The consequences may be dire",
-			"url": "https://www.latimes.com/environment/story/2026-08-07/trump-attack-california-coastal-protection-unprecedented",
+			"headline": "Jackie, arguably the world's most famous bald eagle, dies after mysterious illness",
+			"url": "https://www.latimes.com/environment/story/2026-08-10/jackie-arguably-worlds-most-famous-bald-eagle-dies-after-weeks-of-treatment",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-07T10:00:00.000Z"
+			"publishedAt": "2026-08-10T20:05:10.000Z"
 		},
 		{
-			"headline": "New Info from Ancient Rocks Upends Popular Theory",
-			"url": "https://www.caltech.edu/about/news/new-info-from-ancient-rocks-upends-popular-theory",
-			"source": "Caltech",
-			"publishedAt": "2026-08-07T16:37:00.000Z"
-		},
-		{
-			"headline": "Tiny toad, big discovery: New ice age amphibian found in La Brea Tar Pits collection",
-			"url": "https://www.latimes.com/california/story/2026-08-06/tiny-toad-big-discovery-new-ice-age-amphibian-found-in-la-brea-tar-pits-collection",
+			"headline": "The eight-mile gap in the L.A. River bike path downtown has a billion-dollar problem",
+			"url": "https://www.latimes.com/environment/story/2026-08-10/gap-in-la-river-bike-path-downtown-has-billion-dollar-problem",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-07T02:22:43.000Z"
+			"publishedAt": "2026-08-10T10:00:00.000Z"
 		},
 		{
-			"headline": "MBARI and the California Academy of Sciences inspire the next generation of scientists",
-			"url": "https://www.mbari.org/news/mbari-and-the-california-academy-of-sciences-inspire-the-next-generation-of-scientists/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-06T23:51:16.000Z"
-		},
-		{
-			"headline": "A partnership in ocean science and resource management",
-			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-06T19:00:33.000Z"
-		},
-		{
-			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
-			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
+			"headline": "El Niño could bring highest sea levels ever recorded to the California coast",
+			"url": "https://www.latimes.com/california/story/2026-08-10/el-nino-could-bring-california-its-highest-sea-levels-ever-recorded",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T20:27:04.000Z"
+			"publishedAt": "2026-08-10T10:00:00.000Z"
 		},
 		{
-			"headline": "Bonta accuses DuPont of corporate shell game to dodge PFAS cleanup in California",
-			"url": "https://www.latimes.com/science/story/2026-08-06/bonta-accuses-dupont-of-dodging-pfas-cleanup-in-california",
+			"headline": "SoCal heat wave: Triple-digit temperatures, fire weather and coastal flooding in store",
+			"url": "https://www.latimes.com/california/story/2026-08-09/socal-heat-wave-brings-fire-weather-coastal-flooding-risk",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T21:35:05.000Z"
+			"publishedAt": "2026-08-09T15:28:03.000Z"
 		},
 		{
-			"headline": "New Quantum Microscopy Trick Quadruples Microscope Resolution",
-			"url": "https://www.caltech.edu/about/news/new-quantum-microscopy-trick-quadruples-microscope-resolution",
-			"source": "Caltech",
-			"publishedAt": "2026-08-06T14:54:32.421Z"
+			"headline": "Firefighters battling brush fires in Burbank, Santa Clarita",
+			"url": "https://www.latimes.com/california/story/2026-08-08/la-me-walnut-fire-burbank",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-09T00:43:27.000Z"
 		},
 		{
 			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
@@ -128,22 +122,34 @@
 			"publishedAt": "2026-08-08T19:12:05.000Z"
 		},
 		{
+			"headline": "Searing heat on tap for SoCal this weekend — and there's more fire danger ahead",
+			"url": "https://www.latimes.com/california/story/2026-08-07/searing-heat-on-tap-for-socal-this-weekend-with-more-fire-danger-ahead",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-08T02:28:32.000Z"
+		},
+		{
+			"headline": "Evacuation orders lifted for 1,000-acre Ridge fire near Gorman as containment grows",
+			"url": "https://www.latimes.com/california/story/2026-08-07/ridge-fire-prompts-evacuation-orders-closes-5-freeway-near-gorman",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-08T01:14:55.000Z"
+		},
+		{
 			"headline": "Celebrity bald eagle Jackie's anemia worsens: 'We wish we had better news'",
 			"url": "https://www.latimes.com/environment/story/2026-08-07/celebrity-bald-eagle-jackies-anemia-worsens-wish-we-had-better-news",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-08T00:14:47.000Z"
 		},
 		{
-			"headline": "California's cyclosporiasis cases are 'higher than expected.' What is fueling the uptick?",
-			"url": "https://www.latimes.com/california/story/2026-08-06/californias-cyclosporiasis-cases-are-higher-than-expected-but-officials-arent-sure-why",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T21:50:34.000Z"
-		},
-		{
 			"headline": "Mountain lion safely captured after strolling through San Dimas neighborhood",
 			"url": "https://www.latimes.com/california/story/2026-08-07/lounging-mountain-lion-shuts-down-road-in-san-dimas",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-07T17:58:00.000Z"
+		},
+		{
+			"headline": "New Info from Ancient Rocks Upends Popular Theory",
+			"url": "https://www.caltech.edu/about/news/new-info-from-ancient-rocks-upends-popular-theory",
+			"source": "Caltech",
+			"publishedAt": "2026-08-07T16:37:00.000Z"
 		}
 	]
 }
