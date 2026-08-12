@@ -1,8 +1,8 @@
 {
-	"lastUpdated": "2026-08-12T00:46:11.609Z",
+	"lastUpdated": "2026-08-12T05:20:52.091Z",
 	"items": [
 		{
-			"headline": "'You gave us hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
+			"headline": "'You gave us all hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
 			"url": "https://www.latimes.com/environment/story/2026-08-11/fans-of-big-bear-bald-eagle-jackie-respond-to-her-death",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-11T22:58:24.000Z"
@@ -32,6 +32,12 @@
 			"publishedAt": "2026-08-11T16:46:27.687Z"
 		},
 		{
+			"headline": "Toxic site near South L.A. homes finally faces state cleanup order",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/state-mandates-cleanup-of-highly-contaminated-south-la-site",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T10:00:00.000Z"
+		},
+		{
 			"headline": "State parks around Big Sur closed as Timber fire grows to 2,000 acres",
 			"url": "https://www.latimes.com/california/story/2026-08-10/timber-fire-big-sur-evacuations-nepenthe-alila-ventana",
 			"source": "Los Angeles Times",
@@ -50,12 +56,6 @@
 			"publishedAt": "2026-08-10T20:05:10.000Z"
 		},
 		{
-			"headline": "With Big Bear bald eagle Jackie gone, we want to hear what she meant to you",
-			"url": "https://www.latimes.com/environment/story/2026-08-10/tell-us-what-big-bears-beloved-bald-eagle-jackie-means-to-you",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T19:05:59.000Z"
-		},
-		{
 			"headline": "The eight-mile gap in the L.A. River bike path downtown has a billion-dollar problem",
 			"url": "https://www.latimes.com/environment/story/2026-08-10/gap-in-la-river-bike-path-downtown-has-billion-dollar-problem",
 			"source": "Los Angeles Times",
@@ -68,22 +68,10 @@
 			"publishedAt": "2026-08-10T10:00:00.000Z"
 		},
 		{
-			"headline": "A 'Super' El Niño Is Here. What Does It Mean for the Bay Area?",
-			"url": "https://baynature.org/2026/08/06/science-nature/weather/el-nino/a-super-el-nino-is-here/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-06T13:00:00.000Z"
-		},
-		{
-			"headline": "SoCal heat wave: Triple-digit temperatures, fire weather and coastal flooding in store",
-			"url": "https://www.latimes.com/california/story/2026-08-09/socal-heat-wave-brings-fire-weather-coastal-flooding-risk",
+			"headline": "A much-needed cool-down is on the horizon for SoCal this week",
+			"url": "https://www.latimes.com/california/story/2026-08-10/much-needed-cool-down-is-on-horizon-for-socal-this-week",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-09T15:28:03.000Z"
-		},
-		{
-			"headline": "Firefighters battling brush fires in Burbank, Santa Clarita",
-			"url": "https://www.latimes.com/california/story/2026-08-08/la-me-walnut-fire-burbank",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-09T00:43:27.000Z"
+			"publishedAt": "2026-08-10T10:00:00.000Z"
 		},
 		{
 			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
@@ -150,6 +138,18 @@
 			"url": "https://www.latimes.com/science/story/2026-08-06/bonta-accuses-dupont-of-dodging-pfas-cleanup-in-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-06T21:35:05.000Z"
+		},
+		{
+			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
+			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-06T20:27:04.000Z"
+		},
+		{
+			"headline": "A partnership in ocean science and resource management",
+			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-06T19:00:33.000Z"
 		}
 	]
 }
