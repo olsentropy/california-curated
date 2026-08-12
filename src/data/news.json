@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-12T05:20:52.091Z",
+	"lastUpdated": "2026-08-12T08:56:21.904Z",
 	"items": [
 		{
 			"headline": "'You gave us all hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
@@ -26,6 +26,12 @@
 			"publishedAt": "2026-08-11T18:07:28.000Z"
 		},
 		{
+			"headline": "Why we don't need more data centers to build better AI",
+			"url": "https://news.berkeley.edu/2026/08/11/why-we-dont-need-more-data-centers-to-build-better-ai/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-11T17:26:21.000Z"
+		},
+		{
 			"headline": "Models of Glacial Collapse in Antarctica Improve Predictions of Sea-Level Rise",
 			"url": "https://www.caltech.edu/about/news/models-of-glacial-collapse-in-antarctica-improve-predictions-of-sea-level-rise",
 			"source": "Caltech",
@@ -44,6 +50,24 @@
 			"publishedAt": "2026-08-11T01:35:39.000Z"
 		},
 		{
+			"headline": "El Niño could bring highest sea levels ever recorded to the California coast",
+			"url": "https://www.latimes.com/california/story/2026-08-10/el-nino-could-bring-california-its-highest-sea-levels-ever-recorded",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-10T10:00:00.000Z"
+		},
+		{
+			"headline": "The eight-mile gap in the L.A. River bike path downtown has a billion-dollar problem",
+			"url": "https://www.latimes.com/environment/story/2026-08-10/gap-in-la-river-bike-path-downtown-has-billion-dollar-problem",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-10T10:00:00.000Z"
+		},
+		{
+			"headline": "A much-needed cool-down is on the horizon for SoCal this week",
+			"url": "https://www.latimes.com/california/story/2026-08-10/much-needed-cool-down-is-on-horizon-for-socal-this-week",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-10T10:00:00.000Z"
+		},
+		{
 			"headline": "Speed climber who conquered El Capitan route at an astonishing rate dies on another adventure",
 			"url": "https://www.latimes.com/california/story/2026-08-10/speed-climber-dies-accident-yosemite-sequoia",
 			"source": "Los Angeles Times",
@@ -56,28 +80,22 @@
 			"publishedAt": "2026-08-10T20:05:10.000Z"
 		},
 		{
-			"headline": "The eight-mile gap in the L.A. River bike path downtown has a billion-dollar problem",
-			"url": "https://www.latimes.com/environment/story/2026-08-10/gap-in-la-river-bike-path-downtown-has-billion-dollar-problem",
+			"headline": "With Big Bear bald eagle Jackie gone, we want to hear what she meant to you",
+			"url": "https://www.latimes.com/environment/story/2026-08-10/tell-us-what-big-bears-beloved-bald-eagle-jackie-means-to-you",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T10:00:00.000Z"
+			"publishedAt": "2026-08-10T19:05:59.000Z"
 		},
 		{
-			"headline": "El Niño could bring highest sea levels ever recorded to the California coast",
-			"url": "https://www.latimes.com/california/story/2026-08-10/el-nino-could-bring-california-its-highest-sea-levels-ever-recorded",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T10:00:00.000Z"
+			"headline": "2,500-year-old Etruscan artifacts held at UC Berkeley on display for a limited time",
+			"url": "https://news.berkeley.edu/2026/08/10/2500-year-old-etruscan-artifacts-held-at-uc-berkeley-on-display-for-the-first-time/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-10T19:01:24.000Z"
 		},
 		{
-			"headline": "A much-needed cool-down is on the horizon for SoCal this week",
-			"url": "https://www.latimes.com/california/story/2026-08-10/much-needed-cool-down-is-on-horizon-for-socal-this-week",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T10:00:00.000Z"
-		},
-		{
-			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
-			"url": "https://www.latimes.com/california/story/2026-08-08/santa-barbara-zoo-red-panda-mom-dies",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-08T19:12:05.000Z"
+			"headline": "Iconic photographer Judy Dater's archive finds a home at The Bancroft Library",
+			"url": "https://www.lib.berkeley.edu/about/news/dater",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-10T18:23:37.000Z"
 		},
 		{
 			"headline": "Searing heat on tap for SoCal this weekend — and there's more fire danger ahead",
@@ -96,6 +114,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-07/celebrity-bald-eagle-jackies-anemia-worsens-wish-we-had-better-news",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-08T00:14:47.000Z"
+		},
+		{
+			"headline": "Berkeley Talks: How we've long misread gun violence (and ways to prevent it)",
+			"url": "https://news.berkeley.edu/2026/08/07/berkeley-talks-jens-ludwig-on-gun-violence/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-07T21:39:01.000Z"
 		},
 		{
 			"headline": "Mountain lion safely captured after strolling through San Dimas neighborhood",
@@ -126,30 +150,6 @@
 			"url": "https://www.mbari.org/news/mbari-and-the-california-academy-of-sciences-inspire-the-next-generation-of-scientists/",
 			"source": "MBARI",
 			"publishedAt": "2026-08-06T23:51:16.000Z"
-		},
-		{
-			"headline": "California's cyclosporiasis cases are 'higher than expected.' What is fueling the uptick?",
-			"url": "https://www.latimes.com/california/story/2026-08-06/californias-cyclosporiasis-cases-are-higher-than-expected-but-officials-arent-sure-why",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T21:50:34.000Z"
-		},
-		{
-			"headline": "Bonta accuses DuPont of corporate shell game to dodge PFAS cleanup in California",
-			"url": "https://www.latimes.com/science/story/2026-08-06/bonta-accuses-dupont-of-dodging-pfas-cleanup-in-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T21:35:05.000Z"
-		},
-		{
-			"headline": "Another offshore wind developer exits California in $1.22-billion deal with Trump administration",
-			"url": "https://www.latimes.com/environment/story/2026-08-06/another-offshore-wind-developer-exits-california-in-1-22-billion-deal-with-trump",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-06T20:27:04.000Z"
-		},
-		{
-			"headline": "A partnership in ocean science and resource management",
-			"url": "https://www.mbari.org/news/a-partnership-in-ocean-science-and-resource-management/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-06T19:00:33.000Z"
 		}
 	]
 }
