@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-08-13T16:44:11.157Z",
+	"lastUpdated": "2026-08-13T20:26:36.303Z",
 	"items": [
+		{
+			"headline": "Can 'digital twins' help California manage its growing flood risk?",
+			"url": "https://news.berkeley.edu/2026/08/13/can-digital-twins-help-california-manage-its-growing-flood-risk/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-13T19:01:34.000Z"
+		},
+		{
+			"headline": "A 'super' El Niño is now super likely, leaving California bracing for impact",
+			"url": "https://www.latimes.com/california/story/2026-08-13/risk-of-super-el-nino-now-95-percent-as-california-braces-for-impacts",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-13T18:01:27.000Z"
+		},
 		{
 			"headline": "Magnitude 3.8 earthquake centered in Oakland shakes Northern California",
 			"url": "https://www.latimes.com/california/story/2026-08-13/magnitude-3-8-earthquake-centered-in-oakland-shakes-northern-california",
@@ -68,22 +80,16 @@
 			"publishedAt": "2026-08-11T21:03:16.000Z"
 		},
 		{
-			"headline": "'You gave us all hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/fans-of-big-bear-bald-eagle-jackie-respond-to-her-death",
+			"headline": "'California's coast is not for sale.' State battles Trump plan to limit coastal oversight",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/trump-administration-california-coastal-commission-performance-evaluation",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T22:58:24.000Z"
+			"publishedAt": "2026-08-11T18:07:28.000Z"
 		},
 		{
 			"headline": "Why we don't need more data centers to build better AI",
 			"url": "https://news.berkeley.edu/2026/08/11/why-we-dont-need-more-data-centers-to-build-better-ai/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-11T17:26:21.000Z"
-		},
-		{
-			"headline": "'California's coast is not for sale.' State battles Trump plan to limit coastal oversight",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/trump-administration-california-coastal-commission-performance-evaluation",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T18:07:28.000Z"
 		},
 		{
 			"headline": "Models of Glacial Collapse in Antarctica Improve Predictions of Sea-Level Rise",
@@ -110,6 +116,12 @@
 			"publishedAt": "2026-08-11T01:35:39.000Z"
 		},
 		{
+			"headline": "Jackie, arguably the world's most famous bald eagle, dies after mysterious illness",
+			"url": "https://www.latimes.com/environment/story/2026-08-10/jackie-arguably-worlds-most-famous-bald-eagle-dies-after-weeks-of-treatment",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-10T20:05:10.000Z"
+		},
+		{
 			"headline": "El Niño could bring highest sea levels ever recorded to the California coast",
 			"url": "https://www.latimes.com/california/story/2026-08-10/el-nino-could-bring-california-its-highest-sea-levels-ever-recorded",
 			"source": "Los Angeles Times",
@@ -122,34 +134,22 @@
 			"publishedAt": "2026-08-10T10:00:00.000Z"
 		},
 		{
-			"headline": "Jackie, arguably the world's most famous bald eagle, dies after mysterious illness",
-			"url": "https://www.latimes.com/environment/story/2026-08-10/jackie-arguably-worlds-most-famous-bald-eagle-dies-after-weeks-of-treatment",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T20:05:10.000Z"
-		},
-		{
-			"headline": "Speed climber who conquered El Capitan route at an astonishing rate dies on another adventure",
-			"url": "https://www.latimes.com/california/story/2026-08-10/speed-climber-dies-accident-yosemite-sequoia",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T21:10:45.000Z"
-		},
-		{
 			"headline": "SoCal heat wave: Triple-digit temperatures, fire weather and coastal flooding in store",
 			"url": "https://www.latimes.com/california/story/2026-08-09/socal-heat-wave-brings-fire-weather-coastal-flooding-risk",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-09T15:28:03.000Z"
 		},
 		{
-			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
-			"url": "https://www.latimes.com/california/story/2026-08-08/santa-barbara-zoo-red-panda-mom-dies",
+			"headline": "Evacuation orders lifted for 1,000-acre Ridge fire near Gorman as containment grows",
+			"url": "https://www.latimes.com/california/story/2026-08-07/ridge-fire-prompts-evacuation-orders-closes-5-freeway-near-gorman",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-08T19:12:05.000Z"
+			"publishedAt": "2026-08-08T01:14:55.000Z"
 		},
 		{
-			"headline": "New Info from Ancient Rocks Upends Popular Theory",
-			"url": "https://www.caltech.edu/about/news/new-info-from-ancient-rocks-upends-popular-theory",
-			"source": "Caltech",
-			"publishedAt": "2026-08-07T16:37:00.000Z"
+			"headline": "Berkeley Talks: How we've long misread gun violence (and ways to prevent it)",
+			"url": "https://news.berkeley.edu/2026/08/07/berkeley-talks-jens-ludwig-on-gun-violence/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-07T21:39:01.000Z"
 		}
 	]
 }
