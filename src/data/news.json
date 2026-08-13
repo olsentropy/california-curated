@@ -1,6 +1,24 @@
 {
-	"lastUpdated": "2026-08-13T12:37:22.148Z",
+	"lastUpdated": "2026-08-13T16:44:11.157Z",
 	"items": [
+		{
+			"headline": "Magnitude 3.8 earthquake centered in Oakland shakes Northern California",
+			"url": "https://www.latimes.com/california/story/2026-08-13/magnitude-3-8-earthquake-centered-in-oakland-shakes-northern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-13T16:26:25.000Z"
+		},
+		{
+			"headline": "Synchronized Stars Power Cosmic Radio Laser",
+			"url": "https://www.caltech.edu/about/news/synchronized-stars-power-cosmic-radio-laser",
+			"source": "Caltech",
+			"publishedAt": "2026-08-13T15:00:00.378Z"
+		},
+		{
+			"headline": "California launches environmental youth council after EPA program lapses under Trump",
+			"url": "https://www.latimes.com/environment/story/2026-08-13/california-launches-environmental-youth-panel-after-epa-program-lapses",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-13T13:00:00.000Z"
+		},
 		{
 			"headline": "We killed off California's grizzly bears over a century ago. Can we resurrect them?",
 			"url": "https://www.latimes.com/california/story/2026-08-13/we-killed-off-californias-grizzly-bears-over-century-ago-can-we-resurrect-them",
@@ -38,12 +56,6 @@
 			"publishedAt": "2026-08-12T21:39:50.000Z"
 		},
 		{
-			"headline": "'You gave us all hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/fans-of-big-bear-bald-eagle-jackie-respond-to-her-death",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T22:58:24.000Z"
-		},
-		{
 			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
 			"url": "https://www.latimes.com/environment/story/2026-08-11/california-to-phase-out-paraquat-powerful-weedkiller-associated-with-serious-health-issues",
 			"source": "Los Angeles Times",
@@ -56,16 +68,22 @@
 			"publishedAt": "2026-08-11T21:03:16.000Z"
 		},
 		{
-			"headline": "'California's coast is not for sale.' State battles Trump plan to limit coastal oversight",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/trump-administration-california-coastal-commission-performance-evaluation",
+			"headline": "'You gave us all hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/fans-of-big-bear-bald-eagle-jackie-respond-to-her-death",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T18:07:28.000Z"
+			"publishedAt": "2026-08-11T22:58:24.000Z"
 		},
 		{
 			"headline": "Why we don't need more data centers to build better AI",
 			"url": "https://news.berkeley.edu/2026/08/11/why-we-dont-need-more-data-centers-to-build-better-ai/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-11T17:26:21.000Z"
+		},
+		{
+			"headline": "'California's coast is not for sale.' State battles Trump plan to limit coastal oversight",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/trump-administration-california-coastal-commission-performance-evaluation",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T18:07:28.000Z"
 		},
 		{
 			"headline": "Models of Glacial Collapse in Antarctica Improve Predictions of Sea-Level Rise",
@@ -76,12 +94,6 @@
 		{
 			"headline": "Toxic site near South L.A. homes finally faces state cleanup order",
 			"url": "https://www.latimes.com/environment/story/2026-08-11/state-mandates-cleanup-of-highly-contaminated-south-la-site",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T10:00:00.000Z"
-		},
-		{
-			"headline": "Euthanasia rates of cats and kittens are on the rise at L.A. city animal shelters",
-			"url": "https://www.latimes.com/california/story/2026-08-11/euthanasia-rates-of-cats-kittens-are-on-rise-at-la-city-animal-shelters",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-11T10:00:00.000Z"
 		},
@@ -98,18 +110,6 @@
 			"publishedAt": "2026-08-11T01:35:39.000Z"
 		},
 		{
-			"headline": "Speed climber who conquered El Capitan route at an astonishing rate dies on another adventure",
-			"url": "https://www.latimes.com/california/story/2026-08-10/speed-climber-dies-accident-yosemite-sequoia",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T21:10:45.000Z"
-		},
-		{
-			"headline": "Jackie, arguably the world's most famous bald eagle, dies after mysterious illness",
-			"url": "https://www.latimes.com/environment/story/2026-08-10/jackie-arguably-worlds-most-famous-bald-eagle-dies-after-weeks-of-treatment",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T20:05:10.000Z"
-		},
-		{
 			"headline": "El Niño could bring highest sea levels ever recorded to the California coast",
 			"url": "https://www.latimes.com/california/story/2026-08-10/el-nino-could-bring-california-its-highest-sea-levels-ever-recorded",
 			"source": "Los Angeles Times",
@@ -122,10 +122,16 @@
 			"publishedAt": "2026-08-10T10:00:00.000Z"
 		},
 		{
-			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
-			"url": "https://www.latimes.com/california/story/2026-08-08/santa-barbara-zoo-red-panda-mom-dies",
+			"headline": "Jackie, arguably the world's most famous bald eagle, dies after mysterious illness",
+			"url": "https://www.latimes.com/environment/story/2026-08-10/jackie-arguably-worlds-most-famous-bald-eagle-dies-after-weeks-of-treatment",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-08T19:12:05.000Z"
+			"publishedAt": "2026-08-10T20:05:10.000Z"
+		},
+		{
+			"headline": "Speed climber who conquered El Capitan route at an astonishing rate dies on another adventure",
+			"url": "https://www.latimes.com/california/story/2026-08-10/speed-climber-dies-accident-yosemite-sequoia",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-10T21:10:45.000Z"
 		},
 		{
 			"headline": "SoCal heat wave: Triple-digit temperatures, fire weather and coastal flooding in store",
@@ -134,22 +140,16 @@
 			"publishedAt": "2026-08-09T15:28:03.000Z"
 		},
 		{
-			"headline": "Mountain lion safely captured after strolling through San Dimas neighborhood",
-			"url": "https://www.latimes.com/california/story/2026-08-07/lounging-mountain-lion-shuts-down-road-in-san-dimas",
+			"headline": "Red panda mom dies weeks after loss of newborn cubs at California zoo",
+			"url": "https://www.latimes.com/california/story/2026-08-08/santa-barbara-zoo-red-panda-mom-dies",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-07T17:58:00.000Z"
+			"publishedAt": "2026-08-08T19:12:05.000Z"
 		},
 		{
 			"headline": "New Info from Ancient Rocks Upends Popular Theory",
 			"url": "https://www.caltech.edu/about/news/new-info-from-ancient-rocks-upends-popular-theory",
 			"source": "Caltech",
 			"publishedAt": "2026-08-07T16:37:00.000Z"
-		},
-		{
-			"headline": "Trump is attacking California's ability to protect its coastline. The consequences may be dire",
-			"url": "https://www.latimes.com/environment/story/2026-08-07/trump-attack-california-coastal-protection-unprecedented",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-07T10:00:00.000Z"
 		}
 	]
 }
