@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-14T00:47:06.773Z",
+	"lastUpdated": "2026-08-14T05:21:43.663Z",
 	"items": [
+		{
+			"headline": "Effort to ban genetically modified animals dies in California Legislature. Advocates blame politics",
+			"url": "https://www.latimes.com/california/story/2026-08-13/effort-to-ban-genetically-modified-animals-dies-in-california-legislature",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T02:16:34.000Z"
+		},
 		{
 			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
 			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
@@ -56,16 +62,16 @@
 			"publishedAt": "2026-08-13T10:00:00.000Z"
 		},
 		{
-			"headline": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
-			"url": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-12T16:00:00.000Z"
-		},
-		{
 			"headline": "Sweat Sensor Enables Continuous Noninvasive Measurement of Cholesterol",
 			"url": "https://www.caltech.edu/about/news/sweat-sensor-enables-continuous-noninvasive-measurement-of-cholesterol",
 			"source": "Caltech",
 			"publishedAt": "2026-08-12T16:41:24.099Z"
+		},
+		{
+			"headline": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
+			"url": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-12T16:00:00.000Z"
 		},
 		{
 			"headline": "Extending AI Architectures to Address Continuous Scientific Problems",
@@ -78,12 +84,6 @@
 			"url": "https://www.latimes.com/california/story/2026-08-12/state-lawmakers-seek-tougher-rules-for-industrial-facilities-after-boyle-heights-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-12T14:30:00.000Z"
-		},
-		{
-			"headline": "'You gave us all hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/fans-of-big-bear-bald-eagle-jackie-respond-to-her-death",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T22:58:24.000Z"
 		},
 		{
 			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
@@ -122,6 +122,18 @@
 			"publishedAt": "2026-08-11T10:00:00.000Z"
 		},
 		{
+			"headline": "Euthanasia rates of cats and kittens are on the rise at L.A. city animal shelters",
+			"url": "https://www.latimes.com/california/story/2026-08-11/euthanasia-rates-of-cats-kittens-are-on-rise-at-la-city-animal-shelters",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T10:00:00.000Z"
+		},
+		{
+			"headline": "'You gave us all hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/fans-of-big-bear-bald-eagle-jackie-respond-to-her-death",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T22:58:24.000Z"
+		},
+		{
 			"headline": "A typo by California police led to violent arrest of innocent man who later died, officials say",
 			"url": "https://www.latimes.com/california/story/2026-08-10/typo-by-san-francisco-police-led-to-violent-arrest-of-innocent-driver",
 			"source": "Los Angeles Times",
@@ -138,18 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-08-10/speed-climber-dies-accident-yosemite-sequoia",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-10T21:10:45.000Z"
-		},
-		{
-			"headline": "Jackie, arguably the world's most famous bald eagle, dies after mysterious illness",
-			"url": "https://www.latimes.com/environment/story/2026-08-10/jackie-arguably-worlds-most-famous-bald-eagle-dies-after-weeks-of-treatment",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T20:05:10.000Z"
-		},
-		{
-			"headline": "El Niño could bring highest sea levels ever recorded to the California coast",
-			"url": "https://www.latimes.com/california/story/2026-08-10/el-nino-could-bring-california-its-highest-sea-levels-ever-recorded",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T10:00:00.000Z"
 		}
 	]
 }
