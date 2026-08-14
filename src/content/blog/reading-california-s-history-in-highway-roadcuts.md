@@ -7,9 +7,10 @@ heroImage: /wp-content/uploads/cms/roadcuts-dji_fly_20231118_145934_0024_1700353
 categories:
   - geology-and-earthquakes
   - places
-tags: []
+tags:
+  - '#CaliforniaGeology #Roadcuts #SanAndreasFault #SierraNevada #SanGabrielMountains #EarthScience #Geology #CaliforniaHistory #PlateTectonics #CaliforniaCurated'
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 > _“Man is a geologic agent,” the late UC Davis geologist Eldridge Moores._
