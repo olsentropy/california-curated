@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-14T12:33:14.308Z",
+	"lastUpdated": "2026-08-14T16:37:24.676Z",
 	"items": [
 		{
 			"headline": "Can 'digital twins' help California manage its growing flood risk?",
@@ -12,6 +12,12 @@
 			"url": "https://www.latimes.com/california/story/2026-08-13/risk-of-super-el-nino-now-95-percent-as-california-braces-for-impacts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-13T18:01:27.000Z"
+		},
+		{
+			"headline": "Magnitude 3.8 earthquake centered in Oakland shakes Northern California",
+			"url": "https://www.latimes.com/california/story/2026-08-13/magnitude-3-8-earthquake-centered-in-oakland-shakes-northern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-13T16:26:25.000Z"
 		},
 		{
 			"headline": "Synchronized Stars Power Cosmic Radio Laser",
@@ -38,12 +44,6 @@
 			"publishedAt": "2026-08-13T10:00:00.000Z"
 		},
 		{
-			"headline": "Magnitude 3.8 earthquake centered in Oakland shakes Northern California",
-			"url": "https://www.latimes.com/california/story/2026-08-13/magnitude-3-8-earthquake-centered-in-oakland-shakes-northern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-13T16:26:25.000Z"
-		},
-		{
 			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
 			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
 			"source": "Mongabay",
@@ -56,10 +56,16 @@
 			"publishedAt": "2026-08-13T21:20:32.000Z"
 		},
 		{
-			"headline": "Sweat Sensor Enables Continuous Noninvasive Measurement of Cholesterol",
-			"url": "https://www.caltech.edu/about/news/sweat-sensor-enables-continuous-noninvasive-measurement-of-cholesterol",
-			"source": "Caltech",
-			"publishedAt": "2026-08-12T16:41:24.099Z"
+			"headline": "California's bid to outlaw 'glow-in-the-dark rabbits' and 'unicorn horses' fails",
+			"url": "https://www.latimes.com/california/story/2026-08-13/effort-to-ban-genetically-modified-animals-dies-in-california-legislature",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T02:16:34.000Z"
+		},
+		{
+			"headline": "Magnitude 2.7 earthquake rattles Stevenson Ranch",
+			"url": "https://www.latimes.com/california/story/2026-08-12/earthquake-2-7-quake-registered-in-stevenson-ranch",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-12T21:39:50.000Z"
 		},
 		{
 			"headline": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
@@ -80,18 +86,6 @@
 			"publishedAt": "2026-08-12T14:30:00.000Z"
 		},
 		{
-			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/california-to-phase-out-paraquat-powerful-weedkiller-associated-with-serious-health-issues",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T21:47:12.000Z"
-		},
-		{
-			"headline": "A Night Out With the Cosmic Wild Ducks",
-			"url": "https://baynature.org/2026/08/11/science-nature/astronomy/a-night-out-with-the-wild-cosmic-ducks/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-11T21:03:16.000Z"
-		},
-		{
 			"headline": "'California's coast is not for sale.' State battles Trump plan to limit coastal oversight",
 			"url": "https://www.latimes.com/environment/story/2026-08-11/trump-administration-california-coastal-commission-performance-evaluation",
 			"source": "Los Angeles Times",
@@ -110,10 +104,16 @@
 			"publishedAt": "2026-08-11T16:46:00.000Z"
 		},
 		{
-			"headline": "The Under-the-Radar Creeks That Are Sweeping Carbon Out of Salt Marshes",
-			"url": "https://eos.org/research-spotlights/the-under-the-radar-creeks-that-are-sweeping-carbon-out-of-salt-marshes",
-			"source": "Eos",
-			"publishedAt": "2026-08-11T12:04:52.000Z"
+			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/california-to-phase-out-paraquat-powerful-weedkiller-associated-with-serious-health-issues",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T21:47:12.000Z"
+		},
+		{
+			"headline": "A Night Out With the Cosmic Wild Ducks",
+			"url": "https://baynature.org/2026/08/11/science-nature/astronomy/a-night-out-with-the-wild-cosmic-ducks/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-11T21:03:16.000Z"
 		},
 		{
 			"headline": "Toxic site near South L.A. homes finally faces state cleanup order",
@@ -122,16 +122,22 @@
 			"publishedAt": "2026-08-11T10:00:00.000Z"
 		},
 		{
-			"headline": "'You gave us all hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/fans-of-big-bear-bald-eagle-jackie-respond-to-her-death",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T22:58:24.000Z"
+			"headline": "2,500-year-old Etruscan artifacts held at UC Berkeley on display for a limited time",
+			"url": "https://news.berkeley.edu/2026/08/10/2500-year-old-etruscan-artifacts-held-at-uc-berkeley-on-display-for-the-first-time/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-10T19:01:24.000Z"
 		},
 		{
-			"headline": "State parks around Big Sur closed as Timber fire grows to 2,000 acres",
-			"url": "https://www.latimes.com/california/story/2026-08-10/timber-fire-big-sur-evacuations-nepenthe-alila-ventana",
+			"headline": "Iconic photographer Judy Dater's archive finds a home at The Bancroft Library",
+			"url": "https://www.lib.berkeley.edu/about/news/dater",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-10T18:23:37.000Z"
+		},
+		{
+			"headline": "The eight-mile gap in the L.A. River bike path downtown has a billion-dollar problem",
+			"url": "https://www.latimes.com/environment/story/2026-08-10/gap-in-la-river-bike-path-downtown-has-billion-dollar-problem",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T01:35:39.000Z"
+			"publishedAt": "2026-08-10T10:00:00.000Z"
 		},
 		{
 			"headline": "El Niño could bring highest sea levels ever recorded to the California coast",
@@ -140,16 +146,10 @@
 			"publishedAt": "2026-08-10T10:00:00.000Z"
 		},
 		{
-			"headline": "Speed climber who conquered El Capitan route at an astonishing rate dies on another adventure",
-			"url": "https://www.latimes.com/california/story/2026-08-10/speed-climber-dies-accident-yosemite-sequoia",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T21:10:45.000Z"
-		},
-		{
-			"headline": "Jackie, arguably the world's most famous bald eagle, dies after mysterious illness",
-			"url": "https://www.latimes.com/environment/story/2026-08-10/jackie-arguably-worlds-most-famous-bald-eagle-dies-after-weeks-of-treatment",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T20:05:10.000Z"
+			"headline": "Searching for furrows, listening for whales",
+			"url": "https://www.mbari.org/news/searching-for-furrows-listening-for-whales/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-09T23:00:01.000Z"
 		}
 	]
 }
