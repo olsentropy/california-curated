@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-15T16:08:26.706Z",
+	"lastUpdated": "2026-08-15T20:07:40.260Z",
 	"items": [
 		{
 			"headline": "Shadow seen with new eagle at the Big Bear nest. Could a match be in the making?",
@@ -26,24 +26,6 @@
 			"publishedAt": "2026-08-14T16:30:35.000Z"
 		},
 		{
-			"headline": "Summer is now California's COVID busy season as winter waves fade",
-			"url": "https://www.latimes.com/california/story/2026-08-14/covid-becoming-california-summer-staple-as-winter-outbreaks-fade",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T10:00:00.000Z"
-		},
-		{
-			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
-			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
-			"source": "Mongabay",
-			"publishedAt": "2026-08-13T21:49:22.000Z"
-		},
-		{
-			"headline": "Where curiosity finds connection: Celebrating 30 years of MBARI's Summer Internship Program",
-			"url": "https://www.mbari.org/news/where-curiosity-finds-connection-celebrating-30-years-of-mbaris-summer-internship-program/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-13T21:20:32.000Z"
-		},
-		{
 			"headline": "Can 'digital twins' help California manage its growing flood risk?",
 			"url": "https://news.berkeley.edu/2026/08/13/can-digital-twins-help-california-manage-its-growing-flood-risk/",
 			"source": "UC Berkeley News",
@@ -56,10 +38,22 @@
 			"publishedAt": "2026-08-13T18:01:27.000Z"
 		},
 		{
-			"headline": "Synchronized Stars Power Cosmic Radio Laser",
-			"url": "https://www.caltech.edu/about/news/synchronized-stars-power-cosmic-radio-laser",
-			"source": "Caltech",
-			"publishedAt": "2026-08-13T15:00:00.378Z"
+			"headline": "Magnitude 3.8 earthquake centered in Oakland shakes Northern California",
+			"url": "https://www.latimes.com/california/story/2026-08-13/magnitude-3-8-earthquake-centered-in-oakland-shakes-northern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-13T16:26:25.000Z"
+		},
+		{
+			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
+			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
+			"source": "Mongabay",
+			"publishedAt": "2026-08-13T21:49:22.000Z"
+		},
+		{
+			"headline": "Where curiosity finds connection: Celebrating 30 years of MBARI's Summer Internship Program",
+			"url": "https://www.mbari.org/news/where-curiosity-finds-connection-celebrating-30-years-of-mbaris-summer-internship-program/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-13T21:20:32.000Z"
 		},
 		{
 			"headline": "California launches environmental youth council after EPA program lapses under Trump",
@@ -80,10 +74,10 @@
 			"publishedAt": "2026-08-13T10:00:00.000Z"
 		},
 		{
-			"headline": "Magnitude 3.8 earthquake centered in Oakland shakes Northern California",
-			"url": "https://www.latimes.com/california/story/2026-08-13/magnitude-3-8-earthquake-centered-in-oakland-shakes-northern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-13T16:26:25.000Z"
+			"headline": "Synchronized Stars Power Cosmic Radio Laser",
+			"url": "https://www.caltech.edu/about/news/synchronized-stars-power-cosmic-radio-laser",
+			"source": "Caltech",
+			"publishedAt": "2026-08-13T15:00:00.378Z"
 		},
 		{
 			"headline": "Sweat Sensor Enables Continuous Noninvasive Measurement of Cholesterol",
@@ -108,6 +102,12 @@
 			"url": "https://www.latimes.com/california/story/2026-08-12/state-lawmakers-seek-tougher-rules-for-industrial-facilities-after-boyle-heights-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-12T14:30:00.000Z"
+		},
+		{
+			"headline": "Magnitude 2.7 earthquake rattles Stevenson Ranch",
+			"url": "https://www.latimes.com/california/story/2026-08-12/earthquake-2-7-quake-registered-in-stevenson-ranch",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-12T21:39:50.000Z"
 		},
 		{
 			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
@@ -146,10 +146,10 @@
 			"publishedAt": "2026-08-11T10:00:00.000Z"
 		},
 		{
-			"headline": "Euthanasia rates of cats and kittens are on the rise at L.A. city animal shelters",
-			"url": "https://www.latimes.com/california/story/2026-08-11/euthanasia-rates-of-cats-kittens-are-on-rise-at-la-city-animal-shelters",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T10:00:00.000Z"
+			"headline": "Octopus Garden at Davidson Seamount: An abundance of life",
+			"url": "https://www.mbari.org/news/octopus-garden-at-davidson-seamount-an-abundance-of-life/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-11T22:00:51.000Z"
 		}
 	]
 }
