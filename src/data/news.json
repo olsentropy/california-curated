@@ -1,11 +1,23 @@
 {
-	"lastUpdated": "2026-08-14T20:18:30.981Z",
+	"lastUpdated": "2026-08-15T00:26:47.193Z",
 	"items": [
+		{
+			"headline": "Shadow seen with new eagle at the Big Bear nest. Could a match be in the making?",
+			"url": "https://www.latimes.com/environment/story/2026-08-14/shadow-seen-with-new-eagle-at-big-bear-nest-could-match-be-in-making",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T20:29:17.000Z"
+		},
 		{
 			"headline": "An oil company wants to restart fracking off the California coast. The state's top coastal officials say no way",
 			"url": "https://www.latimes.com/environment/story/2026-08-14/california-rejects-offshore-fracking-plan-trump",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-14T17:51:28.000Z"
+		},
+		{
+			"headline": "Injured mountain lion found in a San Dimas neighborhood was euthanized, wildlife officials say",
+			"url": "https://www.latimes.com/california/story/2026-08-14/injured-san-dimas-mountain-lion-euthanized-wildlife-officials-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T17:42:09.000Z"
 		},
 		{
 			"headline": "Can 'digital twins' help California manage its growing flood risk?",
@@ -18,12 +30,6 @@
 			"url": "https://www.latimes.com/california/story/2026-08-13/risk-of-super-el-nino-now-95-percent-as-california-braces-for-impacts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-13T18:01:27.000Z"
-		},
-		{
-			"headline": "Magnitude 3.8 earthquake centered in Oakland shakes Northern California",
-			"url": "https://www.latimes.com/california/story/2026-08-13/magnitude-3-8-earthquake-centered-in-oakland-shakes-northern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-13T16:26:25.000Z"
 		},
 		{
 			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
@@ -56,22 +62,28 @@
 			"publishedAt": "2026-08-13T12:00:00.000Z"
 		},
 		{
+			"headline": "Magnitude 3.8 earthquake centered in Oakland shakes Northern California",
+			"url": "https://www.latimes.com/california/story/2026-08-13/magnitude-3-8-earthquake-centered-in-oakland-shakes-northern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-13T16:26:25.000Z"
+		},
+		{
 			"headline": "Relentless cycle of disaster has Big Sur in crisis again: 'You really have to fight to be here'",
 			"url": "https://www.latimes.com/california/story/2026-08-13/relentless-cycle-of-disaster-has-big-sur-in-crisis-again-you-really-have-to-fight-to-be-here",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-13T10:00:00.000Z"
 		},
 		{
-			"headline": "Sweat Sensor Enables Continuous Noninvasive Measurement of Cholesterol",
-			"url": "https://www.caltech.edu/about/news/sweat-sensor-enables-continuous-noninvasive-measurement-of-cholesterol",
-			"source": "Caltech",
-			"publishedAt": "2026-08-12T16:41:24.099Z"
-		},
-		{
 			"headline": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
 			"url": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-12T16:00:00.000Z"
+		},
+		{
+			"headline": "Sweat Sensor Enables Continuous Noninvasive Measurement of Cholesterol",
+			"url": "https://www.caltech.edu/about/news/sweat-sensor-enables-continuous-noninvasive-measurement-of-cholesterol",
+			"source": "Caltech",
+			"publishedAt": "2026-08-12T16:41:24.099Z"
 		},
 		{
 			"headline": "Extending AI Architectures to Address Continuous Scientific Problems",
@@ -86,10 +98,10 @@
 			"publishedAt": "2026-08-12T14:30:00.000Z"
 		},
 		{
-			"headline": "'You gave us all hope': Fans of famed Big Bear bald eagle Jackie respond to her death",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/fans-of-big-bear-bald-eagle-jackie-respond-to-her-death",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T22:58:24.000Z"
+			"headline": "Why we don't need more data centers to build better AI",
+			"url": "https://news.berkeley.edu/2026/08/11/why-we-dont-need-more-data-centers-to-build-better-ai/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-11T17:26:21.000Z"
 		},
 		{
 			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
@@ -110,12 +122,6 @@
 			"publishedAt": "2026-08-11T18:07:28.000Z"
 		},
 		{
-			"headline": "Why we don't need more data centers to build better AI",
-			"url": "https://news.berkeley.edu/2026/08/11/why-we-dont-need-more-data-centers-to-build-better-ai/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-11T17:26:21.000Z"
-		},
-		{
 			"headline": "Models of Glacial Collapse in Antarctica Improve Predictions of Sea-Level Rise",
 			"url": "https://www.caltech.edu/about/news/models-of-glacial-collapse-in-antarctica-improve-predictions-of-sea-level-rise",
 			"source": "Caltech",
@@ -124,12 +130,6 @@
 		{
 			"headline": "Toxic site near South L.A. homes finally faces state cleanup order",
 			"url": "https://www.latimes.com/environment/story/2026-08-11/state-mandates-cleanup-of-highly-contaminated-south-la-site",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T10:00:00.000Z"
-		},
-		{
-			"headline": "Euthanasia rates of cats and kittens are on the rise at L.A. city animal shelters",
-			"url": "https://www.latimes.com/california/story/2026-08-11/euthanasia-rates-of-cats-kittens-are-on-rise-at-la-city-animal-shelters",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-11T10:00:00.000Z"
 		},
@@ -146,10 +146,10 @@
 			"publishedAt": "2026-08-11T01:35:39.000Z"
 		},
 		{
-			"headline": "Speed climber who conquered El Capitan route at an astonishing rate dies on another adventure",
-			"url": "https://www.latimes.com/california/story/2026-08-10/speed-climber-dies-accident-yosemite-sequoia",
+			"headline": "Jackie, arguably the world's most famous bald eagle, dies after mysterious illness",
+			"url": "https://www.latimes.com/environment/story/2026-08-10/jackie-arguably-worlds-most-famous-bald-eagle-dies-after-weeks-of-treatment",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T21:10:45.000Z"
+			"publishedAt": "2026-08-10T20:05:10.000Z"
 		}
 	]
 }
