@@ -1,12 +1,6 @@
 {
-	"lastUpdated": "2026-08-15T12:11:04.409Z",
+	"lastUpdated": "2026-08-15T16:08:26.706Z",
 	"items": [
-		{
-			"headline": "An oil company wants to restart fracking off the California coast. The state's top coastal officials say no way",
-			"url": "https://www.latimes.com/environment/story/2026-08-14/california-rejects-offshore-fracking-plan-trump",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T17:51:28.000Z"
-		},
 		{
 			"headline": "Shadow seen with new eagle at the Big Bear nest. Could a match be in the making?",
 			"url": "https://www.latimes.com/environment/story/2026-08-14/shadow-seen-with-new-eagle-at-big-bear-nest-could-match-be-in-making",
@@ -14,10 +8,40 @@
 			"publishedAt": "2026-08-14T20:29:17.000Z"
 		},
 		{
+			"headline": "An oil company wants to restart fracking off the California coast. The state's top coastal officials say no way",
+			"url": "https://www.latimes.com/environment/story/2026-08-14/california-rejects-offshore-fracking-plan-trump",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T17:51:28.000Z"
+		},
+		{
 			"headline": "Injured mountain lion found in a San Dimas neighborhood was euthanized, wildlife officials say",
 			"url": "https://www.latimes.com/california/story/2026-08-14/injured-san-dimas-mountain-lion-euthanized-wildlife-officials-say",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-14T17:42:09.000Z"
+		},
+		{
+			"headline": "A 150-pound statue was found buried in a San Francisco backyard. Its origin is a mystery",
+			"url": "https://www.latimes.com/california/story/2026-08-14/san-francisco-mystery-statue-found-backyard",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T16:30:35.000Z"
+		},
+		{
+			"headline": "Summer is now California's COVID busy season as winter waves fade",
+			"url": "https://www.latimes.com/california/story/2026-08-14/covid-becoming-california-summer-staple-as-winter-outbreaks-fade",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T10:00:00.000Z"
+		},
+		{
+			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
+			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
+			"source": "Mongabay",
+			"publishedAt": "2026-08-13T21:49:22.000Z"
+		},
+		{
+			"headline": "Where curiosity finds connection: Celebrating 30 years of MBARI's Summer Internship Program",
+			"url": "https://www.mbari.org/news/where-curiosity-finds-connection-celebrating-30-years-of-mbaris-summer-internship-program/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-13T21:20:32.000Z"
 		},
 		{
 			"headline": "Can 'digital twins' help California manage its growing flood risk?",
@@ -30,6 +54,12 @@
 			"url": "https://www.latimes.com/california/story/2026-08-13/risk-of-super-el-nino-now-95-percent-as-california-braces-for-impacts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-13T18:01:27.000Z"
+		},
+		{
+			"headline": "Synchronized Stars Power Cosmic Radio Laser",
+			"url": "https://www.caltech.edu/about/news/synchronized-stars-power-cosmic-radio-laser",
+			"source": "Caltech",
+			"publishedAt": "2026-08-13T15:00:00.378Z"
 		},
 		{
 			"headline": "California launches environmental youth council after EPA program lapses under Trump",
@@ -50,34 +80,34 @@
 			"publishedAt": "2026-08-13T10:00:00.000Z"
 		},
 		{
-			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
-			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
-			"source": "Mongabay",
-			"publishedAt": "2026-08-13T21:49:22.000Z"
-		},
-		{
-			"headline": "Where curiosity finds connection: Celebrating 30 years of MBARI's Summer Internship Program",
-			"url": "https://www.mbari.org/news/where-curiosity-finds-connection-celebrating-30-years-of-mbaris-summer-internship-program/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-13T21:20:32.000Z"
-		},
-		{
-			"headline": "Synchronized Stars Power Cosmic Radio Laser",
-			"url": "https://www.caltech.edu/about/news/synchronized-stars-power-cosmic-radio-laser",
-			"source": "Caltech",
-			"publishedAt": "2026-08-13T15:00:00.378Z"
-		},
-		{
 			"headline": "Magnitude 3.8 earthquake centered in Oakland shakes Northern California",
 			"url": "https://www.latimes.com/california/story/2026-08-13/magnitude-3-8-earthquake-centered-in-oakland-shakes-northern-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-13T16:26:25.000Z"
 		},
 		{
-			"headline": "'California's coast is not for sale.' State battles Trump plan to limit coastal oversight",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/trump-administration-california-coastal-commission-performance-evaluation",
+			"headline": "Sweat Sensor Enables Continuous Noninvasive Measurement of Cholesterol",
+			"url": "https://www.caltech.edu/about/news/sweat-sensor-enables-continuous-noninvasive-measurement-of-cholesterol",
+			"source": "Caltech",
+			"publishedAt": "2026-08-12T16:41:24.099Z"
+		},
+		{
+			"headline": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
+			"url": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T18:07:28.000Z"
+			"publishedAt": "2026-08-12T16:00:00.000Z"
+		},
+		{
+			"headline": "Extending AI Architectures to Address Continuous Scientific Problems",
+			"url": "https://www.caltech.edu/about/news/extending-ai-architectures-to-address-continuous-scientific-problems",
+			"source": "Caltech",
+			"publishedAt": "2026-08-12T15:00:00.373Z"
+		},
+		{
+			"headline": "State lawmakers seek tougher rules for industrial facilities after Boyle Heights fire",
+			"url": "https://www.latimes.com/california/story/2026-08-12/state-lawmakers-seek-tougher-rules-for-industrial-facilities-after-boyle-heights-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-12T14:30:00.000Z"
 		},
 		{
 			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
@@ -92,34 +122,10 @@
 			"publishedAt": "2026-08-11T21:03:16.000Z"
 		},
 		{
-			"headline": "Toxic site near South L.A. homes finally faces state cleanup order",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/state-mandates-cleanup-of-highly-contaminated-south-la-site",
+			"headline": "'California's coast is not for sale.' State battles Trump plan to limit coastal oversight",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/trump-administration-california-coastal-commission-performance-evaluation",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T10:00:00.000Z"
-		},
-		{
-			"headline": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
-			"url": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-12T16:00:00.000Z"
-		},
-		{
-			"headline": "State lawmakers seek tougher rules for industrial facilities after Boyle Heights fire",
-			"url": "https://www.latimes.com/california/story/2026-08-12/state-lawmakers-seek-tougher-rules-for-industrial-facilities-after-boyle-heights-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-12T14:30:00.000Z"
-		},
-		{
-			"headline": "Sweat Sensor Enables Continuous Noninvasive Measurement of Cholesterol",
-			"url": "https://www.caltech.edu/about/news/sweat-sensor-enables-continuous-noninvasive-measurement-of-cholesterol",
-			"source": "Caltech",
-			"publishedAt": "2026-08-12T16:41:24.099Z"
-		},
-		{
-			"headline": "Extending AI Architectures to Address Continuous Scientific Problems",
-			"url": "https://www.caltech.edu/about/news/extending-ai-architectures-to-address-continuous-scientific-problems",
-			"source": "Caltech",
-			"publishedAt": "2026-08-12T15:00:00.373Z"
+			"publishedAt": "2026-08-11T18:07:28.000Z"
 		},
 		{
 			"headline": "Why we don't need more data centers to build better AI",
@@ -134,22 +140,16 @@
 			"publishedAt": "2026-08-11T16:46:00.000Z"
 		},
 		{
-			"headline": "Octopus Garden at Davidson Seamount: An abundance of life",
-			"url": "https://www.mbari.org/news/octopus-garden-at-davidson-seamount-an-abundance-of-life/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-11T22:00:51.000Z"
+			"headline": "Toxic site near South L.A. homes finally faces state cleanup order",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/state-mandates-cleanup-of-highly-contaminated-south-la-site",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T10:00:00.000Z"
 		},
 		{
-			"headline": "Speed climber who conquered El Capitan route at an astonishing rate dies on another adventure",
-			"url": "https://www.latimes.com/california/story/2026-08-10/speed-climber-dies-accident-yosemite-sequoia",
+			"headline": "Euthanasia rates of cats and kittens are on the rise at L.A. city animal shelters",
+			"url": "https://www.latimes.com/california/story/2026-08-11/euthanasia-rates-of-cats-kittens-are-on-rise-at-la-city-animal-shelters",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T21:10:45.000Z"
-		},
-		{
-			"headline": "Jackie, arguably the world's most famous bald eagle, dies after mysterious illness",
-			"url": "https://www.latimes.com/environment/story/2026-08-10/jackie-arguably-worlds-most-famous-bald-eagle-dies-after-weeks-of-treatment",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T20:05:10.000Z"
+			"publishedAt": "2026-08-11T10:00:00.000Z"
 		}
 	]
 }
