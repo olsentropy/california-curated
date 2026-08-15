@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-15T08:12:16.596Z",
+	"lastUpdated": "2026-08-15T12:11:04.409Z",
 	"items": [
 		{
 			"headline": "An oil company wants to restart fracking off the California coast. The state's top coastal officials say no way",
@@ -32,24 +32,6 @@
 			"publishedAt": "2026-08-13T18:01:27.000Z"
 		},
 		{
-			"headline": "Magnitude 3.8 earthquake centered in Oakland shakes Northern California",
-			"url": "https://www.latimes.com/california/story/2026-08-13/magnitude-3-8-earthquake-centered-in-oakland-shakes-northern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-13T16:26:25.000Z"
-		},
-		{
-			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
-			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
-			"source": "Mongabay",
-			"publishedAt": "2026-08-13T21:49:22.000Z"
-		},
-		{
-			"headline": "Where curiosity finds connection: Celebrating 30 years of MBARI's Summer Internship Program",
-			"url": "https://www.mbari.org/news/where-curiosity-finds-connection-celebrating-30-years-of-mbaris-summer-internship-program/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-13T21:20:32.000Z"
-		},
-		{
 			"headline": "California launches environmental youth council after EPA program lapses under Trump",
 			"url": "https://www.latimes.com/environment/story/2026-08-13/california-launches-environmental-youth-panel-after-epa-program-lapses",
 			"source": "Los Angeles Times",
@@ -68,10 +50,52 @@
 			"publishedAt": "2026-08-13T10:00:00.000Z"
 		},
 		{
+			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
+			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
+			"source": "Mongabay",
+			"publishedAt": "2026-08-13T21:49:22.000Z"
+		},
+		{
+			"headline": "Where curiosity finds connection: Celebrating 30 years of MBARI's Summer Internship Program",
+			"url": "https://www.mbari.org/news/where-curiosity-finds-connection-celebrating-30-years-of-mbaris-summer-internship-program/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-13T21:20:32.000Z"
+		},
+		{
 			"headline": "Synchronized Stars Power Cosmic Radio Laser",
 			"url": "https://www.caltech.edu/about/news/synchronized-stars-power-cosmic-radio-laser",
 			"source": "Caltech",
 			"publishedAt": "2026-08-13T15:00:00.378Z"
+		},
+		{
+			"headline": "Magnitude 3.8 earthquake centered in Oakland shakes Northern California",
+			"url": "https://www.latimes.com/california/story/2026-08-13/magnitude-3-8-earthquake-centered-in-oakland-shakes-northern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-13T16:26:25.000Z"
+		},
+		{
+			"headline": "'California's coast is not for sale.' State battles Trump plan to limit coastal oversight",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/trump-administration-california-coastal-commission-performance-evaluation",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T18:07:28.000Z"
+		},
+		{
+			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/california-to-phase-out-paraquat-powerful-weedkiller-associated-with-serious-health-issues",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T21:47:12.000Z"
+		},
+		{
+			"headline": "A Night Out With the Cosmic Wild Ducks",
+			"url": "https://baynature.org/2026/08/11/science-nature/astronomy/a-night-out-with-the-wild-cosmic-ducks/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-11T21:03:16.000Z"
+		},
+		{
+			"headline": "Toxic site near South L.A. homes finally faces state cleanup order",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/state-mandates-cleanup-of-highly-contaminated-south-la-site",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T10:00:00.000Z"
 		},
 		{
 			"headline": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
@@ -98,30 +122,6 @@
 			"publishedAt": "2026-08-12T15:00:00.373Z"
 		},
 		{
-			"headline": "Octopus Garden at Davidson Seamount: An abundance of life",
-			"url": "https://www.mbari.org/news/octopus-garden-at-davidson-seamount-an-abundance-of-life/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-11T22:00:51.000Z"
-		},
-		{
-			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/california-to-phase-out-paraquat-powerful-weedkiller-associated-with-serious-health-issues",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T21:47:12.000Z"
-		},
-		{
-			"headline": "A Night Out With the Cosmic Wild Ducks",
-			"url": "https://baynature.org/2026/08/11/science-nature/astronomy/a-night-out-with-the-wild-cosmic-ducks/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-11T21:03:16.000Z"
-		},
-		{
-			"headline": "'California's coast is not for sale.' State battles Trump plan to limit coastal oversight",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/trump-administration-california-coastal-commission-performance-evaluation",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T18:07:28.000Z"
-		},
-		{
 			"headline": "Why we don't need more data centers to build better AI",
 			"url": "https://news.berkeley.edu/2026/08/11/why-we-dont-need-more-data-centers-to-build-better-ai/",
 			"source": "UC Berkeley News",
@@ -134,22 +134,22 @@
 			"publishedAt": "2026-08-11T16:46:00.000Z"
 		},
 		{
-			"headline": "Toxic site near South L.A. homes finally faces state cleanup order",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/state-mandates-cleanup-of-highly-contaminated-south-la-site",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T10:00:00.000Z"
+			"headline": "Octopus Garden at Davidson Seamount: An abundance of life",
+			"url": "https://www.mbari.org/news/octopus-garden-at-davidson-seamount-an-abundance-of-life/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-11T22:00:51.000Z"
 		},
 		{
-			"headline": "2,500-year-old Etruscan artifacts held at UC Berkeley on display for a limited time",
-			"url": "https://news.berkeley.edu/2026/08/10/2500-year-old-etruscan-artifacts-held-at-uc-berkeley-on-display-for-the-first-time/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-10T19:01:24.000Z"
+			"headline": "Speed climber who conquered El Capitan route at an astonishing rate dies on another adventure",
+			"url": "https://www.latimes.com/california/story/2026-08-10/speed-climber-dies-accident-yosemite-sequoia",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-10T21:10:45.000Z"
 		},
 		{
-			"headline": "El Niño could bring highest sea levels ever recorded to the California coast",
-			"url": "https://www.latimes.com/california/story/2026-08-10/el-nino-could-bring-california-its-highest-sea-levels-ever-recorded",
+			"headline": "Jackie, arguably the world's most famous bald eagle, dies after mysterious illness",
+			"url": "https://www.latimes.com/environment/story/2026-08-10/jackie-arguably-worlds-most-famous-bald-eagle-dies-after-weeks-of-treatment",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-10T10:00:00.000Z"
+			"publishedAt": "2026-08-10T20:05:10.000Z"
 		}
 	]
 }
