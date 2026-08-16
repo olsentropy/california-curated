@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-16T00:27:05.746Z",
+	"lastUpdated": "2026-08-16T04:22:56.475Z",
 	"items": [
 		{
 			"headline": "California river otter suffers brain injury in hit-and-run strike",
@@ -32,16 +32,28 @@
 			"publishedAt": "2026-08-14T20:29:17.000Z"
 		},
 		{
-			"headline": "'Unacceptable': La Jolla man who admitted kicking a sea lion faces a year in jail and $100,000 fine",
-			"url": "https://www.latimes.com/california/story/2026-08-14/unacceptable-la-jolla-man-who-admitted-kicking-sea-lion-faces-100-000-fine",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T23:15:24.000Z"
-		},
-		{
 			"headline": "A 150-pound statue was found buried in a San Francisco backyard. Its origin is a mystery",
 			"url": "https://www.latimes.com/california/story/2026-08-14/san-francisco-mystery-statue-found-backyard",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-14T16:30:35.000Z"
+		},
+		{
+			"headline": "California's bid to outlaw 'glow-in-the-dark rabbits' and 'unicorn horses' fails",
+			"url": "https://www.latimes.com/california/story/2026-08-13/effort-to-ban-genetically-modified-animals-dies-in-california-legislature",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T02:16:34.000Z"
+		},
+		{
+			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
+			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
+			"source": "Mongabay",
+			"publishedAt": "2026-08-13T21:49:22.000Z"
+		},
+		{
+			"headline": "Where curiosity finds connection: Celebrating 30 years of MBARI's Summer Internship Program",
+			"url": "https://www.mbari.org/news/where-curiosity-finds-connection-celebrating-30-years-of-mbaris-summer-internship-program/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-13T21:20:32.000Z"
 		},
 		{
 			"headline": "Can 'digital twins' help California manage its growing flood risk?",
@@ -86,22 +98,34 @@
 			"publishedAt": "2026-08-13T10:00:00.000Z"
 		},
 		{
-			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
-			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
-			"source": "Mongabay",
-			"publishedAt": "2026-08-13T21:49:22.000Z"
+			"headline": "Sweat Sensor Enables Continuous Noninvasive Measurement of Cholesterol",
+			"url": "https://www.caltech.edu/about/news/sweat-sensor-enables-continuous-noninvasive-measurement-of-cholesterol",
+			"source": "Caltech",
+			"publishedAt": "2026-08-12T16:41:24.099Z"
 		},
 		{
-			"headline": "Where curiosity finds connection: Celebrating 30 years of MBARI's Summer Internship Program",
-			"url": "https://www.mbari.org/news/where-curiosity-finds-connection-celebrating-30-years-of-mbaris-summer-internship-program/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-13T21:20:32.000Z"
-		},
-		{
-			"headline": "'California's coast is not for sale.' State battles Trump plan to limit coastal oversight",
-			"url": "https://www.latimes.com/environment/story/2026-08-11/trump-administration-california-coastal-commission-performance-evaluation",
+			"headline": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
+			"url": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-11T18:07:28.000Z"
+			"publishedAt": "2026-08-12T16:00:00.000Z"
+		},
+		{
+			"headline": "Extending AI Architectures to Address Continuous Scientific Problems",
+			"url": "https://www.caltech.edu/about/news/extending-ai-architectures-to-address-continuous-scientific-problems",
+			"source": "Caltech",
+			"publishedAt": "2026-08-12T15:00:00.373Z"
+		},
+		{
+			"headline": "State lawmakers seek tougher rules for industrial facilities after Boyle Heights fire",
+			"url": "https://www.latimes.com/california/story/2026-08-12/state-lawmakers-seek-tougher-rules-for-industrial-facilities-after-boyle-heights-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-12T14:30:00.000Z"
+		},
+		{
+			"headline": "Octopus Garden at Davidson Seamount: An abundance of life",
+			"url": "https://www.mbari.org/news/octopus-garden-at-davidson-seamount-an-abundance-of-life/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-11T22:00:51.000Z"
 		},
 		{
 			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
@@ -116,40 +140,16 @@
 			"publishedAt": "2026-08-11T21:03:16.000Z"
 		},
 		{
+			"headline": "'California's coast is not for sale.' State battles Trump plan to limit coastal oversight",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/trump-administration-california-coastal-commission-performance-evaluation",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-11T18:07:28.000Z"
+		},
+		{
 			"headline": "Why we don't need more data centers to build better AI",
 			"url": "https://news.berkeley.edu/2026/08/11/why-we-dont-need-more-data-centers-to-build-better-ai/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-11T17:26:21.000Z"
-		},
-		{
-			"headline": "Models of Glacial Collapse in Antarctica Improve Predictions of Sea-Level Rise",
-			"url": "https://www.caltech.edu/about/news/models-of-glacial-collapse-in-antarctica-improve-predictions-of-sea-level-rise",
-			"source": "Caltech",
-			"publishedAt": "2026-08-11T16:46:00.000Z"
-		},
-		{
-			"headline": "Octopus Garden at Davidson Seamount: An abundance of life",
-			"url": "https://www.mbari.org/news/octopus-garden-at-davidson-seamount-an-abundance-of-life/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-11T22:00:51.000Z"
-		},
-		{
-			"headline": "Sweat Sensor Enables Continuous Noninvasive Measurement of Cholesterol",
-			"url": "https://www.caltech.edu/about/news/sweat-sensor-enables-continuous-noninvasive-measurement-of-cholesterol",
-			"source": "Caltech",
-			"publishedAt": "2026-08-12T16:41:24.099Z"
-		},
-		{
-			"headline": "Extending AI Architectures to Address Continuous Scientific Problems",
-			"url": "https://www.caltech.edu/about/news/extending-ai-architectures-to-address-continuous-scientific-problems",
-			"source": "Caltech",
-			"publishedAt": "2026-08-12T15:00:00.373Z"
-		},
-		{
-			"headline": "California's bid to outlaw 'glow-in-the-dark rabbits' and 'unicorn horses' fails",
-			"url": "https://www.latimes.com/california/story/2026-08-13/effort-to-ban-genetically-modified-animals-dies-in-california-legislature",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T02:16:34.000Z"
 		}
 	]
 }
