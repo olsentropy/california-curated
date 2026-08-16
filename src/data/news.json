@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-16T04:22:56.475Z",
+	"lastUpdated": "2026-08-16T08:12:57.016Z",
 	"items": [
 		{
 			"headline": "California river otter suffers brain injury in hit-and-run strike",
@@ -116,12 +116,6 @@
 			"publishedAt": "2026-08-12T15:00:00.373Z"
 		},
 		{
-			"headline": "State lawmakers seek tougher rules for industrial facilities after Boyle Heights fire",
-			"url": "https://www.latimes.com/california/story/2026-08-12/state-lawmakers-seek-tougher-rules-for-industrial-facilities-after-boyle-heights-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-12T14:30:00.000Z"
-		},
-		{
 			"headline": "Octopus Garden at Davidson Seamount: An abundance of life",
 			"url": "https://www.mbari.org/news/octopus-garden-at-davidson-seamount-an-abundance-of-life/",
 			"source": "MBARI",
@@ -150,6 +144,12 @@
 			"url": "https://news.berkeley.edu/2026/08/11/why-we-dont-need-more-data-centers-to-build-better-ai/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-11T17:26:21.000Z"
+		},
+		{
+			"headline": "Models of Glacial Collapse in Antarctica Improve Predictions of Sea-Level Rise",
+			"url": "https://www.caltech.edu/about/news/models-of-glacial-collapse-in-antarctica-improve-predictions-of-sea-level-rise",
+			"source": "Caltech",
+			"publishedAt": "2026-08-11T16:46:00.000Z"
 		}
 	]
 }
