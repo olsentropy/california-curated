@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-16T20:05:20.279Z",
+	"lastUpdated": "2026-08-17T00:25:14.033Z",
 	"items": [
 		{
 			"headline": "Are mosquitoes, ticks and fleas turning California into a disease hotspot?",
@@ -32,18 +32,6 @@
 			"publishedAt": "2026-08-15T20:24:01.000Z"
 		},
 		{
-			"headline": "'Unacceptable': La Jolla man who admitted kicking a sea lion faces a year in jail and $100,000 fine",
-			"url": "https://www.latimes.com/california/story/2026-08-14/unacceptable-la-jolla-man-who-admitted-kicking-sea-lion-faces-100-000-fine",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T23:15:24.000Z"
-		},
-		{
-			"headline": "Shadow seen with new eagle at the Big Bear nest. Could a match be in the making?",
-			"url": "https://www.latimes.com/environment/story/2026-08-14/shadow-seen-with-new-eagle-at-big-bear-nest-could-match-be-in-making",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T20:29:17.000Z"
-		},
-		{
 			"headline": "An oil company wants to restart fracking off the California coast. The state's top coastal officials say no way",
 			"url": "https://www.latimes.com/environment/story/2026-08-14/california-rejects-offshore-fracking-plan-trump",
 			"source": "Los Angeles Times",
@@ -62,28 +50,16 @@
 			"publishedAt": "2026-08-14T16:30:35.000Z"
 		},
 		{
-			"headline": "California's bid to outlaw 'glow-in-the-dark rabbits' and 'unicorn horses' fails",
-			"url": "https://www.latimes.com/california/story/2026-08-13/effort-to-ban-genetically-modified-animals-dies-in-california-legislature",
+			"headline": "Shadow seen with new eagle at the Big Bear nest. Could a match be in the making?",
+			"url": "https://www.latimes.com/environment/story/2026-08-14/shadow-seen-with-new-eagle-at-big-bear-nest-could-match-be-in-making",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T02:16:34.000Z"
+			"publishedAt": "2026-08-14T20:29:17.000Z"
 		},
 		{
 			"headline": "Summer is now California's COVID busy season as winter waves fade",
 			"url": "https://www.latimes.com/california/story/2026-08-14/covid-becoming-california-summer-staple-as-winter-outbreaks-fade",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-14T10:00:00.000Z"
-		},
-		{
-			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
-			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
-			"source": "Mongabay",
-			"publishedAt": "2026-08-13T21:49:22.000Z"
-		},
-		{
-			"headline": "Where curiosity finds connection: Celebrating 30 years of MBARI's Summer Internship Program",
-			"url": "https://www.mbari.org/news/where-curiosity-finds-connection-celebrating-30-years-of-mbaris-summer-internship-program/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-13T21:20:32.000Z"
 		},
 		{
 			"headline": "Can 'digital twins' help California manage its growing flood risk?",
@@ -96,6 +72,18 @@
 			"url": "https://www.latimes.com/california/story/2026-08-13/risk-of-super-el-nino-now-95-percent-as-california-braces-for-impacts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-13T18:01:27.000Z"
+		},
+		{
+			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
+			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
+			"source": "Mongabay",
+			"publishedAt": "2026-08-13T21:49:22.000Z"
+		},
+		{
+			"headline": "Where curiosity finds connection: Celebrating 30 years of MBARI's Summer Internship Program",
+			"url": "https://www.mbari.org/news/where-curiosity-finds-connection-celebrating-30-years-of-mbaris-summer-internship-program/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-13T21:20:32.000Z"
 		},
 		{
 			"headline": "Magnitude 3.8 earthquake centered in Oakland shakes Northern California",
@@ -146,10 +134,22 @@
 			"publishedAt": "2026-08-12T15:00:00.373Z"
 		},
 		{
-			"headline": "State lawmakers seek tougher rules for industrial facilities after Boyle Heights fire",
-			"url": "https://www.latimes.com/california/story/2026-08-12/state-lawmakers-seek-tougher-rules-for-industrial-facilities-after-boyle-heights-fire",
+			"headline": "California to phase out paraquat, a powerful weedkiller associated with serious health issues",
+			"url": "https://www.latimes.com/environment/story/2026-08-11/california-to-phase-out-paraquat-powerful-weedkiller-associated-with-serious-health-issues",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-12T14:30:00.000Z"
+			"publishedAt": "2026-08-11T21:47:12.000Z"
+		},
+		{
+			"headline": "A Night Out With the Cosmic Wild Ducks",
+			"url": "https://baynature.org/2026/08/11/science-nature/astronomy/a-night-out-with-the-wild-cosmic-ducks/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-11T21:03:16.000Z"
+		},
+		{
+			"headline": "Octopus Garden at Davidson Seamount: An abundance of life",
+			"url": "https://www.mbari.org/news/octopus-garden-at-davidson-seamount-an-abundance-of-life/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-11T22:00:51.000Z"
 		}
 	]
 }
