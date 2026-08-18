@@ -1,11 +1,17 @@
 {
-	"lastUpdated": "2026-08-18T00:25:27.301Z",
+	"lastUpdated": "2026-08-18T04:22:03.492Z",
 	"items": [
 		{
 			"headline": "After 34 years of debilitating sickle cell crises, CRISPR gave her a new chance at life",
 			"url": "https://news.berkeley.edu/2026/08/17/after-34-years-of-debilitating-sickle-cell-crises-crispr-gave-her-a-new-chance-at-life/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-17T20:36:55.000Z"
+		},
+		{
+			"headline": "California Prop. 40, the 'Billionaire Tax,' holds lead in new UC Berkeley IGS Poll",
+			"url": "https://news.berkeley.edu/2026/08/17/california-prop-40-the-billionaire-tax-holds-lead-in-new-uc-berkeley-igs-poll/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-17T18:11:40.000Z"
 		},
 		{
 			"headline": "Extreme heat is returning to Southern California. Here's how bad it will get",
@@ -80,6 +86,12 @@
 			"publishedAt": "2026-08-14T02:16:34.000Z"
 		},
 		{
+			"headline": "Summer is now California's COVID busy season as winter waves fade",
+			"url": "https://www.latimes.com/california/story/2026-08-14/covid-becoming-california-summer-staple-as-winter-outbreaks-fade",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T10:00:00.000Z"
+		},
+		{
 			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
 			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
 			"source": "Mongabay",
@@ -138,18 +150,6 @@
 			"url": "https://www.caltech.edu/about/news/sweat-sensor-enables-continuous-noninvasive-measurement-of-cholesterol",
 			"source": "Caltech",
 			"publishedAt": "2026-08-12T16:41:24.099Z"
-		},
-		{
-			"headline": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
-			"url": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-12T16:00:00.000Z"
-		},
-		{
-			"headline": "Extending AI Architectures to Address Continuous Scientific Problems",
-			"url": "https://www.caltech.edu/about/news/extending-ai-architectures-to-address-continuous-scientific-problems",
-			"source": "Caltech",
-			"publishedAt": "2026-08-12T15:00:00.373Z"
 		}
 	]
 }
