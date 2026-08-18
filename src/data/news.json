@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-18T04:22:03.492Z",
+	"lastUpdated": "2026-08-18T08:19:50.817Z",
 	"items": [
+		{
+			"headline": "Stripped of sand, decades-old infrastructure 'relics' pop up at the Wedge in Newport Beach",
+			"url": "https://www.latimes.com/california/story/2026-08-17/erosion-reveals-decades-old-infrastructure-newport-beach-wedge",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-18T04:23:34.000Z"
+		},
 		{
 			"headline": "After 34 years of debilitating sickle cell crises, CRISPR gave her a new chance at life",
 			"url": "https://news.berkeley.edu/2026/08/17/after-34-years-of-debilitating-sickle-cell-crises-crispr-gave-her-a-new-chance-at-life/",
@@ -56,12 +62,6 @@
 			"publishedAt": "2026-08-15T20:24:01.000Z"
 		},
 		{
-			"headline": "Shadow seen with new eagle at the Big Bear nest. Could a match be in the making?",
-			"url": "https://www.latimes.com/environment/story/2026-08-14/shadow-seen-with-new-eagle-at-big-bear-nest-could-match-be-in-making",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T20:29:17.000Z"
-		},
-		{
 			"headline": "An oil company wants to restart fracking off the California coast. The state's top coastal officials say no way",
 			"url": "https://www.latimes.com/environment/story/2026-08-14/california-rejects-offshore-fracking-plan-trump",
 			"source": "Los Angeles Times",
@@ -80,22 +80,10 @@
 			"publishedAt": "2026-08-14T16:30:35.000Z"
 		},
 		{
-			"headline": "California's bid to outlaw 'glow-in-the-dark rabbits' and 'unicorn horses' fails",
-			"url": "https://www.latimes.com/california/story/2026-08-13/effort-to-ban-genetically-modified-animals-dies-in-california-legislature",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T02:16:34.000Z"
-		},
-		{
 			"headline": "Summer is now California's COVID busy season as winter waves fade",
 			"url": "https://www.latimes.com/california/story/2026-08-14/covid-becoming-california-summer-staple-as-winter-outbreaks-fade",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-14T10:00:00.000Z"
-		},
-		{
-			"headline": "Big Bear Valley's beloved bald eagle Jackie is dead",
-			"url": "https://news.mongabay.com/2026/08/big-bear-valleys-beloved-bald-eagle-jackie-is-dead/",
-			"source": "Mongabay",
-			"publishedAt": "2026-08-13T21:49:22.000Z"
 		},
 		{
 			"headline": "Where curiosity finds connection: Celebrating 30 years of MBARI's Summer Internship Program",
@@ -150,6 +138,18 @@
 			"url": "https://www.caltech.edu/about/news/sweat-sensor-enables-continuous-noninvasive-measurement-of-cholesterol",
 			"source": "Caltech",
 			"publishedAt": "2026-08-12T16:41:24.099Z"
+		},
+		{
+			"headline": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
+			"url": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-12T16:00:00.000Z"
+		},
+		{
+			"headline": "Extending AI Architectures to Address Continuous Scientific Problems",
+			"url": "https://www.caltech.edu/about/news/extending-ai-architectures-to-address-continuous-scientific-problems",
+			"source": "Caltech",
+			"publishedAt": "2026-08-12T15:00:00.373Z"
 		}
 	]
 }
