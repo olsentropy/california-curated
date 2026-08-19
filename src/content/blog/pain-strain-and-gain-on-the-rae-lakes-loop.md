@@ -11,7 +11,7 @@ categories:
 tags:
   - sierra, Sierra Nevada, hiking, Rae Lakes Loop, Erik Olsen, Kings Canyon National Park, forest, National Park, California, science,
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 Sometimes you just have to get the f\*ck out.
