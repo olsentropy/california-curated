@@ -60,9 +60,9 @@ And then there are the views. The long trudge up Bubbs Creek canyon, and the des
 
 At Rae Lakes, the mountains seemingly rise out of the water. One peak called Painted Lady stands out, not just for its bulk, but also for its crazy layered look. Its black cap rests above wide bands of reddish and white rock. The colors signify different bodies of magma that cooled deep underground roughly 100 million years ago. Below, the mountain is surrounded by an enormous slope of crumbling scree that it seems to wear like a shawl across its shoulders.
 
-[![](/wp-content/uploads/cms/IMG_9769.JPG)](https://substackcdn.com/image/fetch/$s_!IZJ8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb97cb24a-ad37-4e11-8176-2545e0d43541_2000x1500.jpeg)
+[![](/wp-content/uploads/cms/rae-lakes-substack-IMG_9955.JPG)](https://substackcdn.com/image/fetch/$s_!IZJ8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb97cb24a-ad37-4e11-8176-2545e0d43541_2000x1500.jpeg)
 
-Painted Lady rises above Rae Lakes, its striking bands of red, black and pale rock making it one of the most distinctive peaks in Kings Canyon National Park. (Photo: Erik Olsen)
+_Painted Lady rises above Rae Lakes, its striking bands of red, black and pale rock making it one of the most distinctive peaks in Kings Canyon National Park. (Photo: Erik Olsen)_
 
 At the end of our third day, after all that climbing up, up, up, we reached [Glen Pass](https://en.wikipedia.org/wiki/Glen_Pass), at 11,926 feet. A cool breeze helped evaporate the sweat that had soaked through my clothes on the way there. We stared out across a landscape that opened in every direction, a vast sweep of peaks, lakes, and valleys. And thus began the next few days of interminable, knee-popping steps downhill.
 
@@ -70,9 +70,9 @@ The Rae Lakes Loop had felt enormous while I was toiling to conquer it. But when
 
 The Sierra Nevada is one of California’s great treasures. I never tire of visiting, and I will likely never stop, even when I can no longer haul my middle-aged ass across almost 50-miles of stunning wilderness. I’ll drive to a lake, sit there, and appreciate what nature hath wrought. How much better it is to sit there in quiet than to surrender another hour to the large language models, Netflix shows and Instagram posts that increasingly dominate our daily existence.
 
-[![](https://substackcdn.com/image/fetch/$s_!ca7L!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4e4f1b0-98a4-4f57-9316-c3cfaf89da71_2000x1500.jpeg)](https://substackcdn.com/image/fetch/$s_!ca7L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4e4f1b0-98a4-4f57-9316-c3cfaf89da71_2000x1500.jpeg)
+[![](/wp-content/uploads/cms/rae-lakes-substack-IMG_9820.JPG)](https://substackcdn.com/image/fetch/$s_!ca7L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa4e4f1b0-98a4-4f57-9316-c3cfaf89da71_2000x1500.jpeg)
 
-Alpenglow sets the granite peaks ablaze above Bubbs Creek at the end of our first long day on the trail. (Photo: Erik Olsen)
+_Alpenglow sets the granite peaks ablaze above Bubbs Creek at the end of our first long day on the trail. (Photo: Erik Olsen)_
 
 When I got home, I was tired and sore. Reconstituted meals now sounded horrible, even though I found them delicious (well, near-delicious) at high altitude. The soles of my Merrells had almost completely flopped off. But within a few days I felt as good as new, stronger even.
 
