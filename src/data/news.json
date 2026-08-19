@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-19T04:23:42.434Z",
+	"lastUpdated": "2026-08-19T08:19:51.687Z",
 	"items": [
 		{
 			"headline": "Expanding what's known about our fast-expanding universe",
@@ -36,12 +36,6 @@
 			"url": "https://news.berkeley.edu/2026/08/17/after-34-years-of-debilitating-sickle-cell-crises-crispr-gave-her-a-new-chance-at-life/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-17T20:36:55.000Z"
-		},
-		{
-			"headline": "California Prop. 40, the 'Billionaire Tax,' holds lead in new UC Berkeley IGS Poll",
-			"url": "https://news.berkeley.edu/2026/08/17/california-prop-40-the-billionaire-tax-holds-lead-in-new-uc-berkeley-igs-poll/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-17T18:11:40.000Z"
 		},
 		{
 			"headline": "Extreme heat is returning to Southern California. Here's how bad it will get",
@@ -104,18 +98,6 @@
 			"publishedAt": "2026-08-14T17:42:09.000Z"
 		},
 		{
-			"headline": "A 150-pound statue was found buried in a San Francisco backyard. Its origin is a mystery",
-			"url": "https://www.latimes.com/california/story/2026-08-14/san-francisco-mystery-statue-found-backyard",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T16:30:35.000Z"
-		},
-		{
-			"headline": "Patterns in time and space of fatal coastal cliff failures",
-			"url": "https://eos.org/thelandslideblog/patterns-in-time-and-space-of-fatal-coastal-cliff-failures",
-			"source": "Eos",
-			"publishedAt": "2026-08-14T07:22:32.000Z"
-		},
-		{
 			"headline": "Can 'digital twins' help California manage its growing flood risk?",
 			"url": "https://news.berkeley.edu/2026/08/13/can-digital-twins-help-california-manage-its-growing-flood-risk/",
 			"source": "UC Berkeley News",
@@ -150,6 +132,24 @@
 			"url": "https://www.latimes.com/california/story/2026-08-13/we-killed-off-californias-grizzly-bears-over-century-ago-can-we-resurrect-them",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-13T12:00:00.000Z"
+		},
+		{
+			"headline": "Relentless cycle of disaster has Big Sur in crisis again: 'You really have to fight to be here'",
+			"url": "https://www.latimes.com/california/story/2026-08-13/relentless-cycle-of-disaster-has-big-sur-in-crisis-again-you-really-have-to-fight-to-be-here",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-13T10:00:00.000Z"
+		},
+		{
+			"headline": "Sweat Sensor Enables Continuous Noninvasive Measurement of Cholesterol",
+			"url": "https://www.caltech.edu/about/news/sweat-sensor-enables-continuous-noninvasive-measurement-of-cholesterol",
+			"source": "Caltech",
+			"publishedAt": "2026-08-12T16:41:24.099Z"
+		},
+		{
+			"headline": "Hundreds of California stonecutters fall ill with deadly disease 'for a product we do not need'",
+			"url": "https://www.latimes.com/california/story/2026-08-12/600-plus-california-stonecutters-diagnosed-with-deadly-silicosis",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-12T16:00:00.000Z"
 		}
 	]
 }
