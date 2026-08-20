@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-20T00:26:03.542Z",
+	"lastUpdated": "2026-08-20T04:23:38.614Z",
 	"items": [
 		{
 			"headline": "Amid controversy, California officials release long-awaited Delta water plan",
@@ -20,22 +20,10 @@
 			"publishedAt": "2026-08-19T19:36:49.000Z"
 		},
 		{
-			"headline": "The Conversations We Don't Have About Safety Outdoors",
-			"url": "https://baynature.org/2026/08/19/latest-stories/the-conversations-we-dont-have-about-safety-outdoors/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-19T17:11:04.000Z"
-		},
-		{
 			"headline": "Universal Pattern Revealed in Quantum Matter",
 			"url": "https://www.caltech.edu/about/news/universal-pattern-revealed-in-quantum-matter",
 			"source": "Caltech",
 			"publishedAt": "2026-08-19T15:00:00.000Z"
-		},
-		{
-			"headline": "San Diego County kicks immigration agents out of shooting range. Sheriff says not so fast",
-			"url": "https://www.latimes.com/california/story/2026-08-18/san-diego-supervisors-kick-ice-out-of-county-owned-shooting-range",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-19T02:30:32.000Z"
 		},
 		{
 			"headline": "Expanding what's known about our fast-expanding universe",
@@ -56,18 +44,6 @@
 			"publishedAt": "2026-08-18T16:30:18.000Z"
 		},
 		{
-			"headline": "This clumsy green beetle is buzzing all over L.A. It might just crash into your face",
-			"url": "https://www.latimes.com/environment/story/2026-08-18/big-clumsy-beetles-take-over-los-angeles",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-18T10:00:00.000Z"
-		},
-		{
-			"headline": "After 34 years of debilitating sickle cell crises, CRISPR gave her a new chance at life",
-			"url": "https://news.berkeley.edu/2026/08/17/after-34-years-of-debilitating-sickle-cell-crises-crispr-gave-her-a-new-chance-at-life/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-17T20:36:55.000Z"
-		},
-		{
 			"headline": "California Prop. 40, the 'Billionaire Tax,' holds lead in new UC Berkeley IGS Poll",
 			"url": "https://news.berkeley.edu/2026/08/17/california-prop-40-the-billionaire-tax-holds-lead-in-new-uc-berkeley-igs-poll/",
 			"source": "UC Berkeley News",
@@ -84,6 +60,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-17/hydrogen-failed-as-car-fuel-now-californias-bet-on-it-for-green-energy-is-fading-too",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-17T10:05:00.000Z"
+		},
+		{
+			"headline": "After 34 years of debilitating sickle cell crises, CRISPR gave her a new chance at life",
+			"url": "https://news.berkeley.edu/2026/08/17/after-34-years-of-debilitating-sickle-cell-crises-crispr-gave-her-a-new-chance-at-life/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-17T20:36:55.000Z"
 		},
 		{
 			"headline": "Are mosquitoes, ticks and fleas turning California into a disease hotspot?",
@@ -104,28 +86,10 @@
 			"publishedAt": "2026-08-16T10:00:00.000Z"
 		},
 		{
-			"headline": "Shadow seen with new eagle at the Big Bear nest. Could a match be in the making?",
-			"url": "https://www.latimes.com/environment/story/2026-08-14/shadow-seen-with-new-eagle-at-big-bear-nest-could-match-be-in-making",
+			"headline": "Flights between L.A. and Hawaii disrupted as Hurricane Lala approaches the Big Island",
+			"url": "https://www.latimes.com/travel/story/2026-08-15/hurricane-lala-disrupts-los-angeles-flights-to-hawaii",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T20:29:17.000Z"
-		},
-		{
-			"headline": "An oil company wants to restart fracking off the California coast. The state's top coastal officials say no way",
-			"url": "https://www.latimes.com/environment/story/2026-08-14/california-rejects-offshore-fracking-plan-trump",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T17:51:28.000Z"
-		},
-		{
-			"headline": "Injured mountain lion found in a San Dimas neighborhood was euthanized, wildlife officials say",
-			"url": "https://www.latimes.com/california/story/2026-08-14/injured-san-dimas-mountain-lion-euthanized-wildlife-officials-say",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T17:42:09.000Z"
-		},
-		{
-			"headline": "Summer is now California's COVID busy season as winter waves fade",
-			"url": "https://www.latimes.com/california/story/2026-08-14/covid-becoming-california-summer-staple-as-winter-outbreaks-fade",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T10:00:00.000Z"
+			"publishedAt": "2026-08-16T00:56:14.000Z"
 		},
 		{
 			"headline": "California river otter suffers brain injury in hit-and-run strike",
@@ -140,10 +104,46 @@
 			"publishedAt": "2026-08-15T20:24:01.000Z"
 		},
 		{
+			"headline": "An oil company wants to restart fracking off the California coast. The state's top coastal officials say no way",
+			"url": "https://www.latimes.com/environment/story/2026-08-14/california-rejects-offshore-fracking-plan-trump",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T17:51:28.000Z"
+		},
+		{
+			"headline": "Injured mountain lion found in a San Dimas neighborhood was euthanized, wildlife officials say",
+			"url": "https://www.latimes.com/california/story/2026-08-14/injured-san-dimas-mountain-lion-euthanized-wildlife-officials-say",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T17:42:09.000Z"
+		},
+		{
+			"headline": "A 150-pound statue was found buried in a San Francisco backyard. Its origin is a mystery",
+			"url": "https://www.latimes.com/california/story/2026-08-14/san-francisco-mystery-statue-found-backyard",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T16:30:35.000Z"
+		},
+		{
+			"headline": "Summer is now California's COVID busy season as winter waves fade",
+			"url": "https://www.latimes.com/california/story/2026-08-14/covid-becoming-california-summer-staple-as-winter-outbreaks-fade",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T10:00:00.000Z"
+		},
+		{
+			"headline": "Shadow seen with new eagle at the Big Bear nest. Could a match be in the making?",
+			"url": "https://www.latimes.com/environment/story/2026-08-14/shadow-seen-with-new-eagle-at-big-bear-nest-could-match-be-in-making",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T20:29:17.000Z"
+		},
+		{
 			"headline": "Stripped of sand, decades-old infrastructure 'relics' pop up at the Wedge in Newport Beach",
 			"url": "https://www.latimes.com/california/story/2026-08-17/erosion-reveals-decades-old-infrastructure-newport-beach-wedge",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-18T04:23:34.000Z"
+		},
+		{
+			"headline": "This clumsy green beetle is buzzing all over L.A. It might just crash into your face",
+			"url": "https://www.latimes.com/environment/story/2026-08-18/big-clumsy-beetles-take-over-los-angeles",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-18T10:00:00.000Z"
 		}
 	]
 }
