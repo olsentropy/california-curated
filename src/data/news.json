@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-21T04:25:42.450Z",
+	"lastUpdated": "2026-08-21T08:22:55.914Z",
 	"items": [
 		{
 			"headline": "Dead of a mosquito bite: L.A. records West Nile fatality as California cases hit 5-year high",
@@ -20,13 +20,19 @@
 			"publishedAt": "2026-08-20T17:00:12.000Z"
 		},
 		{
+			"headline": "Carson reaches $370-million settlement with Marathon Petroleum, resolving tax dispute",
+			"url": "https://www.latimes.com/environment/story/2026-08-20/carson-reaches-370-million-settlement-with-marathon-petroleum",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-20T17:00:00.000Z"
+		},
+		{
 			"headline": "Judge allows controversial oil company to continue pumping, strips California of oversight",
 			"url": "https://www.latimes.com/environment/story/2026-08-20/judge-allows-controversial-oil-company-continue-pumping",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-20T15:06:36.000Z"
 		},
 		{
-			"headline": "Key takeaways from investigation into Edison's role in the deadly Eaton fire",
+			"headline": "Key takeaways from investigation into Edison's role in the Eaton fire",
 			"url": "https://www.latimes.com/business/story/2026-08-20/key-takeaways-from-investigation-into-edisons-role-in-eaton-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-20T10:00:00.000Z"
@@ -38,28 +44,16 @@
 			"publishedAt": "2026-08-19T23:06:52.000Z"
 		},
 		{
-			"headline": "As Lake Mead shrinks, its body count rises",
-			"url": "https://www.latimes.com/california/story/2026-08-19/as-lake-mead-shrinks-its-body-count-rises",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-19T21:47:08.000Z"
-		},
-		{
-			"headline": "California has an affordability crisis. The fix may be politically uncomfortable.",
-			"url": "https://news.berkeley.edu/2026/08/19/california-has-an-affordability-crisis-the-fix-may-be-politically-uncomfortable/",
+			"headline": "UC Berkeley computer scientist on the promise and perils of agentic AI",
+			"url": "https://news.berkeley.edu/2026/08/19/uc-berkeley-computer-scientist-on-the-promise-and-perils-of-agentic-ai/",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-19T21:10:53.000Z"
+			"publishedAt": "2026-08-19T19:36:49.000Z"
 		},
 		{
 			"headline": "State approves 'Zone Zero' fire-safe landscaping rules, reshaping yards for millions of Californians",
 			"url": "https://www.latimes.com/environment/story/2026-08-19/state-approves-zone-zero-fire-safe-landscaping-rules",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-19T20:13:51.000Z"
-		},
-		{
-			"headline": "UC Berkeley computer scientist on the promise and perils of agentic AI",
-			"url": "https://news.berkeley.edu/2026/08/19/uc-berkeley-computer-scientist-on-the-promise-and-perils-of-agentic-ai/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-19T19:36:49.000Z"
 		},
 		{
 			"headline": "The Conversations We Don't Have About Safety Outdoors",
@@ -72,12 +66,6 @@
 			"url": "https://www.caltech.edu/about/news/universal-pattern-revealed-in-quantum-matter",
 			"source": "Caltech",
 			"publishedAt": "2026-08-19T15:00:00.000Z"
-		},
-		{
-			"headline": "San Diego County kicks immigration agents out of shooting range. Sheriff says not so fast",
-			"url": "https://www.latimes.com/california/story/2026-08-18/san-diego-supervisors-kick-ice-out-of-county-owned-shooting-range",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-19T02:30:32.000Z"
 		},
 		{
 			"headline": "Expanding what's known about our fast-expanding universe",
@@ -122,12 +110,6 @@
 			"publishedAt": "2026-08-17T17:37:28.000Z"
 		},
 		{
-			"headline": "Scientists Define a New Category of Heat Wave: \"Snow Eaters\"",
-			"url": "https://eos.org/articles/scientists-define-a-new-category-of-heat-wave-snow-eaters",
-			"source": "Eos",
-			"publishedAt": "2026-08-17T12:07:13.000Z"
-		},
-		{
 			"headline": "Hydrogen failed as car fuel. Now California's big dollar bet on it for green energy is fading, too",
 			"url": "https://www.latimes.com/environment/story/2026-08-17/hydrogen-failed-as-car-fuel-now-californias-bet-on-it-for-green-energy-is-fading-too",
 			"source": "Los Angeles Times",
@@ -150,6 +132,24 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-16/inside-bitter-war-over-cows-wilderness-at-point-reyes",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-16T10:00:00.000Z"
+		},
+		{
+			"headline": "California river otter suffers brain injury in hit-and-run strike",
+			"url": "https://www.latimes.com/california/story/2026-08-15/california-river-otter-suffers-brain-injury-in-hit-and-run-strike",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-15T23:01:53.000Z"
+		},
+		{
+			"headline": "Hammer time: Rare hammerhead shark gives Malibu pier fishermen a shock",
+			"url": "https://www.latimes.com/california/story/2026-08-15/hammerhead-shark-malibu-pier-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-15T20:24:01.000Z"
+		},
+		{
+			"headline": "'Unacceptable': La Jolla man who admitted kicking a sea lion faces a year in jail and $100,000 fine",
+			"url": "https://www.latimes.com/california/story/2026-08-14/unacceptable-la-jolla-man-who-admitted-kicking-sea-lion-faces-100-000-fine",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-14T23:15:24.000Z"
 		}
 	]
 }
