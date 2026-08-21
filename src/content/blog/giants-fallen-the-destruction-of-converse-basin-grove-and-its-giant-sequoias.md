@@ -1,7 +1,7 @@
 ---
 title: 'Giants Fallen: The Destruction of Converse Basin Grove and its Giant Sequoias'
 description: The true tragic story of one of the worst environmental crimes in California history.
-pubDate: 2024-04-25
+pubDate: 2026-08-21
 updatedDate: ''
 heroImage: /wp-content/uploads/cms/UPSCALE-converse basin 1.jpeg
 categories:
@@ -19,7 +19,7 @@ tags:
   - national-park-service
   - trees
 author: Erik Olsen
-draft: true
+draft: false
 wpId: 3060
 wpSlug: giants-fallen-the-destruction-of-converse-basin-grove-and-its-giant-sequoias
 ---
