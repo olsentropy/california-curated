@@ -1,16 +1,34 @@
 ---
-title: "Upwelling, the Ocean’s Engine Beneath California’s Waters"
-description: "Few marine processes are as impactful on the abundance of sea life off the coast of California as upwelling. It may not be a term you’ve heard before, but the natural oceanic process of upwelling is one of the most important engines driving climate, biological diversity, and the ocean’s food web."
+title: Upwelling, the Ocean’s Engine Beneath California’s Waters
+description: Few marine processes are as impactful on the abundance of sea life off the coast of California as upwelling. It may not be a term you’ve heard before, but the natural oceanic process of upwelling is one of the most important engines driving climate, biological diversity, and the ocean’s food web.
 pubDate: 2025-12-15
-heroImage: "/wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-hero.jpg"
+updatedDate: ''
+heroImage: /wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-hero.jpg
+categories:
+  - animals
+  - biology
+  - climate-change
+  - geology-and-earthquakes
+  - marine-science
+  - places
+tags:
+  - animals
+  - california
+  - climate-change
+  - coriolis-effect
+  - environment
+  - global-warming
+  - nature
+  - pacific-ocean
+  - science
+  - sustainability
+  - upwelling
+author: Erik Olsen
+draft: false
 wpId: 6792
-wpSlug: "upwelling-the-oceans-engine-beneath-californias-waters"
-categories: ["animals", "biology", "climate-change", "geology-and-earthquakes", "marine-science", "places"]
-tags: ["animals", "california", "climate-change", "coriolis-effect", "environment", "global-warming", "nature", "pacific-ocean", "science", "sustainability", "upwelling"]
-author: "Erik Olsen"
-seoTitle: "California Upwelling: How Cold Ocean Water Powers Marine Life"
+wpSlug: upwelling-the-oceans-engine-beneath-californias-waters
+seoTitle: 'California Upwelling: How Cold Ocean Water Powers Marine Life'
 ---
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
@@ -18,13 +36,13 @@ I recently revisited a book I enjoyed: [The Blue Machine](<https://amzn.to/4pzsS
 
 One of the core ideas she returns to is ocean upwelling, a process that is especially important for those of us who live in California. Upwelling is one of those hidden forces that quietly underlies everything around us, and once you read about it, you realize that so much of what we know and love here simply would not exist without it. 
 
-* * *
+* \* \*
 
 Few marine processes are as impactful on the abundance of sea life off the coast of California as upwelling. It may not be a term you've heard before, but the natural oceanic process of upwelling is one of the most important engines driving climate, biological diversity, and the ocean's food web.
 
 It's time to pay attention.
 
-[![](/wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-1.jpg)](</wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-1.jpg>)The abundance of sea life around some of California's oil rigs is due in part to ocean upwelling near the continental shelf. (Photo: Erik Olsen)
+[![](/wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-1.jpg)](</wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-1.jpg>)_The abundance of sea life around some of California's oil rigs is due in part to ocean upwelling near the continental shelf. (Photo: Erik Olsen)_
 
 In simple terms, upwelling is when cold, nutrient-rich water from the deep ocean rises to the surface, replacing warmer surface water. A churn. Along the California coast, prevailing northerly winds push surface waters offshore through the [Coriolis effect](<https://en.wikipedia.org/wiki/Coriolis_force>), allowing deeper, colder water to rise in their place. Over the continental shelf off shore California, this upwelled water is rapidly brought into shallower depths, delivering nutrients directly into the [photic zone](<https://en.wikipedia.org/wiki/Photic_zone>) where phytoplankton can grow. This is one reason continental shelves, including areas around offshore oil platforms ([which I wrote about a few weeks ago](<https://californiacurated.substack.com/p/transforming-californias-oil-platforms>)), are biological hotspots.
 
@@ -32,7 +50,7 @@ California’s upwelling system is one of the most intensively studied in the wo
 
 In California, upwelling occurs year-round off the northern and central coast. It's strongest in the spring and summer when northwesterly winds are at their most powerful. Upwelling is reduced in the fall and winter when winds are more variable.
 
-[![](/wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-2.jpg)](</wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-2.jpg>)Killer whales benefit from upwelling because the nutrient-rich waters fuel a surge in phytoplankton, which triggers an increase in the populations of smaller prey fish and marine mammals that orcas rely on for sustenance. (Photo: NOAA)
+[![](/wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-2.jpg)](</wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-2.jpg>)_Killer whales benefit from upwelling because the nutrient-rich waters fuel a surge in phytoplankton, which triggers an increase in the populations of smaller prey fish and marine mammals that orcas rely on for sustenance. (Photo: NOAA)_
 
 Researchers from institutions like the [Scripps Institution of Oceanography](<https://scripps.ucsd.edu/>) and [Stanford University](<https://pangea.stanford.edu/>) have used a variety of methods, including satellite observations and computer modeling, to study upwelling. One of the groundbreaking studies was the [CalCOFI program](<https://calcofi.org/>) (California Cooperative Oceanic Fisheries Investigations), which began in the late 1940s. It was a joint venture between Scripps and state and federal agencies to investigate the [collapse of the sardine fishery](<https://swfsc-publications.fisheries.noaa.gov/publications/CR/1990/9067.PDF>). The study showed that the sardine collapse was not just due to overfishing but also large-scale ocean and climate variability, a finding that reshaped fisheries science. Over decades, it has expanded its scope and now provides invaluable long-term datasets that help scientists understand upwelling and its impacts on marine populations.
 
@@ -46,23 +64,23 @@ Also, cold water holds more dissolved gases like oxygen compared to warm water (
 
 But there’s a problem.
 
-[![](/wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-4.jpg)](</wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-4.jpg>)Sardines off the coast of California (Photo: NOAA)
+[![](/wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-4.jpg)](</wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-4.jpg>)_Sardines off the coast of California (Photo: NOAA)_
 
 [Studies have shown](<https://link.springer.com/article/10.1007/s10236-021-01490-9>) that natural changes in climate, like El Niño and La Niña events have a significant impact on wildlife and the local ocean ecosystem. During El Niño events, warmer waters and weaker upwelling reduce nutrient levels in the California Current, lowering phytoplankton productivity and causing deadly ripples through the food web. La Niña conditions generally strengthen upwelling, bringing nutrient-rich water to the surface and boosting marine productivity.
 
 Climate change adds a potentially dangerous new layer of uncertainty: oceans are warming and growing more acidic, which can disrupt the timing, strength, and benefits of upwelling. While climate change does not necessarily mean _more_ El Niño years, it does mean that El Niño events now play out in a warmer ocean, often amplifying their impacts and increasing stress on marine life, with serious consequences for some organisms.
 
-[![](/wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-5.jpg)](</wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-5.jpg>)Sea lions off the Southern California coast. (Photo: Erik Olsen)
+[![](/wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-5.jpg)](</wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-5.jpg>)_Sea lions off the Southern California coast. (Photo: Erik Olsen)_
 
 We’ve been seeing some of these impacts. Take sea lions and large fish populations. In years of strong upwelling, prey is more abundant and closer to shore, allowing California sea lions to forage more efficiently and increasing populations. During weak upwelling years, prey becomes scarcer and more dispersed, forcing sea lions to travel farther for food, increasing stress and reducing reproductive success. Variations like this [have been observed](<https://oehha.ca.gov/epic/impacts-biological-systems/california-sea-lion-pup-demography>) in recent years during El Niño periods along the California coast, showing how quickly marine ecosystems respond to shifts in ocean conditions.
 
 Of course, upwelling isn't just a California thing; it's a global phenomenon that occurs in various parts of the world, from the coasts of Peru to the Canary Islands. It serves a similar churning life inducing function in these places, too. But California is sort of the poster child for scientists thanks to extensive research here and its vital role in a multi-billion dollar fishing industry that includes species like albacore tuna, swordfish, Dungeness crab, [squid](<https://californiacurated.com/2023/09/11/squid-pro-quo-how-the-california-market-squid-gives-back-to-nature-and-economy/>), and [sardines](<https://caseagrant.ucsd.edu/seafood-profiles/pacific-sardine>).
 
-[![](/wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-6.jpg)](</wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-6.jpg>)Anacaps Island in California’s Channel Islands (Photo: Erik Olsen)
+[![](/wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-6.jpg)](</wp-content/uploads/cms/upwelling-the-oceans-engine-beneath-californias-waters-img-6.jpg>)_Anacaps Island in California’s Channel Islands (Photo: Erik Olsen)_
 
 Upwelling is one of those critical oceanic processes that helps maintain our stable and immensely productive California waters, but warming ocean temperatures and changes in wind patterns could cause big problems, disrupting the timing and intensity of upwelling, putting sea life off California's coast at risk.
 
-[![](https://californiacurated.com/wp-content/uploads/2025/08/california-quail-mockup-4.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)Pick up some California wildlife gifts at our Etsy store. Seriously, they're cool. 
+[![](https://californiacurated.com/wp-content/uploads/2025/08/california-quail-mockup-4.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)_Pick up some California wildlife gifts at our Etsy store. Seriously, they're cool._ 
 
 Of course, I do not mean for this piece to be yet another downer about climate change. California’s coastal ecosystem is, in many ways, healthier today than it has been in decades, thanks to policies and practices put in place once we began to understand what was truly at stake. Whenever I get offshore and experience the ocean firsthand, I feel deeply grateful for what we have now, even as I remain aware that it is something we could still damage if we’re stupid and careless…which is not out of the question. The encouraging part is that Californians have shown, again and again, a real capacity to rally when it matters. For now, then, it is worth appreciating what we have and getting out there to experience it whenever you get the chance.
 
