@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-21T12:18:47.140Z",
+	"lastUpdated": "2026-08-21T16:16:41.161Z",
 	"items": [
 		{
 			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
@@ -30,12 +30,6 @@
 			"url": "https://news.berkeley.edu/2026/08/20/watch-decode-the-chatter-of-birds-with-a-berkeley-neuroscientist/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-20T17:00:12.000Z"
-		},
-		{
-			"headline": "Carson reaches $370-million settlement with Marathon Petroleum, resolving tax dispute",
-			"url": "https://www.latimes.com/environment/story/2026-08-20/carson-reaches-370-million-settlement-with-marathon-petroleum",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-20T17:00:00.000Z"
 		},
 		{
 			"headline": "Judge allows controversial oil company to continue pumping, strips California of oversight",
@@ -74,16 +68,10 @@
 			"publishedAt": "2026-08-19T20:13:51.000Z"
 		},
 		{
-			"headline": "The Conversations We Don't Have About Safety Outdoors",
-			"url": "https://baynature.org/2026/08/19/latest-stories/the-conversations-we-dont-have-about-safety-outdoors/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-19T17:11:04.000Z"
-		},
-		{
-			"headline": "San Diego County kicks immigration agents out of shooting range. Sheriff says not so fast",
-			"url": "https://www.latimes.com/california/story/2026-08-18/san-diego-supervisors-kick-ice-out-of-county-owned-shooting-range",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-19T02:30:32.000Z"
+			"headline": "Universal Pattern Revealed in Quantum Matter",
+			"url": "https://www.caltech.edu/about/news/universal-pattern-revealed-in-quantum-matter",
+			"source": "Caltech",
+			"publishedAt": "2026-08-19T15:00:00.000Z"
 		},
 		{
 			"headline": "Expanding what's known about our fast-expanding universe",
@@ -92,20 +80,26 @@
 			"publishedAt": "2026-08-18T18:32:59.000Z"
 		},
 		{
+			"headline": "Jellyfish Enable Surprising New Findings about Cancer",
+			"url": "https://www.caltech.edu/about/news/jellyfish-enable-surprising-new-findings-about-cancer",
+			"source": "Caltech",
+			"publishedAt": "2026-08-18T18:09:21.943Z"
+		},
+		{
 			"headline": "MBARI introduces students to careers in ocean science and engineering",
 			"url": "https://www.mbari.org/news/mbari-introduces-students-to-careers-in-ocean-science-and-engineering/",
 			"source": "MBARI",
 			"publishedAt": "2026-08-18T16:30:18.000Z"
 		},
 		{
-			"headline": "This clumsy green beetle is buzzing all over L.A. It might just crash into your face",
-			"url": "https://www.latimes.com/environment/story/2026-08-18/big-clumsy-beetles-take-over-los-angeles",
+			"headline": "As Colorado River reservoirs shrink, Arizona warns of a legal fight",
+			"url": "https://www.latimes.com/environment/story/2026-08-18/colorado-river-legal-fight",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-18T10:00:00.000Z"
 		},
 		{
-			"headline": "As Colorado River reservoirs shrink, Arizona warns of a legal fight",
-			"url": "https://www.latimes.com/environment/story/2026-08-18/colorado-river-legal-fight",
+			"headline": "This clumsy green beetle is buzzing all over L.A. It might just crash into your face",
+			"url": "https://www.latimes.com/environment/story/2026-08-18/big-clumsy-beetles-take-over-los-angeles",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-18T10:00:00.000Z"
 		},
@@ -132,6 +126,12 @@
 			"url": "https://www.latimes.com/california/story/2026-08-17/another-heat-wave-is-coming-to-southern-california",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-17T17:37:28.000Z"
+		},
+		{
+			"headline": "Scientists Define a New Category of Heat Wave: \"Snow Eaters\"",
+			"url": "https://eos.org/articles/scientists-define-a-new-category-of-heat-wave-snow-eaters",
+			"source": "Eos",
+			"publishedAt": "2026-08-17T12:07:13.000Z"
 		},
 		{
 			"headline": "Hydrogen failed as car fuel. Now California's big dollar bet on it for green energy is fading, too",
