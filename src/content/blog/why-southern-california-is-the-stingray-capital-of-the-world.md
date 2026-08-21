@@ -2,7 +2,7 @@
 title: "Why Southern California is the Stingray Capital of the World"
 description: "According to research led by Dr. Chris Lowe at California State University, Long Beach Shark Lab, Southern California’s nearshore waters may host one of the densest concentrations of stingrays anywhere in the world."
 pubDate: 2026-04-13
-heroImage: "https://substackcdn.com/image/fetch/$s_!R3WO!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd0bb4da-cf9b-4e44-93eb-212a3335394a_2800x2096.jpeg"
+heroImage: "/wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-hero.jpg"
 wpId: 7234
 wpSlug: "why-southern-california-is-the-stingray-capital-of-the-world"
 categories: ["animals", "biology", "cities", "marine-science", "people"]
@@ -23,7 +23,7 @@ Locals and lifeguards have a name for it: [Ray Bay](<https://www.latimes.com/arc
 
 What’s crazy is not that stingrays are here (they have been for a long, long time), but how many there are. According to research led by [Dr. Chris Lowe](<https://www.csulb.edu/media/page/chris-lowe>) at [California State University, Long Beach Shark Lab](<https://www.csulb.edu/shark-lab>), Southern California’s nearshore waters may host one of the densest concentrations of stingrays anywhere in the world. In some surveys, patches of seafloor the size of a football field are effectively carpeted with them. “We’ve done snorkel surveys where you cannot see sand,” Lowe says.
 
-[![](https://substackcdn.com/image/fetch/$s_!1ijp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f774d5a-c1aa-4e4f-8770-103e56ac66a7_2000x1129.jpeg)](<https://substackcdn.com/image/fetch/$s_!1ijp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f774d5a-c1aa-4e4f-8770-103e56ac66a7_2000x1129.jpeg>)Dr. Chris Lowe is a professor of marine biology and director of the Shark Lab at Cal State, Long Beach. (Photo: Erik Olsen)
+[![](/wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-img-1.jpg)](</wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-img-1.jpg>)Dr. Chris Lowe is a professor of marine biology and director of the Shark Lab at Cal State, Long Beach. (Photo: Erik Olsen)
 
 The Shark Lab has long been the state’s premier institution for understanding the behavior of sharks and rays. Lowe, who has led the lab for nearly three decades, is tall, fit, and deeply fluent in all things [elasmobranch](<https://en.wikipedia.org/wiki/Elasmobranchii>), the group of cartilaginous fishes that includes sharks, rays, skates, and chimaeras. He has become one of California’s most recognizable voices on these animals, a steady, authoritative presence for television, news, and documentary crews trying to make sense of what’s happening just offshore.
 
@@ -37,7 +37,7 @@ And Seal Beach is, in some ways, engineered for them.
 
 The San Gabriel River empties into the ocean at Seal Beach at a wide channel beloved by surfers. River currents deliver a steady supply of fine sediment that creates soft, sandy bottoms, ideal for burying, a common behavior of stingrays to avoid predation. There’s also a breakwater here that slows currents, allowing sediment to accumulate. Even more importantly, nearby power plants, including the [Haynes Generating Station](<https://opc.ca.gov/webmaster/ftp/project_pages/OTC/engineering%20study/Chapter_7F_Haynes_Generating_Station.pdf>) and the [Alamitos Energy Center](<https://www.energy.ca.gov/powerplant/combined-cycle/alamitos-energy-center>), discharge warm water into the coastal zone, raising water temperatures and helping create conditions that stingrays favor year-round. “They use all these conditions for mating and for pupping,” Lowe explains.
 
-[![https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Round_stingray.jpg/1280px-Round_stingray.jpg](https://substackcdn.com/image/fetch/$s_!k03c!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1d1583a-b6f7-43ac-88c9-3012a24b236f_1280x960.jpeg)](<https://substackcdn.com/image/fetch/$s_!k03c!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff1d1583a-b6f7-43ac-88c9-3012a24b236f_1280x960.jpeg>)Round stingray on the seafloor. (Photo: Wikipedia)
+[![https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Round_stingray.jpg/1280px-Round_stingray.jpg](/wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-img-2.jpg)](</wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-img-2.jpg>)Round stingray on the seafloor. (Photo: Wikipedia)
 
 Stingrays don’t lay eggs. They give birth to live young, and the round stingray does it quickly. Gestation lasts only about three months, one of the fastest reproductive cycles among sharks and rays. Females mature in just a few years and can produce multiple litters over a lifetime of roughly 15 years. Add warming ocean temperatures, which are making Southern California even more hospitable, and you have the conditions for a major population surge. “As climate change is warming the water, it’s actually making Southern California even more appealing, and they’re going to start marching even further north,” Lowe says. Get ready, Northern California.
 
@@ -45,7 +45,7 @@ At the same time, another factor has led to a rise in stingray populations. For 
 
 That said, now, the balance may be tilting back. Slightly. Juvenile great white sharks feed heavily on stingrays. “Baby white sharks, their favorite things to eat are what we call stingray pancakes,” Lowe says. In an ecological twist, the return of white sharks may actually make beaches safer. “When there are a lot of white sharks off your beach, they’re keeping you safer because they’re eating the stingrays that are far more likely to injure people than the sharks are themselves.”
 
-[![](https://substackcdn.com/image/fetch/$s_!EfA3!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1187970c-33a6-4c90-ac09-60f1205dcd6c_2000x1091.jpeg)](<https://substackcdn.com/image/fetch/$s_!EfA3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1187970c-33a6-4c90-ac09-60f1205dcd6c_2000x1091.jpeg>)Round stingray scientific illustration.
+[![](/wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-img-3.jpg)](</wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-img-3.jpg>)Round stingray scientific illustration.
 
 Tough choice, right? Do you want more sharks or more stingrays? For now, the rays dominate the shallows.
 
@@ -61,7 +61,7 @@ Stingrays bury themselves as a defense strategy, hiding from predators. It works
 
 The result is one of the most common marine injuries in California.
 
-[![](https://substackcdn.com/image/fetch/$s_!UcBc!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46303ea6-572c-484c-bff1-42684bdb64a1_2000x1802.jpeg)](<https://substackcdn.com/image/fetch/$s_!UcBc!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F46303ea6-572c-484c-bff1-42684bdb64a1_2000x1802.jpeg>)A fake foot constructed by the Shark Lab tests how stingrays react when stepped on by real humans. “If you step on the margin of the fin or the nose, they won’t flip,” says Lowe. “They’ll wiggle away. But if you step on the organs, the most sensitive part is when they flick.” (Image: Shark Lab, CSULB)
+[![](/wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-img-4.jpg)](</wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-img-4.jpg>)A fake foot constructed by the Shark Lab tests how stingrays react when stepped on by real humans. “If you step on the margin of the fin or the nose, they won’t flip,” says Lowe. “They’ll wiggle away. But if you step on the organs, the most sensitive part is when they flick.” (Image: Shark Lab, CSULB)
 
 To test how stingrays inflict pain, the Shark Lab developed a fake human foot to step on different parts of the rays. What they discovered will come as a surprise to many people: “If you step on the margin of the fin or the nose, they won’t flip,” says Lowe. “They’ll wiggle away. But if you step on the organs, the most sensitive part is when they flick.”
 
@@ -79,7 +79,7 @@ Infections, however, are a real concern. Roughly 25 percent of injuries can beco
 
 The good news is that most stings are preventable.
 
-[![](https://substackcdn.com/image/fetch/$s_!9HWJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1dcc73cf-894a-4615-bab2-dd2e9c00f70c_2000x1344.jpeg)](<https://substackcdn.com/image/fetch/$s_!9HWJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1dcc73cf-894a-4615-bab2-dd2e9c00f70c_2000x1344.jpeg>)A tiny weapon with a serious sting — the serrated barb of a round stingray, built for defense and capable of delivering a painful reminder to watch your step in shallow coastal waters. (Photo: CSULB Shark Lab)
+[![](/wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-img-5.jpg)](</wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-img-5.jpg>)A tiny weapon with a serious sting — the serrated barb of a round stingray, built for defense and capable of delivering a painful reminder to watch your step in shallow coastal waters. (Photo: CSULB Shark Lab)
 
 The simplest solution is something lifeguards repeat constantly: the stingray shuffle. Instead of stepping normally, you slide your feet along the sand, digging your toes in a bit. That motion nudges buried stingrays, giving them time to flee. “If you shuffle your feet and you nudge them, they’ll skitter away,” Lowe says.
 
@@ -87,7 +87,7 @@ I’ve done the stingray shuffle plenty of times wading into Southern California
 
 “I’ve been stung so many times. And it is painful,” Lowe says. He warns again of taking the injury seriously: “If you start to see redness and intensity, it could be some of the barb broke off, or grains of sand have gotten into the wound and are causing infection.”
 
-[![](https://substackcdn.com/image/fetch/$s_!YmTd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg)](<https://substackcdn.com/image/fetch/$s_!YmTd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg>)Stingray warning sign for beach tourists at Seal Beach. “Do the Shuffle” to help prevent stings. (Photo: Erik Olsen)
+[![](/wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-img-6.jpg)](</wp-content/uploads/cms/why-southern-california-is-the-stingray-capital-of-the-world-img-6.jpg>)Stingray warning sign for beach tourists at Seal Beach. “Do the Shuffle” to help prevent stings. (Photo: Erik Olsen)
 
 Still, Lowe says he has respect for the animals and hopes people don’t see them as creatures that are somehow out to sting us. Stingrays are not aggressive. They are defensive. “They only do that to defend themselves,” Lowe says of the sting. They’re not invading the beach. They are using a habitat that, in many ways, has been shaped to suit them. Perhaps it’s us who need to adapt. That’s the central message Lowe draws from years of studying these animals, the so-called “flat sharks.”
 

@@ -18,7 +18,12 @@
     },
     {
       "source": "/2023/01/20/the-volcanic-history-of-owens-valley-and-the-long-valley-caldera/",
-      "destination": "/blog/the-volcanic-history-of-owens-valley-and-the-long-valley-caldera/",
+      "destination": "/blog/the-california-supervolcano-you-can-visit-and-other-amazing-geologic-attractions/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-volcanic-history-of-owens-valley-and-the-long-valley-caldera/",
+      "destination": "/blog/the-california-supervolcano-you-can-visit-and-other-amazing-geologic-attractions/",
       "permanent": true
     },
     {
@@ -68,7 +73,12 @@
     },
     {
       "source": "/2020/04/01/the-mismeasure-by-man-how-we-overstate-the-length-of-the-blue-whale-earths-largest-creature/",
-      "destination": "/blog/the-mismeasure-by-man-how-we-overstate-the-length-of-the-blue-whale-earths-largest-creature/",
+      "destination": "/blog/not-so-big-how-we-overstate-the-length-of-the-blue-whale-earths-largest-creature/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-mismeasure-by-man-how-we-overstate-the-length-of-the-blue-whale-earths-largest-creature/",
+      "destination": "/blog/not-so-big-how-we-overstate-the-length-of-the-blue-whale-earths-largest-creature/",
       "permanent": true
     },
     {
@@ -248,7 +258,12 @@
     },
     {
       "source": "/2023/09/27/the-oceans-invisible-elevator-how-upwelling-fuels-californias-marine-bounty/",
-      "destination": "/blog/the-oceans-invisible-elevator-how-upwelling-fuels-californias-marine-bounty/",
+      "destination": "/blog/upwelling-the-oceans-engine-beneath-californias-waters/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-oceans-invisible-elevator-how-upwelling-fuels-californias-marine-bounty/",
+      "destination": "/blog/upwelling-the-oceans-engine-beneath-californias-waters/",
       "permanent": true
     },
     {
@@ -568,7 +583,12 @@
     },
     {
       "source": "/2025/02/10/long-valley-caldera-discover-the-science-and-beauty-of-californias-ancient-supervolcano/",
-      "destination": "/blog/long-valley-caldera-discover-the-science-and-beauty-of-californias-ancient-supervolcano/",
+      "destination": "/blog/the-california-supervolcano-you-can-visit-and-other-amazing-geologic-attractions/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/long-valley-caldera-discover-the-science-and-beauty-of-californias-ancient-supervolcano/",
+      "destination": "/blog/the-california-supervolcano-you-can-visit-and-other-amazing-geologic-attractions/",
       "permanent": true
     },
     {

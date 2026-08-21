@@ -21,7 +21,7 @@ At the [California State University Long Beach Shark Lab](https://www.csulb.edu
 
 This is one of the country’s leading centers for studying [elasmobranchs](https://en.wikipedia.org/wiki/Elasmobranchii), the ancient group of cartilaginous fish that includes sharks, rays, skates, and chimaeras. And its director, [Chris Lowe](https://www.csulb.edu/media/page/chris-lowe), has spent decades trying to answer a deceptively simple question: what are these animals actually doing just off California’s beaches, and what does that mean for the millions of people who share the water with them?
 
-[![A shark swims near a paddleboarder.](https://substackcdn.com/image/fetch/$s_!Gvag!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b484522-3c99-4e2b-9ac6-ffaf2d5b47c2_1200x739.jpeg "A shark swims near a paddleboarder.")](https://substackcdn.com/image/fetch/$s_!Gvag!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7b484522-3c99-4e2b-9ac6-ffaf2d5b47c2_1200x739.jpeg)Researchers at the California State University Long Beach Shark Lab have found that sharks and people share the water at some California beaches far more often than anyone realized. (Photo: Carlos Gauna / Cal State Long Beach)
+[![A shark swims near a paddleboarder.](/wp-content/uploads/cms/its-going-to-be-a-sharky-summer-heres-why-thats-okay-img-1.jpg "A shark swims near a paddleboarder.")](/wp-content/uploads/cms/its-going-to-be-a-sharky-summer-heres-why-thats-okay-img-1.jpg)Researchers at the California State University Long Beach Shark Lab have found that sharks and people share the water at some California beaches far more often than anyone realized. (Photo: Carlos Gauna / Cal State Long Beach)
 
 The answer starts with a shift in perspective.
 
@@ -31,7 +31,7 @@ And those sharks are not rare.
 
 “I can tell people on any given day I could probably take them out and show them a white shark,” Lowe says. Twenty-five years ago, he would have laughed at that idea.
 
-[![](/wp-content/uploads/cms/shark-jaws-csulb.jpg "Shark jaws on the wall at the CSULB Shark Lab (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!zCVr!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7ff186a5-465b-45ad-881a-a80938efef68_2000x1125.jpeg)Shark jaws hang on the wall at the Shark Lab at Cal State Long Beach (Photo: Erik Olsen)
+[![](/wp-content/uploads/cms/shark-jaws-csulb.jpg "Shark jaws on the wall at the CSULB Shark Lab (Photo: Erik Olsen)")](/wp-content/uploads/cms/its-going-to-be-a-sharky-summer-heres-why-thats-okay-img-2.jpg)Shark jaws hang on the wall at the Shark Lab at Cal State Long Beach (Photo: Erik Olsen)
 
 What changed is not just awareness, but the ocean itself. Decades of conservation, including protections that began in 1994, when the state made it illegal to target or land great white sharks, effectively gave them full protection in state waters. This has allowed white shark populations to recover. At the same time, their prey has rebounded. Also, thanks in part to the [Marine Mammal Protection Act](https://www.mmc.gov/about-the-commission/our-mission/marine-mammal-protection-act/), “There are now more California sea lions on the planet than there may have ever been,” Lowe notes. Add in abundant stingrays, a favorite food for young sharks, and the result is a coastline that looks more like it did a century ago.
 
@@ -43,7 +43,7 @@ Since 1950, California has recorded roughly 130 unprovoked shark bites, with jus
 
 “When you consider how many people use the ocean on a daily basis, the likelihood of being bitten by a shark is so infinitesimally small that it almost seems crazy to worry about,” Lowe says.
 
-[![Dr. Chris Lowe, Director of the CSULB Shark Lab (Pohto: Erik Olsen)](/wp-content/uploads/cms/chris-lowe-csulb.webp "Dr. Chris Lowe, Director of the CSULB Shark Lab (Pohto: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!1ijp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7f774d5a-c1aa-4e4f-8770-103e56ac66a7_2000x1129.jpeg)Dr. Chris Lowe is a professor of marine biology and director of the Shark Lab at Cal State, Long Beach. (Photo: Erik Olsen)
+[![Dr. Chris Lowe, Director of the CSULB Shark Lab (Pohto: Erik Olsen)](/wp-content/uploads/cms/chris-lowe-csulb.webp "Dr. Chris Lowe, Director of the CSULB Shark Lab (Pohto: Erik Olsen)")](/wp-content/uploads/cms/its-going-to-be-a-sharky-summer-heres-why-thats-okay-img-3.jpg)Dr. Chris Lowe is a professor of marine biology and director of the Shark Lab at Cal State, Long Beach. (Photo: Erik Olsen)
 
 That doesn’t mean bites don’t happen. They do. But they are rare, and increasingly better understood, thanks to the Shark Lab. Even as shark numbers rise, the rate of attacks does not rise proportionally. “You put more people in the water with more sharks, you would expect shark bites on people to go up, but we’re not really seeing that,” says Lowe.
 
@@ -53,7 +53,7 @@ In other words, sharks are not hunting us. If anything, they’re ignoring us.
 
 “We have hours of footage of people in the water, sharks swimming right by them, sometimes right underneath them, and completely ignoring them,” Lowe says, pointing to drone footage of a sleek silhouette passing astonishingly close to a surfer. 
 
-[![Shark sign California beach (Photo: Erik Olsen)](/wp-content/uploads/cms/shark-sign.jpg "Shark sign California beach (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!l4gn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17a0d834-9e92-4ac2-8dcf-4c34848329b2_1612x956.jpeg)More sharks are showing up along California’s coast this summer. Not because something’s wrong, but because something’s working. Populations are recovering. The ocean is getting healthier. (Photo: Erik Olsen)
+[![Shark sign California beach (Photo: Erik Olsen)](/wp-content/uploads/cms/shark-sign.jpg "Shark sign California beach (Photo: Erik Olsen)")](/wp-content/uploads/cms/its-going-to-be-a-sharky-summer-heres-why-thats-okay-img-4.jpg)More sharks are showing up along California’s coast this summer. Not because something’s wrong, but because something’s working. Populations are recovering. The ocean is getting healthier. (Photo: Erik Olsen)
 
 That gap between perception and reality is the foundation of the Shark Lab’s work. The team tags sharks with acoustic transmitters, tracks them across hundreds of miles, and feeds real-time data to lifeguards. The result is a system where beaches are no longer closed simply because a shark is nearby. In many cases, sharks are present every day.
 
@@ -61,7 +61,7 @@ Instagram accounts like that of Carlos Gauna, also known as [Malibu Artist](htt
 
 But [as I wrote a few weeks ago](https://californiacurated.substack.com/p/why-southern-california-is-the-stingray), perhaps the fear over great white sharks is not only overblown, but misplaced. If you measure danger not by fear but by injuries, even mild ones, the most consequential animal in Southern California surf isn’t a shark. It’s a stingray. As I wrote, it is possible, if not likely, that Southern California, Seal Beach in particular, is the stingray capital of the world.
 
-[![stingray sign seal beach](/wp-content/uploads/cms/sting-ray-shuffle-sign.webp "Stingray sign at Seal Beach (Photo: Erik Olsen)")](https://substackcdn.com/image/fetch/$s_!YmTd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F14eba51a-6deb-4e2b-a09f-dcd7f06ffe6a_1993x2163.jpeg)Stingray warning sign for beach tourists at Seal Beach. “Do the Shuffle” to help prevent stings. (Photo: Erik Olsen)
+[![stingray sign seal beach](/wp-content/uploads/cms/sting-ray-shuffle-sign.webp "Stingray sign at Seal Beach (Photo: Erik Olsen)")](/wp-content/uploads/cms/its-going-to-be-a-sharky-summer-heres-why-thats-okay-img-5.jpg)Stingray warning sign for beach tourists at Seal Beach. “Do the Shuffle” to help prevent stings. (Photo: Erik Olsen)
 
 “We estimate that there are at least 10,000 people treated for stingray injuries per year in Southern California alone,” Lowe says. That number dwarfs shark incidents. The irony is that sharks may actually be part of the solution.
 
@@ -69,7 +69,7 @@ But [as I wrote a few weeks ago](https://californiacurated.substack.com/p/why-s
 
 In other words, you are probably not shark food, but it is shark food - stingrays - that are mostly hurting us, and sharks may be a means by which we significantly reduce the stingray population: “When there are a lot of white sharks off your beach, believe it or not, they’re keeping you safer, because they’re eating the stingrays that are far more likely to injure people than the sharks are themselves”.
 
-[![stingray CSULB](/wp-content/uploads/cms/stingray-off-the-coast-csulab.webp "Round stingray off California beach. (Photo CSULB Shark Lab)")](https://substackcdn.com/image/fetch/$s_!R3WO!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbd0bb4da-cf9b-4e44-93eb-212a3335394a_2800x2096.jpeg)Round stingray off the California coast. (Photo: Cal State Long Beach Shark Lab)
+[![stingray CSULB](/wp-content/uploads/cms/stingray-off-the-coast-csulab.webp "Round stingray off California beach. (Photo CSULB Shark Lab)")](/wp-content/uploads/cms/its-going-to-be-a-sharky-summer-heres-why-thats-okay-img-6.jpg)Round stingray off the California coast. (Photo: Cal State Long Beach Shark Lab)
 
 In a way, it’s a classic ecological loop. Predators return and systems rebalance. Which brings us back to what’s coming: A sharky summer. Yes, Lowe says we’re likely to see more sharks this year. Warmer waters, rising populations, and lots of beachgoers. But as Lowe says, let’s not panic. Feel free to return to the water. Ignore the _da-dum da-dum_ music playing in your head.
 

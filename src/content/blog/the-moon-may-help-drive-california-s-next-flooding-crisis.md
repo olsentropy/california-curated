@@ -29,7 +29,7 @@ In 2021, researchers from [NASA’s Jet Propulsion Laboratory](https://www.jpl.n
 
 All of this may come as a surprise to many people living near the coast, but scientists warn that parts of California could be especially vulnerable. Places that today flood only during the highest king tides may find themselves dealing with water on streets, trails, parking lots, and marshes far more often. In some communities, flooding could occur every few days during particularly vulnerable months, not because of storms, but simply because the tide came in.
 
-[![](https://substackcdn.com/image/fetch/$s_!CRls!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa33a407a-e5bd-4650-b552-e8b676469693_1984x1098.jpeg)](https://substackcdn.com/image/fetch/$s_!CRls!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa33a407a-e5bd-4650-b552-e8b676469693_1984x1098.jpeg)
+[![](/wp-content/uploads/cms/the-moon-may-help-drive-california-s-next-flooding-crisis-img-1.jpg)](/wp-content/uploads/cms/the-moon-may-help-drive-california-s-next-flooding-crisis-img-1.jpg)
 
 _High-tide flooding in Honolulu. (Photo: Hawaii Sea Grant King Tides Project)_
 
@@ -41,7 +41,7 @@ The sun plays a role here, too. Along with the moon, it helps drive Earth’s ti
 
 [Ben Hamlington](https://science.jpl.nasa.gov/people/bhamling/), who co-wrote the paper and runs the [Sea Level Change Team](https://sealevel.nasa.gov/science-team/39/ben-hamlington) at JPL, said the findings offer an important planning tool for coastal communities. While cities often focus on preparing for rare disasters like tsunamis and storm surge, the more immediate, but quiet challenge may be a steady increase in disruptive high-tide flooding.
 
-[![](https://substackcdn.com/image/fetch/$s_!TqIV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8c6a904-e52d-482c-8f37-c19ab67dff07_1528x1086.jpeg)](https://substackcdn.com/image/fetch/$s_!TqIV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb8c6a904-e52d-482c-8f37-c19ab67dff07_1528x1086.jpeg)
+[![](/wp-content/uploads/cms/the-moon-may-help-drive-california-s-next-flooding-crisis-img-2.jpg)](/wp-content/uploads/cms/the-moon-may-help-drive-california-s-next-flooding-crisis-img-2.jpg)
 
 **_Coastal flooding in the Bay Area could be widespread with 3 feet of sea level rise._**
 
@@ -51,7 +51,7 @@ What exactly is happening?
 
 Hamlington compares the lunar nodal cycle [to a coin](https://coastalreview.org/2021/08/lunar-wobble-gets-attention-but-sea-levels-are-the-problem/) spinning on its edge (scientists also use the term “the Regression of Lunar Nodes”). As the coin slows, it develops a subtle wobble. I didn’t find this explanation very satisfying. I think this is a situation where words don’t quite suffice and a visual explanation helps quite a bit. [Here’s a video](https://youtu.be/lR6Jp42nQDk) where [Professor Kevin Horsburgh](https://wmo.int/profile/kevin-horsburgh) of the National Oceanography Centre uses a soccer ball and a tennis ball to demonstrate how the moon's tilted orbit slowly changes orientation over the 18.6-year cycle.
 
-[![](https://substackcdn.com/image/fetch/$s_!VBKD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe56e0e6-a253-4f42-93c4-718cf215805c_2000x1118.png)](https://www.youtube.com/watch?v=lR6Jp42nQDk)
+[![](/wp-content/uploads/cms/the-moon-may-help-drive-california-s-next-flooding-crisis-img-3.jpg)](https://www.youtube.com/watch?v=lR6Jp42nQDk)
 
 _This video does a decent job explaining, in very simple terms, what is happening during the lunar nodal cycle. (YouTube)_
 
@@ -59,7 +59,7 @@ The moon itself isn’t wobbling, however. Instead, the tilt of the moon’s orb
 
 The lunar nodal cycle has been going on for thousands of years. Historically, it was little more than a scientific curiosity. Today, however, the Pacific Ocean is slightly different than where it was decades ago. So, tides that once stopped just short of roads, wetlands, and sea walls may soon spill over them. And it’s coming relatively soon, likely as early as the mid 2030s.
 
-[![](https://substackcdn.com/image/fetch/$s_!J9ZL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbab9bf4b-c841-48dd-a134-898df632f232_2000x1138.jpeg)](https://substackcdn.com/image/fetch/$s_!J9ZL!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbab9bf4b-c841-48dd-a134-898df632f232_2000x1138.jpeg)
+[![](/wp-content/uploads/cms/the-moon-may-help-drive-california-s-next-flooding-crisis-img-4.jpg)](/wp-content/uploads/cms/the-moon-may-help-drive-california-s-next-flooding-crisis-img-4.jpg)
 
 _California coast near Big Sur (Photo: Erik Olsen)_
 
@@ -67,7 +67,7 @@ For California, the impacts are likely to be somewhat localized. The state’s d
 
 Southern California has its own vulnerable places. Beach communities, coastal lagoons, harbor infrastructure, wetlands, and transportation corridors may all face increasing pressure from higher water levels. Even places that remain dry can experience problems when seawater backs up drainage systems and reduces their ability to handle runoff.
 
-[![](https://substackcdn.com/image/fetch/$s_!akbV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64030eba-72a3-4cfa-a323-2900a5f8ab2f_2000x2667.jpeg)](https://substackcdn.com/image/fetch/$s_!akbV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64030eba-72a3-4cfa-a323-2900a5f8ab2f_2000x2667.jpeg)
+[![](/wp-content/uploads/cms/the-moon-may-help-drive-california-s-next-flooding-crisis-img-5.jpg)](/wp-content/uploads/cms/the-moon-may-help-drive-california-s-next-flooding-crisis-img-5.jpg)
 
 _California coast at Hermosa Beach. (Photo: Erik Olsen)_
 

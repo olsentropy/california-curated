@@ -3,7 +3,7 @@ title: How the Jones Act Strangles California Innovation and Keeps I-5 Packed wi
 description: California’s highways are clogged with trucks moving goods that could travel by sea, but the Jones Act makes coastal shipping too costly to scale, locking freight onto crowded roads and limiting a cleaner alternative.
 pubDate: 2026-04-01
 updatedDate: ''
-heroImage: https://substackcdn.com/image/fetch/$s_!lkpf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc0a9fe8-f00e-4a2c-bd8e-89a50ce9a4f7_5464x3070.jpeg
+heroImage: /wp-content/uploads/cms/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks-hero.jpg
 categories:
   - cities
   - climate-change
@@ -50,7 +50,7 @@ The Jones Act is protectionist. Don’t let anyone tell you differently. It was 
 
 In California, the Jones Act effectively prevents the state from experimenting with something it seems perfectly built for: a "blue highway" running just offshore, moving goods between ports instead of forcing so much of it onto already traffic-clogged roads. And with congestion worsening, infrastructure under strain, and growing pressure to cut carbon emissions, it is worth looking again at how California could begin to solve several huge problems. Because if this century-old policy were rethought, or even partially reformed, California could open the door to a new era of coastal shipping and transportation innovation.
 
-[![](https://substackcdn.com/image/fetch/$s_!7iML!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c149f67-b071-4cc7-b2ab-5afb64894af0_2000x1125.jpeg)](<https://substackcdn.com/image/fetch/$s_!7iML!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9c149f67-b071-4cc7-b2ab-5afb64894af0_2000x1125.jpeg>)Shipping containers at the Port of Los Angeles (Photo: Erik Olsen)
+[![](/wp-content/uploads/cms/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks-img-1.jpg)](</wp-content/uploads/cms/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks-img-1.jpg>)Shipping containers at the Port of Los Angeles (Photo: Erik Olsen)
 
 California is defined by trade. Cargo arrives from across the Pacific, pours through Los Angeles and Long Beach, the largest port system in the country, it spreads into warehouses and rail yards, and then begins its second journey up and down the state. Trucks clog I-5. Trains thread through the [Central Valley](<https://californiacurated.substack.com/p/the-valley-that-feeds-a-nation>). The coastline, though, stretching past the state’s major population centers, remains oddly quiet.
 
@@ -62,7 +62,7 @@ In theory, the ocean should be part of California’s domestic freight system. S
 
 But not in California. Or the rest of the US, for that matter.
 
-[![](https://substackcdn.com/image/fetch/$s_!T0-L!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f4762b-5434-4cf4-a71f-d1177896f535_2000x1125.jpeg)](<https://substackcdn.com/image/fetch/$s_!T0-L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F64f4762b-5434-4cf4-a71f-d1177896f535_2000x1125.jpeg>)Los Angeles traffic is some of the worst in the country. (Photo: Erik Olsen)
+[![](/wp-content/uploads/cms/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks-img-2.jpg)](</wp-content/uploads/cms/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks-img-2.jpg>)Los Angeles traffic is some of the worst in the country. (Photo: Erik Olsen)
 
 Across Europe, short sea shipping is a core part of logistics networks. Containers arrive at major ports like Rotterdam and are redistributed by smaller feeder vessels to secondary ports rather than being hauled long distances by truck. Japan, South Korea, and China all operate extensive coastal shipping systems linking major industrial regions. In those places, the ocean functions as an extension of the transportation network, not just an international gateway.
 
@@ -72,7 +72,7 @@ The problem is the Jones Act. Because foreign-built vessels cannot carry cargo b
 
 So all freight stays on land.
 
-[![](https://substackcdn.com/image/fetch/$s_!pKGg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fcbb406-13fb-4bcf-b1eb-8a608f961b4c_3194x1438.png)](<https://substackcdn.com/image/fetch/$s_!pKGg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fcbb406-13fb-4bcf-b1eb-8a608f961b4c_3194x1438.png>)
+[![](/wp-content/uploads/cms/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks-img-3.jpg)](</wp-content/uploads/cms/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks-img-3.jpg>)
 
 The consequences show up everywhere. The I-5 corridor carries immense truck traffic moving containers, agricultural goods, vehicles, and construction materials between Southern California and the Bay Area. Highways wear down. Congestion builds. Supply chains slow.
 
@@ -94,7 +94,7 @@ Its defenders argue that it protects national security and maritime jobs. Those 
 
 Critics have pointed this out for years. John McCain called the law “[protectionism at its worst](<https://www.vox.com/policy-and-politics/2017/9/27/16373484/jones-act-puerto-rico>),” arguing that it distorted markets without achieving its goals. Analysts across the political spectrum have made similar arguments, pointing to higher shipping costs and limited competition in domestic maritime markets.
 
-[![](https://substackcdn.com/image/fetch/$s_!NDnD!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b96302d-ed0d-4e96-ac2d-db16883d5255_1776x1044.webp)](<https://substackcdn.com/image/fetch/$s_!NDnD!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6b96302d-ed0d-4e96-ac2d-db16883d5255_1776x1044.webp>)Workers observe a propeller installation for USS  _Nimitz_ at Puget Sound Naval Shipyard and Intermediate Maintenance Facility in Bremerton, Washington, October 16, 2018. Photo by Brian Kilpatrick/U.S. Navy
+[![](/wp-content/uploads/cms/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks-img-4.jpg)](</wp-content/uploads/cms/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks-img-4.jpg>)Workers observe a propeller installation for USS  _Nimitz_ at Puget Sound Naval Shipyard and Intermediate Maintenance Facility in Bremerton, Washington, October 16, 2018. Photo by Brian Kilpatrick/U.S. Navy
 
 In places that depend heavily on ocean shipping, the impacts are even more direct. Bringing goods to and from Hawaii, for example, is dominated by a small number of carriers, including [Matson](<https://www.matson.com/>). That’s why even basic goods in Hawaii like milk, eggs, and fuel are often 20–50% higher than on the mainland, reflecting both shipping costs and the lack of competitive alternatives.
 
@@ -104,7 +104,7 @@ Entrepreneurs have tried to make this work before. When I first reported this st
 
 The Jones Act does not ban coastal shipping. It makes it difficult enough that it rarely happens at scale. Even today, proposals like a Santa Monica–Malibu [“Blue Highway” ferry](<https://www.latimes.com/california/newsletter/2025-09-03/essential-california-santa-monica-malibu-ferry>) are still in early stages, facing the same cost and feasibility challenges. The ship would be Jones Act compliant. It’s hard not to wonder how much bigger, faster, and more ambitious these projects could be if operators were allowed to buy vessels on the global market.
 
-[![](https://substackcdn.com/image/fetch/$s_!sLXm!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5a5bedc-8afd-4d94-a3d0-f2ca3d61034f_1200x910.webp)](<https://substackcdn.com/image/fetch/$s_!sLXm!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc5a5bedc-8afd-4d94-a3d0-f2ca3d61034f_1200x910.webp>)A ferry similar to this one might serve Marina del Rey, Santa Monica and Malibu. A partnership called [Pier to Pier](<https://piertopier.org/>) says passengers will experience a faster, more peaceful trip on the ocean, rather than contending with PCH and the 405 Freeway. The company hopes to launch service this year. (Pier to Pier)
+[![](/wp-content/uploads/cms/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks-img-5.jpg)](</wp-content/uploads/cms/how-the-jones-act-strangles-california-innovation-and-keeps-i-5-packed-with-trucks-img-5.jpg>)A ferry similar to this one might serve Marina del Rey, Santa Monica and Malibu. A partnership called [Pier to Pier](<https://piertopier.org/>) says passengers will experience a faster, more peaceful trip on the ocean, rather than contending with PCH and the 405 Freeway. The company hopes to launch service this year. (Pier to Pier)
 
 So what can be done? One place to start is the most restrictive piece of the law: the U.S.-build requirement. Allowing foreign-built, U.S.-flagged vessels to operate in domestic trade and human transport would immediately expand the pool of ships and lower the cost of entry, making it possible to test routes that today never get off the ground. Or sea.
 

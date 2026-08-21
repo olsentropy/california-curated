@@ -23,7 +23,7 @@ I got out into a wall of heat, and what looked like thousands of shards of glass
 
 It was everywhere. Underfoot, in every direction. I crouched down to look closer, and the glitter resolved into something else: black, glassy, sharp-edged stone. Obsidian, and not a few pieces, but what looked like millions, carpeted the entire summit.
 
-[![](/wp-content/uploads/cms/lookout%20mountain.jpg)](https://substackcdn.com/image/fetch/$s_!fyBH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa82c5d22-46ee-402e-8d43-869ed269bf94_2000x2667.jpeg)
+[![](/wp-content/uploads/cms/lookout%20mountain.jpg)](/wp-content/uploads/cms/mountain-of-knives-img-1.jpg)
 
 _Lookout Mountain in the Eastern Sierra. (Photo: Erik Olsen)_
 
@@ -35,7 +35,7 @@ Much of the summit of Lookout Mountain is capped in obsidian, and according to [
 
 The obsidian at Lookout Mountain is exceptionally pure. According to the [U.S. Geological Survey](https://www.usgs.gov/volcanoes/long-valley-caldera/science/long-valley-caldera-field-guide-lookout-mountain) (USGS), unlike some obsidian deposits, it lacks visible crystals and vesicles (gas bubbles), which is what allows it to fracture predictably into razor-sharp edges. Thousands of years ago, Indigenous people came here to quarry this volcanic glass and turn it into tools that were traded across the West.
 
-[![](/wp-content/uploads/cms/lookout%20mountain%20obsidian.jpg)](https://substackcdn.com/image/fetch/$s_!lsr6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6479481d-6c16-44eb-a554-0e914fe3772f_2000x1333.jpeg)
+[![](/wp-content/uploads/cms/lookout%20mountain%20obsidian.jpg)](/wp-content/uploads/cms/mountain-of-knives-img-2.jpg)
 
 _Obsidian on the summit of Lookout Mountain near Mammoth Lakes, CA. (Photo: Erik Olsen)_
 
@@ -51,7 +51,7 @@ Here’s how it works:
 
 Obsidian is volcanic glass. It cools too fast to form crystals, and in that speed, it does something enormously useful to scientists much later on: it locks in the precise trace-element chemistry of the exact magma that produced it. It’s complicated stuff, and I don’t profess to understand it, but ratios of zirconium, strontium, rubidium, barium, and rare earth elements vary, often quite narrowly, from eruption to eruption. No two volcanic sources produce identical chemistry, and within a single field like this one, even neighboring outcrops can be told apart.
 
-[![](/wp-content/uploads/cms/lookout%20mountain%202.jpg)](https://substackcdn.com/image/fetch/$s_!hIvZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F77e70377-ecaf-40ce-b4a0-bfd27dfd43e2_2000x2667.jpeg)
+[![](/wp-content/uploads/cms/lookout%20mountain%202.jpg)](/wp-content/uploads/cms/mountain-of-knives-img-3.jpg)
 
 _The view from the summit of Lookout Mountain. The ground is covered in millions of pieces of obsidian. The Sierra Nevada is the backdrop. (Photo: Erik Olsen)_
 
@@ -65,7 +65,7 @@ That second technique Robinson mentions is what lets archaeologists put a date o
 
 Many of the millions of little pieces around me on Lookout Mountain were almost certainly [debitage](https://en.wikipedia.org/wiki/Debitage), not only a cool-sounding noun, but also the technical word for [knapping](https://en.wikipedia.org/wiki/Knapping) waste, because there were so many small flakes everywhere. At least I’d like to think so. And there is some documentation to back that up. If true, then I wasn’t just standing on a random summit, or a natural aggregation of obsidian, but on a workshop.
 
-[![](/wp-content/uploads/cms/obsidian.jpg)](https://substackcdn.com/image/fetch/$s_!aeZp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb2a9b4c1-2c99-4f3c-a77f-9bb226d26199_2000x3555.jpeg)
+[![](/wp-content/uploads/cms/obsidian.jpg)](/wp-content/uploads/cms/mountain-of-knives-img-4.jpg)
 
 _A piece of obsidian on the summit of Lookout Mountain in the Eastern Sierra. (Photo: Erik Olsen)_
 
