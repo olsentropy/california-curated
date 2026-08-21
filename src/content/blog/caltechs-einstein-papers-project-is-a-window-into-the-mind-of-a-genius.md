@@ -36,8 +36,6 @@ _(_[_The Caltech Archives_](<https://digital.archives.caltech.edu/islandora/obje
 
 [The Einstein Papers Project (EPP)](<https://www.einstein.caltech.edu/>) at Caltech is one of the most ambitious and influential scientific archival efforts of the modern era. It’s not just about preserving Albert Einstein’s work—it’s about opening a window into the mind of one of the most brilliant thinkers in history. Since the late 1970s, a dedicated team of scholars has been working to collect, translate, and annotate every significant document Einstein left behind. While the project is headquartered at the [California Institute of Technology](<https://www.caltech.edu/>), it collaborates closely with Princeton University Press and the Hebrew University of Jerusalem, which houses the original manuscripts.
 
-
-
 The idea began with Harvard physicist and historian Gerald Holton, who saw early on that Einstein’s vast output—scientific papers, personal letters, philosophical musings—deserved a meticulously curated collection. That vision became the Einstein Papers Project, which has since grown into a decades-long effort to publish [_The Collected Papers of Albert Einstein_](<https://einsteinpapers.press.princeton.edu/>) , now spanning over 15 volumes (and counting). The project’s goal is as bold as Einstein himself: to assemble a comprehensive record of his life and work, from his earliest student notebooks to the letters he wrote in the final years of his life.
 
 ![](https://californiacurated.com/wp-content/uploads/2025/04/einstein-chaplin.jpeg?w=1024)_Albert Einstein and Charlie Chaplin during the premiere of the film 'City Lights'. (Wikipedia)_
