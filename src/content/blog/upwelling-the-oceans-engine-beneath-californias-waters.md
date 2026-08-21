@@ -1,16 +1,34 @@
 ---
-title: "Upwelling, the Ocean’s Engine Beneath California’s Waters"
-description: "Few marine processes are as impactful on the abundance of sea life off the coast of California as upwelling. It may not be a term you’ve heard before, but the natural oceanic process of upwelling is one of the most important engines driving climate, biological diversity, and the ocean’s food web."
+title: Upwelling, the Ocean’s Engine Beneath California’s Waters
+description: Few marine processes are as impactful on the abundance of sea life off the coast of California as upwelling. It may not be a term you’ve heard before, but the natural oceanic process of upwelling is one of the most important engines driving climate, biological diversity, and the ocean’s food web.
 pubDate: 2025-12-15
-heroImage: "https://substackcdn.com/image/fetch/$s_!dNl8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6770556b-2839-4ef7-a41c-6c67b70dbd8c_1024x573.png"
+updatedDate: ''
+heroImage: https://substackcdn.com/image/fetch/$s_!dNl8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6770556b-2839-4ef7-a41c-6c67b70dbd8c_1024x573.png
+categories:
+  - animals
+  - biology
+  - climate-change
+  - geology-and-earthquakes
+  - marine-science
+  - places
+tags:
+  - animals
+  - california
+  - climate-change
+  - coriolis-effect
+  - environment
+  - global-warming
+  - nature
+  - pacific-ocean
+  - science
+  - sustainability
+  - upwelling
+author: Erik Olsen
+draft: false
 wpId: 6792
-wpSlug: "upwelling-the-oceans-engine-beneath-californias-waters"
-categories: ["animals", "biology", "climate-change", "geology-and-earthquakes", "marine-science", "places"]
-tags: ["animals", "california", "climate-change", "coriolis-effect", "environment", "global-warming", "nature", "pacific-ocean", "science", "sustainability", "upwelling"]
-author: "Erik Olsen"
-seoTitle: "California Upwelling: How Cold Ocean Water Powers Marine Life"
+wpSlug: upwelling-the-oceans-engine-beneath-californias-waters
+seoTitle: 'California Upwelling: How Cold Ocean Water Powers Marine Life'
 ---
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
@@ -18,7 +36,7 @@ I recently revisited a book I enjoyed: [The Blue Machine](<https://amzn.to/4pzsS
 
 One of the core ideas she returns to is ocean upwelling, a process that is especially important for those of us who live in California. Upwelling is one of those hidden forces that quietly underlies everything around us, and once you read about it, you realize that so much of what we know and love here simply would not exist without it. 
 
-* * *
+* \* \*
 
 Few marine processes are as impactful on the abundance of sea life off the coast of California as upwelling. It may not be a term you've heard before, but the natural oceanic process of upwelling is one of the most important engines driving climate, biological diversity, and the ocean's food web.
 
