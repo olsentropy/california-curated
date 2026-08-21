@@ -20,7 +20,7 @@ tags:
   - pasadena
   - science
 author: Erik Olsen
-draft: true
+draft: false
 wpId: 4568
 wpSlug: caltechs-einstein-papers-project-is-a-window-into-the-mind-of-a-genius
 ---
