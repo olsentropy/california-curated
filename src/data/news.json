@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-08-21T08:22:55.914Z",
+	"lastUpdated": "2026-08-21T12:18:47.140Z",
 	"items": [
+		{
+			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
+			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
+			"source": "Eos",
+			"publishedAt": "2026-08-21T12:00:00.000Z"
+		},
+		{
+			"headline": "Shadow 'highly likely' to nest up with new eagle pal, biologist says",
+			"url": "https://www.latimes.com/environment/story/2026-08-21/shadow-highly-likely-to-nest-up-with-new-eagle-pal-biologist-says",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-21T10:00:00.000Z"
+		},
 		{
 			"headline": "Dead of a mosquito bite: L.A. records West Nile fatality as California cases hit 5-year high",
 			"url": "https://www.latimes.com/california/story/2026-08-20/la-resident-dies-west-nile-virus-california-cases-hit-5-year-high-climate-change",
@@ -32,7 +44,7 @@
 			"publishedAt": "2026-08-20T15:06:36.000Z"
 		},
 		{
-			"headline": "Key takeaways from investigation into Edison's role in the Eaton fire",
+			"headline": "Key takeaways from investigation into Edison's role in the deadly Eaton fire",
 			"url": "https://www.latimes.com/business/story/2026-08-20/key-takeaways-from-investigation-into-edisons-role-in-eaton-fire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-20T10:00:00.000Z"
@@ -42,6 +54,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-19/california-delta-plan",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-19T23:06:52.000Z"
+		},
+		{
+			"headline": "California has an affordability crisis. The fix may be politically uncomfortable.",
+			"url": "https://news.berkeley.edu/2026/08/19/california-has-an-affordability-crisis-the-fix-may-be-politically-uncomfortable/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-19T21:10:53.000Z"
 		},
 		{
 			"headline": "UC Berkeley computer scientist on the promise and perils of agentic AI",
@@ -62,10 +80,10 @@
 			"publishedAt": "2026-08-19T17:11:04.000Z"
 		},
 		{
-			"headline": "Universal Pattern Revealed in Quantum Matter",
-			"url": "https://www.caltech.edu/about/news/universal-pattern-revealed-in-quantum-matter",
-			"source": "Caltech",
-			"publishedAt": "2026-08-19T15:00:00.000Z"
+			"headline": "San Diego County kicks immigration agents out of shooting range. Sheriff says not so fast",
+			"url": "https://www.latimes.com/california/story/2026-08-18/san-diego-supervisors-kick-ice-out-of-county-owned-shooting-range",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-19T02:30:32.000Z"
 		},
 		{
 			"headline": "Expanding what's known about our fast-expanding universe",
@@ -74,16 +92,22 @@
 			"publishedAt": "2026-08-18T18:32:59.000Z"
 		},
 		{
-			"headline": "Jellyfish Enable Surprising New Findings about Cancer",
-			"url": "https://www.caltech.edu/about/news/jellyfish-enable-surprising-new-findings-about-cancer",
-			"source": "Caltech",
-			"publishedAt": "2026-08-18T18:09:21.943Z"
-		},
-		{
 			"headline": "MBARI introduces students to careers in ocean science and engineering",
 			"url": "https://www.mbari.org/news/mbari-introduces-students-to-careers-in-ocean-science-and-engineering/",
 			"source": "MBARI",
 			"publishedAt": "2026-08-18T16:30:18.000Z"
+		},
+		{
+			"headline": "This clumsy green beetle is buzzing all over L.A. It might just crash into your face",
+			"url": "https://www.latimes.com/environment/story/2026-08-18/big-clumsy-beetles-take-over-los-angeles",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-18T10:00:00.000Z"
+		},
+		{
+			"headline": "As Colorado River reservoirs shrink, Arizona warns of a legal fight",
+			"url": "https://www.latimes.com/environment/story/2026-08-18/colorado-river-legal-fight",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-18T10:00:00.000Z"
 		},
 		{
 			"headline": "Stripped of sand, decades-old infrastructure 'relics' pop up at the Wedge in Newport Beach",
@@ -126,30 +150,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-16/california-planned-nuclear-exit-now-its-reconsidering",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-16T10:00:00.000Z"
-		},
-		{
-			"headline": "Inside the bitter war over cows and wilderness at Point Reyes",
-			"url": "https://www.latimes.com/environment/story/2026-08-16/inside-bitter-war-over-cows-wilderness-at-point-reyes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-16T10:00:00.000Z"
-		},
-		{
-			"headline": "California river otter suffers brain injury in hit-and-run strike",
-			"url": "https://www.latimes.com/california/story/2026-08-15/california-river-otter-suffers-brain-injury-in-hit-and-run-strike",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-15T23:01:53.000Z"
-		},
-		{
-			"headline": "Hammer time: Rare hammerhead shark gives Malibu pier fishermen a shock",
-			"url": "https://www.latimes.com/california/story/2026-08-15/hammerhead-shark-malibu-pier-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-15T20:24:01.000Z"
-		},
-		{
-			"headline": "'Unacceptable': La Jolla man who admitted kicking a sea lion faces a year in jail and $100,000 fine",
-			"url": "https://www.latimes.com/california/story/2026-08-14/unacceptable-la-jolla-man-who-admitted-kicking-sea-lion-faces-100-000-fine",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-14T23:15:24.000Z"
 		}
 	]
 }
