@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-22T16:08:07.390Z",
+	"lastUpdated": "2026-08-22T20:08:14.057Z",
 	"items": [
 		{
 			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
@@ -98,12 +98,6 @@
 			"publishedAt": "2026-08-19T02:30:32.000Z"
 		},
 		{
-			"headline": "Expanding what's known about our fast-expanding universe",
-			"url": "https://news.berkeley.edu/2026/08/18/expanding-whats-known-about-our-fast-expanding-universe/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-18T18:32:59.000Z"
-		},
-		{
 			"headline": "Jellyfish Enable Surprising New Findings about Cancer",
 			"url": "https://www.caltech.edu/about/news/jellyfish-enable-surprising-new-findings-about-cancer",
 			"source": "Caltech",
@@ -114,12 +108,6 @@
 			"url": "https://www.mbari.org/news/mbari-introduces-students-to-careers-in-ocean-science-and-engineering/",
 			"source": "MBARI",
 			"publishedAt": "2026-08-18T16:30:18.000Z"
-		},
-		{
-			"headline": "As Colorado River reservoirs shrink, Arizona warns of a legal fight",
-			"url": "https://www.latimes.com/environment/story/2026-08-18/colorado-river-legal-fight",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-18T10:00:00.000Z"
 		},
 		{
 			"headline": "This clumsy green beetle is buzzing all over L.A. It might just crash into your face",
@@ -134,10 +122,16 @@
 			"publishedAt": "2026-08-18T04:23:34.000Z"
 		},
 		{
-			"headline": "After 34 years of debilitating sickle cell crises, CRISPR gave her a new chance at life",
-			"url": "https://news.berkeley.edu/2026/08/17/after-34-years-of-debilitating-sickle-cell-crises-crispr-gave-her-a-new-chance-at-life/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-17T20:36:55.000Z"
+			"headline": "Hydrogen failed as car fuel. Now California's big dollar bet on it for green energy is fading, too",
+			"url": "https://www.latimes.com/environment/story/2026-08-17/hydrogen-failed-as-car-fuel-now-californias-bet-on-it-for-green-energy-is-fading-too",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-17T10:05:00.000Z"
+		},
+		{
+			"headline": "Extreme heat is returning to Southern California. Here's how bad it will get",
+			"url": "https://www.latimes.com/california/story/2026-08-17/another-heat-wave-is-coming-to-southern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-17T17:37:28.000Z"
 		},
 		{
 			"headline": "California Prop. 40, the 'Billionaire Tax,' holds lead in new UC Berkeley IGS Poll",
@@ -146,10 +140,16 @@
 			"publishedAt": "2026-08-17T18:11:40.000Z"
 		},
 		{
-			"headline": "Extreme heat is returning to Southern California. Here's how bad it will get",
-			"url": "https://www.latimes.com/california/story/2026-08-17/another-heat-wave-is-coming-to-southern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-17T17:37:28.000Z"
+			"headline": "After 34 years of debilitating sickle cell crises, CRISPR gave her a new chance at life",
+			"url": "https://news.berkeley.edu/2026/08/17/after-34-years-of-debilitating-sickle-cell-crises-crispr-gave-her-a-new-chance-at-life/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-17T20:36:55.000Z"
+		},
+		{
+			"headline": "Expanding what's known about our fast-expanding universe",
+			"url": "https://news.berkeley.edu/2026/08/18/expanding-whats-known-about-our-fast-expanding-universe/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-18T18:32:59.000Z"
 		}
 	]
 }
