@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-21T20:10:38.338Z",
+	"lastUpdated": "2026-08-22T00:25:40.435Z",
 	"items": [
 		{
 			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
@@ -20,7 +20,7 @@
 			"publishedAt": "2026-08-21T16:59:17.000Z"
 		},
 		{
-			"headline": "As Colorado River reservoirs plummet, Trump administration orders water cuts",
+			"headline": "As Colorado River reservoirs plummet, the Trump administration orders water cuts",
 			"url": "https://www.latimes.com/environment/story/2026-08-21/colorado-river-trump-administration-water-cuts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-21T16:01:11.000Z"
@@ -56,10 +56,22 @@
 			"publishedAt": "2026-08-20T16:18:36.796Z"
 		},
 		{
+			"headline": "Key takeaways from investigation into Edison's role in the deadly Eaton fire",
+			"url": "https://www.latimes.com/business/story/2026-08-20/key-takeaways-from-investigation-into-edisons-role-in-eaton-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-20T10:00:00.000Z"
+		},
+		{
 			"headline": "Amid controversy, California officials release long-awaited Delta water plan",
 			"url": "https://www.latimes.com/environment/story/2026-08-19/california-delta-plan",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-19T23:06:52.000Z"
+		},
+		{
+			"headline": "As Lake Mead shrinks, its body count rises",
+			"url": "https://www.latimes.com/california/story/2026-08-19/as-lake-mead-shrinks-its-body-count-rises",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-19T21:47:08.000Z"
 		},
 		{
 			"headline": "California has an affordability crisis. The fix may be politically uncomfortable.",
@@ -86,10 +98,10 @@
 			"publishedAt": "2026-08-19T15:00:00.000Z"
 		},
 		{
-			"headline": "The Conversations We Don't Have About Safety Outdoors",
-			"url": "https://baynature.org/2026/08/19/latest-stories/the-conversations-we-dont-have-about-safety-outdoors/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-19T17:11:04.000Z"
+			"headline": "San Diego County kicks immigration agents out of shooting range. Sheriff says not so fast",
+			"url": "https://www.latimes.com/california/story/2026-08-18/san-diego-supervisors-kick-ice-out-of-county-owned-shooting-range",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-19T02:30:32.000Z"
 		},
 		{
 			"headline": "Trump administration advances plan to rescind 'Roadless Rule' protecting national forests",
@@ -122,12 +134,6 @@
 			"publishedAt": "2026-08-18T10:00:00.000Z"
 		},
 		{
-			"headline": "As Colorado River reservoirs shrink, Arizona warns of a legal fight",
-			"url": "https://www.latimes.com/environment/story/2026-08-18/colorado-river-legal-fight",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-18T10:00:00.000Z"
-		},
-		{
 			"headline": "Stripped of sand, decades-old infrastructure 'relics' pop up at the Wedge in Newport Beach",
 			"url": "https://www.latimes.com/california/story/2026-08-17/erosion-reveals-decades-old-infrastructure-newport-beach-wedge",
 			"source": "Los Angeles Times",
@@ -144,12 +150,6 @@
 			"url": "https://news.berkeley.edu/2026/08/17/california-prop-40-the-billionaire-tax-holds-lead-in-new-uc-berkeley-igs-poll/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-17T18:11:40.000Z"
-		},
-		{
-			"headline": "Extreme heat is returning to Southern California. Here's how bad it will get",
-			"url": "https://www.latimes.com/california/story/2026-08-17/another-heat-wave-is-coming-to-southern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-17T17:37:28.000Z"
 		}
 	]
 }
