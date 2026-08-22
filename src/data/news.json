@@ -1,11 +1,11 @@
 {
-	"lastUpdated": "2026-08-22T12:12:14.708Z",
+	"lastUpdated": "2026-08-22T16:08:07.390Z",
 	"items": [
 		{
-			"headline": "NASA's nuclear Dragonfly copter to search for signs of life on Titan: 'A lot's riding on it'",
-			"url": "https://www.latimes.com/science/story/2026-08-22/nasa-dragonfly-drone-spacecraft-takes-shape",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-22T10:00:00.000Z"
+			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
+			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
+			"source": "Eos",
+			"publishedAt": "2026-08-21T12:00:00.000Z"
 		},
 		{
 			"headline": "A promising new weight loss and diabetes treatment helps burn fat while keeping muscle",
@@ -20,16 +20,16 @@
 			"publishedAt": "2026-08-21T16:59:17.000Z"
 		},
 		{
+			"headline": "As California embraces universal transitional kindergarten, the state's other child-care workers are struggling",
+			"url": "https://news.berkeley.edu/2026/08/21/as-california-embraces-universal-transitional-kindergarten-the-states-other-child-care-workers-are-struggling/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-21T16:36:00.000Z"
+		},
+		{
 			"headline": "As Colorado River reservoirs plummet, the Trump administration orders water cuts",
 			"url": "https://www.latimes.com/environment/story/2026-08-21/colorado-river-trump-administration-water-cuts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-21T16:01:11.000Z"
-		},
-		{
-			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
-			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
-			"source": "Eos",
-			"publishedAt": "2026-08-21T12:00:00.000Z"
 		},
 		{
 			"headline": "Shadow 'highly likely' to nest up with new eagle pal, biologist says",
@@ -60,6 +60,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-19/california-delta-plan",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-19T23:06:52.000Z"
+		},
+		{
+			"headline": "California has an affordability crisis. The fix may be politically uncomfortable.",
+			"url": "https://news.berkeley.edu/2026/08/19/california-has-an-affordability-crisis-the-fix-may-be-politically-uncomfortable/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-19T21:10:53.000Z"
 		},
 		{
 			"headline": "State approves 'Zone Zero' fire-safe landscaping rules, reshaping yards for millions of Californians",
@@ -128,18 +134,6 @@
 			"publishedAt": "2026-08-18T04:23:34.000Z"
 		},
 		{
-			"headline": "Hydrogen failed as car fuel. Now California's big dollar bet on it for green energy is fading, too",
-			"url": "https://www.latimes.com/environment/story/2026-08-17/hydrogen-failed-as-car-fuel-now-californias-bet-on-it-for-green-energy-is-fading-too",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-17T10:05:00.000Z"
-		},
-		{
-			"headline": "Extreme heat is returning to Southern California. Here's how bad it will get",
-			"url": "https://www.latimes.com/california/story/2026-08-17/another-heat-wave-is-coming-to-southern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-17T17:37:28.000Z"
-		},
-		{
 			"headline": "After 34 years of debilitating sickle cell crises, CRISPR gave her a new chance at life",
 			"url": "https://news.berkeley.edu/2026/08/17/after-34-years-of-debilitating-sickle-cell-crises-crispr-gave-her-a-new-chance-at-life/",
 			"source": "UC Berkeley News",
@@ -150,6 +144,12 @@
 			"url": "https://news.berkeley.edu/2026/08/17/california-prop-40-the-billionaire-tax-holds-lead-in-new-uc-berkeley-igs-poll/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-17T18:11:40.000Z"
+		},
+		{
+			"headline": "Extreme heat is returning to Southern California. Here's how bad it will get",
+			"url": "https://www.latimes.com/california/story/2026-08-17/another-heat-wave-is-coming-to-southern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-17T17:37:28.000Z"
 		}
 	]
 }
