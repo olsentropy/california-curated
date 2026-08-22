@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-22T00:25:40.435Z",
+	"lastUpdated": "2026-08-22T04:19:26.525Z",
 	"items": [
 		{
 			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
@@ -62,28 +62,22 @@
 			"publishedAt": "2026-08-20T10:00:00.000Z"
 		},
 		{
+			"headline": "State approves 'Zone Zero' fire-safe landscaping rules, reshaping yards for millions of Californians",
+			"url": "https://www.latimes.com/environment/story/2026-08-19/state-approves-zone-zero-fire-safe-landscaping-rules",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-19T20:13:51.000Z"
+		},
+		{
 			"headline": "Amid controversy, California officials release long-awaited Delta water plan",
 			"url": "https://www.latimes.com/environment/story/2026-08-19/california-delta-plan",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-19T23:06:52.000Z"
 		},
 		{
-			"headline": "As Lake Mead shrinks, its body count rises",
-			"url": "https://www.latimes.com/california/story/2026-08-19/as-lake-mead-shrinks-its-body-count-rises",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-19T21:47:08.000Z"
-		},
-		{
 			"headline": "California has an affordability crisis. The fix may be politically uncomfortable.",
 			"url": "https://news.berkeley.edu/2026/08/19/california-has-an-affordability-crisis-the-fix-may-be-politically-uncomfortable/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-19T21:10:53.000Z"
-		},
-		{
-			"headline": "State approves 'Zone Zero' fire-safe landscaping rules, reshaping yards for millions of Californians",
-			"url": "https://www.latimes.com/environment/story/2026-08-19/state-approves-zone-zero-fire-safe-landscaping-rules",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-19T20:13:51.000Z"
 		},
 		{
 			"headline": "UC Berkeley computer scientist on the promise and perils of agentic AI",
@@ -98,16 +92,22 @@
 			"publishedAt": "2026-08-19T15:00:00.000Z"
 		},
 		{
+			"headline": "The Conversations We Don't Have About Safety Outdoors",
+			"url": "https://baynature.org/2026/08/19/latest-stories/the-conversations-we-dont-have-about-safety-outdoors/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-19T17:11:04.000Z"
+		},
+		{
 			"headline": "San Diego County kicks immigration agents out of shooting range. Sheriff says not so fast",
 			"url": "https://www.latimes.com/california/story/2026-08-18/san-diego-supervisors-kick-ice-out-of-county-owned-shooting-range",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-19T02:30:32.000Z"
 		},
 		{
-			"headline": "Trump administration advances plan to rescind 'Roadless Rule' protecting national forests",
-			"url": "https://www.latimes.com/environment/story/2026-08-18/trump-administration-advances-plan-to-rescind-roadless-rule-protecting-national-forests",
+			"headline": "Hydrogen failed as car fuel. Now California's big dollar bet on it for green energy is fading, too",
+			"url": "https://www.latimes.com/environment/story/2026-08-17/hydrogen-failed-as-car-fuel-now-californias-bet-on-it-for-green-energy-is-fading-too",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-18T21:05:57.000Z"
+			"publishedAt": "2026-08-17T10:05:00.000Z"
 		},
 		{
 			"headline": "Expanding what's known about our fast-expanding universe",
@@ -120,12 +120,6 @@
 			"url": "https://www.caltech.edu/about/news/jellyfish-enable-surprising-new-findings-about-cancer",
 			"source": "Caltech",
 			"publishedAt": "2026-08-18T18:09:21.943Z"
-		},
-		{
-			"headline": "MBARI introduces students to careers in ocean science and engineering",
-			"url": "https://www.mbari.org/news/mbari-introduces-students-to-careers-in-ocean-science-and-engineering/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-18T16:30:18.000Z"
 		},
 		{
 			"headline": "This clumsy green beetle is buzzing all over L.A. It might just crash into your face",
@@ -150,6 +144,12 @@
 			"url": "https://news.berkeley.edu/2026/08/17/california-prop-40-the-billionaire-tax-holds-lead-in-new-uc-berkeley-igs-poll/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-17T18:11:40.000Z"
+		},
+		{
+			"headline": "Are mosquitoes, ticks and fleas turning California into a disease hotspot?",
+			"url": "https://www.latimes.com/science/story/2026-08-16/insects-ticks-coming-for-us",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-16T10:00:00.000Z"
 		}
 	]
 }
