@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-23T12:12:42.931Z",
+	"lastUpdated": "2026-08-23T16:09:47.778Z",
 	"items": [
 		{
 			"headline": "Highway 1 in Big Sur fully reopens as Timber fire continues to burn",
@@ -18,6 +18,12 @@
 			"url": "https://news.berkeley.edu/2026/08/21/a-promising-new-weight-loss-and-diabetes-treatment-helps-burn-fat-while-keeping-muscle/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-21T18:11:44.000Z"
+		},
+		{
+			"headline": "As Colorado River reservoirs plummet, the Trump administration orders water cuts",
+			"url": "https://www.latimes.com/environment/story/2026-08-21/colorado-river-trump-administration-water-cuts",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-21T16:01:11.000Z"
 		},
 		{
 			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
@@ -50,16 +56,22 @@
 			"publishedAt": "2026-08-20T22:08:18.000Z"
 		},
 		{
-			"headline": "As Colorado River reservoirs plummet, the Trump administration orders water cuts",
-			"url": "https://www.latimes.com/environment/story/2026-08-21/colorado-river-trump-administration-water-cuts",
+			"headline": "Key takeaways from investigation into Edison's role in the deadly Eaton fire",
+			"url": "https://www.latimes.com/business/story/2026-08-20/key-takeaways-from-investigation-into-edisons-role-in-eaton-fire",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-21T16:01:11.000Z"
+			"publishedAt": "2026-08-20T10:00:00.000Z"
 		},
 		{
 			"headline": "Amid controversy, California officials release long-awaited Delta water plan",
 			"url": "https://www.latimes.com/environment/story/2026-08-19/california-delta-plan",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-19T23:06:52.000Z"
+		},
+		{
+			"headline": "California has an affordability crisis. The fix may be politically uncomfortable.",
+			"url": "https://news.berkeley.edu/2026/08/19/california-has-an-affordability-crisis-the-fix-may-be-politically-uncomfortable/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-19T21:10:53.000Z"
 		},
 		{
 			"headline": "State approves 'Zone Zero' fire-safe landscaping rules, reshaping yards for millions of Californians",
@@ -74,12 +86,6 @@
 			"publishedAt": "2026-08-19T19:36:49.000Z"
 		},
 		{
-			"headline": "The Conversations We Don't Have About Safety Outdoors",
-			"url": "https://baynature.org/2026/08/19/latest-stories/the-conversations-we-dont-have-about-safety-outdoors/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-19T17:11:04.000Z"
-		},
-		{
 			"headline": "Universal Pattern Revealed in Quantum Matter",
 			"url": "https://www.caltech.edu/about/news/universal-pattern-revealed-in-quantum-matter",
 			"source": "Caltech",
@@ -90,24 +96,6 @@
 			"url": "https://www.latimes.com/california/story/2026-08-18/san-diego-supervisors-kick-ice-out-of-county-owned-shooting-range",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-19T02:30:32.000Z"
-		},
-		{
-			"headline": "Jellyfish Enable Surprising New Findings about Cancer",
-			"url": "https://www.caltech.edu/about/news/jellyfish-enable-surprising-new-findings-about-cancer",
-			"source": "Caltech",
-			"publishedAt": "2026-08-18T18:09:21.943Z"
-		},
-		{
-			"headline": "MBARI introduces students to careers in ocean science and engineering",
-			"url": "https://www.mbari.org/news/mbari-introduces-students-to-careers-in-ocean-science-and-engineering/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-18T16:30:18.000Z"
-		},
-		{
-			"headline": "As Colorado River reservoirs shrink, Arizona warns of a legal fight",
-			"url": "https://www.latimes.com/environment/story/2026-08-18/colorado-river-legal-fight",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-18T10:00:00.000Z"
 		},
 		{
 			"headline": "This clumsy green beetle is buzzing all over L.A. It might just crash into your face",
@@ -128,10 +116,40 @@
 			"publishedAt": "2026-08-18T18:32:59.000Z"
 		},
 		{
+			"headline": "Jellyfish Enable Surprising New Findings about Cancer",
+			"url": "https://www.caltech.edu/about/news/jellyfish-enable-surprising-new-findings-about-cancer",
+			"source": "Caltech",
+			"publishedAt": "2026-08-18T18:09:21.943Z"
+		},
+		{
+			"headline": "MBARI introduces students to careers in ocean science and engineering",
+			"url": "https://www.mbari.org/news/mbari-introduces-students-to-careers-in-ocean-science-and-engineering/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-18T16:30:18.000Z"
+		},
+		{
+			"headline": "As Colorado River reservoirs shrink, Arizona warns of a legal fight",
+			"url": "https://www.latimes.com/environment/story/2026-08-18/colorado-river-legal-fight",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-18T10:00:00.000Z"
+		},
+		{
 			"headline": "After 34 years of debilitating sickle cell crises, CRISPR gave her a new chance at life",
 			"url": "https://news.berkeley.edu/2026/08/17/after-34-years-of-debilitating-sickle-cell-crises-crispr-gave-her-a-new-chance-at-life/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-17T20:36:55.000Z"
+		},
+		{
+			"headline": "The Conversations We Don't Have About Safety Outdoors",
+			"url": "https://baynature.org/2026/08/19/latest-stories/the-conversations-we-dont-have-about-safety-outdoors/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-19T17:11:04.000Z"
+		},
+		{
+			"headline": "Groundbreaking Artist Gronk in Conversation at Caltech",
+			"url": "https://www.caltech.edu/about/news/artist_gronk_conversation_caltech",
+			"source": "Caltech",
+			"publishedAt": "2026-08-20T16:18:36.796Z"
 		}
 	]
 }
