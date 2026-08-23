@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-23T00:27:30.299Z",
+	"lastUpdated": "2026-08-23T04:24:37.930Z",
 	"items": [
 		{
 			"headline": "Highway 1 in Big Sur fully reopens as Timber fire continues to burn",
@@ -56,16 +56,22 @@
 			"publishedAt": "2026-08-21T02:27:25.000Z"
 		},
 		{
+			"headline": "Watch: Decode the chatter of birds with a Berkeley neuroscientist",
+			"url": "https://news.berkeley.edu/2026/08/20/watch-decode-the-chatter-of-birds-with-a-berkeley-neuroscientist/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-20T17:00:12.000Z"
+		},
+		{
 			"headline": "Why California Can't Tell You Where It's Unsafe to Swim",
 			"url": "https://baynature.org/2026/08/20/science-nature/water/why-california-cant-tell-you-where-its-unsafe-to-swim/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-08-20T22:08:18.000Z"
 		},
 		{
-			"headline": "Watch: Decode the chatter of birds with a Berkeley neuroscientist",
-			"url": "https://news.berkeley.edu/2026/08/20/watch-decode-the-chatter-of-birds-with-a-berkeley-neuroscientist/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-20T17:00:12.000Z"
+			"headline": "Groundbreaking Artist Gronk in Conversation at Caltech",
+			"url": "https://www.caltech.edu/about/news/artist_gronk_conversation_caltech",
+			"source": "Caltech",
+			"publishedAt": "2026-08-20T16:18:36.796Z"
 		},
 		{
 			"headline": "Amid controversy, California officials release long-awaited Delta water plan",
@@ -134,22 +140,16 @@
 			"publishedAt": "2026-08-18T10:00:00.000Z"
 		},
 		{
+			"headline": "As Colorado River reservoirs shrink, Arizona warns of a legal fight",
+			"url": "https://www.latimes.com/environment/story/2026-08-18/colorado-river-legal-fight",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-18T10:00:00.000Z"
+		},
+		{
 			"headline": "Stripped of sand, decades-old infrastructure 'relics' pop up at the Wedge in Newport Beach",
 			"url": "https://www.latimes.com/california/story/2026-08-17/erosion-reveals-decades-old-infrastructure-newport-beach-wedge",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-18T04:23:34.000Z"
-		},
-		{
-			"headline": "After 34 years of debilitating sickle cell crises, CRISPR gave her a new chance at life",
-			"url": "https://news.berkeley.edu/2026/08/17/after-34-years-of-debilitating-sickle-cell-crises-crispr-gave-her-a-new-chance-at-life/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-17T20:36:55.000Z"
-		},
-		{
-			"headline": "California Prop. 40, the 'Billionaire Tax,' holds lead in new UC Berkeley IGS Poll",
-			"url": "https://news.berkeley.edu/2026/08/17/california-prop-40-the-billionaire-tax-holds-lead-in-new-uc-berkeley-igs-poll/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-17T18:11:40.000Z"
 		}
 	]
 }
