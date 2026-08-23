@@ -1,11 +1,17 @@
 {
-	"lastUpdated": "2026-08-22T20:08:14.057Z",
+	"lastUpdated": "2026-08-23T00:27:30.299Z",
 	"items": [
 		{
-			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
-			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
-			"source": "Eos",
-			"publishedAt": "2026-08-21T12:00:00.000Z"
+			"headline": "Highway 1 in Big Sur fully reopens as Timber fire continues to burn",
+			"url": "https://www.latimes.com/california/story/2026-08-22/pacific-coast-highway-reopens-big-sur-timber-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-22T22:34:53.000Z"
+		},
+		{
+			"headline": "Mountain lions stall plan to build 400 residences on Woodland Hills golf course",
+			"url": "https://www.latimes.com/california/story/2026-08-22/mountain-lions-stall-stall-woodland-hills-golf-course-housing-project",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-22T20:35:59.000Z"
 		},
 		{
 			"headline": "A promising new weight loss and diabetes treatment helps burn fat while keeping muscle",
@@ -30,6 +36,12 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-21/colorado-river-trump-administration-water-cuts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-21T16:01:11.000Z"
+		},
+		{
+			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
+			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
+			"source": "Eos",
+			"publishedAt": "2026-08-21T12:00:00.000Z"
 		},
 		{
 			"headline": "Shadow 'highly likely' to nest up with new eagle pal, biologist says",
@@ -98,6 +110,12 @@
 			"publishedAt": "2026-08-19T02:30:32.000Z"
 		},
 		{
+			"headline": "Expanding what's known about our fast-expanding universe",
+			"url": "https://news.berkeley.edu/2026/08/18/expanding-whats-known-about-our-fast-expanding-universe/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-18T18:32:59.000Z"
+		},
+		{
 			"headline": "Jellyfish Enable Surprising New Findings about Cancer",
 			"url": "https://www.caltech.edu/about/news/jellyfish-enable-surprising-new-findings-about-cancer",
 			"source": "Caltech",
@@ -122,34 +140,16 @@
 			"publishedAt": "2026-08-18T04:23:34.000Z"
 		},
 		{
-			"headline": "Hydrogen failed as car fuel. Now California's big dollar bet on it for green energy is fading, too",
-			"url": "https://www.latimes.com/environment/story/2026-08-17/hydrogen-failed-as-car-fuel-now-californias-bet-on-it-for-green-energy-is-fading-too",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-17T10:05:00.000Z"
-		},
-		{
-			"headline": "Extreme heat is returning to Southern California. Here's how bad it will get",
-			"url": "https://www.latimes.com/california/story/2026-08-17/another-heat-wave-is-coming-to-southern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-17T17:37:28.000Z"
-		},
-		{
-			"headline": "California Prop. 40, the 'Billionaire Tax,' holds lead in new UC Berkeley IGS Poll",
-			"url": "https://news.berkeley.edu/2026/08/17/california-prop-40-the-billionaire-tax-holds-lead-in-new-uc-berkeley-igs-poll/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-17T18:11:40.000Z"
-		},
-		{
 			"headline": "After 34 years of debilitating sickle cell crises, CRISPR gave her a new chance at life",
 			"url": "https://news.berkeley.edu/2026/08/17/after-34-years-of-debilitating-sickle-cell-crises-crispr-gave-her-a-new-chance-at-life/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-17T20:36:55.000Z"
 		},
 		{
-			"headline": "Expanding what's known about our fast-expanding universe",
-			"url": "https://news.berkeley.edu/2026/08/18/expanding-whats-known-about-our-fast-expanding-universe/",
+			"headline": "California Prop. 40, the 'Billionaire Tax,' holds lead in new UC Berkeley IGS Poll",
+			"url": "https://news.berkeley.edu/2026/08/17/california-prop-40-the-billionaire-tax-holds-lead-in-new-uc-berkeley-igs-poll/",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-18T18:32:59.000Z"
+			"publishedAt": "2026-08-17T18:11:40.000Z"
 		}
 	]
 }
