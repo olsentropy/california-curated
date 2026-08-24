@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-24T08:32:33.014Z",
+	"lastUpdated": "2026-08-24T12:19:32.392Z",
 	"items": [
+		{
+			"headline": "As 3 dangers converge, California's coast faces rare winter of big waves, erosion, flooding",
+			"url": "https://www.latimes.com/california/story/2026-08-24/californias-coast-under-siege-flooding-big-waves-erosion-forecast",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-24T10:00:00.000Z"
+		},
 		{
 			"headline": "Three rescued belugas arrive at SeaWorld San Diego after 2,500-mile journey from Canada",
 			"url": "https://www.latimes.com/california/story/2026-08-23/3-rescued-belugas-travel-2500-miles-seaworld-san-diego",
@@ -56,12 +62,6 @@
 			"publishedAt": "2026-08-21T18:11:44.000Z"
 		},
 		{
-			"headline": "Berkeley Talks: Leaping robots, AI companies and a NASA mission: Stories of Berkeley student innovation",
-			"url": "https://news.berkeley.edu/2026/08/21/berkeley-talks-pieter-abbeel/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-21T16:59:17.000Z"
-		},
-		{
 			"headline": "As California embraces universal transitional kindergarten, the state's other child-care workers are struggling",
 			"url": "https://news.berkeley.edu/2026/08/21/as-california-embraces-universal-transitional-kindergarten-the-states-other-child-care-workers-are-struggling/",
 			"source": "UC Berkeley News",
@@ -72,12 +72,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-21/colorado-river-trump-administration-water-cuts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-21T16:01:11.000Z"
-		},
-		{
-			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
-			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
-			"source": "Eos",
-			"publishedAt": "2026-08-21T12:00:00.000Z"
 		},
 		{
 			"headline": "Shadow 'highly likely' to nest up with new eagle pal, biologist says",
@@ -92,16 +86,40 @@
 			"publishedAt": "2026-08-21T02:27:25.000Z"
 		},
 		{
+			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
+			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
+			"source": "Eos",
+			"publishedAt": "2026-08-21T12:00:00.000Z"
+		},
+		{
 			"headline": "Watch: Decode the chatter of birds with a Berkeley neuroscientist",
 			"url": "https://news.berkeley.edu/2026/08/20/watch-decode-the-chatter-of-birds-with-a-berkeley-neuroscientist/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-20T17:00:12.000Z"
 		},
 		{
+			"headline": "Carson reaches $370-million settlement with Marathon Petroleum, resolving tax dispute",
+			"url": "https://www.latimes.com/environment/story/2026-08-20/carson-reaches-370-million-settlement-with-marathon-petroleum",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-20T17:00:00.000Z"
+		},
+		{
 			"headline": "Why California Can't Tell You Where It's Unsafe to Swim",
 			"url": "https://baynature.org/2026/08/20/science-nature/water/why-california-cant-tell-you-where-its-unsafe-to-swim/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-08-20T22:08:18.000Z"
+		},
+		{
+			"headline": "Key takeaways from investigation into Edison's role in the deadly Eaton fire",
+			"url": "https://www.latimes.com/business/story/2026-08-20/key-takeaways-from-investigation-into-edisons-role-in-eaton-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-20T10:00:00.000Z"
+		},
+		{
+			"headline": "Judge allows controversial oil company to continue pumping, strips California of oversight",
+			"url": "https://www.latimes.com/environment/story/2026-08-20/judge-allows-controversial-oil-company-continue-pumping",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-20T15:06:36.000Z"
 		},
 		{
 			"headline": "Amid controversy, California officials release long-awaited Delta water plan",
@@ -132,24 +150,6 @@
 			"url": "https://news.berkeley.edu/2026/08/19/uc-berkeley-computer-scientist-on-the-promise-and-perils-of-agentic-ai/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-19T19:36:49.000Z"
-		},
-		{
-			"headline": "Universal Pattern Revealed in Quantum Matter",
-			"url": "https://www.caltech.edu/about/news/universal-pattern-revealed-in-quantum-matter",
-			"source": "Caltech",
-			"publishedAt": "2026-08-19T15:00:00.000Z"
-		},
-		{
-			"headline": "The Conversations We Don't Have About Safety Outdoors",
-			"url": "https://baynature.org/2026/08/19/latest-stories/the-conversations-we-dont-have-about-safety-outdoors/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-19T17:11:04.000Z"
-		},
-		{
-			"headline": "As Colorado River reservoirs shrink, Arizona warns of a legal fight",
-			"url": "https://www.latimes.com/environment/story/2026-08-18/colorado-river-legal-fight",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-18T10:00:00.000Z"
 		}
 	]
 }
