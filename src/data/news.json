@@ -1,12 +1,6 @@
 {
-	"lastUpdated": "2026-08-24T12:19:32.392Z",
+	"lastUpdated": "2026-08-24T16:20:15.143Z",
 	"items": [
-		{
-			"headline": "As 3 dangers converge, California's coast faces rare winter of big waves, erosion, flooding",
-			"url": "https://www.latimes.com/california/story/2026-08-24/californias-coast-under-siege-flooding-big-waves-erosion-forecast",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-24T10:00:00.000Z"
-		},
 		{
 			"headline": "Three rescued belugas arrive at SeaWorld San Diego after 2,500-mile journey from Canada",
 			"url": "https://www.latimes.com/california/story/2026-08-23/3-rescued-belugas-travel-2500-miles-seaworld-san-diego",
@@ -62,6 +56,12 @@
 			"publishedAt": "2026-08-21T18:11:44.000Z"
 		},
 		{
+			"headline": "Berkeley Talks: Leaping robots, AI companies and a NASA mission: Stories of Berkeley student innovation",
+			"url": "https://news.berkeley.edu/2026/08/21/berkeley-talks-pieter-abbeel/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-21T16:59:17.000Z"
+		},
+		{
 			"headline": "As California embraces universal transitional kindergarten, the state's other child-care workers are struggling",
 			"url": "https://news.berkeley.edu/2026/08/21/as-california-embraces-universal-transitional-kindergarten-the-states-other-child-care-workers-are-struggling/",
 			"source": "UC Berkeley News",
@@ -80,16 +80,28 @@
 			"publishedAt": "2026-08-21T10:00:00.000Z"
 		},
 		{
+			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
+			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
+			"source": "Eos",
+			"publishedAt": "2026-08-21T12:00:00.000Z"
+		},
+		{
 			"headline": "Dead of a mosquito bite: L.A. records West Nile fatality as California cases hit 5-year high",
 			"url": "https://www.latimes.com/california/story/2026-08-20/la-resident-dies-west-nile-virus-california-cases-hit-5-year-high-climate-change",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-21T02:27:25.000Z"
 		},
 		{
-			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
-			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
-			"source": "Eos",
-			"publishedAt": "2026-08-21T12:00:00.000Z"
+			"headline": "Why California Can't Tell You Where It's Unsafe to Swim",
+			"url": "https://baynature.org/2026/08/20/science-nature/water/why-california-cant-tell-you-where-its-unsafe-to-swim/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-20T22:08:18.000Z"
+		},
+		{
+			"headline": "Hundreds suffered ill health from massive Boyle Heights warehouse fire, new survey finds",
+			"url": "https://www.latimes.com/california/story/2026-08-20/boyle-heights-warehouse-fire-health-report",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-20T21:35:09.000Z"
 		},
 		{
 			"headline": "Watch: Decode the chatter of birds with a Berkeley neuroscientist",
@@ -104,10 +116,10 @@
 			"publishedAt": "2026-08-20T17:00:00.000Z"
 		},
 		{
-			"headline": "Why California Can't Tell You Where It's Unsafe to Swim",
-			"url": "https://baynature.org/2026/08/20/science-nature/water/why-california-cant-tell-you-where-its-unsafe-to-swim/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-20T22:08:18.000Z"
+			"headline": "Judge allows controversial oil company to continue pumping, strips California of oversight",
+			"url": "https://www.latimes.com/environment/story/2026-08-20/judge-allows-controversial-oil-company-continue-pumping",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-20T15:06:36.000Z"
 		},
 		{
 			"headline": "Key takeaways from investigation into Edison's role in the deadly Eaton fire",
@@ -116,40 +128,28 @@
 			"publishedAt": "2026-08-20T10:00:00.000Z"
 		},
 		{
-			"headline": "Judge allows controversial oil company to continue pumping, strips California of oversight",
-			"url": "https://www.latimes.com/environment/story/2026-08-20/judge-allows-controversial-oil-company-continue-pumping",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-20T15:06:36.000Z"
+			"headline": "Jellyfish Enable Surprising New Findings about Cancer",
+			"url": "https://www.caltech.edu/about/news/jellyfish-enable-surprising-new-findings-about-cancer",
+			"source": "Caltech",
+			"publishedAt": "2026-08-18T18:09:21.943Z"
 		},
 		{
-			"headline": "Amid controversy, California officials release long-awaited Delta water plan",
-			"url": "https://www.latimes.com/environment/story/2026-08-19/california-delta-plan",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-19T23:06:52.000Z"
+			"headline": "MBARI introduces students to careers in ocean science and engineering",
+			"url": "https://www.mbari.org/news/mbari-introduces-students-to-careers-in-ocean-science-and-engineering/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-18T16:30:18.000Z"
 		},
 		{
-			"headline": "As Lake Mead shrinks, its body count rises",
-			"url": "https://www.latimes.com/california/story/2026-08-19/as-lake-mead-shrinks-its-body-count-rises",
+			"headline": "As Colorado River reservoirs shrink, Arizona warns of a legal fight",
+			"url": "https://www.latimes.com/environment/story/2026-08-18/colorado-river-legal-fight",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-19T21:47:08.000Z"
-		},
-		{
-			"headline": "California has an affordability crisis. The fix may be politically uncomfortable.",
-			"url": "https://news.berkeley.edu/2026/08/19/california-has-an-affordability-crisis-the-fix-may-be-politically-uncomfortable/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-19T21:10:53.000Z"
+			"publishedAt": "2026-08-18T10:00:00.000Z"
 		},
 		{
 			"headline": "State approves 'Zone Zero' fire-safe landscaping rules, reshaping yards for millions of Californians",
 			"url": "https://www.latimes.com/environment/story/2026-08-19/state-approves-zone-zero-fire-safe-landscaping-rules",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-19T20:13:51.000Z"
-		},
-		{
-			"headline": "UC Berkeley computer scientist on the promise and perils of agentic AI",
-			"url": "https://news.berkeley.edu/2026/08/19/uc-berkeley-computer-scientist-on-the-promise-and-perils-of-agentic-ai/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-19T19:36:49.000Z"
 		}
 	]
 }
