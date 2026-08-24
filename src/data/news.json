@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-24T04:32:44.980Z",
+	"lastUpdated": "2026-08-24T08:32:33.014Z",
 	"items": [
 		{
 			"headline": "Three rescued belugas arrive at SeaWorld San Diego after 2,500-mile journey from Canada",
@@ -12,6 +12,18 @@
 			"url": "https://www.latimes.com/california/story/2026-08-23/french-visitor-dies-vehicle-breaks-down-116-degrees-death-valley",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-23T23:52:45.000Z"
+		},
+		{
+			"headline": "Crimson the mountain lion cub, abandoned by mom, has leg amputated: 'Incredibly resilient'",
+			"url": "https://www.latimes.com/california/story/2026-08-23/crimson-mountain-lion-cub-abandoned-by-mom-has-leg-amputated",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-23T23:33:48.000Z"
+		},
+		{
+			"headline": "'Very hot or extremely hot': Southern California faces hottest week of the year",
+			"url": "https://www.latimes.com/california/story/2026-08-23/socal-weather-forecast-hottest-week-of-year-ahead",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-23T22:33:39.000Z"
 		},
 		{
 			"headline": "Thousands evacuated, 6 hurt as Hawk fire grows to over 15,000 acres on California-Nevada border",
@@ -98,6 +110,12 @@
 			"publishedAt": "2026-08-19T23:06:52.000Z"
 		},
 		{
+			"headline": "As Lake Mead shrinks, its body count rises",
+			"url": "https://www.latimes.com/california/story/2026-08-19/as-lake-mead-shrinks-its-body-count-rises",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-19T21:47:08.000Z"
+		},
+		{
 			"headline": "California has an affordability crisis. The fix may be politically uncomfortable.",
 			"url": "https://news.berkeley.edu/2026/08/19/california-has-an-affordability-crisis-the-fix-may-be-politically-uncomfortable/",
 			"source": "UC Berkeley News",
@@ -122,28 +140,10 @@
 			"publishedAt": "2026-08-19T15:00:00.000Z"
 		},
 		{
-			"headline": "Expanding what's known about our fast-expanding universe",
-			"url": "https://news.berkeley.edu/2026/08/18/expanding-whats-known-about-our-fast-expanding-universe/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-18T18:32:59.000Z"
-		},
-		{
-			"headline": "Jellyfish Enable Surprising New Findings about Cancer",
-			"url": "https://www.caltech.edu/about/news/jellyfish-enable-surprising-new-findings-about-cancer",
-			"source": "Caltech",
-			"publishedAt": "2026-08-18T18:09:21.943Z"
-		},
-		{
-			"headline": "MBARI introduces students to careers in ocean science and engineering",
-			"url": "https://www.mbari.org/news/mbari-introduces-students-to-careers-in-ocean-science-and-engineering/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-18T16:30:18.000Z"
-		},
-		{
-			"headline": "This clumsy green beetle is buzzing all over L.A. It might just crash into your face",
-			"url": "https://www.latimes.com/environment/story/2026-08-18/big-clumsy-beetles-take-over-los-angeles",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-18T10:00:00.000Z"
+			"headline": "The Conversations We Don't Have About Safety Outdoors",
+			"url": "https://baynature.org/2026/08/19/latest-stories/the-conversations-we-dont-have-about-safety-outdoors/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-19T17:11:04.000Z"
 		},
 		{
 			"headline": "As Colorado River reservoirs shrink, Arizona warns of a legal fight",
