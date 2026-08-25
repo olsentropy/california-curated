@@ -1,23 +1,17 @@
 {
-	"lastUpdated": "2026-08-25T12:19:54.197Z",
+	"lastUpdated": "2026-08-25T16:22:54.865Z",
 	"items": [
 		{
-			"headline": "NASA Selects Caltech to Operate the Orbiting Carbon Observatories",
-			"url": "https://www.caltech.edu/about/news/nasa-selects-caltech-to-operate-the-orbiting-carbon-observatories",
-			"source": "Caltech",
-			"publishedAt": "2026-08-24T17:24:13.882Z"
+			"headline": "Los Angeles getting personnel in place for a week of very dangerous heat",
+			"url": "https://www.latimes.com/california/story/2026-08-25/los-angeles-getting-personnel-in-place-for-week-of-very-dangerous-heat",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-25T10:00:00.000Z"
 		},
 		{
-			"headline": "Chemical Physicists Quantitatively Model Electron Interactions in Real Quantum Materials",
-			"url": "https://www.caltech.edu/about/news/chemical-physicists-quantitatively-model-electron-interactions-in-real-quantum-materials",
-			"source": "Caltech",
-			"publishedAt": "2026-08-24T18:29:24.364Z"
-		},
-		{
-			"headline": "First Findings of Mirror-like Activity in Individual Human Neurons",
-			"url": "https://www.caltech.edu/about/news/first-findings-of-mirror-like-activity-in-individual-human-neurons",
-			"source": "Caltech",
-			"publishedAt": "2026-08-24T22:53:32.403Z"
+			"headline": "Why this summer's L.A. heat waves feel so miserable: Hotter nights, broiling beaches",
+			"url": "https://www.latimes.com/california/story/2026-08-24/why-this-summers-socal-heat-waves-feel-so-bad-hotter-nights-broiling-beaches",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-24T22:23:59.000Z"
 		},
 		{
 			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
@@ -26,10 +20,28 @@
 			"publishedAt": "2026-08-24T22:30:08.000Z"
 		},
 		{
+			"headline": "NASA Selects Caltech to Operate the Orbiting Carbon Observatories",
+			"url": "https://www.caltech.edu/about/news/nasa-selects-caltech-to-operate-the-orbiting-carbon-observatories",
+			"source": "Caltech",
+			"publishedAt": "2026-08-24T17:24:13.882Z"
+		},
+		{
 			"headline": "UC Berkeley announces new professional graduate degree in AI and machine learning",
 			"url": "https://cdss.berkeley.edu/news/uc-berkeley-announces-new-professional-graduate-degree-ai-and-machine-learning",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-24T18:45:12.000Z"
+		},
+		{
+			"headline": "Chemical Physicists Quantitatively Model Electron Interactions in Real Quantum Materials",
+			"url": "https://www.caltech.edu/about/news/chemical-physicists-quantitatively-model-electron-interactions-in-real-quantum-materials",
+			"source": "Caltech",
+			"publishedAt": "2026-08-24T18:29:24.364Z"
+		},
+		{
+			"headline": "Nevada sues Trump administration over its Colorado River plan",
+			"url": "https://www.latimes.com/environment/story/2026-08-24/nevada-lawsuit-colorado-river",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-24T16:12:40.000Z"
 		},
 		{
 			"headline": "Three rescued belugas arrive at SeaWorld San Diego after 2,500-mile journey from Canada",
@@ -128,28 +140,16 @@
 			"publishedAt": "2026-08-21T02:27:25.000Z"
 		},
 		{
-			"headline": "Why California Can't Tell You Where It's Unsafe to Swim",
-			"url": "https://baynature.org/2026/08/20/science-nature/water/why-california-cant-tell-you-where-its-unsafe-to-swim/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-20T22:08:18.000Z"
-		},
-		{
 			"headline": "Watch: Decode the chatter of birds with a Berkeley neuroscientist",
 			"url": "https://news.berkeley.edu/2026/08/20/watch-decode-the-chatter-of-birds-with-a-berkeley-neuroscientist/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-20T17:00:12.000Z"
 		},
 		{
-			"headline": "UC Berkeley computer scientist on the promise and perils of agentic AI",
-			"url": "https://news.berkeley.edu/2026/08/19/uc-berkeley-computer-scientist-on-the-promise-and-perils-of-agentic-ai/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-19T19:36:49.000Z"
-		},
-		{
-			"headline": "California has an affordability crisis. The fix may be politically uncomfortable.",
-			"url": "https://news.berkeley.edu/2026/08/19/california-has-an-affordability-crisis-the-fix-may-be-politically-uncomfortable/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-19T21:10:53.000Z"
+			"headline": "Why California Can't Tell You Where It's Unsafe to Swim",
+			"url": "https://baynature.org/2026/08/20/science-nature/water/why-california-cant-tell-you-where-its-unsafe-to-swim/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-20T22:08:18.000Z"
 		}
 	]
 }
