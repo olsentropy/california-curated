@@ -1,18 +1,6 @@
 {
-	"lastUpdated": "2026-08-25T08:25:51.445Z",
+	"lastUpdated": "2026-08-25T12:19:54.197Z",
 	"items": [
-		{
-			"headline": "Why this summer's L.A. heat waves feel so miserable: Hotter nights, broiling beaches",
-			"url": "https://www.latimes.com/california/story/2026-08-24/why-this-summers-socal-heat-waves-feel-so-bad-hotter-nights-broiling-beaches",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-24T22:23:59.000Z"
-		},
-		{
-			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
-			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-24T22:30:08.000Z"
-		},
 		{
 			"headline": "NASA Selects Caltech to Operate the Orbiting Carbon Observatories",
 			"url": "https://www.caltech.edu/about/news/nasa-selects-caltech-to-operate-the-orbiting-carbon-observatories",
@@ -30,6 +18,12 @@
 			"url": "https://www.caltech.edu/about/news/first-findings-of-mirror-like-activity-in-individual-human-neurons",
 			"source": "Caltech",
 			"publishedAt": "2026-08-24T22:53:32.403Z"
+		},
+		{
+			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
+			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-24T22:30:08.000Z"
 		},
 		{
 			"headline": "UC Berkeley announces new professional graduate degree in AI and machine learning",
@@ -116,16 +110,16 @@
 			"publishedAt": "2026-08-21T16:01:11.000Z"
 		},
 		{
-			"headline": "Shadow 'highly likely' to nest up with new eagle pal, biologist says",
-			"url": "https://www.latimes.com/environment/story/2026-08-21/shadow-highly-likely-to-nest-up-with-new-eagle-pal-biologist-says",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-21T10:00:00.000Z"
-		},
-		{
 			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
 			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
 			"source": "Eos",
 			"publishedAt": "2026-08-21T12:00:00.000Z"
+		},
+		{
+			"headline": "Shadow 'highly likely' to nest up with new eagle pal, biologist says",
+			"url": "https://www.latimes.com/environment/story/2026-08-21/shadow-highly-likely-to-nest-up-with-new-eagle-pal-biologist-says",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-21T10:00:00.000Z"
 		},
 		{
 			"headline": "Dead of a mosquito bite: L.A. records West Nile fatality as California cases hit 5-year high",
@@ -146,10 +140,16 @@
 			"publishedAt": "2026-08-20T17:00:12.000Z"
 		},
 		{
-			"headline": "Groundbreaking Artist Gronk in Conversation at Caltech",
-			"url": "https://www.caltech.edu/about/news/artist_gronk_conversation_caltech",
-			"source": "Caltech",
-			"publishedAt": "2026-08-20T16:18:36.796Z"
+			"headline": "UC Berkeley computer scientist on the promise and perils of agentic AI",
+			"url": "https://news.berkeley.edu/2026/08/19/uc-berkeley-computer-scientist-on-the-promise-and-perils-of-agentic-ai/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-19T19:36:49.000Z"
+		},
+		{
+			"headline": "California has an affordability crisis. The fix may be politically uncomfortable.",
+			"url": "https://news.berkeley.edu/2026/08/19/california-has-an-affordability-crisis-the-fix-may-be-politically-uncomfortable/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-19T21:10:53.000Z"
 		}
 	]
 }
