@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-24T20:14:55.507Z",
+	"lastUpdated": "2026-08-25T00:27:00.670Z",
 	"items": [
 		{
 			"headline": "NASA Selects Caltech to Operate the Orbiting Carbon Observatories",
@@ -14,10 +14,22 @@
 			"publishedAt": "2026-08-24T18:29:24.364Z"
 		},
 		{
-			"headline": "UC Berkeley announces new professional graduate degree in AI and machine learning",
-			"url": "https://cdss.berkeley.edu/news/uc-berkeley-announces-new-professional-graduate-degree-ai-and-machine-learning",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-24T18:45:12.000Z"
+			"headline": "First Findings of Mirror-like Activity in Individual Human Neurons",
+			"url": "https://www.caltech.edu/about/news/first-findings-of-mirror-like-activity-in-individual-human-neurons",
+			"source": "Caltech",
+			"publishedAt": "2026-08-24T22:53:32.403Z"
+		},
+		{
+			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
+			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-24T22:30:08.000Z"
+		},
+		{
+			"headline": "Why this summer's L.A. heat waves feel so miserable: Hotter nights, broiling beaches",
+			"url": "https://www.latimes.com/california/story/2026-08-24/why-this-summers-socal-heat-waves-feel-so-bad-hotter-nights-broiling-beaches",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-24T22:23:59.000Z"
 		},
 		{
 			"headline": "Three rescued belugas arrive at SeaWorld San Diego after 2,500-mile journey from Canada",
@@ -30,6 +42,12 @@
 			"url": "https://www.latimes.com/california/story/2026-08-23/french-visitor-dies-vehicle-breaks-down-116-degrees-death-valley",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-23T23:52:45.000Z"
+		},
+		{
+			"headline": "Crimson the mountain lion cub, abandoned by mom, has leg amputated: 'Incredibly resilient'",
+			"url": "https://www.latimes.com/california/story/2026-08-23/crimson-mountain-lion-cub-abandoned-by-mom-has-leg-amputated",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-23T23:33:48.000Z"
 		},
 		{
 			"headline": "'Very hot or extremely hot': Southern California faces hottest week of the year",
@@ -62,6 +80,12 @@
 			"publishedAt": "2026-08-22T10:00:00.000Z"
 		},
 		{
+			"headline": "UC Berkeley announces new professional graduate degree in AI and machine learning",
+			"url": "https://cdss.berkeley.edu/news/uc-berkeley-announces-new-professional-graduate-degree-ai-and-machine-learning",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-24T18:45:12.000Z"
+		},
+		{
 			"headline": "A promising new weight loss and diabetes treatment helps burn fat while keeping muscle",
 			"url": "https://news.berkeley.edu/2026/08/21/a-promising-new-weight-loss-and-diabetes-treatment-helps-burn-fat-while-keeping-muscle/",
 			"source": "UC Berkeley News",
@@ -74,22 +98,10 @@
 			"publishedAt": "2026-08-21T16:59:17.000Z"
 		},
 		{
-			"headline": "As California embraces universal transitional kindergarten, the state's other child-care workers are struggling",
-			"url": "https://news.berkeley.edu/2026/08/21/as-california-embraces-universal-transitional-kindergarten-the-states-other-child-care-workers-are-struggling/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-21T16:36:00.000Z"
-		},
-		{
 			"headline": "As Colorado River reservoirs plummet, the Trump administration orders water cuts",
 			"url": "https://www.latimes.com/environment/story/2026-08-21/colorado-river-trump-administration-water-cuts",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-21T16:01:11.000Z"
-		},
-		{
-			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
-			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
-			"source": "Eos",
-			"publishedAt": "2026-08-21T12:00:00.000Z"
 		},
 		{
 			"headline": "Shadow 'highly likely' to nest up with new eagle pal, biologist says",
@@ -98,16 +110,16 @@
 			"publishedAt": "2026-08-21T10:00:00.000Z"
 		},
 		{
+			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
+			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
+			"source": "Eos",
+			"publishedAt": "2026-08-21T12:00:00.000Z"
+		},
+		{
 			"headline": "Dead of a mosquito bite: L.A. records West Nile fatality as California cases hit 5-year high",
 			"url": "https://www.latimes.com/california/story/2026-08-20/la-resident-dies-west-nile-virus-california-cases-hit-5-year-high-climate-change",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-21T02:27:25.000Z"
-		},
-		{
-			"headline": "Why California Can't Tell You Where It's Unsafe to Swim",
-			"url": "https://baynature.org/2026/08/20/science-nature/water/why-california-cant-tell-you-where-its-unsafe-to-swim/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-20T22:08:18.000Z"
 		},
 		{
 			"headline": "Watch: Decode the chatter of birds with a Berkeley neuroscientist",
@@ -116,40 +128,28 @@
 			"publishedAt": "2026-08-20T17:00:12.000Z"
 		},
 		{
-			"headline": "Universal Pattern Revealed in Quantum Matter",
-			"url": "https://www.caltech.edu/about/news/universal-pattern-revealed-in-quantum-matter",
+			"headline": "Groundbreaking Artist Gronk in Conversation at Caltech",
+			"url": "https://www.caltech.edu/about/news/artist_gronk_conversation_caltech",
 			"source": "Caltech",
-			"publishedAt": "2026-08-19T15:00:00.000Z"
+			"publishedAt": "2026-08-20T16:18:36.796Z"
+		},
+		{
+			"headline": "Why California Can't Tell You Where It's Unsafe to Swim",
+			"url": "https://baynature.org/2026/08/20/science-nature/water/why-california-cant-tell-you-where-its-unsafe-to-swim/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-20T22:08:18.000Z"
+		},
+		{
+			"headline": "Fishing for solutions",
+			"url": "https://www.mbari.org/news/fishing-for-solutions/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-22T01:00:31.000Z"
 		},
 		{
 			"headline": "An expedition many years in the making",
 			"url": "https://www.mbari.org/news/an-expedition-many-years-in-the-making/",
 			"source": "MBARI",
 			"publishedAt": "2026-08-19T22:00:40.000Z"
-		},
-		{
-			"headline": "California has an affordability crisis. The fix may be politically uncomfortable.",
-			"url": "https://news.berkeley.edu/2026/08/19/california-has-an-affordability-crisis-the-fix-may-be-politically-uncomfortable/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-19T21:10:53.000Z"
-		},
-		{
-			"headline": "UC Berkeley computer scientist on the promise and perils of agentic AI",
-			"url": "https://news.berkeley.edu/2026/08/19/uc-berkeley-computer-scientist-on-the-promise-and-perils-of-agentic-ai/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-19T19:36:49.000Z"
-		},
-		{
-			"headline": "State approves 'Zone Zero' fire-safe landscaping rules, reshaping yards for millions of Californians",
-			"url": "https://www.latimes.com/environment/story/2026-08-19/state-approves-zone-zero-fire-safe-landscaping-rules",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-19T20:13:51.000Z"
-		},
-		{
-			"headline": "Amid controversy, California officials release long-awaited Delta water plan",
-			"url": "https://www.latimes.com/environment/story/2026-08-19/california-delta-plan",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-19T23:06:52.000Z"
 		}
 	]
 }
