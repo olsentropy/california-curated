@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-25T20:13:25.900Z",
+	"lastUpdated": "2026-08-26T00:27:46.468Z",
 	"items": [
+		{
+			"headline": "The Wood fire prompts evacuations in Riverside County",
+			"url": "https://www.latimes.com/california/story/2026-08-25/wood-fire-prompts-evacuations-in-riverside-county",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-25T23:26:58.000Z"
+		},
 		{
 			"headline": "Another Last-Minute California Forever Shipyard Bill Goes to Solano Supervisors",
 			"url": "https://baynature.org/2026/08/25/conservation/policy/another-last-minute-california-forever-shipyard-bill-goes-to-solano-supervisors/",
@@ -26,34 +32,16 @@
 			"publishedAt": "2026-08-24T22:23:59.000Z"
 		},
 		{
-			"headline": "UC Berkeley announces new professional graduate degree in AI and machine learning",
-			"url": "https://cdss.berkeley.edu/news/uc-berkeley-announces-new-professional-graduate-degree-ai-and-machine-learning",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-24T18:45:12.000Z"
-		},
-		{
-			"headline": "Chemical Physicists Quantitatively Model Electron Interactions in Real Quantum Materials",
-			"url": "https://www.caltech.edu/about/news/chemical-physicists-quantitatively-model-electron-interactions-in-real-quantum-materials",
-			"source": "Caltech",
-			"publishedAt": "2026-08-24T18:29:24.364Z"
-		},
-		{
 			"headline": "NASA Selects Caltech to Operate the Orbiting Carbon Observatories",
 			"url": "https://www.caltech.edu/about/news/nasa-selects-caltech-to-operate-the-orbiting-carbon-observatories",
 			"source": "Caltech",
 			"publishedAt": "2026-08-24T17:24:13.882Z"
 		},
 		{
-			"headline": "Moffitt Library is back — and built for a new generation of UC Berkeley students",
-			"url": "https://www.lib.berkeley.edu/about/news/moffitt-reopening",
+			"headline": "UC Berkeley announces new professional graduate degree in AI and machine learning",
+			"url": "https://cdss.berkeley.edu/news/uc-berkeley-announces-new-professional-graduate-degree-ai-and-machine-learning",
 			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-24T16:49:39.000Z"
-		},
-		{
-			"headline": "Nevada sues Trump administration over its Colorado River plan",
-			"url": "https://www.latimes.com/environment/story/2026-08-24/nevada-lawsuit-colorado-river",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-24T16:12:40.000Z"
+			"publishedAt": "2026-08-24T18:45:12.000Z"
 		},
 		{
 			"headline": "Three rescued belugas arrive at SeaWorld San Diego after 2,500-mile journey from Canada",
@@ -86,40 +74,10 @@
 			"publishedAt": "2026-08-23T16:30:58.000Z"
 		},
 		{
-			"headline": "Highway 1 and Big Sur businesses reopen, but Timber fire still burns",
-			"url": "https://www.latimes.com/california/story/2026-08-22/pacific-coast-highway-reopens-big-sur-timber-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-22T22:34:53.000Z"
-		},
-		{
-			"headline": "Mountain lions stall plan to build 400 residences on Woodland Hills golf course",
-			"url": "https://www.latimes.com/california/story/2026-08-22/mountain-lions-stall-stall-woodland-hills-golf-course-housing-project",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-22T20:35:59.000Z"
-		},
-		{
-			"headline": "NASA's nuclear Dragonfly copter to search for signs of life on Titan: 'A lot's riding on it'",
-			"url": "https://www.latimes.com/science/story/2026-08-22/nasa-dragonfly-drone-spacecraft-takes-shape",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-22T10:00:00.000Z"
-		},
-		{
-			"headline": "Fishing for solutions",
-			"url": "https://www.mbari.org/news/fishing-for-solutions/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-22T01:00:31.000Z"
-		},
-		{
 			"headline": "A promising new weight loss and diabetes treatment helps burn fat while keeping muscle",
 			"url": "https://news.berkeley.edu/2026/08/21/a-promising-new-weight-loss-and-diabetes-treatment-helps-burn-fat-while-keeping-muscle/",
 			"source": "UC Berkeley News",
 			"publishedAt": "2026-08-21T18:11:44.000Z"
-		},
-		{
-			"headline": "Berkeley Talks: Leaping robots, AI companies and a NASA mission: Stories of Berkeley student innovation",
-			"url": "https://news.berkeley.edu/2026/08/21/berkeley-talks-pieter-abbeel/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-21T16:59:17.000Z"
 		},
 		{
 			"headline": "As California embraces universal transitional kindergarten, the state's other child-care workers are struggling",
@@ -150,6 +108,48 @@
 			"url": "https://www.latimes.com/california/story/2026-08-20/la-resident-dies-west-nile-virus-california-cases-hit-5-year-high-climate-change",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-21T02:27:25.000Z"
+		},
+		{
+			"headline": "Why California Can't Tell You Where It's Unsafe to Swim",
+			"url": "https://baynature.org/2026/08/20/science-nature/water/why-california-cant-tell-you-where-its-unsafe-to-swim/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-20T22:08:18.000Z"
+		},
+		{
+			"headline": "Watch: Decode the chatter of birds with a Berkeley neuroscientist",
+			"url": "https://news.berkeley.edu/2026/08/20/watch-decode-the-chatter-of-birds-with-a-berkeley-neuroscientist/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-20T17:00:12.000Z"
+		},
+		{
+			"headline": "Key takeaways from investigation into Edison's role in the deadly Eaton fire",
+			"url": "https://www.latimes.com/business/story/2026-08-20/key-takeaways-from-investigation-into-edisons-role-in-eaton-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-20T10:00:00.000Z"
+		},
+		{
+			"headline": "Amid controversy, California officials release long-awaited Delta water plan",
+			"url": "https://www.latimes.com/environment/story/2026-08-19/california-delta-plan",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-19T23:06:52.000Z"
+		},
+		{
+			"headline": "An expedition many years in the making",
+			"url": "https://www.mbari.org/news/an-expedition-many-years-in-the-making/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-19T22:00:40.000Z"
+		},
+		{
+			"headline": "State approves 'Zone Zero' fire-safe landscaping rules, reshaping yards for millions of Californians",
+			"url": "https://www.latimes.com/environment/story/2026-08-19/state-approves-zone-zero-fire-safe-landscaping-rules",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-19T20:13:51.000Z"
+		},
+		{
+			"headline": "UC Berkeley computer scientist on the promise and perils of agentic AI",
+			"url": "https://news.berkeley.edu/2026/08/19/uc-berkeley-computer-scientist-on-the-promise-and-perils-of-agentic-ai/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-19T19:36:49.000Z"
 		}
 	]
 }
