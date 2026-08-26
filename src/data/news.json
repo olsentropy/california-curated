@@ -1,6 +1,30 @@
 {
-	"lastUpdated": "2026-08-26T16:39:40.644Z",
+	"lastUpdated": "2026-08-26T22:32:30.932Z",
 	"items": [
+		{
+			"headline": "Big oil and gas companies are partly responsible for California's water woes, study finds",
+			"url": "https://www.latimes.com/environment/story/2026-08-26/climate-change-water-scarcity",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-26T21:22:03.000Z"
+		},
+		{
+			"headline": "Southern California has front-row seat for partial 'blood moon' eclipse: When to get the best view",
+			"url": "https://www.latimes.com/california/story/2026-08-26/how-to-see-partial-blood-moon-eclipse-in-southern-california",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-26T18:04:08.000Z"
+		},
+		{
+			"headline": "Clues to longevity may reside in the genomes of long-lived bats",
+			"url": "https://news.berkeley.edu/2026/08/26/clues-to-longevity-may-reside-in-the-genomes-of-long-lived-bats/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-26T17:59:21.000Z"
+		},
+		{
+			"headline": "Southern California's scorching heat wave peaks: Here's how hot it will get and when it will end",
+			"url": "https://www.latimes.com/california/story/2026-08-26/southern-california-heat-wave-peaks-how-hot-will-it-get-when-will-it-end",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-26T17:45:44.000Z"
+		},
 		{
 			"headline": "Thermal Anomaly Discovered Below Mars's South Pole",
 			"url": "https://www.caltech.edu/about/news/thermal-anomaly-discovered-below-marss-south-pole",
@@ -14,16 +38,40 @@
 			"publishedAt": "2026-08-26T13:00:00.000Z"
 		},
 		{
+			"headline": "Last-Minute California Forever Shipyard Bill Gets Kicked to 2027",
+			"url": "https://baynature.org/2026/08/25/conservation/policy/another-last-minute-california-forever-shipyard-bill-goes-to-solano-supervisors/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-25T17:21:50.000Z"
+		},
+		{
+			"headline": "Novel Molecular Shuttle Could Deliver Targeted, Diverse Therapies to the Brain",
+			"url": "https://www.caltech.edu/about/news/novel-molecular-shuttle-could-deliver-targeted-diverse-therapies-to-the-brain",
+			"source": "Caltech",
+			"publishedAt": "2026-08-26T09:55:00.000Z"
+		},
+		{
 			"headline": "Reno became an affordable, booming destination. Fires show the limits of all that growth",
 			"url": "https://www.latimes.com/california/story/2026-08-26/la-me-reno-hawk-fire-wildfire-wildlife-urban-interface",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-26T10:00:00.000Z"
 		},
 		{
-			"headline": "Another Last-Minute California Forever Shipyard Bill Goes to Solano Supervisors",
-			"url": "https://baynature.org/2026/08/25/conservation/policy/another-last-minute-california-forever-shipyard-bill-goes-to-solano-supervisors/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-25T17:21:50.000Z"
+			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
+			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-24T22:30:08.000Z"
+		},
+		{
+			"headline": "UC Berkeley announces new professional graduate degree in AI and machine learning",
+			"url": "https://cdss.berkeley.edu/news/uc-berkeley-announces-new-professional-graduate-degree-ai-and-machine-learning",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-24T18:45:12.000Z"
+		},
+		{
+			"headline": "Chemical Physicists Quantitatively Model Electron Interactions in Real Quantum Materials",
+			"url": "https://www.caltech.edu/about/news/chemical-physicists-quantitatively-model-electron-interactions-in-real-quantum-materials",
+			"source": "Caltech",
+			"publishedAt": "2026-08-24T18:29:00.000Z"
 		},
 		{
 			"headline": "NASA Selects Caltech to Operate the Orbiting Carbon Observatories",
@@ -36,18 +84,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-24/nevada-lawsuit-colorado-river",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-24T16:12:40.000Z"
-		},
-		{
-			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
-			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-24T22:30:08.000Z"
-		},
-		{
-			"headline": "Why this summer's L.A. heat waves feel so miserable: Hotter nights, broiling beaches",
-			"url": "https://www.latimes.com/california/story/2026-08-24/why-this-summers-socal-heat-waves-feel-so-bad-hotter-nights-broiling-beaches",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-24T22:23:59.000Z"
 		},
 		{
 			"headline": "Three rescued belugas arrive at SeaWorld San Diego after 2,500-mile journey from Canada",
@@ -78,24 +114,6 @@
 			"url": "https://www.latimes.com/california/story/2026-08-23/hawk-fire-burns-over-10-000-acres-near-reno-prompting-evacuations",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-23T16:30:58.000Z"
-		},
-		{
-			"headline": "Mountain lions stall plan to build 400 residences on Woodland Hills golf course",
-			"url": "https://www.latimes.com/california/story/2026-08-22/mountain-lions-stall-stall-woodland-hills-golf-course-housing-project",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-22T20:35:59.000Z"
-		},
-		{
-			"headline": "Highway 1 and Big Sur businesses reopen, but Timber fire still burns",
-			"url": "https://www.latimes.com/california/story/2026-08-22/pacific-coast-highway-reopens-big-sur-timber-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-22T22:34:53.000Z"
-		},
-		{
-			"headline": "Fishing for solutions",
-			"url": "https://www.mbari.org/news/fishing-for-solutions/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-22T01:00:31.000Z"
 		},
 		{
 			"headline": "A promising new weight loss and diabetes treatment helps burn fat while keeping muscle",
@@ -132,24 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-08-20/la-resident-dies-west-nile-virus-california-cases-hit-5-year-high-climate-change",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-21T02:27:25.000Z"
-		},
-		{
-			"headline": "Why California Can't Tell You Where It's Unsafe to Swim",
-			"url": "https://baynature.org/2026/08/20/science-nature/water/why-california-cant-tell-you-where-its-unsafe-to-swim/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-20T22:08:18.000Z"
-		},
-		{
-			"headline": "Watch: Decode the chatter of birds with a Berkeley neuroscientist",
-			"url": "https://news.berkeley.edu/2026/08/20/watch-decode-the-chatter-of-birds-with-a-berkeley-neuroscientist/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-20T17:00:12.000Z"
-		},
-		{
-			"headline": "Carson reaches $370-million settlement with Marathon Petroleum, resolving tax dispute",
-			"url": "https://www.latimes.com/environment/story/2026-08-20/carson-reaches-370-million-settlement-with-marathon-petroleum",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-20T17:00:00.000Z"
 		}
 	]
 }
