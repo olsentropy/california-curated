@@ -75,7 +75,7 @@ That could help scientists understand how nervous systems work and potentially i
 
 The best-known example is [ziconotide, sold as Prialt](https://en.wikipedia.org/wiki/ziconotide), a powerful non-opioid pain medication based on a toxin produced by the Magician’s cone snail (_Conus magus_). It remains the only cone-snail-derived peptide approved as a drug, but researchers continue to investigate others for possible applications involving pain, epilepsy, and neurological disease.
 
-[![](https://substackcdn.com/image/fetch/$s_!3Gcf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fe258bb-494a-45b3-9b85-50af3d09f42a_2000x1125.jpeg)](https://substackcdn.com/image/fetch/$s_!3Gcf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fe258bb-494a-45b3-9b85-50af3d09f42a_2000x1125.jpeg)
+[![](/wp-content/uploads/cms/cosman%20collection%20shell%20schulz.jpg)](https://substackcdn.com/image/fetch/$s_!3Gcf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fe258bb-494a-45b3-9b85-50af3d09f42a_2000x1125.jpeg)
 
 _Occidental College biology professor Joseph R. Schulz displays one of the cone snail shells housed in the Cosman Shell Collection. Schulz studies how these venomous marine predators capture their prey and how their toxins act on the nervous system. (Photo: Erik Olsen)_
 
@@ -85,15 +85,15 @@ In his laboratory, an aquarium holds a living [Conus catus, or cat cone](https:/
 
 From a small table, Schulz picked up the shell of a [geography cone, _Conus geographus_](https://en.wikipedia.org/wiki/Conus_geographus). It’s a genuine work of art, resembling an ancient map (hence, its name), or like mountains in a Chinese scroll, as Schulz himself describes it. It also happens to be the deadliest cone snail in the world. With a tiny barbed spear that it can fire at prey or unsuspecting humans, it delivers a potentially fatal dose of venom that will make you stop breathing within minutes. Kids: don’t mess around with cone snails.
 
-[![](https://substackcdn.com/image/fetch/$s_!5sWg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F075d9f23-b8c8-4829-bd9a-51497f149682_2000x1125.jpeg)](https://substackcdn.com/image/fetch/$s_!5sWg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F075d9f23-b8c8-4829-bd9a-51497f149682_2000x1125.jpeg)
+[![](/wp-content/uploads/cms/cosman%20collection%20shell%207.jpg)](https://substackcdn.com/image/fetch/$s_!5sWg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F075d9f23-b8c8-4829-bd9a-51497f149682_2000x1125.jpeg)
 
 Cone snails attack with a hollow, barbed tooth that functions like a microscopic hypodermic needle. Schulz helped discover exactly how the weapon works. Using high-speed video and microscopic examination, he and his collaborators found that the snail hydraulically propels the spear through the tip of its proboscis. Pressure builds behind it until it shoots forward at insane speed.
 
 In the fish-hunting species _Conus catus_, the strike takes less than 100 microseconds. Its peak acceleration [exceeds 280,000 meters](https://www.sciencedirect.com/science/article/pii/S0960982219308796) per second squared, similar to a fired bullet, making it the fastest movement measured in a mollusk by roughly an order of magnitude.
 
-[![](https://substackcdn.com/image/fetch/$s_!UBuV!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55eb4f73-ba4d-49a1-a3e8-b1377914119d_2000x1125.jpeg)](https://substackcdn.com/image/fetch/$s_!UBuV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55eb4f73-ba4d-49a1-a3e8-b1377914119d_2000x1125.jpeg)
+[![](/wp-content/uploads/cms/cosman%20collection%20shell%208.jpg)](https://substackcdn.com/image/fetch/$s_!UBuV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F55eb4f73-ba4d-49a1-a3e8-b1377914119d_2000x1125.jpeg)
 
-Textile cone shells, _Conus textile_, display the intricate geometric patterns that give the species its name. The living snails are venomous predators that hunt other mollusks. (Photo: Erik Olsen)
+_Textile cone shells, Conus textile, display the intricate geometric patterns that give the species its name. The living snails are venomous predators that hunt other mollusks. (Photo: Erik Olsen)_
 
 That speed solves an obvious evolutionary quandary: A snail is slow. A fish is fast. To catch one, the snail’s weapon must strike before the fish has time to escape. Evolution never ceases to amaze.
 
