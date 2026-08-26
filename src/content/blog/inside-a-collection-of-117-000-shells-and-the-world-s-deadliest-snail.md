@@ -31,23 +31,23 @@ When Cosman died in 2012 at the age of 95, his family wanted the collection to r
 
 [![](/wp-content/uploads/cms/UPSCALE-dieter%20cosman.jpg)](https://substackcdn.com/image/fetch/$s_!8Leg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe428252e-5013-4077-bb31-431be8d74439_1340x1303.jpeg)
 
-Dieter Cosman. (Photo courtesy of the Cosman family/Occidental College)
+_Dieter Cosman. (Photo courtesy of the Cosman family/Occidental College)_
 
 Occidental is a small liberal arts college set among the hills of Eagle Rock in northeast Los Angeles. It is not widely known outside California, although [Barack Obama attended for two years](https://www.oxy.edu/news/occidental-obama-and-road-public-service), from 1979 to 1981, before transferring to Columbia University. The college also has some remarkable scientific departments, particularly in biology, marine science, and natural-history research.
 
 The Cosman collection is not really presented like a museum exhibit (although there is also a small display of some extraordinary-looking shells in the lobby). You enter through the door, and there are tall shelves of shells of various shapes and sizes. This is a bit of an understatement. Some of the shells are really weird. And although it is an official scientific collection, the place is still kind of a working archive. Open one of the vintage slide-out scientific cabinets, and you find drawer after drawer of shells in plastic bags and small containers, many accompanied by Cosman’s original labels. Cosman was analogue.
 
-[![](https://substackcdn.com/image/fetch/$s_!QOKg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3b762ef-0cb1-45b5-aff8-e7d28bddfd77_2000x1125.jpeg)](https://substackcdn.com/image/fetch/$s_!QOKg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3b762ef-0cb1-45b5-aff8-e7d28bddfd77_2000x1125.jpeg)
+[![](/wp-content/uploads/cms/cosman%20collection%20shell%202.jpg)](https://substackcdn.com/image/fetch/$s_!QOKg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb3b762ef-0cb1-45b5-aff8-e7d28bddfd77_2000x1125.jpeg)
 
-A spiny oyster shell from the genus _Spondylus_, one of nearly 117,000 specimens in Occidental College’s Cosman Shell Collection. (Photo: Erik Olsen)
+_A spiny oyster shell from the genus Spondylus, one of nearly 117,000 specimens in Occidental College’s Cosman Shell Collection. (Photo: Erik Olsen)_
 
 “In fact, the entire catalog came on a series of very large Rolodexes,” Schultz told me.
 
 Some shells are large and spectacular. Others are so small you can only see them under a dissecting microscope. Cosman became increasingly interested in these so-called [micromollusks](https://en.wikipedia.org/wiki/Micromollusc) later in life, apparently fascinated by their diversity. He dredged sand from the seafloor and searched through it for shells no larger than a grain of sand.
 
-[![](https://substackcdn.com/image/fetch/$s_!grWQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe093204-470a-4ff9-8bc5-c58990dcac3c_2000x1125.jpeg)](https://substackcdn.com/image/fetch/$s_!grWQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe093204-470a-4ff9-8bc5-c58990dcac3c_2000x1125.jpeg)
+[![](/wp-content/uploads/cms/cosman%20collection%20shell%209.jpg)](https://substackcdn.com/image/fetch/$s_!grWQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe093204-470a-4ff9-8bc5-c58990dcac3c_2000x1125.jpeg)
 
-Joseph Schulz holds the shell of a geography cone, _Conus geographus_, considered the deadliest cone snail in the world. Its living animal can deliver a potentially fatal dose of venom through a tiny, barbed tooth. (Photo: Erik Olsen)
+_Joseph Schulz holds the shell of a geography cone, Conus geographus, considered the deadliest cone snail in the world. Its living animal can deliver a potentially fatal dose of venom through a tiny, barbed tooth. (Photo: Erik Olsen)_
 
 There are shells everywhere. Large, creamy-looking conches and spiny oysters sit on shelves. The latter resemble tiny explosions of calcium carbonate, the mineral from which shells are largely made. Other specimens are scattered around Schulz’s office, alongside books, scientific equipment, and sitting in tiny specimen bags.
 
@@ -55,9 +55,9 @@ The real value of the collection is not simply the shells. It is the information
 
 “In addition to the specimens in the collection, we have a lot of detailed information about where and when the specimens were collected,” says Schulz. “That gives us a very detailed view of how these animals live and where they live on the planet.”
 
-[![](https://substackcdn.com/image/fetch/$s_!4ToT!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9b10a8c-eb92-41c3-a7b3-2e7318ca8350_2000x1125.jpeg)](https://substackcdn.com/image/fetch/$s_!4ToT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9b10a8c-eb92-41c3-a7b3-2e7318ca8350_2000x1125.jpeg)
+[![](/wp-content/uploads/cms/cosman%20collection%20shell%204.jpg)](https://substackcdn.com/image/fetch/$s_!4ToT!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb9b10a8c-eb92-41c3-a7b3-2e7318ca8350_2000x1125.jpeg)
 
-A large helmet shell in the Cosman Collection, still accompanied by Dieter Cosman’s handwritten collecting label. Such records preserve where and when specimens were found, turning individual shells into valuable scientific data. (Photo: Erik Olsen)
+_A large helmet shell in the Cosman Collection, still accompanied by Dieter Cosman’s handwritten collecting label. Such records preserve where and when specimens were found, turning individual shells into valuable scientific data. (Photo: Erik Olsen)_
 
 Because he returned to some locations repeatedly, the collection contains snapshots of marine communities taken years or even decades apart. Researchers can return to those places and ask whether the same species still live there, whether their shells have changed, or whether warming, pollution, fishing, and development have altered the ecosystem.
 
@@ -67,9 +67,9 @@ Cosman generally cleaned them by hand instead of bleaching them. As a result, so
 
 “We’ve been able to isolate DNA from specimens in the Cosman Shell Collection, and obtain novel neurotoxin-encoding sequences, synthesize those novel neurotoxins and test them in the lab on neurons,” Schulz says.
 
-[![](https://substackcdn.com/image/fetch/$s_!zDA9!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc228d3a4-bae4-4b91-ba1b-2a5bfde247d4_2000x1125.jpeg)](https://substackcdn.com/image/fetch/$s_!zDA9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc228d3a4-bae4-4b91-ba1b-2a5bfde247d4_2000x1125.jpeg)
+[![](/wp-content/uploads/cms/cosman%20collection%20shell%206.jpg)](https://substackcdn.com/image/fetch/$s_!zDA9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc228d3a4-bae4-4b91-ba1b-2a5bfde247d4_2000x1125.jpeg)
 
-A living _Conus catus_, or cat cone, in Joseph Schulz’s laboratory at Occidental College. This fish-hunting cone snail strikes its prey with a hollow, venom-delivering tooth. (Photo: Erik Olsen)
+_A living Conus catus, or cat cone, in Joseph Schulz’s laboratory at Occidental College. This fish-hunting cone snail strikes its prey with a hollow, venom-delivering tooth. (Photo: Erik Olsen)_
 
 That could help scientists understand how nervous systems work and potentially identify compounds with medical uses. Such compounds can become valuable tools for understanding the nervous system and, in rare cases, lead to new medicines.
 
@@ -77,7 +77,7 @@ The best-known example is [ziconotide, sold as Prialt](https://en.wikipedia.org/
 
 [![](https://substackcdn.com/image/fetch/$s_!3Gcf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fe258bb-494a-45b3-9b85-50af3d09f42a_2000x1125.jpeg)](https://substackcdn.com/image/fetch/$s_!3Gcf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9fe258bb-494a-45b3-9b85-50af3d09f42a_2000x1125.jpeg)
 
-Occidental College biology professor Joseph R. Schulz displays one of the cone snail shells housed in the Cosman Shell Collection. Schulz studies how these venomous marine predators capture their prey and how their toxins act on the nervous system. (Photo: Erik Olsen)
+_Occidental College biology professor Joseph R. Schulz displays one of the cone snail shells housed in the Cosman Shell Collection. Schulz studies how these venomous marine predators capture their prey and how their toxins act on the nervous system. (Photo: Erik Olsen)_
 
 This brings the collection directly into Schulz’s own research.
 
