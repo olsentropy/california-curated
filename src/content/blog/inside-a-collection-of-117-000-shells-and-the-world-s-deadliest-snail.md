@@ -14,7 +14,7 @@ tags:
   - occidental college
   - sea shells
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 Behind a nondescript door in the Bioscience Building at [Occidental College](https://www.oxy.edu/) is one of the more remarkable scientific collections in Los Angeles. The room, tucked beside the laboratory of biology professor [Joseph Schulz](https://www.oxy.edu/academics/faculty/joseph-schulz), contains cabinet after cabinet filled with seashells. Schulz is the curator of the collection. There are nearly 117,000 specimens in all, collected from the Caribbean, Hawaii, the Gulf of Mexico, the Indo-Pacific and other waters around the world.
