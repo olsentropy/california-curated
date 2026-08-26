@@ -17,11 +17,13 @@ author: Erik Olsen
 draft: false
 ---
 
-Behind a nondescript door in the Bioscience Building at [Occidental College](https://www.oxy.edu/) is one of the more remarkable scientific collections in Los Angeles. The room, tucked beside the laboratory of biology professor [Joseph Schulz](https://www.oxy.edu/academics/faculty/joseph-schulz), contains cabinet after cabinet filled with seashells. Schulz is the curator of the collection. There are nearly 117,000 specimens in all, collected from the Caribbean, Hawaii, the Gulf of Mexico, the Indo-Pacific and other waters around the world.
+Behind a nondescript door in the Bioscience Building at [Occidental College](https://www.oxy.edu/) is one of the more remarkable scientific collections in Los Angeles. The room, tucked beside the laboratory of biology professor [Joseph Schulz](https://www.oxy.edu/academics/faculty/joseph-schulz), contains cabinet after cabinet filled with seashells. Schulz is the curator of the collection. There are nearly 117,000 specimens in all, collected from the Caribbean, Hawaii, the Gulf of Mexico, the Indo-Pacific, and other waters around the world.
 
 I first became intrigued by the Cosman Collection several years ago, after reading about it online, and reached out to Schultz to see if we could arrange a visit. He graciously offered up a date, and so last week I was joined by my California Curated colleague Tod Mesirow and my son Finn. I came away impressed not only by the astonishing variety of shells in the collection, but also by the fascinating research Schulz and his students are conducting in the lab next door.
 
 [![](/wp-content/uploads/cms/cosman%20collection%20shell%20sign.jpg)](https://substackcdn.com/image/fetch/$s_!3AIR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22478ba2-e490-4df4-b699-bd6074fe1053_2000x1125.jpeg)
+
+_The Cosman Shell Collection is in the biosciences building of Occidental College. (Photo: Erik Olsen)_
 
 The collection was assembled by [Dieter Cosman](https://www.sun-sentinel.com/obituaries/dieter-cosman-fl/), a Swiss-born businessman who spent nearly 50 years diving, dredging and searching the seafloor, sometimes even in a submersible, looking for rare and unusual seashells. Cosman was not a professional scientist. He ran a Florida yacht business. But he approached shell collecting with unusual discipline and tenacity, recording where, when, and sometimes at what depth each specimen was found. That information can be of immense benefit to scientists trying to understand how the world is changing.
 
