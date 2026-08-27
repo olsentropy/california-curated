@@ -17,7 +17,7 @@ tags:
   - clair-patterson
   - earth
 author: Erik Olsen
-draft: true
+draft: false
 wpId: 940
 wpSlug: the-little-known-california-scientist-who-may-have-saved-millions-of-lives
 ---
