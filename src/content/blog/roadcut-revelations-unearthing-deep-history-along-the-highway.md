@@ -20,7 +20,7 @@ tags:
   - roadcuts
   - sierra-nevada
 author: Erik Olsen
-draft: true
+draft: false
 wpId: 2753
 wpSlug: roadcut-revelations-unearthing-deep-history-along-the-highway
 ---
