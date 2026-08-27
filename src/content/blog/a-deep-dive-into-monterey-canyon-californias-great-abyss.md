@@ -20,7 +20,7 @@ tags:
   - ocean-science
   - pacific-ocean
 author: Erik Olsen
-draft: true
+draft: false
 wpId: 2470
 wpSlug: a-deep-dive-into-monterey-canyon-californias-great-abyss
 ---
