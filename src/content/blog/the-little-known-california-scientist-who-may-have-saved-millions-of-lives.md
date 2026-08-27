@@ -17,6 +17,7 @@ tags:
   - clair-patterson
   - earth
 author: Erik Olsen
+draft: true
 wpId: 940
 wpSlug: the-little-known-california-scientist-who-may-have-saved-millions-of-lives
 ---
@@ -100,7 +101,7 @@ Years would pass with more hearings, more experiments, and the question of wheth
 
 The Clean Air Act of 1970 initiated the development of national air-quality standards, including emission controls on cars. 
 
-![Drone shot of rush-hour traffic over Los Angeles. Credit: Erik Olsen](http://californiacurated.com/wp-content/uploads/2019/11/0ede1-drone-shot-la.jpg)Drone over Los Angeles. (Credit: Erik Olsen)
+![Drone shot of rush-hour traffic over Los Angeles. Credit: Erik Olsen](http://californiacurated.com/wp-content/uploads/2019/11/0ede1-drone-shot-la.jpg)_Drone over Los Angeles. (Credit: Erik Olsen)_
 
 In 1976, the EPA's new rules went into effect and the results were almost immediate: environmental lead plummeted. The numbers continued to plummet as lead was further banned as a gasoline additive and from other products like canned seafood (lead was used as a sealant). Amazingly, there was still tremendous denial within American industry. 
 
