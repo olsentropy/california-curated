@@ -1,21 +1,28 @@
 ---
-title: "Maybe You’ve heard of Josiah Whitney, Mt. Whitney’s Namesake"
-description: "Mount Whitney, the highest mountain in the contiguous United States, is one of the great peaks in California. A wildly popular destination for…"
+title: Maybe You’ve heard of Josiah Whitney, Mt. Whitney’s Namesake
+description: Mount Whitney, the highest mountain in the contiguous United States, is one of the great peaks in California. A wildly popular destination for…
 pubDate: 2023-04-24
-heroImage: "https://californiacurated.com/wp-content/uploads/2023/03/ross-stone-wh3wux0h6aq-unsplash.jpg"
-wpId: 1888
-wpSlug: "the-man-for-whom-mt-whitney-was-named"
-categories: ["geology-and-earthquakes", "history-of-science", "people", "places"]
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2023/03/ross-stone-wh3wux0h6aq-unsplash.jpg
+categories:
+  - geology-and-earthquakes
+  - history-of-science
+  - people
+  - places
 tags: []
-author: "Erik Olsen"
+author: Erik Olsen
+draft: true
+wpId: 1888
+wpSlug: the-man-for-whom-mt-whitney-was-named
 ---
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
 Mount Whitney, the highest mountain in the contiguous United States, is one of the great peaks in California. A wildly popular destination for hikers, climbers, and backpackers, Whitney is located in [Inyo National Forest](<https://www.fs.usda.gov/inyo>) and [Sequoia National Park](<https://www.nps.gov/seki/>), California. 
 
 But how did Mt. Whitney get its name? 
+
+[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20SIERRA%20copy.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 “The culminating peak of the Sierra” was identified in 1864 by a team from the California Geological Survey and named Mount Whitney in honor of the team’s leader, State Geologist Josiah Whitney. During that same expedition, survey member Clarence King made two attempts to reach the summit but did not succeed.
 
