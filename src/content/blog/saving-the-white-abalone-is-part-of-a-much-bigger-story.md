@@ -1,17 +1,27 @@
 ---
-title: "Saving California’s White Abalone is Part of a Much Bigger Story"
-description: "The current effort to bring back the white abalone is one of numerous projects underway in California to revive the state’s once-thriving marine environment."
+title: Saving California’s White Abalone is Part of a Much Bigger Story
+description: The current effort to bring back the white abalone is one of numerous projects underway in California to revive the state’s once-thriving marine environment.
 pubDate: 2024-08-21
-heroImage: "https://californiacurated.com/wp-content/uploads/2019/11/white-abalone-2.png"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2019/11/white-abalone-2.png
+categories:
+  - animals
+  - biology
+  - climate-change
+  - marine-science
+tags:
+  - abalone
+  - marine-protected-areas
+  - mpa
+  - noaa
+  - white-abalone
+author: Erik Olsen
+draft: true
 wpId: 1106
-wpSlug: "saving-the-white-abalone-is-part-of-a-much-bigger-story"
-categories: ["animals", "biology", "climate-change", "marine-science"]
-tags: ["abalone", "marine-protected-areas", "mpa", "noaa", "white-abalone"]
-author: "Erik Olsen"
+wpSlug: saving-the-white-abalone-is-part-of-a-much-bigger-story
 ---
 
 ### **The current effort to bring back the white abalone is one of numerous projects underway in California to revive the state's once-thriving marine environment.**
-
 
 If you grew up in Southern California in the 1970s, there were a few things that defined California: surfing, skateboarding, the Eagles (preferably on the radio while driving down [the Pacific Coast Highway](<https://en.wikipedia.org/wiki/California_State_Route_1>)) and abalone. 
 
@@ -31,8 +41,7 @@ It is estimated that around [1,600 individuals remain](<https://biodiversityla.o
 
 California is home to seven species of abalone (red, pink, black, green, white, pinto, and flat), none of them are plentiful any longer in California waters, but it is the white abalone, in particular, that became the most prized for its tender, flavorful flesh. We loved white abalone. And then they were gone. 
 
-
-*White abalone. Credit: NOAA*
+_White abalone. Credit: NOAA_
 
 Despite a fishing ban for over two decades, wild populations of white abalone have not shown signs of recovery. Abalone reproduce through broadcast spawning, where they release their gametes into the water. This method requires a certain population density to be effective, but current wild populations of white abalone are too sparse for successful natural reproduction.
 
@@ -56,7 +65,7 @@ The program's ongoing efforts include monitoring environmental conditions that a
 
 Abalone are far more valuable than merely as a food item. They are keepers of the kelp forest. According to scientists, the abalone eat kelp, but they also clear rocks of any dominant species and thus increase kelp diversity so that multiple kelp species can flourish. When the kelp is healthy and diverse, coastal waters see an explosion of diversity in fish and other animals that depend on kelp forest habitat.  
 
-![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)
+[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20SIERRA%20copy.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 While the success of the abalone recovery program hangs in the balance, its mere existence needs to be recognized as part of a much larger tapestry of species and ecosystem recovery projects currently underway that are aimed at restoring California's coastal ecosystem to some semblance of what it was centuries ago. 
 
@@ -68,7 +77,7 @@ Some of the projects underway include bringing back [white sea bass](<https://ww
 
 Alone, each of these efforts is a small step in the right direction in making our seas healthy and fruitful. Together, they represent the most significant set of achievements to reverse the impact of human settlement on the ocean environment in the history of the world. Of course, we are nowhere near done, and the growing (and terrifying) threats from climate change could render all of this moot. Warming seas, the spread of new diseases (and old ones), acidification, all these things together could unravel these accomplishments in mere decades. 
 
-There are still many challenges ahead. [Recent kelp die-offs](<https://www.sciencedaily.com/releases/2019/10/191021082738.htm>) in Northern California due to the explosion in purple urchin populations are extremely worrisome. Phenomena like sea star wasting disease and [the marine heatwave](<https://en.wikipedia.org/wiki/The_Blob_\(Pacific_Ocean\)>) of 2013-2015 may have wrought permanent change to our marine ecosystem. But the fact that we are now acting so aggressively to apply science and ingenuity to solve the myriad problems we ourselves caused should give us some hope that positive change is possible. 
+There are still many challenges ahead. [Recent kelp die-offs](<https://www.sciencedaily.com/releases/2019/10/191021082738.htm>) in Northern California due to the explosion in purple urchin populations are extremely worrisome. Phenomena like sea star wasting disease and [the marine heatwave](<https://en.wikipedia.org/wiki/The_Blob_(Pacific_Ocean)>) of 2013-2015 may have wrought permanent change to our marine ecosystem. But the fact that we are now acting so aggressively to apply science and ingenuity to solve the myriad problems we ourselves caused should give us some hope that positive change is possible. 
 
 There is no time for rest. If anything now is the time to redouble our efforts to make our oceans cleaner, to help species recover and to restore the lost balance so that future generations can experience the incredible beauty and bounty of the sea. 
 
