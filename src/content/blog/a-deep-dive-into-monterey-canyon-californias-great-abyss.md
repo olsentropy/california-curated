@@ -20,6 +20,7 @@ tags:
   - ocean-science
   - pacific-ocean
 author: Erik Olsen
+draft: true
 wpId: 2470
 wpSlug: a-deep-dive-into-monterey-canyon-californias-great-abyss
 ---
@@ -37,7 +38,7 @@ _(Courtesy: Monterey Bay Aquarium Research Institute MBARI)_
 
 Monterey Canyon’s immense scale is the result of millions of years of underwater erosion. Powerful turbidity currents, dense flows of sand and sediment racing down the continental slope, have slowly carved the canyon and carried its debris far into the deep Pacific. One prevailing theory how it formed is that the canyon [began as a river channel](<https://www.mbari.org/wp-content/uploads/2016/01/05_canyondynamics.pdf>) carved by the ancestral [Salinas River](<https://en.wikipedia.org/wiki/Salinas_River_(California)>), which carried sediments from the ancient Sierra Nevada to the ocean. As sea levels fluctuated during ice ages, the river extended further offshore, deepening the canyon through erosion. Another idea points to tectonic activity along the Pacific Plate as an important influence. Movement along nearby faults helped shape the seafloor and surrounding landscape, while gradual sinking of the continental shelf allowed sediment to collect and periodically cascade down the canyon into deeper water. These forces, combined with powerful [turbidity currents](<https://oceanservice.noaa.gov/facts/turbidity.html>), underwater landslides of sediment-laden water, worked in tandem to sculpt the dramatic contours we see today.
 
-[![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
+[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20JOSHUA%20TREE.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 While the geology is awe-inspiring, the biology of Monterey Canyon makes it a living laboratory for scientists. The canyon is teeming with life, from surface waters to its darkest depths. Near the top, kelp forests and sandy seafloors support a wide variety of fish, crabs, and sea otters, while the midwater region, known as the "[twilight zone](<https://twilightzone.whoi.edu/>)," is home to bioluminescent organisms like [lanternfish](<https://en.wikipedia.org/wiki/Lanternfish>) and [vampire squid](<https://en.wikipedia.org/wiki/Vampire_squid>) that generate light for survival. [Lanternfish](<https://en.wikipedia.org/wiki/Lanternfish>) use bioluminescence to attract prey and confuse predators, while vampire squid use light-producing organs to startle potential predators or escape into the deep. In the canyon's deepest reaches, other bizarre creatures thrive in extreme temperature and pressure, including the gross-looking [Pacific hagfish](<https://www.montereybayaquarium.org/animals/animals-a-to-z/pacific-hagfish>) and the bizarre gulper eel. Some communities around cold seeps on the seafloor are sustained by chemical energy (chemosynthesis). Microbes feed on methane and other chemicals seeping from the sediments, supporting ecosystems of clams, bacterial mats, and, occasionally, tube worms.
 
