@@ -1,16 +1,54 @@
 ---
-title: "One Wilshire: Los Angeles’ Hidden Artery of the Internet"
-description: "One Wilshire in downtown Los Angeles. I often discover these stories not from full articles, books, or podcasts, but from a single…"
+title: 'One Wilshire: Los Angeles’ Hidden Artery of the Internet'
+description: One Wilshire in downtown Los Angeles. I often discover these stories not from full articles, books, or podcasts, but from a single…
 pubDate: 2025-10-17
-heroImage: "https://californiacurated.com/wp-content/uploads/2025/10/one-wilshire-top.jpg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2025/10/one-wilshire-top.jpg
+categories:
+  - cities
+  - places
+  - private-science
+tags:
+  - 60-hudson-street
+  - asia-data-link
+  - att
+  - california
+  - california-innovation
+  - california-technology
+  - carrier-hotel
+  - cloud-connectivity
+  - data-center
+  - data-fortress
+  - digital-gateway
+  - downtown-los-angeles
+  - environment
+  - fiber-optic-network
+  - gi-partners
+  - global-connectivity
+  - global-network-exchange
+  - internet-history
+  - internet-infrastructure
+  - internet-traffic
+  - los-angeles-internet-hub
+  - meet-me-room
+  - ntt-communications
+  - one-wilshire
+  - pacific-ocean-cables
+  - pacific-rim-communications
+  - peering-networks
+  - science
+  - skimore-owings-merrill
+  - telecom-carriers
+  - telecommunications-history
+  - trans-pacific-cables
+  - verizon
+  - west-coast-internet
+author: Erik Olsen
+draft: true
 wpId: 6601
-wpSlug: "one-wilshire-los-angeles-hidden-artery-of-the-internet"
-categories: ["cities", "places", "private-science"]
-tags: ["60-hudson-street", "asia-data-link", "att", "california", "california-innovation", "california-technology", "carrier-hotel", "cloud-connectivity", "data-center", "data-fortress", "digital-gateway", "downtown-los-angeles", "environment", "fiber-optic-network", "gi-partners", "global-connectivity", "global-network-exchange", "internet-history", "internet-infrastructure", "internet-traffic", "los-angeles-internet-hub", "meet-me-room", "ntt-communications", "one-wilshire", "pacific-ocean-cables", "pacific-rim-communications", "peering-networks", "science", "skimore-owings-merrill", "telecom-carriers", "telecommunications-history", "trans-pacific-cables", "verizon", "west-coast-internet"]
-author: "Erik Olsen"
-seoTitle: "One Wilshire: The Los Angeles Building That Routes the Internet"
+wpSlug: one-wilshire-los-angeles-hidden-artery-of-the-internet
+seoTitle: 'One Wilshire: The Los Angeles Building That Routes the Internet'
 ---
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
@@ -34,9 +72,9 @@ The process that takes place, known as [peering](<https://en.wikipedia.org/wiki/
 
 [![](/wp-content/uploads/cms/one-wilshire-los-angeles-hidden-artery-of-the-internet-img-1.jpg)](</wp-content/uploads/cms/one-wilshire-los-angeles-hidden-artery-of-the-internet-img-1.jpg>)One Wilshire in downtown Los Angeles (Photo:
 
-At its peak, One Wilshire carried an [estimated one-third](<https://fortune.com/2015/06/08/cloud-computing-buildings/>) of [all Internet traffic](<https://www.datacenterfrontier.com/cooling/article/11429180/a-new-horizon-at-one-wilshire?utm_source=chatgpt.com>) between North America and Asia. Undersea fiber-optic cables land in places like [Hermosa Beach](<https://www.submarinenetworks.com/en/stations/north-america/usa-west/hermosa-beach>) and the [Manchester/Point Arena](<https://www.theatlantic.com/technology/archive/2015/11/where-the-cloud-rises-from-the-sea/415236/>) station. From there, terrestrial [backhaul lines](<https://en.wikipedia.org/wiki/Backhaul_\(telecommunications\)>) carry the data inland directly into One Wilshire, where it may be exchanged or forwarded onto international routes like Tokyo, Singapore, Hong Kong, Sydney, etc. All in the matter of milliseconds. It’s amazing.
+At its peak, One Wilshire carried an [estimated one-third](<https://fortune.com/2015/06/08/cloud-computing-buildings/>) of [all Internet traffic](<https://www.datacenterfrontier.com/cooling/article/11429180/a-new-horizon-at-one-wilshire?utm_source=chatgpt.com>) between North America and Asia. Undersea fiber-optic cables land in places like [Hermosa Beach](<https://www.submarinenetworks.com/en/stations/north-america/usa-west/hermosa-beach>) and the [Manchester/Point Arena](<https://www.theatlantic.com/technology/archive/2015/11/where-the-cloud-rises-from-the-sea/415236/>) station. From there, terrestrial [backhaul lines](<https://en.wikipedia.org/wiki/Backhaul_(telecommunications)>) carry the data inland directly into One Wilshire, where it may be exchanged or forwarded onto international routes like Tokyo, Singapore, Hong Kong, Sydney, etc. All in the matter of milliseconds. It’s amazing.
 
-[![](/wp-content/uploads/cms/one-wilshire-los-angeles-hidden-artery-of-the-internet-img-2.jpg)](</wp-content/uploads/cms/one-wilshire-los-angeles-hidden-artery-of-the-internet-img-2.jpg>)
+[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20JOSHUA%20TREE.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 By the dot-com boom, One Wilshire was less interesting as a basic real estate play and far more valuable for its network density, which was still growing. A single rack of servers or cross-connect could rent for tens of thousands of dollars a month. As its power draw and cooling needs surged, engineers retrofitted entire floors with industrial-grade infrastructure to keep pace with the growth of the internet. Of course, investors took notice. In 2013, GI Partners [purchased the building for $437 million](<https://www.latimes.com/archives/la-xpm-2013-jul-17-la-fi-0718-property-report-20130718-story.html>), a record $660 per square foot, then the highest price ever paid for any office property in downtown Los Angeles. By then it wasn’t really an office building at all, but a data fortress housing the infrastructure of hundreds of companies connected by thousands of miles of fiber.
 
