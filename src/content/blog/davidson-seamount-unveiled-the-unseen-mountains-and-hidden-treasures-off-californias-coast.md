@@ -20,7 +20,7 @@ tags:
   - rov
   - seamounts
 author: Erik Olsen
-draft: true
+draft: false
 wpId: 2527
 wpSlug: davidson-seamount-unveiled-the-unseen-mountains-and-hidden-treasures-off-californias-coast
 ---
