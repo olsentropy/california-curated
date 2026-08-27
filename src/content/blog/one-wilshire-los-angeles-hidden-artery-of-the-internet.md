@@ -44,7 +44,7 @@ tags:
   - verizon
   - west-coast-internet
 author: Erik Olsen
-draft: true
+draft: false
 wpId: 6601
 wpSlug: one-wilshire-los-angeles-hidden-artery-of-the-internet
 seoTitle: 'One Wilshire: The Los Angeles Building That Routes the Internet'
