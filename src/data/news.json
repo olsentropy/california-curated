@@ -1,11 +1,53 @@
 {
-	"lastUpdated": "2026-08-27T05:10:40.291Z",
+	"lastUpdated": "2026-08-27T18:26:17.912Z",
 	"items": [
 		{
-			"headline": "Southern California has front-row seat for partial 'blood moon' eclipse: When to get the best view",
-			"url": "https://www.latimes.com/california/story/2026-08-26/how-to-see-partial-blood-moon-eclipse-in-southern-california",
+			"headline": "Select Sea Otters Are Snacking on Seabirds in Elkhorn Slough",
+			"url": "https://baynature.org/2026/08/27/science-nature/wildlife/select-sea-otters-are-snacking-on-seabirds-in-elkhorn-slough/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-27T13:00:00.000Z"
+		},
+		{
+			"headline": "Tons of planet-warming gases are bubbling up from reservoirs. California is going to keep track",
+			"url": "https://www.latimes.com/environment/story/2026-08-27/california-methane-reservoirs",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-26T18:04:08.000Z"
+			"publishedAt": "2026-08-27T10:00:00.000Z"
+		},
+		{
+			"headline": "Electric heavy-duty trucks will be able to run from Baja to Canada, West Coast leaders pledge",
+			"url": "https://www.latimes.com/environment/story/2026-08-27/electric-heavy-duty-trucks-will-be-able-to-run-from-baja-to-canada",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T10:00:00.000Z"
+		},
+		{
+			"headline": "This week's heat wave brought record-setting temperatures to SoCal. What comes next?",
+			"url": "https://www.latimes.com/california/story/2026-08-27/worst-of-record-smashing-socal-heat-wave-is-over-it-wont-feel-like-it",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T12:00:00.000Z"
+		},
+		{
+			"headline": "Rare bird draws flocks of Southern California birders to this Irvine marsh to get a glimpse",
+			"url": "https://www.latimes.com/california/story/2026-08-27/rare-bird-draws-flocks-of-southern-california-birders-to-this-irvine-marsh-to-get-glimpse",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T12:00:00.000Z"
+		},
+		{
+			"headline": "Thermal Anomaly Discovered Below Mars's South Pole",
+			"url": "https://www.caltech.edu/about/news/thermal-anomaly-discovered-below-marss-south-pole",
+			"source": "Caltech",
+			"publishedAt": "2026-08-26T15:03:23.892Z"
+		},
+		{
+			"headline": "From ghost stories to climate entrepreneurship, 9 fascinating new classes at UC Berkeley",
+			"url": "https://news.berkeley.edu/2026/08/26/from-ghost-stories-to-climate-entrepreneurship-9-fascinating-new-classes-at-uc-berkeley/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-26T22:23:16.000Z"
+		},
+		{
+			"headline": "Big oil and gas companies are partly responsible for California's water woes, study finds",
+			"url": "https://www.latimes.com/environment/story/2026-08-26/climate-change-water-scarcity",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-26T21:22:03.000Z"
 		},
 		{
 			"headline": "Clues to longevity may reside in the genomes of long-lived bats",
@@ -20,34 +62,16 @@
 			"publishedAt": "2026-08-26T17:45:44.000Z"
 		},
 		{
-			"headline": "Big oil and gas companies are partly responsible for California's water woes, study finds",
-			"url": "https://www.latimes.com/environment/story/2026-08-26/climate-change-water-scarcity",
+			"headline": "Southern California has front-row seat for partial 'blood moon' eclipse: When to get the best view",
+			"url": "https://www.latimes.com/california/story/2026-08-26/how-to-see-partial-blood-moon-eclipse-in-southern-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-26T21:22:03.000Z"
-		},
-		{
-			"headline": "From ghost stories to climate entrepreneurship, 9 fascinating new classes at UC Berkeley",
-			"url": "https://news.berkeley.edu/2026/08/26/from-ghost-stories-to-climate-entrepreneurship-9-fascinating-new-classes-at-uc-berkeley/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-26T22:23:16.000Z"
-		},
-		{
-			"headline": "Thermal Anomaly Discovered Below Mars's South Pole",
-			"url": "https://www.caltech.edu/about/news/thermal-anomaly-discovered-below-marss-south-pole",
-			"source": "Caltech",
-			"publishedAt": "2026-08-26T15:03:23.892Z"
+			"publishedAt": "2026-08-26T18:04:08.000Z"
 		},
 		{
 			"headline": "The countdown is on: Energy and environment battles to watch before Sacramento closes out its session",
 			"url": "https://www.latimes.com/environment/story/2026-08-26/countdown-is-on-energy-environment-battles-to-watch-before-sacramento-closes-out-its-session",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-26T13:00:00.000Z"
-		},
-		{
-			"headline": "Reno became an affordable, booming destination. Fires show the limits of all that growth",
-			"url": "https://www.latimes.com/california/story/2026-08-26/la-me-reno-hawk-fire-wildfire-wildlife-urban-interface",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-26T10:00:00.000Z"
 		},
 		{
 			"headline": "Novel Molecular Shuttle Could Deliver Targeted, Diverse Therapies to the Brain",
@@ -62,16 +86,28 @@
 			"publishedAt": "2026-08-25T17:21:50.000Z"
 		},
 		{
-			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
-			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-24T22:30:08.000Z"
+			"headline": "Los Angeles getting personnel in place for a week of very dangerous heat",
+			"url": "https://www.latimes.com/california/story/2026-08-25/los-angeles-getting-personnel-in-place-for-week-of-very-dangerous-heat",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-25T10:00:00.000Z"
 		},
 		{
 			"headline": "Why this summer's L.A. heat waves feel so miserable: Hotter nights, broiling beaches",
 			"url": "https://www.latimes.com/california/story/2026-08-24/why-this-summers-socal-heat-waves-feel-so-bad-hotter-nights-broiling-beaches",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-24T22:23:59.000Z"
+		},
+		{
+			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
+			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-24T22:30:08.000Z"
+		},
+		{
+			"headline": "NASA Selects Caltech to Operate the Orbiting Carbon Observatories",
+			"url": "https://www.caltech.edu/about/news/nasa-selects-caltech-to-operate-the-orbiting-carbon-observatories",
+			"source": "Caltech",
+			"publishedAt": "2026-08-24T17:24:13.882Z"
 		},
 		{
 			"headline": "UC Berkeley announces new professional graduate degree in AI and machine learning",
@@ -86,10 +122,10 @@
 			"publishedAt": "2026-08-24T18:29:00.000Z"
 		},
 		{
-			"headline": "NASA Selects Caltech to Operate the Orbiting Carbon Observatories",
-			"url": "https://www.caltech.edu/about/news/nasa-selects-caltech-to-operate-the-orbiting-carbon-observatories",
-			"source": "Caltech",
-			"publishedAt": "2026-08-24T17:24:13.882Z"
+			"headline": "Moffitt Library is back — and built for a new generation of UC Berkeley students",
+			"url": "https://www.lib.berkeley.edu/about/news/moffitt-reopening",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-24T16:49:39.000Z"
 		},
 		{
 			"headline": "Nevada sues Trump administration over its Colorado River plan",
@@ -114,42 +150,6 @@
 			"url": "https://www.latimes.com/california/story/2026-08-23/crimson-mountain-lion-cub-abandoned-by-mom-has-leg-amputated",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-23T23:33:48.000Z"
-		},
-		{
-			"headline": "'Very hot or extremely hot': Southern California faces hottest week of the year",
-			"url": "https://www.latimes.com/california/story/2026-08-23/socal-weather-forecast-hottest-week-of-year-ahead",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-23T22:33:39.000Z"
-		},
-		{
-			"headline": "Thousands evacuated, 6 hurt as Hawk fire grows to over 15,000 acres on California-Nevada border",
-			"url": "https://www.latimes.com/california/story/2026-08-23/hawk-fire-burns-over-10-000-acres-near-reno-prompting-evacuations",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-23T16:30:58.000Z"
-		},
-		{
-			"headline": "Mountain lions stall plan to build 400 residences on Woodland Hills golf course",
-			"url": "https://www.latimes.com/california/story/2026-08-22/mountain-lions-stall-stall-woodland-hills-golf-course-housing-project",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-22T20:35:59.000Z"
-		},
-		{
-			"headline": "Highway 1 and Big Sur businesses reopen, but Timber fire still burns",
-			"url": "https://www.latimes.com/california/story/2026-08-22/pacific-coast-highway-reopens-big-sur-timber-fire",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-22T22:34:53.000Z"
-		},
-		{
-			"headline": "As Colorado River reservoirs plummet, the Trump administration orders water cuts",
-			"url": "https://www.latimes.com/environment/story/2026-08-21/colorado-river-trump-administration-water-cuts",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-21T16:01:11.000Z"
-		},
-		{
-			"headline": "A promising new weight loss and diabetes treatment helps burn fat while keeping muscle",
-			"url": "https://news.berkeley.edu/2026/08/21/a-promising-new-weight-loss-and-diabetes-treatment-helps-burn-fat-while-keeping-muscle/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-21T18:11:44.000Z"
 		}
 	]
 }
