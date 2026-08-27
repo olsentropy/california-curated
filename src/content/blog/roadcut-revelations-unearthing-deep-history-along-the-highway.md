@@ -1,15 +1,29 @@
 ---
-title: "Roadcut Revelations: Unearthing California’s Deep History Along the Highway"
-description: "Roadcuts in California, those slices through hills and mountainsides made during the construction of roads, are like open books to geologists. They reveal the intricate and often dramatic geological history of the state."
+title: 'Roadcut Revelations: Unearthing California’s Deep History Along the Highway'
+description: Roadcuts in California, those slices through hills and mountainsides made during the construction of roads, are like open books to geologists. They reveal the intricate and often dramatic geological history of the state.
 pubDate: 2023-11-20
-heroImage: "https://californiacurated.com/wp-content/uploads/2023/11/roadcuts-dji_fly_20231118_145934_0024_1700353622752_photo.jpg"
+updatedDate: ''
+heroImage: https://californiacurated.com/wp-content/uploads/2023/11/roadcuts-dji_fly_20231118_145934_0024_1700353622752_photo.jpg
+categories:
+  - books
+  - geology-and-earthquakes
+  - history-of-science
+  - people
+  - places
+tags:
+  - california
+  - earthquakes
+  - eldridge-moores
+  - environment
+  - geology
+  - plate-tectonics
+  - roadcuts
+  - sierra-nevada
+author: Erik Olsen
+draft: true
 wpId: 2753
-wpSlug: "roadcut-revelations-unearthing-deep-history-along-the-highway"
-categories: ["books", "geology-and-earthquakes", "history-of-science", "people", "places"]
-tags: ["california", "earthquakes", "eldridge-moores", "environment", "geology", "plate-tectonics", "roadcuts", "sierra-nevada"]
-author: "Erik Olsen"
+wpSlug: roadcut-revelations-unearthing-deep-history-along-the-highway
 ---
-
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
@@ -23,7 +37,7 @@ Roadcuts in California, those slices through hills and mountainsides made during
 
 Roadcuts expose layers of rock that have been hidden from view for millions of years. Each layer, or stratum, tells a story of what the environment was like when that layer was deposited. By studying these layers, geologists can reconstruct a timeline of events that shaped the region. For example, they can identify periods of volcanic activity, times when the area was submerged under an ancient ocean, or epochs when [massive glaciers](<https://glaciers.us/glaciers.research.pdx.edu/Glaciers-California.html#:~:text=Geologic%20evidence%20in%20the%20Sierra,in%20other%20regions%20of%20California.>) were carving out the valleys.
 
-[![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
+[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20JOSHUA%20TREE.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 California is especially interesting due to its [active tectonic setting](<https://www.conservation.ca.gov/cgs>). It's not just the [San Andreas Fault](<https://en.wikipedia.org/wiki/San_Andreas_Fault>) that captivates geologists; there are numerous [lesser-known faults](<https://maps.conservation.ca.gov/cgs/fam/>) that crisscross the state, and roadcuts can expose these hidden fractures. By studying the composition of rocks along these faults, geologists learn about the nature of past seismic activity and can make predictions about future earthquakes.
 
@@ -51,10 +65,10 @@ Through roadcuts, Moores and his colleagues were able to observe and study the j
 
 [![](https://californiacurated.com/wp-content/uploads/2023/10/black-oystercatcher-yosemite.jpg)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
-**[CALIFORNIA CURATED ON ETSY](<https://www.etsy.com/shop/CaliforniaCuratedUS>)**
+[**CALIFORNIA CURATED ON ETSY**](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
 **Purchase stunning coffee mugs and art prints of iconic California species.**   
-**[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
+\*\*[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) \*\*
 
 “Nature is messy,” Moores once told McPhee. “Don’t expect it to be uniform and consistent.”
 
