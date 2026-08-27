@@ -16,7 +16,7 @@ tags:
   - serpentine
   - state-rock
 author: Erik Olsen
-draft: true
+draft: false
 wpId: 1944
 wpSlug: serpentine-the-geological-gem-of-california
 ---
