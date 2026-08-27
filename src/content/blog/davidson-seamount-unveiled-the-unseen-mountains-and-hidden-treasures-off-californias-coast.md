@@ -20,6 +20,7 @@ tags:
   - rov
   - seamounts
 author: Erik Olsen
+draft: true
 wpId: 2527
 wpSlug: davidson-seamount-unveiled-the-unseen-mountains-and-hidden-treasures-off-californias-coast
 ---
@@ -32,7 +33,7 @@ Interestingly, a lot of these seamounts off California are actually relatively n
 
 The genesis of these structures begins with a geologic process known as plate tectonics. As tectonic plates move beneath the Earth's crust, they create hotspots of molten rock. This magma escapes through weak points in the crust and solidifies as it reaches the cold seawater, gradually building up into an undersea mountain. After thousands of years, a seamount is born. Most of California’s seamounts are conical in shape, though erosion and other geological forces can turn them into more complex formations over time. 
 
-[![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
+[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20SIERRA%20copy.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 Each seamount is a world unto itself, with distinct mineral compositions, shapes, and ecosystems. Recent research has energized the scientific community. For instance, the Davidson Seamount is the most well-known of these volcanoes and was the first underwater peak to be named a seamount. The seamount is named for [George Davidson](<https://montereybay.noaa.gov/sitechar/george.html>), a British pioneering scientist and surveyor. Located about 80 km (50 miles) off the coast of Big Sur, it's shaped like an elongated arrowhead made up of several parallel ridges of sheer volcanic cones. Most of these erupted about 10-15 million years ago, and are made up 320 cubic km of hawaiite, mugearite, and [alkalic basalt](<https://en.wikipedia.org/wiki/Alkali_basalt>), the basalt types commonly found along spreading ridges like the Mid-Atlantic Ridge.   
 
