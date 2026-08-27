@@ -11,7 +11,7 @@ categories:
   - places
 tags: []
 author: Erik Olsen
-draft: true
+draft: false
 wpId: 1888
 wpSlug: the-man-for-whom-mt-whitney-was-named
 ---
