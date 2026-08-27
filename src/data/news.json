@@ -1,12 +1,6 @@
 {
-	"lastUpdated": "2026-08-26T22:32:30.932Z",
+	"lastUpdated": "2026-08-27T05:10:40.291Z",
 	"items": [
-		{
-			"headline": "Big oil and gas companies are partly responsible for California's water woes, study finds",
-			"url": "https://www.latimes.com/environment/story/2026-08-26/climate-change-water-scarcity",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-26T21:22:03.000Z"
-		},
 		{
 			"headline": "Southern California has front-row seat for partial 'blood moon' eclipse: When to get the best view",
 			"url": "https://www.latimes.com/california/story/2026-08-26/how-to-see-partial-blood-moon-eclipse-in-southern-california",
@@ -26,6 +20,18 @@
 			"publishedAt": "2026-08-26T17:45:44.000Z"
 		},
 		{
+			"headline": "Big oil and gas companies are partly responsible for California's water woes, study finds",
+			"url": "https://www.latimes.com/environment/story/2026-08-26/climate-change-water-scarcity",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-26T21:22:03.000Z"
+		},
+		{
+			"headline": "From ghost stories to climate entrepreneurship, 9 fascinating new classes at UC Berkeley",
+			"url": "https://news.berkeley.edu/2026/08/26/from-ghost-stories-to-climate-entrepreneurship-9-fascinating-new-classes-at-uc-berkeley/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-26T22:23:16.000Z"
+		},
+		{
 			"headline": "Thermal Anomaly Discovered Below Mars's South Pole",
 			"url": "https://www.caltech.edu/about/news/thermal-anomaly-discovered-below-marss-south-pole",
 			"source": "Caltech",
@@ -38,10 +44,10 @@
 			"publishedAt": "2026-08-26T13:00:00.000Z"
 		},
 		{
-			"headline": "Last-Minute California Forever Shipyard Bill Gets Kicked to 2027",
-			"url": "https://baynature.org/2026/08/25/conservation/policy/another-last-minute-california-forever-shipyard-bill-goes-to-solano-supervisors/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-25T17:21:50.000Z"
+			"headline": "Reno became an affordable, booming destination. Fires show the limits of all that growth",
+			"url": "https://www.latimes.com/california/story/2026-08-26/la-me-reno-hawk-fire-wildfire-wildlife-urban-interface",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-26T10:00:00.000Z"
 		},
 		{
 			"headline": "Novel Molecular Shuttle Could Deliver Targeted, Diverse Therapies to the Brain",
@@ -50,16 +56,22 @@
 			"publishedAt": "2026-08-26T09:55:00.000Z"
 		},
 		{
-			"headline": "Reno became an affordable, booming destination. Fires show the limits of all that growth",
-			"url": "https://www.latimes.com/california/story/2026-08-26/la-me-reno-hawk-fire-wildfire-wildlife-urban-interface",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-26T10:00:00.000Z"
+			"headline": "Last-Minute California Forever Shipyard Bill Gets Kicked to 2027",
+			"url": "https://baynature.org/2026/08/25/conservation/policy/another-last-minute-california-forever-shipyard-bill-goes-to-solano-supervisors/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-25T17:21:50.000Z"
 		},
 		{
 			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
 			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
 			"source": "MBARI",
 			"publishedAt": "2026-08-24T22:30:08.000Z"
+		},
+		{
+			"headline": "Why this summer's L.A. heat waves feel so miserable: Hotter nights, broiling beaches",
+			"url": "https://www.latimes.com/california/story/2026-08-24/why-this-summers-socal-heat-waves-feel-so-bad-hotter-nights-broiling-beaches",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-24T22:23:59.000Z"
 		},
 		{
 			"headline": "UC Berkeley announces new professional graduate degree in AI and machine learning",
@@ -116,16 +128,16 @@
 			"publishedAt": "2026-08-23T16:30:58.000Z"
 		},
 		{
-			"headline": "A promising new weight loss and diabetes treatment helps burn fat while keeping muscle",
-			"url": "https://news.berkeley.edu/2026/08/21/a-promising-new-weight-loss-and-diabetes-treatment-helps-burn-fat-while-keeping-muscle/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-21T18:11:44.000Z"
+			"headline": "Mountain lions stall plan to build 400 residences on Woodland Hills golf course",
+			"url": "https://www.latimes.com/california/story/2026-08-22/mountain-lions-stall-stall-woodland-hills-golf-course-housing-project",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-22T20:35:59.000Z"
 		},
 		{
-			"headline": "As California embraces universal transitional kindergarten, the state's other child-care workers are struggling",
-			"url": "https://news.berkeley.edu/2026/08/21/as-california-embraces-universal-transitional-kindergarten-the-states-other-child-care-workers-are-struggling/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-21T16:36:00.000Z"
+			"headline": "Highway 1 and Big Sur businesses reopen, but Timber fire still burns",
+			"url": "https://www.latimes.com/california/story/2026-08-22/pacific-coast-highway-reopens-big-sur-timber-fire",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-22T22:34:53.000Z"
 		},
 		{
 			"headline": "As Colorado River reservoirs plummet, the Trump administration orders water cuts",
@@ -134,22 +146,10 @@
 			"publishedAt": "2026-08-21T16:01:11.000Z"
 		},
 		{
-			"headline": "California's Drought Irreversibly Damaged Sacramento Valley Aquifers",
-			"url": "https://eos.org/articles/californias-drought-irreversibly-damaged-sacramento-valley-aquifers",
-			"source": "Eos",
-			"publishedAt": "2026-08-21T12:00:00.000Z"
-		},
-		{
-			"headline": "Shadow 'highly likely' to nest up with new eagle pal, biologist says",
-			"url": "https://www.latimes.com/environment/story/2026-08-21/shadow-highly-likely-to-nest-up-with-new-eagle-pal-biologist-says",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-21T10:00:00.000Z"
-		},
-		{
-			"headline": "Dead of a mosquito bite: L.A. records West Nile fatality as California cases hit 5-year high",
-			"url": "https://www.latimes.com/california/story/2026-08-20/la-resident-dies-west-nile-virus-california-cases-hit-5-year-high-climate-change",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-21T02:27:25.000Z"
+			"headline": "A promising new weight loss and diabetes treatment helps burn fat while keeping muscle",
+			"url": "https://news.berkeley.edu/2026/08/21/a-promising-new-weight-loss-and-diabetes-treatment-helps-burn-fat-while-keeping-muscle/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-21T18:11:44.000Z"
 		}
 	]
 }
