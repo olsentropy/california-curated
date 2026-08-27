@@ -20,7 +20,7 @@ tags:
   - trees
   - white-mountains
 author: Erik Olsen
-draft: true
+draft: false
 wpId: 2060
 wpSlug: the-long-life-and-accidental-death-of-the-prometheus-bristlecone-pine
 ---
