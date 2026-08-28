@@ -1,11 +1,35 @@
 {
-	"lastUpdated": "2026-08-27T18:26:17.912Z",
+	"lastUpdated": "2026-08-28T03:53:15.156Z",
 	"items": [
 		{
-			"headline": "Select Sea Otters Are Snacking on Seabirds in Elkhorn Slough",
-			"url": "https://baynature.org/2026/08/27/science-nature/wildlife/select-sea-otters-are-snacking-on-seabirds-in-elkhorn-slough/",
+			"headline": "Black jaguar Samba dies after rattlesnake bites at California sanctuary",
+			"url": "https://www.latimes.com/california/story/2026-08-27/black-jaguar-samba-dies-rattlesnake-bites",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T22:52:17.000Z"
+		},
+		{
+			"headline": "MBARI hosts workshop to share latest research on comb jellies",
+			"url": "https://www.mbari.org/news/mbari-hosts-workshop-to-share-latest-research-on-comb-jellies/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-27T22:00:11.000Z"
+		},
+		{
+			"headline": "California legislature passes bill to track use of 'forever chemicals' by farms",
+			"url": "https://www.latimes.com/california/story/2026-08-27/california-legislature-passes-bill-to-track-farms-forever-chemicals",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T20:41:32.000Z"
+		},
+		{
+			"headline": "In Memory of Jake Sigg, a California Conservationist",
+			"url": "https://baynature.org/2026/08/27/communityvoices/in-memory-of-jake-sigg-a-california-conservationist/",
 			"source": "Bay Nature",
-			"publishedAt": "2026-08-27T13:00:00.000Z"
+			"publishedAt": "2026-08-27T20:36:07.000Z"
+		},
+		{
+			"headline": "California moves to outlaw disposable vapes, a toxic trash plague from beaches to battery fires",
+			"url": "https://www.latimes.com/politics/story/2026-08-27/from-beaches-to-battery-fires-california-moves-to-outlaw-disposable-vapes",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T18:09:56.000Z"
 		},
 		{
 			"headline": "Tons of planet-warming gases are bubbling up from reservoirs. California is going to keep track",
@@ -32,22 +56,28 @@
 			"publishedAt": "2026-08-27T12:00:00.000Z"
 		},
 		{
-			"headline": "Thermal Anomaly Discovered Below Mars's South Pole",
-			"url": "https://www.caltech.edu/about/news/thermal-anomaly-discovered-below-marss-south-pole",
-			"source": "Caltech",
-			"publishedAt": "2026-08-26T15:03:23.892Z"
+			"headline": "Select Sea Otters Are Snacking on Seabirds in Elkhorn Slough",
+			"url": "https://baynature.org/2026/08/27/science-nature/wildlife/select-sea-otters-are-snacking-on-seabirds-in-elkhorn-slough/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-27T13:00:00.000Z"
 		},
 		{
-			"headline": "From ghost stories to climate entrepreneurship, 9 fascinating new classes at UC Berkeley",
-			"url": "https://news.berkeley.edu/2026/08/26/from-ghost-stories-to-climate-entrepreneurship-9-fascinating-new-classes-at-uc-berkeley/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-26T22:23:16.000Z"
+			"headline": "Using AI to Thwart Election Misinformation",
+			"url": "https://www.caltech.edu/about/news/using-ai-to-thwart-election-misinformation",
+			"source": "Caltech",
+			"publishedAt": "2026-08-27T12:20:21.916Z"
 		},
 		{
 			"headline": "Big oil and gas companies are partly responsible for California's water woes, study finds",
 			"url": "https://www.latimes.com/environment/story/2026-08-26/climate-change-water-scarcity",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-26T21:22:03.000Z"
+		},
+		{
+			"headline": "From ghost stories to climate entrepreneurship, 9 fascinating new classes at UC Berkeley",
+			"url": "https://news.berkeley.edu/2026/08/26/from-ghost-stories-to-climate-entrepreneurship-9-fascinating-new-classes-at-uc-berkeley/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-26T22:23:16.000Z"
 		},
 		{
 			"headline": "Clues to longevity may reside in the genomes of long-lived bats",
@@ -62,10 +92,10 @@
 			"publishedAt": "2026-08-26T17:45:44.000Z"
 		},
 		{
-			"headline": "Southern California has front-row seat for partial 'blood moon' eclipse: When to get the best view",
-			"url": "https://www.latimes.com/california/story/2026-08-26/how-to-see-partial-blood-moon-eclipse-in-southern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-26T18:04:08.000Z"
+			"headline": "Thermal Anomaly Discovered Below Mars's South Pole",
+			"url": "https://www.caltech.edu/about/news/thermal-anomaly-discovered-below-marss-south-pole",
+			"source": "Caltech",
+			"publishedAt": "2026-08-26T15:03:23.892Z"
 		},
 		{
 			"headline": "The countdown is on: Energy and environment battles to watch before Sacramento closes out its session",
@@ -80,6 +110,12 @@
 			"publishedAt": "2026-08-26T09:55:00.000Z"
 		},
 		{
+			"headline": "Reno became an affordable, booming destination. Fires show the limits of all that growth",
+			"url": "https://www.latimes.com/california/story/2026-08-26/la-me-reno-hawk-fire-wildfire-wildlife-urban-interface",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-26T10:00:00.000Z"
+		},
+		{
 			"headline": "Last-Minute California Forever Shipyard Bill Gets Kicked to 2027",
 			"url": "https://baynature.org/2026/08/25/conservation/policy/another-last-minute-california-forever-shipyard-bill-goes-to-solano-supervisors/",
 			"source": "Bay Nature",
@@ -90,24 +126,6 @@
 			"url": "https://www.latimes.com/california/story/2026-08-25/los-angeles-getting-personnel-in-place-for-week-of-very-dangerous-heat",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-25T10:00:00.000Z"
-		},
-		{
-			"headline": "Why this summer's L.A. heat waves feel so miserable: Hotter nights, broiling beaches",
-			"url": "https://www.latimes.com/california/story/2026-08-24/why-this-summers-socal-heat-waves-feel-so-bad-hotter-nights-broiling-beaches",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-24T22:23:59.000Z"
-		},
-		{
-			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
-			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-24T22:30:08.000Z"
-		},
-		{
-			"headline": "NASA Selects Caltech to Operate the Orbiting Carbon Observatories",
-			"url": "https://www.caltech.edu/about/news/nasa-selects-caltech-to-operate-the-orbiting-carbon-observatories",
-			"source": "Caltech",
-			"publishedAt": "2026-08-24T17:24:13.882Z"
 		},
 		{
 			"headline": "UC Berkeley announces new professional graduate degree in AI and machine learning",
@@ -122,34 +140,16 @@
 			"publishedAt": "2026-08-24T18:29:00.000Z"
 		},
 		{
-			"headline": "Moffitt Library is back — and built for a new generation of UC Berkeley students",
-			"url": "https://www.lib.berkeley.edu/about/news/moffitt-reopening",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-24T16:49:39.000Z"
+			"headline": "NASA Selects Caltech to Operate the Orbiting Carbon Observatories",
+			"url": "https://www.caltech.edu/about/news/nasa-selects-caltech-to-operate-the-orbiting-carbon-observatories",
+			"source": "Caltech",
+			"publishedAt": "2026-08-24T17:24:13.882Z"
 		},
 		{
-			"headline": "Nevada sues Trump administration over its Colorado River plan",
-			"url": "https://www.latimes.com/environment/story/2026-08-24/nevada-lawsuit-colorado-river",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-24T16:12:40.000Z"
-		},
-		{
-			"headline": "Three rescued belugas arrive at SeaWorld San Diego after 2,500-mile journey from Canada",
-			"url": "https://www.latimes.com/california/story/2026-08-23/3-rescued-belugas-travel-2500-miles-seaworld-san-diego",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-24T03:32:01.000Z"
-		},
-		{
-			"headline": "French visitor dies in Death Valley after vehicle breaks down amid blistering heat",
-			"url": "https://www.latimes.com/california/story/2026-08-23/french-visitor-dies-vehicle-breaks-down-116-degrees-death-valley",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-23T23:52:45.000Z"
-		},
-		{
-			"headline": "Crimson the mountain lion cub, abandoned by mom, has leg amputated: 'Incredibly resilient'",
-			"url": "https://www.latimes.com/california/story/2026-08-23/crimson-mountain-lion-cub-abandoned-by-mom-has-leg-amputated",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-23T23:33:48.000Z"
+			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
+			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-24T22:30:08.000Z"
 		}
 	]
 }
