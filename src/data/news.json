@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-08-28T03:53:15.156Z",
+	"lastUpdated": "2026-08-28T15:43:11.718Z",
 	"items": [
+		{
+			"headline": "Is Long Beach ready for a floating nuclear power plant? Here's what to know",
+			"url": "https://www.latimes.com/business/story/2026-08-28/is-long-beach-ready-for-floating-nuclear-power-plant-heres-what-to-know",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-28T10:00:00.000Z"
+		},
+		{
+			"headline": "Firefighters struggling to get a handle on Timber fire as blaze surges again in Big Sur",
+			"url": "https://www.latimes.com/california/story/2026-08-27/firefighters-struggling-to-get-handle-on-timber-fire-as-blaze-surges-again-in-big-sur",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-28T03:53:27.000Z"
+		},
 		{
 			"headline": "Black jaguar Samba dies after rattlesnake bites at California sanctuary",
 			"url": "https://www.latimes.com/california/story/2026-08-27/black-jaguar-samba-dies-rattlesnake-bites",
@@ -26,22 +38,16 @@
 			"publishedAt": "2026-08-27T20:36:07.000Z"
 		},
 		{
-			"headline": "California moves to outlaw disposable vapes, a toxic trash plague from beaches to battery fires",
-			"url": "https://www.latimes.com/politics/story/2026-08-27/from-beaches-to-battery-fires-california-moves-to-outlaw-disposable-vapes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-27T18:09:56.000Z"
+			"headline": "Select Sea Otters Are Snacking on Seabirds in Elkhorn Slough",
+			"url": "https://baynature.org/2026/08/27/science-nature/wildlife/select-sea-otters-are-snacking-on-seabirds-in-elkhorn-slough/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-27T13:00:00.000Z"
 		},
 		{
-			"headline": "Tons of planet-warming gases are bubbling up from reservoirs. California is going to keep track",
-			"url": "https://www.latimes.com/environment/story/2026-08-27/california-methane-reservoirs",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-27T10:00:00.000Z"
-		},
-		{
-			"headline": "Electric heavy-duty trucks will be able to run from Baja to Canada, West Coast leaders pledge",
-			"url": "https://www.latimes.com/environment/story/2026-08-27/electric-heavy-duty-trucks-will-be-able-to-run-from-baja-to-canada",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-27T10:00:00.000Z"
+			"headline": "Using AI to Thwart Election Misinformation",
+			"url": "https://www.caltech.edu/about/news/using-ai-to-thwart-election-misinformation",
+			"source": "Caltech",
+			"publishedAt": "2026-08-27T12:20:21.916Z"
 		},
 		{
 			"headline": "This week's heat wave brought record-setting temperatures to SoCal. What comes next?",
@@ -56,28 +62,22 @@
 			"publishedAt": "2026-08-27T12:00:00.000Z"
 		},
 		{
-			"headline": "Select Sea Otters Are Snacking on Seabirds in Elkhorn Slough",
-			"url": "https://baynature.org/2026/08/27/science-nature/wildlife/select-sea-otters-are-snacking-on-seabirds-in-elkhorn-slough/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-27T13:00:00.000Z"
+			"headline": "Electric heavy-duty trucks will be able to run from Baja to Canada, West Coast leaders pledge",
+			"url": "https://www.latimes.com/environment/story/2026-08-27/electric-heavy-duty-trucks-will-be-able-to-run-from-baja-to-canada",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T10:00:00.000Z"
 		},
 		{
-			"headline": "Using AI to Thwart Election Misinformation",
-			"url": "https://www.caltech.edu/about/news/using-ai-to-thwart-election-misinformation",
-			"source": "Caltech",
-			"publishedAt": "2026-08-27T12:20:21.916Z"
+			"headline": "Tons of planet-warming gases are bubbling up from reservoirs. California is going to keep track",
+			"url": "https://www.latimes.com/environment/story/2026-08-27/california-methane-reservoirs",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T10:00:00.000Z"
 		},
 		{
 			"headline": "Big oil and gas companies are partly responsible for California's water woes, study finds",
 			"url": "https://www.latimes.com/environment/story/2026-08-26/climate-change-water-scarcity",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-26T21:22:03.000Z"
-		},
-		{
-			"headline": "From ghost stories to climate entrepreneurship, 9 fascinating new classes at UC Berkeley",
-			"url": "https://news.berkeley.edu/2026/08/26/from-ghost-stories-to-climate-entrepreneurship-9-fascinating-new-classes-at-uc-berkeley/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-26T22:23:16.000Z"
 		},
 		{
 			"headline": "Clues to longevity may reside in the genomes of long-lived bats",
@@ -128,6 +128,18 @@
 			"publishedAt": "2026-08-25T10:00:00.000Z"
 		},
 		{
+			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
+			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-24T22:30:08.000Z"
+		},
+		{
+			"headline": "Why this summer's L.A. heat waves feel so miserable: Hotter nights, broiling beaches",
+			"url": "https://www.latimes.com/california/story/2026-08-24/why-this-summers-socal-heat-waves-feel-so-bad-hotter-nights-broiling-beaches",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-24T22:23:59.000Z"
+		},
+		{
 			"headline": "UC Berkeley announces new professional graduate degree in AI and machine learning",
 			"url": "https://cdss.berkeley.edu/news/uc-berkeley-announces-new-professional-graduate-degree-ai-and-machine-learning",
 			"source": "UC Berkeley News",
@@ -138,18 +150,6 @@
 			"url": "https://www.caltech.edu/about/news/chemical-physicists-quantitatively-model-electron-interactions-in-real-quantum-materials",
 			"source": "Caltech",
 			"publishedAt": "2026-08-24T18:29:00.000Z"
-		},
-		{
-			"headline": "NASA Selects Caltech to Operate the Orbiting Carbon Observatories",
-			"url": "https://www.caltech.edu/about/news/nasa-selects-caltech-to-operate-the-orbiting-carbon-observatories",
-			"source": "Caltech",
-			"publishedAt": "2026-08-24T17:24:13.882Z"
-		},
-		{
-			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
-			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-24T22:30:08.000Z"
 		}
 	]
 }
