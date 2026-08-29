@@ -1,5 +1,5 @@
 {
-	"lastUpdated": "2026-08-29T00:11:11.242Z",
+	"lastUpdated": "2026-08-29T10:30:17.795Z",
 	"items": [
 		{
 			"headline": "Trump administration considering trading Yosemite land to private developer",
@@ -14,12 +14,6 @@
 			"publishedAt": "2026-08-28T20:33:35.000Z"
 		},
 		{
-			"headline": "Long Beach aquarium takes in at least 500 animals rescued from wildlife traffickers",
-			"url": "https://www.latimes.com/california/story/2026-08-28/long-beach-aquarium-takes-in-500-animals-rescued-from-traffickers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-28T23:05:28.000Z"
-		},
-		{
 			"headline": "California sues Trump administration, developer over deal to walk away from Morro Bay wind power",
 			"url": "https://www.latimes.com/environment/story/2026-08-28/california-sues-trump-administration-developer-over-deal-to-walk-away-from-morro-bay-wind-p",
 			"source": "Los Angeles Times",
@@ -30,6 +24,12 @@
 			"url": "https://www.latimes.com/business/story/2026-08-28/is-long-beach-ready-for-floating-nuclear-power-plant-heres-what-to-know",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-28T10:00:00.000Z"
+		},
+		{
+			"headline": "Time Travelers Converge on Campus",
+			"url": "https://www.caltech.edu/about/news/time-travelers-converge-on-campus",
+			"source": "Caltech",
+			"publishedAt": "2026-08-28T15:00:00.000Z"
 		},
 		{
 			"headline": "Firefighters struggling to get a handle on Timber fire as blaze surges again in Big Sur",
@@ -68,22 +68,10 @@
 			"publishedAt": "2026-08-27T13:00:00.000Z"
 		},
 		{
-			"headline": "California moves to outlaw disposable vapes, a toxic trash plague from beaches to battery fires",
-			"url": "https://www.latimes.com/politics/story/2026-08-27/from-beaches-to-battery-fires-california-moves-to-outlaw-disposable-vapes",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-27T18:09:56.000Z"
-		},
-		{
-			"headline": "Tons of planet-warming gases are bubbling up from reservoirs. California is going to keep track",
-			"url": "https://www.latimes.com/environment/story/2026-08-27/california-methane-reservoirs",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-27T10:00:00.000Z"
-		},
-		{
-			"headline": "Electric heavy-duty trucks will be able to run from Baja to Canada, West Coast leaders pledge",
-			"url": "https://www.latimes.com/environment/story/2026-08-27/electric-heavy-duty-trucks-will-be-able-to-run-from-baja-to-canada",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-27T10:00:00.000Z"
+			"headline": "Using AI to Thwart Election Misinformation",
+			"url": "https://www.caltech.edu/about/news/using-ai-to-thwart-election-misinformation",
+			"source": "Caltech",
+			"publishedAt": "2026-08-27T12:20:21.916Z"
 		},
 		{
 			"headline": "This week's heat wave brought record-setting temperatures to SoCal. What comes next?",
@@ -98,16 +86,22 @@
 			"publishedAt": "2026-08-27T12:00:00.000Z"
 		},
 		{
-			"headline": "Thermal Anomaly Discovered Below Mars's South Pole",
-			"url": "https://www.caltech.edu/about/news/thermal-anomaly-discovered-below-marss-south-pole",
-			"source": "Caltech",
-			"publishedAt": "2026-08-26T15:03:23.892Z"
+			"headline": "Electric heavy-duty trucks will be able to run from Baja to Canada, West Coast leaders pledge",
+			"url": "https://www.latimes.com/environment/story/2026-08-27/electric-heavy-duty-trucks-will-be-able-to-run-from-baja-to-canada",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T10:00:00.000Z"
 		},
 		{
-			"headline": "Novel Molecular Shuttle Could Deliver Targeted, Diverse Therapies to the Brain",
-			"url": "https://www.caltech.edu/about/news/novel-molecular-shuttle-could-deliver-targeted-diverse-therapies-to-the-brain",
-			"source": "Caltech",
-			"publishedAt": "2026-08-26T09:55:00.000Z"
+			"headline": "Tons of planet-warming gases are bubbling up from reservoirs. California is going to keep track",
+			"url": "https://www.latimes.com/environment/story/2026-08-27/california-methane-reservoirs",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T10:00:00.000Z"
+		},
+		{
+			"headline": "From ghost stories to climate entrepreneurship, 9 fascinating new classes at UC Berkeley",
+			"url": "https://news.berkeley.edu/2026/08/26/from-ghost-stories-to-climate-entrepreneurship-9-fascinating-new-classes-at-uc-berkeley/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-26T22:23:16.000Z"
 		},
 		{
 			"headline": "Big oil and gas companies are partly responsible for California's water woes, study finds",
@@ -116,22 +110,22 @@
 			"publishedAt": "2026-08-26T21:22:03.000Z"
 		},
 		{
+			"headline": "Clues to longevity may reside in the genomes of long-lived bats",
+			"url": "https://news.berkeley.edu/2026/08/26/clues-to-longevity-may-reside-in-the-genomes-of-long-lived-bats/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-26T17:59:21.000Z"
+		},
+		{
 			"headline": "Southern California's scorching heat wave peaks: Here's how hot it will get and when it will end",
 			"url": "https://www.latimes.com/california/story/2026-08-26/southern-california-heat-wave-peaks-how-hot-will-it-get-when-will-it-end",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-26T17:45:44.000Z"
 		},
 		{
-			"headline": "Southern California has front-row seat for partial 'blood moon' eclipse: When to get the best view",
-			"url": "https://www.latimes.com/california/story/2026-08-26/how-to-see-partial-blood-moon-eclipse-in-southern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-26T18:04:08.000Z"
-		},
-		{
-			"headline": "Clues to longevity may reside in the genomes of long-lived bats",
-			"url": "https://news.berkeley.edu/2026/08/26/clues-to-longevity-may-reside-in-the-genomes-of-long-lived-bats/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-26T17:59:21.000Z"
+			"headline": "Thermal Anomaly Discovered Below Mars's South Pole",
+			"url": "https://www.caltech.edu/about/news/thermal-anomaly-discovered-below-marss-south-pole",
+			"source": "Caltech",
+			"publishedAt": "2026-08-26T15:03:23.892Z"
 		},
 		{
 			"headline": "The countdown is on: Energy and environment battles to watch before Sacramento closes out its session",
@@ -140,16 +134,22 @@
 			"publishedAt": "2026-08-26T13:00:00.000Z"
 		},
 		{
+			"headline": "Novel Molecular Shuttle Could Deliver Targeted, Diverse Therapies to the Brain",
+			"url": "https://www.caltech.edu/about/news/novel-molecular-shuttle-could-deliver-targeted-diverse-therapies-to-the-brain",
+			"source": "Caltech",
+			"publishedAt": "2026-08-26T09:55:00.000Z"
+		},
+		{
+			"headline": "Reno became an affordable, booming destination. Fires show the limits of all that growth",
+			"url": "https://www.latimes.com/california/story/2026-08-26/la-me-reno-hawk-fire-wildfire-wildlife-urban-interface",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-26T10:00:00.000Z"
+		},
+		{
 			"headline": "Last-Minute California Forever Shipyard Bill Gets Kicked to 2027",
 			"url": "https://baynature.org/2026/08/25/conservation/policy/another-last-minute-california-forever-shipyard-bill-goes-to-solano-supervisors/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-08-25T17:21:50.000Z"
-		},
-		{
-			"headline": "MBARI hosts teacher workshop to bring ocean data to the classroom",
-			"url": "https://www.mbari.org/news/mbari-hosts-teacher-workshop-to-bring-ocean-data-to-the-classroom/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-24T22:30:08.000Z"
 		}
 	]
 }
