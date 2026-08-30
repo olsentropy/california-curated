@@ -1,6 +1,12 @@
 {
-	"lastUpdated": "2026-08-30T15:30:54.913Z",
+	"lastUpdated": "2026-08-30T18:51:27.820Z",
 	"items": [
+		{
+			"headline": "'Measured in weeks, not days': Plaskett and Timber fires near Big Sur scorch 33,000 acres",
+			"url": "https://www.latimes.com/environment/story/2026-08-30/measured-in-weeks-not-days-plaskett-timber-fires-near-big-sur-scorch-33-000-acres",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-30T17:01:30.000Z"
+		},
 		{
 			"headline": "NASA's Roman Space Telescope, set to probe universe with JPL tech, launches on SpaceX rocket",
 			"url": "https://www.latimes.com/science/story/2026-08-30/nasas-roman-space-telescope-launches-with-jpl-tech-aboard",
@@ -32,12 +38,6 @@
 			"publishedAt": "2026-08-28T23:05:28.000Z"
 		},
 		{
-			"headline": "At 16, she competed in the Olympics. Now she's diving for UC Berkeley.",
-			"url": "https://news.berkeley.edu/2026/08/28/at-16-she-competed-in-the-olympics-now-shes-diving-for-uc-berkeley/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-28T22:52:42.000Z"
-		},
-		{
 			"headline": "Trump administration considering trading Yosemite land to private developer",
 			"url": "https://www.latimes.com/california/story/2026-08-28/trump-administration-considering-trading-yosemite-land-to-private-developer",
 			"source": "Los Angeles Times",
@@ -48,6 +48,12 @@
 			"url": "https://www.latimes.com/california/story/2026-08-28/forget-florida-la-humidity-is-off-charts-this-summer-whats-going-on",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-28T20:33:35.000Z"
+		},
+		{
+			"headline": "California lawmakers crack down on AI used in public comment",
+			"url": "https://www.latimes.com/environment/story/2026-08-28/california-lawmakers-move-to-crack-down-on-ai-used-for-public-comment",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-28T19:00:14.000Z"
 		},
 		{
 			"headline": "California sues Trump administration, developer over deal to walk away from Morro Bay wind power",
@@ -62,16 +68,22 @@
 			"publishedAt": "2026-08-28T10:00:00.000Z"
 		},
 		{
-			"headline": "MBARI hosts workshop to share latest research on comb jellies",
-			"url": "https://www.mbari.org/news/mbari-hosts-workshop-to-share-latest-research-on-comb-jellies/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-27T22:00:11.000Z"
+			"headline": "Firefighters struggling to get a handle on Timber fire as blaze surges again in Big Sur",
+			"url": "https://www.latimes.com/california/story/2026-08-27/firefighters-struggling-to-get-handle-on-timber-fire-as-blaze-surges-again-in-big-sur",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-28T03:53:27.000Z"
 		},
 		{
 			"headline": "Black jaguar Samba dies after rattlesnake bites at California sanctuary",
 			"url": "https://www.latimes.com/california/story/2026-08-27/black-jaguar-samba-dies-rattlesnake-bites",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-27T22:52:17.000Z"
+		},
+		{
+			"headline": "MBARI hosts workshop to share latest research on comb jellies",
+			"url": "https://www.mbari.org/news/mbari-hosts-workshop-to-share-latest-research-on-comb-jellies/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-27T22:00:11.000Z"
 		},
 		{
 			"headline": "In Memory of Jake Sigg, a California Conservationist",
@@ -92,6 +104,18 @@
 			"publishedAt": "2026-08-27T18:09:56.000Z"
 		},
 		{
+			"headline": "Electric heavy-duty trucks will be able to run from Baja to Canada, West Coast leaders pledge",
+			"url": "https://www.latimes.com/environment/story/2026-08-27/electric-heavy-duty-trucks-will-be-able-to-run-from-baja-to-canada",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T10:00:00.000Z"
+		},
+		{
+			"headline": "Tons of planet-warming gases are bubbling up from reservoirs. California is going to keep track",
+			"url": "https://www.latimes.com/environment/story/2026-08-27/california-methane-reservoirs",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T10:00:00.000Z"
+		},
+		{
 			"headline": "Select Sea Otters Are Snacking on Seabirds in Elkhorn Slough",
 			"url": "https://baynature.org/2026/08/27/science-nature/wildlife/select-sea-otters-are-snacking-on-seabirds-in-elkhorn-slough/",
 			"source": "Bay Nature",
@@ -110,34 +134,10 @@
 			"publishedAt": "2026-08-27T12:00:00.000Z"
 		},
 		{
-			"headline": "Electric heavy-duty trucks will be able to run from Baja to Canada, West Coast leaders pledge",
-			"url": "https://www.latimes.com/environment/story/2026-08-27/electric-heavy-duty-trucks-will-be-able-to-run-from-baja-to-canada",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-27T10:00:00.000Z"
-		},
-		{
-			"headline": "Tons of planet-warming gases are bubbling up from reservoirs. California is going to keep track",
-			"url": "https://www.latimes.com/environment/story/2026-08-27/california-methane-reservoirs",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-27T10:00:00.000Z"
-		},
-		{
 			"headline": "Big oil and gas companies are partly responsible for California's water woes, study finds",
 			"url": "https://www.latimes.com/environment/story/2026-08-26/climate-change-water-scarcity",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-26T21:22:03.000Z"
-		},
-		{
-			"headline": "Southern California has front-row seat for partial 'blood moon' eclipse: When to get the best view",
-			"url": "https://www.latimes.com/california/story/2026-08-26/how-to-see-partial-blood-moon-eclipse-in-southern-california",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-26T18:04:08.000Z"
-		},
-		{
-			"headline": "Clues to longevity may reside in the genomes of long-lived bats",
-			"url": "https://news.berkeley.edu/2026/08/26/clues-to-longevity-may-reside-in-the-genomes-of-long-lived-bats/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-26T17:59:21.000Z"
 		},
 		{
 			"headline": "Southern California's scorching heat wave peaks: Here's how hot it will get and when it will end",
