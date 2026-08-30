@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-08-30T18:51:27.820Z",
+	"lastUpdated": "2026-08-30T22:10:06.266Z",
 	"items": [
+		{
+			"headline": "Ready to Roman: Caltech Teams Celebrate Telescope Launch, Look Ahead to Future",
+			"url": "https://www.caltech.edu/about/news/ready-to-roman-caltech-teams-celebrate-telescope-launch-look-ahead-to-future",
+			"source": "Caltech",
+			"publishedAt": "2026-08-30T13:54:00.000Z"
+		},
+		{
+			"headline": "NASA's Roman Space Telescope, set to probe universe with JPL tech, launches on SpaceX rocket",
+			"url": "https://www.latimes.com/science/story/2026-08-30/nasas-roman-space-telescope-launches-with-jpl-tech-aboard",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-30T14:52:07.000Z"
+		},
 		{
 			"headline": "'Measured in weeks, not days': Plaskett and Timber fires near Big Sur scorch 33,000 acres",
 			"url": "https://www.latimes.com/environment/story/2026-08-30/measured-in-weeks-not-days-plaskett-timber-fires-near-big-sur-scorch-33-000-acres",
@@ -8,10 +20,10 @@
 			"publishedAt": "2026-08-30T17:01:30.000Z"
 		},
 		{
-			"headline": "NASA's Roman Space Telescope, set to probe universe with JPL tech, launches on SpaceX rocket",
-			"url": "https://www.latimes.com/science/story/2026-08-30/nasas-roman-space-telescope-launches-with-jpl-tech-aboard",
+			"headline": "Bear family rescued from large water tank in La Verne during heat wave",
+			"url": "https://www.latimes.com/environment/story/2026-08-30/bear-family-rescued-from-large-water-tank-in-la-verne-during-heat-wave",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-30T14:52:07.000Z"
+			"publishedAt": "2026-08-30T18:53:34.000Z"
 		},
 		{
 			"headline": "France's wildfire nightmare echoes California's hard lessons on building in the woods",
@@ -32,10 +44,10 @@
 			"publishedAt": "2026-08-29T11:00:00.000Z"
 		},
 		{
-			"headline": "Long Beach aquarium takes in at least 500 animals rescued from wildlife traffickers",
-			"url": "https://www.latimes.com/california/story/2026-08-28/long-beach-aquarium-takes-in-500-animals-rescued-from-traffickers",
+			"headline": "Firefighters struggling to get a handle on Timber fire as blaze surges again in Big Sur",
+			"url": "https://www.latimes.com/california/story/2026-08-27/firefighters-struggling-to-get-handle-on-timber-fire-as-blaze-surges-again-in-big-sur",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-28T23:05:28.000Z"
+			"publishedAt": "2026-08-28T03:53:27.000Z"
 		},
 		{
 			"headline": "Trump administration considering trading Yosemite land to private developer",
@@ -50,12 +62,6 @@
 			"publishedAt": "2026-08-28T20:33:35.000Z"
 		},
 		{
-			"headline": "California lawmakers crack down on AI used in public comment",
-			"url": "https://www.latimes.com/environment/story/2026-08-28/california-lawmakers-move-to-crack-down-on-ai-used-for-public-comment",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-28T19:00:14.000Z"
-		},
-		{
 			"headline": "California sues Trump administration, developer over deal to walk away from Morro Bay wind power",
 			"url": "https://www.latimes.com/environment/story/2026-08-28/california-sues-trump-administration-developer-over-deal-to-walk-away-from-morro-bay-wind-p",
 			"source": "Los Angeles Times",
@@ -68,16 +74,10 @@
 			"publishedAt": "2026-08-28T10:00:00.000Z"
 		},
 		{
-			"headline": "Firefighters struggling to get a handle on Timber fire as blaze surges again in Big Sur",
-			"url": "https://www.latimes.com/california/story/2026-08-27/firefighters-struggling-to-get-handle-on-timber-fire-as-blaze-surges-again-in-big-sur",
+			"headline": "Long Beach aquarium takes in at least 500 animals rescued from wildlife traffickers",
+			"url": "https://www.latimes.com/california/story/2026-08-28/long-beach-aquarium-takes-in-500-animals-rescued-from-traffickers",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-28T03:53:27.000Z"
-		},
-		{
-			"headline": "Black jaguar Samba dies after rattlesnake bites at California sanctuary",
-			"url": "https://www.latimes.com/california/story/2026-08-27/black-jaguar-samba-dies-rattlesnake-bites",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-27T22:52:17.000Z"
+			"publishedAt": "2026-08-28T23:05:28.000Z"
 		},
 		{
 			"headline": "MBARI hosts workshop to share latest research on comb jellies",
@@ -86,10 +86,10 @@
 			"publishedAt": "2026-08-27T22:00:11.000Z"
 		},
 		{
-			"headline": "In Memory of Jake Sigg, a California Conservationist",
-			"url": "https://baynature.org/2026/08/27/communityvoices/in-memory-of-jake-sigg-a-california-conservationist/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-27T20:36:07.000Z"
+			"headline": "Black jaguar Samba dies after rattlesnake bites at California sanctuary",
+			"url": "https://www.latimes.com/california/story/2026-08-27/black-jaguar-samba-dies-rattlesnake-bites",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T22:52:17.000Z"
 		},
 		{
 			"headline": "California Legislature passes bill to track use of 'forever chemicals' by farms",
@@ -98,16 +98,16 @@
 			"publishedAt": "2026-08-27T20:41:32.000Z"
 		},
 		{
+			"headline": "In Memory of Jake Sigg, a California Conservationist",
+			"url": "https://baynature.org/2026/08/27/communityvoices/in-memory-of-jake-sigg-a-california-conservationist/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-27T20:36:07.000Z"
+		},
+		{
 			"headline": "California moves to outlaw disposable vapes, a toxic trash plague from beaches to battery fires",
 			"url": "https://www.latimes.com/politics/story/2026-08-27/from-beaches-to-battery-fires-california-moves-to-outlaw-disposable-vapes",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-27T18:09:56.000Z"
-		},
-		{
-			"headline": "Electric heavy-duty trucks will be able to run from Baja to Canada, West Coast leaders pledge",
-			"url": "https://www.latimes.com/environment/story/2026-08-27/electric-heavy-duty-trucks-will-be-able-to-run-from-baja-to-canada",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-27T10:00:00.000Z"
 		},
 		{
 			"headline": "Tons of planet-warming gases are bubbling up from reservoirs. California is going to keep track",
@@ -116,10 +116,22 @@
 			"publishedAt": "2026-08-27T10:00:00.000Z"
 		},
 		{
+			"headline": "Electric heavy-duty trucks will be able to run from Baja to Canada, West Coast leaders pledge",
+			"url": "https://www.latimes.com/environment/story/2026-08-27/electric-heavy-duty-trucks-will-be-able-to-run-from-baja-to-canada",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-27T10:00:00.000Z"
+		},
+		{
 			"headline": "Select Sea Otters Are Snacking on Seabirds in Elkhorn Slough",
 			"url": "https://baynature.org/2026/08/27/science-nature/wildlife/select-sea-otters-are-snacking-on-seabirds-in-elkhorn-slough/",
 			"source": "Bay Nature",
 			"publishedAt": "2026-08-27T13:00:00.000Z"
+		},
+		{
+			"headline": "Using AI to Thwart Election Misinformation",
+			"url": "https://www.caltech.edu/about/news/using-ai-to-thwart-election-misinformation",
+			"source": "Caltech",
+			"publishedAt": "2026-08-27T12:20:21.916Z"
 		},
 		{
 			"headline": "This week's heat wave brought record-setting temperatures to SoCal. What comes next?",
@@ -138,18 +150,6 @@
 			"url": "https://www.latimes.com/environment/story/2026-08-26/climate-change-water-scarcity",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-26T21:22:03.000Z"
-		},
-		{
-			"headline": "Southern California's scorching heat wave peaks: Here's how hot it will get and when it will end",
-			"url": "https://www.latimes.com/california/story/2026-08-26/southern-california-heat-wave-peaks-how-hot-will-it-get-when-will-it-end",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-26T17:45:44.000Z"
-		},
-		{
-			"headline": "The countdown is on: Energy and environment battles to watch before Sacramento closes out its session",
-			"url": "https://www.latimes.com/environment/story/2026-08-26/countdown-is-on-energy-environment-battles-to-watch-before-sacramento-closes-out-its-session",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-26T13:00:00.000Z"
 		}
 	]
 }
