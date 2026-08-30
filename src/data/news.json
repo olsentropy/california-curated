@@ -1,6 +1,18 @@
 {
-	"lastUpdated": "2026-08-30T09:30:19.220Z",
+	"lastUpdated": "2026-08-30T15:30:54.913Z",
 	"items": [
+		{
+			"headline": "NASA's Roman Space Telescope, set to probe universe with JPL tech, launches on SpaceX rocket",
+			"url": "https://www.latimes.com/science/story/2026-08-30/nasas-roman-space-telescope-launches-with-jpl-tech-aboard",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-30T14:52:07.000Z"
+		},
+		{
+			"headline": "France's wildfire nightmare echoes California's hard lessons on building in the woods",
+			"url": "https://www.latimes.com/world-nation/story/2026-08-30/frances-wildfire-nightmare-echoes-californias-hard-lessons-on-building-in-woods",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-30T10:00:00.000Z"
+		},
 		{
 			"headline": "Twin Big Sur wildfires shut down Highway 1 as new blaze races toward coast",
 			"url": "https://www.latimes.com/california/story/2026-08-29/second-fire-growing-rapidly-in-big-sur-barrels-towa-highway-1",
@@ -12,6 +24,18 @@
 			"url": "https://www.latimes.com/california/story/2026-08-29/winery-worker-charged-with-causing-damaging-napa-wine-country-wildfire",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-29T11:00:00.000Z"
+		},
+		{
+			"headline": "Long Beach aquarium takes in at least 500 animals rescued from wildlife traffickers",
+			"url": "https://www.latimes.com/california/story/2026-08-28/long-beach-aquarium-takes-in-500-animals-rescued-from-traffickers",
+			"source": "Los Angeles Times",
+			"publishedAt": "2026-08-28T23:05:28.000Z"
+		},
+		{
+			"headline": "At 16, she competed in the Olympics. Now she's diving for UC Berkeley.",
+			"url": "https://news.berkeley.edu/2026/08/28/at-16-she-competed-in-the-olympics-now-shes-diving-for-uc-berkeley/",
+			"source": "UC Berkeley News",
+			"publishedAt": "2026-08-28T22:52:42.000Z"
 		},
 		{
 			"headline": "Trump administration considering trading Yosemite land to private developer",
@@ -38,22 +62,10 @@
 			"publishedAt": "2026-08-28T10:00:00.000Z"
 		},
 		{
-			"headline": "Long Beach aquarium takes in at least 500 animals rescued from wildlife traffickers",
-			"url": "https://www.latimes.com/california/story/2026-08-28/long-beach-aquarium-takes-in-500-animals-rescued-from-traffickers",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-28T23:05:28.000Z"
-		},
-		{
-			"headline": "At 16, she competed in the Olympics. Now she's diving for UC Berkeley.",
-			"url": "https://news.berkeley.edu/2026/08/28/at-16-she-competed-in-the-olympics-now-shes-diving-for-uc-berkeley/",
-			"source": "UC Berkeley News",
-			"publishedAt": "2026-08-28T22:52:42.000Z"
-		},
-		{
-			"headline": "Firefighters struggling to get a handle on Timber fire as blaze surges again in Big Sur",
-			"url": "https://www.latimes.com/california/story/2026-08-27/firefighters-struggling-to-get-handle-on-timber-fire-as-blaze-surges-again-in-big-sur",
-			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-28T03:53:27.000Z"
+			"headline": "MBARI hosts workshop to share latest research on comb jellies",
+			"url": "https://www.mbari.org/news/mbari-hosts-workshop-to-share-latest-research-on-comb-jellies/",
+			"source": "MBARI",
+			"publishedAt": "2026-08-27T22:00:11.000Z"
 		},
 		{
 			"headline": "Black jaguar Samba dies after rattlesnake bites at California sanctuary",
@@ -62,22 +74,16 @@
 			"publishedAt": "2026-08-27T22:52:17.000Z"
 		},
 		{
-			"headline": "MBARI hosts workshop to share latest research on comb jellies",
-			"url": "https://www.mbari.org/news/mbari-hosts-workshop-to-share-latest-research-on-comb-jellies/",
-			"source": "MBARI",
-			"publishedAt": "2026-08-27T22:00:11.000Z"
+			"headline": "In Memory of Jake Sigg, a California Conservationist",
+			"url": "https://baynature.org/2026/08/27/communityvoices/in-memory-of-jake-sigg-a-california-conservationist/",
+			"source": "Bay Nature",
+			"publishedAt": "2026-08-27T20:36:07.000Z"
 		},
 		{
 			"headline": "California Legislature passes bill to track use of 'forever chemicals' by farms",
 			"url": "https://www.latimes.com/california/story/2026-08-27/california-legislature-passes-bill-to-track-farms-forever-chemicals",
 			"source": "Los Angeles Times",
 			"publishedAt": "2026-08-27T20:41:32.000Z"
-		},
-		{
-			"headline": "In Memory of Jake Sigg, a California Conservationist",
-			"url": "https://baynature.org/2026/08/27/communityvoices/in-memory-of-jake-sigg-a-california-conservationist/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-27T20:36:07.000Z"
 		},
 		{
 			"headline": "California moves to outlaw disposable vapes, a toxic trash plague from beaches to battery fires",
@@ -122,10 +128,10 @@
 			"publishedAt": "2026-08-26T21:22:03.000Z"
 		},
 		{
-			"headline": "The countdown is on: Energy and environment battles to watch before Sacramento closes out its session",
-			"url": "https://www.latimes.com/environment/story/2026-08-26/countdown-is-on-energy-environment-battles-to-watch-before-sacramento-closes-out-its-session",
+			"headline": "Southern California has front-row seat for partial 'blood moon' eclipse: When to get the best view",
+			"url": "https://www.latimes.com/california/story/2026-08-26/how-to-see-partial-blood-moon-eclipse-in-southern-california",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-26T13:00:00.000Z"
+			"publishedAt": "2026-08-26T18:04:08.000Z"
 		},
 		{
 			"headline": "Clues to longevity may reside in the genomes of long-lived bats",
@@ -140,16 +146,10 @@
 			"publishedAt": "2026-08-26T17:45:44.000Z"
 		},
 		{
-			"headline": "Reno became an affordable, booming destination. Fires show the limits of all that growth",
-			"url": "https://www.latimes.com/california/story/2026-08-26/la-me-reno-hawk-fire-wildfire-wildlife-urban-interface",
+			"headline": "The countdown is on: Energy and environment battles to watch before Sacramento closes out its session",
+			"url": "https://www.latimes.com/environment/story/2026-08-26/countdown-is-on-energy-environment-battles-to-watch-before-sacramento-closes-out-its-session",
 			"source": "Los Angeles Times",
-			"publishedAt": "2026-08-26T10:00:00.000Z"
-		},
-		{
-			"headline": "Last-Minute California Forever Shipyard Bill Gets Kicked to 2027",
-			"url": "https://baynature.org/2026/08/25/conservation/policy/another-last-minute-california-forever-shipyard-bill-goes-to-solano-supervisors/",
-			"source": "Bay Nature",
-			"publishedAt": "2026-08-25T17:21:50.000Z"
+			"publishedAt": "2026-08-26T13:00:00.000Z"
 		}
 	]
 }
