@@ -17,7 +17,7 @@ tags:
   - birds
   - birding
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 For thousands of years, California’s wetlands have offered food and refuge to birds making their long journeys along the Pacific Flyway, one of the great bird-migration corridors of the world.
