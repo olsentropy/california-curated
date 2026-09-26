@@ -12,6 +12,11 @@
   ],
   "redirects": [
     {
+      "source": "/news/",
+      "destination": "/science-feed/",
+      "permanent": true
+    },
+    {
       "source": "/2019/05/29/how-california-companies-are-leading-the-effort-to-save-the-world-with-microbes/",
       "destination": "/blog/how-california-companies-are-leading-the-effort-to-save-the-world-with-microbes/",
       "permanent": true
