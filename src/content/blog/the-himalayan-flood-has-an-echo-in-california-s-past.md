@@ -15,7 +15,7 @@ tags:
   - Santa Clarita
   - William Mulholland
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 The images from Nepal and Tibet are difficult to grasp: towns submerged in mud, a border crossing swept away, and a river carrying boulders and buildings downstream. The scenes from high in the Himalayas may seem like a disaster in a distant part of the world. But for Californians, the flood has a haunting historical echo. Ninety-eight years ago, a deluge caused by the collapse of the [St. Francis Dam](https://en.wikipedia.org/wiki/St._Francis_Dam) tore through [San Francisquito Canyon](https://en.wikipedia.org/wiki/San_Francisquito_Canyon) and killed hundreds of people on its way to the Pacific Ocean.
