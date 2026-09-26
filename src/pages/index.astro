@@ -5,7 +5,6 @@ import Header from '../components/Header.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import { SITE_DESCRIPTION, SITE_TITLE, SECTIONS } from '../consts';
 import { getPublishedPosts, heroUrl, take } from '../lib/posts';
-import NewsRail from '../components/NewsRail.astro';
 import AdSlot from '../components/AdSlot.astro';
 import '../styles/global.css';
 
@@ -99,9 +98,6 @@ const sectionRails = SECTIONS.map((s) => {
 
 			<!-- ====== AD: HOMEPAGE BANNER ====== -->
 			<AdSlot slot="9618208010" label="homepage-banner" />
-
-			<!-- ====== CALIFORNIA IN THE NEWS ====== -->
-			<NewsRail />
 
 			<!-- ====== SECTION RAILS ====== -->
 			{sectionRails.map(({ section, posts }) => (
