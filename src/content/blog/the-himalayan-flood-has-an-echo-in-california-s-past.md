@@ -22,9 +22,9 @@ The images from Nepal and Tibet are difficult to grasp: towns submerged in mud, 
 
 The causes of the two floods were obviously different. The August 26 disaster in Nepal and Tibet began when a rock wall high on Langtang Lirung collapsed, causing glacier ice to careen down with it. [A new scientific assessment](https://www.nytimes.com/2026/09/16/climate/nepal-tibet-flood-climate-change.html?searchResultPosition=6) found that human-caused warming likely helped destabilize the slope by thinning the glacier, thawing ice within the rock, and increasing meltwater.
 
-[![](https://substackcdn.com/image/fetch/$s_!syVp!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3571566f-e56c-4f12-9a65-8ac6cc8372cf_1000x1364.jpeg)](https://substackcdn.com/image/fetch/$s_!syVp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3571566f-e56c-4f12-9a65-8ac6cc8372cf_1000x1364.jpeg)
+[![](/wp-content/uploads/cms/tibet%20nyt.webp)](https://substackcdn.com/image/fetch/$s_!syVp!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3571566f-e56c-4f12-9a65-8ac6cc8372cf_1000x1364.jpeg)
 
-Steep canyon walls channeled the flood’s rush of water, mud and rock through the Nepal–Tibet border region in August 2026. (Photo: New York Times)
+_Steep canyon walls channeled the flood’s rush of water, mud and rock through the Nepal–Tibet border region in August 2026. (Photo: New York Times)_
 
 The St. Francis flood began with the failure of a dam built on unstable ground, a dam whose driving force was one of the most controversial figures in California history: [William Mulholland](https://californiacurated.com/blog/the-los-angeles-aqueduct-cascades-a-monument-to-human-ingenuity-and-the-lifeblood-of-a-megacity/).
 
