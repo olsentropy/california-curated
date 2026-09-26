@@ -10,8 +10,7 @@
     "dev": "astro dev",
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
-    "astro": "astro",
-    "fetch-news": "node scripts/fetch-news.mjs"
+    "astro": "astro"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.4",
