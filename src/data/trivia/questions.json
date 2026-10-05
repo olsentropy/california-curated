@@ -8,8 +8,7 @@
       "correct": 2,
       "explanation": "The last confirmed California grizzly was shot in 1922, and the species was declared extinct by 1924. It now exists only on the flag.",
       "category": "animals",
-      "difficulty": "medium",
-      "source": { "title": "Ghost of the West", "slug": "ghost-of-the-west-the-tragic-story-of-the-california-grizzly-bears-journey-from-wilderness-to-state-flag" }
+      "difficulty": "medium"
     },
     {
       "id": "q-0002",

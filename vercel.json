@@ -173,12 +173,12 @@
     },
     {
       "source": "/2023/06/16/a-deep-dive-into-the-world-of-californias-orcas-majestic-ocean-predators/",
-      "destination": "/blog/a-deep-dive-into-the-world-of-californias-orcas-majestic-ocean-predators/",
+      "destination": "/category/ocean-science/",
       "permanent": true
     },
     {
       "source": "/2023/06/20/ghost-of-the-west-the-tragic-story-of-the-california-grizzly-bears-journey-from-wilderness-to-state-flag/",
-      "destination": "/blog/ghost-of-the-west-the-tragic-story-of-the-california-grizzly-bears-journey-from-wilderness-to-state-flag/",
+      "destination": "/category/animals/",
       "permanent": true
     },
     {
@@ -333,7 +333,7 @@
     },
     {
       "source": "/2024/08/21/saving-the-white-abalone-is-part-of-a-much-bigger-story/",
-      "destination": "/blog/saving-the-white-abalone-is-part-of-a-much-bigger-story/",
+      "destination": "/category/ocean-science/",
       "permanent": true
     },
     {
@@ -799,6 +799,121 @@
     {
       "source": "/comments/feed/",
       "destination": "/rss.xml",
+      "permanent": true
+    },
+    {
+      "source": "/blog/saving-the-white-abalone-is-part-of-a-much-bigger-story/",
+      "destination": "/category/ocean-science/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/a-deep-dive-into-the-world-of-californias-orcas-majestic-ocean-predators/",
+      "destination": "/category/ocean-science/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/ghost-of-the-west-the-tragic-story-of-the-california-grizzly-bears-journey-from-wilderness-to-state-flag/",
+      "destination": "/category/animals/",
+      "permanent": true
+    },
+    {
+      "source": "/category/birds/:path*",
+      "destination": "/category/animals/",
+      "permanent": true
+    },
+    {
+      "source": "/category/geology-and-earthquakes/:path*",
+      "destination": "/category/geology-earthquakes/",
+      "permanent": true
+    },
+    {
+      "source": "/category/marine-science/:path*",
+      "destination": "/category/ocean-science/",
+      "permanent": true
+    },
+    {
+      "source": "/category/horticulture/:path*",
+      "destination": "/category/plants/",
+      "permanent": true
+    },
+    {
+      "source": "/category/history-of-science/:path*",
+      "destination": "/category/science-history/",
+      "permanent": true
+    },
+    {
+      "source": "/category/biology/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/people/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/places/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/cities/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/physics/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/books/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/indigenous-culture/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/health-and-medicine/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/private-science/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/agriculture/:path*",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/category/:slug/page/:n(\\d+)/",
+      "destination": "/category/:slug/",
+      "permanent": true
+    },
+    {
+      "source": "/author/californiacurated/:path*",
+      "destination": "/author/erik-olsen/",
+      "permanent": true
+    },
+    {
+      "source": "/page/:n(\\d+)/",
+      "destination": "/blog/",
+      "permanent": true
+    },
+    {
+      "source": "/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/:slug/amp/",
+      "destination": "/blog/:slug/",
+      "permanent": true
+    },
+    {
+      "source": "/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/:slug/feed/",
+      "destination": "/blog/:slug/",
       "permanent": true
     },
     {
