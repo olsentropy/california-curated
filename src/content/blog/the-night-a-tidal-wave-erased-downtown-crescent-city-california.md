@@ -4,7 +4,6 @@ description: Why California’s most northern town is a magnet for deadly tsunam
 pubDate: 2026-10-12
 updatedDate: ''
 heroImage: /wp-content/uploads/media/crescent-city-1964-tsunami-debris-street.jpg
-heroCaption: Debris blankets a downtown Crescent City street after the March 1964 tsunami, which devastated 29 blocks and killed 11 people.
 categories:
   - geology-and-earthquakes
   - marine-science
@@ -19,7 +18,8 @@ tags:
   - '#DelNorteCounty'
   - '#NorthernCalifornia'
 author: Erik Olsen
-draft: true
+draft: false
+heroCaption: Debris blankets a downtown Crescent City street after the March 1964 tsunami, which devastated 29 blocks and killed 11 people.
 ---
 
 I just got back from a weeklong drive down almost the entire length of our lovely state, collecting stories for California Curated. I’ll post them here in this newsletter, plus videos on [Instagram](https://www.instagram.com/californiacuratedus/) and [TikTok](https://www.tiktok.com/@californiacurated). Much of the drive followed Interstate 5, about the most characterless highway the United States has to offer. But I made detours through the magnificent redwoods and spent a productive few days in Davis, where I got a profound sense of how much agriculture matters to California. So, there’s a lot of new stuff coming, where I actually [visited the places](https://californiacurated.substack.com/p/a-modest-proposal) I’m writing about and interviewed people in person. A lot of that is possible because some of you have [paid for a subscription](https://californiacurated.substack.com/subscribe), and for that I am grateful.
