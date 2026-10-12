@@ -61,6 +61,7 @@ collections:
       - { name: pubDate, label: 'Publish date', widget: datetime, format: 'YYYY-MM-DD', date_format: 'YYYY-MM-DD', time_format: false, picker_utc: false }
       - { name: updatedDate, label: 'Updated date (optional)', widget: datetime, format: 'YYYY-MM-DD', date_format: 'YYYY-MM-DD', time_format: false, picker_utc: false, required: false }
       - { name: heroImage, label: 'Hero image', widget: image, required: false, hint: 'Square or 16:9 ratio works best. Drag-drop to upload or paste a URL.' }
+      - { name: heroCaption, label: 'Hero image caption', widget: string, required: false, hint: 'Shown under the hero image. Include photo credit if needed.' }
       - name: categories
         label: Categories
         widget: select

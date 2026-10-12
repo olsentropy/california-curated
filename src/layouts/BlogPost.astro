@@ -10,7 +10,7 @@ import { getRelatedPosts, heroUrl } from '../lib/posts';
 import '../styles/global.css';
 
 type Props = CollectionEntry<'blog'>['data'] & { hideMeta?: boolean; currentId?: string };
-const { title, seoTitle, description, pubDate, updatedDate, heroImage, author, categories, hideMeta, currentId } =
+const { title, seoTitle, description, pubDate, updatedDate, heroImage, heroCaption, author, categories, hideMeta, currentId } =
 	Astro.props;
 
 // Resolve hero image — schema allows asset OR raw URL string
@@ -96,9 +96,10 @@ const authorHref = author === SITE_AUTHOR ? `/author/${SITE_AUTHOR_SLUG}/` : und
 		<main>
 			<article>
 				{hero && (
-					<div class="hero-wrap">
-						<img src={hero} alt={title} class="hero" />
-					</div>
+					<figure class="hero-wrap">
+						<img src={hero} alt={heroCaption ?? title} class="hero" />
+						{heroCaption && <figcaption class="hero-caption">{heroCaption}</figcaption>}
+					</figure>
 				)}
 				<div class="prose">
 					<header class="post-head">
@@ -176,6 +177,15 @@ const authorHref = author === SITE_AUTHOR ? `/author/${SITE_AUTHOR_SLUG}/` : und
 		max-width: 1200px;
 		margin: 0 auto;
 		padding: 2rem 1.25rem 0;
+	}
+	.hero-caption {
+		max-width: 760px;
+		margin: 0.75rem auto 0;
+		text-align: center;
+		font-size: 0.9rem;
+		font-style: italic;
+		color: var(--cc-muted);
+		line-height: 1.5;
 	}
 	.hero {
 		width: 100%;

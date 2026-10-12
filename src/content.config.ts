@@ -27,6 +27,11 @@ const blog = defineCollection({
 				(v) => (v === '' || v === null ? undefined : v),
 				z.string().optional(),
 			),
+			// Optional caption shown under the hero image.
+			heroCaption: z.preprocess(
+				(v) => (v === '' || v === null ? undefined : v),
+				z.string().optional(),
+			),
 			// Preserved from WordPress for URL parity:
 			wpId: z.number().optional(),
 			wpSlug: z.string().optional(),
