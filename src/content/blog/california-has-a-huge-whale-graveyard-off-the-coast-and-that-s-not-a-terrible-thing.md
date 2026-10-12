@@ -3,7 +3,7 @@ title: California Has a Huge Whale Graveyard off the Coast. And That’s Not a T
 description: Whale falls offer scientists a treasure trove of information about life in the deep ocean. Microbiologist Jeffery Marlow talks about the importance of microbes.
 pubDate: 2026-07-27
 updatedDate: ''
-heroImage: /wp-content/uploads/cms/whale fall scripps.jpg
+heroImage: /wp-content/uploads/media/whale fall scripps.jpg
 categories:
   - animals
   - marine-science
@@ -23,7 +23,7 @@ That’s a terrible story, and the _Los Angeles Times_ [broke the scandal](https
 
 Seven whale carcasses were confirmed with underwater video. Sonar data suggested that more than 60 may lie within the surveyed area. These sunken carcasses are known as “whale falls.”
 
-[![Image of a barrel-shaped object on the San Pedro Basin seafloor.](/wp-content/uploads/cms/munitions%20scripps.webp "Image of a barrel-shaped object on the San Pedro Basin seafloor.")](/wp-content/uploads/cms/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-1.jpg)
+[![Image of a barrel-shaped object on the San Pedro Basin seafloor.](/wp-content/uploads/media/munitions%20scripps.webp "Image of a barrel-shaped object on the San Pedro Basin seafloor.")](/wp-content/uploads/media/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-1.jpg)
 
 _Sample munitions surveyed in Scripps expedition (Photo: Scripps Institute of Oceanography)_
 
@@ -33,7 +33,7 @@ Still, the concentration found off Los Angeles was remarkable. Before the Scripp
 
 There is no evidence that the deaths were connected to the industrial waste or military munitions found nearby. The skeletons probably accumulated over many decades. The basin’s extremely low oxygen levels slow decomposition, while its low sedimentation rate may leave the bones exposed rather than burying them.
 
-[![](/wp-content/uploads/cms/whale%20fall%202.jpg)](/wp-content/uploads/cms/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-2.jpg)
+[![](/wp-content/uploads/media/whale%20fall%202.jpg)](/wp-content/uploads/media/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-2.jpg)
 
 _Whale spine seen in a frame of video from the Remotely Operated Vehicle (ROV) during the 2023 seafloor survey of the San Pedro Basin. (Credit: Scripps Institution of Oceanography/UC San Diego.)_
 
@@ -47,7 +47,7 @@ I asked him in particular about the value of whale falls to scientists trying to
 
 A whale fall delivers that food in one enormous pulse.
 
-[![](/wp-content/uploads/cms/marlow%20in%20field.JPG)](/wp-content/uploads/cms/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-3.jpg)
+[![](/wp-content/uploads/media/marlow%20in%20field.JPG)](/wp-content/uploads/media/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-3.jpg)
 
 _Jeff Marlow in the field. (Photo: Jeffrey Marlow)_
 
@@ -61,7 +61,7 @@ Marlow has seen these worms firsthand at a whale fall off San Diego known as [Ro
 
 “Most of the time, scientists come across whale falls that just happen to be there, which means we don’t know how long they’ve been there or what stage of ecological succession they’re in,” Marlow said. “But if you’re able to start the clock from zero, that is an exciting opportunity.”
 
-[![](/wp-content/uploads/cms/osedax%20worm.jpeg)](/wp-content/uploads/cms/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-4.jpg)
+[![](/wp-content/uploads/media/osedax%20worm.jpeg)](/wp-content/uploads/media/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-4.jpg)
 
 _Zombie worm, Osedax on a bone. (Photo: Yoshihiro Fujiwara/JAMSTEC)_
 
@@ -73,7 +73,7 @@ Marlow described it as “a really interesting endosymbiosis, where a microbe an
 
 As decomposition continues, microbes break down organic compounds in and around the bones, generating hydrogen sulfide (which smells like rotten eggs). Other microorganisms use that chemical as an energy source, supporting communities that can include mussels, clams, worms and snails. This way of generating energy without light is known as chemosynthesis, and its pervasiveness in supporting life in the deep was largely unknown to science until relatively recently.
 
-[![](/wp-content/uploads/cms/blue-whale-image-california-newport-p5.jpg)](/wp-content/uploads/cms/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-5.jpg)
+[![](/wp-content/uploads/media/blue-whale-image-california-newport-p5.jpg)](/wp-content/uploads/media/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-5.jpg)
 
 _Blue whale off the coast of Southern California. (Photo: Erik Olsen)_
 

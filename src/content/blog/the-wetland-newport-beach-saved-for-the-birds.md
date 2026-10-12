@@ -3,7 +3,7 @@ title: The Wetland Newport Beach Saved for the Birds
 description: The Upper Newport Bay Ecological Reserve, better known as the Back Bay, remains one of Southern California’s most important refuges for birds traveling the Pacific Flyway.
 pubDate: 2026-09-17
 updatedDate: ''
-heroImage: /wp-content/uploads/cms/birds.webp
+heroImage: /wp-content/uploads/media/birds.webp
 categories:
   - biology
   - cities

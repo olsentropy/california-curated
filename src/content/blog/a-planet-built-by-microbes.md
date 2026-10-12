@@ -3,7 +3,7 @@ title: A Planet Built by Microbes
 description: Deep-sea scientist Jeffrey Marlow discusses the astonishing diversity of microbial life, whale falls, hydrothermal vents, deep-sea mining, and the tiny organisms that help make Earth habitable.
 pubDate: 2026-07-21
 updatedDate: ''
-heroImage: /wp-content/uploads/cms/Marlow_Jeffrey.jpeg
+heroImage: /wp-content/uploads/media/Marlow_Jeffrey.jpeg
 categories:
   - animals
   - marine-science
@@ -22,7 +22,7 @@ Microbes are everywhere. They inhabit the oceans, the soil, the air we breathe, 
 
 The diversity of microbial life is staggering. [Scientists have estimated](https://www.nytimes.com/2016/05/24/science/one-trillion-microbes-on-earth.html?eafs_enabled=false) there may be as many as a trillion microbial species on Earth, with well under one percent formally described. But Marlow covers many other fascinating and timely topics as well, all of them very dear to me, including hydrothermal vents and the growing push to mine the deep ocean for so-called polymetallic nodules. This effort could help supply the metals needed for batteries and other green technologies, but it also threatens vast and poorly understood deep-sea ecosystems.
 
-[[![](/wp-content/uploads/cms/dark%20frontier.jpg)](https://amzn.to/4uQEVtr)](https://amzn.to/4uQEVtr)
+[[![](/wp-content/uploads/media/dark%20frontier.jpg)](https://amzn.to/4uQEVtr)](https://amzn.to/4uQEVtr)
 
 As readers of California Curated know, I believe the ocean and its health are among the most important issues facing humanity. Marlow’s book makes a compelling case that the deep sea is not a distant, disconnected realm. It is an essential part of the planet’s systems that support life on Earth, and understanding and protecting it may be one of the most important scientific challenges of our time.
 
@@ -36,7 +36,7 @@ But every now and then, something huge, like a whale carcass, falls to the seafl
 
 The one I visited is called Rosebud. A ship had killed the whale maybe five or six years earlier, and a scientist at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) named [Greg Rouse](https://www.nytimes.com/2025/04/30/science/whale-carcass-san-diego.html?eafs_enabled=false) was on the lookout for exactly that kind of situation. Most of the time, scientists come across whale falls that just happen to be there, which means we don’t know how long they’ve been there or what stage of ecological succession they’re in.
 
-[![](/wp-content/uploads/cms/whalefall%20rosebud.jpg)](/wp-content/uploads/cms/a-planet-built-by-microbes-img-1.jpg)
+[![](/wp-content/uploads/media/whalefall%20rosebud.jpg)](/wp-content/uploads/media/a-planet-built-by-microbes-img-1.jpg)
 
 _Rosebud, a fin whale whose carcass became the focus of a landmark deep-sea research project off San Diego, helped scientists better understand the unique ecosystems that develop around whale falls. (Photo: Wikimedia Commons)_
 
@@ -46,7 +46,7 @@ What interested me most were these tufts of fluffy, feather-like shapes on the b
 
 It’s a really interesting endosymbiosis, where a microbe and an animal, in partnership, unlock new habitats for each of them. We think this is probably the longest part of whale-fall succession. The bone-eating worms can break it down over decades. We don’t really know how a whale-fall ecosystem ends. It probably goes for decades, maybe even a century or two.
 
-[![](/wp-content/uploads/cms/osedax%20worm.jpeg)](/wp-content/uploads/cms/a-planet-built-by-microbes-img-2.jpg)
+[![](/wp-content/uploads/media/osedax%20worm.jpeg)](/wp-content/uploads/media/a-planet-built-by-microbes-img-2.jpg)
 
 _Zombie worm, Osedax on a bone. (Photo: Yoshihiro Fujiwara/JAMSTEC)_
 
@@ -74,7 +74,7 @@ Those discoveries make you wonder whether we’ve found it all. We certainly hav
 
 There have been estimates that there are a trillion different microbial species. I don’t know how many we’ve characterized or sequenced, but certainly far fewer than one percent of that. There is a lot more out there.
 
-[![](/wp-content/uploads/cms/hydrothermal%20vents.jpg)](/wp-content/uploads/cms/a-planet-built-by-microbes-img-3.jpg)
+[![](/wp-content/uploads/media/hydrothermal%20vents.jpg)](/wp-content/uploads/media/a-planet-built-by-microbes-img-3.jpg)
 
 _Pieces of a hydrothermal vent from the Kermadec Arc north of New Zealand. The orange material is composed of microbes that flourish in the extreme conditions surrounding deep-sea vents. (Photo: Erik Olsen)_
 
@@ -108,7 +108,7 @@ On the face of it, that sounds great. It’s an environmental argument for getti
 
 Hydrothermal vents have been proposed as one place to get them, but the community has pretty effectively said that these are important areas for biodiversity and volatile environments where we don’t really know how magma systems would respond to mining.
 
-[![](/wp-content/uploads/cms/polymetallic%20nodules.jpg)](/wp-content/uploads/cms/a-planet-built-by-microbes-img-4.jpg)
+[![](/wp-content/uploads/media/polymetallic%20nodules.jpg)](/wp-content/uploads/media/a-planet-built-by-microbes-img-4.jpg)
 
 _Polymetallic nodules carpet the seafloor of the Clarion-Clipperton Zone, a vast region of the Pacific Ocean targeted for potential deep-sea mining. (Photo: NOAA)_
 
@@ -148,7 +148,7 @@ For now, I don’t think it is necessarily the best decision to start mining the
 
 With ROVs, we are typically able to stay down longer. There aren’t human systems that need to breathe and eat, so ROV dives can be much longer. You can also get live footage back to a ship or even online, which means many more people can participate in the dive and help determine the best area to sample or explore.
 
-[![](/wp-content/uploads/cms/submersible.webp)](/wp-content/uploads/cms/a-planet-built-by-microbes-img-5.jpg)
+[![](/wp-content/uploads/media/submersible.webp)](/wp-content/uploads/media/a-planet-built-by-microbes-img-5.jpg)
 
 _A Triton submersible is being lowered into the ocean. (Photo: Erik Olsen)_
 
@@ -164,7 +164,7 @@ There are clear differences that we understand, and probably others that we don�
 
 **Erik Olsen:** What compelled you to write _The Dark Frontier: Unlocking the Secrets of the Deep Sea_? What was the key message you were trying to deliver?
 
-[![](/wp-content/uploads/cms/marlow%20in%20field.JPG)](/wp-content/uploads/cms/a-planet-built-by-microbes-img-6.jpg)
+[![](/wp-content/uploads/media/marlow%20in%20field.JPG)](/wp-content/uploads/media/a-planet-built-by-microbes-img-6.jpg)
 
 _Jeff Marlow in the field. (Photo: Jeffrey Marlow)_
 

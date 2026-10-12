@@ -65,7 +65,7 @@ The program's ongoing efforts include monitoring environmental conditions that a
 
 Abalone are far more valuable than merely as a food item. They are keepers of the kelp forest. According to scientists, the abalone eat kelp, but they also clear rocks of any dominant species and thus increase kelp diversity so that multiple kelp species can flourish. When the kelp is healthy and diverse, coastal waters see an explosion of diversity in fish and other animals that depend on kelp forest habitat.  
 
-[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20SIERRA%20copy.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
+[![](/wp-content/uploads/media/CALIFORNIA%20WILDLIFE%20MUGS%20SIERRA%20copy.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 While the success of the abalone recovery program hangs in the balance, its mere existence needs to be recognized as part of a much larger tapestry of species and ecosystem recovery projects currently underway that are aimed at restoring California's coastal ecosystem to some semblance of what it was centuries ago. 
 

@@ -37,7 +37,7 @@ Roadcuts in California, those slices through hills and mountainsides made during
 
 Roadcuts expose layers of rock that have been hidden from view for millions of years. Each layer, or stratum, tells a story of what the environment was like when that layer was deposited. By studying these layers, geologists can reconstruct a timeline of events that shaped the region. For example, they can identify periods of volcanic activity, times when the area was submerged under an ancient ocean, or epochs when [massive glaciers](<https://glaciers.us/glaciers.research.pdx.edu/Glaciers-California.html#:~:text=Geologic%20evidence%20in%20the%20Sierra,in%20other%20regions%20of%20California.>) were carving out the valleys.
 
-[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20JOSHUA%20TREE.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
+[![](/wp-content/uploads/media/CALIFORNIA%20WILDLIFE%20MUGS%20JOSHUA%20TREE.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 California is especially interesting due to its [active tectonic setting](<https://www.conservation.ca.gov/cgs>). It's not just the [San Andreas Fault](<https://en.wikipedia.org/wiki/San_Andreas_Fault>) that captivates geologists; there are numerous [lesser-known faults](<https://maps.conservation.ca.gov/cgs/fam/>) that crisscross the state, and roadcuts can expose these hidden fractures. By studying the composition of rocks along these faults, geologists learn about the nature of past seismic activity and can make predictions about future earthquakes.
 

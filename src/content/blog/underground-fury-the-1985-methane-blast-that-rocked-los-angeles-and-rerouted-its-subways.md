@@ -30,7 +30,7 @@ In the heart of Los Angeles, on a seemingly ordinary spring day in 1985, a sudde
 
 The [Fairfax District](<https://www.fairfaxcounty.gov/>), a bustling area known for its shopping and historic [Farmers Market](<https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjCjqW6oKiCAxVDpFoFHa22C3cYABADGgJ2dQ&ase=2&gclid=Cj0KCQjwtJKqBhCaARIsAN_yS_nSbzwKlx71koLzN9y7Qd4ZUKxz88ljI_MYOyemHcO489zo8ZAbs0kaAhFNEALw_wcB&ohost=www.google.com&cid=CAESVuD2jqmq_VuokQVp9qfzNdsD_6y5qW9BMAEZQfQvitwcm3--SYy2eVPZVGF6YGIGvIh-R7DCzIR_bl9CA2thNYtlY8OL4dEEJKO7YCKApyS7UGF73CYM&sig=AOD64_0FbT0QGbhrsZoAdIf_BOqHwwgunA&q&nis=4&adurl&ved=2ahUKEwiKv526oKiCAxUhRDABHRGxCTEQ0Qx6BAgGEAE>), is also part of the larger Salt Lake Oil Field, a subterranean landscape rich in hydrocarbons. Over millions of years, decaying organic matter trapped in the earth's crust had transformed into vast reservoirs of oil and methane gas. It was this methane that had stealthily migrated close to the surface, building up in closed spaces, waiting for an ignition source to set off a dramatic release.
 
-[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20SIERRA%20copy.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
+[![](/wp-content/uploads/media/CALIFORNIA%20WILDLIFE%20MUGS%20SIERRA%20copy.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 On that day, as shoppers browsed through discounted apparel, an explosive mixture of methane, oxygen, and sewer gases found its spark. The blast shattered the storefront windows and caused a partial cave-in of the roof, turning the shop’s interior into a mangled wreck of metal debris. Twenty-three individuals were left with injuries severe enough to necessitate hospital care. In the aftermath, police cordoned off a four-block radius encompassing the bizarre spectacle of gas fires that jetted into the night sky, a haunting tableau that persisted until dawn.
 
@@ -61,7 +61,7 @@ The dangers of methane beneath Los Angeles are far from gone. The [Porter Ranch 
 
 Today, as the Los Angeles Metro continues to expand, the lessons learned from that explosive day in 1985 continue to resonate, ensuring that safety remains at the core of the city's march toward the future.
 
-[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20JOSHUA%20TREE.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
+[![](/wp-content/uploads/media/CALIFORNIA%20WILDLIFE%20MUGS%20JOSHUA%20TREE.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 

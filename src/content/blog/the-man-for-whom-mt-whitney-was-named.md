@@ -22,7 +22,7 @@ Mount Whitney, the highest mountain in the contiguous United States, is one of t
 
 But how did Mt. Whitney get its name? 
 
-[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20SIERRA%20copy.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
+[![](/wp-content/uploads/media/CALIFORNIA%20WILDLIFE%20MUGS%20SIERRA%20copy.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 “The culminating peak of the Sierra” was identified in 1864 by a team from the California Geological Survey and named Mount Whitney in honor of the team’s leader, State Geologist Josiah Whitney. During that same expedition, survey member Clarence King made two attempts to reach the summit but did not succeed.
 

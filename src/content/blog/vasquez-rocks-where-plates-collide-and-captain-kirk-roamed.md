@@ -38,7 +38,7 @@ There’s a reason that Vasquez Rocks is so often chosen as a set. The site lies
 
 Named for [Tiburcio Vásquez](<https://en.wikipedia.org/wiki/Tiburcio_V%C3%A1squez>), a notorious California Bandit who used the formation to elude officials in 1873-1874, the rocks have made it a favorite filming location going back to the Saturday-morning westerns of the 1920s and ’30s like “The Texas Ranger” in 1931 and “The Girl and the Bandit” in 1939. Other, non-Star Trek productions include the 1994 film version of “The Flintstones” and “The Big Bang Theory.” 
 
-![](/wp-content/uploads/cms/Tiburcio_V%25C3%25A1squez.jpg)
+![](/wp-content/uploads/media/Tiburcio_V%25C3%25A1squez.jpg)
 
 [_Tiburcio Vásquez_](<https://en.wikipedia.org/wiki/Tiburcio_V%C3%A1squez>)
 

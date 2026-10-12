@@ -3,7 +3,7 @@ title: Hidden Near Los Angeles Is One of the World's Most Important Centers for 
 description: The Gibbon Conservation Center in Santa Clarita is home to about 40 endangered apes and has become a globally important center for conservation, research, and education.
 pubDate: 2026-07-16
 updatedDate: ''
-heroImage: /wp-content/uploads/cms/GIBBONS-08.jpg
+heroImage: /wp-content/uploads/media/GIBBONS-08.jpg
 categories:
   - animals
   - biology
@@ -20,7 +20,7 @@ Years ago, before he passed away, I had the privilege of spending several days w
 
 That thought hit me like a slap last week as I walked through the [Gibbon Conservation Center](https://www.gibboncenter.org/) in Santa Clarita, which I visited with my colleague Tod Mesirow.
 
-[![](/wp-content/uploads/cms/GIBBONS-01.jpg)](/wp-content/uploads/cms/hidden-near-los-angeles-is-one-of-the-world-s-most-important-centers-for-endangered-apes-img-1.jpg)
+[![](/wp-content/uploads/media/GIBBONS-01.jpg)](/wp-content/uploads/media/hidden-near-los-angeles-is-one-of-the-world-s-most-important-centers-for-endangered-apes-img-1.jpg)
 
 A northern white-cheeked gibbon (_Nomascus leucogenys_) named Winke at the Gibbon Conservation Center in Santa Clarita. Native to the forests of Vietnam, Laos, and southern China, the species is Critically Endangered due to habitat loss and illegal wildlife trafficking. (Photo: Erik Olsen)
 
@@ -30,7 +30,7 @@ Gibbons are extraordinary animals. They are true apes, sharing ancestry with ora
 
 We found that out when we arrived just after sunrise.
 
-[![](/wp-content/uploads/cms/GIBBONS-05.jpg)](/wp-content/uploads/cms/hidden-near-los-angeles-is-one-of-the-world-s-most-important-centers-for-endangered-apes-img-2.jpg)
+[![](/wp-content/uploads/media/GIBBONS-05.jpg)](/wp-content/uploads/media/hidden-near-los-angeles-is-one-of-the-world-s-most-important-centers-for-endangered-apes-img-2.jpg)
 
 Tuk, a pileated gibbon (_Hylobates pileatus_), at the Gibbon Conservation Center in Santa Clarita. Native to the forests of Thailand, Cambodia, and a small part of southeastern Myanmar, pileated gibbons are classified as Endangered due to habitat loss, hunting, and the illegal wildlife trade. (Photo: Erik Olsen)
 
@@ -40,7 +40,7 @@ Then another.
 
 Within moments the entire center erupted into an eye-widening chorus of hoots, whoops, melodious screams, and booming calls that echoed across the canyon. Every species has its own song, and together they created one of the most stunning wildlife experiences I have had anywhere. It is difficult to believe something this extraordinary happens every morning just outside Los Angeles.
 
-[![](/wp-content/uploads/cms/gibbon%20conservation%20center.jpg)](/wp-content/uploads/cms/hidden-near-los-angeles-is-one-of-the-world-s-most-important-centers-for-endangered-apes-img-3.jpg)
+[![](/wp-content/uploads/media/gibbon%20conservation%20center.jpg)](/wp-content/uploads/media/hidden-near-los-angeles-is-one-of-the-world-s-most-important-centers-for-endangered-apes-img-3.jpg)
 
 The Gibbon Conservation Center in Santa Clarita is one of the world’s leading institutions dedicated to the conservation, research, and care of endangered gibbons. Founded in 1976, it is home to about 40 gibbons representing all four genera of the world’s smallest apes. (Photo: Erik Olsen)
 
@@ -48,7 +48,7 @@ I’m not going to sugarcoat it. The gibbons are all in enclosures. They do not 
 
 The center is led by [Gabriella Skollar](https://www.gibboncenter.org/meet-the-staff.html), who first came here from Hungary in 2005 to study gibbons and eventually became its director. Along with a small, dedicated staff and volunteers, she oversees the daily care of the animals while continuing the center’s scientific mission. During our visit, we also met Jodi Kleier, an anthropology graduate from the University of Kansas with a fascination for gibbon skeletal anatomy, particularly their enlarged hyoid bones (bones in the neck which help them make their vocalizations). Kleier spends much of her day preparing diets and hand-feeding broccoli, fruit, and so-called monkey nuggets to the gibbons, which eagerly stretch out their absurdly long, hairy arms to grab each piece.
 
-[![](/wp-content/uploads/cms/GIBBONS-07.jpg)](/wp-content/uploads/cms/hidden-near-los-angeles-is-one-of-the-world-s-most-important-centers-for-endangered-apes-img-4.jpg)
+[![](/wp-content/uploads/media/GIBBONS-07.jpg)](/wp-content/uploads/media/hidden-near-los-angeles-is-one-of-the-world-s-most-important-centers-for-endangered-apes-img-4.jpg)
 
 Alan Mootnick Jr., an eastern hoolock gibbon (_Hoolock leuconedys_), at the Gibbon Conservation Center in Santa Clarita. Native to northeastern India, Myanmar, and southwestern China, eastern hoolock gibbons are classified as Vulnerable due to habitat loss and hunting. Alan Mootnick Jr. is named in honor of the center's founder, Alan Mootnick. (Photo: Erik Olsen)
 
@@ -62,7 +62,7 @@ Spend even a few minutes watching a gibbon — the curiosity, intelligence, agil
 
 Fortunately, this is also a story of hope, because the gibbons are there, for all to see.
 
-[![](/wp-content/uploads/cms/GIBBONS-04.jpg)](/wp-content/uploads/cms/hidden-near-los-angeles-is-one-of-the-world-s-most-important-centers-for-endangered-apes-img-5.jpg)
+[![](/wp-content/uploads/media/GIBBONS-04.jpg)](/wp-content/uploads/media/hidden-near-los-angeles-is-one-of-the-world-s-most-important-centers-for-endangered-apes-img-5.jpg)
 
 Rocky, a Javan gibbon (Hylobates moloch), at the Gibbon Conservation Center in Santa Clarita. Endemic to the island of Java in Indonesia, Javan gibbons are classified as Endangered due to habitat loss and forest fragmentation. (Photo: Erik Olsen)
 

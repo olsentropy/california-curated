@@ -3,7 +3,7 @@ title: The Miracle of Cabo Pulmo in Baja California
 description: How local fishermen transformed Cabo Pulmo into one of the world's greatest marine conservation success stories.
 pubDate: 2026-07-08
 updatedDate: ''
-heroImage: /wp-content/uploads/cms/cabo pulmo aburto.jpeg
+heroImage: /wp-content/uploads/media/cabo pulmo aburto.jpeg
 categories:
   - marine-science
   - biology
@@ -29,7 +29,7 @@ Cabo Pulmo, at the tip of the Baja Peninsula, is one of the world’s great mari
 
 Last week, I dove the reef and surrounding waters of Cabo Pulmo with my two [PADI-certified](https://www.padi.com/) kids. Reaching Cabo Pulmo is not easy. The hot, lonely highway stretches for miles through an arid landscape of towering cardón cacti and endless desert scrub. The final 15 miles are along a rutted, washboard dirt road. I was relieved that my rental car made it without incident. The village itself is tiny, little more than a single unpaved road lined with dilapidated buildings, most of them local dive outfitters. One small restaurant served what were probably the freshest and best fish tacos I’ve ever had. And I’ve had a lot of fish tacos
 
-[![](/wp-content/uploads/cms/cabo%20pulmo%20tacos.jpeg)](/wp-content/uploads/cms/the-miracle-of-cabo-pulmo-in-baja-california-img-1.jpg)
+[![](/wp-content/uploads/media/cabo%20pulmo%20tacos.jpeg)](/wp-content/uploads/media/the-miracle-of-cabo-pulmo-in-baja-california-img-1.jpg)
 
 _Honestly, some of the best — and freshest — fish tacos I’ve ever had. (Photo: Erik Olsen)_
 
@@ -39,7 +39,7 @@ Led by local families including the [Castro family](https://www.sierraclub.org/s
 
 The recovery that followed has astonished marine scientists.
 
-[![](/wp-content/uploads/cms/cabo%20pulmo%20village.jpg)](/wp-content/uploads/cms/the-miracle-of-cabo-pulmo-in-baja-california-img-2.jpg)
+[![](/wp-content/uploads/media/cabo%20pulmo%20village.jpg)](/wp-content/uploads/media/the-miracle-of-cabo-pulmo-in-baja-california-img-2.jpg)
 
 _Cabo Pulmo remains remarkably undeveloped, with just a handful of buildings, most of them family-run dive outfitters, lining the village's rutted dirt road. (Photo: Erik Olsen)_
 
@@ -51,13 +51,13 @@ I talked to Aburto about Cabo Pulmo's extraordinary recovery, and he believes th
 
 Today, diving Cabo Pulmo is like entering an ocean that has largely disappeared elsewhere in the Gulf of California. The region is still known as the “[The World’s Aquarium](https://californiacurated.substack.com/p/yes-baja-california-is-slowly-tearing)”, a term coined by the late Jacques Cousteau, but fish numbers in the Sea of Cortez [have been in dramatic decline](https://pmc.ncbi.nlm.nih.gov/articles/PMC1559885) for a long time. But now, massive schools of bigeye jacks swirl into dense silver tornadoes. Green sea turtles glide calmly across the reef. Bull sharks patrol a cleaning station, while California sea lions, eagle rays, mobula rays, and occasionally mantas flap their underwater wings through the shallows. During the winter months, there are humpbacks and whale sharks. On our dive, even though it was murkier than I would have liked, we encountered giant groupers, snappers, porkfish, surgeonfish, angelfish, trumpetfish, moray eels, and dozens of species of tiny, colorful reef fish among the hard coral colonies. One school of yellow snapper we passed, or that passed us, consisted of several hundred fish, tightly aligned in formation. I’ve dived a lot of places in the world, and while Indonesia is still my favorite, Cabo Pulmo now ranks among one of my favorite places.
 
-[![](/wp-content/uploads/cms/cabo%20pulmo%20sign.jpg)](/wp-content/uploads/cms/the-miracle-of-cabo-pulmo-in-baja-california-img-3.jpg)
+[![](/wp-content/uploads/media/cabo%20pulmo%20sign.jpg)](/wp-content/uploads/media/the-miracle-of-cabo-pulmo-in-baja-california-img-3.jpg)
 
 _Cabo Pulmo was declared a protected marine area in 1995 after years of advocacy by local residents who recognized that overfishing was destroying the reef. (Photo: Erik Olsen)_
 
 Scientists continue to study how this unusually resilient ecosystem has survived environmental changes that have devastated many coral reefs elsewhere in the Pacific. Cabo Pulmo has become an important natural laboratory for understanding reef resilience, fish biomass, predator recovery, and how healthy ecosystems respond when fishing pressure is removed. In California, we have established an impressive network of [marine protected areas](https://wildlife.ca.gov/Conservation/Marine/MPAs) (MPAs), many of them less than two decades old. The oldest, around the Channel Islands, has become one of the clearest demonstrations of what can happen when fishing and other extractive activities are curtailed and marine ecosystems are given the opportunity to recover.
 
-![](/wp-content/uploads/cms/school%20yellow%20snapper.jpeg)
+![](/wp-content/uploads/media/school%20yellow%20snapper.jpeg)
 
 _Incredible schools of fish, including yellow snapper (Photo: Erik Olsen)_
 
@@ -65,7 +65,7 @@ Marine protected areas are becoming increasingly popular around the world. The r
 
 As Aburto explains, the recovery at Cabo Pulmo demonstrates two of the most important lessons in marine conservation. “Number one: Marine life can come back very fast, in this case, just 10 years. Number two: If the local people are involved in protection, you get the best results.”
 
-[![](/wp-content/uploads/cms/fish%20cabo%20pulmo.jpg)](/wp-content/uploads/cms/the-miracle-of-cabo-pulmo-in-baja-california-img-4.jpg)
+[![](/wp-content/uploads/media/fish%20cabo%20pulmo.jpg)](/wp-content/uploads/media/the-miracle-of-cabo-pulmo-in-baja-california-img-4.jpg)
 
 _This photo really doesn’t do justice to the incredible numbers of fish around the reef. (Photo: Erik Olsen)_
 

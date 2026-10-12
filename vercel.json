@@ -12,6 +12,11 @@
   ],
   "redirects": [
     {
+      "source": "/wp-content/uploads/cms/:path*",
+      "destination": "/wp-content/uploads/media/:path*",
+      "permanent": true
+    },
+    {
       "source": "/news/",
       "destination": "/science-feed/",
       "permanent": true

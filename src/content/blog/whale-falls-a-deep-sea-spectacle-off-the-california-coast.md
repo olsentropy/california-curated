@@ -38,7 +38,7 @@ The discovery off Los Angeles is attributed to several factors. Detailed surveys
 
 [Eric Terrill ](<https://eterrill.scrippsprofiles.ucsd.edu/>)and [Sophia Merrifield](<https://scripps.ucsd.edu/profiles/smerrifield>), oceanographers from the [Scripps Institution of Oceanography at UCSD](<https://scripps.ucsd.edu/>), led surveys in 2021 and 2023 to assess waste spread across 135 square miles of seafloor in the San Pedro Basin. This area, twice the size of Washington, D.C., and located about 15 miles offshore, was used as [an industrial dumping ground](<https://www.latimes.com/projects/la-coast-ddt-dumping-ground/>) in the early to mid-1900s. Many of the objects discovered during the survey were barrels containing the banned pesticide DDT and its toxic byproducts.
 
-[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20JOSHUA%20TREE.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
+[![](/wp-content/uploads/media/CALIFORNIA%20WILDLIFE%20MUGS%20JOSHUA%20TREE.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 _Visit the_ [**_California Curated store on Etsy_**](<https://www.etsy.com/shop/CaliforniaCuratedUS>) _for original prints showing the beauty and natural wonder of California._ 
 

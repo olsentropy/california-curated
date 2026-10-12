@@ -25,8 +25,11 @@ slug:
   sanitize_replacement: '-'
 
 # Where the CMS uploads new images.
-media_folder: public/wp-content/uploads/cms
-public_folder: /wp-content/uploads/cms
+# Note: don't name this folder "cms" or "admin" — since Oct 2026 Sveltia
+# treats any folder with those names as read-only and disables Upload.
+# (Images formerly in uploads/cms were moved here; vercel.json redirects old URLs.)
+media_folder: public/wp-content/uploads/media
+public_folder: /wp-content/uploads/media
 
 site_url: https://californiacurated.com
 display_url: https://californiacurated.com

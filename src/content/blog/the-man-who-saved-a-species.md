@@ -40,7 +40,7 @@ Elizabeth Kolbert captured the scale of the problem in her book [_The Sixth Exti
 
 But every so often, there are stories that tick in the other direction. Small victories. Species that somehow slip through the cracks and hang on.
 
-![The author at the Owens River in California](/wp-content/uploads/cms/the-man-who-saved-a-species-img-1.jpg "The author at the Owens River in California")
+![The author at the Owens River in California](/wp-content/uploads/media/the-man-who-saved-a-species-img-1.jpg "The author at the Owens River in California")
 
 _The author at the Owens River in California_
 

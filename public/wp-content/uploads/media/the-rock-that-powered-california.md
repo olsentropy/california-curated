@@ -3,7 +3,7 @@ title: 'The Rock That Powered California: The Monterey Formation'
 description: From microscopic plankton to billions of barrels of oil, few rock formations have shaped California's history more profoundly than the Monterey formation.
 pubDate: 2026-06-25
 updatedDate: ''
-heroImage: /wp-content/uploads/cms/monterey-formation.jpg
+heroImage: /wp-content/uploads/media/monterey-formation.jpg
 categories:
   - geology-and-earthquakes
   - places
@@ -36,13 +36,13 @@ Much of the pioneering research on the geology, formation, and unique compositio
 
 The Monterey Formation is one of the most intensely studied petroleum formations in the world, helping geologists better understand how oil is generated, how it migrates through rock, and accumulates underground. But the Monterey Formation isn't just important beneath the surface. Its rocks are also among the most distinctive along the California coast. Walk along the beach near [Crystal Cove in Orange County](http://www.crystalcovestatepark.org/), for example, and examples of Monterey Formation rocks are everywhere. You can see the layering and porosity of these rocks all along the coast, and one result is the extensive network of tide pools that teem with marine life. As a kid growing up in Orange County, I spent countless hours exploring tide pools up and down the shoreline. Looking back, those experiences helped spark my fascination with the ocean and the remarkable creatures that live there.
 
-[![](/wp-content/uploads/cms/monterey-formation-rocks.jpg)](https://substackcdn.com/image/fetch/$s_!-2RS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F489a36fe-f2b9-46df-903b-95577a2c2824_768x1024.jpeg)
+[![](/wp-content/uploads/media/monterey-formation-rocks.jpg)](https://substackcdn.com/image/fetch/$s_!-2RS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F489a36fe-f2b9-46df-903b-95577a2c2824_768x1024.jpeg)
 
 _Monterey Formation rocks near Little Corona in Newport Beach with tide pools teeming with sea life. (Photo: Erik Olsen)_
 
 Beyond its geological and economic significance, the Monterey Formation preserves an extraordinary record of ancient life. Its layers hold a variety of marine fossils, including diatoms, radiolarians, foraminifera, and [coccolithophores](https://en.wikipedia.org/wiki/Coccolithophore). These microfossils offer a detailed look at past ocean conditions, helping scientists reconstruct the climatic and oceanographic history of the state. Additionally, the formation [contains fossils](https://ucmp.berkeley.edu/tertiary/mio/monterey.html#:~:text=The%20Monterey%20Formation%20is%20a,numbers%20of%20finely%20preserved%20crabs.) of [larger marine vertebrates](https://ucmp.berkeley.edu/tertiary/mio/montverts.html), such as whales, seals, and fish, providing further insight into the ecosystems of ancient oceans.
 
-[![](/wp-content/uploads/cms/microfossils%20monterey%20rocks.jpg)](https://substackcdn.com/image/fetch/$s_!O23U!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F855f1092-9dfa-4241-8c0d-ff2794e528a1_600x480.jpeg)
+[![](/wp-content/uploads/media/microfossils%20monterey%20rocks.jpg)](https://substackcdn.com/image/fetch/$s_!O23U!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F855f1092-9dfa-4241-8c0d-ff2794e528a1_600x480.jpeg)
 
 _Microscope image of microfossils and organic matter in Monterey rocks. (Cal State Long Beach)_
 

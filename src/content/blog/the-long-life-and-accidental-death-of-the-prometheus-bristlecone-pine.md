@@ -51,7 +51,7 @@ Prometheus’s death brought global attention to the incredible age and ecologic
 
 California is home to the oldest, tallest, and largest trees on the planet, not just the ancient Bristlecone Pines, but also the sky-scraping [coast redwoods](<https://californiacurated.com/2021/03/04/why-are-californias-redwoods-and-sequoias-so-big/>) and the enormous giant sequoias. It’s also the most biodiverse state in the U.S., making it one of the most ecologically exceptional places on Earth.
 
-[![](/wp-content/uploads/cms/CALIFORNIA%20WILDLIFE%20MUGS%20SIERRA%20copy.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
+[![](/wp-content/uploads/media/CALIFORNIA%20WILDLIFE%20MUGS%20SIERRA%20copy.jpg)](https://www.etsy.com/shop/CaliforniaCuratedUS)
 
 [**CALIFORNIA CURATED ART ON ETSY**](<https://www.etsy.com/shop/CaliforniaCuratedUS>) \*\*[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) \*\*
 

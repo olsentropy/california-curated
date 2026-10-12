@@ -3,7 +3,7 @@ title: Sea Turtles Are Thriving in a Concrete River in Los Angeles
 description: A threatened population of green sea turtles is thriving in the concrete channels of the San Gabriel River in Long Beach.
 pubDate: 2026-05-28
 updatedDate: ''
-heroImage: /wp-content/uploads/cms/sea turtle aquarium of the pacific.jpeg
+heroImage: /wp-content/uploads/media/sea turtle aquarium of the pacific.jpeg
 categories:
   - animals
   - marine-science
@@ -24,7 +24,7 @@ And there they were.
 
 Sea turtles. [Eastern Pacific green sea turtles](https://en.wikipedia.org/wiki/Green_sea_turtle), to be exact. Probably twenty of them. Several were huge, maybe two hundred pounds or more. Others were smaller. Perhaps juveniles. Swimming and feeding beneath bridges, beside power plants, and inside one of the most engineered waterways in California.
 
-![](/wp-content/uploads/cms/SEA%20TURTLES%201.jpg)
+![](/wp-content/uploads/media/SEA%20TURTLES%201.jpg)
 
 _Eastern Pacific green sea turtles swim through the lower San Gabriel River near Long Beach, home to the northernmost resident population of green sea turtles in the eastern Pacific Ocean. (Photo: Erik Olsen)_
 
@@ -32,7 +32,7 @@ Of course, I filmed them and hung around for a while, feeling both astonished by
 
 They are majestic and beautiful, if a bit cartoonish. Swimming against the current, which also carries trash and other detritus, they use their flippers like giant oars and only progress a foot or two with each stroke. Every few minutes, one would raise its head above the water and take a quick sip of air. On a few occasions, one would glance quickly at me before going back under.
 
-![](/wp-content/uploads/cms/SEA%20TURTLES%203.jpg)
+![](/wp-content/uploads/media/SEA%20TURTLES%203.jpg)
 
 _A lone Eastern Pacific green sea turtle surfaces inside the concrete channel of the San Gabriel River in Long Beach. (Photo: Erik Olsen)_
 
@@ -44,7 +44,7 @@ I wanted to know more, so I started digging through [papers and reports](https:/
 
 Far out at sea, the turtles migrate between feeding grounds and nesting beaches, with females returning to sandy beaches in places like Mexico to lay eggs. Weeks later, hatchlings emerge from the sand (I’ve personally seen this once) and scramble toward the ocean, beginning a journey that, for some, may eventually lead all the way to the San Gabriel River.
 
-![](/wp-content/uploads/cms/SEA%20TURTLES.jpeg)
+![](/wp-content/uploads/media/SEA%20TURTLES.jpeg)
 
 _Eastern Pacific green sea turtles in the San Gabriel River (Photo: Erik Olsen)_
 
@@ -58,7 +58,7 @@ But the river also provides food and shelter. The turtles gather around the Los 
 
 We’ve known about the turtles for decades, but recently researchers, volunteers, and conservation groups have been working to better understand and protect them. The [National Oceanic and Atmospheric Administration](https://www.fisheries.noaa.gov/west-coast/science-data/green-turtle-research-and-conservation-southern-california) (NOAA) is deeply involved in sea turtle conservation in Southern California, including the San Gabriel River population.
 
-![](/wp-content/uploads/cms/Sea%20Turtle%20Rehab%20Center%202026.jpeg)
+![](/wp-content/uploads/media/Sea%20Turtle%20Rehab%20Center%202026.jpeg)
 
 _Porkchop at the Sea Turtle Rehab Center 2026 (Photo: Aquarium of the Pacific)_
 
@@ -66,7 +66,7 @@ According to Davis, the turtles face threats from fishing line, hooks, pollution
 
 Some turtles here are also fitted with tracking tags so scientists can better understand their movements and behavior. But satellite tags are expensive, and the turtles have a tendency to get rid of them, so some are fitted instead with small metal tags embedded with a microchip so they can be easily scanned and identified. “And then the latest method of tracking is we’re using photo ID. We’re using identification of the face itself of the sea turtles,” says Davis.
 
-![](/wp-content/uploads/cms/sea%20turtle%20release.webp)
+![](/wp-content/uploads/media/sea%20turtle%20release.webp)
 
 _Porkchop, an Eastern Pacific green sea turtle, is released into the San Gabriel River after nearly a year of rehabilitation and medical care at Aquarium of the Pacific. (Josh Barber / Aquarium of the Pacific)_
 
