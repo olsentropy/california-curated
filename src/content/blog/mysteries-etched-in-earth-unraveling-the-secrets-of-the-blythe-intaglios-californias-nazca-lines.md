@@ -1,7 +1,7 @@
 ---
-title: "The Blythe Intaglios are the California’s Nazca Lines. They are True Mysteries Etched in Earth."
+title: "The Blythe Intaglios Are California’s Own Nazca Lines"
 seoTitle: "The Blythe Intaglios are the California’s Nazca Lines. They are True Mysteries Etched in Earth."
-description: "The Blythe Intaglios—have long puzzled anthropologists and captivated the imagination of those who visit them or view them from the sky."
+description: "Giant human and animal figures, the largest 171 feet long, are scraped into the desert near Blythe. Nobody knows exactly how old they are or why they were made. California’s little-known geoglyphs."
 pubDate: 2024-01-10
 updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/01/intaglio.jpeg"
@@ -12,28 +12,27 @@ tags: ["animals", "california", "environment"]
 author: "Erik Olsen"
 ---
 
-
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
-In the vast expanses of California's Colorado Desert, less than four hours from Los Angeles, a series of ancient and enigmatic figures etched into the earth—the Blythe Intaglios—have long puzzled anthropologists and captivated the imagination of those who visit them or view them from the sky. They were brought to modern attention somewhat by chance. In 1932, [George Palmer](<https://www.thearchaeologist.org/blog/geoglyphs-called-blythe-intaglios-in-californias-desert>), a pilot flying over the Mojave Desert between Las Vegas, Nevada and Blythe, glimpsed these enigmatic formations, sparking curiosity and awe. 
+Out in the Colorado Desert near Blythe, less than four hours from Los Angeles, there are giant figures scratched into the ground: a man 171 feet long, four-legged animals and geometric shapes. Nobody's sure exactly how old they are or what they were for. Outsiders didn't even notice them until 1932, when a pilot named [George Palmer](<https://www.thearchaeologist.org/blog/geoglyphs-called-blythe-intaglios-in-californias-desert>), flying between Las Vegas and Blythe along the Colorado River, looked down and saw them. 
 
-Named for the nearby town of [Blythe, California](<https://www.cityofblythe.ca.gov/>), these large [geoglyphs](<https://en.wikipedia.org/wiki/Geoglyph>) (human-made designs created on the ground by arranging or moving objects in a landscape), sprawl across the desert floor, and are an extraordinary example of prehistoric art, yet they remain one of the lesser-known archaeological wonders of North America. The Colorado Desert, just south of the Mojave, contains the only known desert intaglios in North America. 
+They're called the Blythe Intaglios, after the nearby town of [Blythe](<https://www.cityofblythe.ca.gov/>). They're [geoglyphs](<https://en.wikipedia.org/wiki/Geoglyph>), designs made on the ground by moving rocks and soil, and they're among the most impressive Native American art in the country. Hardly anyone has heard of them. They're part of the largest concentration of desert intaglios in North America, with hundreds more scattered along the lower Colorado River in California and Arizona. 
 
 [![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
-The Blythe Intaglios are best observed from above by drone or by plane, where their full scale and intricacy become apparent. The largest figure - of a human with outstretched arms - spans an immense 171 feet, an impressive endeavor considering the primitive tools likely used in their creation. One has to wonder why they were created at all since the people who made them certainly had no way of viewing them from the air. In addition to humans, the figures depict animals such as a rattlesnake and possibly a horse (yeah, what is that thing?), as well as geometric shapes, each meticulously carved by removing the dark desert varnish to reveal the lighter soil underneath. Intaglios in general are classified by their shapes, such as anthropomorphs (humanlike), zoomorphs (animal-like) and various geometric shapes.
+They're best seen from the air. The biggest, a human figure with arms outstretched, is 171 feet long. The people who made them scraped away the dark, sun-baked pebbles on the surface, called desert pavement, to expose the lighter ground underneath. Which raises the obvious question: why make something this big if you can never see it from above? Besides the human figures, there are four-legged animals (yeah, what is that thing?) and geometric shapes. Archaeologists sort intaglios into anthropomorphs (human figures), zoomorphs (animals) and geometric designs.
 
 ![](https://californiacurated.com/wp-content/uploads/2024/01/intaglio-quadraped.jpeg?w=1024)Blythe Intaglio quadruped (Wikipedia)
 
-The intaglios are mostly located along the Colorado River, a fact that some scientists consider significant. Rivers often hold a central place in the spiritual and cultural lives of indigenous peoples. For the tribes associated with the Blythe Intaglios, such as the [Mojave](<https://www.fortmojaveindiantribe.com/>) and [Quechan](<https://www.quechantribe.com/>), the Colorado River was likely a vital part of their spiritual and everyday life. The proximity of these geoglyphs to the river suggests that they could have been part of a broader cultural landscape that included the river as a critical element. The river may have been seen as a source of life and a spiritual boundary, making the nearby land a significant place for creating these monumental figures.
+Most intaglios are near the Colorado River, and that's probably not an accident. For the tribes connected to them, including the [Mojave](<https://www.fortmojaveindiantribe.com/>) and [Quechan](<https://www.quechantribe.com/>), the river was the center of life, both practical and spiritual, and the figures were likely part of a sacred landscape built around it.
 
-While the [Nazca Lines](<https://en.wikipedia.org/wiki/Nazca_Lines>) in Peru have gained worldwide fame, the Blythe Intaglios, though similar in form and function, have remained relatively obscure. Most Californians probably have no idea that such unique archaeological artifacts can be found in the state, let alone so close to a major urban center. This obscurity, however, adds to their mystique. 
+Everybody's heard of Peru's [Nazca Lines](<https://en.wikipedia.org/wiki/Nazca_Lines>). The Blythe Intaglios are a similar kind of thing, and most Californians have no idea they exist, a few hours' drive from LA. 
 
-The geoglyphs are believed to date back at least a thousand years, but their exact age remains uncertain. If the quadruped figures represent horses (reintroduced in North America by the Spanish) then a historical date of sometime after the 1500s would be supported. Archaeologist [Jay von Werlhof](<https://www.pcas.org/documents/Whitley.pdf>) obtained radiocarbon dates for the figures, ranging from 900 BCE to 1200 CE. The human figures, particularly the largest, are thought to represent Mastamho, the creator of life in Mojave and Quechan mythology. The animal figures, like the mountain lions, are steeped in symbolic meaning, potentially reflecting the tribes' cosmology and spiritual beliefs.
+How old are they? Nobody's sure. The archaeologist [Jay von Werlhof](<https://www.pcas.org/documents/Whitley.pdf>) got radiocarbon dates ranging from about 900 BCE to 1200 CE. But if some of the four-legged figures are horses, which the Spanish brought back to North America, those would have to be younger than the 1500s. According to Mojave and Quechan tradition, the giant human figures represent Mastamho, the creator, and the four-legged figures may be Hatakulya, mountain lion beings who helped in the creation.
 
 ![](https://californiacurated.com/wp-content/uploads/2024/01/nazca-lines.jpeg?w=1024)Nazca Lines in Peru. (UNESCO [World Heritage Site](<https://en.wikipedia.org/wiki/World_Heritage_Site>))
 
-The precise purpose of the Blythe Intaglios is a matter of ongoing debate. Some scholars propose that they were part of religious rituals or celestial observances. The alignment and positioning of the figures suggest a possible astronomical function, marking significant events in the lunar or solar calendars. Or perhaps making them was just a fun way to pass the time and express creativity.  
+What they were for is still debated. Many scholars think they were used in ceremonies, and some have suggested they could be tied to the sky and the seasons. Or maybe, at least partly, people just wanted to make something big and beautiful.  
 
 [![](https://californiacurated.com/wp-content/uploads/2023/10/black-oystercatcher-yosemite.jpg)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
@@ -42,11 +41,11 @@ The precise purpose of the Blythe Intaglios is a matter of ongoing debate. Some 
 **Purchase stunning coffee mugs and art prints of iconic California species.**   
 **[Check out our Etsy store.](<https://www.etsy.com/shop/CaliforniaCuratedUS>) **
 
-Despite their historical and cultural significance, the Blythe Intaglios have not been immune to threats. [Off-road vehicle traffic](<https://peer.org/areas-of-work/public-lands/off-road-wreckreation/>) and natural erosion have damaged some of the figures. Conservation efforts are in place, but the remote location and sheer scale of the site present unique challenges. Fences have been erected around some figures to protect them, but much work remains to ensure their preservation.
+They're fragile. [Off-road vehicles](<https://peer.org/areas-of-work/public-lands/off-road-wreckreation/>) have driven over some of them, and erosion wears away at the rest. Fences now surround several figures, but the site is remote and hard to watch over.
 
 ![](https://californiacurated.com/wp-content/uploads/2024/01/colorado-desert.jpg?w=1024)California's Colorado Desert (Wikipedia)
 
-The Blythe Intaglios are more than just ancient art; they are a wonderful example of the rich and diverse cultural heritage of the indigenous peoples of the Southwest. These geoglyphs offer a window into a past that likely predates European influence, a past that is integral to understanding the complex tapestry of American history. Places like the Blythe Intaglios are in constant threat of disappearing forever, but they're important because they connect us with the human past and remind us of the power of human expression over time and the mysteries beneath our feet.
+If you go, stay on the trails and outside the fences. These figures have survived hundreds, maybe thousands, of years of desert weather. They're still sacred to the tribes whose ancestors made them, and they're one of the most remarkable things in California that almost nobody knows about.
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
