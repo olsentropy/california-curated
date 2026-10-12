@@ -1,0 +1,117 @@
+---
+// Invites readers to subscribe to the Substack newsletter and follow on
+// Instagram. Used at the end of every article and as a band on the homepage.
+import { SITE_SUBSTACK, SITE_INSTAGRAM, SITE_INSTAGRAM_HANDLE } from '../consts';
+
+interface Props {
+	variant?: 'article' | 'band';
+}
+const { variant = 'article' } = Astro.props;
+---
+
+<aside class:list={['follow-cta', `follow-cta--${variant}`]} aria-labelledby={`follow-cta-heading-${variant}`}>
+	<div class="follow-cta-inner">
+		<p class="follow-cta-kicker">Don’t miss a story</p>
+		<h2 id={`follow-cta-heading-${variant}`}>Get California Curated in your inbox</h2>
+		<p class="follow-cta-text">
+			New stories arrive first in our free Substack newsletter. Subscribe so you never miss one,
+			and follow us on Instagram for photos and videos from the field.
+		</p>
+		<div class="follow-cta-actions">
+			<a class="btn btn-primary follow-cta-subscribe" href={SITE_SUBSTACK} target="_blank" rel="noopener noreferrer">
+				Subscribe free on Substack
+			</a>
+			<a class="btn follow-cta-instagram" href={SITE_INSTAGRAM} target="_blank" rel="noopener noreferrer me">
+				<svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true">
+					<path fill="currentColor" d="M12 2.2c3.2 0 3.6 0 4.85.07 1.17.05 1.8.25 2.23.42.56.22.96.48 1.38.9.42.42.68.82.9 1.38.17.42.37 1.06.42 2.23.06 1.25.07 1.65.07 4.85s0 3.6-.07 4.85c-.05 1.17-.25 1.8-.42 2.23-.22.56-.48.96-.9 1.38-.42.42-.82.68-1.38.9-.42.17-1.06.37-2.23.42-1.25.06-1.65.07-4.85.07s-3.6 0-4.85-.07c-1.17-.05-1.8-.25-2.23-.42a3.7 3.7 0 01-1.38-.9 3.7 3.7 0 01-.9-1.38c-.17-.42-.37-1.06-.42-2.23C2.2 15.6 2.2 15.2 2.2 12s0-3.6.07-4.85c.05-1.17.25-1.8.42-2.23.22-.56.48-.96.9-1.38.42-.42.82-.68 1.38-.9.42-.17 1.06-.37 2.23-.42C8.4 2.2 8.8 2.2 12 2.2zm0 1.95c-3.14 0-3.51 0-4.75.07-1.07.05-1.65.23-2.04.38-.51.2-.88.44-1.27.83-.39.39-.63.76-.83 1.27-.15.39-.33.97-.38 2.04-.06 1.24-.07 1.61-.07 4.75s.01 3.51.07 4.75c.05 1.07.23 1.65.38 2.04.2.51.44.88.83 1.27.39.39.76.63 1.27.83.39.15.97.33 2.04.38 1.24.06 1.61.07 4.75.07s3.51 0 4.75-.07c1.07-.05 1.65-.23 2.04-.38.51-.2.88-.44 1.27-.83.39-.39.63-.76.83-1.27.15-.39.33-.97.38-2.04.06-1.24.07-1.61.07-4.75s0-3.51-.07-4.75c-.05-1.07-.23-1.65-.38-2.04a2.43 2.43 0 00-.83-1.27 2.43 2.43 0 00-1.27-.83c-.39-.15-.97-.33-2.04-.38C15.51 4.15 15.14 4.15 12 4.15zm0 3.32a4.53 4.53 0 110 9.06 4.53 4.53 0 010-9.06zm0 1.95a2.58 2.58 0 100 5.16 2.58 2.58 0 000-5.16zm5.78-2.17a1.06 1.06 0 11-2.12 0 1.06 1.06 0 012.12 0z"/>
+				</svg>
+				Follow @{SITE_INSTAGRAM_HANDLE}
+			</a>
+		</div>
+	</div>
+</aside>
+
+<style>
+	.follow-cta {
+		background: var(--cc-bg-alt);
+		border-top: 4px solid var(--cc-orange);
+		border-radius: var(--cc-radius);
+		text-align: center;
+	}
+	.follow-cta--article {
+		margin: 2.5rem 0;
+		padding: 2rem 1.5rem;
+	}
+	.follow-cta--band {
+		max-width: var(--cc-max);
+		margin: 3rem auto;
+		padding: 2.5rem 1.25rem;
+	}
+	.follow-cta-inner {
+		max-width: 620px;
+		margin: 0 auto;
+	}
+	.follow-cta-kicker {
+		margin: 0 0 0.4rem;
+		font-family: "Helvetica Neue", Arial, sans-serif;
+		font-size: 0.8rem;
+		font-weight: 700;
+		letter-spacing: 0.08em;
+		text-transform: uppercase;
+		color: var(--cc-orange-dark);
+	}
+	.follow-cta h2 {
+		margin: 0 0 0.75rem;
+		font-size: 1.6rem;
+		line-height: 1.25;
+		color: var(--cc-ink);
+	}
+	.follow-cta-text {
+		margin: 0 0 1.5rem;
+		font-size: 1.05rem;
+		line-height: 1.55;
+		color: var(--cc-ink-soft);
+	}
+	.follow-cta-actions {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 0.75rem;
+	}
+	/* Override the underlined link style that .prose applies to every <a>. */
+	.follow-cta .btn {
+		display: inline-flex;
+		align-items: center;
+		gap: 0.5em;
+		text-decoration: none;
+		font-family: "Helvetica Neue", Arial, sans-serif;
+		font-size: 1rem;
+	}
+	.follow-cta .follow-cta-subscribe {
+		background: var(--cc-orange);
+		border-color: var(--cc-orange);
+		color: #fff;
+	}
+	.follow-cta .follow-cta-subscribe:hover {
+		background: var(--cc-orange-dark);
+		border-color: var(--cc-orange-dark);
+		color: #fff;
+	}
+	.follow-cta .follow-cta-instagram {
+		color: var(--cc-blue-dark);
+	}
+	.follow-cta .follow-cta-instagram:hover {
+		color: #fff;
+	}
+	@media (max-width: 480px) {
+		.follow-cta h2 { font-size: 1.35rem; }
+		.follow-cta--article,
+		.follow-cta--band { padding: 1.75rem 1rem; }
+		.follow-cta .btn {
+			width: 100%;
+			justify-content: center;
+			padding: 0.7em 0.75em;
+			white-space: nowrap;
+		}
+	}
+</style>

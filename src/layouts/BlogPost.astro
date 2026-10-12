@@ -5,6 +5,7 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import AdSlot from '../components/AdSlot.astro';
+import FollowCTA from '../components/FollowCTA.astro';
 import { SECTIONS, SITE_AUTHOR, SITE_AUTHOR_SLUG } from '../consts';
 import { getRelatedPosts, heroUrl } from '../lib/posts';
 import '../styles/global.css';
@@ -119,6 +120,7 @@ const authorHref = author === SITE_AUTHOR ? `/author/${SITE_AUTHOR_SLUG}/` : und
 					</header>
 					{!hideMeta && <hr />}
 					<slot />
+					{!hideMeta && <FollowCTA variant="article" />}
 					{(() => {
 						const etsyImages = [
 							'/etsy ads/etsy-ad-joshua-tree.png',

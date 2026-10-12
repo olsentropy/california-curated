@@ -22,6 +22,8 @@ export const SITE_TWITTER_CREATOR = 'ScienceWeekly';
 export const SITE_FACEBOOK = 'https://www.facebook.com/californiacurious';
 export const SITE_INSTAGRAM = 'https://www.instagram.com/californiacuratedus/';
 export const SITE_TIKTOK = 'https://www.tiktok.com/@californiacurated';
+export const SITE_SUBSTACK = 'https://californiacurated.substack.com/subscribe';
+export const SITE_INSTAGRAM_HANDLE = 'californiacuratedus';
 
 // Magazine sections (used in nav and homepage rails). Order matters — this is
 // what shows up on the top nav. Map each to one or more imported categories.
