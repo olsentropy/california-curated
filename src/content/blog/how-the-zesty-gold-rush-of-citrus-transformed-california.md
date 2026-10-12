@@ -15,11 +15,11 @@ author: "Erik Olsen"
 **A Look into the Roots and Ripened Impact of the Citrus Industry**
 
 
-You might associate California with Hollywood, Silicon Valley, or even its stunning coastline. However, a significant cornerstone in the Golden State's development, prosperity, and identity was quite literally golden: zesty, golden orbs of citrus fruit. California's citrus industry had a profound impact on the state's economic, labor, and global landscape, particularly within Southern California. 
+You might associate California with Hollywood, Silicon Valley, or even its stunning coastline. However, a significant cornerstone in the Golden State's development, prosperity, and identity was quite literally golden: zesty, golden orbs of citrus fruit. California's citrus industry had a profound impact on the state's economic, labor, and global landscape, particularly within Southern California. 
 
 ![](https://californiacurated.com/wp-content/uploads/2023/07/mission-san-gabriel.jpg?w=646)San Gabriel Mission
 
-The citrus industry in California has surprisingly humble beginnings. Spanish missionaries brought orange seeds to California in 1769. The [San Gabriel Mission](<https://en.wikipedia.org/wiki/Mission_San_Gabriel_Arc%C3%A1ngel>) was established in 1771 and had extensive gardens that included a variety of fruits and vegetables. The seeds for the Mission's citrus trees are believed to have come from the Spanish missions in Baja California, Mexico, which in turn got them from the Spanish mainland. The original citrus varieties in Spain were likely brought over from Asia, as citrus trees are native to South Asia and the East Indies. 
+The citrus industry in California has surprisingly humble beginnings. Spanish missionaries brought orange seeds to California in 1769. The [San Gabriel Mission](<https://en.wikipedia.org/wiki/Mission_San_Gabriel_Arc%C3%A1ngel>) was established in 1771 and had extensive gardens that included a variety of fruits and vegetables. The seeds for the Mission's citrus trees are believed to have come from the Spanish missions in Baja California, Mexico, which in turn got them from the Spanish mainland. The original citrus varieties in Spain were likely brought over from Asia, as citrus trees are native to South Asia and the East Indies. 
 
 But the true beginning of what became a multibillion-dollar industry can be attributed to one man. In 1841, [William Wolfskill](<https://en.wikipedia.org/wiki/William_Wolfskill>), an American-Mexican pioneer, cowboy, and agronomist in Los Angeles, planted the first commercial orange grove on a 100-acre ranch near what is now downtown Los Angeles. Wolfskill, a frontier entrepreneur, had initially tried his hand at vineyards, but saw potential in the rugged, fertile Californian soil for more than just grapes.
 
@@ -27,7 +27,7 @@ But the true beginning of what became a multibillion-dollar industry can be attr
 
 Obtaining his initial seeds from the orchards of the San Gabriel Mission, Wolfskill's citrus venture started small. However, his methodical approach to farming and his adoption of innovative irrigation techniques allowed his grove to flourish in the Mediterranean-like climate of Southern California. Wolfskill's oranges were renowned for their quality, gaining him a reputation that extended beyond the borders of California.
 
-Known as the father of the California citrus industry, his foresight and innovation set the stage for the development of an industry that became a cornerstone of the state's economy and identity. Wolfskill's real legacy lies in his profound impact on California's agricultural landscape. When William Wolfskill passed away in Los Angeles in 1866, citrus was booming, but it was mostly a local industry. 
+Known as the father of the California citrus industry, his foresight and innovation set the stage for the development of an industry that became a cornerstone of the state's economy and identity. Wolfskill's real legacy lies in his profound impact on California's agricultural landscape. When William Wolfskill passed away in Los Angeles in 1866, citrus was booming, but it was mostly a local industry. 
 
 ![](https://californiacurated.com/wp-content/uploads/2023/07/olsentropy_valencia_oranges_growing_on_a_tree_in_riverside_cali_63330396-fa78-4a4b-9c88-5da25fb15038-1.png?w=1024)Valencia Oranges
 
@@ -71,7 +71,7 @@ The story of citrus in California is a tale of transformation, from a single ora
 
 ![](https://californiacurated.com/wp-content/uploads/2023/07/california-citrus-park-1.jpeg?w=1024)California Citrus State Historical Park
 
-Today, [California Citrus State Historical Park ](<https://www.parks.ca.gov/californiacitrusshp/>)preserves some of the rapidly vanishing cultural landscape of the citrus industry and tells the story of this industry's role in the history and development of California. Furthermore, it recaptures the time when "Citrus was King" in California, recognizing the importance of the citrus industry in southern California.
+Today, [California Citrus State Historical Park ](<https://www.parks.ca.gov/californiacitrusshp/>)preserves some of the rapidly vanishing cultural landscape of the citrus industry and tells the story of this industry's role in the history and development of California. Furthermore, it recaptures the time when "Citrus was King" in California, recognizing the importance of the citrus industry in southern California.
 
 ![](https://californiacurated.com/wp-content/uploads/2024/09/beach-coffee-1.png?w=500)
 
