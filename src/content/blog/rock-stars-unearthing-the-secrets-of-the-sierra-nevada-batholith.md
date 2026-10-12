@@ -1,7 +1,9 @@
 ---
 title: "The Sierra Nevada Batholith, the Giant Block of Granite Under Half Dome and Mount Whitney"
+seoTitle: "Unearthing the Secrets of the Sierra Nevada Batholith"
 description: "Half Dome, El Capitan and Mount Whitney are all part of the Sierra Nevada Batholith, a mass of granite 450 miles long that formed miles underground. Here’s how it got there and how it was uncovered."
 pubDate: 2024-10-11
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/yosemite-batholith-olsen.jpg"
 wpId: 2515
 wpSlug: "rock-stars-unearthing-the-secrets-of-the-sierra-nevada-batholith"

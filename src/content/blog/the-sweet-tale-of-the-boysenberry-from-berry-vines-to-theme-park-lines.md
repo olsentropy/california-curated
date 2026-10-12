@@ -1,7 +1,9 @@
 ---
 title: "How the Boysenberry Was Saved From a Weedy Lot and Built Knott’s Berry Farm"
+seoTitle: "The Sweet Journey of the Boysenberry from Family Farms to Theme Park Fame"
 description: "The boysenberry was bred in Anaheim, nearly lost and rescued by Walter Knott, whose roadside berry stand grew into Knott’s Berry Farm. The sweet, slightly tart story of a California original."
 pubDate: 2023-08-08
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/boysenberry-2.jpg"
 wpId: 2403
 wpSlug: "the-sweet-tale-of-the-boysenberry-from-berry-vines-to-theme-park-lines"

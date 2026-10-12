@@ -2,6 +2,7 @@
 title: "The Channel Islands Are California’s Own Galápagos"
 description: "Pygmy mammoths, island foxes and jays found nowhere else: California’s Channel Islands are a natural laboratory for evolution, and a conservation success story, just 12 miles off Ventura."
 pubDate: 2025-06-05
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/01/channel-islands-olsen.jpg"
 wpId: 2892
 wpSlug: "islands-of-insight-unraveling-the-mysteries-of-island-biogeography-in-californias-channel-islands"

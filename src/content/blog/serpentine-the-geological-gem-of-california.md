@@ -1,8 +1,9 @@
 ---
 title: "Serpentine, California’s Slippery, Controversial State Rock"
+seoTitle: "Serpentine is the Geological Gem of California"
 description: "California’s state rock is a chunk of the Earth’s mantle that ended up in the hills. Here’s how serpentine forms, why it nearly lost its title over asbestos and why rare plants love it."
 pubDate: 2023-04-21
-updatedDate: ''
+updatedDate: 2026-10-12
 heroImage: https://californiacurated.com/wp-content/uploads/2023/04/serpentine.jpg
 categories:
   - geology-and-earthquakes

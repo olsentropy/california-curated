@@ -2,6 +2,7 @@
 title: "Squid Pro Quo: The California Market Squid Feeds the Ocean and the State’s Biggest Fishery"
 description: "The California market squid lives fast, dies young and supports the state’s largest fishery by volume. Here’s how they live, how they’re caught and why climate change is pushing them toward Alaska."
 pubDate: 2024-09-23
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/09/market-squid-chromatophores.jpeg"
 wpId: 2576
 wpSlug: "squid-pro-quo-how-the-california-market-squid-gives-back-to-nature-and-economy"

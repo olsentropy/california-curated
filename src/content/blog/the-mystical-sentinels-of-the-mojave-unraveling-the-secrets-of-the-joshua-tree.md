@@ -2,6 +2,7 @@
 title: "The Joshua Tree Isn’t Really a Tree, and Its Future Isn’t Certain"
 description: "The Mojave’s signature plant is a giant yucca that depends on a single moth to reproduce. Here’s how Joshua trees got their name, why they’re so hard to age and why fire and heat threaten them."
 pubDate: 2023-11-13
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/11/joshua-trees.jpeg"
 wpId: 2734
 wpSlug: "the-mystical-sentinels-of-the-mojave-unraveling-the-secrets-of-the-joshua-tree"

@@ -8,6 +8,7 @@ wpSlug: "the-desert-garden-at-the-huntington-a-sanctuary-for-succulents-and-a-ba
 categories: ["agriculture", "biology", "horticulture", "places"]
 tags: ["california", "environment", "garden", "gardening", "huntington-garden", "plants", "succulents"]
 author: "Erik Olsen"
+draft: true
 ---
 
 

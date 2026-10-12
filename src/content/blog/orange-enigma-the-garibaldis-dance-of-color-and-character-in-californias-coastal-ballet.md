@@ -2,6 +2,7 @@
 title: "The Garibaldi Is California’s Bright Orange, Bad-Tempered State Fish"
 description: "California’s state marine fish is impossible to miss, fiercely territorial and oddly curious about divers. Here’s why garibaldi are orange, how the males build nests and where to see one."
 pubDate: 2023-08-24
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/garibaldi.jpg"
 wpId: 2495
 wpSlug: "orange-enigma-the-garibaldis-dance-of-color-and-character-in-californias-coastal-ballet"

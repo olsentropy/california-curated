@@ -2,6 +2,7 @@
 title: "SLAC, the Two-Mile Machine Behind Stanford That Changed Physics"
 description: "SLAC National Accelerator Laboratory, near Stanford, helped discover quarks, hosted the first U.S. website and built the world’s largest digital camera. Today its X-ray lasers film chemistry in action."
 pubDate: 2023-11-22
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/11/slac-history.webp"
 wpId: 2771
 wpSlug: "frontiers-of-discovery-slacs-mission-to-unveil-the-mysteries-of-matter-and-the-cosmos"

@@ -2,7 +2,7 @@
 title: MBARI and the Machines That Let Us See the Deep
 description: From glowing deep-sea creatures to underwater canyons deeper than the Grand Canyon, MBARI is helping uncover the mysteries of the Pacific off California.
 pubDate: 2026-03-06
-updatedDate: ''
+updatedDate: 2026-10-12
 heroImage: https://californiacurated.com/wp-content/uploads/2023/10/mbari.png
 categories:
   - marine-science

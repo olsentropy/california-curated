@@ -1,7 +1,9 @@
 ---
 title: "The Monterey Formation, the Layered Rock Behind California’s Oil and Its Crumbling Cliffs"
+seoTitle: "California’s Monterey Formation: Unraveling the Secrets of a Fossil-Rich, Oil-Bearing Geological Wonder"
 description: "Those stacked, cream-colored cliffs at Crystal Cove and Montaña de Oro are the Monterey Formation, an ancient seafloor built from tiny algae. It’s the source of most of California’s oil and a big reason the coast keeps sliding."
 pubDate: 2024-09-04
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/09/monterey-formation.jpg"
 wpId: 3667
 wpSlug: "the-monterey-formation-and-californias-miocene-oceans-fossils-and-oil"

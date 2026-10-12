@@ -2,6 +2,7 @@
 title: "See Dinosaur-Era Cycads at Descanso Gardens’ Ancient Forest"
 description: "Cycads ruled the Jurassic and fed the dinosaurs. Thanks to a local couple’s donation, one of the best places to see them is Descanso Gardens’ Ancient Forest in La Cañada Flintridge."
 pubDate: 2021-04-11
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/05/cycad.jpg"
 wpId: 437
 wpSlug: "descanso-gardens-rare-collection-of-dinosaur-era-plants"

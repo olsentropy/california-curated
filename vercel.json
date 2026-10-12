@@ -12,6 +12,16 @@
   ],
   "redirects": [
     {
+      "source": "/blog/the-desert-garden-at-the-huntington-a-sanctuary-for-succulents-and-a-battleground-against-poaching/",
+      "destination": "/blog/inside-the-huntington-s-extraordinary-succulent-garden/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/the-desert-garden-at-the-huntington-a-sanctuary-for-succulents-and-a-battleground-against-poaching",
+      "destination": "/blog/inside-the-huntington-s-extraordinary-succulent-garden/",
+      "permanent": true
+    },
+    {
       "source": "/blog/chromatics-and-cognition-the-intriguing-world-of-the-california-two-spot-octopus/",
       "destination": "/blog/californias-two-spot-octopus-is-the-alien-mind-off-shore/",
       "permanent": true
@@ -478,7 +488,7 @@
     },
     {
       "source": "/2024/09/17/the-desert-garden-at-the-huntington-a-sanctuary-for-succulents-and-a-battleground-against-poaching/",
-      "destination": "/blog/the-desert-garden-at-the-huntington-a-sanctuary-for-succulents-and-a-battleground-against-poaching/",
+      "destination": "/blog/inside-the-huntington-s-extraordinary-succulent-garden/",
       "permanent": true
     },
     {

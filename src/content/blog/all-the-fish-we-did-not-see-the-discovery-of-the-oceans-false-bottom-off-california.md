@@ -2,6 +2,7 @@
 title: "All the Fish We Did Not See: How a WWII Sonar Glitch Off San Diego Revealed the Ocean’s False Bottom"
 description: "In 1942, Navy sonar off San Diego found a mysterious ‘false bottom’ hundreds of feet down. It turned out to be alive: the deep scattering layer, part of the largest animal migration on Earth."
 pubDate: 2024-12-03
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/12/paper-nautilus.jpg"
 wpId: 4573
 wpSlug: "all-the-fish-we-did-not-see-the-discovery-of-the-oceans-false-bottom-off-california"

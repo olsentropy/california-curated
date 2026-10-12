@@ -2,6 +2,7 @@
 title: "The Mighty Oaks of California Are a Keystone of the Golden State’s Ecosystem"
 description: "California has about 20 kinds of oak, and they feed and shelter more wildlife than almost anything else that grows here. A look at the trees that hold the state's landscapes together."
 pubDate: 2024-08-22
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/08/oak-tree-1.jpg"
 wpId: 2029
 wpSlug: "the-mighty-oaks-of-california-a-keystone-of-the-golden-states-ecosystem"

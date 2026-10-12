@@ -2,6 +2,7 @@
 title: "Ivanpah, the Glowing Solar Towers Off I-15, Was a Bold Bet That Didn’t Pay Off"
 description: "Those three blinding towers near the Nevada line are the Ivanpah solar plant, once the future of solar power. Here’s how it works, why it struggled and what it means for California’s clean energy push."
 pubDate: 2024-10-22
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/10/ivanpah-solar-2.jpg"
 wpId: 4428
 wpSlug: "the-ivanpah-solar-project-is-an-engineering-solar-power-giant-in-the-mojave-desert"

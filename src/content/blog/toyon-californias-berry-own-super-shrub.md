@@ -2,6 +2,7 @@
 title: "Toyon, the Everyday California Shrub That May Have Named Hollywood"
 description: "You’ve walked past toyon a thousand times. California’s red-berried native shrub feeds winter birds, was food and medicine for Indigenous Californians, and may be the “holly” in Hollywood."
 pubDate: 2023-05-09
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/11/img_0149.jpg"
 wpId: 1968
 wpSlug: "toyon-californias-berry-own-super-shrub"

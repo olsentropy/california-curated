@@ -2,6 +2,7 @@
 title: "JPL and the Voyager Golden Record, Humanity’s Mixtape for the Stars"
 description: "In 1977, JPL sent two gold-plated records into space aboard the Voyager probes, loaded with music, whale songs, greetings in 55 languages and a kiss. Here’s what’s on them and how they were made."
 pubDate: 2024-04-15
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/04/sounds-of-earth.jpg"
 wpId: 3019
 wpSlug: "jpl-and-the-voyager-golden-record-humanitys-a-cosmic-mixtape-in-space"

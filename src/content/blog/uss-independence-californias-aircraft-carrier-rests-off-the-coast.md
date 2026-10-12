@@ -1,7 +1,8 @@
 ---
-title: "A WWII Carrier That Survived Two Atomic Bombs Lies Off San Francisco"
+title: "The USS Independence, a WWII Carrier That Survived Two Atomic Bombs, Lies Off San Francisco"
 description: "The USS Independence fought across the Pacific, survived two atomic bomb tests at Bikini Atoll and was sunk off San Francisco in 1951. Found in 2015, it’s now a deep-sea reef."
 pubDate: 2024-10-30
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/10/uss_independence_cvl-22_in_san_francisco_bay_on_15_july_1943_80-g-74436.jpg"
 wpId: 4500
 wpSlug: "uss-independence-californias-aircraft-carrier-rests-off-the-coast"

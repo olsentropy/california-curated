@@ -1,7 +1,9 @@
 ---
 title: "Dark Parks in California: Where to Find a Truly Dark Sky"
+seoTitle: "Dark Parks in California Allow Us to Reconnect with the Universe"
 description: "Light pollution has erased the Milky Way for most Californians. Here’s why that matters and where to go to see a truly dark sky, from Death Valley and Joshua Tree to Anza-Borrego and Mount Shasta."
 pubDate: 2024-05-24
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/05/milky-way-california.png"
 wpId: 3206
 wpSlug: "dark-parks-in-california-reconnecting-with-the-universe"

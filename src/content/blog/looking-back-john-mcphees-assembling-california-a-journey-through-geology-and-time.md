@@ -1,7 +1,9 @@
 ---
 title: "Why John McPhee’s Assembling California Is Still the Best Book on California Geology"
+seoTitle: "Looking back at John McPhee’s Assembling California: A Journey through Geology and Time"
 description: "John McPhee’s Assembling California, written with geologist Eldridge Moores, explains how the state was pieced together by plate tectonics. Here’s why it’s still the book to read, and what’s changed since."
 pubDate: 2024-09-06
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/06/e8f341ca8df67563124697c333bb77ce.jpg"
 wpId: 2076
 wpSlug: "looking-back-john-mcphees-assembling-california-a-journey-through-geology-and-time"

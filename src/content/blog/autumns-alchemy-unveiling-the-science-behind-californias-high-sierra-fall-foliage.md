@@ -2,6 +2,7 @@
 title: "Why the Eastern Sierra Turns Gold Every Fall"
 description: "Every October, aspens across the Eastern Sierra turn gold, orange and red. Here’s the chemistry behind California’s best fall color, and why the timing is starting to shift."
 pubDate: 2023-10-09
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/10/fall-colors-rock-creek.jpg"
 wpId: 2628
 wpSlug: "autumns-alchemy-unveiling-the-science-behind-californias-high-sierra-fall-foliage"

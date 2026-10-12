@@ -2,6 +2,7 @@
 title: "The Island Fox Nearly Vanished From the Channel Islands. Then It Made a Record Comeback."
 description: "The house cat–sized island fox lives only on California’s Channel Islands. In the late 1990s it nearly disappeared. Here’s how it came back faster than almost any endangered mammal in U.S. history."
 pubDate: 2023-12-20
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/12/santa_cruz_island_fox-nature-conservancy.jpeg"
 wpId: 2880
 wpSlug: "the-enigmatic-island-fox-a-tale-of-survival-and-conservation"

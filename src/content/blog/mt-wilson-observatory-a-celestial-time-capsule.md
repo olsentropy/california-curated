@@ -2,6 +2,7 @@
 title: "Mt. Wilson Observatory, Where We Learned the Universe Is Expanding"
 description: "High above Los Angeles, Mt. Wilson Observatory is where Edwin Hubble discovered other galaxies and the expanding universe. It nearly burned in 2020, and you can still look through its telescopes."
 pubDate: 2023-08-10
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/mt.-wilson-olsen.png"
 wpId: 2414
 wpSlug: "mt-wilson-observatory-a-celestial-time-capsule"

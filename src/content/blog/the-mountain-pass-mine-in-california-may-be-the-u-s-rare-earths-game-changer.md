@@ -1,8 +1,9 @@
 ---
 title: "The Mountain Pass Mine, America’s Only Rare Earth Mine, May Be the Key to Breaking China’s Grip"
+seoTitle: "The Mountain Pass Mine in California May Be the U.S. Rare Earths Game Changer"
 description: "The Mountain Pass Mine in California’s Mojave Desert is America’s only rare earth mine, and it may be the key to breaking China’s near-total grip on the minerals powering the modern world."
 pubDate: 2025-01-29
-updatedDate: 2026-05-14
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2025/01/mp-materials-mine.jpeg"
 wpId: 5064
 wpSlug: "the-mountain-pass-mine-in-california-may-be-the-u-s-rare-earths-game-changer"

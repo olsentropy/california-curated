@@ -2,6 +2,7 @@
 title: "Pasadena Is One of the Great Science Cities on Earth"
 description: "Pasadena is known for the Rose Bowl, but it’s also home to Caltech, JPL, Carnegie Observatories and the Planetary Society. Here’s how a pleasant Southern California suburb became a science powerhouse."
 pubDate: 2024-06-28
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2024/06/pasadena-aerial.jpg"
 wpId: 3152
 wpSlug: "pasadena-city-of-science"
