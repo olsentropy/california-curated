@@ -24,7 +24,6 @@ That’s a terrible story, and the _Los Angeles Times_ [broke the scandal](https
 Seven whale carcasses were confirmed with underwater video. Sonar data suggested that more than 60 may lie within the surveyed area. These sunken carcasses are known as “whale falls.”
 
 [![Image of a barrel-shaped object on the San Pedro Basin seafloor.](/wp-content/uploads/media/munitions%20scripps.webp "Image of a barrel-shaped object on the San Pedro Basin seafloor.")](/wp-content/uploads/media/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-1.jpg)
-
 _Sample munitions surveyed in Scripps expedition (Photo: Scripps Institute of Oceanography)_
 
 That may not be entirely surprising. California sits beside one of the world’s great whale corridors. Over the course of any given year, tens of thousands of large whales migrate through or feed in the waters off our coast, many within sight of land. Grays, blues, humpbacks and fin whales love the rich waters of the California Current, which can be abundant in food.
@@ -34,7 +33,6 @@ Still, the concentration found off Los Angeles was remarkable. Before the Scripp
 There is no evidence that the deaths were connected to the industrial waste or military munitions found nearby. The skeletons probably accumulated over many decades. The basin’s extremely low oxygen levels slow decomposition, while its low sedimentation rate may leave the bones exposed rather than burying them.
 
 [![](/wp-content/uploads/media/whale%20fall%202.jpg)](/wp-content/uploads/media/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-2.jpg)
-
 _Whale spine seen in a frame of video from the Remotely Operated Vehicle (ROV) during the 2023 seafloor survey of the San Pedro Basin. (Credit: Scripps Institution of Oceanography/UC San Diego.)_
 
 Dead whales on the ocean floor may seem like a nothing burger to most of us. But to scientists, they can be a bounty of information about what happens in the deep ocean, a place humans have barely explored. Studying the biological processes around whale falls can tell us a great deal not only about life in the depths, but also about how carbon is sequestered, how nutrients move through the ocean, and how isolated deep-sea communities survive and spread.
@@ -48,7 +46,6 @@ I asked him in particular about the value of whale falls to scientists trying to
 A whale fall delivers that food in one enormous pulse.
 
 [![](/wp-content/uploads/media/marlow%20in%20field.JPG)](/wp-content/uploads/media/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-3.jpg)
-
 _Jeff Marlow in the field. (Photo: Jeffrey Marlow)_
 
 “Every now and then, something huge, like a whale carcass, falls to the seafloor,” Marlow said. “That is an enormous amount of food, and it causes these oases to bloom on the seafloor.”
@@ -62,7 +59,6 @@ Marlow has seen these worms firsthand at a whale fall off San Diego known as [Ro
 “Most of the time, scientists come across whale falls that just happen to be there, which means we don’t know how long they’ve been there or what stage of ecological succession they’re in,” Marlow said. “But if you’re able to start the clock from zero, that is an exciting opportunity.”
 
 [![](/wp-content/uploads/media/osedax%20worm.jpeg)](/wp-content/uploads/media/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-4.jpg)
-
 _Zombie worm, Osedax on a bone. (Photo: Yoshihiro Fujiwara/JAMSTEC)_
 
 Marlow visited Rosebud roughly five years after the whale’s death. Large scavengers had consumed most of the soft tissue, although some fleshy bits remained.
@@ -74,7 +70,6 @@ Marlow described it as “a really interesting endosymbiosis, where a microbe an
 As decomposition continues, microbes break down organic compounds in and around the bones, generating hydrogen sulfide (which smells like rotten eggs). Other microorganisms use that chemical as an energy source, supporting communities that can include mussels, clams, worms and snails. This way of generating energy without light is known as chemosynthesis, and its pervasiveness in supporting life in the deep was largely unknown to science until relatively recently.
 
 [![](/wp-content/uploads/media/blue-whale-image-california-newport-p5.jpg)](/wp-content/uploads/media/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing-img-5.jpg)
-
 _Blue whale off the coast of Southern California. (Photo: Erik Olsen)_
 
 Scientists do not know exactly how long the final stages of the breakdown of a whale fall can continue.

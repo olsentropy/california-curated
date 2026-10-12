@@ -30,7 +30,6 @@ That fascination eventually led me to [The Huntington](https://www.google.com/a
 Recently, while reporting this story and video there with my colleague Tod Mesirow, I met [John Trager](https://www.huntington.org/author/john-trager), the longtime curator of the Desert Garden. Trager has spent more than four decades studying and caring for these plants, and speaking with him helped me understand why succulents inspire such devotion among collectors and gardeners around the world
 
 [![](/wp-content/uploads/media/John%20Trager.jpg)](/wp-content/uploads/media/inside-the-huntington-s-extraordinary-succulent-garden-img-2.jpg)
-
 _John Trager, curator of the desert garden at The Huntington in San Marino. (Photo: Erik Olsen)_
 
 “Perhaps the thing that stands out the most about succulents is the unusual combination of form and flowers,” Trager told me. “You have these funny globular things with spines, yet they produce flowers that look delicate and familiar, like something that would attract a bee.”
@@ -38,7 +37,6 @@ _John Trager, curator of the desert garden at The Huntington in San Marino. (Pho
 The Desert Garden spans over 10 acres, and is one of the oldest and largest collections of cacti and succulents in the world, with over 2,000 species on display. [Established in 1919](https://huntington.org/desert-garden) by [Henry E. Huntington](https://en.wikipedia.org/wiki/Henry_E._Huntington), it showcases plants from arid regions around the world, including unique specimens from North and South America, Africa, and Madagascar. Of course, most succulents are not native to California, and a few succulent species have become invasive in California (some folks I know HATE ice plant), but most are non-native ornamentals that have become deeply embedded into Southern California gardens and homes.
 
 [![](/wp-content/uploads/media/huntington-succulent-4.jpg)](/wp-content/uploads/media/inside-the-huntington-s-extraordinary-succulent-garden-img-3.jpg)
-
 _Succulent plants (Sedum rubrotinctum) at__ [_The Huntington Library, Art Museum and Botanical Gardens_](https://huntington.org/) (Photo: Erik Olsen)_
 
 Succulents are not a single plant family, but a form of adaptation. “Basically it’s water-storing tissue and the ability to survive prolonged periods of drought,” says Trager. For example, many species also use a specialized form of photosynthesis known as [CAM metabolism](https://en.wikipedia.org/wiki/Crassulacean_acid_metabolism), opening their pores at night instead of during the heat of the day to conserve water.
@@ -52,7 +50,6 @@ The Huntington is one of the institutions on the front lines of this battle agai
 “People don’t think of it as theft when they’re just taking a little piece here or there,” Trager told us. “But it’s most annoying, of course, when they take an entire plant, dig it out of the ground. Sometimes those are not that easy to replace.”
 
 [![](/wp-content/uploads/media/huntington-succulent-2-1.jpg)](/wp-content/uploads/media/inside-the-huntington-s-extraordinary-succulent-garden-img-4.jpg)
-
 _Aloe bussei in the Desert Garden at the__ [_The Huntington Library, Art Museum and Botanical Gardens_](https://huntington.org/) (Photo: Erik Olsen)_
 
 Trager reported that the garden recently suffered a significant theft involving a species of succulent called [_echeveria_](https://en.wikipedia.org/wiki/Echeveria) , a large genus of flowering plants from the Crassulaceae family, native to the semi-desert regions of Central America, Mexico, and northwestern South America. The Huntington had three documented specimens, each with known provenance, making them especially valuable for scientific research. Two of the three specimens were stolen.
@@ -62,7 +59,6 @@ Trager reported that the garden recently suffered a significant theft involving 
 Part of the institution’s response has been to make rare succulents more available through ethical propagation programs. “One of the nice things about most succulents is that they’re easy to propagate,” Trager said. “So we do propagate and sell plants. We make them readily available to the public. We prefer that you buy the ones that we propagated for you rather than take them from the garden.”
 
 [![](/wp-content/uploads/media/huntington-succulent-3.jpg)](/wp-content/uploads/media/inside-the-huntington-s-extraordinary-succulent-garden-img-5.jpg)
-
 _I love the various arrangements of succulents in the Desert Garden at__ [_The Huntington Library, Art Museum and Botanical Gardens_](https://huntington.org/) (Photo: Erik Olsen)_
 
 As one of the country’s leading institutions dedicated to the cultivation and conservation of succulents, The Huntington and Trager feel a responsibility not only to protect these plants, but also to help ensure their survival through education, research, and propagation.
@@ -72,7 +68,6 @@ As one of the country’s leading institutions dedicated to the cultivation and 
 [The Covid pandemic led to a rise](https://www.businessresearchinsights.com/market-reports/succulent-plant-market-100171) in interest in indoor gardening and houseplants, including succulents, as people spent more time at home and looked for ways to enhance their living spaces and alleviate stress (raises hand). Succulents, known for their low-maintenance care and unique aesthetic appeal, became particularly popular.
 
 [![](/wp-content/uploads/media/huntington%20plant%20sale.webp)](/wp-content/uploads/media/inside-the-huntington-s-extraordinary-succulent-garden-img-6.jpg)
-
 _Succulent plants available to buy at the annual__ [_Cactus and Succulent Show and Sale_](https://huntington.org/event/cactus-and-succulent-show-and-sale). (Photo by Sandy Masuo. | © The Huntington Library, Art Museum, and Botanical Gardens.)_
 
 Trager points out that since the program began at the Huntington, the garden has distributed over 1,480 species and cultivars, totaling approximately 74,000 plants. Given that many of these plants are endangered, the program functions as a kind of Noah’s Ark, protecting these rare species and helping to ensure their survival for the future.

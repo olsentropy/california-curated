@@ -37,7 +37,6 @@ But every now and then, something huge, like a whale carcass, falls to the seafl
 The one I visited is called Rosebud. A ship had killed the whale maybe five or six years earlier, and a scientist at [Scripps Institution of Oceanography](https://scripps.ucsd.edu/) named [Greg Rouse](https://www.nytimes.com/2025/04/30/science/whale-carcass-san-diego.html?eafs_enabled=false) was on the lookout for exactly that kind of situation. Most of the time, scientists come across whale falls that just happen to be there, which means we don’t know how long they’ve been there or what stage of ecological succession they’re in.
 
 [![](/wp-content/uploads/media/whalefall%20rosebud.jpg)](/wp-content/uploads/media/a-planet-built-by-microbes-img-1.jpg)
-
 _Rosebud, a fin whale whose carcass became the focus of a landmark deep-sea research project off San Diego, helped scientists better understand the unique ecosystems that develop around whale falls. (Photo: Wikimedia Commons)_
 
 But if you’re able to start the clock from zero, that is an exciting opportunity. We went out there about five years later. There was still a little bit of flesh around. Normally the hagfish, sharks, and big fish come in first and eat the meat off the bones.
@@ -47,7 +46,6 @@ What interested me most were these tufts of fluffy, feather-like shapes on the b
 It’s a really interesting endosymbiosis, where a microbe and an animal, in partnership, unlock new habitats for each of them. We think this is probably the longest part of whale-fall succession. The bone-eating worms can break it down over decades. We don’t really know how a whale-fall ecosystem ends. It probably goes for decades, maybe even a century or two.
 
 [![](/wp-content/uploads/media/osedax%20worm.jpeg)](/wp-content/uploads/media/a-planet-built-by-microbes-img-2.jpg)
-
 _Zombie worm, Osedax on a bone. (Photo: Yoshihiro Fujiwara/JAMSTEC)_
 
 **Erik Olsen:** Like so many deep-sea systems, they’re aided by microbes. One of the magnificent discoveries was [in 1977 off the Galápagos](https://www.whoi.edu/feature/history-hydrothermal-vents/discovery/1977.html), when scientists discovered these vent systems teeming with life. We learned that a massive amount of life beyond the reach of light gets by through chemosynthesis. Is that still a “my gosh” moment? How far have we come in understanding these organisms?
@@ -75,7 +73,6 @@ Those discoveries make you wonder whether we’ve found it all. We certainly hav
 There have been estimates that there are a trillion different microbial species. I don’t know how many we’ve characterized or sequenced, but certainly far fewer than one percent of that. There is a lot more out there.
 
 [![](/wp-content/uploads/media/hydrothermal%20vents.jpg)](/wp-content/uploads/media/a-planet-built-by-microbes-img-3.jpg)
-
 _Pieces of a hydrothermal vent from the Kermadec Arc north of New Zealand. The orange material is composed of microbes that flourish in the extreme conditions surrounding deep-sea vents. (Photo: Erik Olsen)_
 
 **Erik Olsen:** I was trying to articulate to a friend recently that if you took a cubic centimeter of almost any air or water on the planet, in almost any place, you would find life. Would that be accurate?
@@ -109,7 +106,6 @@ On the face of it, that sounds great. It’s an environmental argument for getti
 Hydrothermal vents have been proposed as one place to get them, but the community has pretty effectively said that these are important areas for biodiversity and volatile environments where we don’t really know how magma systems would respond to mining.
 
 [![](/wp-content/uploads/media/polymetallic%20nodules.jpg)](/wp-content/uploads/media/a-planet-built-by-microbes-img-4.jpg)
-
 _Polymetallic nodules carpet the seafloor of the Clarion-Clipperton Zone, a vast region of the Pacific Ocean targeted for potential deep-sea mining. (Photo: NOAA)_
 
 The area now on the front lines is the [Clarion-Clipperton Zone](https://en.wikipedia.org/wiki/Clarion%E2%80%93Clipperton_zone) in the middle of the Pacific Ocean. This area has polymetallic nodules, little rocks covering the seafloor across much of the region. We don’t have a great sense of what all lives there or what biogeochemistry those nodules enable.
@@ -149,7 +145,6 @@ For now, I don’t think it is necessarily the best decision to start mining the
 With ROVs, we are typically able to stay down longer. There aren’t human systems that need to breathe and eat, so ROV dives can be much longer. You can also get live footage back to a ship or even online, which means many more people can participate in the dive and help determine the best area to sample or explore.
 
 [![](/wp-content/uploads/media/submersible.webp)](/wp-content/uploads/media/a-planet-built-by-microbes-img-5.jpg)
-
 _A Triton submersible is being lowered into the ocean. (Photo: Erik Olsen)_
 
 But you are missing the visceral, in-person experience and the almost spiritual experience of being immersed in this realm that is the vast majority of our planet.
@@ -165,7 +160,6 @@ There are clear differences that we understand, and probably others that we don�
 **Erik Olsen:** What compelled you to write _The Dark Frontier: Unlocking the Secrets of the Deep Sea_? What was the key message you were trying to deliver?
 
 [![](/wp-content/uploads/media/marlow%20in%20field.JPG)](/wp-content/uploads/media/a-planet-built-by-microbes-img-6.jpg)
-
 _Jeff Marlow in the field. (Photo: Jeffrey Marlow)_
 
 **Jeff Marlow:** Two things made me want to write it.

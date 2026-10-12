@@ -33,7 +33,6 @@ Located in the southern part of the Sierra Nevada Mountains east of Fresno, just
 The grove's deep, well-draining granitic soils provided a stable foundation for sequoia growth, allowing their extensive root systems to spread and access water efficiently. Additionally, the region’s position in the Sierra Nevada ensured a steady supply of moisture from winter snowfall, which melted slowly into the summer, maintaining the soil's hydration even during dry months. Sequoias also depend on periodic low-intensity wildfires, which clear competing vegetation, release seeds from their cones, and create the mineral-rich soil conditions necessary for seedlings to establish. This natural fire cycle once maintained the grove’s density, fostering the exceptional concentration of ancient trees that once dominated area.
 
 ![](/wp-content/uploads/media/UPSCALE-converse%20basin%202.jpeg)
-
 _Loggers and a team of horses pose on a fallen sequoia 26 feet in diameter. Converse Grove, California 1917. (Wikipedia)_
 
 Between 1892–1918, the [Sanger Lumber Company](https://en.wikipedia.org/wiki/Hume-Bennett_Lumber_Company) logged the grove using ruinous clearcutting practices, and cut down 8,000 giant sequoias, some of them over 2000 years old, in a decade-long event that has been described as "the greatest orgy of destructive lumbering in the history of the [world](https://www.inventionandtech.com/content/log-flume-1)." Only 60-100 large specimens survived.

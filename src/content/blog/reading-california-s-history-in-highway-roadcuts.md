@@ -34,7 +34,6 @@ To get those stories, though, you will probably have to read a book or two, or t
 “Geologists on the whole are inconsistent drivers. When a roadcut presents itself, they tend to lurch and weave,” wrote the great New Yorker writer John McPhee in his excellent book [Annals of the Former World](https://amzn.to/4iVsO8F). “To them, the roadcut is a portal, a fragment of a regional story, a proscenium arch that leads their imaginations into the earth and through the surrounding terrane.”
 
 [![](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-1.jpg)](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-1.jpg)
-
 _Glacier-carved domes tell the story of thousands of years of glaciation in California. (Photo: Erik Olsen)_
 
 When you spy a roadcut during a drive, you are seeing exposed layers of rock that have been hidden from view for millions of years. Each layer, or stratum, tells a story of what the environment was like when that layer was deposited. By studying these layers, geologists can reconstruct a timeline of events that shaped the region. For example, they can identify periods of volcanic activity, times when the area was submerged under an ancient ocean, or epochs when [massive glaciers](https://glaciers.us/glaciers.research.pdx.edu/Glaciers-California.html#:~:text=Geologic%20evidence%20in%20the%20Sierra,in%20other%20regions%20of%20California.) were carving out valleys.
@@ -50,7 +49,6 @@ The rock composition in California varies widely, crazily so.
 In the Sierra Nevada, granite roadcuts tell of a time when [massive chambers of magma](https://californiacurated.com/2023/09/01/rock-stars-unearthing-the-secrets-of-the-sierra-nevada-batholith/) slowly cooled and crystallized deep beneath the Earth’s surface. Elsewhere, roadcuts through sedimentary rocks like sandstone and shale may contain fossils, giving clues about the life forms that once inhabited the region.
 
 [![](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-2.jpg)](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-2.jpg)
-
 _The San Gabriel Mountains consist of granite rocks of several kinds and a variety of other crystalline rocks, mainly schists, some of which were originally shales and sandstones but have been altered (metamorphosed) by compression. (Photo: Erik Olsen)_
 
 In roadcuts, geologists might find evidence of powerful geological processes such as [metamorphism](https://www.usgs.gov/faqs/what-are-metamorphic-rocks#:~:text=The%20process%20of%20metamorphism%20does,fluids%20that%20enter%20the%20rocks.), where existing rock types are transformed into new types due to high pressure and temperature conditions. For instance, the presence of metamorphic rocks like schist and gneiss can indicate ancient collision zones where Earth’s tectonic plates have crashed together.
@@ -58,7 +56,6 @@ In roadcuts, geologists might find evidence of powerful geological processes suc
 The value of California roadcuts is wonderfully illustrated in [John McPhee’s “Assembling California.](https://californiacurated.com/2023/06/12/looking-back-john-mcphees-assembling-california-a-journey-through-geology-and-time/)” (It’s hard to write about California geology without citing McPhee). The book is a fascinating narrative that weaves together the tale of California’s complex geology with the lives of the geologists who study it. One of McPhee’s favorite geologists was [Eldridge Moores](https://geology.ucdavis.edu/people/inmemoriam/moores), from the University of California, Davis (Moores died in 2018). Moores played a significant role in deciphering the [geological history](https://www.kqed.org/science/1935668/eldridge-moores-he-looked-at-a-jumble-of-rocks-and-saw-the-sierra-being-born) of the region, particularly through his fieldwork involving, yes, roadcuts.
 
 [![](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-3.jpg)](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-3.jpg)
-
 _Roadcut in San Gabriel mountains. (Photo: Erik Olsen)_
 
 At the time Moores entered the field, the theory of [plate tectonics](https://education.nationalgeographic.org/resource/plate-tectonics/#:~:text=Plate%20tectonics%20is%20a%20scientific,events%2C%20volcanoes%2C%20and%20earthquakes.) was only beginning to gain traction. In the early 1960s, the idea that continents drifted and that vast slabs of the Earth’s crust moved over the mantle was still controversial, and it was met with extreme skepticism by many geologists trained in older, “fixist” models. Moores, however, embraced the theory early, recognizing in it an explanation for the chaotic structures he saw in California’s mountain belts. As a young researcher, he studied the [Troodos ophiolite in Cyprus](https://en.wikipedia.org/wiki/Troodos_Ophiolite), an exposed section of ancient oceanic crust, and realized that similar rock assemblages were scattered across California.
@@ -68,7 +65,6 @@ At the time Moores entered the field, the theory of [plate tectonics](https://ed
 Moores understood that the rocks he saw in California were remnants of vanished oceans, relics of seafloor that had been uplifted and accreted onto the edge of North America. His work helped reveal that much of California had arrived in pieces, a geological patchwork of island arcs, deep-sea basins, and continental fragments welded together by subduction. While others were still debating the validity of plate tectonics, Moores was already applying it, using it to decode the assembly of an entire state.
 
 [![](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-4.jpg)](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-4.jpg)
-
 _Eldridge Moores at the Cordelia fault. (Photo: UC Davis)_
 
 Moores was renowned for his work on [ophiolites](https://volcano.oregonstate.edu/volcanic-minerals/ophiolites#:~:text=Ophiolites%20are%20pieces%20of%20oceanic,rocks%20like%20greywackes%20and%20cherts.), sections of the ocean floor that have been thrust up onto the continent. One of his notable discoveries was the [identification of ophiolite sequences](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/RG020i004p00735) in the roadcuts along the highways of the Sierra Nevada. These discoveries were crucial in understanding the ancient tectonic movements that shaped western North America.
@@ -84,7 +80,6 @@ There are thousands of roadcuts across California; each one is different, and ea
 “It’s a pressure ridge,” says [Prothero](https://amzn.to/410L9ud). “The fault line strikes left, right, sliding horizontally, but there’s always compression on it. So it generates these pressure ridges in multiple places, and that’s when the bed’s exposed. They’re all crumpled up like a carpet. So that’s how much horizontal compression has existed. If you flatten that thing out, it’d be twice as wide.”
 
 [![](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-5.jpg)](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-5.jpg)
-
 _The Palmdale roadcut along Highway 14 is one of California's great geologic windows. This 90-foot-deep cut exposes four-million-year-old lake sediments that have been compressed so intensely by the San Andreas Fault that they appear "crumpled up like a carpet." Many geologists consider it one of the best places in the state to see the fault's immense power on display. (Photo: Erik Olsen)_
 
 The rock here is a chaotic mélange: [fault gouge](https://en.wikipedia.org/wiki/Fault_gouge), shattered granite, and twisted layers of sedimentary rock that have been pulverized and ground together by the powerful motion of the Pacific and North American plates, grinding past one another. By analyzing these layers, geologists can better understand the history and behavior of the San Andreas Fault, including the patterns of past earthquakes and the movements of tectonic plates. This, in turn, contributes significantly to the broader understanding of seismic risks and aids in preparing for future seismic events.
@@ -94,7 +89,6 @@ Another one of California’s well-known roadcuts, the [Charlie Brown Outcrop](h
 “There are really three stories told in this exposure, that of distant ash eruptions, a violent eruption close by, and earthquakes with associated mountain-building.”
 
 [![](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-6.jpg)](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-6.jpg)
-
 _Charlie Brown outcrop along Highway 178 in California. (Google Maps)_
 
 Roadcuts are also crucial for educating the next generation of geologists. What could be more exciting for a budding geologist than a road trip? All the geologists I know, and I know a few, say this is the most fun a geologist can have. They allow students to identify rock types while piecing together the geologic history recorded in the rocks.
@@ -104,7 +98,6 @@ Prothero loves taking drives into the Sierra (who doesn’t?) “You’ve got th
 Prothero also has a favorite roadcut up in the San Gabriel Mountains near Angeles Forest Highway that he takes students to see. “It’s a really nice outcrop because it’s cut right through almost all the bedrock that you have in the San Gabriel Mountains,” he told me. “We had students sketch in where the faults are and figure out the sequence of events like we do in a class exercise. But this is real. And I don’t think there’s any place in the country where you can do that so easily.”
 
 [![](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-7.jpg)](/wp-content/uploads/media/reading-california-s-history-in-highway-roadcuts-img-7.jpg)
-
 _A roadcut in the San Gabriel Mountains reveals millions of years of California’s geologic history. (Photo: Erik Olsen)_
 
 In [Assembling California](https://amzn.to/43YbTOq), McPhee remarked that “geologists are like dermatologists: they study, for the most part, the outermost two per cent of the earth. They crawl around like fleas on the world’s tough hide, exploring every wrinkle and crease, and try to figure out what makes the animal move.”

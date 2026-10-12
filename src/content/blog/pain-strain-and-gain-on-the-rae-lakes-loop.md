@@ -23,7 +23,6 @@ The first three days, we climbed from about 5,000 feet to over 11,900. Up, up, u
 All the while, but especially at the end of a vigorous day, there was something deeply satisfying about the effort. As I said, sometimes you just have to get out.
 
 [![](/wp-content/uploads/media/rae-lakes-substack-IMG_9748.JPG)](/wp-content/uploads/media/pain-strain-and-gain-on-the-rae-lakes-loop-img-1.jpg)
-
 _The team, heading out at the beginning of the five-day hike. (Photo: Erik Olsen)_
 
 At home, an entire day can easily disappear into emails, errands, news, and social media. Some evenings I wonder what I actually accomplished. In the mountains, the answer was clear. We had climbed several thousand feet. We had crossed a pass. We had carried everything we needed ten miles deeper into the magnificent California wilderness.
@@ -33,7 +32,6 @@ One of my favorite living sci-fi writers, Kim Stanley Robinson, who also penned 
 _“Sometimes hiking involves a lot of looking down to be sure of your footing, but other times it’s like strolling up a sidewalk. Minute follows minute, they unspool with nothing in particular to mark their passing. You’re just walking, and you’re only going to be walking for the rest of that day. And so you begin to shift into hiking’s different time, its altered state of consciousness. Sierra time. In that morning light, at the start of a trip, I sometimes laugh out loud.”_
 
 [![](/wp-content/uploads/media/rae-lakes-substack-IMG_9884.JPG)](/wp-content/uploads/media/pain-strain-and-gain-on-the-rae-lakes-loop-img-2.jpg)
-
 _Making our way toward Glen Pass, dwarfed by the immense granite walls of the High Sierra. At this point, there was nowhere to go but up. (Photo: Erik Olsen)_
 
 I understand that rhythm. I know exactly what he’s talking about.
@@ -45,7 +43,6 @@ Yes, I took a lot of photos and videos. How else to preserve some of the more ha
 ![](/wp-content/uploads/media/IMG_9769.JPG)![](/wp-content/uploads/media/rae-lakes-substack-bear.jpg)
 
 ![](/wp-content/uploads/media/rae-lakes-substack-IMG_0159.JPG)![](/wp-content/uploads/media/rae-lakes-substack-IMG_9932.JPG)
-
 _Wildlife along the way: California King Snake, California Black Bear, Rattlesnake, cushion buckwheat (Erik Olsen/Jigar Mehta))_
 
 When you walk that much, that far, gain that much altitude, you inevitably get very thirsty. But, amazingly, in this part of the Sierra, water is always there. Most of the hike passes along gurgling waterways like Bubbs Creek, Woods Creek, Charlotte Creek, and, of course, the South Fork of the Kings River. There are few things as satisfying as filling up your water bladder with the freshest, coldest water you’ve ever tasted, right from a gushing stream spilling out of the high peaks. My God, it tastes so good.
@@ -53,7 +50,6 @@ When you walk that much, that far, gain that much altitude, you inevitably get v
 John Muir wrote, “Climb the mountains and get their good tidings. Nature’s peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you and the storms their energy, while cares will drop off like autumn leaves.” Like much of Muir’s writing, it’s a little overwrought, but it is also true. Nature has a powerful duality: it can be your worst enemy, and it can be your best friend. You don’t always get to set the terms of this relationship. On this trip, nature was kind, if at times a little ungentle. But she was never mean. There were no storms, no punishing winds, and no relentless sun. And, MY GOD, there were almost no mosquitoes. (For that, I have Reddit to thank. Several people recommended hiking the loop in August, after the worst of mosquito season had passed. I had seen Instagram posts from June showing hikers being assaulted by swarms at some of the very places where we later pitched our tents in almost complete peace.)
 
 [![](/wp-content/uploads/media/rae-lakes-substack-IMG_0173.JPG)](/wp-content/uploads/media/pain-strain-and-gain-on-the-rae-lakes-loop-img-3.jpg)
-
 _Standing on a granite slab, the familiar rock so identifiable with the High Sierra. (Photo: Erik Olsen)_
 
 And then there are the views. The long trudge up Bubbs Creek canyon, and the descent through Woods Creek and Paradise Valley on the other side of the loop, are flanked by sculpted granite towers that rise high and seem as smooth as table glass. I sometimes forget that these massive exposures of granite can be found throughout the Sierra, not just in Yosemite. Kings Canyon National Park is filled with them. They are exposed portions of the Sierra Nevada batholith ([which I’ve written about before](https://californiacurated.substack.com/p/unearthing-the-secrets-of-the-sierra)), formed from magma that cooled deep underground more than 80 million years ago. The rock was later lifted and exposed, then shaved by glaciers into the peaks, cliffs and immense U-shaped canyons we see today.
@@ -61,7 +57,6 @@ And then there are the views. The long trudge up Bubbs Creek canyon, and the des
 At Rae Lakes, the mountains seemingly rise out of the water. One peak called Painted Lady stands out, not just for its bulk, but also for its crazy layered look. Its black cap rests above wide bands of reddish and white rock. The colors signify different bodies of magma that cooled deep underground roughly 100 million years ago. Below, the mountain is surrounded by an enormous slope of crumbling scree that it seems to wear like a shawl across its shoulders.
 
 [![](/wp-content/uploads/media/rae-lakes-substack-IMG_9955.JPG)](/wp-content/uploads/media/pain-strain-and-gain-on-the-rae-lakes-loop-img-4.jpg)
-
 _Painted Lady rises above Rae Lakes, its striking bands of red, black and pale rock making it one of the most distinctive peaks in Kings Canyon National Park. (Photo: Erik Olsen)_
 
 At the end of our third day, after all that climbing up, up, up, we reached [Glen Pass](https://en.wikipedia.org/wiki/Glen_Pass), at 11,926 feet. A cool breeze helped evaporate the sweat that had soaked through my clothes on the way there. We stared out across a landscape that opened in every direction, a vast sweep of peaks, lakes, and valleys. And thus began the next few days of interminable, knee-popping steps downhill.
@@ -71,7 +66,6 @@ The Rae Lakes Loop had felt enormous while I was toiling to conquer it. But when
 The Sierra Nevada is one of California’s great treasures. I never tire of visiting, and I will likely never stop, even when I can no longer haul my middle-aged ass across almost 50-miles of stunning wilderness. I’ll drive to a lake, sit there, and appreciate what nature hath wrought. How much better it is to sit there in quiet than to surrender another hour to the large language models, Netflix shows and Instagram posts that increasingly dominate our daily existence.
 
 [![](/wp-content/uploads/media/rae-lakes-substack-IMG_9820.JPG)](/wp-content/uploads/media/pain-strain-and-gain-on-the-rae-lakes-loop-img-5.jpg)
-
 _Alpenglow sets the granite peaks ablaze above Bubbs Creek at the end of our first long day on the trail. (Photo: Erik Olsen)_
 
 When I got home, I was tired and sore. Reconstituted meals now sounded horrible, even though I found them delicious (well, near-delicious) at high altitude. The soles of my Merrells had almost completely flopped off. But within a few days I felt as good as new, stronger even.

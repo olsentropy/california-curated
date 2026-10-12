@@ -30,7 +30,6 @@ In 2021, researchers from [NASA’s Jet Propulsion Laboratory](https://www.jpl.n
 All of this may come as a surprise to many people living near the coast, but scientists warn that parts of California could be especially vulnerable. Places that today flood only during the highest king tides may find themselves dealing with water on streets, trails, parking lots, and marshes far more often. In some communities, flooding could occur every few days during particularly vulnerable months, not because of storms, but simply because the tide came in.
 
 [![](/wp-content/uploads/media/the-moon-may-help-drive-california-s-next-flooding-crisis-img-1.jpg)](/wp-content/uploads/media/the-moon-may-help-drive-california-s-next-flooding-crisis-img-1.jpg)
-
 _High-tide flooding in Honolulu. (Photo: Hawaii Sea Grant King Tides Project)_
 
 There’s a climate change angle to this, and that’s the major driver here, but it’s the lunar nodal cycle that adds a new potentially damaging dimension. The moon itself is not changing. Instead, the plane of the moon’s orbit slowly wobbles over an 18.6-year cycle. Astronomers have known about this phenomenon since the 18th century, but only recently have scientists begun to understand [how it may interact](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014695) with rising sea levels to amplify coastal flooding in places like California. The outlook is not especially encouraging.
@@ -52,7 +51,6 @@ What exactly is happening?
 Hamlington compares the lunar nodal cycle [to a coin](https://coastalreview.org/2021/08/lunar-wobble-gets-attention-but-sea-levels-are-the-problem/) spinning on its edge (scientists also use the term “the Regression of Lunar Nodes”). As the coin slows, it develops a subtle wobble. I didn’t find this explanation very satisfying. I think this is a situation where words don’t quite suffice and a visual explanation helps quite a bit. [Here’s a video](https://youtu.be/lR6Jp42nQDk) where [Professor Kevin Horsburgh](https://wmo.int/profile/kevin-horsburgh) of the National Oceanography Centre uses a soccer ball and a tennis ball to demonstrate how the moon's tilted orbit slowly changes orientation over the 18.6-year cycle.
 
 [![](/wp-content/uploads/media/the-moon-may-help-drive-california-s-next-flooding-crisis-img-3.jpg)](https://www.youtube.com/watch?v=lR6Jp42nQDk)
-
 _This video does a decent job explaining, in very simple terms, what is happening during the lunar nodal cycle. (YouTube)_
 
 The moon itself isn’t wobbling, however. Instead, the tilt of the moon’s orbit slowly shifts direction over time, completing a full cycle every 18.6 years. That gradual change alters the way the moon’s gravity affects Earth’s tides, causing them to be slightly amplified during some decades and slightly suppressed during others. We’re soon entering the amplification period. It’s a small effect, but one that could become much more important as rising seas push coastal communities closer to flooding thresholds.
@@ -60,7 +58,6 @@ The moon itself isn’t wobbling, however. Instead, the tilt of the moon’s orb
 The lunar nodal cycle has been going on for thousands of years. Historically, it was little more than a scientific curiosity. Today, however, the Pacific Ocean is slightly different than where it was decades ago. So, tides that once stopped just short of roads, wetlands, and sea walls may soon spill over them. And it’s coming relatively soon, likely as early as the mid 2030s.
 
 [![](/wp-content/uploads/media/the-moon-may-help-drive-california-s-next-flooding-crisis-img-4.jpg)](/wp-content/uploads/media/the-moon-may-help-drive-california-s-next-flooding-crisis-img-4.jpg)
-
 _California coast near Big Sur (Photo: Erik Olsen)_
 
 For California, the impacts are likely to be somewhat localized. The state’s dramatic cliffs protect many stretches of coast. But low-lying areas are increasingly vulnerable. San Francisco Bay may be particularly impacted. Large stretches of the bay shoreline sit only a few feet above the present sea level. Wetlands, airports, highways, wastewater treatment plants and neighborhoods already deal with periodic flooding during king tides. According to this report, things could get worse in these vulnerable areas.
@@ -68,7 +65,6 @@ For California, the impacts are likely to be somewhat localized. The state’s d
 Southern California has its own vulnerable places. Beach communities, coastal lagoons, harbor infrastructure, wetlands, and transportation corridors may all face increasing pressure from higher water levels. Even places that remain dry can experience problems when seawater backs up drainage systems and reduces their ability to handle runoff.
 
 [![](/wp-content/uploads/media/the-moon-may-help-drive-california-s-next-flooding-crisis-img-5.jpg)](/wp-content/uploads/media/the-moon-may-help-drive-california-s-next-flooding-crisis-img-5.jpg)
-
 _California coast at Hermosa Beach. (Photo: Erik Olsen)_
 
 One of the more surprising findings [of the research](https://www.nature.com/articles/s41558-021-01077-8) is that future flooding may not be evenly distributed throughout the year. Instead, flood days could cluster together into what the researchers called “extreme months.” And so imagine a coastal community dealing not with a handful of nuisance flooding events spread throughout the year, but with flooding every few days for weeks at a time.
