@@ -22,7 +22,7 @@ They're also small, much smaller than their ancestor on the mainland, the gray f
 
 ![](https://californiacurated.com/wp-content/uploads/2023/12/image.png?w=784)Skeleton of the Pygmy Mammoth at the [Santa Barbara Museum of Natural History](<https://en.wikipedia.org/wiki/Santa_Barbara_Museum_of_Natural_History>)
 
-Island foxes are curious and smart. They're mostly nocturnal, but they come out in daylight too, especially where there are campers and food. On Anacapa, Santa Rosa and Santa Cruz, the most visited islands, they patrol campgrounds for scraps and will walk right up to people, which isn't great for them. They eat almost anything, including fruit, insects, mice and birds, shifting their diet with the seasons.
+Island foxes are curious and smart. They're mostly nocturnal, but they come out in daylight too, especially where there are campers and food. On Anacapa, Santa Rosa and Santa Cruz, the most visited islands, they patrol campgrounds for scraps and will walk right up to people, which isn't great for them. I've camped out there with them, and the photos in this story are from those trips. They eat almost anything, including fruit, insects, mice and birds, shifting their diet with the seasons.
 
 Foxes pair up for the breeding season, which runs from January to March. About 50 days after mating, the female has a litter of two to four pups. The young are on their own within the year and can breed at about 10 months old. In the wild, an island fox usually lives 4 to 6 years.
 

@@ -26,6 +26,8 @@ It's also fragile. Each chlorophyll molecule is built around a ring with a magne
 
 When the days get shorter and the nights get cold, the tree stops bothering. It slows down photosynthesis on purpose, stops replacing its chlorophyll and lets the green fade. That's when the other pigments show through.
 
+I flew my drone over the aspens in the Eastern Sierra to shoot the video below.
+
 The yellows and oranges come from [carotenoids](<https://en.wikipedia.org/wiki/Carotenoid>). They were in the leaf all along, just hidden under all that green. (Carotenoids are also what make flamingos pink.)
 
 https://youtu.be/ZD-OYDZqes4 

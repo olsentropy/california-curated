@@ -46,7 +46,7 @@ Being this easy to spot and this easy to catch once made garibaldi a target, and
 
 ![](https://californiacurated.com/wp-content/uploads/2023/08/catalina-island.jpg?w=1024)Catalina Island and Casino Point (Erik Olsen)
 
-If you get a chance, go see one. Put your face in the water off Catalina, and odds are a garibaldi will come over to see who you are.
+I've dived with garibaldi at Casino Point, and if you get the chance, you should too. Put your face in the water off Catalina, and odds are a garibaldi will come over to see who you are.
 
 ![](https://californiacurated.com/wp-content/uploads/2024/09/beach-coffee-1.png?w=500)
 

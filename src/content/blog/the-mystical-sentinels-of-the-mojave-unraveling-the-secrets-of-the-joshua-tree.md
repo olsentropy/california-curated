@@ -44,6 +44,8 @@ Fire is the other threat. In August 2020, the [Dome Fire](<https://en.wikipedia.
 
 ![](https://californiacurated.com/wp-content/uploads/2023/11/joshua-trees-burned-aer-fire.jpg?w=1024)_Joshua Trees burned in the 2020 Dome Fire (Photo: Erik Olsen)_
 
+I walked through the burn at Cima Dome after the fire, and the photos here are from that trip.
+
 Joshua trees didn't evolve with frequent fire, and they don't recover from it well. The desert now has more invasive grasses that carry flames from plant to plant, and hotter, drier years make it harder for burned forests to come back. Cima Dome may never look the way it did.
 
 California climbed out of drought in 2023, but nobody expects the heat to let up. If the hot, dry trend continues, Joshua trees could lose 90 percent of their range by 2100, [Dr. Cameron Barrows](<https://ucanr.edu/blogs/blogcore/postdetail.cfm?postnum=52409>), a research ecologist at UC Riverside's [Center for Conservation Biology](<http://ccb.ucr.edu/>), told [Outside magazine](<https://www.outsideonline.com/outdoor-adventure/environment/will-californias-drought-end-joshua-tree/>).
