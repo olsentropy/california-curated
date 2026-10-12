@@ -10,7 +10,13 @@ categories:
   - climate-change
   - places
   - history-of-science
-tags: []
+tags:
+  - '#CrescentCity'
+  - '#Tsunami'
+  - '#CaliforniaCurated'
+  - '#CaliforniaCoast'
+  - '#DelNorteCounty'
+  - '#NorthernCalifornia'
 author: Erik Olsen
 draft: true
 ---
