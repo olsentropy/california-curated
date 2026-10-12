@@ -1,43 +1,36 @@
 ---
-title: "Hidden in Plain Sight: The Fascinating World of California’s Bush Toyon"
-description: "California is a land of endless natural wonder. From towering redwoods to sun-soaked deserts, the state offers an…"
+title: "Toyon, the Everyday California Shrub That May Have Named Hollywood"
+description: "You’ve walked past toyon a thousand times. California’s red-berried native shrub feeds winter birds, was food and medicine for Indigenous Californians, and may be the “holly” in Hollywood."
 pubDate: 2023-05-09
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/11/img_0149.jpg"
 wpId: 1968
 wpSlug: "toyon-californias-berry-own-super-shrub"
-categories: []
+categories: ["horticulture"]
 tags: []
 author: "Erik Olsen"
 ---
 
-
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
-California is a land of endless natural wonder. From towering redwoods to sun-soaked deserts, the state offers an extraordinary tapestry of ecosystems teeming with life. Every day, we coexist with a fascinating array of plants and animals, many of which we might pass by without a second thought. But these creatures and plants play vital roles in the environment and tell remarkable stories of survival, adaptation, and beauty. Let’s pause for a moment to look closer at a few of them, starting with the elusive and captivating bush toyon—a plant that’s as iconic as it is intriguing.  
-  
-With its vibrant red berries, glossy leaves, and resilience against harsh conditions, the toyon has captured the hearts of many Californians and can be found in yards, hillsides, and along roadsides throughout the state. Toyon (_Heteromeles arbutifolia_), is a versatile native shrub that has long played a prominent role in California's natural and cultural history. Derived from the Greek words “heter” and “malus,” meaning “different” and “apple” respectively, the word _Heteromeles_ refers to the resemblance of the toyon fruit to a small apple.
+If you live in California, you've walked past toyon a thousand times. It's the big, scruffy evergreen shrub on the hillside, in the freeway landscaping and in half the backyards in the state, and in winter it's covered in bright red berries. Most people never learn its name. They should, because it's one of the most useful plants in California, and it might even be the reason Hollywood is called Hollywood.
 
-Toyon is a prominent component of the [coastal sage scrub](<https://en.wikipedia.org/wiki/Coastal_sage_scrub>) plant community and is a part of drought-adapted [chaparral](<https://en.wikipedia.org/wiki/Chaparral>) and mixed [oak woodland](<https://en.wikipedia.org/wiki/California_oak_woodland>) [habitats](<https://en.wikipedia.org/wiki/Habitat>). This evergreen, drought-tolerant plant can be found from Baja California to Oregon, flourishing in a variety of habitats, such as coastal scrub, chaparral, and oak woodlands. 
+Toyon's scientific name is _Heteromeles arbutifolia_. _Heteromeles_ comes from the Greek for "different apple," because the little red fruits look like tiny apples, which makes sense once you know toyon is in the rose family, along with apples.
 
-Toyon is a member of the rose family (_Rosaceae_) and can grow up to 8-15 feet tall, depending on its environment. The plant's leaves are simple, alternate, and evergreen, with serrated margins and a leathery texture. Toyon is well-known for its clusters of bright red berries, which ripen in late fall and persist throughout the winter, providing a valuable food source for various bird species, such as cedar waxwings and robins. The berries also attract other wildlife, like coyotes and bears, and support a diverse ecosystem.
+It grows from Oregon down into Baja California and fits in almost anywhere: [coastal sage scrub](<https://en.wikipedia.org/wiki/Coastal_sage_scrub>), dry [chaparral](<https://en.wikipedia.org/wiki/Chaparral>) and [oak woodland](<https://en.wikipedia.org/wiki/California_oak_woodland>). It handles sun or shade, wet soil or dry, and it can grow 8 to 15 feet tall. The leaves are tough, leathery and toothed along the edges, and they stay green all year, even through a long, dry summer.
 
-The plant's cream-colored flowers bloom in early summer, attracting a variety of pollinators, including bees, butterflies, and hummingbirds. Toyon is a versatile plant that can adapt to different environmental conditions, such as sun or shade, dry or moist soils, and varying elevations. These adaptations make it an important component of California's ecosystems and a valuable resource for both wildlife and humans.
+The berries are the main event. They ripen in late fall and hang on all winter, when there isn't much else to eat, so birds like cedar waxwings and robins go after them in flocks. Coyotes and bears eat them too. In early summer, before the berries, the shrub is covered in small cream-colored flowers that bring in bees, butterflies and hummingbirds.
 
 ![](https://californiacurated.com/wp-content/uploads/2023/05/toyon-coast.jpeg?w=800)Toyon along the California coast (Erik Olsen)
 
-The indigenous people of California, such as the [Chumash](<https://en.wikipedia.org/wiki/Chumash_people>), [Tongva](<https://en.wikipedia.org/wiki/Tongva>), and [Ohlone](<https://en.wikipedia.org/wiki/Ohlone>) tribes, have long recognized the value of the toyon plant. The red berries, also known as "California holly," are not only attractive to look at but also hold various practical uses.
+People have been using toyon for a long time. California's Indigenous peoples, including the [Chumash](<https://en.wikipedia.org/wiki/Chumash_people>), [Tongva](<https://en.wikipedia.org/wiki/Tongva>) and [Ohlone](<https://en.wikipedia.org/wiki/Ohlone>), knew the plant well. The berries are bitter raw, but cooking, drying or mashing them makes them edible, and they were turned into porridge, cider and jelly. According to some accounts, the berries were also sun-dried and ground into a flour-like meal called "pinole." Later settlers added sugar and made [custard](<https://en.wikipedia.org/wiki/Custard>) and [wine](<https://en.wikipedia.org/wiki/Wine>).
 
-Along these lines, while the origins of the name "Hollywood" remain uncertain, some suggest it may be tied to the toyon plant due to its bright red berries and festive appearance. Though there is no concrete evidence supporting this link, the plant’s prominence in the area makes the theory an intriguing possibility.
+The leaves were medicine. The Chumash used them in steam baths for aching joints and breathing problems, as a poultice for sores, wounds and insect bites, and in a tea for stomach trouble. The wood is hard and dense, good for digging sticks, arrows and ceremonial wands. Some sources say the Cahuilla used toyon branches in mourning ceremonies as a symbol of rebirth.
 
-Toyon berries, although bitter and astringent when consumed raw, can be cooked, dried, or mashed to make a variety of foods, such as porridge, cider, and jelly. The berries were traditionally harvested and sun-dried, then ground into a flour-like consistency to make a nutritious, high-energy staple known as "pinole." Later settlers added sugar to make [custard](<https://en.wikipedia.org/wiki/Custard>) and [wine](<https://en.wikipedia.org/wiki/Wine>).
-
-Toyon leaves were also of great importance. The Chumash, for example, used the leaves in a steam bath to alleviate rheumatic pain and respiratory issues. The leaves were also used as a poultice for sores, wounds, insect bites, and tea to treat stomach ailments.
-
-The toyon's hard, dense wood was used to make various tools, such as digging sticks, arrows, and ceremonial wands. The plant was also incorporated into many spiritual and cultural practices. For example, the Cahuilla tribe believed that the toyon was a symbol of rebirth and used its branches during mourning ceremonies.
+Then there's the Hollywood question. Another name for toyon is "California holly," and the hills around Los Angeles were once covered in it. Some people think that's where Hollywood got its name. Nobody has been able to prove it, and there are other theories, but it's a better story than most of them.
 
 ![](https://californiacurated.com/wp-content/uploads/2023/11/img_0150.jpg?w=1024)Toyon in San Gabriel mountains
 
-Toyon is such a common plant in California that its presence on the landscape can sometimes be easily ignored, and yet it is a remarkable plant that has played a significant role in California's natural and cultural history. With its vibrant red berries, adaptability to various environmental conditions, and extensive traditional uses, it is a plant of remarkable beauty and utility. Today, the plant remains an important resource for wildlife, and its traditional uses continue to be recognized and celebrated by both indigenous people and modern Californians alike. 
+Next time you see a big green bush loaded with red berries in December, take a closer look. It's probably toyon, and it's been feeding birds and people in California for a very long time.
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 

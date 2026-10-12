@@ -1,6 +1,6 @@
 ---
-title: "The Garibaldi’s Dance of Color and Character in California’s Coastal Ballet"
-description: "California Garibaldi Underwater photos of California’s coast featured in books and magazines almost always showcase a certain fish: the garibaldi. Within the underwater kaleidoscope of California’s…"
+title: "The Garibaldi Is California’s Bright Orange, Bad-Tempered State Fish"
+description: "California’s state marine fish is impossible to miss, fiercely territorial and oddly curious about divers. Here’s why garibaldi are orange, how the males build nests and where to see one."
 pubDate: 2023-08-24
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/08/garibaldi.jpg"
 wpId: 2495
@@ -12,50 +12,41 @@ author: "Erik Olsen"
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
+If you've ever looked at an underwater photo of the Southern California coast, there's a good chance it had a garibaldi in it. You can't miss them. They're bright orange, about the size of your hand, and they hang around the kelp and rocks like they own the place, which, as far as they're concerned, they do.
 
-Underwater photos of California’s coast featured in books and magazines almost always showcase a certain fish: the garibaldi. Within the underwater kaleidoscope of California's coastal waters, the Garibaldi fish stands out with its fiery orange hue. The garibaldi, a member of the damselfish family, is [the California State marine fish](<https://www.nps.gov/chis/learn/nature/garibaldi.htm#:~:text=The%20garibaldi%2C%20a%20member%20of,Baja%20coastline%20waters%20of%20Mexico.>), and its possession is illegal.
+The garibaldi is a kind of damselfish, and it's [California's official state marine fish](<https://www.nps.gov/chis/learn/nature/garibaldi.htm#:~:text=The%20garibaldi%2C%20a%20member%20of,Baja%20coastline%20waters%20of%20Mexico.>). It's also illegal to take one. The name probably comes from [Giuseppe Garibaldi](<https://en.wikipedia.org/wiki/Giuseppe_Garibaldi>), the 19th-century Italian revolutionary whose soldiers wore red shirts, or from the "garibaldi," a red blouse that was fashionable for women in the 1890s.
 
-The fish is likely named after the 19th-century Italian revolutionary [Giuseppe Garibaldi](<https://en.wikipedia.org/wiki/Giuseppe_Garibaldi>), whose army wore bright red shirts, or after the “garibaldi”, a woman's red blouse worn in the 1890's.
-
-Biologically speaking, the Garibaldi fish owe their orange coloring mainly to pigments called [carotenoids](<https://www.pnas.org/doi/pdf/10.1073/pnas.21.6.330>). These carotenoids are pretty interesting; you'll find them in many fruits and vegetables, like carrots, for example, where they give off that familiar orange glow. Garibaldi eat a diet rich in crustaceans, such as crabs and shrimps, which are packed with these pigments. When the fish ingest them, the carotenoids are absorbed and deposited into the skin tissues.
+That orange comes from [carotenoids](<https://www.pnas.org/doi/pdf/10.1073/pnas.21.6.330>), the same pigments that make carrots orange. Garibaldi eat a lot of small crustaceans, like crabs and shrimp, which are loaded with them, and the pigment ends up in their skin. Carotenoids are also antioxidants, so the fish may get a bit of cell protection along with the paint job.
 
 [![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
-Carotenoids can also act as antioxidants, which means they might even play a role in protecting the fish's cells from damage. This is a bit of a two-for-one deal: not only do they get to look good, but they also get some potential health benefits as well. 
-
-Interestingly, there's a bit of a territorial aspect to the bright orange coloration. Garibaldi fish are known to be quite territorial, and the males are especially flashy. They use their bright coloration to ward off rivals and also to attract mates.
+The color isn't just for looks. Garibaldi are fiercely territorial, especially the males, and that blazing orange is a signal to rivals to back off and to females that this is a healthy fish worth considering. It basically says, "I'm strong, I'm healthy, and this is my rock."
 
 ![](https://californiacurated.com/wp-content/uploads/2023/08/garibaldi.jpeg?w=1024)California Garibaldi
 
-The color isn't just a superficial beauty mark; it plays a significant role in the fish's survival and reproductive strategies. The orange hue signals strength, dominance, and overall fitness. It's like a badge of honor they wear to proclaim, "Look at me, I'm strong, healthy, and in charge here!"
+They live from around [Monterey Bay](<https://en.wikipedia.org/wiki/Monterey_Bay>) south into Baja California, but the easiest place to see them is Catalina Island, about 20 miles off Long Beach. Casino Point in [Avalon](<https://www.cityofavalon.com/>) is a popular dive and snorkel spot, and the garibaldi there are practically part of the scenery.
 
-The Garibaldi is more than just a pretty face in the crowd. This fish, found from [Monterey Bay](<https://en.wikipedia.org/wiki/Monterey_Bay>) down to Baja California, displays behaviors and characteristics that make it a subject of intrigue for marine biologists and diving enthusiasts alike.
-
-One of the best places to see Garibaldi if you are a diver or enjoy snorkeling is off the coast of Catalina Island, about 20 miles from Long Beach. One particularly popular spot is Casino Point in the city of [Avalon](<https://www.cityofavalon.com/>) on the island. 
-
-Known for being highly territorial, the male Garibaldi is an underwater homeowner, meticulously crafting nests from red algae during mating season. This homemaking process is not just about building; it's about showmanship. The males showcase their algae-laden nests to prospective females in an underwater dance, swimming around their creation with pride, hoping to entice the females to lay their eggs there.
+The males are homebuilders. During breeding season, a male clears a patch of rock and grows a nest of red algae on it, trimming and tending it like a lawn. When a female swims by, he shows it off, circling and dancing around the nest to convince her it's a good place to lay her eggs.
 
 https://youtube.com/shorts/JgFHVPLQN00?feature=share 
 
 A California Garibaldi protecting its nest. 
 
-But the courtship doesn't end with the dance. Once the female is wooed and the eggs are laid, the male Garibaldi takes on the role of a nurturing parent. He stands guard over the eggs, fanning them with his [pectoral fins](<https://fishionary.fisheries.org/pectoral-fins/>) to ensure they are well-oxygenated. He even goes to the extent of confronting divers or other fish that venture too close to his precious brood.
+Once the eggs are laid, the female leaves, and the male takes over. He guards the eggs and fans them with his [pectoral fins](<https://fishionary.fisheries.org/pectoral-fins/>) to keep fresh, oxygenated water moving over them. He'll charge other fish that come too close, and he'll charge divers too.
 
-The Garibaldi's territorial nature also extends to a curious interaction with humans. Despite their fierceness in protecting their domain, these fish are known to approach divers, examining them with an inquisitive gaze. This friendliness, coupled with their radiant color, makes them a favorite subject among underwater photographers.
+Oddly, that same aggressive fish is often curious about people. Garibaldi will swim right up to a diver's mask to check them out, which, along with that color, makes them a favorite of underwater photographers.
 
-“The only thing that seems to affect their fearless behavior is the color of the animal that’s approaching them,” said [Cabrillo Marine Aquarium](<http://www.cabrillomarineaquarium.org/>) (CMA) Research Curator Dr. Kiersten Darrow. “They will attack everybody else, but if they see that it’s a garibaldi fish of a certain type then they will back away.”
+"The only thing that seems to affect their fearless behavior is the color of the animal that's approaching them," said Dr. Kiersten Darrow, research curator at the [Cabrillo Marine Aquarium](<http://www.cabrillomarineaquarium.org/>). "They will attack everybody else, but if they see that it's a garibaldi fish of a certain type then they will back away."
 
 ![](https://californiacurated.com/wp-content/uploads/2023/08/female-garibaldi.jpeg?w=250)Female California Garibaldi
 
-Perhaps even more fascinating is the Garibaldi's voice – a distinctive thumping sound that some divers have reported hearing. Though the exact reason for this sound is not entirely understood, it's believed to be related to their territorial behavior, adding another layer to the mystique of this remarkable fish.
+They make noise, too. Divers sometimes hear a garibaldi thumping, a sound that seems to be part of defending its territory, although nobody is entirely sure what it means.
 
-Beyond its engaging behaviors, the Garibaldi's story carries a note of triumph in conservation. Its popularity led to overfishing in the past, which spurred protective measures. Today, the Garibaldi enjoys protected status in California waters, safeguarding it from harm and allowing it to thrive.
-
-A testament to resilience, the Garibaldi can live for over 20 years, growing slowly and reaching full maturity at about six years of age. This longevity, coupled with its unique characteristics, makes it a symbol of the diverse and vibrant marine life that graces California's coastline.
+Being this easy to spot and this easy to catch once made garibaldi a target, and overfishing for the aquarium trade led to the protections they have today. They're slow growers. A garibaldi takes about six years to mature and can live more than 20 years, so a fish guarding a nest off Catalina might easily be older than some of the kids snorkeling over it.
 
 ![](https://californiacurated.com/wp-content/uploads/2023/08/catalina-island.jpg?w=1024)Catalina Island and Casino Point (Erik Olsen)
 
-In the world of marine biology, where hidden wonders often lie beneath the waves, the Garibaldi emerges as a charismatic star. With its bold color, intricate courtship rituals, protective parenting, and friendly curiosity, it captures the imagination, not just as a beautiful spectacle but as a complex character in the grand tapestry of ocean life. Whether seen during a dive or behind the glass of an aquarium, the Garibaldi remains a fascinating glimpse into the rich and often surprising world beneath the sea. 
+If you get a chance, go see one. Put your face in the water off Catalina, and odds are a garibaldi will come over to see who you are.
 
 ![](https://californiacurated.com/wp-content/uploads/2024/09/beach-coffee-1.png?w=500)
 
