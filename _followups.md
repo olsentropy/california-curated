@@ -114,6 +114,18 @@ Currently hot-linking from Wikipedia, NOAA, Flickr, Substack CDN. Pros: stable h
 ### 18. Build the Videos section (YouTube + Instagram)
 Discussed but not built. Decision needed: homepage section vs dedicated `/videos` page; manual list vs API-fetched; how many videos to feature.
 
+### 19. Verify Dibblee/Pinnacles–Neenach attribution (flagged Oct 12, 2026)
+`rocks-in-motion-pinnacles-national-park-...-thomas-dibblee-jr-...md` credits Dibblee (with Mason Hill) with matching Pinnacles volcanics to the Neenach volcanic field. Hill & Dibblee (1953) argued for hundreds of miles of San Andreas offset from other correlations; the Pinnacles–Neenach match is usually credited to Vincent Matthews (1970s). Erik to confirm before any change. (The Plate Tectonics article was already reworded neutrally.)
+
+### 20. Open items from the Oct 2026 AI-rewrite pass
+- Unverified claims kept with hedges: Toyon (Cahuilla mourning use, "pinole"), Voyager (JPL worked with RCA Records on master disc), Joshua Tree (roots 30 ft down / 36 ft out), Oaks ("hundreds of species", "50 lb CO2/yr" come from a British source).
+- Oppenheimer hero image is AI-generated ("olsentropy_...") but reads as a 1940s photo; consider an archival replacement.
+- Ivanpah: update the Feb 2025 closure note with what actually happened.
+- Desalination: confirm current status of Doheny (Dana Point) and Cal-Am (Marina) plants.
+- 2026 Huntington article: consider adding the dudleya-poaching section from the retired 2024 Desert Garden piece.
+- Blythe Intaglios seoTitle has a grammar slip ("the California's Nazca Lines").
+- Rewrites have not been mirrored to Substack.
+
 ---
 
 ## Reference

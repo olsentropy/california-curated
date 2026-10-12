@@ -1,7 +1,8 @@
 ---
-title: "The California Gull is the Unsung Hero of Feathered Adaptability and Ecological Balance"
-description: "Imagine a bird that’s not only a reliable fixture on both coastal and inland landscapes, but also a winged hero with a knack for saving ecosystems…"
+title: "The California Gull, Utah’s State Bird, Has a Surprisingly Big Story"
+description: "The California gull looks like an average gull, but it’s Utah’s state bird, the hero of a pioneer “miracle” and a symbol of the fight to save Mono Lake."
 pubDate: 2023-10-06
+updatedDate: 2026-10-12
 heroImage: "https://californiacurated.com/wp-content/uploads/2023/10/california-gull-2.jpeg"
 wpId: 2658
 wpSlug: "the-california-gull-the-unsung-hero-of-feathered-adaptability-and-ecological-balance"
@@ -10,24 +11,23 @@ tags: ["animals", "birds", "california", "environment"]
 author: "Erik Olsen"
 ---
 
-
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
-Imagine a bird that's not only a reliable fixture on both coastal and inland landscapes, but also a winged hero with a knack for saving ecosystems and crops alike. Meet the California gull, a seemingly unassuming creature that's the avian equivalent of a Toyota Camry: dependable, middle-of-the-road, and surprisingly full of stories. Far from just another seabird scrounging for scraps, this versatile gull is a fascinating study in adaptability, ecological impact, and even historical significance. 
+The California gull is the Toyota Camry of birds: medium-sized, medium-gray, totally dependable and easy to overlook. You've seen thousands of them on beaches and in parking lots. But this unremarkable-looking bird has a surprisingly good story, including a starring role in a pioneer miracle and a bitter fight over water. 
 
-Birdwatching might be dismissed as a pedestrian hobby, but when you dive into the details, it's a riveting blend of science, art, and natural history. Take the task of identifying a gull, for instance. You might think all gulls are created equal, but you'd be sorely mistaken. From the curvature of the bill to the tint of the feathers, each species presents its own unique set of traits. And in this realm, the California gull is the embodiment of middle-of-the-road reliability..
+Telling gulls apart is one of the harder skills in birding. The differences come down to things like the shape of the bill, the exact shade of gray on the back and the color of the legs. And on just about every one of those, the California gull is right in the middle.
 
 ![](https://californiacurated.com/wp-content/uploads/2023/10/gull.jpeg?w=624)
 
-The California gull's bill is a case study in avian averageness: not too long, not too short, but just right. Then there's the back—a shade of gray that’s neither too dark nor too light. Size-wise, it's comfortably nestled between the imposing giants and the pint-sized runts of the gull family. Even its legs are a kind of Goldilocks yellow—nothing too flashy or understated. The same goes for its migration pattern. This bird isn't setting any long-distance records like the ambitious Arctic terns, nor is it stubbornly clinging to a single geographical point year-round. It moves around a reasonable amount—perhaps 500 to 1,000 miles—but always makes it back to familiar territory in good time.
+Its bill is medium length. Its back is medium gray. It's medium-sized for a gull. Even its legs are a middling yellowish-green. It doesn't migrate across the planet like an Arctic tern, and it doesn't stay put either. It moves maybe 500 to 1,000 miles between where it breeds and where it winters.
 
 ![](https://californiacurated.com/wp-content/uploads/2023/10/california-gull.jpeg?w=1024)California gull. (_Larus californicus_) Image: Wikipedia 
 
-And where might you spot this paragon of mediocrity? Well, in winter, they're pretty much where you’d expect any self-respecting gull to be: on beaches, in harbors, hanging around landfills, playgrounds, and fields, or perhaps looking for morsels in tide pools and kelp beds. Come early summer, many venture inland to breed, but they generally make it back to their stomping grounds before the first school bell rings in September.
+In winter, you'll find them wherever gulls hang out: beaches, harbors, landfills, parking lots, fields and tide pools. In spring, many head inland to breed at lakes across the West, then come back to the coast by late summer.
 
 [![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
-Yet for a bird that's so unassuming, the California gull enjoys a surprising level of fame. Case in point: it's the [state bird of Utah](<https://onlinelibrary.utah.gov/utah/symbols/bird/#:~:text=The%20California%20gull%2C%20Larus%20californicus,it%20as%20the%20sea%20gull.>), not California. That honor was bestowed upon it for its historical role during the initial Mormon settlement. The [Sea Gull Monument in Salt Lake City](<https://ensignpeakfoundation.org/seagull-monument/>) honors the gull, who saved the people of Utah by consuming the Rocky Mountain crickets which were destroying all the crops in 1848. Quote from monument:
+Here's the twist: the California gull is the [state bird of Utah](<https://onlinelibrary.utah.gov/utah/symbols/bird/#:~:text=The%20California%20gull%2C%20Larus%20californicus,it%20as%20the%20sea%20gull.>), not California. In 1848, swarms of Mormon crickets (actually a big, flightless katydid) were devouring the first crops planted by Mormon pioneers in the Salt Lake Valley, and then flocks of gulls arrived and ate them. The [Sea Gull Monument in Salt Lake City](<https://ensignpeakfoundation.org/seagull-monument/>) tells the story:
 
 "The Mormon pioneers planted crops in the spring of 1848, after suffering great hunger during their first winter in the Salt Lake Valley. As the crops ripened, hordes of devouring crickets descended upon them from the foothills east of the valley. The Saints fought them with clubs, fire, and water. As they despaired of saving the next winter's food, their prayers for deliverance from almost sure starvation were answered when thousands of sea gulls came to feed on the crickets. The Sea Gull Monument commemorates this modern-day miracle. The sea gull is now the Utah State bird."
 
@@ -35,11 +35,11 @@ Yet for a bird that's so unassuming, the California gull enjoys a surprising lev
 
 <div class="kofi-cta"><a class="kofi-button" href="https://ko-fi.com/californiacurated" target="_blank" rel="noopener noreferrer"><span class="kofi-icon" aria-hidden="true">☕</span>Buy us a cup of coffee? We'd appreciate it!</a></div>
 
-Moreover, the California gull has been an ecological hero in other ways. At [Mono Lake](<http://www.parks.ca.gov/monolake/>) in the Eastern Sierras of California, the gull has had a significant impact on bringing the lake back to life. (The lake is also known for its [microbial aliens](<https://californiacurated.com/2023/02/24/the-aliens-of-mono-lake/>).) In the early part of the 20th century, Los Angeles' voracious appetite for water led to shady deals by William Mulholland to secure access to Owens Lake. Declining water levels at Mono Lake threatened the gull population that nested there. But a decisive legal victory by the [Save the Mono Lake Committee](<https://www.monolake.org/>) has ensured the lake is now maintained at healthier water levels, benefiting not just gulls but the entire ecosystem.
+California gulls also became a symbol in one of the state's great environmental fights. [Mono Lake](<http://www.parks.ca.gov/monolake/>), in the Eastern Sierra, is one of their most important breeding sites. (It's also known for its [microbial aliens](<https://californiacurated.com/2023/02/24/the-aliens-of-mono-lake/>).) Starting in 1941, Los Angeles diverted the streams that feed the lake into its aqueduct, and the lake started to drop. By the late 1970s, it had fallen so far that a land bridge connected the shore to Negit Island, where thousands of gulls nested, and coyotes walked across and raided the colony. The gulls became a rallying point for the [Mono Lake Committee](<https://www.monolake.org/>), which fought Los Angeles in court for years. In 1994, the state ordered the city to let the lake rise again, and it's been slowly coming back since.
 
 ![](https://californiacurated.com/wp-content/uploads/2023/10/mono-lake.jpg?w=1024)Mono Lake Photo: Erik Olsen
 
-However, it's not all sunny skies for this winged wonder. In the salt pans of South San Francisco Bay, [the number of nesting California gulls has exploded](<https://www.mercurynews.com/2013/07/17/bay-area-sea-gull-population-explodes-bringing-flocks-of-problems/>)—from a mere 24 nests in 1980 to a staggering 45,000 today. It's a population boom that's become a double-edged sword. With so many beaks to feed, the California gulls have taken to dining on their neighbors, including baby terns. This poses an ethical conundrum: when is it time to intervene and cull one species to protect another? A tough question—it's a slippery slope that could eventually loop back to us humans, as we ponder our role in this intricately balanced web of life.
+Sometimes there can be too many gulls. In the old salt ponds of South San Francisco Bay, [California gull nests exploded](<https://www.mercurynews.com/2013/07/17/bay-area-sea-gull-population-explodes-bringing-flocks-of-problems/>) from just 24 in 1980 to tens of thousands by 2013, fed in part by nearby landfills. And all those gulls have been eating the chicks of other birds, including endangered terns and plovers. It's a tricky problem: when, if ever, should we step in and control one native species to protect another? Not bad for a bird most people never look at twice.
 
 ![](https://californiacurated.com/wp-content/uploads/2024/09/beach-coffee-1.png?w=500)
 
