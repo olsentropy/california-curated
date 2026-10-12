@@ -8,6 +8,7 @@ wpSlug: "chromatics-and-cognition-the-intriguing-world-of-the-california-two-spo
 categories: ["animals", "biology", "marine-science"]
 tags: ["animals", "california", "cephalopods", "environment", "marine-science", "octopus", "two-spot-octopus"]
 author: "Erik Olsen"
+draft: true
 ---
 
 ## A Model Organism Advancing Research in Genomics and Behavioral Science

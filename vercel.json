@@ -12,6 +12,26 @@
   ],
   "redirects": [
     {
+      "source": "/blog/chromatics-and-cognition-the-intriguing-world-of-the-california-two-spot-octopus/",
+      "destination": "/blog/californias-two-spot-octopus-is-the-alien-mind-off-shore/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/chromatics-and-cognition-the-intriguing-world-of-the-california-two-spot-octopus",
+      "destination": "/blog/californias-two-spot-octopus-is-the-alien-mind-off-shore/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/whale-falls-a-deep-sea-spectacle-off-the-california-coast/",
+      "destination": "/blog/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing/",
+      "permanent": true
+    },
+    {
+      "source": "/blog/whale-falls-a-deep-sea-spectacle-off-the-california-coast",
+      "destination": "/blog/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing/",
+      "permanent": true
+    },
+    {
       "source": "/wp-content/uploads/cms/:path*",
       "destination": "/wp-content/uploads/media/:path*",
       "permanent": true
@@ -408,7 +428,7 @@
     },
     {
       "source": "/2024/07/17/whale-falls-a-deep-sea-spectacle-off-the-california-coast/",
-      "destination": "/blog/whale-falls-a-deep-sea-spectacle-off-the-california-coast/",
+      "destination": "/blog/california-has-a-huge-whale-graveyard-off-the-coast-and-that-s-not-a-terrible-thing/",
       "permanent": true
     },
     {
@@ -528,7 +548,7 @@
     },
     {
       "source": "/2025/01/15/chromatics-and-cognition-the-intriguing-world-of-the-california-two-spot-octopus/",
-      "destination": "/blog/chromatics-and-cognition-the-intriguing-world-of-the-california-two-spot-octopus/",
+      "destination": "/blog/californias-two-spot-octopus-is-the-alien-mind-off-shore/",
       "permanent": true
     },
     {

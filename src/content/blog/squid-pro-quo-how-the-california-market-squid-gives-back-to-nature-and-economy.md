@@ -15,7 +15,7 @@ author: "Erik Olsen"
 
 The ocean's depths are filled with mysterious and fascinating creatures, but few have made quite the splash in both nature and culture as the squid. Sleek, swift, and full of surprises, these little cephalopods are not only culinary favorites but also masters of survival in the ever-changing marine world. 
 
-The California market squid, scientifically known as _Doryteuthis opalescens_ , is an integral component of the marine ecosystem and significantly contributes to California's economy. Although these cephalopods may not captivate public imagination as vividly as their larger, more enigmatic cousins like the giant squid, or even California's charismatic [Two-Spotted Octopus](<https://californiacurated.com/2023/11/29/chromatics-and-cognition-the-intriguing-world-of-the-california-two-spot-octopus/>), their role is both ecologically and economically invaluable.
+The California market squid, scientifically known as _Doryteuthis opalescens_ , is an integral component of the marine ecosystem and significantly contributes to California's economy. Although these cephalopods may not captivate public imagination as vividly as their larger, more enigmatic cousins like the giant squid, or even California's charismatic [Two-Spotted Octopus](</blog/californias-two-spot-octopus-is-the-alien-mind-off-shore/>), their role is both ecologically and economically invaluable.
 
 [![](https://californiacurated.com/wp-content/uploads/2025/06/california-curated-etsy-store-ad.jpg?w=1024)](<https://www.etsy.com/shop/CaliforniaCuratedUS>)
 
