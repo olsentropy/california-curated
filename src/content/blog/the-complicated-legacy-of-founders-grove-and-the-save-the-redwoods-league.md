@@ -16,7 +16,7 @@ tags:
   - California
   - Save the Redwoods League
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 I recently took one of those great California road trips that reminds you just how astonishing this state is. After dropping my daughter off for her freshman year at the University of Washington, I drove south from Seattle to Los Angeles.
