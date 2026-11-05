@@ -17,7 +17,7 @@ tags:
   - California Coast
   - garibaldi
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 Hammerhead sharks [have been spotted](https://www.youtube.com/shorts/hCS5tKTH96c) off Los Angeles and Ventura counties. A whale shark appeared off Malibu. Dorado (mahi-mahi) have been swimming near the Southern Channel Islands. On September 16, [an olive ridley sea turtle](https://www.cnn.com/2026/09/24/climate/tropical-sea-turtles-california) crawled onto the sand near Seal Beach and laid its eggs. Three days later, another nested near the Huntington Beach Pier.
@@ -26,7 +26,7 @@ Orcas have been spotted off Newport Beach, too. And the crew of the fishing boat
 
 [![](/wp-content/uploads/media/03_650_pound_bluefin.jpg)](https://substackcdn.com/image/fetch/$s_!QIZg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3899b50-3d12-415b-9eaf-8428be3f70dc_982x736.jpeg)
 
-Captain Gary Adams and the crew of the Rail Time with a bluefin tuna weighed at 650 pounds at Catalina Island on October 17, 2026. (Photo: Bill Larkin / Western Outdoor News)
+_Captain Gary Adams and the crew of the Rail Time with a bluefin tuna weighed at 650 pounds at Catalina Island on October 17, 2026. (Photo: Bill Larkin / Western Outdoor News)_
 
 Then came the [longfin bigeye fish](https://www.reuters.com/sustainability/cop/exotic-species-appear-off-california-thanks-an-unusually-strong-el-nio-2026-10-17), recently caught by an angler off Venice Pier. It was the first recorded sighting of that species in California history. The find was so unusual the fish is now part of the Ichthyology Collection at the Natural History Museum of Los Angeles County. Even a venomous [yellow-bellied sea snake](https://www.cbsnews.com/losangeles/news/venomous-sea-snake-washes-up-on-orange-county-beach/) turned up on an Orange County beach in September. These tropical snakes rarely reach California.
 
@@ -38,7 +38,7 @@ In Monterey Bay, diver and photographer [Pat Webster](https://www.instagram.com/
 
 [![](/wp-content/uploads/media/garibaldi.jpg)](https://substackcdn.com/image/fetch/$s_!ygz4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffa72e29f-f237-47e8-abf2-f97edd73b118_2164x1520.jpeg)
 
-A juvenile garibaldi in Monterey Bay, where sightings of the species have historically been extremely rare. Diver and photographer Pat Webster recently documented an unusual arrival of these young fish. (Photo: Pat Webster.)
+_A juvenile garibaldi in Monterey Bay, where sightings of the species have historically been extremely rare. Diver and photographer Pat Webster recently documented an unusual arrival of these young fish. (Photo: Pat Webster.)_
 
 For anyone who follows California’s ocean life, this is crazy. I’ve spent much of my life in and around these waters, and while I do recall hearing about the occasional orca breaching off Newport, I’ve never seen or heard about this many animals coming this far north. Yes, I know we’ve had El Niños in the past. Yes, I know we’ve had strange animal sightings, but this is on another level.
 
@@ -46,7 +46,7 @@ As I wrote last week in [my piece](https://californiacurated.substack.com/p/the-
 
 [![](/wp-content/uploads/media/Malibu_Hammerhead.jpg)](https://substackcdn.com/image/fetch/$s_!h4y4!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Facc04f2e-5123-485d-800c-2a784645dc63_1280x720.jpeg)
 
-A hammerhead shark swims beside Malibu Pier on August 13, 2026. Fisherman Ari Kohanchi recorded the unusual visitor from the pier. (**Credit:** Video still: Ari Kohanchi / PierMackerel, via ABC7.)
+_A hammerhead shark swims beside Malibu Pier on August 13, 2026. Fisherman Ari Kohanchi recorded the unusual visitor from the pier. (**Credit:** Video still: Ari Kohanchi / PierMackerel, via ABC7.)_
 
 For example, for the animals already living here, warmer water can mean trouble. California’s marine abundance depends heavily on cold water rising from below. It’s called upwelling. That water carries nutrients that support phytoplankton. Small fish and zooplankton eat the phytoplankton. Larger fish and larger marine mammals eat them. So an El Niño can weaken the nutrient supply and leave many different animals struggling to find enough food.
 
@@ -54,7 +54,7 @@ As NOAA [puts it](https://oceanservice.noaa.gov/facts/ninonina.html): “During 
 
 [![](/wp-content/uploads/media/02_venice_bigeye.jpg)](https://substackcdn.com/image/fetch/$s_!kMe8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fec5e1595-0cb8-46e7-be6a-0baafef1ff2a_815x611.jpeg)
 
-A longfinned bigeye caught by Julius Cardines at Venice Fishing Pier marks the species’ first recorded appearance in California. The specimen is now part of the Natural History Museum of Los Angeles County’s collection. (Photo: Julius Cardines.)
+_A longfinned bigeye caught by Julius Cardines at Venice Fishing Pier marks the species’ first recorded appearance in California. The specimen is now part of the Natural History Museum of Los Angeles County’s collection. (Photo: Julius Cardines.)_
 
 Along these lines, [another guy I follow](https://www.instagram.com/p/DerZmScve1w/) on Instagram in San Diego has posted about the stunning clarity of the water in La Jolla. That probably means fewer phytoplankton, which often contribute to murkiness. Despite the influx of rare creatures, I worry Southern California may soon see a very different story: significant marine die-offs.
 
