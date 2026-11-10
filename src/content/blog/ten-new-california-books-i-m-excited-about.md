@@ -16,7 +16,7 @@ tags:
   - Tin Can Coast
   - Mono Lake Basin
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 I’m always keeping an eye out for new California books. Books can be a treasure trove for new ideas to write about, new ways to see the world around you. I read a lot of non-fiction, and I constantly find small details buried in a chapter here and there, or encounter the work of a scientist I’ve never heard of, and voila, I’ve got a new story to research.
@@ -29,9 +29,9 @@ I should add here that two independent publishers publish exceptional books abou
 
 And so, these are ten recent and forthcoming books that have caught my attention. Other than _[Tin Can Coast](https://link.amazon/B078x2KjF)_, I haven’t read any of them. I am just flagging them for you to check out for yourself.
 
-Hey maybe we do a California Curated book club? 🤔
+Hey, maybe we do a California Curated book club? 🤔
 
-\[[![](https://substackcdn.com/image/fetch/$s_!N3bf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7bfaac3-a426-4aa0-a6b3-f3716e212163_571x800.jpeg)](https://link.amazon/B05j2qq4P)
+[![](https://substackcdn.com/image/fetch/$s_!N3bf!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7bfaac3-a426-4aa0-a6b3-f3716e212163_571x800.jpeg)](https://link.amazon/B05j2qq4P)
 
 **[California Inside Out: Mapping an Ecology of Mind](https://link.amazon/B05j2qq4P)**
 
@@ -39,7 +39,7 @@ By Obi Kaufmann
 
 If you are unfamiliar with Obi Kaufmann, you should change that. Kaufmann has spent years water painting, mapping, and thinking about California’s forests, deserts, and coast. We mentioned his trilogy among our favorite California books. In this new volume, he examines how language, assumptions, and habits shape how we perceive the land and influences what we’re willing to protect. His watercolors are always stunning. I think he’s one of the great author/artists alive today, so I am excited to get my hands on this one. I enjoy how he compels us to understand California through its living systems, all of which are intertwined.
 
-\[[![](https://substackcdn.com/image/fetch/$s_!4VAj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9fb09b7-98a0-4cf6-a8ff-af5b7c721dd7_1339x2048.jpeg)](https://link.amazon/B078x2KjF)
+[![](https://substackcdn.com/image/fetch/$s_!4VAj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc9fb09b7-98a0-4cf6-a8ff-af5b7c721dd7_1339x2048.jpeg)](https://link.amazon/B078x2KjF)
 
 **[Tin Can Coast: A History of Industry, Greed, and Fishing in the Golden State](https://link.amazon/B078x2KjF)**
 
@@ -63,7 +63,7 @@ By Miriam Pawel
 
 California is a [Nobel science powerhouse](https://californiacurated.substack.com/p/california-is-a-nobel-powerhouse). The University of California system alone counts 75 Nobel Prizes among its faculty and researchers, putting it at or near the top of all 50 states. I’ve learned writing this newsletter that if you spend any time reporting on California science, you will find your way back to the University of California. Pawel’s expansive book traces the University of California’s growth through its political battles and struggles over access, while bringing to life graduates whose achievements reflect the system’s extraordinary breadth. It’s a history of a university system that helped shape the state, but also the world. University systems all over the planet try to imitate the UC’s success.
 
-\[[![](https://substackcdn.com/image/fetch/$s_!8Hge!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F251938b5-abbf-402a-9d2b-319c1fbe88a2_723x1080.jpeg)](https://link.amazon/B06li55wn)
+[![](https://substackcdn.com/image/fetch/$s_!8Hge!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F251938b5-abbf-402a-9d2b-319c1fbe88a2_723x1080.jpeg)](https://link.amazon/B06li55wn)
 
 **[Golden State: The Making of California](https://link.amazon/B06li55wn)**
 
@@ -71,7 +71,7 @@ By Michael Hiltzik
 
 This is more history than science or nature, but you can’t really talk about one without the other. Hiltzik tries to explain how California became California, from Spanish colonization and the Gold Rush to agriculture, mining, oil, Hollywood, and Silicon Valley. The California dream is a story of ambition, often reckless; of stunning failure and cataclysm; and of rebirth and reinvention. Even today, perhaps especially today, California is still grappling with issues of dispossession and exclusion, as well as gnarly battles over wealth and power. I expect I’ll take on this book at some point, though several other California history books, including Kevin Starr’s, are waiting on my shelf. I mention Pawel’s book because it looks like a valuable new addition to the genre.
 
-\[[![](https://substackcdn.com/image/fetch/$s_!GWnu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ca5275c-3d54-4a8a-b882-b5e49ab40897_400x400.jpeg)](https://link.amazon/B03X4svhV)
+[![](https://substackcdn.com/image/fetch/$s_!GWnu!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ca5275c-3d54-4a8a-b882-b5e49ab40897_400x400.jpeg)](https://link.amazon/B03X4svhV)
 
 **[Firestorm: The Great Los Angeles Fires and America’s New Age of Disaster](https://link.amazon/B03X4svhV)**
 
@@ -79,7 +79,7 @@ By Jacob Soboroff
 
 This is one I have in audiobook format, but have not listened to yet. But it is very timely and important given the issues we’ve had with wildfire over the last decade or so. Soboroff covered the January 2025 Los Angeles fires as both a reporter and someone who watched his hometown burn. He reports from the ground after the Palisades and Eaton fires, capturing wildfire’s human toll and how a single spark can change lives in an instant. For those of us in Southern California, issues of wildfire are a near daily concern. Even though the answers are sometimes obvious, it’s sometimes worth asking how we become so vulnerable, and what does it take to be better prepared?
 
-\[[![](https://substackcdn.com/image/fetch/$s_!eTZd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcb9d59a-da94-42e6-9ea5-3ca843d568dc_1356x2048.jpeg)](https://link.amazon/B0cIurjCU)
+[![](https://substackcdn.com/image/fetch/$s_!eTZd!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdcb9d59a-da94-42e6-9ea5-3ca843d568dc_1356x2048.jpeg)](https://link.amazon/B0cIurjCU)
 
 **[Yosemite Falls: Reckoning with California History and the Gospel of John Muir](https://link.amazon/B0cIurjCU)**
 
@@ -87,7 +87,7 @@ By Daniel Duane
 
 For Duane’s family, Yosemite was sacred ground, and John Muir helped wrote the scripture. This is a memoir of rock climbing and family life that also delves into the history behind the devotion to the outdoors. There’s a darker side to the story, of course. There almost always is. There’s that all to common question: what happens when you love a place, but then learn things that complicate the story you grew up with?
 
-\[[![](https://substackcdn.com/image/fetch/$s_!paHl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cef3c61-5fc2-422d-9811-80a64d29c6a7_518x800.jpeg)](https://link.amazon/B016iPgRZ)
+[![](https://substackcdn.com/image/fetch/$s_!paHl!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6cef3c61-5fc2-422d-9811-80a64d29c6a7_518x800.jpeg)](https://link.amazon/B016iPgRZ)
 
 **[The Mysterious World of the Bull Kelp Forest](https://link.amazon/B016iPgRZ)**
 
@@ -95,7 +95,7 @@ By Josie Iselin, illustrated by Ellen Litwiller
 
 As a diver, I love kelp forests. It’s heartbreaking to watch California’s bull kelp disappear. Just offshore, they are the foundation of a hidden world, an entire ecosystem of creatures. Iselin and Litwiller tell the story of bull kelp and its impact on California’s off-shore environment and all the critters that make California so special: abalone, rockfish, urchins, sea stars, otters, all an important part of the North Pacific coast. I’m looking forward to this one. It sounds fascinating, and the illustrations look beautiful.
 
-\[[![](https://substackcdn.com/image/fetch/$s_!CNsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28667985-03a6-48d0-b468-714d727c6dcf_1366x2048.jpeg)](https://link.amazon/B07qTzk9q)
+[![](https://substackcdn.com/image/fetch/$s_!CNsL!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F28667985-03a6-48d0-b468-714d727c6dcf_1366x2048.jpeg)](https://link.amazon/B07qTzk9q)
 
 **[Deep Time in the Mono Lake Basin: Nature and History over the Last 10,000 Years](https://link.amazon/B07qTzk9q)**
 
@@ -103,7 +103,7 @@ By Robert B. Marks
 
 I’ve probably been to Mono Lake 100 times. I walk the shore, step through clouds of alkali flies, and marvel at the stunning, otherworldly tufa towers. But the basin has a history that reaches beyond the salty shoreline. Marks delves into the region’s ecology, the history of the Kootzaduka’a people, hydroelectric development, and the diversion of water to Los Angeles that almost ruined the lake. Then he follows the effort to repair the damage. I’ve written here about Mono Lake, and this looks like a chance to gain a better understanding of the people and decisions that shaped it.
 
-\[[![About 1 — Nathaniel Philbrick](https://substackcdn.com/image/fetch/$s_!PNDt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf60f8dd-5ca7-4764-a695-753bd68eb565_364x549.jpeg "About 1 — Nathaniel Philbrick")](https://link.amazon/B08HJyHPP)
+[![About 1 — Nathaniel Philbrick](https://substackcdn.com/image/fetch/$s_!PNDt!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf60f8dd-5ca7-4764-a695-753bd68eb565_364x549.jpeg "About 1 — Nathaniel Philbrick")](https://link.amazon/B08HJyHPP)
 
 **[The Rush: California Gold, the Civil War, and the Making of the Modern World](https://link.amazon/B08HJyHPP)**
 
