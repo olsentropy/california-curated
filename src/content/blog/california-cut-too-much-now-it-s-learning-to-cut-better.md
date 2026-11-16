@@ -17,7 +17,7 @@ tags:
   - Scotia
   - Humboldt Sawmill
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 I recently drove back to Los Angeles from Seattle, and spent over a week making my way through California from north to south, stopping to film and work on stories for California Curated.
@@ -30,9 +30,9 @@ California has an unusual abundance of trees. And a stunning variety of them. I 
 
 Our trees are a wonder, but they’ve also been a critical resource for more than a century and a half.
 
-[![](https://substackcdn.com/image/fetch/$s_!jA16!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bf2532c-7d2e-4697-81ed-1e70ff1cf146_2160x3840.jpeg)](https://substackcdn.com/image/fetch/$s_!jA16!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bf2532c-7d2e-4697-81ed-1e70ff1cf146_2160x3840.jpeg)
+[![](/wp-content/uploads/media/me%20in%20redwoods.jpg)](https://substackcdn.com/image/fetch/$s_!jA16!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0bf2532c-7d2e-4697-81ed-1e70ff1cf146_2160x3840.jpeg)
 
-Among the redwoods, some of the most magnificent organisms on Earth. (Photo: Erik Olsen)
+_Among the redwoods, some of the most magnificent organisms on Earth. (Photo: Erik Olsen)_
 
 Redwood is uniquely resistant to decay and pests, making it an especially attractive building material. Redwoods helped create San Francisco. And after the earthquake and fire of 1906, redwood was a huge part of rebuilding it. The wood became houses, shingles, fences, and railroad ties. The native groups that lived here long before Europeans arrived also made extensive use of the state’s trees. California State Parks has an interesting [history](https://www.parks.ca.gov/pages/735/files/Human%20History%20ADA.pdf) on the subject.
 
@@ -40,25 +40,25 @@ The railroads brought more people. More people needed more houses. Between [1870
 
 Trees supplied much of the material for that growth. And they still do.
 
-[![](https://substackcdn.com/image/fetch/$s_!pOov!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe55ace00-ea5f-4709-944e-c0ce506d7963_2000x1500.jpeg)](https://substackcdn.com/image/fetch/$s_!pOov!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe55ace00-ea5f-4709-944e-c0ce506d7963_2000x1500.jpeg)
+[![](/wp-content/uploads/media/humboldt%20sign.jpg)](https://substackcdn.com/image/fetch/$s_!pOov!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe55ace00-ea5f-4709-944e-c0ce506d7963_2000x1500.jpeg)
 
-Outside the Humboldt Sawmill Company in Scotia, California. (Photo: Erik Olsen)
+_Outside the Humboldt Sawmill Company in Scotia, California. (Photo: Erik Olsen)_
 
 Douglas-fir, pine, and true fir account for the bulk of California’s timber harvest. They are quick-growing. Redwoods are still important on the North Coast. Oaks are part of the story, too, though conifers pretty much dominate the commercial lumber business. And the lumber business, although it’s had its ups and downs, is still a big industry in the state.
 
 A[ UC Agriculture and Natural Resources report](https://ucanr.edu/sites/default/files/2026-01/WorkingLandscapes-Compliant-Dec_0.pdf#page=37) puts California’s forestry sector at about 80,000 jobs in 2024. That includes $6.4 billion in worker salaries and $26.9 billion in total sales. The sector includes logging and sawmills, as well as wood and paper manufacturing. Overall, California’s timber harvest totaled [about 1.9 billion board feet in 2024](https://bber.umt.edu/FIR/HarvestCA.aspx?utm_source=chatgpt.com). That’s roughly enough timber to build 120,000 single-family homes.
 
-[![](https://substackcdn.com/image/fetch/$s_!FIkn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93e67f8f-c0d3-4981-a864-8091522f3eae_2000x1520.jpeg)](https://substackcdn.com/image/fetch/$s_!FIkn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93e67f8f-c0d3-4981-a864-8091522f3eae_2000x1520.jpeg)
+[![](/wp-content/uploads/media/minewa.jpg)](https://substackcdn.com/image/fetch/$s_!FIkn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F93e67f8f-c0d3-4981-a864-8091522f3eae_2000x1520.jpeg)
 
-The Winema Theater in Scotia, built in 1920 when Pacific Lumber’s company town was booming. (Photo: Erik Olsen)
+_The Winema Theater in Scotia, built in 1920 when Pacific Lumber’s company town was booming. (Photo: Erik Olsen)_
 
 During my drive, I stopped at [Scotia](https://maps.app.goo.gl/5XPLWfTk3dH6TBTG7), the lumber town where the Humboldt Redwood Company is located. It’s a massive complex. Some of the old mill buildings are falling apart, even as the modern sawmill keeps turning out lumber nearby. Scotia sits beside the Eel River in Humboldt County, just off Highway 101. It grew as a company town for Pacific Lumber. Humboldt Redwood Company took over the timberlands and mill in 2008, following PL’s bankruptcy.
 
 It’s nice, if a bit industrial and worn down. But there are signs of a richer past. I saw the Winema Theater and the former bank, now the Scotia Museum, which[ harken back to a time](https://www.nps.gov/redw/learn/historyculture/thenandnow1.htm) when lumber made this a more thriving place. By the 1920s, Scotia had a school, hospital, church, baseball teams. The mill was humming when I was there. Trucks hauled logs through the yard. Massive stacks of cut lumber towered three stories into the sky.
 
-[![](https://substackcdn.com/image/fetch/$s_!0c7h!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F681db949-1908-45cf-af54-10b833c44d34_2000x1500.jpeg)](https://substackcdn.com/image/fetch/$s_!0c7h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F681db949-1908-45cf-af54-10b833c44d34_2000x1500.jpeg)
+[![](/wp-content/uploads/media/HUMBOLDT%20REDWOODS%20PARK.jpeg)](https://substackcdn.com/image/fetch/$s_!0c7h!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F681db949-1908-45cf-af54-10b833c44d34_2000x1500.jpeg)
 
-Humboldt Redwoods State Park, where some of the last remaining redwoods have been protected. (Photo: Erik Olsen)
+_Humboldt Redwoods State Park, where some of the last remaining redwoods have been protected. (Photo: Erik Olsen)_
 
 The [Humboldt Sawmill](https://getredwood.com/our-story/) processes redwood and Douglas-fir products. That means framing lumber, decking, and large timbers. There are stacks of freshly-cut lumber everywhere. Homes are built with this stuff. Offices and stores. Towns. In a way, it’s amazing to ponder how much of our building still requires wood. The Scotia complex also uses wood byproducts to generate electricity.
 
@@ -68,9 +68,9 @@ But I was curious how much had changed.
 
 The more I read, the more encouraged I became. Its published practices and other documentation online suggest that we’ve moved on from the heavy cutting of the past. This may be obvious, but I still found it interesting once I dug in a little bit. I’m sure I missed a lot; there’s bound to be some unsavory practices still going on.
 
-[![](https://substackcdn.com/image/fetch/$s_!qkht!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae2bcf7b-3082-43e6-95d0-f050c7335afb_2000x1514.jpeg)](https://substackcdn.com/image/fetch/$s_!qkht!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae2bcf7b-3082-43e6-95d0-f050c7335afb_2000x1514.jpeg)
+![](/wp-content/uploads/media/redwoods%20old.jpeg)
 
-The redwoods have been a popular tourist destination for over a century. (Photo: NPS)
+_The redwoods have been a popular tourist destination for over a century. (Photo: NPS)_
 
 But from what I read, Humboldt Redwood Company is cutting less and letting more wood grow. Its[ annual harvest averaged 56 million board feet](https://hrcllc.com/wp-content/uploads/2025/01/HRC_fact_sheet_2025.pdf) from 2011 through 2024, down from 187 million under the previous owner. Existing trees keep growing. New ones are planted. The company says it has [planted more than two million seedlings since 2008](https://hrcllc.com/wp-content/uploads/2026/02/2_HRC_DataSheet_2025.pdf).
 
@@ -88,9 +88,9 @@ All of this gives me some confidence that we’re kind of figuring things out. T
 
 That said, I’ve still got some questions.
 
-[![](https://substackcdn.com/image/fetch/$s_!hfaF!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe948285e-9c7f-49e7-8e5a-0fef15672683_635x800.webp)](https://substackcdn.com/image/fetch/$s_!hfaF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe948285e-9c7f-49e7-8e5a-0fef15672683_635x800.webp)
+![](/wp-content/uploads/media/clearcut.webp)
 
-Aerial shot of clearcutting in California. (Public Domain)
+_Aerial shot of clearcutting in California. (Public Domain)_
 
 California’s[ forest practice rules](https://bof.fire.ca.gov/regulations-and-policies/bills-statutes-rules-and-annual-california-forest-practice-rules) still allow clearcutting under certain conditions. Seeing large swaths of clearcut acreage along the highway is heartbreaking. Also, old-growth logging is not totally prohibited on private timberlands. That’s a shame.
 
@@ -98,7 +98,7 @@ Humboldt Redwood Company’s approach isn’t that of every company in the state
 
 Of course, the North Coast’s damaged watersheds haven’t fully recovered. The[ Elk River](https://www.waterboards.ca.gov/northcoast/water_issues/programs/tmdls/elk_river/) is still affected by sediment and pollution. Better logging practices don’t undo decades of erosion caused by the irresponsible acts of the past.
 
-[![](https://substackcdn.com/image/fetch/$s_!_dsi!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ea9140d-0870-4408-8c77-d0253fe39add_2000x1125.jpeg)](https://substackcdn.com/image/fetch/$s_!_dsi!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4ea9140d-0870-4408-8c77-d0253fe39add_2000x1125.jpeg)
+![](/wp-content/uploads/media/humboldt%20lumber%202.jpg)
 
 _Another view of the Humboldt Sawmill Company’s complex in Scotia, California. (Erik Olsen)_
 
