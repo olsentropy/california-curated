@@ -1,6 +1,6 @@
 ---
 title: 'One Wilshire: Los Angeles’ Hidden Artery of the Internet'
-description: One Wilshire in downtown Los Angeles. I often discover these stories not from full articles, books, or podcasts, but from a single…
+description: One Wilshire in downtown Los Angeles is one of the most important buildings of the modern internet.
 pubDate: 2025-10-17
 updatedDate: ''
 heroImage: /wp-content/uploads/media/one wilshire.jpeg
