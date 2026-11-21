@@ -16,7 +16,7 @@ tags:
   - Tuna fishing
   - United Nations Convention on the Law of the Sea
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 I’ve been reading a lot lately about how we’ve exploited California’s natural resources, from [redwoods](https://californiacurated.substack.com/p/the-complicated-legacy-of-founders) and gold to sea otters, sardines, and tuna, often pushing them to the brink of collapse. It’s what my former New York Times colleague [Andy Revkin](https://revkin.substack.com/) recently called the “enough problem” in [a conversation we had here on Substack](https://revkin.substack.com/p/can-the-online-media-environment). It’s closely related to the [tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons), a concept made famous by ecologist Garrett Hardin: When a resource is available to everyone, at what point do we decide we’ve taken enough?
