@@ -55,7 +55,7 @@ Then, when I was nine, we moved to New Jersey. The environment in northwestern N
 
 That got me going in a scientific direction. Never any doubts about that. Science and natural history were there from the get-go.
 
-[![](https://substackcdn.com/image/fetch/$s_!Zhiw!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb32db65a-50e5-4009-aba3-0328a477b39e_1518x1252.png)](https://substackcdn.com/image/fetch/$s_!Zhiw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb32db65a-50e5-4009-aba3-0328a477b39e_1518x1252.png)
+[![](/wp-content/uploads/media/vermeij%20hands%202.png)](https://substackcdn.com/image/fetch/$s_!Zhiw!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb32db65a-50e5-4009-aba3-0328a477b39e_1518x1252.png)
 
 Geerat Vermeij holds a fossil shell damaged by a predator. Through touch, he reads a history in the shell that others might miss. (Photo: Erik Olsen)
 
@@ -75,9 +75,9 @@ Beauty, like power, has many dimensions. For me, having wonderful sculpture on t
 
 A lot of sighted people think shells are beautiful. Otherwise, they wouldn’t be collecting them. I think most people who get into shells have a pretty strong aesthetic sense, which in their case is probably more visual and, of course, deals with color. But I don’t think my sense is any greater than theirs. It’s different, but not greater.
 
-[![](https://substackcdn.com/image/fetch/$s_!TTU2!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50bef6eb-1fb2-4ed2-b076-0f74dd1f7c6e_1528x986.png)](https://substackcdn.com/image/fetch/$s_!TTU2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50bef6eb-1fb2-4ed2-b076-0f74dd1f7c6e_1528x986.png)
+[![](/wp-content/uploads/media/nyt%20book%20review%20vermeij.png)](https://substackcdn.com/image/fetch/$s_!TTU2!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50bef6eb-1fb2-4ed2-b076-0f74dd1f7c6e_1528x986.png)
 
-Vermeij is a voracious reader, all in Braille. (Photo: Erik Olsen)
+_Vermeij is a voracious reader, all in Braille. (Photo: Erik Olsen)_
 
 ### **On becoming a scientist**
 
@@ -99,7 +99,7 @@ I went to Yale because it had the [Peabody Museum of Natural History](https://pe
 
 Edith and my assistant read to me all the time. All these things in my cabinets and all over the place are manuscripts, books, things I’ve read. I’ve read something on the order of 30,000 papers and books over the years, and I have notes for all of them in Braille. That’s why my bibliographies tend to be long.
 
-[![](https://substackcdn.com/image/fetch/$s_!H53v!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F064427aa-7bc4-4caa-a32e-3ef31276caca_1474x1634.png)](https://substackcdn.com/image/fetch/$s_!H53v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F064427aa-7bc4-4caa-a32e-3ef31276caca_1474x1634.png)
+[![](/wp-content/uploads/media/vermeij%20drawing.png)](https://substackcdn.com/image/fetch/$s_!H53v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F064427aa-7bc4-4caa-a32e-3ef31276caca_1474x1634.png)
 
 A cartoon drawing on his wall. (Photo: Erik Olsen)
 
@@ -123,9 +123,9 @@ I had earlier recognized that many of the shells in the tropics, particularly in
 
 That was a revelatory event, and it essentially changed my career.
 
-[![](https://substackcdn.com/image/fetch/$s_!EfSB!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9eeaca0b-f22e-44da-b633-2123084d2d2e_2000x1500.jpeg)](https://substackcdn.com/image/fetch/$s_!EfSB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9eeaca0b-f22e-44da-b633-2123084d2d2e_2000x1500.jpeg)
+[![](/wp-content/uploads/media/gary%20vermeij.jpg)](https://substackcdn.com/image/fetch/$s_!EfSB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9eeaca0b-f22e-44da-b633-2123084d2d2e_2000x1500.jpeg)
 
-Vermeij in his home office in Davis, California, near UC Davis, where he joined the faculty in 1989 and taught for more than three decades. (Photo: Erik Olsen)
+_Vermeij in his home office in Davis, California, near UC Davis, where he joined the faculty in 1989 and taught for more than three decades. (Photo: Erik Olsen)_
 
 ### **On escalation**
 
@@ -141,9 +141,9 @@ There’s a famous idea that Dawkins and Krebs came up with in 1979, the so-call
 
 Escalation, in effect, is enemies running the show. Predators, or top competitors. The others adapt too, but they are more limited in their power. It’s the enemies that are running much of adaptive evolution.
 
-[![](https://substackcdn.com/image/fetch/$s_!Ry50!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5be0d5fa-ff90-4a79-9100-3a3fa1d44036_1650x2550.jpeg)](https://link.amazon/B0bTcMkn1)
+[![](/wp-content/uploads/media/natural%20history%20of%20shells%20vermeij.jpg)](https://link.amazon/B0bTcMkn1)
 
-Vermeij is the author of many books, including A Natural History of Shells.
+_Vermeij is the author of many books, including A Natural History of Shells._
 
 ### **On being a renegade**
 
