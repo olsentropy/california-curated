@@ -18,7 +18,7 @@ tags:
   - evolution
   - UC Davis
 author: Erik Olsen
-draft: true
+draft: false
 ---
 
 In September, my colleague Tod Mesirow and I drove to Davis and spent an afternoon with [Geerat Vermeij](https://nl.wikipedia.org/wiki/Geerat_J._Vermeij) at his home. Vermeij is one of the world’s great living malacologists, a scientist who studies mollusks. His discoveries about predation, adaptation, and evolutionary arms races changed how scientists read the history preserved in shells. Oh, and he’s blind.
